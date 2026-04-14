@@ -1,0 +1,120 @@
+文档场景：上市公司企业年报
+请优先使用背景中的标准叫法和术语。
+{
+  "document_background": {
+    "global_profile": {
+      "company_name_target": "AIA GROUP LIMITED",
+      "industry": "Life Insurance",
+      "report_type": "annual_report",
+      "report_year": 2020,
+      "style_keywords": [
+        "corporate governance",
+        "financial performance",
+        "stakeholder communication",
+        "ESG commitment"
+      ]
+    },
+    "page_sections": [
+      {
+        "target_section": "New Business Performance",
+        "content_type": "business_metrics",
+        "page_range": [
+          20,
+          21
+        ]
+      },
+      {
+        "target_section": "Group Chief Financial Officer's Review",
+        "content_type": "cfo_review",
+        "page_range": [
+          18,
+          30
+        ]
+      },
+      {
+        "target_section": "Financial and Operating Review",
+        "content_type": "financial_review",
+        "page_range": [
+          17,
+          30
+        ]
+      }
+    ],
+    "roles": [],
+    "terms": [
+      {
+        "source": "新業務價值",
+        "target": "New Business Value",
+        "abbreviation": "NBV",
+        "context": "financial_metric",
+        "confidence": "high"
+      }
+    ],
+    "style_rules": [
+      "Preserve financial terminology consistency",
+      "Use formal corporate register throughout",
+      "Maintain parallel structure in lists and tables",
+      "Preserve table structure and alignment",
+      "Translate table headers consistently with body text",
+      "Maintain footnote references and numbering",
+      "Convert currency units with precision"
+    ]
+  },
+  "matched_terms": [
+    {
+      "source": "友邦保險",
+      "target": "AIA"
+    },
+    {
+      "source": "新業務價值",
+      "target": "new business value"
+    },
+    {
+      "source": "新業務價值",
+      "target": "New Business Value"
+    }
+  ],
+  "current_unit": {
+    "page_no": 20,
+    "unit_id": "p20_g02",
+    "unit_mode": "semantic_group",
+    "block_types": [
+      "body",
+      "body",
+      "body",
+      "body",
+      "body"
+    ],
+    "blocks": [
+      {
+        "block_id": "p20_b21",
+        "source_text": "儘管2020年的新業務價值27.65億美元較2019年減少了33%，我們迅速採用了新的數碼工具，並且外出限制的普"
+      },
+      {
+        "block_id": "p20_b22",
+        "source_text": "遍放寬支持了銷售勢頭的恢復。友邦保險中國業務為2020年本集團的新業務價值帶來最大貢獻，也是我們第一個"
+      },
+      {
+        "block_id": "p20_b23",
+        "source_text": "顯示銷售勢頭有所恢復的報告分部，原因在於該地區自2020年3月逐步放寬嚴格的封鎖。撇除維持低位的中國內"
+      },
+      {
+        "block_id": "p20_b24",
+        "source_text": "地訪港旅客銷售額，本集團其他分部的新業務價值在下半年強勁復甦，與上半年相比增長了23%。本集團的新業"
+      },
+      {
+        "block_id": "p20_b25",
+        "source_text": "務發展勢頭在2021年持續強勁，首兩個月新業務價值較2020年同期高出15%。"
+      }
+    ],
+    "joined_source_text": "儘管2020年的新業務價值27.65億美元較2019年減少了33%，我們迅速採用了新的數碼工具，並且外出限制的普\n遍放寬支持了銷售勢頭的恢復。友邦保險中國業務為2020年本集團的新業務價值帶來最大貢獻，也是我們第一個\n顯示銷售勢頭有所恢復的報告分部，原因在於該地區自2020年3月逐步放寬嚴格的封鎖。撇除維持低位的中國內\n地訪港旅客銷售額，本集團其他分部的新業務價值在下半年強勁復甦，與上半年相比增長了23%。本集團的新業\n務發展勢頭在2021年持續強勁，首兩個月新業務價值較2020年同期高出15%。"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p20_g02",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

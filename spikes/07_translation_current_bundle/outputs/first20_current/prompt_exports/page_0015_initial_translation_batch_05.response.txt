@@ -1,0 +1,14 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p15_b26",
+      "translation": "In 2020, MSCI upgraded AIA's Environmental, Social and Governance rating to A, primarily due to our integration of environmental, social and governance factors into our invest"
+    },
+    {
+      "block_id": "p15_b27",
+      "translation": "ment function."
+    }
+  ]
+}
+```

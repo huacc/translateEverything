@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p19_g08",
+      "translation": "We remain confident in AIA's business opportunities across Asia-Pacific. We will continue deploying capital for profitable new business growth, leveraging competitive advantages while maintaining prudent financial management to deliver long-term shareholder value."
+    }
+  ]
+}
+```

@@ -1,0 +1,79 @@
+﻿请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。
+要求高保真、正式、可出版，不要摘要，不要解释。
+术语表和动态文档背景优先于自由翻译。
+只输出严格 JSON。
+{
+  "page_no": 20,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "relevant_terms": [
+    {
+      "source": "中國內地",
+      "target": "Mainland China"
+    },
+    {
+      "source": "新加坡",
+      "target": "Singapore"
+    },
+    {
+      "source": "馬來西亞",
+      "target": "Malaysia"
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "p20_b11",
+      "block_type": "body",
+      "source_text": "新加坡\n330\n63.4%\n520\n352\n65.5%\n538\n(5)%\n(6)%",
+      "line_count": 9,
+      "char_count": 41,
+      "region": "middle",
+      "font_size_avg": 8.5
+    },
+    {
+      "block_id": "p20_b12",
+      "block_type": "body",
+      "source_text": "馬來西亞\n222\n59.9%\n369\n258\n63.1%\n406\n(13)%\n(14)%",
+      "line_count": 9,
+      "char_count": 44,
+      "region": "middle",
+      "font_size_avg": 8.5
+    },
+    {
+      "block_id": "p20_b13",
+      "block_type": "body",
+      "source_text": "中國內地\n968\n80.9%\n1,197\n1,167\n93.5%\n1,248\n(17)%\n(17)%",
+      "line_count": 9,
+      "char_count": 50,
+      "region": "middle",
+      "font_size_avg": 8.5
+    },
+    {
+      "block_id": "p20_b14",
+      "block_type": "body",
+      "source_text": "其他市場\n514\n38.4%\n1,334\n535\n41.9%\n1,271\n(4)%\n(4)%",
+      "line_count": 9,
+      "char_count": 46,
+      "region": "middle",
+      "font_size_avg": 8.5
+    },
+    {
+      "block_id": "p20_b15",
+      "block_type": "body",
+      "source_text": "小計\n3,053\n57.7%\n5,219\n4,427\n66.6%\n6,585\n(31)%\n(31)%",
+      "line_count": 9,
+      "char_count": 50,
+      "region": "middle",
+      "font_size_avg": 8.5
+    },
+    {
+      "block_id": "p20_b16",
+      "block_type": "body",
+      "source_text": "為符合合併準備金及\n資本要求所作調整\n(103)\n無意義\n無意義\n(87)\n無意義\n無意義\n無意義\n無意義",
+      "line_count": 10,
+      "char_count": 53,
+      "region": "middle",
+      "font_size_avg": 8.5
+    }
+  ]
+}

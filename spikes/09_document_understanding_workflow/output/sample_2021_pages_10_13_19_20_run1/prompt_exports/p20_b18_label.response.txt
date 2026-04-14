@@ -1,0 +1,40 @@
+```json
+{
+  "unit_id": "p20_b18",
+  "page_no": 20,
+  "section_id": "new_business_performance",
+  "content_type": "financial_table_row",
+  "speaker_role": null,
+  "topic_tags": [
+    "financial_metrics",
+    "new_business_value",
+    "performance_comparison",
+    "year_over_year_analysis"
+  ],
+  "term_hits": [
+    {
+      "source_term": "非控股權益",
+      "target_term": "Non-controlling Interests",
+      "context": "equity_metric",
+      "confidence": "high"
+    }
+  ],
+  "needs_context": true,
+  "context_scope": "table",
+  "risk_level": "critical",
+  "risk_flags": [
+    "financial_metric_translation",
+    "percentage_and_ratio_precision",
+    "table_structure_integrity",
+    "currency_conversion_notation"
+  ],
+  "translation_constraints": [
+    "Preserve exact decimal places in percentages (52.6%, 62.9%, 33%)",
+    "Maintain numerical precision for all figures",
+    "Verify table column headers and row alignment",
+    "Confirm currency unit (likely USD millions based on context)",
+    "Preserve negative value notation and formatting",
+    "Ensure consistent alignment with corresponding table headers on page 20-21"
+  ]
+}
+```

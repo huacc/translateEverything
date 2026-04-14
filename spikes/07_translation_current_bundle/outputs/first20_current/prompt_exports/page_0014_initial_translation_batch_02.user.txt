@@ -1,0 +1,91 @@
+﻿请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。
+要求高保真、正式、可出版，不要摘要，不要解释。
+术语表和动态文档背景优先于自由翻译。
+只输出严格 JSON。
+{
+  "page_no": 14,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "relevant_terms": [
+    {
+      "source": "友邦保險",
+      "target": "AIA"
+    },
+    {
+      "source": "新業務價值",
+      "target": "new business value"
+    },
+    {
+      "source": "稅後營運溢利",
+      "target": "operating profit after tax"
+    },
+    {
+      "source": "夥伴分銷",
+      "target": "partnership distribution"
+    },
+    {
+      "source": "中國內地",
+      "target": "Mainland China"
+    },
+    {
+      "source": "泰國",
+      "target": "Thailand"
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "p14_b11",
+      "block_type": "body",
+      "source_text": "香港在2020年2月初實施旅遊限制，來自中國內地訪港旅客的新業務銷售實際上已經停頓，導致新業務價值大幅",
+      "line_count": 1,
+      "char_count": 51,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p14_b12",
+      "block_type": "body",
+      "source_text": "下降。與上半年比較，我們的代理分銷來自本地客戶的業務於下半年錄得雙位數字的銷售增長，維持顯著的市場",
+      "line_count": 1,
+      "char_count": 49,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p14_b13",
+      "block_type": "body",
+      "source_text": "領導地位。夥伴分銷渠道的新業務價值顯著低於2019年，乃由於透過零售獨立財務顧問渠道的中國內地訪港旅客",
+      "line_count": 1,
+      "char_count": 51,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p14_b14",
+      "block_type": "body",
+      "source_text": "過往銷售比重較高。稅後營運溢利增長10%，受惠於續保保費強勁的增長及有利的理賠經驗。",
+      "line_count": 1,
+      "char_count": 42,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p14_b15",
+      "block_type": "body",
+      "source_text": "友邦保險泰國業務在下半年錄得非常強勁的表現。儘管新業務價值全年下降4%，但隨著外出限制放寬，按月表",
+      "line_count": 1,
+      "char_count": 49,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p14_b16",
+      "block_type": "body",
+      "source_text": "現已展現正面動力，而下半年新業務價值較上半年錄得33%的增長。",
+      "line_count": 1,
+      "char_count": 31,
+      "region": "middle",
+      "font_size_avg": 9.0
+    }
+  ]
+}

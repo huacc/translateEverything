@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p19_b9",
+      "translation": "As of December 31, 2020, embedded value equity reached USD 67.185 billion, up USD 5.277 billion before dividend payments of USD 1.997 billion,"
+    }
+  ]
+}
+```

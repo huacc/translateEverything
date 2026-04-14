@@ -1,0 +1,21 @@
+文档场景：上市公司企业年报
+page_no: 19
+unit_id: p19_g02
+unit_mode: semantic_group
+slot_count: 4
+source_text:
+團的新業務價值帶來最大貢獻，也是我們第一個顯示銷售勢頭有所恢復的報告分部，原因在於該地區自2020年3
+月逐步放寬嚴格的封鎖。撇除維持低位的中國內地訪港旅客銷售額，本集團其他分部的新業務價值在下半年強勁
+復甦，與上半年相比增長了23%。本集團的新業務發展勢頭在2021年持續強勁，首兩個月新業務價值較2020年同
+期高出15%。
+current_translation:
+contributed the most to the Group's new business value and was the first reporting segment to show recovery in sales momentum, as this region gradually relaxed strict lockdowns from March 2020. Excluding the low-level sales from Mainland China visitors to Hong Kong, the new business value of the Group's other segments showed strong recovery in the second half, growing 23% compared to the first half. The Group's new business development momentum remained strong in 2021, with new business value in the first two months 15% higher than the same period in 2020.
+返回格式:
+{
+  "translations": [
+    {
+      "unit_id": "p19_g02",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

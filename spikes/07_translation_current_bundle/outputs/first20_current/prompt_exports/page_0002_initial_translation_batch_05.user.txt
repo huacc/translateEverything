@@ -1,0 +1,89 @@
+﻿请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。
+要求高保真、正式、可出版，不要摘要，不要解释。
+术语表和动态文档背景优先于自由翻译。
+只输出严格 JSON。
+{
+  "page_no": 2,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "relevant_terms": [
+    {
+      "source": "中國台灣",
+      "target": "Taiwan"
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "p2_b36",
+      "block_type": "label",
+      "source_text": "南韓、斯里蘭卡、中國台灣、越南、",
+      "line_count": 1,
+      "char_count": 16,
+      "region": "middle",
+      "font_size_avg": 8.0
+    },
+    {
+      "block_id": "p2_b37",
+      "block_type": "label",
+      "source_text": "代理、夥伴及員工網絡，為超過3,800萬",
+      "line_count": 1,
+      "char_count": 20,
+      "region": "middle",
+      "font_size_avg": 8.0
+    },
+    {
+      "block_id": "p2_b38",
+      "block_type": "label",
+      "source_text": "汶萊、澳門特別行政區和新西蘭擁有",
+      "line_count": 1,
+      "char_count": 16,
+      "region": "middle",
+      "font_size_avg": 8.0
+    },
+    {
+      "block_id": "p2_b39",
+      "block_type": "label",
+      "source_text": "份個人保單的持有人及逾1,600萬名團體",
+      "line_count": 1,
+      "char_count": 20,
+      "region": "middle",
+      "font_size_avg": 8.0
+    },
+    {
+      "block_id": "p2_b41",
+      "block_type": "label",
+      "source_text": "全資的分公司及附屬公司，以及印度",
+      "line_count": 1,
+      "char_count": 16,
+      "region": "middle",
+      "font_size_avg": 8.0
+    },
+    {
+      "block_id": "p2_b42",
+      "block_type": "label",
+      "source_text": "保險計劃的參與成員提供服務。",
+      "line_count": 1,
+      "char_count": 14,
+      "region": "middle",
+      "font_size_avg": 8.0
+    },
+    {
+      "block_id": "p2_b43",
+      "block_type": "label",
+      "source_text": "125 獨立核數師報告",
+      "line_count": 1,
+      "char_count": 11,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p2_b44",
+      "block_type": "label",
+      "source_text": "合資公司的49%權益。",
+      "line_count": 1,
+      "char_count": 11,
+      "region": "middle",
+      "font_size_avg": 8.27
+    }
+  ]
+}

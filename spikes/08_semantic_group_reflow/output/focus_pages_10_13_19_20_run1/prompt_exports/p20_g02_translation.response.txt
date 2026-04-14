@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p20_g02",
+      "translation": "Although new business value of USD 2.765 billion in 2020 decreased by 33% compared to 2019, we rapidly adopted new digital tools, and the widespread relaxation of movement restrictions supported the recovery of sales momentum. AIA's China business made the largest contribution to the Group's new business value in 2020 and was our first reporting segment to show recovery in sales momentum, as the region gradually relaxed strict lockdowns from March 2020 onwards. Excluding the low-level sales from mainland China visitors to Hong Kong, the new business value of the Group's other segments showed strong recovery in the second half, growing 23% compared to the first half. The Group's new business development momentum remained strong in 2021, with new business value in the first two months 15% higher than the corresponding period in 2020."
+    }
+  ]
+}
+```

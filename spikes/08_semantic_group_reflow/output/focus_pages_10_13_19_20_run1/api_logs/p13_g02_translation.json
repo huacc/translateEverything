@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 13,
+    "unit_id": "p13_g02"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是上市公司年报翻译器。\n语言方向：Traditional Chinese -> English。\n只翻译当前输入，不补充、不解释、不总结。\n如果当前输入由多个连续块组成，只允许在当前组内做跨块理解；不得引入组外内容。\n数字、百分比、货币、年份、专有名词、公司名、人名、地名必须准确。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市公司企业年报\npage_no: 13\nunit_id: p13_g02\nunit_mode: semantic_group\nblocks:\n[\n  {\n    \"block_id\": \"p13_b5\",\n    \"source_text\": \"自疫情大流行開始以來，本集團的各業務團隊反應迅速，積極協助紓緩對社區的影響，同時確保員工安全。本集\"\n  },\n  {\n    \"block_id\": \"p13_b6\",\n    \"source_text\": \"團為此廣泛採取多項措拖，包括財政支持、提供醫療物資、免費保障覆蓋、獲取醫療保健資源、精簡服務流程和\"\n  },\n  {\n    \"block_id\": \"p13_b7\",\n    \"source_text\": \"加快理賠支付，令我引以為榮。我們一如既往找出每一個可以作出理賠的理由，年內已支付逾160億美元的保險\"\n  },\n  {\n    \"block_id\": \"p13_b8\",\n    \"source_text\": \"給付及理賠，為客戶提供極其重要的財務保障。\"\n  }\n]\njoined_source_text:\n自疫情大流行開始以來，本集團的各業務團隊反應迅速，積極協助紓緩對社區的影響，同時確保員工安全。本集\n團為此廣泛採取多項措拖，包括財政支持、提供醫療物資、免費保障覆蓋、獲取醫療保健資源、精簡服務流程和\n加快理賠支付，令我引以為榮。我們一如既往找出每一個可以作出理賠的理由，年內已支付逾160億美元的保險\n給付及理賠，為客戶提供極其重要的財務保障。\n返回格式:\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p13_g02\",\n      \"translation\": \"<译文>\"\n    }\n  ]\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p13_g02\",\n      \"translation\": \"Since the onset of the pandemic, the various business teams across our Group have responded swiftly and actively assisted in mitigating the impact on communities while ensuring employee safety. Our Group has broadly implemented multiple measures for this purpose, including financial support, provision of medical supplies, complimentary coverage, access to healthcare resources, streamlined service processes and accelerated claims payments, which I am proud of. We have consistently sought out every possible reason to make claims payments, and during the year we have paid out over USD 16 billion in insurance benefits and claims, providing customers with critically important financial protection.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "62e227e5-08da-4ab3-8fc4-d04daaf8c731",
+    "conversation_id": "62e227e5-08da-4ab3-8fc4-d04daaf8c731",
+    "id": "62e227e5-08da-4ab3-8fc4-d04daaf8c731",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 793,
+      "output_tokens": 152
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "content": [
+    {
+      "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p294_b1\",\n      \"translation\": \"5. Assumptions (cont'd)\"\n    },\n    {\n      \"block_id\": \"p294_b2\",\n      \"translation\": \"5.6 Mortality\"\n    },\n    {\n      \"block_id\": \"p294_b3\",\n      \"translation\": \"Each unit established assumptions based on recent historical and anticipated future experience. Where unreliable, pricing assumptions and market data are referenced.\"\n    },\n    {\n      \"block_id\": \"p294_b5\",\n      \"translation\": \"Mortality assumptions expressed as % of standard industry tables or Group-established tables where experience is reliable.\"\n    },\n    {\n      \"block_id\": \"p294_b6\",\n      \"translation\": \"Annuity products incorporate expected future mortality improvements; other products do not.\"\n    },\n    {\n      \"block_id\": \"p294_b7\",\n      \"translation\": \"5.7 Morbidity\"\n    },\n    {\n      \"block_id\": \"p294_b8\",\n      \"translation\": \"Each unit established assumptions based on recent historical and anticipated future experience. Morbidity assumptions expressed as % of standard industry tables or expected claims.\"\n    },\n    {\n      \"block_id\": \"p294_b10\",\n      \"translation\": \"5.8 Reinsurance\"\n    },\n    {\n      \"block_id\": \"p294_b11\",\n      \"translation\": \"Each unit set reinsurance assumptions based on effective arrangements at valuation date and recent/anticipated experience.\"\n    },\n    {\n      \"block_id\": \"p294_b12\",\n      \"translation\": \"5.9 Dividends, profit sharing & settlement interest\"\n    },\n    {\n      \"block_id\": \"p294_b13\",\n      \"translation\": \"Expected dividend, profit sharing and settlement interest assumptions used to calculate embedded value results, reflecting contractual and regulatory requirements, reasonable policyholder expectations and business unit expectations.\"\n    },\n    {\n      \"block_id\": \"p294_b14\",\n      \"translation\": \"Consistent with investment return assumptions used in embedded value results.\"\n    },\n    {\n      \"block_id\": \"p294_b15\",\n      \"translation\": \"Consistent with investment return assumptions used.\"\n    },\n    {\n      \"block_id\": \"p294_b16\",\n      \"translation\": \"Any participating fund surplus distributed via future bonuses or between policyholders and shareholders at projection end, with no residual assets.\"\n    },\n    {\n      \"block_id\": \"p294_b17\",\n      \"translation\": \"\"\n    },\n    {\n      \"block_id\": \"p294_b18\",\n      \"translation\": \"292\"\n    }\n  ]\n}\n```",
+      "type": "text"
+    }
+  ],
+  "conversationId": "b800091f-db37-4e5a-970e-3b50ca57c610",
+  "conversation_id": "b800091f-db37-4e5a-970e-3b50ca57c610",
+  "id": "b800091f-db37-4e5a-970e-3b50ca57c610",
+  "model": "claude-3-5-sonnet-20241022",
+  "role": "assistant",
+  "stop_reason": "end_turn",
+  "type": "message",
+  "usage": {
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 3009,
+    "output_tokens": 588
+  }
+}

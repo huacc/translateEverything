@@ -1,0 +1,22 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p1_b1",
+      "translation": "HEALTHIER\nLONGER\nBETTER\nLIVES"
+    },
+    {
+      "block_id": "p1_b2",
+      "translation": "Healthier, Longer, Better Lives"
+    },
+    {
+      "block_id": "p1_b3",
+      "translation": "AIA GROUP LIMITED\n2020 Annual Report"
+    },
+    {
+      "block_id": "p1_b4",
+      "translation": "Stock Code 1299"
+    }
+  ]
+}
+```

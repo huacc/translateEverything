@@ -1,0 +1,21 @@
+{
+  "content": [
+    {
+      "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p33_b1\",\n      \"translation\": \"Changes in holding company financial resources:\"\n    },\n    {\n      \"block_id\": \"p33_b2\",\n      \"translation\": \"US$ millions\\n2020\\n2019\"\n    },\n    {\n      \"block_id\": \"p33_b3\",\n      \"translation\": \"Opening resources\\n8,630\\n8,339\"\n    },\n    {\n      \"block_id\": \"p33_b5\",\n      \"translation\": \"Subsidiary cash flows\\n2,354\\n2,603\"\n    },\n    {\n      \"block_id\": \"p33_b6\",\n      \"translation\": \"Corporate activities\\n–\\n(1,450)\"\n    },\n    {\n      \"block_id\": \"p33_b7\",\n      \"translation\": \"Net cash flows\\n2,354\\n1,153\"\n    },\n    {\n      \"block_id\": \"p33_b8\",\n      \"translation\": \"Borrowings increase(1)\\n2,792\\n797\"\n    },\n    {\n      \"block_id\": \"p33_b9\",\n      \"translation\": \"Interest paid(1)\\n(245)\\n(228)\"\n    },\n    {\n      \"block_id\": \"p33_b10\",\n      \"translation\": \"Investment income & fair value changes\\n854\\n530\"\n    },\n    {\n      \"block_id\": \"p33_b11\",\n      \"translation\": \"Resources before dividends\\n14,385\\n10,591\"\n    },\n    {\n      \"block_id\": \"p33_b12\",\n      \"translation\": \"Dividends paid\\n(1,997)\\n(1,961)\"\n    },\n    {\n      \"block_id\": \"p33_b13\",\n      \"translation\": \"Closing resources\\n12,388\\n8,630\"\n    },\n    {\n      \"block_id\": \"p33_b14\",\n      \"translation\": \"Assets recoverable and liabilities payable within 12 months:\"\n    },\n    {\n      \"block_id\": \"p33_b15\",\n      \"translation\": \"US$ millions\\n31 Dec 2020\\n31 Dec 2019\"\n    },\n    {\n      \"block_id\": \"p33_b16\",\n      \"translation\": \"Subsidiary loans/receivables(2)\\n90\\n84\"\n    },\n    {\n      \"block_id\": \"p33_b17\",\n      \"translation\": \"Medium-term notes(3)\\n(1,002)\\n–\"\n    },\n    {\n      \"block_id\": \"p33_b18\",\n      \"translation\": \"Other assets/liabilities, net\\n(14)\\n(3)\"\n    },\n    {\n      \"block_id\": \"p33_b19\",\n      \"translation\": \"Notes:\\n(1) Borrowings comprise medium-term notes, inter-company loans and US$2,290m unsecured credit facility.\"\n    },\n    {\n      \"block_id\": \"p33_b21\",\n      \"translation\": \"(3) At 31 Dec 2020, medium-term notes issued totaled US$8,559m (2019: US$5,757m). US$1,002m (2019: nil) payable within 12 months. Details in note 30.\"\n    },\n    {\n      \"block_id\": \"p33_b22\",\n      \"translation\": \"Working capital to resources reconciliation\"\n    },\n    {\n      \"block_id\": \"p33_b23\",\n      \"translation\": \"US$ millions\\n2020\\n2019\"\n    },\n    {\n      \"block_id\": \"p33_b24\",\n      \"translation\": \"Working capital at 31 Dec\\n17,169\\n13,471\"\n    },\n    {\n      \"block_id\": \"p33_b25\",\n      \"translation\": \"AIA Group Limited working capital\\n(1,897)\\n(2,741)\"\n    },\n    {\n      \"block_id\": \"p33_b26\",\n      \"translation\": \"AIA International Limited working capital\\n(1,935)\\n(1,428)\"\n    },\n    {\n      \"block_id\": \"p33_b27\",\n      \"translation\": \"Other group entities\\n(949)\\n(672)\"\n    },\n    {\n      \"block_id\": \"p33_b28\",\n      \"translation\": \"Resources at 31 Dec\\n12,388\\n8,630\"\n    },\n    {\n      \"block_id\": \"p33_b29\",\n      \"translation\": \"2020 Report 031\"\n    }\n  ]\n}\n```",
+      "type": "text"
+    }
+  ],
+  "conversationId": "9d67a950-4f51-4c43-8a4b-377e3bac1b21",
+  "conversation_id": "9d67a950-4f51-4c43-8a4b-377e3bac1b21",
+  "id": "9d67a950-4f51-4c43-8a4b-377e3bac1b21",
+  "model": "claude-3-5-sonnet-20241022",
+  "role": "assistant",
+  "stop_reason": "end_turn",
+  "type": "message",
+  "usage": {
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 4779,
+    "output_tokens": 1029
+  }
+}

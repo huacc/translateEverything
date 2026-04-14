@@ -1,0 +1,21 @@
+{
+  "content": [
+    {
+      "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p5_b1\",\n      \"translation\": \"AIA helps people achieve healthy, long, fulfilling lives.\"\n    },\n    {\n      \"block_id\": \"p5_b2\",\n      \"translation\": \"In 2020, COVID-19 brought unprecedented risks to our communities.\"\n    },\n    {\n      \"block_id\": \"p5_b3\",\n      \"translation\": \"We responded swiftly with medical supplies\"\n    },\n    {\n      \"block_id\": \"p5_b4\",\n      \"translation\": \"and free insurance for frontline healthcare and sanitation workers\"\n    },\n    {\n      \"block_id\": \"p5_b5\",\n      \"translation\": \"to ease their burden during pandemic response.\"\n    },\n    {\n      \"block_id\": \"p5_b8\",\n      \"translation\": \"We paid over $16 billion in benefits and claims,\"\n    },\n    {\n      \"block_id\": \"p5_b9\",\n      \"translation\": \"providing essential financial support. The pandemic continues,\"\n    },\n    {\n      \"block_id\": \"p5_b10\",\n      \"translation\": \"and we remain committed to supporting our communities.\"\n    }\n  ]\n}\n```",
+      "type": "text"
+    }
+  ],
+  "conversationId": "3a85b42e-9a64-4a8b-968b-13bfc7591c7e",
+  "conversation_id": "3a85b42e-9a64-4a8b-968b-13bfc7591c7e",
+  "id": "3a85b42e-9a64-4a8b-968b-13bfc7591c7e",
+  "model": "claude-3-5-sonnet-20241022",
+  "role": "assistant",
+  "stop_reason": "end_turn",
+  "type": "message",
+  "usage": {
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1518,
+    "output_tokens": 273
+  }
+}

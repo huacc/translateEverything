@@ -1,0 +1,21 @@
+{
+  "content": [
+    {
+      "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p16_b1\",\n      \"translation\": \"Overview\"\n    },\n    {\n      \"block_id\": \"p16_b2\",\n      \"translation\": \"CEO & President's Report\"\n    },\n    {\n      \"block_id\": \"p16_b3\",\n      \"translation\": \"We recognize significant work remains in this area. We recently completed our Environmental, Social and Governance strategy review. I am confident our\"\n    },\n    {\n      \"block_id\": \"p16_b4\",\n      \"translation\": \"five strategic priorities—wellbeing, green operations, sustainable investment, talent and culture, and governance—will help us lead the industry in\"\n    },\n    {\n      \"block_id\": \"p16_b6\",\n      \"translation\": \"Outlook\"\n    },\n    {\n      \"block_id\": \"p16_b7\",\n      \"translation\": \"In 2020, COVID-19 was the largest public health emergency in living memory. Affected businesses and households\"\n    },\n    {\n      \"block_id\": \"p16_b8\",\n      \"translation\": \"received unprecedented public and monetary support, mitigating extreme financial shocks and accelerating recovery, particularly evident in\"\n    },\n    {\n      \"block_id\": \"p16_b9\",\n      \"translation\": \"countries with sound health policies. However, significant differences exist between nations. Asia (ex-Japan) recorded\"\n    },\n    {\n      \"block_id\": \"p16_b10\",\n      \"translation\": \"the strongest global GDP growth. The global economy is emerging from deep recession into early recovery stages.\"\n    },\n    {\n      \"block_id\": \"p16_b12\",\n      \"translation\": \"Though pandemic impacts persist, 2021 should be transitional; we remain cautiously optimistic. Markets anticipate\"\n    },\n    {\n      \"block_id\": \"p16_b13\",\n      \"translation\": \"vaccination programs and new therapies reducing infection rates and severity, enabling healthcare systems to respond effectively and lower mortality. While we\"\n    },\n    {\n      \"block_id\": \"p16_b14\",\n      \"translation\": \"don't expect pre-pandemic activity levels near-term, as confidence recovers, recovery should gradually\"\n    },\n    {\n      \"block_id\": \"p16_b15\",\n      \"translation\": \"expand from manufacturing to consumer and service sectors, especially in younger-population countries.\"\n    },\n    {\n      \"block_id\": \"p16_b16\",\n      \"translation\": \"I'm confident in AIA's long-term prospects. Despite near-term uncertainties, strong domestic demand drivers and Asia's key\"\n    },\n    {\n      \"block_id\": \"p16_b17\",\n      \"translation\": \"demographic trends provide positive structural support. Rising incomes, low insurance penetration, and\"\n    },\n    {\n      \"block_id\": \"p16_b18\",\n      \"translation\": \"limited social welfare coverage drive continued demand for AIA products. We'll leverage our competitive advantages and strong\"\n    },\n    {\n      \"block_id\": \"p16_b19\",\n      \"translation\": \"growth track record to build sustainable futures and create shared value for all stakeholders.\"\n    },\n    {\n      \"block_id\": \"p16_b20\",\n      \"translation\": \"Lee Yuan Siong\"\n    },\n    {\n      \"block_id\": \"p16_b21\",\n      \"translation\": \"Group CEO & President\"\n    },\n    {\n      \"block_id\": \"p16_b23\",\n      \"translation\": \"Growth rates at constant exchange rates provide clearer year-on-year business performance.\"\n    },\n    {\n      \"block_id\": \"p16_b24\",\n      \"translation\": \"014\\nAIA Group Limited\"\n    }\n  ]\n}\n```",
+      "type": "text"
+    }
+  ],
+  "conversationId": "2c842dbf-b605-48f0-9863-bdf7ad9f18fc",
+  "conversation_id": "2c842dbf-b605-48f0-9863-bdf7ad9f18fc",
+  "id": "2c842dbf-b605-48f0-9863-bdf7ad9f18fc",
+  "model": "claude-3-5-sonnet-20241022",
+  "role": "assistant",
+  "stop_reason": "end_turn",
+  "type": "message",
+  "usage": {
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 4178,
+    "output_tokens": 826
+  }
+}

@@ -1,0 +1,39 @@
+﻿请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。
+要求高保真、正式、可出版，不要摘要，不要解释。
+术语表和动态文档背景优先于自由翻译。
+只输出严格 JSON。
+{
+  "page_no": 5,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "relevant_terms": [],
+  "blocks": [
+    {
+      "block_id": "p5_b9",
+      "block_type": "label",
+      "source_text": "提供必不可少的的財務支援。儘管疫情大流行的影響依",
+      "line_count": 1,
+      "char_count": 24,
+      "region": "middle",
+      "font_size_avg": 10.0
+    },
+    {
+      "block_id": "p5_b10",
+      "block_type": "label",
+      "source_text": "然沒有結束，我們將繼續擔當支援的角色使我們的社區",
+      "line_count": 1,
+      "char_count": 24,
+      "region": "middle",
+      "font_size_avg": 10.0
+    },
+    {
+      "block_id": "p5_b11",
+      "block_type": "label",
+      "source_text": "重拾活力。",
+      "line_count": 1,
+      "char_count": 5,
+      "region": "middle",
+      "font_size_avg": 10.0
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "content": [
+    {
+      "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p17_b2\",\n      \"translation\": \"016 Group Chief Financial Officer's Review\"\n    },\n    {\n      \"block_id\": \"p17_b3\",\n      \"translation\": \"040 Business Review\"\n    },\n    {\n      \"block_id\": \"p17_b4\",\n      \"translation\": \"056 Risk Management\"\n    },\n    {\n      \"block_id\": \"p17_b5\",\n      \"translation\": \"062 Regulatory and International Development\"\n    },\n    {\n      \"block_id\": \"p17_b6\",\n      \"translation\": \"064 Our Team\"\n    }\n  ]\n}\n```",
+      "type": "text"
+    }
+  ],
+  "conversationId": "6560d354-ecb8-4b21-87c7-4292877ace08",
+  "conversation_id": "6560d354-ecb8-4b21-87c7-4292877ace08",
+  "id": "6560d354-ecb8-4b21-87c7-4292877ace08",
+  "model": "claude-3-5-sonnet-20241022",
+  "role": "assistant",
+  "stop_reason": "end_turn",
+  "type": "message",
+  "usage": {
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1422,
+    "output_tokens": 152
+  }
+}

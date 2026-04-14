@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 13,
+    "unit_id": "p13_g06"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是上市公司年报英文翻译器。\n语言方向：Traditional Chinese -> English。\n你只处理当前翻译单元。\n如果当前单元由多个连续文本块组成，只允许在当前组内恢复被换行打散的句子和段落；只做最小必要融合，不得引入组外信息。\n标题、栏目名、表头、图表标签要短、稳、标准；正文要保持正式披露语体。\n数字、百分比、货币、年份、专有名词、公司名、人名、地名、财务指标必须准确。\n不增删事实，不补充因果，不输出残句，不重复表达。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市公司企业年报\n请优先使用背景中的标准叫法和术语。\n{\n  \"document_background\": {\n    \"global_profile\": {\n      \"company_name_target\": \"AIA GROUP LIMITED\",\n      \"industry\": \"Life Insurance\",\n      \"report_type\": \"annual_report\",\n      \"report_year\": 2020,\n      \"style_keywords\": [\n        \"corporate governance\",\n        \"financial performance\",\n        \"stakeholder communication\",\n        \"ESG commitment\"\n      ]\n    },\n    \"page_sections\": [\n      {\n        \"target_section\": \"Group Chief Executive and President's Report\",\n        \"content_type\": \"ceo_report\",\n        \"page_range\": [\n          12,\n          16\n        ]\n      },\n      {\n        \"target_section\": \"Overview\",\n        \"content_type\": \"executive_summary\",\n        \"page_range\": [\n          8,\n          16\n        ]\n      }\n    ],\n    \"roles\": [\n      {\n        \"source\": \"李源祥\",\n        \"target\": \"Lee Yuen Cheung\",\n        \"role\": \"Group Chief Executive and President\"\n      }\n    ],\n    \"terms\": [],\n    \"style_rules\": [\n      \"Preserve financial terminology consistency\",\n      \"Use formal corporate register throughout\",\n      \"Maintain parallel structure in lists and tables\",\n      \"Use active voice where source permits\",\n      \"Translate corporate mission statements with care\",\n      \"Preserve temporal references and context\",\n      \"Translate market/geographic references consistently\"\n    ]\n  },\n  \"matched_terms\": [\n    {\n      \"source\": \"友邦保險\",\n      \"target\": \"AIA\"\n    }\n  ],\n  \"current_unit\": {\n    \"page_no\": 13,\n    \"unit_id\": \"p13_g06\",\n    \"unit_mode\": \"semantic_group\",\n    \"block_types\": [\n      \"body\",\n      \"body\",\n      \"body\"\n    ],\n    \"blocks\": [\n      {\n        \"block_id\": \"p13_b20\",\n        \"source_text\": \"我們無可比擬的分銷實力能直接接觸客戶，並提供高質素的專業建議，協助滿足亞洲消費者龐大且日益增長的長\"\n      },\n      {\n        \"block_id\": \"p13_b21\",\n        \"source_text\": \"期保障和儲蓄需求。如今大眾比以往更期望企業能以符合長遠可持續發展的方式應對他們的需要。友邦保險擁有\"\n      },\n      {\n        \"block_id\": \"p13_b22\",\n        \"source_text\": \"市場領先的品牌，以幫助大眾實踐健康、長久、好生活的目標為基礎。\"\n      }\n    ],\n    \"joined_source_text\": \"我們無可比擬的分銷實力能直接接觸客戶，並提供高質素的專業建議，協助滿足亞洲消費者龐大且日益增長的長\\n期保障和儲蓄需求。如今大眾比以往更期望企業能以符合長遠可持續發展的方式應對他們的需要。友邦保險擁有\\n市場領先的品牌，以幫助大眾實踐健康、長久、好生活的目標為基礎。\"\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p13_g06\",\n        \"translation\": \"<译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p13_g06\",\n      \"translation\": \"Our unparalleled distribution strength enables us to connect directly with customers and provide high-quality professional advice to help meet the substantial and growing long-term protection and savings needs of Asian consumers. Today, the public increasingly expects companies to address their needs in ways that are consistent with long-term sustainable development. AIA possesses a market-leading brand, founded on the objective of helping people achieve the goal of living a healthy, long and fulfilling life.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "0a8651a5-03cc-48d2-8f28-5323f5ee7bfc",
+    "conversation_id": "0a8651a5-03cc-48d2-8f28-5323f5ee7bfc",
+    "id": "0a8651a5-03cc-48d2-8f28-5323f5ee7bfc",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1153,
+      "output_tokens": 128
+    }
+  }
+}

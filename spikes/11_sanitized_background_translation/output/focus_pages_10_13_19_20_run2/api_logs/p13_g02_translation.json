@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 13,
+    "unit_id": "p13_g02"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是上市公司年报翻译器。\n语言方向：Traditional Chinese -> English。\n你只处理当前翻译单元。\n如果当前单元由多个连续文本块组成，只允许在当前组内恢复被换行打断的句子；不得引入组外信息。\n优先严格采用提供的标准术语、角色名称和章节叫法。\n不得增删事实，不得保留中文残片，不得输出解释。\n输出必须是 JSON，并且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市公司企业年报。\n请优先复用 document_background 和 matched_terms 中提供的标准写法。\n{\n  \"task\": {\n    \"scenario\": \"listed_company_annual_report\",\n    \"direction\": \"Traditional Chinese -> English\"\n  },\n  \"document_background\": {\n    \"global_profile\": {\n      \"company_name_target\": \"AIA GROUP LIMITED\",\n      \"industry\": \"Life Insurance\",\n      \"report_type\": \"annual_report\",\n      \"report_year\": 2020\n    },\n    \"term_usage_mode\": \"overview_narrative\",\n    \"page_sections\": [\n      {\n        \"source_section\": \"集團首席執行官兼總裁報告\",\n        \"target_section\": \"Group Chief Executive and President's Report\",\n        \"content_type\": \"ceo_report\",\n        \"page_range\": [\n          12,\n          16\n        ]\n      }\n    ],\n    \"roles\": [\n      {\n        \"source\": \"李源祥\",\n        \"target\": \"Lee Yuen Cheung\",\n        \"role\": \"Group Chief Executive and President\"\n      }\n    ],\n    \"terms\": [],\n    \"style_rules\": [\n      \"Use US$ for U.S. dollar amounts.\",\n      \"Keep listed-company annual report disclosure tone formal and publishable.\",\n      \"Do not change numbers, percentages, years, named entities or financial metric values.\",\n      \"For overview narrative, use full financial metric name plus abbreviation when provided.\",\n      \"For financial review and business metrics narrative, use established abbreviations when provided.\",\n      \"Prefer AIA China / AIA Hong Kong / AIA Macau over loose paraphrases when matched.\"\n    ]\n  },\n  \"matched_terms\": [],\n  \"current_unit\": {\n    \"page_no\": 13,\n    \"unit_id\": \"p13_g02\",\n    \"unit_mode\": \"semantic_group\",\n    \"block_types\": [\n      \"body\",\n      \"body\",\n      \"body\",\n      \"label\"\n    ],\n    \"blocks\": [\n      {\n        \"block_id\": \"p13_b5\",\n        \"source_text\": \"自疫情大流行開始以來，本集團的各業務團隊反應迅速，積極協助紓緩對社區的影響，同時確保員工安全。本集\"\n      },\n      {\n        \"block_id\": \"p13_b6\",\n        \"source_text\": \"團為此廣泛採取多項措拖，包括財政支持、提供醫療物資、免費保障覆蓋、獲取醫療保健資源、精簡服務流程和\"\n      },\n      {\n        \"block_id\": \"p13_b7\",\n        \"source_text\": \"加快理賠支付，令我引以為榮。我們一如既往找出每一個可以作出理賠的理由，年內已支付逾160億美元的保險\"\n      },\n      {\n        \"block_id\": \"p13_b8\",\n        \"source_text\": \"給付及理賠，為客戶提供極其重要的財務保障。\"\n      }\n    ],\n    \"joined_source_text\": \"自疫情大流行開始以來，本集團的各業務團隊反應迅速，積極協助紓緩對社區的影響，同時確保員工安全。本集\\n團為此廣泛採取多項措拖，包括財政支持、提供醫療物資、免費保障覆蓋、獲取醫療保健資源、精簡服務流程和\\n加快理賠支付，令我引以為榮。我們一如既往找出每一個可以作出理賠的理由，年內已支付逾160億美元的保險\\n給付及理賠，為客戶提供極其重要的財務保障。\"\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p13_g02\",\n        \"translation\": \"<译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p13_g02\",\n      \"translation\": \"Since the onset of the pandemic, our business teams across the Group have responded swiftly and actively assisted in mitigating the impact on our communities, while ensuring employee safety. The Group has implemented a wide range of measures for this purpose, including financial support, provision of medical supplies, complimentary coverage, access to healthcare resources, streamlined service processes and accelerated claims payments, which I am proud of. We have, as always, found every reason to make a claim payment, and during the year we paid out over US$16 billion in insurance benefits and claims, providing our customers with critically important financial protection.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "e16838a4-f13c-49a2-836d-25969cd5f1e7",
+    "conversation_id": "e16838a4-f13c-49a2-836d-25969cd5f1e7",
+    "id": "e16838a4-f13c-49a2-836d-25969cd5f1e7",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1234,
+      "output_tokens": 158
+    }
+  }
+}

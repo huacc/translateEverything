@@ -1,0 +1,21 @@
+{
+  "content": [
+    {
+      "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p32_b1\",\n      \"translation\": \"Financial and Operational Review\"\n    },\n    {\n      \"block_id\": \"p32_b2\",\n      \"translation\": \"Group Chief Financial Officer Review\"\n    },\n    {\n      \"block_id\": \"p32_b3\",\n      \"translation\": \"Holding Company Financial Resources\"\n    },\n    {\n      \"block_id\": \"p32_b4\",\n      \"translation\": \"Holding Company Financial Resources is a new disclosure that replaces working capital from the financial year beginning 1 January 2021, providing better insight into financial resources available for dividend payments,\"\n    },\n    {\n      \"block_id\": \"p32_b5\",\n      \"translation\": \"interest payments on borrowings, and financial support and investments for our business.\"\n    },\n    {\n      \"block_id\": \"p32_b6\",\n      \"translation\": \"These financial resources comprise debt and equity securities, deposits, cash and cash equivalents of AIA Group Limited (the Company), our listed holding company,\"\n    },\n    {\n      \"block_id\": \"p32_b7\",\n      \"translation\": \"and dividends paid but unsettled by subsidiaries, net of debt under repurchase agreements.\"\n    },\n    {\n      \"block_id\": \"p32_b8\",\n      \"translation\": \"Holding Company Financial Resources form part of the working capital held by the Group Corporate Centre. The holding company is part of the Group Corporate Centre, as shown below:\"\n    },\n    {\n      \"block_id\": \"p32_b9\",\n      \"translation\": \"AIA Corporate Structure Diagram(1)\"\n    },\n    {\n      \"block_id\": \"p32_b10\",\n      \"translation\": \"Group Corporate Centre\"\n    },\n    {\n      \"block_id\": \"p32_b11\",\n      \"translation\": \"Holding Company\\nAIA Group Limited\"\n    },\n    {\n      \"block_id\": \"p32_b12\",\n      \"translation\": \"Other Group\\nCorporate Centre Entities\"\n    },\n    {\n      \"block_id\": \"p32_b13\",\n      \"translation\": \"Local Business Units\"\n    },\n    {\n      \"block_id\": \"p32_b14\",\n      \"translation\": \"Mainland China, Thailand, Singapore,\\nMalaysia, Others(2)\"\n    },\n    {\n      \"block_id\": \"p32_b15\",\n      \"translation\": \"AIA Limited\"\n    },\n    {\n      \"block_id\": \"p32_b16\",\n      \"translation\": \"AIA International Limited\"\n    },\n    {\n      \"block_id\": \"p32_b17\",\n      \"translation\": \"Hong Kong, Others(3)\"\n    },\n    {\n      \"block_id\": \"p32_b18\",\n      \"translation\": \"(1) Diagram is for illustration purposes only and is not intended to depict all independent entities within the Group\\n(2) Australia, Brunei, Myanmar, Philippines, Sri Lanka\\n(3) Cambodia, Indonesia, India, South Korea, Macau, New Zealand, Taiwan, Vietnam\"\n    },\n    {\n      \"block_id\": \"p32_b19\",\n      \"translation\": \"As at 31 December 2020, Holding Company Financial Resources were USD 12.388 billion, compared to USD 8.630 billion as at 31 December 2019. The increase of USD 3.758 billion\"\n    },\n    {\n      \"block_id\": \"p32_b20\",\n      \"translation\": \"was primarily due to cash flows from subsidiaries to the holding company of USD 2.354 billion during the year and net proceeds from borrowings of USD 2.792 billion,\"\n    },\n    {\n      \"block_id\": \"p32_b21\",\n      \"translation\": \"offset by dividend payments of USD 1.997 billion. In 2020 and 2019, cash flows from subsidiaries were primarily sourced from our principal operating\"\n    },\n    {\n      \"block_id\": \"p32_b22\",\n      \"translation\": \"company AIA Co.\"\n    },\n    {\n      \"block_id\": \"p32_b23\",\n      \"translation\": \"030\\nAIA Group Limited\"\n    }\n  ]\n}\n```",
+      "type": "text"
+    }
+  ],
+  "conversationId": "b2ea805c-f8d6-413e-80f0-bca5957123f1",
+  "conversation_id": "b2ea805c-f8d6-413e-80f0-bca5957123f1",
+  "id": "b2ea805c-f8d6-413e-80f0-bca5957123f1",
+  "model": "claude-3-5-sonnet-20241022",
+  "role": "assistant",
+  "stop_reason": "end_turn",
+  "type": "message",
+  "usage": {
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2288,
+    "output_tokens": 917
+  }
+}

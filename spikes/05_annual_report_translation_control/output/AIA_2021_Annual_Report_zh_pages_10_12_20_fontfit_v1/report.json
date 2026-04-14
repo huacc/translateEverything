@@ -1,0 +1,72 @@
+[
+  {
+    "page_no": 10,
+    "text_block_count": 28,
+    "rule_resolved_count": 3,
+    "model_resolved_count": 25,
+    "compact_retry_count": 13,
+    "fit_summary": {
+      "font_shrink": 18,
+      "ok": 10
+    },
+    "translation_source_summary": {
+      "glossary_exact": 2,
+      "model_initial": 9,
+      "model_compact": 13,
+      "model_repair_initial": 3,
+      "glossary_linewise": 1
+    },
+    "original": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_pages_10_12_20_fontfit_v1\\original\\page_0010_original.png",
+    "redacted": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_pages_10_12_20_fontfit_v1\\redacted\\page_0010_redacted.png",
+    "translated": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_pages_10_12_20_fontfit_v1\\translated\\page_0010_translated.png",
+    "comparison": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_pages_10_12_20_fontfit_v1\\comparison\\page_0010_translation_comparison.png",
+    "document_context": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_pages_10_12_20_fontfit_v1\\document_context.json",
+    "status": "ok"
+  },
+  {
+    "page_no": 12,
+    "text_block_count": 9,
+    "rule_resolved_count": 3,
+    "model_resolved_count": 6,
+    "compact_retry_count": 5,
+    "fit_summary": {
+      "font_shrink": 8,
+      "ok": 1
+    },
+    "translation_source_summary": {
+      "glossary_exact": 2,
+      "model_compact": 5,
+      "model_initial": 1,
+      "glossary_linewise": 1
+    },
+    "original": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_pages_10_12_20_fontfit_v1\\original\\page_0012_original.png",
+    "redacted": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_pages_10_12_20_fontfit_v1\\redacted\\page_0012_redacted.png",
+    "translated": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_pages_10_12_20_fontfit_v1\\translated\\page_0012_translated.png",
+    "comparison": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_pages_10_12_20_fontfit_v1\\comparison\\page_0012_translation_comparison.png",
+    "document_context": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_pages_10_12_20_fontfit_v1\\document_context.json",
+    "status": "ok"
+  },
+  {
+    "page_no": 20,
+    "text_block_count": 34,
+    "rule_resolved_count": 3,
+    "model_resolved_count": 31,
+    "compact_retry_count": 26,
+    "fit_summary": {
+      "font_shrink": 28,
+      "ok": 6
+    },
+    "translation_source_summary": {
+      "glossary_exact": 2,
+      "model_compact": 26,
+      "model_initial": 5,
+      "glossary_linewise": 1
+    },
+    "original": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_pages_10_12_20_fontfit_v1\\original\\page_0020_original.png",
+    "redacted": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_pages_10_12_20_fontfit_v1\\redacted\\page_0020_redacted.png",
+    "translated": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_pages_10_12_20_fontfit_v1\\translated\\page_0020_translated.png",
+    "comparison": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_pages_10_12_20_fontfit_v1\\comparison\\page_0020_translation_comparison.png",
+    "document_context": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_pages_10_12_20_fontfit_v1\\document_context.json",
+    "status": "ok"
+  }
+]

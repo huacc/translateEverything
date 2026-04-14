@@ -1,0 +1,71 @@
+﻿请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。
+要求高保真、正式、可出版，不要摘要，不要解释。
+术语表和动态文档背景优先于自由翻译。
+只输出严格 JSON。
+{
+  "page_no": 11,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "relevant_terms": [
+    {
+      "source": "友邦保險",
+      "target": "AIA"
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "p11_b15",
+      "block_type": "body",
+      "source_text": "Inc.(ISS)頒發「Prime」環境、社會及管治企業評級(ESG Corporate Rating)，認同我們為業界可持續發展表現",
+      "line_count": 1,
+      "char_count": 67,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p11_b16",
+      "block_type": "body",
+      "source_text": "最佳的公司之一。我們相信我們在這方面仍需採取更多措施，為社區實現更美好的成果。這仍是我個人與董事會",
+      "line_count": 1,
+      "char_count": 49,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p11_b17",
+      "block_type": "label",
+      "source_text": "成員、高級管理層團隊以及全體員工共同秉持的優先指標。",
+      "line_count": 1,
+      "char_count": 26,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p11_b18",
+      "block_type": "body",
+      "source_text": "今天，客戶對友邦保險產品、服務及高質素建議日益增長的需求從未如此殷切。我們的策略建基於亞洲強勁的",
+      "line_count": 1,
+      "char_count": 48,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p11_b19",
+      "block_type": "body",
+      "source_text": "結構性增長動力，並獲多項因素支持，包括前所未見的財富創造、保障缺口迅速擴大、消費者取向持續轉變、",
+      "line_count": 1,
+      "char_count": 48,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p11_b20",
+      "block_type": "body",
+      "source_text": "數碼技術普及，以及市場聚焦於長遠的可持續發展。董事會充滿信心，友邦保險具備優越條件，把握區內展現的",
+      "line_count": 1,
+      "char_count": 49,
+      "region": "middle",
+      "font_size_avg": 9.0
+    }
+  ]
+}

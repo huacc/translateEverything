@@ -1,0 +1,266 @@
+[
+  {
+    "page_no": 1,
+    "text_block_count": 4,
+    "fit_summary": {
+      "font_shrink": 4
+    },
+    "original": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\original\\page_0001_original.png",
+    "redacted": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\redacted\\page_0001_redacted.png",
+    "translated": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\translated\\page_0001_translated.png",
+    "comparison": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\comparison\\page_0001_translation_comparison.png",
+    "status": "ok"
+  },
+  {
+    "page_no": 2,
+    "text_block_count": 69,
+    "fit_summary": {
+      "ok": 23,
+      "font_shrink": 45,
+      "overflow": 1
+    },
+    "original": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\original\\page_0002_original.png",
+    "redacted": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\redacted\\page_0002_redacted.png",
+    "translated": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\translated\\page_0002_translated.png",
+    "comparison": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\comparison\\page_0002_translation_comparison.png",
+    "status": "ok"
+  },
+  {
+    "page_no": 3,
+    "text_block_count": 11,
+    "fit_summary": {
+      "ok": 2,
+      "font_shrink": 9
+    },
+    "original": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\original\\page_0003_original.png",
+    "redacted": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\redacted\\page_0003_redacted.png",
+    "translated": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\translated\\page_0003_translated.png",
+    "comparison": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\comparison\\page_0003_translation_comparison.png",
+    "status": "ok"
+  },
+  {
+    "page_no": 4,
+    "text_block_count": 0,
+    "fit_summary": {},
+    "original": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\original\\page_0004_original.png",
+    "redacted": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\redacted\\page_0004_redacted.png",
+    "translated": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\translated\\page_0004_translated.png",
+    "comparison": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\comparison\\page_0004_translation_comparison.png",
+    "status": "ok"
+  },
+  {
+    "page_no": 5,
+    "text_block_count": 11,
+    "fit_summary": {
+      "ok": 7,
+      "font_shrink": 4
+    },
+    "original": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\original\\page_0005_original.png",
+    "redacted": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\redacted\\page_0005_redacted.png",
+    "translated": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\translated\\page_0005_translated.png",
+    "comparison": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\comparison\\page_0005_translation_comparison.png",
+    "status": "ok"
+  },
+  {
+    "page_no": 6,
+    "text_block_count": 24,
+    "fit_summary": {
+      "ok": 15,
+      "font_shrink": 9
+    },
+    "original": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\original\\page_0006_original.png",
+    "redacted": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\redacted\\page_0006_redacted.png",
+    "translated": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\translated\\page_0006_translated.png",
+    "comparison": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\comparison\\page_0006_translation_comparison.png",
+    "status": "ok"
+  },
+  {
+    "page_no": 7,
+    "text_block_count": 18,
+    "fit_summary": {
+      "font_shrink": 6,
+      "ok": 12
+    },
+    "original": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\original\\page_0007_original.png",
+    "redacted": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\redacted\\page_0007_redacted.png",
+    "translated": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\translated\\page_0007_translated.png",
+    "comparison": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\comparison\\page_0007_translation_comparison.png",
+    "status": "ok"
+  },
+  {
+    "page_no": 8,
+    "text_block_count": 111,
+    "fit_summary": {
+      "font_shrink": 55,
+      "ok": 4,
+      "overflow": 52
+    },
+    "original": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\original\\page_0008_original.png",
+    "redacted": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\redacted\\page_0008_redacted.png",
+    "translated": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\translated\\page_0008_translated.png",
+    "comparison": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\comparison\\page_0008_translation_comparison.png",
+    "status": "ok"
+  },
+  {
+    "page_no": 9,
+    "text_block_count": 39,
+    "fit_summary": {
+      "font_shrink": 32,
+      "ok": 6,
+      "overflow": 1
+    },
+    "original": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\original\\page_0009_original.png",
+    "redacted": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\redacted\\page_0009_redacted.png",
+    "translated": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\translated\\page_0009_translated.png",
+    "comparison": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\comparison\\page_0009_translation_comparison.png",
+    "status": "ok"
+  },
+  {
+    "page_no": 10,
+    "text_block_count": 28,
+    "fit_summary": {
+      "font_shrink": 13,
+      "ok": 13,
+      "overflow": 2
+    },
+    "original": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\original\\page_0010_original.png",
+    "redacted": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\redacted\\page_0010_redacted.png",
+    "translated": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\translated\\page_0010_translated.png",
+    "comparison": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\comparison\\page_0010_translation_comparison.png",
+    "status": "ok"
+  },
+  {
+    "page_no": 11,
+    "text_block_count": 28,
+    "fit_summary": {
+      "ok": 23,
+      "font_shrink": 5
+    },
+    "original": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\original\\page_0011_original.png",
+    "redacted": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\redacted\\page_0011_redacted.png",
+    "translated": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\translated\\page_0011_translated.png",
+    "comparison": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\comparison\\page_0011_translation_comparison.png",
+    "status": "ok"
+  },
+  {
+    "page_no": 12,
+    "text_block_count": 9,
+    "fit_summary": {
+      "font_shrink": 7,
+      "ok": 2
+    },
+    "original": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\original\\page_0012_original.png",
+    "redacted": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\redacted\\page_0012_redacted.png",
+    "translated": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\translated\\page_0012_translated.png",
+    "comparison": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\comparison\\page_0012_translation_comparison.png",
+    "status": "ok"
+  },
+  {
+    "page_no": 13,
+    "text_block_count": 29,
+    "fit_summary": {
+      "ok": 18,
+      "font_shrink": 11
+    },
+    "original": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\original\\page_0013_original.png",
+    "redacted": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\redacted\\page_0013_redacted.png",
+    "translated": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\translated\\page_0013_translated.png",
+    "comparison": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\comparison\\page_0013_translation_comparison.png",
+    "status": "ok"
+  },
+  {
+    "page_no": 14,
+    "text_block_count": 33,
+    "fit_summary": {
+      "font_shrink": 3,
+      "ok": 29,
+      "overflow": 1
+    },
+    "original": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\original\\page_0014_original.png",
+    "redacted": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\redacted\\page_0014_redacted.png",
+    "translated": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\translated\\page_0014_translated.png",
+    "comparison": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\comparison\\page_0014_translation_comparison.png",
+    "status": "ok"
+  },
+  {
+    "page_no": 15,
+    "text_block_count": 28,
+    "fit_summary": {
+      "font_shrink": 4,
+      "ok": 24
+    },
+    "original": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\original\\page_0015_original.png",
+    "redacted": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\redacted\\page_0015_redacted.png",
+    "translated": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\translated\\page_0015_translated.png",
+    "comparison": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\comparison\\page_0015_translation_comparison.png",
+    "status": "ok"
+  },
+  {
+    "page_no": 16,
+    "text_block_count": 24,
+    "fit_summary": {
+      "font_shrink": 11,
+      "ok": 12,
+      "overflow": 1
+    },
+    "original": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\original\\page_0016_original.png",
+    "redacted": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\redacted\\page_0016_redacted.png",
+    "translated": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\translated\\page_0016_translated.png",
+    "comparison": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\comparison\\page_0016_translation_comparison.png",
+    "status": "ok"
+  },
+  {
+    "page_no": 17,
+    "text_block_count": 7,
+    "fit_summary": {
+      "font_shrink": 5,
+      "ok": 2
+    },
+    "original": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\original\\page_0017_original.png",
+    "redacted": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\redacted\\page_0017_redacted.png",
+    "translated": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\translated\\page_0017_translated.png",
+    "comparison": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\comparison\\page_0017_translation_comparison.png",
+    "status": "ok"
+  },
+  {
+    "page_no": 18,
+    "text_block_count": 16,
+    "fit_summary": {
+      "font_shrink": 6,
+      "ok": 9,
+      "overflow": 1
+    },
+    "original": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\original\\page_0018_original.png",
+    "redacted": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\redacted\\page_0018_redacted.png",
+    "translated": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\translated\\page_0018_translated.png",
+    "comparison": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\comparison\\page_0018_translation_comparison.png",
+    "status": "ok"
+  },
+  {
+    "page_no": 19,
+    "text_block_count": 29,
+    "fit_summary": {
+      "font_shrink": 18,
+      "ok": 11
+    },
+    "original": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\original\\page_0019_original.png",
+    "redacted": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\redacted\\page_0019_redacted.png",
+    "translated": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\translated\\page_0019_translated.png",
+    "comparison": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\comparison\\page_0019_translation_comparison.png",
+    "status": "ok"
+  },
+  {
+    "page_no": 20,
+    "text_block_count": 34,
+    "fit_summary": {
+      "font_shrink": 13,
+      "ok": 6,
+      "overflow": 15
+    },
+    "original": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\original\\page_0020_original.png",
+    "redacted": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\redacted\\page_0020_redacted.png",
+    "translated": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\translated\\page_0020_translated.png",
+    "comparison": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_first20\\comparison\\page_0020_translation_comparison.png",
+    "status": "ok"
+  }
+]

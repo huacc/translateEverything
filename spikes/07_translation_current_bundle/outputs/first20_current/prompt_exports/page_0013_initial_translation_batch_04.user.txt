@@ -1,0 +1,71 @@
+﻿请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。
+要求高保真、正式、可出版，不要摘要，不要解释。
+术语表和动态文档背景优先于自由翻译。
+只输出严格 JSON。
+{
+  "page_no": 13,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "relevant_terms": [
+    {
+      "source": "友邦保險",
+      "target": "AIA"
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "p13_b23",
+      "block_type": "body",
+      "source_text": "我們旨在使友邦保險在科技應用方面領先全球，加強互聯互通，擴大規模和提升效率。更深入瞭解數據分析有助",
+      "line_count": 1,
+      "char_count": 49,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p13_b24",
+      "block_type": "body",
+      "source_text": "我們締造獨特和個人化的客戶體驗。切合和反映個人需求和生活方式的產品及服務，改變了大眾對人壽保險的看",
+      "line_count": 1,
+      "char_count": 49,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p13_b25",
+      "block_type": "label",
+      "source_text": "法，為我們與客戶建立長遠關係奠定堅實的基礎。",
+      "line_count": 1,
+      "char_count": 22,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p13_b26",
+      "block_type": "body",
+      "source_text": "儘管2020年是前所未見的一年，但我對亞洲壽險行業的前景和友邦保險的未來比以往更為樂觀。我們繼續挑戰自",
+      "line_count": 1,
+      "char_count": 51,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p13_b27",
+      "block_type": "body",
+      "source_text": "己，發展我們的優先任務，以確保我們能繼續適切地迎合客戶期望和財務需求的轉變。我們的全新企業策略建基",
+      "line_count": 1,
+      "char_count": 49,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p13_b28",
+      "block_type": "body",
+      "source_text": "於友邦保險的現有實力，推進轉型過程，以在未來為客戶提供最佳的服務。",
+      "line_count": 1,
+      "char_count": 33,
+      "region": "middle",
+      "font_size_avg": 9.0
+    }
+  ]
+}

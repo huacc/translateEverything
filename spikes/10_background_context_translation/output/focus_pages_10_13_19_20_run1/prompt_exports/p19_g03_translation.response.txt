@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p19_g03",
+      "translation": "This was offset by Embedded Value operating profit of USD 7,243 million, which included positive operating variances of USD 549 million, reflecting the continued favorable experience relative to our Embedded Value assumptions."
+    }
+  ]
+}
+```

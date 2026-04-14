@@ -1,0 +1,26 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p15_b9",
+      "translation": "97% of employees participated in the survey, and the Group achieved a record high employee engagement score, ranking at the 88th percentile against the Gallup Global Financial Services and Insurance Industry benchmark."
+    },
+    {
+      "block_id": "p15_b10",
+      "translation": "In addition, AIA was included in Forbes' 'World's Best Employers 2020' list."
+    },
+    {
+      "block_id": "p15_b11",
+      "translation": "In October 2020, AIA celebrated its 10th anniversary of listing on the Hong Kong Stock Exchange and established the 'AIA Scholarship', committing USD 100 million to support over the coming decades 100 undergraduate students annually from various universities in Hong Kong to develop the next generation of business leaders."
+    },
+    {
+      "block_id": "p15_b12",
+      "translation": ""
+    },
+    {
+      "block_id": "p15_b13",
+      "translation": "A core component of the 'Organisation of the Future' strategy, including strengthening and simplifying the organisational structure and introducing flexible working arrangements."
+    }
+  ]
+}
+```

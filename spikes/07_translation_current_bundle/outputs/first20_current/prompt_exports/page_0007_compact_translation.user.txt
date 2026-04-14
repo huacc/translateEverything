@@ -1,0 +1,218 @@
+﻿以下文本块版面过紧。请在不改变核心含义和正式风格的前提下，仅做最小必要压缩。
+不要摘要，不要解释，只输出严格 JSON。
+{
+  "page_no": 7,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "problem_blocks": [
+    {
+      "block_id": "p7_b3",
+      "block_type": "label",
+      "source_text": "友邦保險宣佈設立「友邦獎學金」，並承諾",
+      "current_translation": "AIA announced the establishment of the \"AIA Scholarship\" and committed to",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.655,
+      "line_count": 1,
+      "char_count": 19,
+      "bbox": [
+        145.51,
+        273.86,
+        329.67,
+        286.9
+      ],
+      "font_size_avg": 10.0,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p7_b4",
+      "block_type": "label",
+      "source_text": "友邦獎學金旨在資助學業成績傑出並服務",
+      "current_translation": "The AIA Scholarship aims to support students with outstanding academic",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.694,
+      "line_count": 1,
+      "char_count": 18,
+      "bbox": [
+        339.21,
+        273.86,
+        523.37,
+        286.9
+      ],
+      "font_size_avg": 10.0,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p7_b5",
+      "block_type": "label",
+      "source_text": "投放一億美元，在未來數十年每年資助",
+      "current_translation": "investing USD 100 million to support annually over the coming decades",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.703,
+      "line_count": 1,
+      "char_count": 17,
+      "bbox": [
+        145.51,
+        290.86,
+        327.83,
+        303.9
+      ],
+      "font_size_avg": 10.0,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p7_b6",
+      "block_type": "label",
+      "source_text": "社會的學生、以及那些需要經濟資助以",
+      "current_translation": "performance and commitment to society, as well as those in need of financial",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.659,
+      "line_count": 1,
+      "char_count": 17,
+      "bbox": [
+        339.21,
+        290.86,
+        523.37,
+        303.9
+      ],
+      "font_size_avg": 10.0,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p7_b7",
+      "block_type": "label",
+      "source_text": "100名就讀於香港多間大學的本科生。",
+      "current_translation": "100 undergraduate students studying at various universities in Hong Kong.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.618,
+      "line_count": 1,
+      "char_count": 18,
+      "bbox": [
+        145.51,
+        307.86,
+        329.67,
+        321.0
+      ],
+      "font_size_avg": 10.33,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p7_b8",
+      "block_type": "label",
+      "source_text": "繼續其學業的學生。",
+      "current_translation": "assistance to continue their studies.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.728,
+      "line_count": 1,
+      "char_count": 9,
+      "bbox": [
+        339.21,
+        307.86,
+        434.81,
+        320.9
+      ],
+      "font_size_avg": 10.0,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p7_b10",
+      "block_type": "label",
+      "source_text": "友邦保險成功於2020年10月將其中國內地",
+      "current_translation": "AIA successfully converted its Mainland China business into the first life",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.644,
+      "line_count": 1,
+      "char_count": 21,
+      "bbox": [
+        145.51,
+        441.69,
+        329.67,
+        454.83
+      ],
+      "font_size_avg": 10.33,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p7_b11",
+      "block_type": "label",
+      "source_text": "業務改建為首家人身保險子公司，而有關",
+      "current_translation": "insurance subsidiary in October 2020, with the relevant approval obtained",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.689,
+      "line_count": 1,
+      "char_count": 18,
+      "bbox": [
+        145.51,
+        458.69,
+        329.67,
+        471.73
+      ],
+      "font_size_avg": 10.0,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p7_b12",
+      "block_type": "label",
+      "source_text": "批復已於2020年6月取得。於2021年3月，",
+      "current_translation": "in June 2020. In March 2021, we received approval from the China Banking",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.582,
+      "line_count": 1,
+      "char_count": 23,
+      "bbox": [
+        145.51,
+        475.69,
+        327.87,
+        488.83
+      ],
+      "font_size_avg": 10.44,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p7_b13",
+      "block_type": "label",
+      "source_text": "我們已獲得中國銀行保險監督委員會",
+      "current_translation": "and Insurance Regulatory Commission to commence operations in Sichuan",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.675,
+      "line_count": 1,
+      "char_count": 16,
+      "bbox": [
+        145.51,
+        492.69,
+        329.67,
+        505.73
+      ],
+      "font_size_avg": 10.0,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p7_b16",
+      "block_type": "label",
+      "source_text": "友邦保險成為全球唯一一家跨國公司連續",
+      "current_translation": "AIA became the only multinational company globally to rank first consecutively",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.642,
+      "line_count": 1,
+      "char_count": 18,
+      "bbox": [
+        145.51,
+        645.13,
+        327.89,
+        658.17
+      ],
+      "font_size_avg": 10.0,
+      "suggested_font": "F_ARIALNB"
+    }
+  ]
+}

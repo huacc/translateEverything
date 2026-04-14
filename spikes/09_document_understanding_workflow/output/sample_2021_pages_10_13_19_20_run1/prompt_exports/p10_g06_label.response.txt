@@ -1,0 +1,43 @@
+```json
+{
+  "unit_id": "p10_g06",
+  "page_no": 10,
+  "section_id": "chairman_statement",
+  "content_type": "dividend_announcement",
+  "speaker_role": "board_of_directors",
+  "topic_tags": [
+    "shareholder_returns",
+    "dividend_policy",
+    "financial_performance",
+    "corporate_governance",
+    "forward_guidance"
+  ],
+  "term_hits": [
+    {
+      "source_term": "末期股息",
+      "target_term": "Final Dividend",
+      "confidence": "high"
+    },
+    {
+      "source_term": "全年股息",
+      "target_term": "Full Year Dividend",
+      "confidence": "high"
+    }
+  ],
+  "needs_context": true,
+  "context_scope": "section",
+  "risk_level": "high",
+  "risk_flags": [
+    "financial_metric_translation",
+    "percentage_precision",
+    "currency_notation"
+  ],
+  "translation_constraints": [
+    "Preserve exact dividend per share figures (100.30 HK cents, 135.30 HK cents)",
+    "Maintain percentage precision (7.5% increase)",
+    "Use consistent currency notation (HK$ or HKD cents)",
+    "Preserve board attribution and formal register",
+    "Maintain parallel structure between dividend announcement and confidence statement"
+  ]
+}
+```

@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p19_g05",
+      "translation": "The underlying Free Surplus generated was USD 5.843 billion, up 7%, driven by continued growth in our in-force portfolio and active management thereof, offsetting lower expected investment returns. As at 31 December 2020, the Group's financial position remained robust regarding dividend payments"
+    }
+  ]
+}
+```

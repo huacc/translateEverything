@@ -1,0 +1,38 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p2_b53",
+      "translation": "136 Consolidated Statement of Changes in Equity"
+    },
+    {
+      "block_id": "p2_b54",
+      "translation": "By life insurance premiums, the Group is a leader in Asia (excluding Japan)"
+    },
+    {
+      "block_id": "p2_b55",
+      "translation": "over-the-counter market (trading code:"
+    },
+    {
+      "block_id": "p2_b56",
+      "translation": "138 Consolidated Cash Flow Statement"
+    },
+    {
+      "block_id": "p2_b57",
+      "translation": "and holds a leading position in most markets."
+    },
+    {
+      "block_id": "p2_b58",
+      "translation": "\"AAGIY\")."
+    },
+    {
+      "block_id": "p2_b59",
+      "translation": "140 Notes to the Consolidated Financial Statements\nand Principal Accounting Policies"
+    },
+    {
+      "block_id": "p2_b60",
+      "translation": "leadership position. As at 31 December 2020, the Group"
+    }
+  ]
+}
+```

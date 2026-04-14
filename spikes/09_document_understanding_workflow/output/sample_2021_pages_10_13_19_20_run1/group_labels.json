@@ -1,0 +1,2198 @@
+[
+  {
+    "unit_id": "p10_b1",
+    "page_no": 10,
+    "section_id": "overview",
+    "content_type": "section_heading",
+    "speaker_role": null,
+    "topic_tags": [
+      "executive_summary",
+      "navigation"
+    ],
+    "term_hits": [],
+    "needs_context": false,
+    "context_scope": null,
+    "risk_level": "low",
+    "risk_flags": [],
+    "translation_constraints": [
+      "Use Title Case for section heading",
+      "Preserve hierarchical structure as main section divider",
+      "Maintain consistency with section_map target: 'Overview'"
+    ]
+  },
+  {
+    "unit_id": "p10_b2",
+    "page_no": 10,
+    "section_id": "overview",
+    "content_type": "section_heading",
+    "speaker_role": null,
+    "topic_tags": [
+      "executive_summary",
+      "navigation"
+    ],
+    "term_hits": [],
+    "needs_context": false,
+    "context_scope": null,
+    "risk_level": "low",
+    "risk_flags": [],
+    "translation_constraints": [
+      "Use Title Case for section heading",
+      "Preserve hierarchical structure as main section divider"
+    ]
+  },
+  {
+    "unit_id": "p10_b3",
+    "page_no": 10,
+    "section_id": "chairman_statement",
+    "content_type": "section_heading",
+    "speaker_role": "chairman",
+    "topic_tags": [
+      "corporate_governance",
+      "executive_communication",
+      "annual_report_structure"
+    ],
+    "term_hits": [],
+    "needs_context": false,
+    "context_scope": "none",
+    "risk_level": "low",
+    "risk_flags": [],
+    "translation_constraints": [
+      "Use Title Case: 'Chairman's Statement'",
+      "Preserve hierarchical heading structure",
+      "Match established section mapping from document profile"
+    ]
+  },
+  {
+    "unit_id": "p10_g01",
+    "page_no": 10,
+    "section_id": "chairman_statement",
+    "content_type": "chairman_statement",
+    "speaker_role": "chairman",
+    "topic_tags": [
+      "company_heritage",
+      "regional_presence",
+      "community_service",
+      "corporate_pride"
+    ],
+    "term_hits": [
+      {
+        "source_term": "友邦保險",
+        "target_term": "AIA",
+        "confidence": "high"
+      }
+    ],
+    "needs_context": true,
+    "context_scope": "section",
+    "risk_level": "medium",
+    "risk_flags": [
+      "executive_attribution",
+      "temporal_reference_precision"
+    ],
+    "translation_constraints": [
+      "Preserve formal corporate register in chairman's voice",
+      "Maintain temporal reference 'past century' with precision",
+      "Translate mission-aligned language with care to reflect original intent",
+      "Ensure geographic reference 'Asia' aligns with company's official market terminology"
+    ]
+  },
+  {
+    "unit_id": "p10_b8",
+    "page_no": 10,
+    "section_id": "chairman_statement",
+    "content_type": "executive_attribution",
+    "speaker_role": "chairman",
+    "topic_tags": [
+      "corporate_governance",
+      "executive_leadership"
+    ],
+    "term_hits": [
+      {
+        "source_term": "謝仕榮先生",
+        "target_term": "Mr. Tse Sze-wing",
+        "confidence": "high"
+      },
+      {
+        "source_term": "獨立非執行主席",
+        "target_term": "Independent Non-Executive Chairman",
+        "confidence": "high"
+      }
+    ],
+    "needs_context": false,
+    "context_scope": null,
+    "risk_level": "low",
+    "risk_flags": [
+      "executive_attribution"
+    ],
+    "translation_constraints": [
+      "Preserve exact name romanization (Tse Sze-wing)",
+      "Maintain formal title structure",
+      "Verify title consistency with company directory"
+    ]
+  },
+  {
+    "unit_id": "p10_g02",
+    "page_no": 10,
+    "section_id": "chairman_statement",
+    "content_type": "narrative_body",
+    "speaker_role": "management",
+    "topic_tags": [
+      "pandemic_response",
+      "corporate_values",
+      "stakeholder_engagement",
+      "business_continuity"
+    ],
+    "term_hits": [
+      {
+        "source_term": "2019冠狀病毒病",
+        "target_term": "COVID-19",
+        "context": "external_event"
+      }
+    ],
+    "needs_context": true,
+    "context_scope": "section",
+    "risk_level": "high",
+    "risk_flags": [
+      "COVID-19_context_sensitivity",
+      "executive_statement_tone_preservation",
+      "incomplete_sentence_fragment"
+    ],
+    "translation_constraints": [
+      "Preserve formal corporate register",
+      "Maintain parallel structure with subsequent clauses",
+      "Ensure COVID-19 terminology consistency",
+      "Verify complete sentence context (text appears truncated)"
+    ]
+  },
+  {
+    "unit_id": "p10_b12",
+    "page_no": 10,
+    "section_id": "chairman_statement",
+    "content_type": "narrative_body",
+    "speaker_role": "chairman",
+    "topic_tags": [
+      "customer_service",
+      "corporate_commitment",
+      "stakeholder_support"
+    ],
+    "term_hits": [],
+    "needs_context": true,
+    "context_scope": "section",
+    "risk_level": "low",
+    "risk_flags": [],
+    "translation_constraints": [
+      "preserve_formal_register",
+      "maintain_mission_statement_tone"
+    ]
+  },
+  {
+    "unit_id": "p10_g03",
+    "page_no": 10,
+    "section_id": "chairman_statement",
+    "content_type": "chairman_statement",
+    "speaker_role": "chairman",
+    "topic_tags": [
+      "company_heritage",
+      "business_resilience",
+      "pandemic_context",
+      "corporate_values",
+      "stakeholder_commitment",
+      "mission_statement"
+    ],
+    "term_hits": [
+      {
+        "source_term": "2019冠狀病毒病",
+        "target_term": "COVID-19",
+        "context": "external_event",
+        "confidence": "high"
+      },
+      {
+        "source_term": "幫助大眾活出健康、長久、好生活",
+        "target_term": "Healthier, Longer, Better Lives",
+        "context": "mission_statement",
+        "confidence": "high"
+      }
+    ],
+    "needs_context": true,
+    "context_scope": "section",
+    "risk_level": "high",
+    "risk_flags": [
+      "COVID-19_context_sensitivity",
+      "mission_statement_translation",
+      "executive_attribution",
+      "temporal_reference_precision"
+    ],
+    "translation_constraints": [
+      "Preserve formal corporate register and executive tone",
+      "Maintain consistency with established mission statement translation",
+      "Use 'COVID-19' consistently throughout",
+      "Preserve temporal markers: '2020年初以來' requires precise temporal translation",
+      "Translate stakeholder references (員工、代理、合作夥伴) with parallel structure",
+      "Ensure active voice preservation where source permits",
+      "Verify chairman attribution against role_map for correct title and name"
+    ]
+  },
+  {
+    "unit_id": "p10_g04",
+    "page_no": 10,
+    "section_id": "chairman_statement",
+    "content_type": "narrative_body",
+    "speaker_role": "chairman",
+    "topic_tags": [
+      "pandemic_impact",
+      "financial_performance",
+      "business_resilience",
+      "digital_transformation"
+    ],
+    "term_hits": [
+      {
+        "source_term": "2019冠狀病毒病",
+        "target_term": "COVID-19",
+        "context": "external_event",
+        "confidence": "high"
+      },
+      {
+        "source_term": "新業務價值",
+        "target_term": "New Business Value",
+        "context": "financial_metric",
+        "abbreviation": "NBV",
+        "confidence": "high"
+      }
+    ],
+    "needs_context": true,
+    "context_scope": "section",
+    "risk_level": "high",
+    "risk_flags": [
+      "financial_metric_translation",
+      "COVID-19_context_sensitivity",
+      "currency_conversion_notation",
+      "percentage_precision"
+    ],
+    "translation_constraints": [
+      "preserve_exact_currency_value_27.65_billion_USD",
+      "maintain_formal_corporate_register",
+      "ensure_COVID-19_terminology_consistency",
+      "preserve_temporal_sequence_and_causality",
+      "verify_financial_metric_against_IFRS_standards"
+    ]
+  },
+  {
+    "unit_id": "p10_b21",
+    "page_no": 10,
+    "section_id": "chairman_statement",
+    "content_type": "financial_metric",
+    "speaker_role": "management",
+    "topic_tags": [
+      "new_business_performance",
+      "year_over_year_comparison",
+      "growth_metric"
+    ],
+    "term_hits": [
+      {
+        "source_term": "新業務價值",
+        "target_term": "New Business Value",
+        "abbreviation": "NBV",
+        "confidence": "high"
+      }
+    ],
+    "needs_context": true,
+    "context_scope": "section",
+    "risk_level": "high",
+    "risk_flags": [
+      "financial_metric_translation",
+      "percentage_precision",
+      "temporal_reference_accuracy"
+    ],
+    "translation_constraints": [
+      "preserve_exact_percentage_value",
+      "maintain_comparative_structure",
+      "verify_time_period_reference",
+      "ensure_metric_consistency_with_termbase"
+    ]
+  },
+  {
+    "unit_id": "p10_g05",
+    "page_no": 10,
+    "section_id": "chairman_statement",
+    "content_type": "financial_narrative",
+    "speaker_role": "chairman",
+    "topic_tags": [
+      "financial_performance",
+      "capital_strength",
+      "profitability_metrics"
+    ],
+    "term_hits": [
+      {
+        "source_term": "稅後營運溢利",
+        "target_term": "Operating Profit After Tax",
+        "abbreviation": "OPAT",
+        "confidence": "high"
+      },
+      {
+        "source_term": "自由盈餘",
+        "target_term": "Free Surplus",
+        "confidence": "high"
+      },
+      {
+        "source_term": "內涵價值權益",
+        "target_term": "Embedded Value Equity",
+        "abbreviation": "EV",
+        "confidence": "high"
+      },
+      {
+        "source_term": "當地資本總和法覆蓋率",
+        "target_term": "Local Capital Adequacy Ratio",
+        "confidence": "high"
+      }
+    ],
+    "needs_context": true,
+    "context_scope": "section",
+    "risk_level": "critical",
+    "risk_flags": [
+      "financial_metric_translation",
+      "percentage_precision",
+      "currency_conversion_notation",
+      "capital_ratio_accuracy"
+    ],
+    "translation_constraints": [
+      "Preserve exact numerical values: 5%, 7%, 59.42億美元, 58.43億美元, 672億美元, 374%",
+      "Maintain financial terminology consistency per termbase",
+      "Use standardized currency notation (US$ or USD) throughout",
+      "Verify capital adequacy ratio terminology against Hong Kong regulatory standards",
+      "Preserve comparative structure: growth percentages and baseline figures",
+      "Maintain formal corporate register appropriate to Chairman's Statement context"
+    ]
+  },
+  {
+    "unit_id": "p10_g06",
+    "page_no": 10,
+    "section_id": "chairman_statement",
+    "content_type": "dividend_announcement",
+    "speaker_role": "board_of_directors",
+    "topic_tags": [
+      "shareholder_returns",
+      "dividend_policy",
+      "financial_performance",
+      "corporate_governance",
+      "forward_guidance"
+    ],
+    "term_hits": [
+      {
+        "source_term": "末期股息",
+        "target_term": "Final Dividend",
+        "confidence": "high"
+      },
+      {
+        "source_term": "全年股息",
+        "target_term": "Full Year Dividend",
+        "confidence": "high"
+      }
+    ],
+    "needs_context": true,
+    "context_scope": "section",
+    "risk_level": "high",
+    "risk_flags": [
+      "financial_metric_translation",
+      "percentage_precision",
+      "currency_notation"
+    ],
+    "translation_constraints": [
+      "Preserve exact dividend per share figures (100.30 HK cents, 135.30 HK cents)",
+      "Maintain percentage precision (7.5% increase)",
+      "Use consistent currency notation (HK$ or HKD cents)",
+      "Preserve board attribution and formal register",
+      "Maintain parallel structure between dividend announcement and confidence statement"
+    ]
+  },
+  {
+    "unit_id": "p10_b27",
+    "page_no": 10,
+    "section_id": "chairman_statement",
+    "content_type": "footer",
+    "speaker_role": "management",
+    "topic_tags": [
+      "dividend_policy",
+      "capital_allocation",
+      "financial_flexibility",
+      "growth_strategy"
+    ],
+    "term_hits": [],
+    "needs_context": true,
+    "context_scope": "section",
+    "risk_level": "medium",
+    "risk_flags": [
+      "financial_metric_translation",
+      "policy_implication_accuracy"
+    ],
+    "translation_constraints": [
+      "preserve_formal_register",
+      "maintain_parallel_structure_with_preceding_sentence",
+      "ensure_policy_intent_clarity"
+    ]
+  },
+  {
+    "unit_id": "p10_b28",
+    "page_no": 10,
+    "section_id": "chairman_statement",
+    "content_type": "footer",
+    "speaker_role": null,
+    "topic_tags": [
+      "company_identification",
+      "document_branding"
+    ],
+    "term_hits": [
+      "友邦保險控股有限公司"
+    ],
+    "needs_context": false,
+    "context_scope": null,
+    "risk_level": "low",
+    "risk_flags": [],
+    "translation_constraints": [
+      "preserve_company_name_mapping",
+      "maintain_page_number_format"
+    ]
+  },
+  {
+    "unit_id": "p13_g01",
+    "page_no": 13,
+    "section_id": "ceo_report",
+    "content_type": "executive_narrative",
+    "speaker_role": "group_ceo_president",
+    "topic_tags": [
+      "customer_value_proposition",
+      "financial_security",
+      "family_protection",
+      "covid19_pandemic_response",
+      "organizational_resilience",
+      "stakeholder_acknowledgment"
+    ],
+    "term_hits": [
+      {
+        "source_term": "2019冠狀病毒病",
+        "target_term": "COVID-19",
+        "context": "external_event"
+      }
+    ],
+    "needs_context": true,
+    "context_scope": "section",
+    "risk_level": "medium",
+    "risk_flags": [
+      {
+        "flag": "COVID-19_context_sensitivity",
+        "severity": "high",
+        "description": "Pandemic reference requires consistent terminology and accurate contextual framing"
+      },
+      {
+        "flag": "executive_tone_preservation",
+        "severity": "medium",
+        "description": "CEO statement requires formal register and authentic voice preservation"
+      }
+    ],
+    "translation_constraints": [
+      "Maintain formal corporate register throughout",
+      "Preserve temporal context of pandemic reference",
+      "Use 'COVID-19' consistently per termbase",
+      "Translate mission-aligned language (customer trust, financial security, family protection) with care",
+      "Preserve acknowledgment tone toward employees, agents, and partners"
+    ]
+  },
+  {
+    "unit_id": "p13_b4",
+    "page_no": 13,
+    "section_id": "navigation_sidebar",
+    "content_type": "navigation",
+    "speaker_role": null,
+    "topic_tags": [
+      "document_structure",
+      "section_index"
+    ],
+    "term_hits": [],
+    "needs_context": false,
+    "context_scope": null,
+    "risk_level": "low",
+    "risk_flags": [],
+    "translation_constraints": [
+      "Preserve hierarchical structure of section headings",
+      "Maintain consistent Title Case formatting",
+      "Ensure section names align with section_map definitions"
+    ]
+  },
+  {
+    "unit_id": "p13_g02",
+    "page_no": 13,
+    "section_id": "Group Chief Executive and President's Report",
+    "content_type": "executive_narrative",
+    "speaker_role": "ceo",
+    "topic_tags": [
+      "pandemic_response",
+      "business_continuity",
+      "community_impact",
+      "employee_welfare",
+      "claims_performance",
+      "customer_protection"
+    ],
+    "term_hits": [
+      {
+        "source_term": "2019冠狀病毒病",
+        "target_term": "COVID-19",
+        "context": "external_event"
+      },
+      {
+        "source_term": "保險給付及理賠",
+        "target_term": "insurance benefits and claims",
+        "context": "business_metric"
+      }
+    ],
+    "needs_context": true,
+    "context_scope": "section",
+    "risk_level": "high",
+    "risk_flags": [
+      "COVID-19_context_sensitivity",
+      "financial_metric_precision",
+      "currency_conversion_notation",
+      "executive_attribution"
+    ],
+    "translation_constraints": [
+      "Preserve formal corporate register in CEO statement",
+      "Maintain temporal reference accuracy (年內 → during the year)",
+      "Convert currency with precision: 160億美元 → USD 16.0 billion",
+      "Ensure consistent COVID-19 terminology throughout",
+      "Preserve parallel structure in enumerated measures (財政支持、提供醫療物資、免費保障覆蓋、獲取醫療保健資源、精簡服務流程、加快理賠支付)",
+      "Verify claims payment figure against financial statements for accuracy"
+    ]
+  },
+  {
+    "unit_id": "p13_g03",
+    "page_no": 13,
+    "section_id": "Group Chief Executive and President's Report",
+    "content_type": "financial_narrative",
+    "speaker_role": "ceo",
+    "topic_tags": [
+      "financial_performance",
+      "new_business_metrics",
+      "capital_strength",
+      "covid_19_impact",
+      "operational_results"
+    ],
+    "term_hits": [
+      {
+        "source_term": "2019冠狀病毒病",
+        "target_term": "COVID-19",
+        "context": "external_event"
+      },
+      {
+        "source_term": "新業務價值",
+        "target_term": "New Business Value",
+        "abbreviation": "NBV"
+      },
+      {
+        "source_term": "有效保單",
+        "target_term": "In-Force Business"
+      },
+      {
+        "source_term": "稅後營運溢利",
+        "target_term": "Operating Profit After Tax",
+        "abbreviation": "OPAT"
+      },
+      {
+        "source_term": "自由盈餘",
+        "target_term": "Free Surplus"
+      },
+      {
+        "source_term": "內涵價值權益",
+        "target_term": "Embedded Value Equity",
+        "abbreviation": "EV"
+      }
+    ],
+    "needs_context": true,
+    "context_scope": "section",
+    "risk_level": "critical",
+    "risk_flags": [
+      "financial_metric_translation",
+      "percentage_precision",
+      "currency_conversion_notation",
+      "covid_19_context_sensitivity"
+    ],
+    "translation_constraints": [
+      "Preserve exact numerical values: 27.65億美元, 15%, 5%, 7%, 672億美元, 374%",
+      "Maintain formal corporate register in CEO statement",
+      "Standardize currency notation to US$ or USD throughout",
+      "Ensure consistent financial terminology per termbase",
+      "Preserve temporal references: 2020年, 2021年, 首兩個月, 2020年12月31日",
+      "Verify COVID-19 impact narrative aligns with company's English disclosure",
+      "Cross-reference capital adequacy metrics against IFRS standards"
+    ]
+  },
+  {
+    "unit_id": "p13_g04",
+    "page_no": 13,
+    "section_id": "Group Chief Executive and President's Report",
+    "content_type": "dividend_policy_statement",
+    "speaker_role": "board_of_directors",
+    "topic_tags": [
+      "dividend_announcement",
+      "capital_allocation",
+      "shareholder_returns",
+      "financial_policy"
+    ],
+    "term_hits": [
+      {
+        "source_term": "末期股息",
+        "target_term": "Final Dividend",
+        "context": "financial_metric"
+      },
+      {
+        "source_term": "派息政策",
+        "target_term": "Dividend Policy",
+        "context": "financial_policy"
+      }
+    ],
+    "needs_context": true,
+    "context_scope": "section",
+    "risk_level": "high",
+    "risk_flags": [
+      "financial_metric_translation",
+      "percentage_precision",
+      "currency_notation"
+    ],
+    "translation_constraints": [
+      "Preserve exact percentage increase (7.5%)",
+      "Maintain currency precision (100.30 HK cents per share)",
+      "Translate dividend policy attributes consistently (prudent, sustainable, progressive)",
+      "Preserve policy rationale structure (growth opportunities + financial flexibility)",
+      "Verify 'Board recommends' vs 'Board proposes' terminology consistency"
+    ]
+  },
+  {
+    "unit_id": "p13_g05",
+    "page_no": 13,
+    "section_id": "Group Chief Executive and President's Report",
+    "content_type": "competitive_positioning",
+    "speaker_role": "ceo",
+    "topic_tags": [
+      "market_leadership",
+      "regional_presence",
+      "competitive_advantage",
+      "asia_focus",
+      "business_strategy"
+    ],
+    "term_hits": [
+      {
+        "source_term": "亞洲",
+        "target_term": "Asia",
+        "context": "geographic_reference"
+      }
+    ],
+    "needs_context": true,
+    "context_scope": "section",
+    "risk_level": "medium",
+    "risk_flags": [
+      "geographic_market_names",
+      "superlative_claims"
+    ],
+    "translation_constraints": [
+      "Preserve formal corporate register in strategic positioning statement",
+      "Maintain parallel structure in enumerated advantages",
+      "Translate market leadership claims with precision; verify against company's English materials",
+      "Preserve temporal reference '數十載' with appropriate English equivalent"
+    ]
+  },
+  {
+    "unit_id": "p13_g06",
+    "page_no": 13,
+    "section_id": "Group Chief Executive and President's Report",
+    "content_type": "narrative_body",
+    "speaker_role": "management",
+    "topic_tags": [
+      "distribution_capability",
+      "customer_engagement",
+      "product_positioning",
+      "sustainability",
+      "brand_value",
+      "market_leadership"
+    ],
+    "term_hits": [
+      {
+        "source_term": "健康、長久、好生活",
+        "target_term": "Healthier, Longer, Better Lives",
+        "context": "mission_statement",
+        "confidence": "high"
+      },
+      {
+        "source_term": "可持續發展",
+        "target_term": "sustainable development",
+        "context": "esg_framework",
+        "confidence": "high"
+      },
+      {
+        "source_term": "長期保障和儲蓄需求",
+        "target_term": "long-term protection and savings needs",
+        "context": "product_positioning",
+        "confidence": "high"
+      }
+    ],
+    "needs_context": true,
+    "context_scope": "section",
+    "risk_level": "medium",
+    "risk_flags": [
+      "mission_statement_translation",
+      "sustainability_terminology",
+      "market_positioning_claims"
+    ],
+    "translation_constraints": [
+      "Preserve brand mission statement 'Healthier, Longer, Better Lives' exactly as established",
+      "Maintain formal corporate register throughout",
+      "Ensure sustainability/ESG terminology aligns with company's official framework",
+      "Preserve parallel structure in descriptive phrases about distribution and customer value"
+    ]
+  },
+  {
+    "unit_id": "p13_g07",
+    "page_no": 13,
+    "section_id": "Group Chief Executive and President's Report",
+    "content_type": "strategic_narrative",
+    "speaker_role": "ceo",
+    "topic_tags": [
+      "technology_leadership",
+      "digital_transformation",
+      "customer_experience",
+      "data_analytics",
+      "product_personalization",
+      "operational_efficiency",
+      "customer_relationship"
+    ],
+    "term_hits": [
+      {
+        "source_term": "友邦保險",
+        "target_term": "AIA",
+        "confidence": "high"
+      }
+    ],
+    "needs_context": true,
+    "context_scope": "section",
+    "risk_level": "medium",
+    "risk_flags": [
+      "strategic_claim_accuracy",
+      "technology_capability_assertion"
+    ],
+    "translation_constraints": [
+      "Preserve formal corporate register in strategic statement",
+      "Maintain parallel structure in multi-clause sentences",
+      "Translate mission-oriented language with care to reflect original intent",
+      "Ensure 'AIA' consistency throughout",
+      "Preserve causal relationships between technology adoption and customer outcomes"
+    ]
+  },
+  {
+    "unit_id": "p13_g08",
+    "page_no": 13,
+    "section_id": "Group Chief Executive and President's Report",
+    "content_type": "executive_narrative",
+    "speaker_role": "Group Chief Executive and President",
+    "topic_tags": [
+      "market_outlook",
+      "business_strategy",
+      "customer_focus",
+      "digital_transformation",
+      "pandemic_context"
+    ],
+    "term_hits": [
+      {
+        "source_term": "亞洲壽險行業",
+        "target_term": "Asian life insurance industry",
+        "context": "market_segment"
+      },
+      {
+        "source_term": "友邦保險",
+        "target_term": "AIA",
+        "context": "company_name"
+      },
+      {
+        "source_term": "企業策略",
+        "target_term": "corporate strategy",
+        "context": "business_strategy"
+      }
+    ],
+    "needs_context": true,
+    "context_scope": "section",
+    "risk_level": "medium",
+    "risk_flags": [
+      "temporal_reference_2020",
+      "strategic_claim_accuracy",
+      "tone_preservation_optimism"
+    ],
+    "translation_constraints": [
+      "Preserve formal executive register and optimistic tone",
+      "Maintain parallel structure in strategy description",
+      "Translate '前所未見的一年' contextually (COVID-19 reference)",
+      "Ensure 'customer expectations' and 'financial needs' are rendered with precision",
+      "Preserve strategic intent of 'transformation process' language"
+    ]
+  },
+  {
+    "unit_id": "p13_b29",
+    "page_no": 13,
+    "section_id": "overview",
+    "content_type": "footer",
+    "speaker_role": null,
+    "topic_tags": [],
+    "term_hits": [],
+    "needs_context": false,
+    "context_scope": null,
+    "risk_level": "low",
+    "risk_flags": [],
+    "translation_constraints": [
+      "Preserve page numbering format",
+      "Maintain footer placement and styling"
+    ]
+  },
+  {
+    "unit_id": "p19_g01",
+    "page_no": 19,
+    "section_id": "集團首席財務總監回顧",
+    "content_type": "financial_narrative",
+    "speaker_role": "cfo",
+    "topic_tags": [
+      "pandemic_impact",
+      "new_business_performance",
+      "sales_channel_adaptation",
+      "digital_transformation"
+    ],
+    "term_hits": [
+      {
+        "source_term": "新業務價值",
+        "target_term": "New Business Value",
+        "abbreviation": "NBV",
+        "confidence": "high"
+      },
+      {
+        "source_term": "2019冠狀病毒病",
+        "target_term": "COVID-19",
+        "confidence": "high"
+      }
+    ],
+    "needs_context": true,
+    "context_scope": "section",
+    "risk_level": "high",
+    "risk_flags": [
+      "financial_metric_translation",
+      "percentage_precision",
+      "covid19_context_sensitivity",
+      "currency_conversion_notation",
+      "incomplete_sentence_boundary"
+    ],
+    "translation_constraints": [
+      "preserve_exact_decimal_places_27.65_billion",
+      "maintain_percentage_accuracy_33_percent_decline",
+      "standardize_currency_notation_USD",
+      "verify_year_over_year_comparison_2019_vs_2020",
+      "preserve_temporal_sequence_H1_vs_full_year",
+      "maintain_causal_relationship_containment_measures_to_sales_impact",
+      "handle_incomplete_sentence_at_unit_boundary"
+    ]
+  },
+  {
+    "unit_id": "p19_b4",
+    "page_no": 19,
+    "section_id": "navigation",
+    "content_type": "sidebar_nav",
+    "speaker_role": null,
+    "topic_tags": [
+      "document_structure",
+      "navigation_element"
+    ],
+    "term_hits": [],
+    "needs_context": false,
+    "context_scope": null,
+    "risk_level": "low",
+    "risk_flags": [],
+    "translation_constraints": [
+      "Preserve hierarchical structure of navigation items",
+      "Maintain consistent Title Case for section headings",
+      "Use established target section names from section_map"
+    ]
+  },
+  {
+    "unit_id": "p19_g02",
+    "page_no": 19,
+    "section_id": "financial_review",
+    "content_type": "financial_narrative",
+    "speaker_role": "management",
+    "topic_tags": [
+      "new_business_performance",
+      "geographic_market_analysis",
+      "covid19_impact",
+      "business_recovery",
+      "regional_comparison"
+    ],
+    "term_hits": [
+      {
+        "source_term": "新業務價值",
+        "target_term": "New Business Value",
+        "abbreviation": "NBV",
+        "frequency": 3
+      },
+      {
+        "source_term": "中國內地",
+        "target_term": "Mainland China",
+        "frequency": 1
+      },
+      {
+        "source_term": "報告分部",
+        "target_term": "reporting segment",
+        "frequency": 1
+      }
+    ],
+    "needs_context": true,
+    "context_scope": "section",
+    "risk_level": "high",
+    "risk_flags": [
+      "financial_metric_translation",
+      "geographic_market_names",
+      "percentage_precision",
+      "covid19_context_sensitivity",
+      "temporal_reference_accuracy"
+    ],
+    "translation_constraints": [
+      "Preserve exact percentage values (23%, 15%) without rounding",
+      "Maintain consistent NBV terminology across all occurrences",
+      "Standardize geographic references: 中國內地 → Mainland China; 訪港旅客 → Hong Kong visitor",
+      "Preserve temporal markers: 2020年3月, 上半年, 下半年, 2021年首兩個月",
+      "Maintain formal corporate register; reflect management narrative tone",
+      "Verify COVID-19 lockdown context aligns with historical timeline",
+      "Ensure segment comparison logic is preserved in translation"
+    ]
+  },
+  {
+    "unit_id": "p19_b9",
+    "page_no": 19,
+    "section_id": "內涵價值權益",
+    "content_type": "financial_metric",
+    "speaker_role": "management",
+    "topic_tags": [
+      "embedded_value",
+      "shareholder_equity",
+      "financial_performance",
+      "dividend_distribution"
+    ],
+    "term_hits": [
+      {
+        "source_term": "內涵價值權益",
+        "target_term": "Embedded Value Equity",
+        "abbreviation": "EVE",
+        "confidence": "high"
+      },
+      {
+        "source_term": "內涵價值",
+        "target_term": "Embedded Value",
+        "abbreviation": "EV",
+        "confidence": "high"
+      }
+    ],
+    "needs_context": true,
+    "context_scope": "section",
+    "risk_level": "critical",
+    "risk_flags": [
+      "financial_metric_translation",
+      "currency_conversion_notation",
+      "percentage_and_ratio_precision",
+      "numerical_precision"
+    ],
+    "translation_constraints": [
+      "preserve_exact_decimal_places",
+      "standardize_currency_notation_to_USD",
+      "maintain_billion_unit_conversion",
+      "verify_dividend_amount_accuracy",
+      "cross_reference_with_IFRS_standards"
+    ]
+  },
+  {
+    "unit_id": "p19_g03",
+    "page_no": 19,
+    "section_id": "集團首席財務總監回顧",
+    "content_type": "financial_narrative",
+    "speaker_role": "cfo",
+    "topic_tags": [
+      "embedded_value_analysis",
+      "operating_profit",
+      "bond_yield_impact",
+      "experience_variance"
+    ],
+    "term_hits": [
+      {
+        "source_term": "內涵價值",
+        "target_term": "Embedded Value",
+        "abbreviation": "EV",
+        "confidence": "high"
+      },
+      {
+        "source_term": "營運溢利",
+        "target_term": "Operating Profit",
+        "confidence": "high"
+      }
+    ],
+    "needs_context": true,
+    "context_scope": "section",
+    "risk_level": "high",
+    "risk_flags": [
+      "financial_metric_translation",
+      "percentage_and_ratio_precision",
+      "currency_conversion_notation"
+    ],
+    "translation_constraints": [
+      "Preserve exact numerical values: 72.43億美元, 5.49億美元",
+      "Maintain financial terminology consistency for EV operating profit",
+      "Clarify causal relationship: 'offset' vs 'counterbalance' for 抵銷",
+      "Preserve comparative logic: experience variance relative to assumptions",
+      "Standardize currency notation to US$ or USD throughout"
+    ]
+  },
+  {
+    "unit_id": "p19_g04",
+    "page_no": 19,
+    "section_id": "集團首席財務總監回顧",
+    "content_type": "financial_narrative",
+    "speaker_role": "cfo",
+    "topic_tags": [
+      "operating_profit",
+      "premium_income",
+      "renewal_rate",
+      "claims_experience",
+      "investment_returns"
+    ],
+    "term_hits": [
+      {
+        "source_term": "稅後營運溢利",
+        "target_term": "Operating Profit After Tax",
+        "abbreviation": "OPAT",
+        "occurrences": 3
+      },
+      {
+        "source_term": "有效保單",
+        "target_term": "In-Force Business",
+        "occurrences": 1
+      },
+      {
+        "source_term": "續保保費",
+        "target_term": "Renewal Premium",
+        "occurrences": 2
+      },
+      {
+        "source_term": "續保率",
+        "target_term": "Renewal Rate",
+        "occurrences": 2
+      }
+    ],
+    "needs_context": true,
+    "context_scope": "section",
+    "risk_level": "high",
+    "risk_flags": [
+      "financial_metric_translation",
+      "percentage_precision",
+      "currency_conversion_notation",
+      "geographic_market_reference"
+    ],
+    "translation_constraints": [
+      "Preserve exact numerical values: 5%, 59.42億美元, 16.9%, 90%, 95%",
+      "Maintain financial metric consistency: OPAT, renewal rate, premium income",
+      "Convert currency notation: 59.42億美元 → USD 5.942 billion",
+      "Preserve temporal context: 上半年, 下半年, 全年, 2020年",
+      "Geographic reference: 友邦保險泰國業務 → AIA Thailand operations",
+      "Maintain formal CFO register and analytical tone",
+      "Preserve causal relationships and comparative metrics"
+    ]
+  },
+  {
+    "unit_id": "p19_g05",
+    "page_no": 19,
+    "section_id": "集團首席財務總監回顧",
+    "content_type": "financial_narrative",
+    "speaker_role": "cfo",
+    "topic_tags": [
+      "capital_metrics",
+      "business_growth",
+      "financial_performance",
+      "investment_returns"
+    ],
+    "term_hits": [
+      {
+        "source_term": "自由盈餘",
+        "target_term": "Free Surplus",
+        "context": "capital_metric",
+        "confidence": "high"
+      },
+      {
+        "source_term": "有效保單",
+        "target_term": "In-Force Business",
+        "context": "business_metric",
+        "confidence": "high"
+      }
+    ],
+    "needs_context": true,
+    "context_scope": "section",
+    "risk_level": "high",
+    "risk_flags": [
+      "financial_metric_translation",
+      "percentage_precision",
+      "currency_conversion_notation"
+    ],
+    "translation_constraints": [
+      "Preserve exact numerical precision: 58.43億美元 → USD 5.843 billion",
+      "Maintain percentage format: 增長了7% → grew 7% (not 'increased by seven percent')",
+      "Ensure 'Free Surplus' consistency with IFRS/company glossary",
+      "Preserve temporal reference: 2020年12月31日 → 31 December 2020",
+      "Maintain formal CFO register and analytical tone",
+      "Verify 'in-force business portfolio' terminology alignment with company's English materials"
+    ]
+  },
+  {
+    "unit_id": "p19_b20",
+    "page_no": 19,
+    "section_id": "集團首席財務總監回顧",
+    "content_type": "financial_narrative",
+    "speaker_role": "cfo",
+    "topic_tags": [
+      "capital_metrics",
+      "financial_performance",
+      "balance_sheet"
+    ],
+    "term_hits": [
+      {
+        "source_term": "自由盈餘",
+        "target_term": "Free Surplus",
+        "context": "capital_metric",
+        "confidence": "high"
+      }
+    ],
+    "needs_context": true,
+    "context_scope": "section",
+    "risk_level": "high",
+    "risk_flags": [
+      "financial_metric_translation",
+      "currency_conversion_notation",
+      "percentage_and_ratio_precision"
+    ],
+    "translation_constraints": [
+      "Preserve numerical precision: 19.97億美元 and 134.73億美元 must convert accurately to USD billions",
+      "Use consistent currency notation: standardize to 'US$' or 'USD' format",
+      "Maintain formal corporate register for financial statement context",
+      "Verify Free Surplus definition against IFRS standards and company's English financial statements",
+      "Preserve exact decimal places (19.97, 134.73) without rounding"
+    ]
+  },
+  {
+    "unit_id": "p19_g06",
+    "page_no": 19,
+    "section_id": "集團首席財務總監回顧",
+    "content_type": "financial_metrics",
+    "speaker_role": "cfo",
+    "topic_tags": [
+      "solvency_ratio",
+      "regulatory_capital",
+      "capital_adequacy",
+      "group_governance"
+    ],
+    "term_hits": [
+      {
+        "source_term": "償付能力充足率",
+        "target_term": "Solvency Ratio",
+        "confidence": "high"
+      },
+      {
+        "source_term": "集團當地資本總和法覆蓋率",
+        "target_term": "Group Local Capital Aggregation Method Coverage Ratio",
+        "confidence": "high"
+      }
+    ],
+    "needs_context": true,
+    "context_scope": "section",
+    "risk_level": "critical",
+    "risk_flags": [
+      "financial_metric_translation",
+      "regulatory_terminology",
+      "percentage_precision",
+      "policy_disclosure_change"
+    ],
+    "translation_constraints": [
+      "Preserve exact percentage values (489%, 374%) without rounding",
+      "Maintain regulatory framework terminology consistency",
+      "Clarify distinction between AIA Co. solvency ratio and Group LCAM coverage ratio",
+      "Preserve temporal reference (2020年12月31日 → 31 December 2020)",
+      "Translate company name consistently (友邦保險有限公司 → AIA Co. Limited)",
+      "Maintain formal register for regulatory disclosure",
+      "Preserve forward-looking statement intent (日後披露 → future disclosure)"
+    ]
+  },
+  {
+    "unit_id": "p19_g07",
+    "page_no": 19,
+    "section_id": "financial_review",
+    "content_type": "dividend_announcement",
+    "speaker_role": "board_of_directors",
+    "topic_tags": [
+      "dividend_policy",
+      "shareholder_returns",
+      "financial_performance",
+      "capital_allocation"
+    ],
+    "term_hits": [
+      {
+        "source_term": "末期股息",
+        "target_term": "Final Dividend",
+        "context": "financial_metric"
+      },
+      {
+        "source_term": "全年股息總額",
+        "target_term": "Total Annual Dividend",
+        "context": "financial_metric"
+      },
+      {
+        "source_term": "派息政策",
+        "target_term": "Dividend Policy",
+        "context": "corporate_policy"
+      }
+    ],
+    "needs_context": true,
+    "context_scope": "section",
+    "risk_level": "high",
+    "risk_flags": [
+      "percentage_precision",
+      "currency_notation",
+      "financial_metric_translation",
+      "year_over_year_comparison"
+    ],
+    "translation_constraints": [
+      "Preserve exact percentage values (7.5%, 6.9%) without rounding",
+      "Maintain currency notation consistency (港仙 → HK cents; ensure HKD/HK$ alignment)",
+      "Translate dividend policy terminology consistently with company's English financial statements",
+      "Preserve temporal references (2020年, 2019年) with clarity",
+      "Maintain formal corporate register for board-level announcement",
+      "Verify 'sustainable and progressive dividend policy' alignment with company's official English phrasing"
+    ]
+  },
+  {
+    "unit_id": "p19_g08",
+    "page_no": 19,
+    "section_id": "集團首席財務總監回顧",
+    "content_type": "cfo_narrative",
+    "speaker_role": "group_chief_financial_officer",
+    "topic_tags": [
+      "business_outlook",
+      "geographic_expansion",
+      "capital_allocation",
+      "profitability",
+      "shareholder_value",
+      "financial_discipline"
+    ],
+    "term_hits": [
+      {
+        "source_term": "新業務",
+        "target_term": "New Business",
+        "context": "financial_metric"
+      }
+    ],
+    "needs_context": true,
+    "context_scope": "section",
+    "risk_level": "medium",
+    "risk_flags": [
+      "forward_looking_statement",
+      "strategic_commitment_language",
+      "geographic_market_reference"
+    ],
+    "translation_constraints": [
+      "preserve_formal_corporate_register",
+      "maintain_strategic_intent_in_tone",
+      "ensure_consistency_with_cfo_voice",
+      "translate_asia_pacific_reference_precisely"
+    ]
+  },
+  {
+    "unit_id": "p19_b29",
+    "page_no": 19,
+    "section_id": "financial_review",
+    "content_type": "footer",
+    "speaker_role": null,
+    "topic_tags": [],
+    "term_hits": [],
+    "needs_context": false,
+    "context_scope": null,
+    "risk_level": "low",
+    "risk_flags": [],
+    "translation_constraints": [
+      "Preserve page numbering format",
+      "Maintain footer positioning and typography"
+    ]
+  },
+  {
+    "unit_id": "p20_b1",
+    "page_no": 20,
+    "section_id": "financial_and_operating_review",
+    "content_type": "section_heading",
+    "speaker_role": null,
+    "topic_tags": [
+      "financial_performance",
+      "operational_metrics",
+      "business_review"
+    ],
+    "term_hits": [],
+    "needs_context": false,
+    "context_scope": null,
+    "risk_level": "low",
+    "risk_flags": [],
+    "translation_constraints": [
+      "Use Title Case for section heading",
+      "Maintain hierarchical structure consistency",
+      "Preserve as established section mapping: 財務及營運回顧 → Financial and Operating Review"
+    ]
+  },
+  {
+    "unit_id": "p20_b2",
+    "page_no": 20,
+    "section_id": "集團首席財務總監回顧",
+    "content_type": "section_heading",
+    "speaker_role": "cfo",
+    "topic_tags": [
+      "financial_review",
+      "executive_statement",
+      "management_commentary"
+    ],
+    "term_hits": [],
+    "needs_context": true,
+    "context_scope": "section",
+    "risk_level": "medium",
+    "risk_flags": [
+      "executive_attribution"
+    ],
+    "translation_constraints": [
+      "preserve_title_case",
+      "maintain_hierarchical_structure",
+      "verify_cfo_identity_and_romanization"
+    ]
+  },
+  {
+    "unit_id": "p20_b3",
+    "page_no": 20,
+    "section_id": "new_business_performance",
+    "content_type": "section_heading",
+    "speaker_role": null,
+    "topic_tags": [
+      "financial_metrics",
+      "business_performance",
+      "new_business"
+    ],
+    "term_hits": [
+      {
+        "source_term": "新業務表現",
+        "target_term": "New Business Performance",
+        "context": "business_metrics",
+        "confidence": "high"
+      }
+    ],
+    "needs_context": false,
+    "context_scope": null,
+    "risk_level": "low",
+    "risk_flags": [],
+    "translation_constraints": [
+      {
+        "constraint": "Preserve financial terminology consistency",
+        "detail": "新業務表現 must translate to 'New Business Performance' (established in termbase)"
+      },
+      {
+        "constraint": "Use Title Case for section heading",
+        "detail": "Section headings follow Title Case convention per style_guide"
+      }
+    ]
+  },
+  {
+    "unit_id": "p20_b4",
+    "page_no": 20,
+    "section_id": "new_business_performance",
+    "content_type": "table_label",
+    "speaker_role": null,
+    "topic_tags": [
+      "financial_metrics",
+      "business_segmentation",
+      "new_business_performance"
+    ],
+    "term_hits": [
+      {
+        "source_term": "新業務價值",
+        "target_term": "New Business Value",
+        "abbreviation": "NBV"
+      },
+      {
+        "source_term": "年化新保費",
+        "target_term": "Annualized New Premium",
+        "abbreviation": "ANP"
+      },
+      {
+        "source_term": "利潤率",
+        "target_term": "Profit Margin"
+      }
+    ],
+    "needs_context": true,
+    "context_scope": "table",
+    "risk_level": "high",
+    "risk_flags": [
+      "financial_metric_translation",
+      "percentage_precision",
+      "table_structure_integrity"
+    ],
+    "translation_constraints": [
+      "preserve_financial_terminology_consistency",
+      "maintain_table_header_alignment",
+      "preserve_numerical_precision",
+      "use_formal_corporate_register"
+    ]
+  },
+  {
+    "unit_id": "p20_b5",
+    "page_no": 20,
+    "section_id": "new_business_performance",
+    "content_type": "financial_metric_header",
+    "speaker_role": null,
+    "topic_tags": [
+      "new_business_value",
+      "year_over_year_comparison",
+      "financial_performance"
+    ],
+    "term_hits": [
+      {
+        "source_term": "新業務價值",
+        "target_term": "New Business Value",
+        "abbreviation": "NBV",
+        "confidence": "high"
+      }
+    ],
+    "needs_context": true,
+    "context_scope": "section",
+    "risk_level": "high",
+    "risk_flags": [
+      "financial_metric_translation",
+      "percentage_and_ratio_precision"
+    ],
+    "translation_constraints": [
+      "preserve_exact_numerical_values",
+      "maintain_year_comparison_structure",
+      "use_consistent_financial_terminology",
+      "verify_calculation_accuracy"
+    ]
+  },
+  {
+    "unit_id": "p20_b6",
+    "page_no": 20,
+    "section_id": "new_business_performance",
+    "content_type": "table_header",
+    "speaker_role": null,
+    "topic_tags": [
+      "financial_metrics",
+      "new_business",
+      "profitability"
+    ],
+    "term_hits": [
+      {
+        "source_term": "新業務價值",
+        "target_term": "New Business Value",
+        "abbreviation": "NBV",
+        "confidence": "high"
+      },
+      {
+        "source_term": "利潤率",
+        "target_term": "Profit Margin",
+        "confidence": "high"
+      },
+      {
+        "source_term": "年化新保費",
+        "target_term": "Annualized New Premium",
+        "abbreviation": "ANP",
+        "confidence": "high"
+      }
+    ],
+    "needs_context": true,
+    "context_scope": "table",
+    "risk_level": "critical",
+    "risk_flags": [
+      "financial_metric_translation",
+      "percentage_precision",
+      "table_header_alignment"
+    ],
+    "translation_constraints": [
+      "preserve_financial_terminology_consistency",
+      "maintain_table_structure_and_alignment",
+      "convert_currency_units_with_precision",
+      "preserve_percentage_and_ratio_formatting"
+    ]
+  },
+  {
+    "unit_id": "p20_b7",
+    "page_no": 20,
+    "section_id": "新業務表現",
+    "content_type": "table_header",
+    "speaker_role": null,
+    "topic_tags": [
+      "financial_metrics",
+      "new_business_performance",
+      "business_metrics"
+    ],
+    "term_hits": [
+      {
+        "source_term": "新業務價值",
+        "target_term": "New Business Value",
+        "abbreviation": "NBV",
+        "confidence": "high"
+      },
+      {
+        "source_term": "利潤率",
+        "target_term": "Profit Margin",
+        "confidence": "high"
+      },
+      {
+        "source_term": "年化新保費",
+        "target_term": "Annualized New Premium",
+        "abbreviation": "ANP",
+        "confidence": "high"
+      }
+    ],
+    "needs_context": true,
+    "context_scope": "table",
+    "risk_level": "critical",
+    "risk_flags": [
+      "financial_metric_translation",
+      "percentage_precision",
+      "currency_notation",
+      "table_header_alignment"
+    ],
+    "translation_constraints": [
+      "preserve_financial_terminology_consistency",
+      "maintain_table_structure_and_alignment",
+      "convert_currency_units_with_precision",
+      "preserve_percentage_and_ratio_formatting",
+      "translate_table_headers_consistently_with_body_text"
+    ]
+  },
+  {
+    "unit_id": "p20_b8",
+    "page_no": 20,
+    "section_id": "new_business_performance",
+    "content_type": "table_header",
+    "speaker_role": null,
+    "topic_tags": [
+      "financial_metrics",
+      "new_business",
+      "valuation"
+    ],
+    "term_hits": [
+      {
+        "source_term": "新業務價值",
+        "target_term": "New Business Value",
+        "abbreviation": "NBV",
+        "confidence": "high"
+      }
+    ],
+    "needs_context": true,
+    "context_scope": "table",
+    "risk_level": "critical",
+    "risk_flags": [
+      "financial_metric_translation",
+      "currency_notation_consistency",
+      "table_header_alignment"
+    ],
+    "translation_constraints": [
+      "preserve_financial_terminology_consistency",
+      "maintain_currency_unit_notation",
+      "align_with_table_structure",
+      "cross_reference_ifrs_standards"
+    ]
+  },
+  {
+    "unit_id": "p20_b9",
+    "page_no": 20,
+    "section_id": "new_business_performance",
+    "content_type": "financial_table_data",
+    "speaker_role": null,
+    "topic_tags": [
+      "geographic_market",
+      "financial_metrics",
+      "business_performance"
+    ],
+    "term_hits": [
+      {
+        "source_term": "香港",
+        "context": "geographic_market",
+        "target_equivalent": "Hong Kong"
+      }
+    ],
+    "needs_context": true,
+    "context_scope": "table",
+    "risk_level": "high",
+    "risk_flags": [
+      "percentage_and_ratio_precision",
+      "currency_conversion_notation",
+      "table_structure_alignment",
+      "financial_metric_translation"
+    ],
+    "translation_constraints": [
+      "preserve_exact_decimal_places",
+      "maintain_table_column_alignment",
+      "verify_percentage_calculations",
+      "standardize_currency_notation",
+      "cross_reference_with_table_headers"
+    ]
+  },
+  {
+    "unit_id": "p20_b10",
+    "page_no": 20,
+    "section_id": "new_business_performance",
+    "content_type": "financial_table_data",
+    "speaker_role": null,
+    "topic_tags": [
+      "geographic_market_segment",
+      "financial_metrics",
+      "business_performance"
+    ],
+    "term_hits": [
+      {
+        "source_term": "泰國",
+        "target_term": "Thailand",
+        "context": "market_segment",
+        "confidence": "high"
+      }
+    ],
+    "needs_context": true,
+    "context_scope": "table_header",
+    "risk_level": "high",
+    "risk_flags": [
+      "percentage_and_ratio_precision",
+      "financial_metric_translation",
+      "table_structure_integrity"
+    ],
+    "translation_constraints": [
+      "preserve_exact_decimal_places",
+      "maintain_numerical_precision",
+      "verify_column_alignment_with_headers",
+      "confirm_metric_definitions_from_table_context"
+    ]
+  },
+  {
+    "unit_id": "p20_b11",
+    "page_no": 20,
+    "section_id": "新業務表現",
+    "content_type": "business_metrics",
+    "speaker_role": null,
+    "topic_tags": [
+      "geographic_market_segment",
+      "financial_performance",
+      "market_penetration"
+    ],
+    "term_hits": [
+      {
+        "source_term": "新業務表現",
+        "target_term": "New Business Performance",
+        "confidence": "high"
+      }
+    ],
+    "needs_context": true,
+    "context_scope": "table",
+    "risk_level": "high",
+    "risk_flags": [
+      "percentage_precision",
+      "currency_unit_ambiguity",
+      "table_header_alignment",
+      "numeric_data_integrity"
+    ],
+    "translation_constraints": [
+      "preserve_exact_decimal_places",
+      "maintain_table_column_structure",
+      "verify_currency_notation_consistency",
+      "cross_reference_with_full_table_context"
+    ]
+  },
+  {
+    "unit_id": "p20_b12",
+    "page_no": 20,
+    "section_id": "新業務表現",
+    "content_type": "business_metrics",
+    "speaker_role": null,
+    "topic_tags": [
+      "geographic_market_segment",
+      "financial_performance",
+      "market_data"
+    ],
+    "term_hits": [
+      {
+        "source_term": "馬來西亞",
+        "target_term": "Malaysia",
+        "context": "geographic_market"
+      },
+      {
+        "source_term": "續保率",
+        "inferred": true,
+        "percentage_value": "59.9%"
+      },
+      {
+        "source_term": "續保率",
+        "inferred": true,
+        "percentage_value": "63.1%"
+      }
+    ],
+    "needs_context": true,
+    "context_scope": "section",
+    "risk_level": "high",
+    "risk_flags": [
+      "percentage_and_ratio_precision",
+      "financial_metric_translation",
+      "table_structure_integrity",
+      "currency_conversion_notation"
+    ],
+    "translation_constraints": [
+      "Preserve exact decimal places in percentages (59.9%, 63.1%)",
+      "Verify column headers and row labels from parent table structure",
+      "Confirm metric definitions (likely: premium volume, renewal rate, year-over-year change)",
+      "Maintain numerical alignment with source table formatting",
+      "Preserve negative value indicators: (13)%, (14)%"
+    ]
+  },
+  {
+    "unit_id": "p20_b13",
+    "page_no": 20,
+    "section_id": "新業務表現",
+    "content_type": "financial_table_data",
+    "speaker_role": null,
+    "topic_tags": [
+      "geographic_market_segment",
+      "financial_metrics",
+      "new_business_performance"
+    ],
+    "term_hits": [
+      {
+        "source_term": "中國內地",
+        "target_term": "Mainland China",
+        "context": "geographic_reference",
+        "confidence": "high"
+      }
+    ],
+    "needs_context": true,
+    "context_scope": "table",
+    "risk_level": "high",
+    "risk_flags": [
+      "geographic_market_names",
+      "percentage_and_ratio_precision",
+      "financial_metric_translation"
+    ],
+    "translation_constraints": [
+      "Preserve exact numerical values and decimal precision",
+      "Maintain percentage formatting (e.g., 80.9%, 93.5%, (17)%)",
+      "Standardize currency notation if applicable to table context",
+      "Verify table column headers to determine metric definitions",
+      "Preserve parenthetical notation for negative values"
+    ]
+  },
+  {
+    "unit_id": "p20_b14",
+    "page_no": 20,
+    "section_id": "新業務表現",
+    "content_type": "financial_table_data",
+    "speaker_role": null,
+    "topic_tags": [
+      "market_segment",
+      "financial_metrics",
+      "geographic_performance"
+    ],
+    "term_hits": [
+      {
+        "source_term": "市場分部",
+        "target_term": "Market Segment",
+        "context": "business_structure"
+      }
+    ],
+    "needs_context": true,
+    "context_scope": "section",
+    "risk_level": "high",
+    "risk_flags": [
+      "percentage_and_ratio_precision",
+      "financial_metric_translation",
+      "table_structure_alignment"
+    ],
+    "translation_constraints": [
+      "preserve_numerical_precision",
+      "maintain_table_alignment",
+      "consistent_currency_notation",
+      "preserve_percentage_formatting"
+    ]
+  },
+  {
+    "unit_id": "p20_b15",
+    "page_no": 20,
+    "section_id": "new_business_performance",
+    "content_type": "financial_table_row",
+    "speaker_role": null,
+    "topic_tags": [
+      "financial_metrics",
+      "new_business_performance",
+      "quantitative_data"
+    ],
+    "term_hits": [
+      {
+        "source_term": "小計",
+        "target_term": "Subtotal",
+        "context": "table_summary"
+      }
+    ],
+    "needs_context": true,
+    "context_scope": "table",
+    "risk_level": "critical",
+    "risk_flags": [
+      "percentage_precision",
+      "currency_unit_missing",
+      "table_structure_dependency",
+      "financial_metric_translation"
+    ],
+    "translation_constraints": [
+      "preserve_exact_decimal_places",
+      "maintain_table_alignment",
+      "verify_column_headers_for_metric_identity",
+      "confirm_currency_notation_from_parent_table",
+      "cross_reference_with_financial_review_section"
+    ]
+  },
+  {
+    "unit_id": "p20_g01",
+    "page_no": 20,
+    "section_id": "financial_review",
+    "content_type": "financial_table_footnote",
+    "speaker_role": null,
+    "topic_tags": [
+      "capital_requirements",
+      "consolidated_reserves",
+      "financial_adjustments",
+      "unallocated_expenses"
+    ],
+    "term_hits": [
+      {
+        "source_term": "合併準備金",
+        "context": "capital_metric",
+        "confidence": "high"
+      },
+      {
+        "source_term": "資本要求",
+        "context": "regulatory_requirement",
+        "confidence": "high"
+      },
+      {
+        "source_term": "稅後價值",
+        "context": "financial_metric",
+        "confidence": "high"
+      }
+    ],
+    "needs_context": true,
+    "context_scope": "table",
+    "risk_level": "high",
+    "risk_flags": [
+      "financial_metric_translation",
+      "percentage_and_ratio_precision",
+      "footnote_and_reference_integrity"
+    ],
+    "translation_constraints": [
+      "preserve_numerical_precision",
+      "maintain_table_structure_alignment",
+      "preserve_footnote_numbering",
+      "use_formal_corporate_register",
+      "verify_capital_metric_terminology_against_IFRS"
+    ]
+  },
+  {
+    "unit_id": "p20_b18",
+    "page_no": 20,
+    "section_id": "new_business_performance",
+    "content_type": "financial_table_row",
+    "speaker_role": null,
+    "topic_tags": [
+      "financial_metrics",
+      "new_business_value",
+      "performance_comparison",
+      "year_over_year_analysis"
+    ],
+    "term_hits": [
+      {
+        "source_term": "非控股權益",
+        "target_term": "Non-controlling Interests",
+        "context": "equity_metric",
+        "confidence": "high"
+      }
+    ],
+    "needs_context": true,
+    "context_scope": "table",
+    "risk_level": "critical",
+    "risk_flags": [
+      "financial_metric_translation",
+      "percentage_and_ratio_precision",
+      "table_structure_integrity",
+      "currency_conversion_notation"
+    ],
+    "translation_constraints": [
+      "Preserve exact decimal places in percentages (52.6%, 62.9%, 33%)",
+      "Maintain numerical precision for all figures",
+      "Verify table column headers and row alignment",
+      "Confirm currency unit (likely USD millions based on context)",
+      "Preserve negative value notation and formatting",
+      "Ensure consistent alignment with corresponding table headers on page 20-21"
+    ]
+  },
+  {
+    "unit_id": "p20_b19",
+    "page_no": 20,
+    "section_id": "financial_review",
+    "content_type": "financial_table_row",
+    "speaker_role": null,
+    "topic_tags": [
+      "equity_metrics",
+      "non_controlling_interests",
+      "financial_statement"
+    ],
+    "term_hits": [
+      {
+        "source_term": "非控股權益",
+        "target_term": "Non-Controlling Interests",
+        "context": "equity_metric",
+        "confidence": "high"
+      }
+    ],
+    "needs_context": true,
+    "context_scope": "table",
+    "risk_level": "high",
+    "risk_flags": [
+      "financial_metric_translation",
+      "percentage_and_ratio_precision",
+      "table_structure_integrity"
+    ],
+    "translation_constraints": [
+      "Preserve table alignment and row structure",
+      "Maintain footnote reference markers (24, 32)",
+      "Interpret '無意義' placeholder values consistently",
+      "Verify non-controlling interests calculation against consolidated financial statements",
+      "Cross-reference with IFRS equity classification standards"
+    ]
+  },
+  {
+    "unit_id": "p20_b20",
+    "page_no": 20,
+    "section_id": "new_business_performance",
+    "content_type": "financial_table_row",
+    "speaker_role": null,
+    "topic_tags": [
+      "new_business_metrics",
+      "financial_performance",
+      "annualized_new_premium",
+      "new_business_value"
+    ],
+    "term_hits": [
+      {
+        "source_term": "年化新保費",
+        "target_term": "Annualized New Premium",
+        "abbreviation": "ANP",
+        "confidence": "high"
+      },
+      {
+        "source_term": "新業務價值",
+        "target_term": "New Business Value",
+        "abbreviation": "NBV",
+        "confidence": "high"
+      }
+    ],
+    "needs_context": true,
+    "context_scope": "table",
+    "risk_level": "critical",
+    "risk_flags": [
+      "financial_metric_translation",
+      "percentage_precision",
+      "currency_conversion_notation",
+      "table_structure_integrity"
+    ],
+    "translation_constraints": [
+      "preserve_numerical_precision",
+      "maintain_percentage_formatting",
+      "standardize_currency_notation",
+      "align_with_table_headers",
+      "verify_column_mapping"
+    ]
+  },
+  {
+    "unit_id": "p20_g02",
+    "page_no": 20,
+    "section_id": "新業務表現",
+    "content_type": "business_metrics",
+    "speaker_role": "management",
+    "topic_tags": [
+      "new_business_value",
+      "financial_performance",
+      "covid_19_impact",
+      "regional_analysis",
+      "sales_momentum",
+      "digital_transformation"
+    ],
+    "term_hits": [
+      {
+        "source_term": "新業務價值",
+        "target_term": "New Business Value",
+        "abbreviation": "NBV",
+        "occurrences": 4
+      },
+      {
+        "source_term": "中國內地",
+        "target_term": "Mainland China",
+        "occurrences": 1
+      },
+      {
+        "source_term": "報告分部",
+        "target_term": "Reporting Segment",
+        "occurrences": 1
+      }
+    ],
+    "needs_context": true,
+    "context_scope": "section",
+    "risk_level": "high",
+    "risk_flags": [
+      "financial_metric_translation",
+      "percentage_precision",
+      "covid_19_context_sensitivity",
+      "geographic_market_names",
+      "temporal_reference_accuracy"
+    ],
+    "translation_constraints": [
+      "Preserve exact numerical values: 27.65億美元, 33%, 23%, 15%",
+      "Maintain financial metric consistency: 新業務價值 → New Business Value (NBV)",
+      "Standardize geographic reference: 中國內地 → Mainland China",
+      "Preserve temporal structure: 2020年, 2019年, 上半年, 下半年, 首兩個月",
+      "Maintain comparative metric clarity: 較2019年減少了33% → declined 33% compared to 2019",
+      "Preserve segment attribution: 友邦保險中國業務, 本集團其他分部",
+      "Maintain causal relationship: 原因在於該地區自2020年3月逐步放寬嚴格的封鎖",
+      "Preserve forward-looking statement: 2021年持續強勁"
+    ]
+  },
+  {
+    "unit_id": "p20_g03",
+    "page_no": 20,
+    "section_id": "新業務表現",
+    "content_type": "business_metrics",
+    "speaker_role": "management",
+    "topic_tags": [
+      "new_business_performance",
+      "china_market",
+      "covid19_impact",
+      "year_over_year_comparison",
+      "seasonal_patterns"
+    ],
+    "term_hits": [
+      {
+        "source_term": "新業務價值",
+        "target_term": "New Business Value",
+        "abbreviation": "NBV",
+        "occurrences": 4
+      },
+      {
+        "source_term": "2019冠狀病毒病",
+        "target_term": "COVID-19",
+        "occurrences": 1
+      }
+    ],
+    "needs_context": true,
+    "context_scope": "section",
+    "risk_level": "high",
+    "risk_flags": [
+      "financial_metric_translation",
+      "percentage_precision",
+      "covid19_context_sensitivity",
+      "geographic_market_reference",
+      "temporal_comparison_accuracy"
+    ],
+    "translation_constraints": [
+      "Preserve exact financial figures: 9.68億美元, 17% decline",
+      "Maintain temporal references: 2021年首兩個月, 2020年同期, 第一季, 上半年",
+      "Standardize currency notation to USD/US$ format",
+      "Preserve seasonal pattern terminology consistency",
+      "Maintain comparative structure: 2020 vs 2019 performance metrics",
+      "Ensure COVID-19 terminology consistency throughout",
+      "Preserve causal relationship: pandemic impact → sales limitation → recovery trajectory"
+    ]
+  },
+  {
+    "unit_id": "p20_g04",
+    "page_no": 20,
+    "section_id": "新業務表現",
+    "content_type": "business_metrics",
+    "speaker_role": "management",
+    "topic_tags": [
+      "new_business_performance",
+      "geographic_market_analysis",
+      "covid_19_impact",
+      "travel_restrictions",
+      "product_mix",
+      "interest_rate_environment"
+    ],
+    "term_hits": [
+      {
+        "source_term": "新業務價值",
+        "target_term": "New Business Value",
+        "abbreviation": "NBV",
+        "occurrences": 2
+      },
+      {
+        "source_term": "新業務價值利潤率",
+        "target_term": "New Business Value Profit Margin",
+        "context": "financial_metric"
+      },
+      {
+        "source_term": "年化新保費",
+        "target_term": "Annualized New Premium",
+        "abbreviation": "ANP",
+        "occurrences": 1
+      },
+      {
+        "source_term": "中國內地",
+        "target_term": "Mainland China",
+        "occurrences": 3
+      }
+    ],
+    "needs_context": true,
+    "context_scope": "section",
+    "risk_level": "high",
+    "risk_flags": [
+      "financial_metric_translation",
+      "geographic_market_names",
+      "covid_19_context_sensitivity",
+      "percentage_and_ratio_precision",
+      "temporal_reference_accuracy"
+    ],
+    "translation_constraints": [
+      "Preserve exact financial metric terminology (NBV, ANP, profit margin)",
+      "Maintain consistent geographic reference (Mainland China, Macau, Hong Kong)",
+      "Preserve temporal markers (February 2020, September 2020, Q4)",
+      "Translate COVID-19 impact context accurately without speculation",
+      "Maintain formal corporate register for business performance narrative",
+      "Preserve causal relationships between travel restrictions, sales suspension, and metric decline",
+      "Ensure percentage/ratio precision in 'over one-third' conversion",
+      "Verify underwriting expense overage and product mix terminology consistency"
+    ]
+  },
+  {
+    "unit_id": "p20_b34",
+    "page_no": 20,
+    "section_id": "financial_review",
+    "content_type": "footer",
+    "speaker_role": null,
+    "topic_tags": [
+      "company_identity",
+      "page_marker"
+    ],
+    "term_hits": [
+      "友邦保險控股有限公司"
+    ],
+    "needs_context": false,
+    "context_scope": null,
+    "risk_level": "low",
+    "risk_flags": [],
+    "translation_constraints": [
+      "preserve_company_name_mapping",
+      "maintain_footer_format"
+    ]
+  }
+]

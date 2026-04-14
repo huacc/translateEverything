@@ -1,0 +1,256 @@
+﻿以下文本块版面过紧。请在不改变核心含义和正式风格的前提下，仅做最小必要压缩。
+不要摘要，不要解释，只输出严格 JSON。
+{
+  "page_no": 6,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "problem_blocks": [
+    {
+      "block_id": "p6_b4",
+      "block_type": "label",
+      "source_text": "世代。",
+      "current_translation": "generations.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.65,
+      "line_count": 1,
+      "char_count": 3,
+      "bbox": [
+        267.41,
+        110.44,
+        298.41,
+        123.48
+      ],
+      "font_size_avg": 10.0,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p6_b6",
+      "block_type": "label",
+      "source_text": "秉承我們為客戶和社區帶來顯著和正面",
+      "current_translation": "Committed to bringing significant and positive impact to our customers and communities",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.571,
+      "line_count": 1,
+      "char_count": 17,
+      "bbox": [
+        267.41,
+        135.44,
+        449.73,
+        148.48
+      ],
+      "font_size_avg": 10.0,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p6_b9",
+      "block_type": "label",
+      "source_text": "泛亞地區獨立上市人壽保險集團，業務",
+      "current_translation": "Pan-Asian independent listed life insurance group with operations",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.774,
+      "line_count": 1,
+      "char_count": 17,
+      "bbox": [
+        73.7,
+        171.44,
+        257.86,
+        184.48
+      ],
+      "font_size_avg": 10.0,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p6_b10",
+      "block_type": "label",
+      "source_text": "眾實現健康、長久、好生活。我們的目標",
+      "current_translation": "across the region to help people achieve healthy, long and fulfilling lives. Our purpose",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.589,
+      "line_count": 1,
+      "char_count": 18,
+      "bbox": [
+        267.41,
+        171.44,
+        449.79,
+        184.48
+      ],
+      "font_size_avg": 10.0,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p6_b11",
+      "block_type": "label",
+      "source_text": "覆蓋18個市場，為超過3,800萬份個人",
+      "current_translation": "spans 18 markets, serving over 38 million individual policyholders",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.682,
+      "line_count": 1,
+      "char_count": 20,
+      "bbox": [
+        73.7,
+        189.44,
+        257.86,
+        202.58
+      ],
+      "font_size_avg": 10.33,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p6_b15",
+      "block_type": "label",
+      "source_text": "計劃的參與成員提供服務。",
+      "current_translation": "meet their long-term savings and protection needs.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.655,
+      "line_count": 1,
+      "char_count": 12,
+      "bbox": [
+        73.71,
+        225.44,
+        199.21,
+        238.48
+      ],
+      "font_size_avg": 10.0,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p6_b16",
+      "block_type": "label",
+      "source_text": "滿足他們的長期儲蓄和保障需要。我們",
+      "current_translation": "We are committed to supporting our customers in achieving their financial goals.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.625,
+      "line_count": 1,
+      "char_count": 17,
+      "bbox": [
+        267.41,
+        225.44,
+        449.73,
+        238.48
+      ],
+      "font_size_avg": 10.0,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p6_b17",
+      "block_type": "label",
+      "source_text": "相信無論是現在或未來，最重要和最",
+      "current_translation": "We believe that now and in the future, the most important and most",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.755,
+      "line_count": 1,
+      "char_count": 16,
+      "bbox": [
+        267.41,
+        243.44,
+        451.57,
+        256.48
+      ],
+      "font_size_avg": 10.0,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p6_b18",
+      "block_type": "label",
+      "source_text": "我們的貢獻為我們所在市場的社會和",
+      "current_translation": "valuable contribution we can make to the communities in which we operate is to",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.637,
+      "line_count": 1,
+      "char_count": 16,
+      "bbox": [
+        73.71,
+        250.44,
+        257.87,
+        263.48
+      ],
+      "font_size_avg": 10.0,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p6_b19",
+      "block_type": "label",
+      "source_text": "值得我們為社區付出的工作之一，就是",
+      "current_translation": "provide support for social and economic development. One of the most worthwhile",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.612,
+      "line_count": 1,
+      "char_count": 17,
+      "bbox": [
+        267.41,
+        261.44,
+        449.73,
+        274.48
+      ],
+      "font_size_avg": 10.0,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p6_b20",
+      "block_type": "label",
+      "source_text": "經濟發展帶來支持，並同時在亞洲區內",
+      "current_translation": "contributions we can make to our communities is to support social and economic",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.599,
+      "line_count": 1,
+      "char_count": 17,
+      "bbox": [
+        73.71,
+        268.44,
+        256.03,
+        281.48
+      ],
+      "font_size_avg": 10.0,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p6_b21",
+      "block_type": "label",
+      "source_text": "協助創造一個更健康的亞洲。",
+      "current_translation": "development across Asia while helping to create a healthier Asia.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.577,
+      "line_count": 1,
+      "char_count": 13,
+      "bbox": [
+        267.41,
+        279.44,
+        403.41,
+        292.48
+      ],
+      "font_size_avg": 10.0,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p6_b22",
+      "block_type": "label",
+      "source_text": "提升人壽保險的覆蓋和影響。我們亦很",
+      "current_translation": "We are committed to expanding life insurance coverage and impact. We are also proud",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.586,
+      "line_count": 1,
+      "char_count": 17,
+      "bbox": [
+        73.71,
+        286.44,
+        257.87,
+        299.48
+      ],
+      "font_size_avg": 10.0,
+      "suggested_font": "F_ARIALNB"
+    }
+  ]
+}

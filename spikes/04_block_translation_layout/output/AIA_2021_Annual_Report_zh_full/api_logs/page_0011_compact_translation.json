@@ -1,0 +1,21 @@
+{
+  "content": [
+    {
+      "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p11_b1\",\n      \"translation\": \"Q4 2020 marked AIA's 10th listing anniversary on HKEX. The IPO set multiple records and remains\"\n    },\n    {\n      \"block_id\": \"p11_b3\",\n      \"translation\": \"the world's largest life insurer by market cap.\"\n    },\n    {\n      \"block_id\": \"p11_b5\",\n      \"translation\": \"All non-executive Directors are independent with extensive governance experience across sectors. We remain\"\n    },\n    {\n      \"block_id\": \"p11_b6\",\n      \"translation\": \"committed to highest governance standards and sound risk management—foundations for sustainability.\"\n    },\n    {\n      \"block_id\": \"p11_b7\",\n      \"translation\": \"Strong governance underpins institutional sustainability.\"\n    },\n    {\n      \"block_id\": \"p11_b8\",\n      \"translation\": \"Key Board responsibility: ensuring leadership talent and succession planning. Mr. Lee Yuen Cheung joined June 1, 2020\"\n    },\n    {\n      \"block_id\": \"p11_b9\",\n      \"translation\": \"as Group CEO and President, succeeding Mr. Wong King Fai. We thank Mr. Lee and his team\"\n    },\n    {\n      \"block_id\": \"p11_b10\",\n      \"translation\": \"for outstanding leadership amid unprecedented challenges. We also thank Mr. Wong for\"\n    },\n    {\n      \"block_id\": \"p11_b11\",\n      \"translation\": \"his excellent leadership and contributions to AIA.\"\n    },\n    {\n      \"block_id\": \"p11_b12\",\n      \"translation\": \"ESG issues are increasingly critical globally. We drive positive change, and our ESG\"\n    },\n    {\n      \"block_id\": \"p11_b13\",\n      \"translation\": \"initiatives earned recognition in 2020. Sustainalytics ranked AIA 2nd among 270+ insurers,\"\n    },\n    {\n      \"block_id\": \"p11_b14\",\n      \"translation\": \"reflecting strong governance. We also maintain ISS \\\"Prime\\\" ESG rating.\"\n    },\n    {\n      \"block_id\": \"p11_b16\",\n      \"translation\": \"We must do more for community impact. This priority unites the Board and myself.\"\n    },\n    {\n      \"block_id\": \"p11_b18\",\n      \"translation\": \"Customer demand for AIA's products and advice is stronger than ever. Our strategy leverages Asia's robust\"\n    },\n    {\n      \"block_id\": \"p11_b19\",\n      \"translation\": \"structural growth: unprecedented wealth creation, expanding protection gaps, shifting preferences,\"\n    },\n    {\n      \"block_id\": \"p11_b20\",\n      \"translation\": \"digital adoption, and sustainability focus. AIA is well-positioned to capture significant\"\n    },\n    {\n      \"block_id\": \"p11_b21\",\n      \"translation\": \"regional opportunities, securing families' futures while creating shared stakeholder value.\"\n    },\n    {\n      \"block_id\": \"p11_b22\",\n      \"translation\": \"AIA's growth since listing reflects customer and shareholder trust. On behalf of the Board, I\"\n    },\n    {\n      \"block_id\": \"p11_b23\",\n      \"translation\": \"thank you for your continued support.\"\n    },\n    {\n      \"block_id\": \"p11_b24\",\n      \"translation\": \"Tse Sze Wing\"\n    },\n    {\n      \"block_id\": \"p11_b25\",\n      \"translation\": \"Independent Non-Executive Chairman\"\n    },\n    {\n      \"block_id\": \"p11_b27\",\n      \"translation\": \"Growth rates at constant exchange rates show clearer year-on-year performance.\"\n    },\n    {\n      \"block_id\": \"p11_b28\",\n      \"translation\": \"2020 Report 009\"\n    }\n  ]\n}\n```",
+      "type": "text"
+    }
+  ],
+  "conversationId": "95190baf-7aac-4476-add1-2bb5f45b03e5",
+  "conversation_id": "95190baf-7aac-4476-add1-2bb5f45b03e5",
+  "id": "95190baf-7aac-4476-add1-2bb5f45b03e5",
+  "model": "claude-3-5-sonnet-20241022",
+  "role": "assistant",
+  "stop_reason": "end_turn",
+  "type": "message",
+  "usage": {
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 4630,
+    "output_tokens": 871
+  }
+}

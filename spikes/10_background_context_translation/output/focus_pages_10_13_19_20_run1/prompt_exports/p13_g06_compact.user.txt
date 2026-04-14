@@ -1,0 +1,56 @@
+文档场景：上市公司企业年报
+{
+  "document_background": {
+    "page_sections": [
+      {
+        "target_section": "Group Chief Executive and President's Report",
+        "content_type": "ceo_report",
+        "page_range": [
+          12,
+          16
+        ]
+      },
+      {
+        "target_section": "Overview",
+        "content_type": "executive_summary",
+        "page_range": [
+          8,
+          16
+        ]
+      }
+    ],
+    "roles": [
+      {
+        "source": "李源祥",
+        "target": "Lee Yuen Cheung",
+        "role": "Group Chief Executive and President"
+      }
+    ],
+    "terms": [],
+    "style_rules": [
+      "Preserve financial terminology consistency",
+      "Use formal corporate register throughout",
+      "Maintain parallel structure in lists and tables",
+      "Use active voice where source permits",
+      "Translate corporate mission statements with care",
+      "Preserve temporal references and context",
+      "Translate market/geographic references consistently"
+    ]
+  },
+  "current_unit": {
+    "page_no": 13,
+    "unit_id": "p13_g06",
+    "unit_mode": "semantic_group",
+    "slot_count": 3,
+    "source_text": "我們無可比擬的分銷實力能直接接觸客戶，並提供高質素的專業建議，協助滿足亞洲消費者龐大且日益增長的長\n期保障和儲蓄需求。如今大眾比以往更期望企業能以符合長遠可持續發展的方式應對他們的需要。友邦保險擁有\n市場領先的品牌，以幫助大眾實踐健康、長久、好生活的目標為基礎。",
+    "current_translation": "Our unparalleled distribution strength enables us to connect directly with customers and provide high-quality professional advice to help meet the substantial and growing long-term protection and savings needs of Asian consumers. Today, the public increasingly expects companies to address their needs in ways that are consistent with long-term sustainable development. AIA possesses a market-leading brand, founded on the objective of helping people achieve the goal of living a healthy, long and fulfilling life."
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p13_g06",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

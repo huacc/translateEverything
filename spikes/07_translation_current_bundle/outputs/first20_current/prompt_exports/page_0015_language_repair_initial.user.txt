@@ -1,0 +1,41 @@
+﻿以下文本块的上一轮译文不符合目标语言要求，请重新给出目标语言译文。
+只输出严格 JSON。
+{
+  "page_no": 15,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "problem_blocks": [
+    {
+      "block_id": "p15_b6",
+      "source_text": "集團的旗艦領袖發展計劃，擁有逾100個完全虛擬化的學習模組。參與者對這些虛擬學習課程作出非常正面的反",
+      "current_translation": "",
+      "block_type": "body",
+      "line_count": 1,
+      "char_count": 50
+    },
+    {
+      "block_id": "p15_b7",
+      "source_text": "饋，與過往參與面對面學習的意見相若。",
+      "current_translation": "",
+      "block_type": "label",
+      "line_count": 1,
+      "char_count": 18
+    },
+    {
+      "block_id": "p15_b12",
+      "source_text": "來數十年每年資助100名就讀於香港多間大學的本科生，培養新世代企業領袖。",
+      "current_translation": "",
+      "block_type": "body",
+      "line_count": 1,
+      "char_count": 36
+    },
+    {
+      "block_id": "p15_b24",
+      "source_text": "組合內逾1,400家公司，以及超過30名外部投資經理聯繫，致力影響其如何管理氣候變化風險及應對氣候問題。",
+      "current_translation": "",
+      "block_type": "body",
+      "line_count": 1,
+      "char_count": 52
+    }
+  ]
+}

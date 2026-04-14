@@ -1,0 +1,19 @@
+文档场景：上市公司企业年报
+page_no: 19
+unit_id: p19_g08
+unit_mode: semantic_group
+slot_count: 2
+source_text:
+我們仍然對友邦保險在整個亞洲地區的業務機會充滿信心。我們將繼續專注於投資資本，以實現具盈利的新業務
+增長，並運用我們的競爭優勢，同時維持審慎的財務管理和實現長期股東價值。
+current_translation:
+We remain confident in AIA's business opportunities across the Asia region. We will continue to focus on investing capital to achieve profitable new business growth, while leveraging our competitive advantages, maintaining prudent financial management, and delivering long-term shareholder value.
+返回格式:
+{
+  "translations": [
+    {
+      "unit_id": "p19_g08",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

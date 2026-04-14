@@ -1,0 +1,38 @@
+```json
+{
+  "unit_id": "p19_g08",
+  "page_no": 19,
+  "section_id": "集團首席財務總監回顧",
+  "content_type": "cfo_narrative",
+  "speaker_role": "group_chief_financial_officer",
+  "topic_tags": [
+    "business_outlook",
+    "geographic_expansion",
+    "capital_allocation",
+    "profitability",
+    "shareholder_value",
+    "financial_discipline"
+  ],
+  "term_hits": [
+    {
+      "source_term": "新業務",
+      "target_term": "New Business",
+      "context": "financial_metric"
+    }
+  ],
+  "needs_context": true,
+  "context_scope": "section",
+  "risk_level": "medium",
+  "risk_flags": [
+    "forward_looking_statement",
+    "strategic_commitment_language",
+    "geographic_market_reference"
+  ],
+  "translation_constraints": [
+    "preserve_formal_corporate_register",
+    "maintain_strategic_intent_in_tone",
+    "ensure_consistency_with_cfo_voice",
+    "translate_asia_pacific_reference_precisely"
+  ]
+}
+```

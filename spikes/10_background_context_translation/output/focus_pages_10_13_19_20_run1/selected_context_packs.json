@@ -1,0 +1,3374 @@
+[
+  {
+    "page_no": 10,
+    "unit_id": "p10_b1",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "Chairman's Statement",
+          "content_type": "chairman_statement",
+          "page_range": [
+            10,
+            11
+          ]
+        },
+        {
+          "target_section": "Overview",
+          "content_type": "executive_summary",
+          "page_range": [
+            8,
+            16
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "source": "謝仕榮先生",
+          "target": "Mr. Tse Sze-wing",
+          "role": "Independent Non-Executive Chairman"
+        }
+      ],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Section headings use Title Case",
+        "Preserve hierarchical structure of headings",
+        "Translate milestone dates literally"
+      ]
+    }
+  },
+  {
+    "page_no": 10,
+    "unit_id": "p10_b2",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "Chairman's Statement",
+          "content_type": "chairman_statement",
+          "page_range": [
+            10,
+            11
+          ]
+        },
+        {
+          "target_section": "Overview",
+          "content_type": "executive_summary",
+          "page_range": [
+            8,
+            16
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "source": "謝仕榮先生",
+          "target": "Mr. Tse Sze-wing",
+          "role": "Independent Non-Executive Chairman"
+        }
+      ],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Section headings use Title Case",
+        "Preserve hierarchical structure of headings",
+        "Translate milestone dates literally"
+      ]
+    }
+  },
+  {
+    "page_no": 10,
+    "unit_id": "p10_b3",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "Chairman's Statement",
+          "content_type": "chairman_statement",
+          "page_range": [
+            10,
+            11
+          ]
+        },
+        {
+          "target_section": "Overview",
+          "content_type": "executive_summary",
+          "page_range": [
+            8,
+            16
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "source": "謝仕榮先生",
+          "target": "Mr. Tse Sze-wing",
+          "role": "Independent Non-Executive Chairman"
+        }
+      ],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Section headings use Title Case",
+        "Preserve hierarchical structure of headings",
+        "Translate milestone dates literally"
+      ]
+    }
+  },
+  {
+    "page_no": 10,
+    "unit_id": "p10_g01",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "Chairman's Statement",
+          "content_type": "chairman_statement",
+          "page_range": [
+            10,
+            11
+          ]
+        },
+        {
+          "target_section": "Overview",
+          "content_type": "executive_summary",
+          "page_range": [
+            8,
+            16
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "source": "謝仕榮先生",
+          "target": "Mr. Tse Sze-wing",
+          "role": "Independent Non-Executive Chairman"
+        }
+      ],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Use active voice where source permits",
+        "Translate corporate mission statements with care",
+        "Preserve temporal references and context",
+        "Translate market/geographic references consistently"
+      ]
+    }
+  },
+  {
+    "page_no": 10,
+    "unit_id": "p10_b8",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "Chairman's Statement",
+          "content_type": "chairman_statement",
+          "page_range": [
+            10,
+            11
+          ]
+        },
+        {
+          "target_section": "Overview",
+          "content_type": "executive_summary",
+          "page_range": [
+            8,
+            16
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "source": "謝仕榮先生",
+          "target": "Mr. Tse Sze-wing",
+          "role": "Independent Non-Executive Chairman"
+        }
+      ],
+      "terms": [
+        {
+          "source": "謝仕榮先生",
+          "target": "Mr. Tse Sze-wing",
+          "abbreviation": "",
+          "context": "Independent Non-Executive Chairman",
+          "confidence": "high"
+        }
+      ],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Section headings use Title Case",
+        "Preserve hierarchical structure of headings",
+        "Translate milestone dates literally"
+      ]
+    }
+  },
+  {
+    "page_no": 10,
+    "unit_id": "p10_g02",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "Chairman's Statement",
+          "content_type": "chairman_statement",
+          "page_range": [
+            10,
+            11
+          ]
+        },
+        {
+          "target_section": "Overview",
+          "content_type": "executive_summary",
+          "page_range": [
+            8,
+            16
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "source": "謝仕榮先生",
+          "target": "Mr. Tse Sze-wing",
+          "role": "Independent Non-Executive Chairman"
+        }
+      ],
+      "terms": [
+        {
+          "source": "2019冠狀病毒病",
+          "target": "COVID-19",
+          "abbreviation": "",
+          "context": "external_event",
+          "confidence": "high"
+        }
+      ],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Use active voice where source permits",
+        "Translate corporate mission statements with care",
+        "Preserve temporal references and context",
+        "Translate market/geographic references consistently"
+      ]
+    }
+  },
+  {
+    "page_no": 10,
+    "unit_id": "p10_b12",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "Chairman's Statement",
+          "content_type": "chairman_statement",
+          "page_range": [
+            10,
+            11
+          ]
+        },
+        {
+          "target_section": "Overview",
+          "content_type": "executive_summary",
+          "page_range": [
+            8,
+            16
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "source": "謝仕榮先生",
+          "target": "Mr. Tse Sze-wing",
+          "role": "Independent Non-Executive Chairman"
+        }
+      ],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Section headings use Title Case",
+        "Preserve hierarchical structure of headings",
+        "Translate milestone dates literally"
+      ]
+    }
+  },
+  {
+    "page_no": 10,
+    "unit_id": "p10_g03",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "Chairman's Statement",
+          "content_type": "chairman_statement",
+          "page_range": [
+            10,
+            11
+          ]
+        },
+        {
+          "target_section": "Overview",
+          "content_type": "executive_summary",
+          "page_range": [
+            8,
+            16
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "source": "謝仕榮先生",
+          "target": "Mr. Tse Sze-wing",
+          "role": "Independent Non-Executive Chairman"
+        }
+      ],
+      "terms": [
+        {
+          "source": "2019冠狀病毒病",
+          "target": "COVID-19",
+          "abbreviation": "",
+          "context": "external_event",
+          "confidence": "high"
+        }
+      ],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    }
+  },
+  {
+    "page_no": 10,
+    "unit_id": "p10_g04",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "Chairman's Statement",
+          "content_type": "chairman_statement",
+          "page_range": [
+            10,
+            11
+          ]
+        },
+        {
+          "target_section": "Overview",
+          "content_type": "executive_summary",
+          "page_range": [
+            8,
+            16
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "source": "謝仕榮先生",
+          "target": "Mr. Tse Sze-wing",
+          "role": "Independent Non-Executive Chairman"
+        }
+      ],
+      "terms": [
+        {
+          "source": "2019冠狀病毒病",
+          "target": "COVID-19",
+          "abbreviation": "",
+          "context": "external_event",
+          "confidence": "high"
+        },
+        {
+          "source": "新業務價值",
+          "target": "New Business Value",
+          "abbreviation": "NBV",
+          "context": "financial_metric",
+          "confidence": "high"
+        }
+      ],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    }
+  },
+  {
+    "page_no": 10,
+    "unit_id": "p10_b21",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "Chairman's Statement",
+          "content_type": "chairman_statement",
+          "page_range": [
+            10,
+            11
+          ]
+        },
+        {
+          "target_section": "Overview",
+          "content_type": "executive_summary",
+          "page_range": [
+            8,
+            16
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "source": "謝仕榮先生",
+          "target": "Mr. Tse Sze-wing",
+          "role": "Independent Non-Executive Chairman"
+        }
+      ],
+      "terms": [
+        {
+          "source": "新業務價值",
+          "target": "New Business Value",
+          "abbreviation": "NBV",
+          "context": "financial_metric",
+          "confidence": "high"
+        }
+      ],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    }
+  },
+  {
+    "page_no": 10,
+    "unit_id": "p10_g05",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "Chairman's Statement",
+          "content_type": "chairman_statement",
+          "page_range": [
+            10,
+            11
+          ]
+        },
+        {
+          "target_section": "Overview",
+          "content_type": "executive_summary",
+          "page_range": [
+            8,
+            16
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "source": "謝仕榮先生",
+          "target": "Mr. Tse Sze-wing",
+          "role": "Independent Non-Executive Chairman"
+        }
+      ],
+      "terms": [
+        {
+          "source": "稅後營運溢利",
+          "target": "Operating Profit After Tax",
+          "abbreviation": "OPAT",
+          "context": "financial_metric",
+          "confidence": "high"
+        },
+        {
+          "source": "內涵價值",
+          "target": "Embedded Value",
+          "abbreviation": "EV",
+          "context": "valuation_metric",
+          "confidence": "high"
+        },
+        {
+          "source": "自由盈餘",
+          "target": "Free Surplus",
+          "abbreviation": "",
+          "context": "capital_metric",
+          "confidence": "high"
+        }
+      ],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    }
+  },
+  {
+    "page_no": 10,
+    "unit_id": "p10_g06",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "Chairman's Statement",
+          "content_type": "chairman_statement",
+          "page_range": [
+            10,
+            11
+          ]
+        },
+        {
+          "target_section": "Overview",
+          "content_type": "executive_summary",
+          "page_range": [
+            8,
+            16
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "source": "謝仕榮先生",
+          "target": "Mr. Tse Sze-wing",
+          "role": "Independent Non-Executive Chairman"
+        }
+      ],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    }
+  },
+  {
+    "page_no": 10,
+    "unit_id": "p10_b27",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "Chairman's Statement",
+          "content_type": "chairman_statement",
+          "page_range": [
+            10,
+            11
+          ]
+        },
+        {
+          "target_section": "Overview",
+          "content_type": "executive_summary",
+          "page_range": [
+            8,
+            16
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "source": "謝仕榮先生",
+          "target": "Mr. Tse Sze-wing",
+          "role": "Independent Non-Executive Chairman"
+        }
+      ],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Use active voice where source permits",
+        "Translate corporate mission statements with care",
+        "Preserve temporal references and context",
+        "Translate market/geographic references consistently"
+      ]
+    }
+  },
+  {
+    "page_no": 10,
+    "unit_id": "p10_b28",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "Chairman's Statement",
+          "content_type": "chairman_statement",
+          "page_range": [
+            10,
+            11
+          ]
+        },
+        {
+          "target_section": "Overview",
+          "content_type": "executive_summary",
+          "page_range": [
+            8,
+            16
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "source": "謝仕榮先生",
+          "target": "Mr. Tse Sze-wing",
+          "role": "Independent Non-Executive Chairman"
+        }
+      ],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Use active voice where source permits",
+        "Translate corporate mission statements with care",
+        "Preserve temporal references and context",
+        "Translate market/geographic references consistently"
+      ]
+    }
+  },
+  {
+    "page_no": 13,
+    "unit_id": "p13_g01",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "Group Chief Executive and President's Report",
+          "content_type": "ceo_report",
+          "page_range": [
+            12,
+            16
+          ]
+        },
+        {
+          "target_section": "Overview",
+          "content_type": "executive_summary",
+          "page_range": [
+            8,
+            16
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "source": "李源祥",
+          "target": "Lee Yuen Cheung",
+          "role": "Group Chief Executive and President"
+        }
+      ],
+      "terms": [
+        {
+          "source": "2019冠狀病毒病",
+          "target": "COVID-19",
+          "abbreviation": "",
+          "context": "external_event",
+          "confidence": "high"
+        }
+      ],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Use active voice where source permits",
+        "Translate corporate mission statements with care",
+        "Preserve temporal references and context",
+        "Translate market/geographic references consistently"
+      ]
+    }
+  },
+  {
+    "page_no": 13,
+    "unit_id": "p13_b4",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "Group Chief Executive and President's Report",
+          "content_type": "ceo_report",
+          "page_range": [
+            12,
+            16
+          ]
+        },
+        {
+          "target_section": "Overview",
+          "content_type": "executive_summary",
+          "page_range": [
+            8,
+            16
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "source": "李源祥",
+          "target": "Lee Yuen Cheung",
+          "role": "Group Chief Executive and President"
+        }
+      ],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Use active voice where source permits",
+        "Translate corporate mission statements with care",
+        "Preserve temporal references and context",
+        "Translate market/geographic references consistently"
+      ]
+    }
+  },
+  {
+    "page_no": 13,
+    "unit_id": "p13_g02",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "Group Chief Executive and President's Report",
+          "content_type": "ceo_report",
+          "page_range": [
+            12,
+            16
+          ]
+        },
+        {
+          "target_section": "Overview",
+          "content_type": "executive_summary",
+          "page_range": [
+            8,
+            16
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "source": "李源祥",
+          "target": "Lee Yuen Cheung",
+          "role": "Group Chief Executive and President"
+        }
+      ],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Use active voice where source permits",
+        "Translate corporate mission statements with care",
+        "Preserve temporal references and context",
+        "Translate market/geographic references consistently"
+      ]
+    }
+  },
+  {
+    "page_no": 13,
+    "unit_id": "p13_g03",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "Group Chief Executive and President's Report",
+          "content_type": "ceo_report",
+          "page_range": [
+            12,
+            16
+          ]
+        },
+        {
+          "target_section": "Overview",
+          "content_type": "executive_summary",
+          "page_range": [
+            8,
+            16
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "source": "李源祥",
+          "target": "Lee Yuen Cheung",
+          "role": "Group Chief Executive and President"
+        }
+      ],
+      "terms": [
+        {
+          "source": "2019冠狀病毒病",
+          "target": "COVID-19",
+          "abbreviation": "",
+          "context": "external_event",
+          "confidence": "high"
+        },
+        {
+          "source": "稅後營運溢利",
+          "target": "Operating Profit After Tax",
+          "abbreviation": "OPAT",
+          "context": "financial_metric",
+          "confidence": "high"
+        },
+        {
+          "source": "新業務價值",
+          "target": "New Business Value",
+          "abbreviation": "NBV",
+          "context": "financial_metric",
+          "confidence": "high"
+        },
+        {
+          "source": "內涵價值",
+          "target": "Embedded Value",
+          "abbreviation": "EV",
+          "context": "valuation_metric",
+          "confidence": "high"
+        },
+        {
+          "source": "自由盈餘",
+          "target": "Free Surplus",
+          "abbreviation": "",
+          "context": "capital_metric",
+          "confidence": "high"
+        }
+      ],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    }
+  },
+  {
+    "page_no": 13,
+    "unit_id": "p13_g04",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "Group Chief Executive and President's Report",
+          "content_type": "ceo_report",
+          "page_range": [
+            12,
+            16
+          ]
+        },
+        {
+          "target_section": "Overview",
+          "content_type": "executive_summary",
+          "page_range": [
+            8,
+            16
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "source": "李源祥",
+          "target": "Lee Yuen Cheung",
+          "role": "Group Chief Executive and President"
+        }
+      ],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    }
+  },
+  {
+    "page_no": 13,
+    "unit_id": "p13_g05",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "Group Chief Executive and President's Report",
+          "content_type": "ceo_report",
+          "page_range": [
+            12,
+            16
+          ]
+        },
+        {
+          "target_section": "Overview",
+          "content_type": "executive_summary",
+          "page_range": [
+            8,
+            16
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "source": "李源祥",
+          "target": "Lee Yuen Cheung",
+          "role": "Group Chief Executive and President"
+        }
+      ],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Use active voice where source permits",
+        "Translate corporate mission statements with care",
+        "Preserve temporal references and context",
+        "Translate market/geographic references consistently"
+      ]
+    }
+  },
+  {
+    "page_no": 13,
+    "unit_id": "p13_g06",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "Group Chief Executive and President's Report",
+          "content_type": "ceo_report",
+          "page_range": [
+            12,
+            16
+          ]
+        },
+        {
+          "target_section": "Overview",
+          "content_type": "executive_summary",
+          "page_range": [
+            8,
+            16
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "source": "李源祥",
+          "target": "Lee Yuen Cheung",
+          "role": "Group Chief Executive and President"
+        }
+      ],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Use active voice where source permits",
+        "Translate corporate mission statements with care",
+        "Preserve temporal references and context",
+        "Translate market/geographic references consistently"
+      ]
+    }
+  },
+  {
+    "page_no": 13,
+    "unit_id": "p13_g07",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "Group Chief Executive and President's Report",
+          "content_type": "ceo_report",
+          "page_range": [
+            12,
+            16
+          ]
+        },
+        {
+          "target_section": "Overview",
+          "content_type": "executive_summary",
+          "page_range": [
+            8,
+            16
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "source": "李源祥",
+          "target": "Lee Yuen Cheung",
+          "role": "Group Chief Executive and President"
+        }
+      ],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Use active voice where source permits",
+        "Translate corporate mission statements with care",
+        "Preserve temporal references and context",
+        "Translate market/geographic references consistently"
+      ]
+    }
+  },
+  {
+    "page_no": 13,
+    "unit_id": "p13_g08",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "Group Chief Executive and President's Report",
+          "content_type": "ceo_report",
+          "page_range": [
+            12,
+            16
+          ]
+        },
+        {
+          "target_section": "Overview",
+          "content_type": "executive_summary",
+          "page_range": [
+            8,
+            16
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "source": "李源祥",
+          "target": "Lee Yuen Cheung",
+          "role": "Group Chief Executive and President"
+        }
+      ],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Use active voice where source permits",
+        "Translate corporate mission statements with care",
+        "Preserve temporal references and context",
+        "Translate market/geographic references consistently"
+      ]
+    }
+  },
+  {
+    "page_no": 13,
+    "unit_id": "p13_b29",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "Group Chief Executive and President's Report",
+          "content_type": "ceo_report",
+          "page_range": [
+            12,
+            16
+          ]
+        },
+        {
+          "target_section": "Overview",
+          "content_type": "executive_summary",
+          "page_range": [
+            8,
+            16
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "source": "李源祥",
+          "target": "Lee Yuen Cheung",
+          "role": "Group Chief Executive and President"
+        }
+      ],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    }
+  },
+  {
+    "page_no": 19,
+    "unit_id": "p19_g01",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [
+        {
+          "source": "新業務價值",
+          "target": "New Business Value",
+          "abbreviation": "NBV",
+          "context": "financial_metric",
+          "confidence": "high"
+        }
+      ],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    }
+  },
+  {
+    "page_no": 19,
+    "unit_id": "p19_b4",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Use active voice where source permits",
+        "Translate corporate mission statements with care",
+        "Preserve temporal references and context",
+        "Translate market/geographic references consistently"
+      ]
+    }
+  },
+  {
+    "page_no": 19,
+    "unit_id": "p19_g02",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [
+        {
+          "source": "新業務價值",
+          "target": "New Business Value",
+          "abbreviation": "NBV",
+          "context": "financial_metric",
+          "confidence": "high"
+        }
+      ],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    }
+  },
+  {
+    "page_no": 19,
+    "unit_id": "p19_b9",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [
+        {
+          "source": "內涵價值",
+          "target": "Embedded Value",
+          "abbreviation": "EV",
+          "context": "valuation_metric",
+          "confidence": "high"
+        }
+      ],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    }
+  },
+  {
+    "page_no": 19,
+    "unit_id": "p19_g03",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [
+        {
+          "source": "內涵價值",
+          "target": "Embedded Value",
+          "abbreviation": "EV",
+          "context": "valuation_metric",
+          "confidence": "high"
+        }
+      ],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    }
+  },
+  {
+    "page_no": 19,
+    "unit_id": "p19_g04",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [
+        {
+          "source": "稅後營運溢利",
+          "target": "Operating Profit After Tax",
+          "abbreviation": "OPAT",
+          "context": "financial_metric",
+          "confidence": "high"
+        },
+        {
+          "source": "有效保單",
+          "target": "In-Force Business",
+          "abbreviation": "",
+          "context": "business_metric",
+          "confidence": "high"
+        },
+        {
+          "source": "續保率",
+          "target": "Renewal Rate",
+          "abbreviation": "",
+          "context": "business_metric",
+          "confidence": "high"
+        }
+      ],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    }
+  },
+  {
+    "page_no": 19,
+    "unit_id": "p19_g05",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [
+        {
+          "source": "自由盈餘",
+          "target": "Free Surplus",
+          "abbreviation": "",
+          "context": "capital_metric",
+          "confidence": "high"
+        },
+        {
+          "source": "有效保單",
+          "target": "In-Force Business",
+          "abbreviation": "",
+          "context": "business_metric",
+          "confidence": "high"
+        }
+      ],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    }
+  },
+  {
+    "page_no": 19,
+    "unit_id": "p19_b20",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [
+        {
+          "source": "自由盈餘",
+          "target": "Free Surplus",
+          "abbreviation": "",
+          "context": "capital_metric",
+          "confidence": "high"
+        }
+      ],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Section headings use Title Case",
+        "Preserve hierarchical structure of headings",
+        "Translate milestone dates literally"
+      ]
+    }
+  },
+  {
+    "page_no": 19,
+    "unit_id": "p19_g06",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    }
+  },
+  {
+    "page_no": 19,
+    "unit_id": "p19_g07",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    }
+  },
+  {
+    "page_no": 19,
+    "unit_id": "p19_g08",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Use active voice where source permits",
+        "Translate corporate mission statements with care",
+        "Preserve temporal references and context",
+        "Translate market/geographic references consistently"
+      ]
+    }
+  },
+  {
+    "page_no": 19,
+    "unit_id": "p19_b29",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_b1",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Section headings use Title Case",
+        "Preserve hierarchical structure of headings",
+        "Translate milestone dates literally"
+      ]
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_b2",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Section headings use Title Case",
+        "Preserve hierarchical structure of headings",
+        "Translate milestone dates literally"
+      ]
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_b3",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Section headings use Title Case",
+        "Preserve hierarchical structure of headings",
+        "Translate milestone dates literally"
+      ]
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_b4",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [
+        {
+          "source": "新業務價值",
+          "target": "New Business Value",
+          "abbreviation": "NBV",
+          "context": "financial_metric",
+          "confidence": "high"
+        },
+        {
+          "source": "年化新保費",
+          "target": "Annualized New Premium",
+          "abbreviation": "ANP",
+          "context": "financial_metric",
+          "confidence": "high"
+        },
+        {
+          "source": "利潤率",
+          "target": "Profit Margin",
+          "abbreviation": "",
+          "context": "financial_ratio",
+          "confidence": "high"
+        }
+      ],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Section headings use Title Case",
+        "Preserve hierarchical structure of headings",
+        "Translate milestone dates literally"
+      ]
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_b5",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [
+        {
+          "source": "新業務價值",
+          "target": "New Business Value",
+          "abbreviation": "NBV",
+          "context": "financial_metric",
+          "confidence": "high"
+        }
+      ],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_b6",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [
+        {
+          "source": "利潤率",
+          "target": "Profit Margin",
+          "abbreviation": "",
+          "context": "financial_ratio",
+          "confidence": "high"
+        }
+      ],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Use active voice where source permits",
+        "Translate corporate mission statements with care",
+        "Preserve temporal references and context",
+        "Translate market/geographic references consistently"
+      ]
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_b7",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [
+        {
+          "source": "利潤率",
+          "target": "Profit Margin",
+          "abbreviation": "",
+          "context": "financial_ratio",
+          "confidence": "high"
+        }
+      ],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Use active voice where source permits",
+        "Translate corporate mission statements with care",
+        "Preserve temporal references and context",
+        "Translate market/geographic references consistently"
+      ]
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_b8",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Use active voice where source permits",
+        "Translate corporate mission statements with care",
+        "Preserve temporal references and context",
+        "Translate market/geographic references consistently"
+      ]
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_b9",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_b10",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_b11",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_b12",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_b13",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_b14",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_b15",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_g01",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_b18",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_b19",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_b20",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_g02",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [
+        {
+          "source": "新業務價值",
+          "target": "New Business Value",
+          "abbreviation": "NBV",
+          "context": "financial_metric",
+          "confidence": "high"
+        }
+      ],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_g03",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [
+        {
+          "source": "2019冠狀病毒病",
+          "target": "COVID-19",
+          "abbreviation": "",
+          "context": "external_event",
+          "confidence": "high"
+        },
+        {
+          "source": "新業務價值",
+          "target": "New Business Value",
+          "abbreviation": "NBV",
+          "context": "financial_metric",
+          "confidence": "high"
+        }
+      ],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_g04",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [
+        {
+          "source": "新業務價值",
+          "target": "New Business Value",
+          "abbreviation": "NBV",
+          "context": "financial_metric",
+          "confidence": "high"
+        },
+        {
+          "source": "年化新保費",
+          "target": "Annualized New Premium",
+          "abbreviation": "ANP",
+          "context": "financial_metric",
+          "confidence": "high"
+        },
+        {
+          "source": "利潤率",
+          "target": "Profit Margin",
+          "abbreviation": "",
+          "context": "financial_ratio",
+          "confidence": "high"
+        }
+      ],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_b34",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    }
+  }
+]

@@ -1,0 +1,70 @@
+﻿请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。
+要求高保真、正式、可出版，不要摘要，不要解释。
+术语表和动态文档背景优先于自由翻译。
+只输出严格 JSON。
+{
+  "page_no": 20,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "relevant_terms": [
+    {
+      "source": "友邦保險",
+      "target": "AIA"
+    },
+    {
+      "source": "新業務價值",
+      "target": "new business value"
+    },
+    {
+      "source": "中國內地",
+      "target": "Mainland China"
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "p20_b29",
+      "block_type": "body",
+      "source_text": "半年。在2020年，友邦保險中國業務為集團的新業務價值帶來最大貢獻。",
+      "line_count": 1,
+      "char_count": 34,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p20_b30",
+      "block_type": "body",
+      "source_text": "在實施旅遊限制後，友邦保險香港業務來自中國內地訪港客戶的新業務銷售自2020年2月初起實際上已暫停，導",
+      "line_count": 1,
+      "char_count": 51,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p20_b31",
+      "block_type": "body",
+      "source_text": "致其新業務價值大幅下降。新業務價值利潤率錄得跌幅，反映新業務量減少導致承保開支超支、產品組合變動及",
+      "line_count": 1,
+      "char_count": 49,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p20_b32",
+      "block_type": "body",
+      "source_text": "利率下降的影響所致。澳門在2020年9月底恢復中國內地旅客個人遊計劃。這為澳門的中國內地訪澳客戶銷售回",
+      "line_count": 1,
+      "char_count": 51,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p20_b33",
+      "block_type": "body",
+      "source_text": "升提供支持，使其在第四季佔友邦保險澳門分公司的年化新保費總額超過三分之一。",
+      "line_count": 1,
+      "char_count": 37,
+      "region": "middle",
+      "font_size_avg": 9.0
+    }
+  ]
+}

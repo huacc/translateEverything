@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p20_b14",
+      "translation": "Other Markets\n514\n38.4%\n1,334\n535\n41.9%\n1,271\n(4)%\n(4)%"
+    }
+  ]
+}
+```

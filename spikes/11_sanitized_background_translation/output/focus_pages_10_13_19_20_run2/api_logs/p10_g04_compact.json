@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "compact",
+    "page_no": 10,
+    "unit_id": "p10_g04"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是年报英文压缩器，不是重译器。\n语言方向：Traditional Chinese -> English。\n你的任务只是对已有译文做最小必要压缩，以便回填原版面。\n禁止改变数字、单位、术语、专名、比较关系、主体和结论。\n标题不能改成正文，表头不能改成句子，不能输出口语化表达。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市公司企业年报\n{\n  \"document_background\": {\n    \"page_sections\": [\n      {\n        \"source_section\": \"主席報告\",\n        \"target_section\": \"Chairman's Statement\",\n        \"content_type\": \"chairman_statement\",\n        \"page_range\": [\n          10,\n          11\n        ]\n      }\n    ],\n    \"roles\": [\n      {\n        \"source\": \"謝仕榮先生\",\n        \"target\": \"Mr. Tse Sze-wing\",\n        \"role\": \"Independent Non-Executive Chairman\"\n      }\n    ],\n    \"terms\": [\n      {\n        \"source\": \"新業務價值\",\n        \"target\": \"VONB\"\n      },\n      {\n        \"source\": \"2019冠狀病毒病\",\n        \"target\": \"COVID-19\"\n      }\n    ],\n    \"style_rules\": [\n      \"Use US$ for U.S. dollar amounts.\",\n      \"Keep listed-company annual report disclosure tone formal and publishable.\",\n      \"Do not change numbers, percentages, years, named entities or financial metric values.\",\n      \"Use established financial abbreviations for table labels when provided.\",\n      \"Keep row and column semantics unchanged.\",\n      \"Use n/m for 無意義.\"\n    ]\n  },\n  \"current_unit\": {\n    \"page_no\": 10,\n    \"unit_id\": \"p10_g04\",\n    \"unit_mode\": \"semantic_group\",\n    \"slot_count\": 2,\n    \"source_text\": \"由於2019冠狀病毒病相關的控制措施對新業務銷售造成影響，新業務價值下降至27.65億美元。我們迅速採用\\n嶄新的數碼工具，提升業務運作效率，加上近期放寬外出限制，帶動銷售動力強勁復蘇，並延續至2021年初。\",\n    \"current_translation\": \"Due to control measures related to COVID-19 impacting new business sales, VONB declined to US$2.765 billion. We rapidly adopted innovative digital tools to enhance operational efficiency, and with the recent relaxation of movement restrictions, sales momentum recovered strongly and continued into early 2021.\"\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p10_g04\",\n        \"translation\": \"<更紧凑译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p10_g04\",\n      \"translation\": \"COVID-19 control measures impacted new business sales, with VONB declining to US$2.765 billion. We rapidly adopted innovative digital tools to enhance operational efficiency. With relaxed movement restrictions, sales momentum recovered strongly and continued into early 2021.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "7d0892ba-29f7-420e-9738-698dd3d74350",
+    "conversation_id": "7d0892ba-29f7-420e-9738-698dd3d74350",
+    "id": "7d0892ba-29f7-420e-9738-698dd3d74350",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 748,
+      "output_tokens": 86
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "content": [
+    {
+      "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p1_b1\",\n      \"translation\": \"HEALTHIER\\nLONGER\\nBETTER\\nLIVES\"\n    },\n    {\n      \"block_id\": \"p1_b2\",\n      \"translation\": \"Healthier, Longer, Better Lives\"\n    },\n    {\n      \"block_id\": \"p1_b3\",\n      \"translation\": \"AIA GROUP LIMITED\\n2020 Annual Report\"\n    },\n    {\n      \"block_id\": \"p1_b4\",\n      \"translation\": \"Stock Code 1299\"\n    }\n  ]\n}\n```",
+      "type": "text"
+    }
+  ],
+  "conversationId": "5c0031d4-8535-4992-ab53-892e74f39e84",
+  "conversation_id": "5c0031d4-8535-4992-ab53-892e74f39e84",
+  "id": "5c0031d4-8535-4992-ab53-892e74f39e84",
+  "model": "claude-3-5-sonnet-20241022",
+  "role": "assistant",
+  "stop_reason": "end_turn",
+  "type": "message",
+  "usage": {
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1380,
+    "output_tokens": 143
+  }
+}

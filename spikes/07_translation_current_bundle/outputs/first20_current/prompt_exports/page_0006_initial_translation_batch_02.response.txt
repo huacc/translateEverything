@@ -1,0 +1,38 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p6_b9",
+      "translation": "Pan-Asian independent listed life insurance group with operations"
+    },
+    {
+      "block_id": "p6_b10",
+      "translation": "across the region to help people achieve healthy, long and fulfilling lives. Our purpose"
+    },
+    {
+      "block_id": "p6_b11",
+      "translation": "spans 18 markets, serving over 38 million individual policyholders"
+    },
+    {
+      "block_id": "p6_b12",
+      "translation": "guides our decisions and actions as an institution."
+    },
+    {
+      "block_id": "p6_b13",
+      "translation": "and over 16 million group insurance plan participants."
+    },
+    {
+      "block_id": "p6_b14",
+      "translation": "is to help people understand and manage their health and"
+    },
+    {
+      "block_id": "p6_b15",
+      "translation": "meet their long-term savings and protection needs."
+    },
+    {
+      "block_id": "p6_b16",
+      "translation": "We are committed to supporting our customers in achieving their financial goals."
+    }
+  ]
+}
+```

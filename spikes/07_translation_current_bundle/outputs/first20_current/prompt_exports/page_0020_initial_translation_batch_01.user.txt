@@ -1,0 +1,93 @@
+﻿请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。
+要求高保真、正式、可出版，不要摘要，不要解释。
+术语表和动态文档背景优先于自由翻译。
+只输出严格 JSON。
+{
+  "page_no": 20,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "relevant_terms": [
+    {
+      "source": "新業務價值",
+      "target": "new business value"
+    },
+    {
+      "source": "泰國",
+      "target": "Thailand"
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "p20_b3",
+      "block_type": "label",
+      "source_text": "新業務表現",
+      "line_count": 1,
+      "char_count": 5,
+      "region": "middle",
+      "font_size_avg": 14.0
+    },
+    {
+      "block_id": "p20_b4",
+      "block_type": "label",
+      "source_text": "按分部劃分的新業務價值、年化新保費及利潤率",
+      "line_count": 1,
+      "char_count": 21,
+      "region": "middle",
+      "font_size_avg": 10.0
+    },
+    {
+      "block_id": "p20_b5",
+      "block_type": "body",
+      "source_text": "2020年\n2019年\n新業務價值變動",
+      "line_count": 3,
+      "char_count": 19,
+      "region": "middle",
+      "font_size_avg": 8.5
+    },
+    {
+      "block_id": "p20_b6",
+      "block_type": "body",
+      "source_text": "新業務\n價值\n利潤率\n年化\n新保費\n新業務\n價值",
+      "line_count": 7,
+      "char_count": 24,
+      "region": "middle",
+      "font_size_avg": 8.5
+    },
+    {
+      "block_id": "p20_b7",
+      "block_type": "body",
+      "source_text": "新業務\n價值\n利潤率\n年化\n新保費\n按年變動\n（固定匯率）\n按年變動\n（實質匯率）",
+      "line_count": 9,
+      "char_count": 41,
+      "region": "middle",
+      "font_size_avg": 8.5
+    },
+    {
+      "block_id": "p20_b8",
+      "block_type": "body",
+      "source_text": "百萬美元，除另有說明外\n新業務\n價值",
+      "line_count": 3,
+      "char_count": 18,
+      "region": "middle",
+      "font_size_avg": 7.67
+    },
+    {
+      "block_id": "p20_b9",
+      "block_type": "body",
+      "source_text": "香港\n550\n44.7%\n1,138\n1,621\n66.1%\n2,393\n(66)%\n(66)%",
+      "line_count": 9,
+      "char_count": 48,
+      "region": "middle",
+      "font_size_avg": 8.5
+    },
+    {
+      "block_id": "p20_b10",
+      "block_type": "body",
+      "source_text": "泰國\n469\n71.0%\n661\n494\n67.7%\n729\n(4)%\n(5)%",
+      "line_count": 9,
+      "char_count": 40,
+      "region": "middle",
+      "font_size_avg": 8.5
+    }
+  ]
+}

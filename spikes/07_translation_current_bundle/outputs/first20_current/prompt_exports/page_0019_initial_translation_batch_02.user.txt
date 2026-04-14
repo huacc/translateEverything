@@ -1,0 +1,88 @@
+﻿请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。
+要求高保真、正式、可出版，不要摘要，不要解释。
+术语表和动态文档背景优先于自由翻译。
+只输出严格 JSON。
+{
+  "page_no": 19,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "relevant_terms": [
+    {
+      "source": "稅後營運溢利",
+      "target": "operating profit after tax"
+    },
+    {
+      "source": "內涵價值",
+      "target": "embedded value"
+    },
+    {
+      "source": "有效保單組合",
+      "target": "in-force portfolio"
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "p19_b8",
+      "block_type": "label",
+      "source_text": "期高出15%。",
+      "line_count": 1,
+      "char_count": 7,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p19_b9",
+      "block_type": "body",
+      "source_text": "截至2020年12月31日的內涵價值權益創下新高為671.85億美元，於派付股息19.97億美元之前增加52.77億美元，",
+      "line_count": 1,
+      "char_count": 61,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p19_b10",
+      "block_type": "body",
+      "source_text": "原因在於內涵價值營運溢利72.43億美元抵銷了政府債券收益率下降的影響。內涵價值營運溢利包括來自正面營",
+      "line_count": 1,
+      "char_count": 51,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p19_b11",
+      "block_type": "body",
+      "source_text": "運差異5.49億美元，原因在於與我們的內涵價值假設相比，我們的整體經驗持續維持正面。",
+      "line_count": 1,
+      "char_count": 42,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p19_b12",
+      "block_type": "body",
+      "source_text": "我們的高質素、經常性盈利來源以及對有效保單組合的積極管理，帶動稅後營運溢利增長了5%至59.42億美元，",
+      "line_count": 1,
+      "char_count": 52,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p19_b13",
+      "block_type": "body",
+      "source_text": "並使營運溢利率穩定在16.9%。所收取的續保保費增加了10%，經常性保費總額佔2020年所收取保費的90%以",
+      "line_count": 1,
+      "char_count": 54,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p19_b14",
+      "block_type": "body",
+      "source_text": "上。稅後營運溢利增長受益於全年顯著正面理賠經驗，其抵銷了新固定收入投資的收益率下跌及假設長期股權投",
+      "line_count": 1,
+      "char_count": 49,
+      "region": "middle",
+      "font_size_avg": 9.0
+    }
+  ]
+}

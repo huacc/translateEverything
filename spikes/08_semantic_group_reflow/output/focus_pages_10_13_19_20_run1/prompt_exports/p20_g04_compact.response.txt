@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p20_g04",
+      "translation": "Following travel restrictions, AIA's Hong Kong new business sales from Mainland China visitors were virtually suspended from early February 2020, causing significant decline in new business value. The new business value profit margin decreased due to reduced volume leading to underwriting expense overruns, product mix changes, and declining interest rates. Macau resumed its individual travel scheme for Mainland China visitors in September 2020, supporting sales recovery from these visitors, which exceeded one-third of AIA's Macau branch's annualized new premiums in Q4."
+    }
+  ]
+}
+```

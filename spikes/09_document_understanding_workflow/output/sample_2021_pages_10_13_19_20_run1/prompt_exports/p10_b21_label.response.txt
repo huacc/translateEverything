@@ -1,0 +1,36 @@
+```json
+{
+  "unit_id": "p10_b21",
+  "page_no": 10,
+  "section_id": "chairman_statement",
+  "content_type": "financial_metric",
+  "speaker_role": "management",
+  "topic_tags": [
+    "new_business_performance",
+    "year_over_year_comparison",
+    "growth_metric"
+  ],
+  "term_hits": [
+    {
+      "source_term": "新業務價值",
+      "target_term": "New Business Value",
+      "abbreviation": "NBV",
+      "confidence": "high"
+    }
+  ],
+  "needs_context": true,
+  "context_scope": "section",
+  "risk_level": "high",
+  "risk_flags": [
+    "financial_metric_translation",
+    "percentage_precision",
+    "temporal_reference_accuracy"
+  ],
+  "translation_constraints": [
+    "preserve_exact_percentage_value",
+    "maintain_comparative_structure",
+    "verify_time_period_reference",
+    "ensure_metric_consistency_with_termbase"
+  ]
+}
+```

@@ -1,0 +1,34 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p13_b9",
+      "translation": "Although measures to contain the spread of COVID-19 resulted in a decrease in new business value to US$2.765 billion, as lockdown restrictions eased, sales momentum turned"
+    },
+    {
+      "block_id": "p13_b10",
+      "translation": "positive, with very strong momentum emerging in the first two months of 2021, with new business value growing 15% year-on-year. Our large and growing in-"
+    },
+    {
+      "block_id": "p13_b11",
+      "translation": "force portfolio generated high-quality and recurring income streams, driving a 5% increase in operating profit after tax in 2020, while free surplus generated during"
+    },
+    {
+      "block_id": "p13_b12",
+      "translation": "the period grew 7%. As at 31 December 2020, embedded value equity reached a record high of US$67.2 billion, with the Group's local capital adequacy ratio at 374%, demonstrating"
+    },
+    {
+      "block_id": "p13_b13",
+      "translation": "our strong capital position and prudent financial management."
+    },
+    {
+      "block_id": "p13_b14",
+      "translation": "The Board recommends a final dividend for 2020 increased by 7.5% to HK$1.0030 per share. This reflects AIA's long-standing prudent, sustainable and progressive dividend"
+    },
+    {
+      "block_id": "p13_b15",
+      "translation": "policy, enabling the Group to capture future growth opportunities while maintaining financial flexibility."
+    }
+  ]
+}
+```

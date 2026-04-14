@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "compact",
+    "page_no": 13,
+    "unit_id": "p13_g05"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是版面回填压缩器。\n语言方向：Traditional Chinese -> English。\n在不改变事实、数字、专有名词和正式语气的前提下，对当前译文做最小必要压缩。\n不得补充新信息，不得删除关键事实，不得改动数字和单位。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市公司企业年报\npage_no: 13\nunit_id: p13_g05\nunit_mode: semantic_group\nslot_count: 4\nsource_text:\n友邦保險具有多項顯著優勢，讓我們在競爭激烈的市場別樹一幟。我們在亞洲經營數十載，擁有區內無可比擬的\n平台，並於我們業務所在的大部分市場雄踞領導地位。我們始終如一地百分百專注於亞洲市場，有助我們在全球\n最具吸引力的壽險業地區全面把握增長機遇。這份專注結合我們領導團隊在亞洲的豐富經驗及員工的優秀質素，\n一直是我們表現卓越的重要動力。\ncurrent_translation:\nAIA possesses multiple significant advantages that distinguish us in a highly competitive market. With decades of operations in Asia, we have an unparalleled platform within the region and hold leading positions in most of the markets where we conduct business. Our unwavering 100% focus on the Asian market enables us to fully capitalize on growth opportunities in the world's most attractive life insurance regions. This focus, combined with our leadership team's extensive experience in Asia and our employees' excellent qualities, has been a key driver of our outstanding performance.\n返回格式:\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p13_g05\",\n      \"translation\": \"<更紧凑译文>\"\n    }\n  ]\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p13_g05\",\n      \"translation\": \"AIA possesses multiple significant advantages that distinguish us in a highly competitive market. With decades of operations in Asia, we hold an unparalleled regional platform and leading positions in most of our business markets. Our unwavering 100% focus on the Asian market enables us to capitalize on growth opportunities in the world's most attractive life insurance regions. This focus, combined with our leadership team's extensive Asian experience and employees' excellent qualities, has been a key driver of our outstanding performance.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "5a710eb1-d8db-4087-9023-83e5bea3690d",
+    "conversation_id": "5a710eb1-d8db-4087-9023-83e5bea3690d",
+    "id": "5a710eb1-d8db-4087-9023-83e5bea3690d",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 569,
+      "output_tokens": 135
+    }
+  }
+}

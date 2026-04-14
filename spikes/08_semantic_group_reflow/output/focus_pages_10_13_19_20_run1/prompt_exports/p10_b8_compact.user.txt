@@ -1,0 +1,19 @@
+文档场景：上市公司企业年报
+page_no: 10
+unit_id: p10_b8
+unit_mode: single_block
+slot_count: 2
+source_text:
+謝仕榮先生
+獨立非執行主席
+current_translation:
+Mr. Xie Shirong Independent Non-Executive Chairman
+返回格式:
+{
+  "translations": [
+    {
+      "unit_id": "p10_b8",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+﻿请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。
+要求高保真、正式、可出版，不要摘要，不要解释。
+术语表和动态文档背景优先于自由翻译。
+只输出严格 JSON。
+{
+  "page_no": 18,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "relevant_terms": [
+    {
+      "source": "新業務價值",
+      "target": "new business value"
+    },
+    {
+      "source": "稅後營運溢利",
+      "target": "operating profit after tax"
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "p18_b11",
+      "block_type": "body",
+      "source_text": "2020年新業務價值下降，但隨著業務的調整和限制的有所放寬，我們看到了銷售勢頭的恢復。這種勢頭一直持續",
+      "line_count": 1,
+      "char_count": 51,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p18_b12",
+      "block_type": "body",
+      "source_text": "到2021年，首兩個月新業務價值與2020年同期相比增長15%。多年來，我們審慎的財務管理和貫徹對高質素業務",
+      "line_count": 1,
+      "char_count": 54,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p18_b13",
+      "block_type": "body",
+      "source_text": "的策略性重點，體現了稅後營運溢利和產生的基本自由盈餘的持續增長、穩健而強韌的資本狀況以及每股股息的",
+      "line_count": 1,
+      "char_count": 49,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p18_b14",
+      "block_type": "label",
+      "source_text": "進一步增長。",
+      "line_count": 1,
+      "char_count": 6,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p18_b15",
+      "block_type": "label",
+      "source_text": "Garth Jones 先生\n集團首席財務總監",
+      "line_count": 2,
+      "char_count": 23,
+      "region": "middle",
+      "font_size_avg": 7.88
+    }
+  ]
+}

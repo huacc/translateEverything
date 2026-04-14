@@ -1,0 +1,21 @@
+{
+  "content": [
+    {
+      "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p15_b1\",\n      \"translation\": \"People First\"\n    },\n    {\n      \"block_id\": \"p15_b2\",\n      \"translation\": \"AIA's 23,000 employees are key to our competitive advantage and success. We foster inclusion and collaboration,\"\n    },\n    {\n      \"block_id\": \"p15_b4\",\n      \"translation\": \"learning culture, enabling meaningful careers at AIA. With social distancing measures, we moved learning\"\n    },\n    {\n      \"block_id\": \"p15_b5\",\n      \"translation\": \"online to \\\"AIA Learning Hub\\\". AIA Leadership Centre in Bangkok redesigned and launched our\"\n    },\n    {\n      \"block_id\": \"p15_b6\",\n      \"translation\": \"flagship leadership program with 100+ fully virtual modules. Participants gave highly positive feedback,\"\n    },\n    {\n      \"block_id\": \"p15_b7\",\n      \"translation\": \"matching in-person learning experiences.\"\n    },\n    {\n      \"block_id\": \"p15_b8\",\n      \"translation\": \"Our annual employee engagement survey measures collective efforts to support our workforce. In 2020,\"\n    },\n    {\n      \"block_id\": \"p15_b9\",\n      \"translation\": \"97% participated; our engagement score hit an all-time high, ranking 88th percentile vs. Gallup's global benchmarks.\"\n    },\n    {\n      \"block_id\": \"p15_b11\",\n      \"translation\": \"October 2020: AIA marked 10 years on Hong Kong Stock Exchange, launching \\\"AIA Scholarship\\\" with USD 100M commitment to\"\n    },\n    {\n      \"block_id\": \"p15_b12\",\n      \"translation\": \"support 100 HK university undergrads annually, nurturing future business leaders.\"\n    },\n    {\n      \"block_id\": \"p15_b13\",\n      \"translation\": \"Core to \\\"Organisation of the Future\\\" strategy: streamline structure, enable flexible work, enhance capabilities,\"\n    },\n    {\n      \"block_id\": \"p15_b14\",\n      \"translation\": \"supporting career development and strengthening AIA as employer of choice.\"\n    },\n    {\n      \"block_id\": \"p15_b15\",\n      \"translation\": \"From H2 2020, we piloted transformation in Singapore and Vietnam. Early results: streamlined,\"\n    },\n    {\n      \"block_id\": \"p15_b16\",\n      \"translation\": \"customer-centric operations with flexible work and cross-functional expert teams.\"\n    },\n    {\n      \"block_id\": \"p15_b17\",\n      \"translation\": \"We'll pilot and learn before scaling \\\"Organisation of the Future\\\" across other operations.\"\n    },\n    {\n      \"block_id\": \"p15_b18\",\n      \"translation\": \"ESG\"\n    },\n    {\n      \"block_id\": \"p15_b19\",\n      \"translation\": \"For over a century, AIA has positively impacted Asian customers' lives. Our communities face major ESG\"\n    },\n    {\n      \"block_id\": \"p15_b20\",\n      \"translation\": \"challenges: climate change, pollution, lifestyle diseases. The pandemic has underscored their complexity. As a\"\n    },\n    {\n      \"block_id\": \"p15_b21\",\n      \"translation\": \"lifetime partner, we're committed to a better, more sustainable future.\"\n    },\n    {\n      \"block_id\": \"p15_b22\",\n      \"translation\": \"AIA participates in the Task Force on Climate-related Financial Disclosures, developing voluntary climate disclosure frameworks.\"\n    },\n    {\n      \"block_id\": \"p15_b23\",\n      \"translation\": \"We reaffirm commitment to these recommendations, engaging 1,400+ portfolio companies in 2020\"\n    },\n    {\n      \"block_id\": \"p15_b25\",\n      \"translation\": \"Per Sustainalytics, AIA ranked 2nd in insurance for ESG risk management for the second consecutive year,\"\n    },\n    {\n      \"block_id\": \"p15_b28\",\n      \"translation\": \"2020 Report 013\"\n    }\n  ]\n}\n```",
+      "type": "text"
+    }
+  ],
+  "conversationId": "cb662a95-7750-4ac9-8b4d-f5b0b71e4234",
+  "conversation_id": "cb662a95-7750-4ac9-8b4d-f5b0b71e4234",
+  "id": "cb662a95-7750-4ac9-8b4d-f5b0b71e4234",
+  "model": "claude-3-5-sonnet-20241022",
+  "role": "assistant",
+  "stop_reason": "end_turn",
+  "type": "message",
+  "usage": {
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 4707,
+    "output_tokens": 908
+  }
+}

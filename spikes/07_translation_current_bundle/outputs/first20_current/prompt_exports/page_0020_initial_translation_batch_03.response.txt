@@ -1,0 +1,30 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p20_b17",
+      "translation": "Unallocated Group head office costs\nafter-tax value\n(161)\nNot meaningful\nNot meaningful\n(154)\nNot meaningful\nNot meaningful\nNot meaningful\nNot meaningful"
+    },
+    {
+      "block_id": "p20_b18",
+      "translation": "Total before non-controlling interests\n2,789\n52.6%\n5,219\n4,186\n62.9%\n6,585\n(33)%\n(33)%"
+    },
+    {
+      "block_id": "p20_b19",
+      "translation": "Non-controlling interests\n(24)\nNot meaningful\nNot meaningful\n(32)\nNot meaningful\nNot meaningful\nNot meaningful\nNot meaningful"
+    },
+    {
+      "block_id": "p20_b20",
+      "translation": "Total\n2,765\n52.6%\n5,219\n4,154\n62.9%\n6,585\n(33)%\n(33)%"
+    },
+    {
+      "block_id": "p20_b21",
+      "translation": "Although the Group's new business value of US$2.765 billion in 2020 decreased by 33% compared to 2019, we rapidly adopted new digital tools, and the widespread relaxation of movement restrictions supported a recovery in sales momentum. AIA's China business contributed the largest share to the Group's new business value in 2020 and was our first"
+    },
+    {
+      "block_id": "p20_b22",
+      "translation": "market to achieve new business value growth in the second half of the year. AIA China's business contributed the largest share to the Group's new business value in 2020 and was our first"
+    }
+  ]
+}
+```

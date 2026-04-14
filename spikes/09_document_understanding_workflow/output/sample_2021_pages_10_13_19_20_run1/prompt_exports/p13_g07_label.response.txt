@@ -1,0 +1,39 @@
+```json
+{
+  "unit_id": "p13_g07",
+  "page_no": 13,
+  "section_id": "Group Chief Executive and President's Report",
+  "content_type": "strategic_narrative",
+  "speaker_role": "ceo",
+  "topic_tags": [
+    "technology_leadership",
+    "digital_transformation",
+    "customer_experience",
+    "data_analytics",
+    "product_personalization",
+    "operational_efficiency",
+    "customer_relationship"
+  ],
+  "term_hits": [
+    {
+      "source_term": "友邦保險",
+      "target_term": "AIA",
+      "confidence": "high"
+    }
+  ],
+  "needs_context": true,
+  "context_scope": "section",
+  "risk_level": "medium",
+  "risk_flags": [
+    "strategic_claim_accuracy",
+    "technology_capability_assertion"
+  ],
+  "translation_constraints": [
+    "Preserve formal corporate register in strategic statement",
+    "Maintain parallel structure in multi-clause sentences",
+    "Translate mission-oriented language with care to reflect original intent",
+    "Ensure 'AIA' consistency throughout",
+    "Preserve causal relationships between technology adoption and customer outcomes"
+  ]
+}
+```

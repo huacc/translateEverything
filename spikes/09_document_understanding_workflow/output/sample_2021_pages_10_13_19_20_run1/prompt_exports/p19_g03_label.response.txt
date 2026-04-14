@@ -1,0 +1,43 @@
+```json
+{
+  "unit_id": "p19_g03",
+  "page_no": 19,
+  "section_id": "集團首席財務總監回顧",
+  "content_type": "financial_narrative",
+  "speaker_role": "cfo",
+  "topic_tags": [
+    "embedded_value_analysis",
+    "operating_profit",
+    "bond_yield_impact",
+    "experience_variance"
+  ],
+  "term_hits": [
+    {
+      "source_term": "內涵價值",
+      "target_term": "Embedded Value",
+      "abbreviation": "EV",
+      "confidence": "high"
+    },
+    {
+      "source_term": "營運溢利",
+      "target_term": "Operating Profit",
+      "confidence": "high"
+    }
+  ],
+  "needs_context": true,
+  "context_scope": "section",
+  "risk_level": "high",
+  "risk_flags": [
+    "financial_metric_translation",
+    "percentage_and_ratio_precision",
+    "currency_conversion_notation"
+  ],
+  "translation_constraints": [
+    "Preserve exact numerical values: 72.43億美元, 5.49億美元",
+    "Maintain financial terminology consistency for EV operating profit",
+    "Clarify causal relationship: 'offset' vs 'counterbalance' for 抵銷",
+    "Preserve comparative logic: experience variance relative to assumptions",
+    "Standardize currency notation to US$ or USD throughout"
+  ]
+}
+```

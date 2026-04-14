@@ -1,0 +1,24 @@
+```json
+{
+  "unit_id": "p10_b3",
+  "page_no": 10,
+  "section_id": "chairman_statement",
+  "content_type": "section_heading",
+  "speaker_role": "chairman",
+  "topic_tags": [
+    "corporate_governance",
+    "executive_communication",
+    "annual_report_structure"
+  ],
+  "term_hits": [],
+  "needs_context": false,
+  "context_scope": "none",
+  "risk_level": "low",
+  "risk_flags": [],
+  "translation_constraints": [
+    "Use Title Case: 'Chairman's Statement'",
+    "Preserve hierarchical heading structure",
+    "Match established section mapping from document profile"
+  ]
+}
+```

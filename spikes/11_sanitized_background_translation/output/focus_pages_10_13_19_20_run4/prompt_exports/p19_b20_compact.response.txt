@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p19_b20",
+      "translation": "US$1.997 billion; Free Surplus of US$13.473 billion."
+    }
+  ]
+}
+```

@@ -1,0 +1,21 @@
+{
+  "content": [
+    {
+      "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p35_b1\",\n      \"translation\": \"Total Investments\"\n    },\n    {\n      \"block_id\": \"p35_b2\",\n      \"translation\": \"Million USD, unless stated\\n31 Dec 2020\\n% of Total\\n31 Dec 2019\\n% of Total\"\n    },\n    {\n      \"block_id\": \"p35_b4\",\n      \"translation\": \"Policyholders & Shareholders\\n247,408 | 87%\\n212,742 | 87%\"\n    },\n    {\n      \"block_id\": \"p35_b5\",\n      \"translation\": \"Unit-Linked & Pooled Funds\\n36,302 | 13%\\n31,456 | 13%\"\n    },\n    {\n      \"block_id\": \"p35_b6\",\n      \"translation\": \"Total Investments\\n283,710 | 100%\\n244,198 | 100%\"\n    },\n    {\n      \"block_id\": \"p35_b7\",\n      \"translation\": \"Portfolio remained stable during the year:\"\n    },\n    {\n      \"block_id\": \"p35_b8\",\n      \"translation\": \"Unit-Linked & Pooled Funds\"\n    },\n    {\n      \"block_id\": \"p35_b9\",\n      \"translation\": \"Million USD, unless stated\\n31 Dec 2020\\n% of Total\\n31 Dec 2019\\n% of Total\"\n    },\n    {\n      \"block_id\": \"p35_b10\",\n      \"translation\": \"Unit-Linked & Pooled Funds\"\n    },\n    {\n      \"block_id\": \"p35_b11\",\n      \"translation\": \"Debt Securities\\n6,403 | 18%\\n5,866 | 19%\"\n    },\n    {\n      \"block_id\": \"p35_b12\",\n      \"translation\": \"Loans & Deposits\\n395 | 1%\\n703 | 2%\"\n    },\n    {\n      \"block_id\": \"p35_b13\",\n      \"translation\": \"Equity Securities\\n28,232 | 78%\\n24,101 | 77%\"\n    },\n    {\n      \"block_id\": \"p35_b14\",\n      \"translation\": \"Cash & Equivalents\\n1,219 | 3%\\n752 | 2%\"\n    },\n    {\n      \"block_id\": \"p35_b15\",\n      \"translation\": \"Derivative Instruments\\n53 | –\\n34 | –\"\n    },\n    {\n      \"block_id\": \"p35_b16\",\n      \"translation\": \"Unit-Linked & Pooled Funds Total\\n36,302 | 100%\\n31,456 | 100%\"\n    },\n    {\n      \"block_id\": \"p35_b17\",\n      \"translation\": \"2020 Report 033\"\n    }\n  ]\n}\n```",
+      "type": "text"
+    }
+  ],
+  "conversationId": "b8d98bb2-38bd-4905-a785-3331ba262680",
+  "conversation_id": "b8d98bb2-38bd-4905-a785-3331ba262680",
+  "id": "b8d98bb2-38bd-4905-a785-3331ba262680",
+  "model": "claude-3-5-sonnet-20241022",
+  "role": "assistant",
+  "stop_reason": "end_turn",
+  "type": "message",
+  "usage": {
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2812,
+    "output_tokens": 625
+  }
+}

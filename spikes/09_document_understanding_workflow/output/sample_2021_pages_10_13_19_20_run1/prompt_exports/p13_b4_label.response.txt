@@ -1,0 +1,23 @@
+```json
+{
+  "unit_id": "p13_b4",
+  "page_no": 13,
+  "section_id": "navigation_sidebar",
+  "content_type": "navigation",
+  "speaker_role": null,
+  "topic_tags": [
+    "document_structure",
+    "section_index"
+  ],
+  "term_hits": [],
+  "needs_context": false,
+  "context_scope": null,
+  "risk_level": "low",
+  "risk_flags": [],
+  "translation_constraints": [
+    "Preserve hierarchical structure of section headings",
+    "Maintain consistent Title Case formatting",
+    "Ensure section names align with section_map definitions"
+  ]
+}
+```

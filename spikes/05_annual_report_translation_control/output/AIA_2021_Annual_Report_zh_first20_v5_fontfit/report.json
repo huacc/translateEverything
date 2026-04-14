@@ -1,0 +1,452 @@
+[
+  {
+    "page_no": 1,
+    "text_block_count": 4,
+    "rule_resolved_count": 0,
+    "model_resolved_count": 4,
+    "compact_retry_count": 2,
+    "fit_summary": {
+      "ok": 2,
+      "font_shrink": 2
+    },
+    "translation_source_summary": {
+      "model_initial": 2,
+      "model_compact": 2
+    },
+    "original": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\original\\page_0001_original.png",
+    "redacted": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\redacted\\page_0001_redacted.png",
+    "translated": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\translated\\page_0001_translated.png",
+    "comparison": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\comparison\\page_0001_translation_comparison.png",
+    "document_context": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\document_context.json",
+    "status": "ok"
+  },
+  {
+    "page_no": 2,
+    "text_block_count": 69,
+    "rule_resolved_count": 5,
+    "model_resolved_count": 64,
+    "compact_retry_count": 33,
+    "fit_summary": {
+      "ok": 27,
+      "font_shrink": 42
+    },
+    "translation_source_summary": {
+      "model_initial": 30,
+      "glossary_exact": 5,
+      "model_compact": 33,
+      "model_repair_initial": 1
+    },
+    "original": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\original\\page_0002_original.png",
+    "redacted": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\redacted\\page_0002_redacted.png",
+    "translated": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\translated\\page_0002_translated.png",
+    "comparison": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\comparison\\page_0002_translation_comparison.png",
+    "document_context": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\document_context.json",
+    "status": "ok"
+  },
+  {
+    "page_no": 3,
+    "text_block_count": 11,
+    "rule_resolved_count": 1,
+    "model_resolved_count": 10,
+    "compact_retry_count": 9,
+    "fit_summary": {
+      "ok": 1,
+      "font_shrink": 10
+    },
+    "translation_source_summary": {
+      "model_initial": 1,
+      "model_compact": 9,
+      "glossary_linewise": 1
+    },
+    "original": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\original\\page_0003_original.png",
+    "redacted": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\redacted\\page_0003_redacted.png",
+    "translated": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\translated\\page_0003_translated.png",
+    "comparison": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\comparison\\page_0003_translation_comparison.png",
+    "document_context": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\document_context.json",
+    "status": "ok"
+  },
+  {
+    "page_no": 4,
+    "text_block_count": 0,
+    "rule_resolved_count": 0,
+    "model_resolved_count": 0,
+    "compact_retry_count": 0,
+    "fit_summary": {},
+    "translation_source_summary": {},
+    "original": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\original\\page_0004_original.png",
+    "redacted": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\redacted\\page_0004_redacted.png",
+    "translated": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\translated\\page_0004_translated.png",
+    "comparison": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\comparison\\page_0004_translation_comparison.png",
+    "document_context": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\document_context.json",
+    "status": "ok"
+  },
+  {
+    "page_no": 5,
+    "text_block_count": 11,
+    "rule_resolved_count": 0,
+    "model_resolved_count": 11,
+    "compact_retry_count": 5,
+    "fit_summary": {
+      "ok": 5,
+      "font_shrink": 6
+    },
+    "translation_source_summary": {
+      "model_initial": 6,
+      "model_compact": 5
+    },
+    "original": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\original\\page_0005_original.png",
+    "redacted": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\redacted\\page_0005_redacted.png",
+    "translated": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\translated\\page_0005_translated.png",
+    "comparison": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\comparison\\page_0005_translation_comparison.png",
+    "document_context": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\document_context.json",
+    "status": "ok"
+  },
+  {
+    "page_no": 6,
+    "text_block_count": 24,
+    "rule_resolved_count": 1,
+    "model_resolved_count": 23,
+    "compact_retry_count": 7,
+    "fit_summary": {
+      "ok": 19,
+      "font_shrink": 5
+    },
+    "translation_source_summary": {
+      "model_initial": 16,
+      "model_compact": 7,
+      "pattern_preserve": 1
+    },
+    "original": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\original\\page_0006_original.png",
+    "redacted": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\redacted\\page_0006_redacted.png",
+    "translated": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\translated\\page_0006_translated.png",
+    "comparison": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\comparison\\page_0006_translation_comparison.png",
+    "document_context": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\document_context.json",
+    "status": "ok"
+  },
+  {
+    "page_no": 7,
+    "text_block_count": 18,
+    "rule_resolved_count": 1,
+    "model_resolved_count": 17,
+    "compact_retry_count": 11,
+    "fit_summary": {
+      "ok": 6,
+      "font_shrink": 12
+    },
+    "translation_source_summary": {
+      "model_initial": 6,
+      "model_compact": 11,
+      "glossary_linewise": 1
+    },
+    "original": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\original\\page_0007_original.png",
+    "redacted": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\redacted\\page_0007_redacted.png",
+    "translated": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\translated\\page_0007_translated.png",
+    "comparison": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\comparison\\page_0007_translation_comparison.png",
+    "document_context": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\document_context.json",
+    "status": "ok"
+  },
+  {
+    "page_no": 8,
+    "text_block_count": 111,
+    "rule_resolved_count": 98,
+    "model_resolved_count": 13,
+    "compact_retry_count": 4,
+    "fit_summary": {
+      "font_shrink": 24,
+      "ok": 81,
+      "overflow": 6
+    },
+    "translation_source_summary": {
+      "glossary_exact": 6,
+      "model_initial": 9,
+      "model_compact": 4,
+      "pattern_preserve": 91,
+      "glossary_linewise": 1
+    },
+    "original": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\original\\page_0008_original.png",
+    "redacted": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\redacted\\page_0008_redacted.png",
+    "translated": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\translated\\page_0008_translated.png",
+    "comparison": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\comparison\\page_0008_translation_comparison.png",
+    "document_context": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\document_context.json",
+    "status": "ok"
+  },
+  {
+    "page_no": 9,
+    "text_block_count": 39,
+    "rule_resolved_count": 23,
+    "model_resolved_count": 16,
+    "compact_retry_count": 5,
+    "fit_summary": {
+      "ok": 31,
+      "font_shrink": 8
+    },
+    "translation_source_summary": {
+      "model_initial": 11,
+      "model_compact": 5,
+      "glossary_linewise": 2,
+      "pattern_preserve": 21
+    },
+    "original": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\original\\page_0009_original.png",
+    "redacted": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\redacted\\page_0009_redacted.png",
+    "translated": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\translated\\page_0009_translated.png",
+    "comparison": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\comparison\\page_0009_translation_comparison.png",
+    "document_context": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\document_context.json",
+    "status": "ok"
+  },
+  {
+    "page_no": 10,
+    "text_block_count": 28,
+    "rule_resolved_count": 3,
+    "model_resolved_count": 25,
+    "compact_retry_count": 13,
+    "fit_summary": {
+      "font_shrink": 18,
+      "ok": 10
+    },
+    "translation_source_summary": {
+      "glossary_exact": 2,
+      "model_initial": 9,
+      "model_compact": 13,
+      "model_repair_initial": 3,
+      "glossary_linewise": 1
+    },
+    "original": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\original\\page_0010_original.png",
+    "redacted": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\redacted\\page_0010_redacted.png",
+    "translated": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\translated\\page_0010_translated.png",
+    "comparison": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\comparison\\page_0010_translation_comparison.png",
+    "document_context": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\document_context.json",
+    "status": "ok"
+  },
+  {
+    "page_no": 11,
+    "text_block_count": 28,
+    "rule_resolved_count": 3,
+    "model_resolved_count": 25,
+    "compact_retry_count": 16,
+    "fit_summary": {
+      "font_shrink": 19,
+      "ok": 9
+    },
+    "translation_source_summary": {
+      "model_compact": 16,
+      "model_initial": 9,
+      "glossary_linewise": 2,
+      "pattern_template": 1
+    },
+    "original": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\original\\page_0011_original.png",
+    "redacted": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\redacted\\page_0011_redacted.png",
+    "translated": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\translated\\page_0011_translated.png",
+    "comparison": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\comparison\\page_0011_translation_comparison.png",
+    "document_context": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\document_context.json",
+    "status": "ok"
+  },
+  {
+    "page_no": 12,
+    "text_block_count": 9,
+    "rule_resolved_count": 3,
+    "model_resolved_count": 6,
+    "compact_retry_count": 5,
+    "fit_summary": {
+      "font_shrink": 8,
+      "ok": 1
+    },
+    "translation_source_summary": {
+      "glossary_exact": 2,
+      "model_compact": 5,
+      "model_initial": 1,
+      "glossary_linewise": 1
+    },
+    "original": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\original\\page_0012_original.png",
+    "redacted": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\redacted\\page_0012_redacted.png",
+    "translated": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\translated\\page_0012_translated.png",
+    "comparison": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\comparison\\page_0012_translation_comparison.png",
+    "document_context": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\document_context.json",
+    "status": "ok"
+  },
+  {
+    "page_no": 13,
+    "text_block_count": 29,
+    "rule_resolved_count": 2,
+    "model_resolved_count": 27,
+    "compact_retry_count": 20,
+    "fit_summary": {
+      "font_shrink": 15,
+      "ok": 13,
+      "overflow": 1
+    },
+    "translation_source_summary": {
+      "model_compact": 20,
+      "model_initial": 6,
+      "glossary_linewise": 2,
+      "model_repair_initial": 1
+    },
+    "original": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\original\\page_0013_original.png",
+    "redacted": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\redacted\\page_0013_redacted.png",
+    "translated": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\translated\\page_0013_translated.png",
+    "comparison": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\comparison\\page_0013_translation_comparison.png",
+    "document_context": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\document_context.json",
+    "status": "ok"
+  },
+  {
+    "page_no": 14,
+    "text_block_count": 33,
+    "rule_resolved_count": 4,
+    "model_resolved_count": 29,
+    "compact_retry_count": 21,
+    "fit_summary": {
+      "font_shrink": 25,
+      "ok": 8
+    },
+    "translation_source_summary": {
+      "glossary_exact": 3,
+      "model_compact": 21,
+      "model_initial": 8,
+      "glossary_linewise": 1
+    },
+    "original": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\original\\page_0014_original.png",
+    "redacted": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\redacted\\page_0014_redacted.png",
+    "translated": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\translated\\page_0014_translated.png",
+    "comparison": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\comparison\\page_0014_translation_comparison.png",
+    "document_context": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\document_context.json",
+    "status": "ok"
+  },
+  {
+    "page_no": 15,
+    "text_block_count": 28,
+    "rule_resolved_count": 2,
+    "model_resolved_count": 26,
+    "compact_retry_count": 19,
+    "fit_summary": {
+      "font_shrink": 20,
+      "ok": 8
+    },
+    "translation_source_summary": {
+      "model_compact": 19,
+      "glossary_linewise": 2,
+      "model_initial": 7
+    },
+    "original": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\original\\page_0015_original.png",
+    "redacted": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\redacted\\page_0015_redacted.png",
+    "translated": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\translated\\page_0015_translated.png",
+    "comparison": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\comparison\\page_0015_translation_comparison.png",
+    "document_context": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\document_context.json",
+    "status": "ok"
+  },
+  {
+    "page_no": 16,
+    "text_block_count": 24,
+    "rule_resolved_count": 4,
+    "model_resolved_count": 20,
+    "compact_retry_count": 13,
+    "fit_summary": {
+      "font_shrink": 18,
+      "ok": 6
+    },
+    "translation_source_summary": {
+      "glossary_exact": 2,
+      "model_compact": 13,
+      "model_initial": 7,
+      "pattern_template": 1,
+      "glossary_linewise": 1
+    },
+    "original": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\original\\page_0016_original.png",
+    "redacted": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\redacted\\page_0016_redacted.png",
+    "translated": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\translated\\page_0016_translated.png",
+    "comparison": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\comparison\\page_0016_translation_comparison.png",
+    "document_context": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\document_context.json",
+    "status": "ok"
+  },
+  {
+    "page_no": 17,
+    "text_block_count": 7,
+    "rule_resolved_count": 2,
+    "model_resolved_count": 5,
+    "compact_retry_count": 4,
+    "fit_summary": {
+      "font_shrink": 6,
+      "ok": 1
+    },
+    "translation_source_summary": {
+      "glossary_exact": 1,
+      "model_compact": 4,
+      "model_initial": 1,
+      "glossary_linewise": 1
+    },
+    "original": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\original\\page_0017_original.png",
+    "redacted": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\redacted\\page_0017_redacted.png",
+    "translated": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\translated\\page_0017_translated.png",
+    "comparison": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\comparison\\page_0017_translation_comparison.png",
+    "document_context": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\document_context.json",
+    "status": "ok"
+  },
+  {
+    "page_no": 18,
+    "text_block_count": 16,
+    "rule_resolved_count": 3,
+    "model_resolved_count": 13,
+    "compact_retry_count": 7,
+    "fit_summary": {
+      "font_shrink": 12,
+      "ok": 4
+    },
+    "translation_source_summary": {
+      "glossary_exact": 2,
+      "model_initial": 5,
+      "model_compact": 7,
+      "model_repair_initial": 1,
+      "glossary_linewise": 1
+    },
+    "original": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\original\\page_0018_original.png",
+    "redacted": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\redacted\\page_0018_redacted.png",
+    "translated": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\translated\\page_0018_translated.png",
+    "comparison": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\comparison\\page_0018_translation_comparison.png",
+    "document_context": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\document_context.json",
+    "status": "ok"
+  },
+  {
+    "page_no": 19,
+    "text_block_count": 29,
+    "rule_resolved_count": 2,
+    "model_resolved_count": 27,
+    "compact_retry_count": 20,
+    "fit_summary": {
+      "ok": 9,
+      "font_shrink": 20
+    },
+    "translation_source_summary": {
+      "model_initial": 3,
+      "model_compact": 20,
+      "glossary_linewise": 2,
+      "model_repair_initial": 4
+    },
+    "original": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\original\\page_0019_original.png",
+    "redacted": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\redacted\\page_0019_redacted.png",
+    "translated": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\translated\\page_0019_translated.png",
+    "comparison": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\comparison\\page_0019_translation_comparison.png",
+    "document_context": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\document_context.json",
+    "status": "ok"
+  },
+  {
+    "page_no": 20,
+    "text_block_count": 34,
+    "rule_resolved_count": 3,
+    "model_resolved_count": 31,
+    "compact_retry_count": 19,
+    "fit_summary": {
+      "font_shrink": 21,
+      "ok": 13
+    },
+    "translation_source_summary": {
+      "glossary_exact": 2,
+      "model_compact": 19,
+      "model_initial": 12,
+      "glossary_linewise": 1
+    },
+    "original": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\original\\page_0020_original.png",
+    "redacted": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\redacted\\page_0020_redacted.png",
+    "translated": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\translated\\page_0020_translated.png",
+    "comparison": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\comparison\\page_0020_translation_comparison.png",
+    "document_context": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_first20_v5_fontfit\\document_context.json",
+    "status": "ok"
+  }
+]

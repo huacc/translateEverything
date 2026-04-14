@@ -1,0 +1,154 @@
+文档场景：上市公司企业年报。
+请优先复用 document_background 和 matched_terms 中提供的标准写法。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "direction": "Traditional Chinese -> English"
+  },
+  "document_background": {
+    "global_profile": {
+      "company_name_target": "AIA GROUP LIMITED",
+      "industry": "Life Insurance",
+      "report_type": "annual_report",
+      "report_year": 2020
+    },
+    "term_usage_mode": "table",
+    "page_sections": [
+      {
+        "source_section": "集團首席執行官兼總裁報告",
+        "target_section": "Group Chief Executive and President's Report",
+        "content_type": "ceo_report",
+        "page_range": [
+          12,
+          16
+        ]
+      }
+    ],
+    "roles": [
+      {
+        "source": "李源祥",
+        "target": "Lee Yuen Cheung",
+        "role": "Group Chief Executive and President"
+      }
+    ],
+    "terms": [
+      {
+        "source": "新業務價值",
+        "target": "VONB"
+      },
+      {
+        "source": "稅後營運溢利",
+        "target": "OPAT"
+      },
+      {
+        "source": "產生的基本自由盈餘",
+        "target": "UFSG"
+      },
+      {
+        "source": "自由盈餘",
+        "target": "Free Surplus"
+      },
+      {
+        "source": "內涵價值權益",
+        "target": "EV Equity"
+      },
+      {
+        "source": "內涵價值",
+        "target": "EV"
+      },
+      {
+        "source": "集團當地資本總和法覆蓋率",
+        "target": "Group LCSM cover ratio"
+      },
+      {
+        "source": "2019冠狀病毒病",
+        "target": "COVID-19"
+      }
+    ],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "Use established financial abbreviations for table labels when provided.",
+      "Keep row and column semantics unchanged.",
+      "Use n/m for 無意義."
+    ]
+  },
+  "matched_terms": [
+    {
+      "source": "新業務價值",
+      "target": "VONB"
+    },
+    {
+      "source": "稅後營運溢利",
+      "target": "OPAT"
+    },
+    {
+      "source": "產生的基本自由盈餘",
+      "target": "UFSG"
+    },
+    {
+      "source": "自由盈餘",
+      "target": "Free Surplus"
+    },
+    {
+      "source": "內涵價值權益",
+      "target": "EV Equity"
+    },
+    {
+      "source": "內涵價值",
+      "target": "EV"
+    },
+    {
+      "source": "集團當地資本總和法覆蓋率",
+      "target": "Group LCSM cover ratio"
+    },
+    {
+      "source": "2019冠狀病毒病",
+      "target": "COVID-19"
+    }
+  ],
+  "current_unit": {
+    "page_no": 13,
+    "unit_id": "p13_g03",
+    "unit_mode": "semantic_group",
+    "block_types": [
+      "body",
+      "body",
+      "body",
+      "body",
+      "label"
+    ],
+    "blocks": [
+      {
+        "block_id": "p13_b9",
+        "source_text": "儘管為遏制2019冠狀病毒病傳播的措施導致新業務價值減少至27.65億美元，但隨著外出限制放寬，銷售動力轉"
+      },
+      {
+        "block_id": "p13_b10",
+        "source_text": "趨正面，並在2021年展開非常強勁的勢頭，首兩個月的新業務價值按年增長15%。我們規模龐大和持續增長的有"
+      },
+      {
+        "block_id": "p13_b11",
+        "source_text": "效保單組合所帶來的高質素和經常性收入來源，帶動2020年稅後營運溢利增加5%，期內產生的基本自由盈餘則"
+      },
+      {
+        "block_id": "p13_b12",
+        "source_text": "增長7%。截至2020年12月31日，內涵價值權益創新高，達672億美元，集團當地資本總和法覆蓋率為374%，足"
+      },
+      {
+        "block_id": "p13_b13",
+        "source_text": "證我們雄厚的資本實力和嚴謹的財務管理。"
+      }
+    ],
+    "joined_source_text": "儘管為遏制2019冠狀病毒病傳播的措施導致新業務價值減少至27.65億美元，但隨著外出限制放寬，銷售動力轉\n趨正面，並在2021年展開非常強勁的勢頭，首兩個月的新業務價值按年增長15%。我們規模龐大和持續增長的有\n效保單組合所帶來的高質素和經常性收入來源，帶動2020年稅後營運溢利增加5%，期內產生的基本自由盈餘則\n增長7%。截至2020年12月31日，內涵價值權益創新高，達672億美元，集團當地資本總和法覆蓋率為374%，足\n證我們雄厚的資本實力和嚴謹的財務管理。"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p13_g03",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+﻿请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。
+要求高保真、正式、可出版，不要摘要，不要解释。
+术语表和动态文档背景优先于自由翻译。
+只输出严格 JSON。
+{
+  "page_no": 11,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "relevant_terms": [
+    {
+      "source": "友邦保險",
+      "target": "AIA"
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "p11_b21",
+      "block_type": "body",
+      "source_text": "龐大機遇，在客戶及其家庭最需要的時刻提供財務保障，使其安心無憂，並同時為所有持分者創造共享價值。",
+      "line_count": 1,
+      "char_count": 48,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p11_b22",
+      "block_type": "body",
+      "source_text": "最後，全賴客戶及股東的信任，友邦保險才能自上市以來表現強勁和持續增長。本人謹代表董事會全體成員，",
+      "line_count": 1,
+      "char_count": 48,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p11_b23",
+      "block_type": "label",
+      "source_text": "衷心感謝您們一直以來的支持。",
+      "line_count": 1,
+      "char_count": 14,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p11_b24",
+      "block_type": "label",
+      "source_text": "謝仕榮",
+      "line_count": 1,
+      "char_count": 3,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p11_b25",
+      "block_type": "label",
+      "source_text": "獨立非執行主席",
+      "line_count": 1,
+      "char_count": 7,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p11_b27",
+      "block_type": "footer",
+      "source_text": "增長率乃按固定匯率列示，管理層相信這可更清晰地說明相關業務的按年表現。",
+      "line_count": 1,
+      "char_count": 35,
+      "region": "bottom",
+      "font_size_avg": 7.0
+    }
+  ]
+}

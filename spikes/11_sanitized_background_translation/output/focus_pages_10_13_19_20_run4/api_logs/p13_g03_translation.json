@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 13,
+    "unit_id": "p13_g03"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是上市公司年报翻译器。\n语言方向：Traditional Chinese -> English。\n你只处理当前翻译单元。\n如果当前单元由多个连续文本块组成，只允许在当前组内恢复被换行打断的句子；不得引入组外信息。\n优先严格采用提供的标准术语、角色名称和章节叫法。\n不得增删事实，不得保留中文残片，不得输出解释。\n输出必须是 JSON，并且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市公司企业年报。\n请优先复用 document_background 和 matched_terms 中提供的标准写法。\n{\n  \"task\": {\n    \"scenario\": \"listed_company_annual_report\",\n    \"direction\": \"Traditional Chinese -> English\"\n  },\n  \"document_background\": {\n    \"global_profile\": {\n      \"company_name_target\": \"AIA GROUP LIMITED\",\n      \"industry\": \"Life Insurance\",\n      \"report_type\": \"annual_report\",\n      \"report_year\": 2020\n    },\n    \"term_usage_mode\": \"table\",\n    \"page_sections\": [\n      {\n        \"source_section\": \"集團首席執行官兼總裁報告\",\n        \"target_section\": \"Group Chief Executive and President's Report\",\n        \"content_type\": \"ceo_report\",\n        \"page_range\": [\n          12,\n          16\n        ]\n      }\n    ],\n    \"roles\": [\n      {\n        \"source\": \"李源祥\",\n        \"target\": \"Lee Yuen Cheung\",\n        \"role\": \"Group Chief Executive and President\"\n      }\n    ],\n    \"terms\": [\n      {\n        \"source\": \"新業務價值\",\n        \"target\": \"VONB\"\n      },\n      {\n        \"source\": \"稅後營運溢利\",\n        \"target\": \"OPAT\"\n      },\n      {\n        \"source\": \"產生的基本自由盈餘\",\n        \"target\": \"UFSG\"\n      },\n      {\n        \"source\": \"自由盈餘\",\n        \"target\": \"Free Surplus\"\n      },\n      {\n        \"source\": \"內涵價值權益\",\n        \"target\": \"EV Equity\"\n      },\n      {\n        \"source\": \"內涵價值\",\n        \"target\": \"EV\"\n      },\n      {\n        \"source\": \"集團當地資本總和法覆蓋率\",\n        \"target\": \"Group LCSM cover ratio\"\n      },\n      {\n        \"source\": \"2019冠狀病毒病\",\n        \"target\": \"COVID-19\"\n      }\n    ],\n    \"style_rules\": [\n      \"Use US$ for U.S. dollar amounts.\",\n      \"Keep listed-company annual report disclosure tone formal and publishable.\",\n      \"Do not change numbers, percentages, years, named entities or financial metric values.\",\n      \"Use established financial abbreviations for table labels when provided.\",\n      \"Keep row and column semantics unchanged.\",\n      \"Use n/m for 無意義.\"\n    ]\n  },\n  \"matched_terms\": [\n    {\n      \"source\": \"新業務價值\",\n      \"target\": \"VONB\"\n    },\n    {\n      \"source\": \"稅後營運溢利\",\n      \"target\": \"OPAT\"\n    },\n    {\n      \"source\": \"產生的基本自由盈餘\",\n      \"target\": \"UFSG\"\n    },\n    {\n      \"source\": \"自由盈餘\",\n      \"target\": \"Free Surplus\"\n    },\n    {\n      \"source\": \"內涵價值權益\",\n      \"target\": \"EV Equity\"\n    },\n    {\n      \"source\": \"內涵價值\",\n      \"target\": \"EV\"\n    },\n    {\n      \"source\": \"集團當地資本總和法覆蓋率\",\n      \"target\": \"Group LCSM cover ratio\"\n    },\n    {\n      \"source\": \"2019冠狀病毒病\",\n      \"target\": \"COVID-19\"\n    }\n  ],\n  \"current_unit\": {\n    \"page_no\": 13,\n    \"unit_id\": \"p13_g03\",\n    \"unit_mode\": \"semantic_group\",\n    \"block_types\": [\n      \"body\",\n      \"body\",\n      \"body\",\n      \"body\",\n      \"label\"\n    ],\n    \"blocks\": [\n      {\n        \"block_id\": \"p13_b9\",\n        \"source_text\": \"儘管為遏制2019冠狀病毒病傳播的措施導致新業務價值減少至27.65億美元，但隨著外出限制放寬，銷售動力轉\"\n      },\n      {\n        \"block_id\": \"p13_b10\",\n        \"source_text\": \"趨正面，並在2021年展開非常強勁的勢頭，首兩個月的新業務價值按年增長15%。我們規模龐大和持續增長的有\"\n      },\n      {\n        \"block_id\": \"p13_b11\",\n        \"source_text\": \"效保單組合所帶來的高質素和經常性收入來源，帶動2020年稅後營運溢利增加5%，期內產生的基本自由盈餘則\"\n      },\n      {\n        \"block_id\": \"p13_b12\",\n        \"source_text\": \"增長7%。截至2020年12月31日，內涵價值權益創新高，達672億美元，集團當地資本總和法覆蓋率為374%，足\"\n      },\n      {\n        \"block_id\": \"p13_b13\",\n        \"source_text\": \"證我們雄厚的資本實力和嚴謹的財務管理。\"\n      }\n    ],\n    \"joined_source_text\": \"儘管為遏制2019冠狀病毒病傳播的措施導致新業務價值減少至27.65億美元，但隨著外出限制放寬，銷售動力轉\\n趨正面，並在2021年展開非常強勁的勢頭，首兩個月的新業務價值按年增長15%。我們規模龐大和持續增長的有\\n效保單組合所帶來的高質素和經常性收入來源，帶動2020年稅後營運溢利增加5%，期內產生的基本自由盈餘則\\n增長7%。截至2020年12月31日，內涵價值權益創新高，達672億美元，集團當地資本總和法覆蓋率為374%，足\\n證我們雄厚的資本實力和嚴謹的財務管理。\"\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p13_g03\",\n        \"translation\": \"<译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p13_g03\",\n      \"translation\": \"Despite measures to contain the spread of COVID-19 resulting in VONB declining to US$2.765 billion, sales momentum turned positive as movement restrictions eased, and we entered 2021 with very strong momentum, with VONB in the first two months growing 15% year-on-year. Our large and growing portfolio of in-force policies provided high-quality and recurring income streams, driving a 5% increase in OPAT in 2020, while UFSG generated during the period grew 7%. As at 31 December 2020, EV Equity reached a new high of US$67.2 billion, and the Group LCSM cover ratio stood at 374%, demonstrating our strong capital position and prudent financial management.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "e60581c6-348d-4938-ad91-336122f989a7",
+    "conversation_id": "e60581c6-348d-4938-ad91-336122f989a7",
+    "id": "e60581c6-348d-4938-ad91-336122f989a7",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1852,
+      "output_tokens": 181
+    }
+  }
+}

@@ -1,0 +1,45 @@
+```json
+{
+  "unit_id": "p19_g05",
+  "page_no": 19,
+  "section_id": "集團首席財務總監回顧",
+  "content_type": "financial_narrative",
+  "speaker_role": "cfo",
+  "topic_tags": [
+    "capital_metrics",
+    "business_growth",
+    "financial_performance",
+    "investment_returns"
+  ],
+  "term_hits": [
+    {
+      "source_term": "自由盈餘",
+      "target_term": "Free Surplus",
+      "context": "capital_metric",
+      "confidence": "high"
+    },
+    {
+      "source_term": "有效保單",
+      "target_term": "In-Force Business",
+      "context": "business_metric",
+      "confidence": "high"
+    }
+  ],
+  "needs_context": true,
+  "context_scope": "section",
+  "risk_level": "high",
+  "risk_flags": [
+    "financial_metric_translation",
+    "percentage_precision",
+    "currency_conversion_notation"
+  ],
+  "translation_constraints": [
+    "Preserve exact numerical precision: 58.43億美元 → USD 5.843 billion",
+    "Maintain percentage format: 增長了7% → grew 7% (not 'increased by seven percent')",
+    "Ensure 'Free Surplus' consistency with IFRS/company glossary",
+    "Preserve temporal reference: 2020年12月31日 → 31 December 2020",
+    "Maintain formal CFO register and analytical tone",
+    "Verify 'in-force business portfolio' terminology alignment with company's English materials"
+  ]
+}
+```

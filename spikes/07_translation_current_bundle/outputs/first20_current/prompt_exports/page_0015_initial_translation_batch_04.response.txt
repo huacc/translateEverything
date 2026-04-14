@@ -1,0 +1,26 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p15_b21",
+      "translation": "A lifetime partner to our customers and communities, we are committed to driving society towards a better and more sustainable future."
+    },
+    {
+      "block_id": "p15_b22",
+      "translation": "AIA participates in the Task Force on Climate-related Financial Disclosures, a global initiative dedicated to developing a voluntary and consistent disclosure framework on the impacts of climate change."
+    },
+    {
+      "block_id": "p15_b23",
+      "translation": "We continue to reaffirm our commitment to its recommendations, and in 2020 engaged with over 1,400 companies in our investment portfolio and more than 30 external investment managers to influence how they manage climate-related risks and address climate issues."
+    },
+    {
+      "block_id": "p15_b24",
+      "translation": ""
+    },
+    {
+      "block_id": "p15_b25",
+      "translation": "According to Sustainalytics, a rating agency, AIA ranked second in environmental, social and governance risk management within the insurance industry for the second consecutive year,"
+    }
+  ]
+}
+```

@@ -1,0 +1,38 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p16_b3",
+      "translation": "We recognise that we still have much to accomplish in this important area. We have also recently completed a review of our Environmental, Social and Governance strategy. I am confident that our"
+    },
+    {
+      "block_id": "p16_b4",
+      "translation": "five strategic focus areas – enhancing physical and mental wellbeing, green operations, sustainable investment, talent and culture, and effective governance – will help us achieve our aspiration to be a"
+    },
+    {
+      "block_id": "p16_b5",
+      "translation": "global leader in Environmental, Social and Governance."
+    },
+    {
+      "block_id": "p16_b6",
+      "translation": "Outlook"
+    },
+    {
+      "block_id": "p16_b7",
+      "translation": "In 2020, the COVID-19 pandemic was undoubtedly the largest-scale public health emergency in our living memory. Affected businesses and households"
+    },
+    {
+      "block_id": "p16_b8",
+      "translation": "received unprecedented public financial and monetary support, which helped mitigate some of the extreme financial impacts caused by the pandemic and accelerated the pace of recovery, which was particularly evident in"
+    },
+    {
+      "block_id": "p16_b9",
+      "translation": "countries with well-developed health policies and infrastructure. However, there were significant differences between countries, and in these challenging circumstances, Asia (excluding Japan) recorded"
+    },
+    {
+      "block_id": "p16_b10",
+      "translation": "the relatively strongest gross domestic product performance globally. Currently, the global economy is just beginning to emerge from a deep recession and is entering the early stages of improvement."
+    }
+  ]
+}
+```

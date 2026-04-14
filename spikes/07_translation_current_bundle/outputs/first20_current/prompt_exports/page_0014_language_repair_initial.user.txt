@@ -1,0 +1,17 @@
+﻿以下文本块的上一轮译文不符合目标语言要求，请重新给出目标语言译文。
+只输出严格 JSON。
+{
+  "page_no": 14,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "problem_blocks": [
+    {
+      "block_id": "p14_b16",
+      "source_text": "現已展現正面動力，而下半年新業務價值較上半年錄得33%的增長。",
+      "current_translation": "",
+      "block_type": "body",
+      "line_count": 1,
+      "char_count": 31
+    }
+  ]
+}

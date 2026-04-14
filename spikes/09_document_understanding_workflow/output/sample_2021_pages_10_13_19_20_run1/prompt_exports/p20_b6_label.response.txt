@@ -1,0 +1,47 @@
+```json
+{
+  "unit_id": "p20_b6",
+  "page_no": 20,
+  "section_id": "new_business_performance",
+  "content_type": "table_header",
+  "speaker_role": null,
+  "topic_tags": [
+    "financial_metrics",
+    "new_business",
+    "profitability"
+  ],
+  "term_hits": [
+    {
+      "source_term": "新業務價值",
+      "target_term": "New Business Value",
+      "abbreviation": "NBV",
+      "confidence": "high"
+    },
+    {
+      "source_term": "利潤率",
+      "target_term": "Profit Margin",
+      "confidence": "high"
+    },
+    {
+      "source_term": "年化新保費",
+      "target_term": "Annualized New Premium",
+      "abbreviation": "ANP",
+      "confidence": "high"
+    }
+  ],
+  "needs_context": true,
+  "context_scope": "table",
+  "risk_level": "critical",
+  "risk_flags": [
+    "financial_metric_translation",
+    "percentage_precision",
+    "table_header_alignment"
+  ],
+  "translation_constraints": [
+    "preserve_financial_terminology_consistency",
+    "maintain_table_structure_and_alignment",
+    "convert_currency_units_with_precision",
+    "preserve_percentage_and_ratio_formatting"
+  ]
+}
+```

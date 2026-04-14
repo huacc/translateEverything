@@ -1,0 +1,26 @@
+﻿请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。
+要求高保真、正式、可出版，不要摘要，不要解释。
+术语表和动态文档背景优先于自由翻译。
+只输出严格 JSON。
+{
+  "page_no": 9,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "relevant_terms": [
+    {
+      "source": "內涵價值",
+      "target": "embedded value"
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "p9_b38",
+      "block_type": "body",
+      "source_text": "(6) 內涵價值是根據對未來經驗的一系列特定假設，以精算方法釐定\n壽險業務的估計經濟價值，但不包括任何未來新業務的經濟價\n值。內涵價值權益為內涵價值、商譽及其他無形資產的總和。",
+      "line_count": 3,
+      "char_count": 88,
+      "region": "middle",
+      "font_size_avg": 7.0
+    }
+  ]
+}

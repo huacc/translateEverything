@@ -1,0 +1,48 @@
+文档场景：上市公司企业年报
+{
+  "document_background": {
+    "page_sections": [
+      {
+        "source_section": "集團首席執行官兼總裁報告",
+        "target_section": "Group Chief Executive and President's Report",
+        "content_type": "ceo_report",
+        "page_range": [
+          12,
+          16
+        ]
+      }
+    ],
+    "roles": [
+      {
+        "source": "李源祥",
+        "target": "Lee Yuen Cheung",
+        "role": "Group Chief Executive and President"
+      }
+    ],
+    "terms": [],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "For overview narrative, use full financial metric name plus abbreviation when provided.",
+      "For financial review and business metrics narrative, use established abbreviations when provided.",
+      "Prefer AIA China / AIA Hong Kong / AIA Macau over loose paraphrases when matched."
+    ]
+  },
+  "current_unit": {
+    "page_no": 13,
+    "unit_id": "p13_g07",
+    "unit_mode": "semantic_group",
+    "slot_count": 3,
+    "source_text": "我們旨在使友邦保險在科技應用方面領先全球，加強互聯互通，擴大規模和提升效率。更深入瞭解數據分析有助\n我們締造獨特和個人化的客戶體驗。切合和反映個人需求和生活方式的產品及服務，改變了大眾對人壽保險的看\n法，為我們與客戶建立長遠關係奠定堅實的基礎。",
+    "current_translation": "We aim to position AIA as a global leader in technology application, strengthen interconnectivity, expand scale and enhance efficiency. Deeper insights into data analytics help us create unique and personalized customer experiences. Products and services that are tailored to and reflect individual needs and lifestyles have transformed public perception of life insurance, laying a solid foundation for building long-term relationships with our customers."
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p13_g07",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

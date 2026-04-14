@@ -1,0 +1,30 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p20_b11",
+      "translation": "Singapore\n330\n63.4%\n520\n352\n65.5%\n538\n(5)%\n(6)%"
+    },
+    {
+      "block_id": "p20_b12",
+      "translation": "Malaysia\n222\n59.9%\n369\n258\n63.1%\n406\n(13)%\n(14)%"
+    },
+    {
+      "block_id": "p20_b13",
+      "translation": "Mainland China\n968\n80.9%\n1,197\n1,167\n93.5%\n1,248\n(17)%\n(17)%"
+    },
+    {
+      "block_id": "p20_b14",
+      "translation": "Other Markets\n514\n38.4%\n1,334\n535\n41.9%\n1,271\n(4)%\n(4)%"
+    },
+    {
+      "block_id": "p20_b15",
+      "translation": "Subtotal\n3,053\n57.7%\n5,219\n4,427\n66.6%\n6,585\n(31)%\n(31)%"
+    },
+    {
+      "block_id": "p20_b16",
+      "translation": "Adjustments for consolidation\nreserves and capital requirements\n(103)\nNot meaningful\nNot meaningful\n(87)\nNot meaningful\nNot meaningful\nNot meaningful\nNot meaningful"
+    }
+  ]
+}
+```

@@ -1,0 +1,109 @@
+﻿请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。
+要求高保真、正式、可出版，不要摘要，不要解释。
+术语表和动态文档背景优先于自由翻译。
+只输出严格 JSON。
+{
+  "page_no": 14,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "relevant_terms": [
+    {
+      "source": "新業務價值",
+      "target": "new business value"
+    },
+    {
+      "source": "稅後營運溢利",
+      "target": "operating profit after tax"
+    },
+    {
+      "source": "代理渠道",
+      "target": "agency channel"
+    },
+    {
+      "source": "中國台灣",
+      "target": "Taiwan"
+    },
+    {
+      "source": "新加坡",
+      "target": "Singapore"
+    },
+    {
+      "source": "馬來西亞",
+      "target": "Malaysia"
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "p14_b17",
+      "block_type": "body",
+      "source_text": "新加坡業務下半年亦有卓越的好轉，與上半年比較，新業務價值上升56%，按年則上升12%。新業務價值全年",
+      "line_count": 1,
+      "char_count": 50,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p14_b18",
+      "block_type": "body",
+      "source_text": "下降5%，由於我們的境外夥伴業務受到嚴格的邊境管制措施所影響，抵銷代理渠道的增長。稅後營運溢利上升",
+      "line_count": 1,
+      "char_count": 49,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p14_b19",
+      "block_type": "label",
+      "source_text": "8%。",
+      "line_count": 1,
+      "char_count": 3,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p14_b20",
+      "block_type": "body",
+      "source_text": "馬來西亞方面，新業務價值全年下降13%，特別反映在上半年嚴格執行的外出限制。下半年新業務價值回升，較",
+      "line_count": 1,
+      "char_count": 50,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p14_b21",
+      "block_type": "label",
+      "source_text": "上半年增長72%。",
+      "line_count": 1,
+      "char_count": 9,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p14_b22",
+      "block_type": "body",
+      "source_text": "其他市場方面，下半年的新業務價值較上半年上升10%，其中南韓和印尼的回升幅度正面。整體來說，新業務價",
+      "line_count": 1,
+      "char_count": 50,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p14_b23",
+      "block_type": "body",
+      "source_text": "值全年下降4%，主要由於新西蘭、菲律賓及印尼錄得跌幅。其餘的市場均錄得新業務價值正增長，其中越南、",
+      "line_count": 1,
+      "char_count": 49,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p14_b24",
+      "block_type": "label",
+      "source_text": "中國台灣及印度在2020年較2019年錄得雙位數字增長。",
+      "line_count": 1,
+      "char_count": 28,
+      "region": "middle",
+      "font_size_avg": 9.0
+    }
+  ]
+}

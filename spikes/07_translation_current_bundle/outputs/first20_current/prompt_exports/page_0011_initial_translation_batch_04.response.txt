@@ -1,0 +1,30 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p11_b21",
+      "translation": "vast opportunities to provide financial protection to our customers and their families at their time of greatest need, giving them peace of mind, while creating shared value for all our stakeholders."
+    },
+    {
+      "block_id": "p11_b22",
+      "translation": "Finally, it is thanks to the trust of our customers and shareholders that AIA has demonstrated strong and sustained growth since our listing. On behalf of the entire Board,"
+    },
+    {
+      "block_id": "p11_b23",
+      "translation": "I wish to express my heartfelt gratitude for your continued support."
+    },
+    {
+      "block_id": "p11_b24",
+      "translation": "Tse Sze Wing"
+    },
+    {
+      "block_id": "p11_b25",
+      "translation": "Independent Non-Executive Chairman"
+    },
+    {
+      "block_id": "p11_b27",
+      "translation": "Growth rates are presented on a constant exchange rate basis, which management believes provides a clearer illustration of year-on-year performance of the relevant business."
+    }
+  ]
+}
+```

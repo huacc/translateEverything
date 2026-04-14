@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p20_g01",
+      "translation": "Adjustments for consolidation reserves and capital requirements (103) — (87) — After-tax value of unallocated Group head office expenses (161) — (154) —"
+    }
+  ]
+}
+```

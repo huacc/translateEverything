@@ -1,0 +1,21 @@
+{
+  "content": [
+    {
+      "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p13_b1\",\n      \"translation\": \"AIA is a trusted partner for financial security and family protection. Despite COVID-19's impact,\"\n    },\n    {\n      \"block_id\": \"p13_b2\",\n      \"translation\": \"I thank our employees, agents, and partners for adapting to new ways of working and ensuring uninterrupted support.\"\n    },\n    {\n      \"block_id\": \"p13_b3\",\n      \"translation\": \"They demonstrated flexibility and dedication.\"\n    },\n    {\n      \"block_id\": \"p13_b5\",\n      \"translation\": \"Since the pandemic began, our teams responded swiftly, helping communities while ensuring employee safety. The Group\"\n    },\n    {\n      \"block_id\": \"p13_b6\",\n      \"translation\": \"implemented comprehensive measures: financial support, medical supplies, complimentary coverage, healthcare access, streamlined processes, and\"\n    },\n    {\n      \"block_id\": \"p13_b7\",\n      \"translation\": \"accelerated claims payments. We paid over USD 16 billion in benefits and claims,\"\n    },\n    {\n      \"block_id\": \"p13_b8\",\n      \"translation\": \"providing essential financial protection.\"\n    },\n    {\n      \"block_id\": \"p13_b9\",\n      \"translation\": \"COVID-19 measures reduced new business value to USD 2.765 billion, but sales turned positive as restrictions eased, with strong momentum\"\n    },\n    {\n      \"block_id\": \"p13_b10\",\n      \"translation\": \"in early 2021, showing 15% year-on-year growth in the first two months. Our large, growing policy portfolio provides\"\n    },\n    {\n      \"block_id\": \"p13_b12\",\n      \"translation\": \"As of December 31, 2020, embedded value equity reached USD 67.2 billion, with Group capital adequacy at 374%, demonstrating\"\n    },\n    {\n      \"block_id\": \"p13_b13\",\n      \"translation\": \"strong capital position and prudent financial management.\"\n    },\n    {\n      \"block_id\": \"p13_b14\",\n      \"translation\": \"The Board recommends a 7.5% dividend increase to HKD 1.0030 per share, reflecting AIA's prudent, sustainable, progressive dividend\"\n    },\n    {\n      \"block_id\": \"p13_b15\",\n      \"translation\": \"policy, enabling future growth while maintaining financial flexibility.\"\n    },\n    {\n      \"block_id\": \"p13_b16\",\n      \"translation\": \"AIA has significant competitive advantages. With decades in Asia, we hold unparalleled\"\n    },\n    {\n      \"block_id\": \"p13_b17\",\n      \"translation\": \"market positions and lead in most markets. Our 100% Asia focus helps capture global growth opportunities.\"\n    },\n    {\n      \"block_id\": \"p13_b20\",\n      \"translation\": \"Our distribution strength provides direct customer access and professional advice for Asia's growing protection and savings needs.\"\n    },\n    {\n      \"block_id\": \"p13_b21\",\n      \"translation\": \"Customers expect sustainable solutions. AIA has a market-leading brand\"\n    },\n    {\n      \"block_id\": \"p13_b24\",\n      \"translation\": \"creating unique, personalized experiences. Tailored products and services have transformed how people view life insurance,\"\n    },\n    {\n      \"block_id\": \"p13_b25\",\n      \"translation\": \"building strong long-term customer relationships.\"\n    },\n    {\n      \"block_id\": \"p13_b26\",\n      \"translation\": \"Though 2020 was unprecedented, I'm more optimistic about Asia's life insurance and AIA's future. We continue challenging ourselves,\"\n    },\n    {\n      \"block_id\": \"p13_b27\",\n      \"translation\": \"developing priorities to meet evolving customer needs. Our new strategy builds on AIA's existing strengths,\"\n    },\n    {\n      \"block_id\": \"p13_b29\",\n      \"translation\": \"2020 Report 011\"\n    }\n  ]\n}\n```",
+      "type": "text"
+    }
+  ],
+  "conversationId": "c3a4aa9d-e58e-4ac3-bd9e-9b583f1663ae",
+  "conversation_id": "c3a4aa9d-e58e-4ac3-bd9e-9b583f1663ae",
+  "id": "c3a4aa9d-e58e-4ac3-bd9e-9b583f1663ae",
+  "model": "claude-3-5-sonnet-20241022",
+  "role": "assistant",
+  "stop_reason": "end_turn",
+  "type": "message",
+  "usage": {
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 4571,
+    "output_tokens": 891
+  }
+}

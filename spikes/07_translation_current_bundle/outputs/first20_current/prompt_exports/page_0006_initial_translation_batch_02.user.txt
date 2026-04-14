@@ -1,0 +1,84 @@
+﻿请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。
+要求高保真、正式、可出版，不要摘要，不要解释。
+术语表和动态文档背景优先于自由翻译。
+只输出严格 JSON。
+{
+  "page_no": 6,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "relevant_terms": [],
+  "blocks": [
+    {
+      "block_id": "p6_b9",
+      "block_type": "label",
+      "source_text": "泛亞地區獨立上市人壽保險集團，業務",
+      "line_count": 1,
+      "char_count": 17,
+      "region": "middle",
+      "font_size_avg": 10.0
+    },
+    {
+      "block_id": "p6_b10",
+      "block_type": "label",
+      "source_text": "眾實現健康、長久、好生活。我們的目標",
+      "line_count": 1,
+      "char_count": 18,
+      "region": "middle",
+      "font_size_avg": 10.0
+    },
+    {
+      "block_id": "p6_b11",
+      "block_type": "label",
+      "source_text": "覆蓋18個市場，為超過3,800萬份個人",
+      "line_count": 1,
+      "char_count": 20,
+      "region": "middle",
+      "font_size_avg": 10.33
+    },
+    {
+      "block_id": "p6_b12",
+      "block_type": "label",
+      "source_text": "引領我們作為一家機構的決策及工作",
+      "line_count": 1,
+      "char_count": 16,
+      "region": "middle",
+      "font_size_avg": 10.0
+    },
+    {
+      "block_id": "p6_b13",
+      "block_type": "label",
+      "source_text": "保單的持有人及逾1,600萬名團體保險",
+      "line_count": 1,
+      "char_count": 19,
+      "region": "middle",
+      "font_size_avg": 10.25
+    },
+    {
+      "block_id": "p6_b14",
+      "block_type": "label",
+      "source_text": "宗旨，即讓大眾明白和管理其健康、並",
+      "line_count": 1,
+      "char_count": 17,
+      "region": "middle",
+      "font_size_avg": 10.0
+    },
+    {
+      "block_id": "p6_b15",
+      "block_type": "label",
+      "source_text": "計劃的參與成員提供服務。",
+      "line_count": 1,
+      "char_count": 12,
+      "region": "middle",
+      "font_size_avg": 10.0
+    },
+    {
+      "block_id": "p6_b16",
+      "block_type": "label",
+      "source_text": "滿足他們的長期儲蓄和保障需要。我們",
+      "line_count": 1,
+      "char_count": 17,
+      "region": "middle",
+      "font_size_avg": 10.0
+    }
+  ]
+}

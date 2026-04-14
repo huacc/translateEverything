@@ -1,0 +1,21 @@
+{
+  "content": [
+    {
+      "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p294_b1\",\n      \"translation\": \"5. Assumptions (continued)\"\n    },\n    {\n      \"block_id\": \"p294_b2\",\n      \"translation\": \"5.6 Mortality\"\n    },\n    {\n      \"block_id\": \"p294_b3\",\n      \"translation\": \"Each business unit has established assumptions based on recent historical experience and anticipated future experience. Where historical experience is unreliable, pricing assumptions have been referenced and supplemented with market\"\n    },\n    {\n      \"block_id\": \"p294_b4\",\n      \"translation\": \"data (where available).\"\n    },\n    {\n      \"block_id\": \"p294_b5\",\n      \"translation\": \"Mortality assumptions are expressed as percentages of standard industry experience tables, or (where experience is sufficiently reliable) as percentages of tables established within the Group.\"\n    },\n    {\n      \"block_id\": \"p294_b6\",\n      \"translation\": \"For annuity products involving longevity risk, expected future mortality improvements have been incorporated; other products do not include expected mortality improvements.\"\n    },\n    {\n      \"block_id\": \"p294_b7\",\n      \"translation\": \"5.7 Morbidity\"\n    },\n    {\n      \"block_id\": \"p294_b8\",\n      \"translation\": \"Each business unit has established assumptions based on recent historical experience and anticipated future experience. Morbidity assumptions are expressed as percentages of standard industry experience tables or expected claim\"\n    },\n    {\n      \"block_id\": \"p294_b9\",\n      \"translation\": \"ratios.\"\n    },\n    {\n      \"block_id\": \"p294_b10\",\n      \"translation\": \"5.8 Reinsurance\"\n    },\n    {\n      \"block_id\": \"p294_b11\",\n      \"translation\": \"Each business unit has set reinsurance assumptions based on effective reinsurance arrangements at the valuation date and recent historical and anticipated future experience.\"\n    },\n    {\n      \"block_id\": \"p294_b12\",\n      \"translation\": \"5.9 Policyholder dividends, profit sharing and settlement interest\"\n    },\n    {\n      \"block_id\": \"p294_b13\",\n      \"translation\": \"The expected policyholder dividend, profit sharing and settlement interest assumptions set by each business unit have been used to calculate the embedded value results reported in this report, and reflect contractual\"\n    },\n    {\n      \"block_id\": \"p294_b14\",\n      \"translation\": \"and regulatory requirements, reasonable policyholder expectations (where clearly defined) and each business unit's expectations regarding future policies, strategies and operations (consistent with the investment return assumptions\"\n    },\n    {\n      \"block_id\": \"p294_b15\",\n      \"translation\": \"used in the embedded value results).\"\n    },\n    {\n      \"block_id\": \"p294_b16\",\n      \"translation\": \"Under current assumptions, any surplus in participating funds will be distributed through future final bonuses or between policyholders and shareholders at the end of the projection period, resulting in no residual assets\"\n    },\n    {\n      \"block_id\": \"p294_b17\",\n      \"translation\": \"remaining.\"\n    },\n    {\n      \"block_id\": \"p294_b18\",\n      \"translation\": \"292\"\n    },\n    {\n      \"block_id\": \"p294_b19\",\n      \"translation\": \"AIA Group Limited\"\n    }\n  ]\n}\n```",
+      "type": "text"
+    }
+  ],
+  "conversationId": "c18ea578-70ee-434d-8902-cd4b090b5097",
+  "conversation_id": "c18ea578-70ee-434d-8902-cd4b090b5097",
+  "id": "c18ea578-70ee-434d-8902-cd4b090b5097",
+  "model": "claude-3-5-sonnet-20241022",
+  "role": "assistant",
+  "stop_reason": "end_turn",
+  "type": "message",
+  "usage": {
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1952,
+    "output_tokens": 745
+  }
+}

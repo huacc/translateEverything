@@ -1,0 +1,21 @@
+{
+  "content": [
+    {
+      "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p18_b1\",\n      \"translation\": \"Financial & Operational Review\"\n    },\n    {\n      \"block_id\": \"p18_b2\",\n      \"translation\": \"Group CFO's Review\"\n    },\n    {\n      \"block_id\": \"p18_b3\",\n      \"translation\": \"Despite unprecedented 2020 conditions, AIA achieved\"\n    },\n    {\n      \"block_id\": \"p18_b4\",\n      \"translation\": \"strong results. New business value impacted by mobility restrictions\"\n    },\n    {\n      \"block_id\": \"p18_b5\",\n      \"translation\": \"from pandemic, we grew after-tax operating profit and core\"\n    },\n    {\n      \"block_id\": \"p18_b6\",\n      \"translation\": \"free surplus. Financial position remains robust,\"\n    },\n    {\n      \"block_id\": \"p18_b7\",\n      \"translation\": \"enabling continued investment in growth.\"\n    },\n    {\n      \"block_id\": \"p18_b8\",\n      \"translation\": \"Growth rates on constant exchange rate basis.\"\n    },\n    {\n      \"block_id\": \"p18_b9\",\n      \"translation\": \"Overview & Key Financials\"\n    },\n    {\n      \"block_id\": \"p18_b10\",\n      \"translation\": \"2020 delivered strong results amid pandemic conditions. Mobility restrictions reduced new business value, but sales recovered as restrictions eased.\"\n    },\n    {\n      \"block_id\": \"p18_b11\",\n      \"translation\": \"Momentum continued into 2021, with new business value up 15% in first two months vs 2020. Prudent management and focus on quality business\"\n    },\n    {\n      \"block_id\": \"p18_b12\",\n      \"translation\": \"drove continued growth in after-tax operating profit, core free surplus, robust capital, and higher dividends per share.\"\n    },\n    {\n      \"block_id\": \"p18_b13\",\n      \"translation\": \"\"\n    },\n    {\n      \"block_id\": \"p18_b14\",\n      \"translation\": \"\"\n    },\n    {\n      \"block_id\": \"p18_b15\",\n      \"translation\": \"Mr. Garth Jones\\nGroup CFO\"\n    },\n    {\n      \"block_id\": \"p18_b16\",\n      \"translation\": \"016\\nAIA Group Limited\"\n    }\n  ]\n}\n```",
+      "type": "text"
+    }
+  ],
+  "conversationId": "12b7bbfc-116b-48eb-868b-e76f37903f29",
+  "conversation_id": "12b7bbfc-116b-48eb-868b-e76f37903f29",
+  "id": "12b7bbfc-116b-48eb-868b-e76f37903f29",
+  "model": "claude-3-5-sonnet-20241022",
+  "role": "assistant",
+  "stop_reason": "end_turn",
+  "type": "message",
+  "usage": {
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2917,
+    "output_tokens": 535
+  }
+}

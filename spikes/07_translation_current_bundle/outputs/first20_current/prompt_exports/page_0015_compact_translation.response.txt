@@ -1,0 +1,90 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p15_b2",
+      "translation": "AIA has 23,000 employees, a key competitive advantage and critical to our continued success. We foster a culture of inclusion and collaboration,"
+    },
+    {
+      "block_id": "p15_b4",
+      "translation": "providing our people with a platform to build meaningful careers at AIA. In response to social distancing measures and travel restrictions, we transitioned learning content to the online \"AIA Learning Hub\". Our world-class AIA Leadership Centre (ALC) in Bangkok was redesigned to deliver our"
+    },
+    {
+      "block_id": "p15_b5",
+      "translation": "flagship leadership development programme with over 100 fully virtualized learning modules. Participants provided highly positive feedback, comparable to previous face-to-face sessions."
+    },
+    {
+      "block_id": "p15_b6",
+      "translation": "The Group's flagship leadership development program features over 100 fully virtualized learning modules. Participants provided highly positive feedback on these virtual courses."
+    },
+    {
+      "block_id": "p15_b7",
+      "translation": "Feedback was comparable to that from previous face-to-face learning participants."
+    },
+    {
+      "block_id": "p15_b9",
+      "translation": "97% of employees participated in the survey, and the Group achieved a record high employee engagement score, ranking at the 88th percentile against the Gallup Global Financial Services and Insurance Industry benchmark."
+    },
+    {
+      "block_id": "p15_b11",
+      "translation": "In October 2020, AIA celebrated its 10th anniversary of listing on the Hong Kong Stock Exchange and established the 'AIA Scholarship', committing USD 100 million to support 100 undergraduate students annually from Hong Kong universities over the coming decades to develop the next generation of business leaders."
+    },
+    {
+      "block_id": "p15_b12",
+      "translation": "The program will sponsor 100 undergraduate students annually from Hong Kong universities to cultivate the next generation of business leaders."
+    },
+    {
+      "block_id": "p15_b13",
+      "translation": "A core component of the 'Organisation of the Future' strategy includes strengthening and simplifying the organisational structure and introducing flexible working arrangements."
+    },
+    {
+      "block_id": "p15_b14",
+      "translation": "and enhancing our capability framework. These strategic priorities will support employee career development and strengthen AIA's position as a preferred employer."
+    },
+    {
+      "block_id": "p15_b15",
+      "translation": "From the second half of 2020, we embarked on shaping a transformational organization through AIA's operations in Singapore and Vietnam as two pilot business units."
+    },
+    {
+      "block_id": "p15_b16",
+      "translation": "Early results delivered a more streamlined and customer-centric operating model. We implemented flexible working arrangements and established multiple cross-functional expert teams."
+    },
+    {
+      "block_id": "p15_b18",
+      "translation": "Environmental, Social and Governance"
+    },
+    {
+      "block_id": "p15_b19",
+      "translation": "Over more than a century, AIA has made a positive and lasting impact on the lives of our customers across Asia. Our communities face numerous environmental, social and governance"
+    },
+    {
+      "block_id": "p15_b21",
+      "translation": "A lifetime partner to our customers and communities, we are committed to driving society towards a better and more sustainable future."
+    },
+    {
+      "block_id": "p15_b22",
+      "translation": "AIA participates in the Task Force on Climate-related Financial Disclosures, a global initiative developing a voluntary and consistent disclosure framework on climate change impacts."
+    },
+    {
+      "block_id": "p15_b23",
+      "translation": "We continue to reaffirm our commitment to its recommendations. In 2020, we engaged with over 1,400 companies in our investment portfolio and more than 30 external investment managers to influence how they manage climate-related risks."
+    },
+    {
+      "block_id": "p15_b24",
+      "translation": "The portfolio comprises over 1,400 companies and engages more than 30 external investment managers to influence how they manage climate change risks and address climate issues."
+    },
+    {
+      "block_id": "p15_b25",
+      "translation": "According to Sustainalytics, AIA ranked second in environmental, social and governance risk management within the insurance industry for the second consecutive year,"
+    },
+    {
+      "block_id": "p15_b26",
+      "translation": "In 2020, MSCI upgraded AIA's Environmental, Social and Governance rating to A, primarily due to our integration of environmental, social and governance factors into our invest"
+    },
+    {
+      "block_id": "p15_b27",
+      "translation": "ment function."
+    }
+  ]
+}
+```

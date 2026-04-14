@@ -1,0 +1,46 @@
+```json
+{
+  "unit_id": "p10_g04",
+  "page_no": 10,
+  "section_id": "chairman_statement",
+  "content_type": "narrative_body",
+  "speaker_role": "chairman",
+  "topic_tags": [
+    "pandemic_impact",
+    "financial_performance",
+    "business_resilience",
+    "digital_transformation"
+  ],
+  "term_hits": [
+    {
+      "source_term": "2019冠狀病毒病",
+      "target_term": "COVID-19",
+      "context": "external_event",
+      "confidence": "high"
+    },
+    {
+      "source_term": "新業務價值",
+      "target_term": "New Business Value",
+      "context": "financial_metric",
+      "abbreviation": "NBV",
+      "confidence": "high"
+    }
+  ],
+  "needs_context": true,
+  "context_scope": "section",
+  "risk_level": "high",
+  "risk_flags": [
+    "financial_metric_translation",
+    "COVID-19_context_sensitivity",
+    "currency_conversion_notation",
+    "percentage_precision"
+  ],
+  "translation_constraints": [
+    "preserve_exact_currency_value_27.65_billion_USD",
+    "maintain_formal_corporate_register",
+    "ensure_COVID-19_terminology_consistency",
+    "preserve_temporal_sequence_and_causality",
+    "verify_financial_metric_against_IFRS_standards"
+  ]
+}
+```

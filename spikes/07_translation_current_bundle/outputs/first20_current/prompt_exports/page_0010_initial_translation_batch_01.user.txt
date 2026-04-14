@@ -1,0 +1,89 @@
+﻿请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。
+要求高保真、正式、可出版，不要摘要，不要解释。
+术语表和动态文档背景优先于自由翻译。
+只输出严格 JSON。
+{
+  "page_no": 10,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "relevant_terms": [
+    {
+      "source": "友邦保險",
+      "target": "AIA"
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "p10_b3",
+      "block_type": "heading",
+      "source_text": "主席報告",
+      "line_count": 1,
+      "char_count": 4,
+      "region": "top",
+      "font_size_avg": 24.0
+    },
+    {
+      "block_id": "p10_b4",
+      "block_type": "label",
+      "source_text": "在過去一個世紀，友邦保險",
+      "line_count": 1,
+      "char_count": 12,
+      "region": "middle",
+      "font_size_avg": 15.0
+    },
+    {
+      "block_id": "p10_b5",
+      "block_type": "label",
+      "source_text": "於亞洲區內，為極需我們服務的",
+      "line_count": 1,
+      "char_count": 14,
+      "region": "middle",
+      "font_size_avg": 15.0
+    },
+    {
+      "block_id": "p10_b6",
+      "block_type": "label",
+      "source_text": "社區大眾提供保障而備受稱譽，",
+      "line_count": 1,
+      "char_count": 14,
+      "region": "middle",
+      "font_size_avg": 15.0
+    },
+    {
+      "block_id": "p10_b7",
+      "block_type": "label",
+      "source_text": "這令我們引以為榮。",
+      "line_count": 1,
+      "char_count": 9,
+      "region": "middle",
+      "font_size_avg": 15.0
+    },
+    {
+      "block_id": "p10_b8",
+      "block_type": "label",
+      "source_text": "謝仕榮先生\n獨立非執行主席",
+      "line_count": 2,
+      "char_count": 13,
+      "region": "middle",
+      "font_size_avg": 7.5
+    },
+    {
+      "block_id": "p10_b9",
+      "block_type": "label",
+      "source_text": "在2019冠狀病毒病大流行期間，",
+      "line_count": 1,
+      "char_count": 16,
+      "region": "middle",
+      "font_size_avg": 15.0
+    },
+    {
+      "block_id": "p10_b10",
+      "block_type": "label",
+      "source_text": "我們的同事關懷社群，克盡己職，",
+      "line_count": 1,
+      "char_count": 15,
+      "region": "middle",
+      "font_size_avg": 15.0
+    }
+  ]
+}

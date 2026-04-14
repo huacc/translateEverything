@@ -1,0 +1,22 @@
+```json
+{
+  "unit_id": "p10_b2",
+  "page_no": 10,
+  "section_id": "overview",
+  "content_type": "section_heading",
+  "speaker_role": null,
+  "topic_tags": [
+    "executive_summary",
+    "navigation"
+  ],
+  "term_hits": [],
+  "needs_context": false,
+  "context_scope": null,
+  "risk_level": "low",
+  "risk_flags": [],
+  "translation_constraints": [
+    "Use Title Case for section heading",
+    "Preserve hierarchical structure as main section divider"
+  ]
+}
+```

@@ -1,0 +1,89 @@
+﻿请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。
+要求高保真、正式、可出版，不要摘要，不要解释。
+术语表和动态文档背景优先于自由翻译。
+只输出严格 JSON。
+{
+  "page_no": 2,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "relevant_terms": [
+    {
+      "source": "友邦保險",
+      "target": "AIA"
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "p2_b11",
+      "block_type": "label",
+      "source_text": "016 集團首席財務總監回顧",
+      "line_count": 1,
+      "char_count": 14,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p2_b12",
+      "block_type": "label",
+      "source_text": "040 業務回顧",
+      "line_count": 1,
+      "char_count": 8,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p2_b13",
+      "block_type": "label",
+      "source_text": "056 風險管理",
+      "line_count": 1,
+      "char_count": 8,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p2_b14",
+      "block_type": "label",
+      "source_text": "062 監管及國際發展",
+      "line_count": 1,
+      "char_count": 11,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p2_b15",
+      "block_type": "label",
+      "source_text": "友邦保險簡介",
+      "line_count": 1,
+      "char_count": 6,
+      "region": "middle",
+      "font_size_avg": 24.0
+    },
+    {
+      "block_id": "p2_b16",
+      "block_type": "label",
+      "source_text": "064 我們的團隊",
+      "line_count": 1,
+      "char_count": 9,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p2_b18",
+      "block_type": "label",
+      "source_text": "069 董事責任聲明",
+      "line_count": 1,
+      "char_count": 10,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p2_b19",
+      "block_type": "label",
+      "source_text": "友邦保險控股有限公司及其附屬公司",
+      "line_count": 1,
+      "char_count": 16,
+      "region": "middle",
+      "font_size_avg": 8.0
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p17_b2",
+      "translation": "016 Group Chief Financial Officer's Review"
+    },
+    {
+      "block_id": "p17_b3",
+      "translation": "040 Business Review"
+    },
+    {
+      "block_id": "p17_b4",
+      "translation": "056 Risk Management"
+    },
+    {
+      "block_id": "p17_b5",
+      "translation": "062 Regulatory and International Development"
+    },
+    {
+      "block_id": "p17_b6",
+      "translation": "064 Our Team"
+    }
+  ]
+}
+```

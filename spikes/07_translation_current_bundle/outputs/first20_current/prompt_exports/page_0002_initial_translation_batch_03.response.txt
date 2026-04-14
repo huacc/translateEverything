@@ -1,0 +1,38 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p2_b20",
+      "translation": "AIA provides a range of products and services,"
+    },
+    {
+      "block_id": "p2_b21",
+      "translation": "(collectively referred to as \"AIA\" or \"the Group\") is the largest"
+    },
+    {
+      "block_id": "p2_b22",
+      "translation": "070 Board of Directors"
+    },
+    {
+      "block_id": "p2_b23",
+      "translation": "covering life insurance, accident and health insurance and savings plans,"
+    },
+    {
+      "block_id": "p2_b24",
+      "translation": "independent listed life insurance group in the Pan-Asia region,"
+    },
+    {
+      "block_id": "p2_b25",
+      "translation": "078 Executive Committee"
+    },
+    {
+      "block_id": "p2_b26",
+      "translation": "to meet individual customers' needs for long-term savings and protection"
+    },
+    {
+      "block_id": "p2_b27",
+      "translation": "across 18 markets, including Mainland China, Hong Kong"
+    }
+  ]
+}
+```

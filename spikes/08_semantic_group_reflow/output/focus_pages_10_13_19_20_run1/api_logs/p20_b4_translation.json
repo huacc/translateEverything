@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 20,
+    "unit_id": "p20_b4"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是上市公司年报翻译器。\n语言方向：Traditional Chinese -> English。\n只翻译当前输入，不补充、不解释、不总结。\n如果当前输入由多个连续块组成，只允许在当前组内做跨块理解；不得引入组外内容。\n数字、百分比、货币、年份、专有名词、公司名、人名、地名必须准确。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市公司企业年报\npage_no: 20\nunit_id: p20_b4\nunit_mode: single_block\n命中术语约束:\n[\n  {\n    \"source\": \"新業務價值\",\n    \"target\": \"new business value\"\n  }\n]\nblocks:\n[\n  {\n    \"block_id\": \"p20_b4\",\n    \"source_text\": \"按分部劃分的新業務價值、年化新保費及利潤率\"\n  }\n]\njoined_source_text:\n按分部劃分的新業務價值、年化新保費及利潤率\n返回格式:\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p20_b4\",\n      \"translation\": \"<译文>\"\n    }\n  ]\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p20_b4\",\n      \"translation\": \"New business value, annualized new premiums and profit margins by segment\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "16ed74a5-0a4e-4322-980d-76d0cf56feeb",
+    "conversation_id": "16ed74a5-0a4e-4322-980d-76d0cf56feeb",
+    "id": "16ed74a5-0a4e-4322-980d-76d0cf56feeb",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 360,
+      "output_tokens": 52
+    }
+  }
+}

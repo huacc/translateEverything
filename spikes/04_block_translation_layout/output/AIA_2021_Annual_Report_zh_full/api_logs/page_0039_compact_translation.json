@@ -1,0 +1,21 @@
+{
+  "content": [
+    {
+      "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p39_b1\",\n      \"translation\": \"Group Local Capital Aggregation Solvency\"\n    },\n    {\n      \"block_id\": \"p39_b2\",\n      \"translation\": \"Per 2020 interim report, AIA's group-level available capital and minimum capital requirement are calculated as the sum of each regulated entity's available and required capital.\"\n    },\n    {\n      \"block_id\": \"p39_b3\",\n      \"translation\": \"Group local capital aggregation surplus equals available capital minus minimum capital requirement. Coverage ratio equals available capital divided by minimum capital requirement.\"\n    },\n    {\n      \"block_id\": \"p39_b6\",\n      \"translation\": \"As at 31 Dec 2020, group local capital aggregation surplus was USD 43.817bn; coverage ratio was\"\n    },\n    {\n      \"block_id\": \"p39_b7\",\n      \"translation\": \"374%. Includes USD 17.35bn subordinated securities issued Sept 2020 under Global Medium-Term Note Programme, expected to qualify as Tier 2 debt.\"\n    },\n    {\n      \"block_id\": \"p39_b8\",\n      \"translation\": \"Expected to qualify as Tier 2 debt capital.\"\n    },\n    {\n      \"block_id\": \"p39_b9\",\n      \"translation\": \"Table below reflects our current understanding of applicable group regulatory framework:\"\n    },\n    {\n      \"block_id\": \"p39_b10\",\n      \"translation\": \"USD millions, unless stated otherwise\\nAs at 31 Dec 2020 | As at 31 Dec 2019\"\n    },\n    {\n      \"block_id\": \"p39_b11\",\n      \"translation\": \"Group Available Capital | 59,830 | 51,751\"\n    },\n    {\n      \"block_id\": \"p39_b12\",\n      \"translation\": \"Group Minimum Capital Requirement | 16,013 | 14,139\"\n    },\n    {\n      \"block_id\": \"p39_b13\",\n      \"translation\": \"Group Local Capital Aggregation Surplus | 43,817 | 37,612\"\n    },\n    {\n      \"block_id\": \"p39_b14\",\n      \"translation\": \"Group Local Capital Aggregation Coverage Ratio | 374% | 366%\"\n    },\n    {\n      \"block_id\": \"p39_b15\",\n      \"translation\": \"Group Local Capital Aggregation Surplus Sensitivity\"\n    },\n    {\n      \"block_id\": \"p39_b16\",\n      \"translation\": \"Sensitivity to central assumption changes (equity price and interest rate movements) below. Interest rate sensitivity: 50bp adjustment to government bond yields and corresponding liability discount rate impact.\"\n    },\n    {\n      \"block_id\": \"p39_b17\",\n      \"translation\": \"50bp adjustment to government bond yields and liability discount rates.\"\n    },\n    {\n      \"block_id\": \"p39_b18\",\n      \"translation\": \"As at 31 Dec 2020\\nGroup Local Capital\\nAggregation Coverage Ratio\"\n    },\n    {\n      \"block_id\": \"p39_b19\",\n      \"translation\": \"USD millions, unless stated otherwise\"\n    },\n    {\n      \"block_id\": \"p39_b20\",\n      \"translation\": \"Central Value | 374%\"\n    },\n    {\n      \"block_id\": \"p39_b21\",\n      \"translation\": \"Equity Price Impact\"\n    },\n    {\n      \"block_id\": \"p39_b22\",\n      \"translation\": \"Equity +10% | +1pp\"\n    },\n    {\n      \"block_id\": \"p39_b23\",\n      \"translation\": \"Equity -10% | (2)pp\"\n    },\n    {\n      \"block_id\": \"p39_b24\",\n      \"translation\": \"Interest Rate Impact\"\n    },\n    {\n      \"block_id\": \"p39_b25\",\n      \"translation\": \"Rates +50bp | +13pp\"\n    },\n    {\n      \"block_id\": \"p39_b26\",\n      \"translation\": \"Rates -50bp | (18)pp\"\n    },\n    {\n      \"block_id\": \"p39_b27\",\n      \"translation\": \"2020 Report 037\"\n    }\n  ]\n}\n```",
+      "type": "text"
+    }
+  ],
+  "conversationId": "40651c83-63bc-40f8-84eb-800b4dff63b2",
+  "conversation_id": "40651c83-63bc-40f8-84eb-800b4dff63b2",
+  "id": "40651c83-63bc-40f8-84eb-800b4dff63b2",
+  "model": "claude-3-5-sonnet-20241022",
+  "role": "assistant",
+  "stop_reason": "end_turn",
+  "type": "message",
+  "usage": {
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 4417,
+    "output_tokens": 923
+  }
+}

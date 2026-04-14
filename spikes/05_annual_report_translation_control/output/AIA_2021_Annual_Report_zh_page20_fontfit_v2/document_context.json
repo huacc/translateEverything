@@ -1,0 +1,83 @@
+{
+  "sampled_page_count": 30,
+  "heading_candidates": [
+    "我們的目標",
+    "目錄",
+    "友邦保險一覽",
+    "2020 年里程碑",
+    "概覽",
+    "2020年業績一覽(1)",
+    "2020年按市場分部劃分",
+    "主席報告",
+    "集團首席執行官兼總裁報告",
+    "財務及營運回顧",
+    "集團首席財務總監回顧"
+  ],
+  "sidebar_candidates": [
+    "概覽",
+    "財務及營運回顧",
+    "企業管治",
+    "其他資料",
+    "財務報表"
+  ],
+  "term_hits": [
+    {
+      "source": "友邦保險",
+      "target": "AIA"
+    },
+    {
+      "source": "新業務價值",
+      "target": "new business value"
+    },
+    {
+      "source": "稅後營運溢利",
+      "target": "operating profit after tax"
+    },
+    {
+      "source": "內涵價值",
+      "target": "embedded value"
+    },
+    {
+      "source": "有效保單組合",
+      "target": "in-force portfolio"
+    },
+    {
+      "source": "代理渠道",
+      "target": "agency channel"
+    },
+    {
+      "source": "夥伴分銷",
+      "target": "partnership distribution"
+    },
+    {
+      "source": "銀行保險",
+      "target": "bancassurance"
+    },
+    {
+      "source": "中國內地",
+      "target": "Mainland China"
+    },
+    {
+      "source": "中國台灣",
+      "target": "Taiwan"
+    },
+    {
+      "source": "新加坡",
+      "target": "Singapore"
+    },
+    {
+      "source": "泰國",
+      "target": "Thailand"
+    },
+    {
+      "source": "馬來西亞",
+      "target": "Malaysia"
+    }
+  ],
+  "style_hints": [
+    "这是上市公司年度报告语境，译文要保持年报/财报正式书面表达，不使用口语化或营销化措辞。",
+    "文档包含财务表格、比率和金额，数字、百分比、币种、年份及缩写必须严格保留。",
+    "文档包含目录或侧边导航，导航项宜使用固定、稳定、可复用的正式译法。",
+    "文档存在大量章节标题，标题应优先贴近正式已发布年报的写法，并尽量避免不必要换行。"
+  ]
+}

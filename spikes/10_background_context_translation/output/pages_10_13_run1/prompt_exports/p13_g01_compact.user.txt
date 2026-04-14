@@ -1,0 +1,64 @@
+文档场景：上市公司企业年报
+{
+  "document_background": {
+    "page_sections": [
+      {
+        "target_section": "Group Chief Executive and President's Report",
+        "content_type": "ceo_report",
+        "page_range": [
+          12,
+          16
+        ]
+      },
+      {
+        "target_section": "Overview",
+        "content_type": "executive_summary",
+        "page_range": [
+          8,
+          16
+        ]
+      }
+    ],
+    "roles": [
+      {
+        "source": "李源祥",
+        "target": "Lee Yuen Cheung",
+        "role": "Group Chief Executive and President"
+      }
+    ],
+    "terms": [
+      {
+        "source": "2019冠狀病毒病",
+        "target": "COVID-19",
+        "abbreviation": "",
+        "context": "external_event",
+        "confidence": "high"
+      }
+    ],
+    "style_rules": [
+      "Preserve financial terminology consistency",
+      "Use formal corporate register throughout",
+      "Maintain parallel structure in lists and tables",
+      "Use active voice where source permits",
+      "Translate corporate mission statements with care",
+      "Preserve temporal references and context",
+      "Translate market/geographic references consistently"
+    ]
+  },
+  "current_unit": {
+    "page_no": 13,
+    "unit_id": "p13_g01",
+    "unit_mode": "semantic_group",
+    "slot_count": 3,
+    "source_text": "友邦保險是客戶誠可信賴的夥伴，讓客戶在關注財務安全和家庭保障時仍可安心無憂。儘管2019冠狀病毒病大\n流行的影響深遠，但我衷心感謝我們的員工、代理和合作夥伴在適應新工作方式並確保為客戶提供無間斷的支援\n時，展現靈活應變的能力和克盡己職的精神。",
+    "current_translation": "AIA is a trusted partner our customers can rely on, providing them with peace of mind as they focus on financial security and family protection. Despite the far-reaching impact of the COVID-19 pandemic, I am deeply grateful to our employees, agents and partners for demonstrating flexibility and dedication in adapting to new ways of working and ensuring uninterrupted support to our customers."
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p13_g01",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

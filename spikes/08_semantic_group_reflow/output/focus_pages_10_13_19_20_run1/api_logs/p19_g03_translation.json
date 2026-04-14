@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 19,
+    "unit_id": "p19_g03"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是上市公司年报翻译器。\n语言方向：Traditional Chinese -> English。\n只翻译当前输入，不补充、不解释、不总结。\n如果当前输入由多个连续块组成，只允许在当前组内做跨块理解；不得引入组外内容。\n数字、百分比、货币、年份、专有名词、公司名、人名、地名必须准确。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市公司企业年报\npage_no: 19\nunit_id: p19_g03\nunit_mode: semantic_group\n命中术语约束:\n[\n  {\n    \"source\": \"內涵價值\",\n    \"target\": \"embedded value\"\n  }\n]\nblocks:\n[\n  {\n    \"block_id\": \"p19_b10\",\n    \"source_text\": \"原因在於內涵價值營運溢利72.43億美元抵銷了政府債券收益率下降的影響。內涵價值營運溢利包括來自正面營\"\n  },\n  {\n    \"block_id\": \"p19_b11\",\n    \"source_text\": \"運差異5.49億美元，原因在於與我們的內涵價值假設相比，我們的整體經驗持續維持正面。\"\n  }\n]\njoined_source_text:\n原因在於內涵價值營運溢利72.43億美元抵銷了政府債券收益率下降的影響。內涵價值營運溢利包括來自正面營\n運差異5.49億美元，原因在於與我們的內涵價值假設相比，我們的整體經驗持續維持正面。\n返回格式:\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p19_g03\",\n      \"translation\": \"<译文>\"\n    }\n  ]\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p19_g03\",\n      \"translation\": \"This was due to embedded value operating profit of USD 7.243 billion offsetting the impact of the decline in government bond yields. Embedded value operating profit includes positive operating variances of USD 549 million, which resulted from our overall experience continuing to be favorable compared to our embedded value assumptions.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "6f7412ee-3dcc-4e7b-b32c-c19b117542a1",
+    "conversation_id": "6f7412ee-3dcc-4e7b-b32c-c19b117542a1",
+    "id": "6f7412ee-3dcc-4e7b-b32c-c19b117542a1",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 600,
+      "output_tokens": 95
+    }
+  }
+}

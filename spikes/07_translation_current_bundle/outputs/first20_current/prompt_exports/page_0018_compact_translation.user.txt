@@ -1,0 +1,161 @@
+﻿以下文本块版面过紧。请在不改变核心含义和正式风格的前提下，仅做最小必要压缩。
+不要摘要，不要解释，只输出严格 JSON。
+{
+  "page_no": 18,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "problem_blocks": [
+    {
+      "block_id": "p18_b5",
+      "block_type": "label",
+      "source_text": "影響的情況下，我們錄得了稅後營運溢利、產生的基本自由盈餘",
+      "current_translation": "resulting from the global pandemic, we recorded solid growth in operating profit after tax, free surplus",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.769,
+      "line_count": 1,
+      "char_count": 28,
+      "bbox": [
+        73.7,
+        161.54,
+        497.87,
+        181.1
+      ],
+      "font_size_avg": 15.0,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p18_b7",
+      "block_type": "label",
+      "source_text": "讓我們在眾多增長機遇下得以繼續投資。",
+      "current_translation": "enabling us to continue investing in numerous growth opportunities.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.719,
+      "line_count": 1,
+      "char_count": 18,
+      "bbox": [
+        73.7,
+        209.54,
+        343.7,
+        229.1
+      ],
+      "font_size_avg": 15.0,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p18_b8",
+      "block_type": "label",
+      "source_text": "按固定匯率基準提供增長率及作出評述。",
+      "current_translation": "Growth rates and commentary are provided on a constant exchange rate basis.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.641,
+      "line_count": 1,
+      "char_count": 18,
+      "bbox": [
+        73.7,
+        236.75,
+        202.68,
+        246.04
+      ],
+      "font_size_avg": 7.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p18_b9",
+      "block_type": "label",
+      "source_text": "概要及主要財務摘要",
+      "current_translation": "Overview and Key Financial Summary",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.683,
+      "line_count": 1,
+      "char_count": 9,
+      "bbox": [
+        73.7,
+        272.51,
+        202.5,
+        290.77
+      ],
+      "font_size_avg": 14.0,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p18_b10",
+      "block_type": "body",
+      "source_text": "在2020年，友邦保險在全球大流行病帶來的空前商業和宏觀經濟狀況下錄得強勁的財務表現。儘管外出限制導致",
+      "current_translation": "In 2020, AIA delivered strong financial performance amid an unprecedented business and macroeconomic environment brought about by the global pandemic. Despite mobility restrictions resulting in",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.701,
+      "line_count": 1,
+      "char_count": 51,
+      "bbox": [
+        73.7,
+        310.21,
+        527.23,
+        322.16
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p18_b11",
+      "block_type": "body",
+      "source_text": "2020年新業務價值下降，但隨著業務的調整和限制的有所放寬，我們看到了銷售勢頭的恢復。這種勢頭一直持續",
+      "current_translation": "New business value declined in 2020, but as business adjustments were made and certain restrictions were eased, we saw a recovery in sales momentum. This momentum continued",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.733,
+      "line_count": 1,
+      "char_count": 51,
+      "bbox": [
+        73.7,
+        326.21,
+        527.23,
+        338.16
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p18_b12",
+      "block_type": "body",
+      "source_text": "到2021年，首兩個月新業務價值與2020年同期相比增長15%。多年來，我們審慎的財務管理和貫徹對高質素業務",
+      "current_translation": "into 2021, with new business value in the first two months growing 15% compared to the same period in 2020. Over the years, our prudent financial management and consistent strategic focus on high-quality business",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.615,
+      "line_count": 1,
+      "char_count": 54,
+      "bbox": [
+        73.7,
+        342.21,
+        527.29,
+        354.16
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p18_b13",
+      "block_type": "body",
+      "source_text": "的策略性重點，體現了稅後營運溢利和產生的基本自由盈餘的持續增長、穩健而強韌的資本狀況以及每股股息的",
+      "current_translation": "have been reflected in continued growth in operating profit after tax and underlying free surplus generated, a robust and resilient capital position, and further growth in dividend per share.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.721,
+      "line_count": 1,
+      "char_count": 49,
+      "bbox": [
+        73.69,
+        358.21,
+        527.15,
+        370.16
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    }
+  ]
+}

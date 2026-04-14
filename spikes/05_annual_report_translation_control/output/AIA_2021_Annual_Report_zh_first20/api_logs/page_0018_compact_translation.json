@@ -1,0 +1,21 @@
+{
+  "content": [
+    {
+      "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p18_b3\",\n      \"translation\": \"Despite the unprecedented business and macroeconomic environment in 2020, AIA achieved\"\n    },\n    {\n      \"block_id\": \"p18_b4\",\n      \"translation\": \"strong financial performance. Despite pandemic-related mobility restrictions impacting new business value,\"\n    },\n    {\n      \"block_id\": \"p18_b5\",\n      \"translation\": \"we recorded solid growth in operating profit after tax and generated free surplus on a basic basis,\"\n    },\n    {\n      \"block_id\": \"p18_b7\",\n      \"translation\": \"enabling continued investment amid growth opportunities.\"\n    },\n    {\n      \"block_id\": \"p18_b8\",\n      \"translation\": \"Growth rates and commentary provided on constant exchange rate basis.\"\n    },\n    {\n      \"block_id\": \"p18_b9\",\n      \"translation\": \"Overview and Key Financial Summary\"\n    },\n    {\n      \"block_id\": \"p18_b10\",\n      \"translation\": \"In 2020, AIA delivered strong financial performance amid unprecedented conditions from the global pandemic. Although mobility restrictions led to\"\n    },\n    {\n      \"block_id\": \"p18_b11\",\n      \"translation\": \"a decline in new business value in 2020, as restrictions eased we saw sales momentum recovery. This momentum continued\"\n    },\n    {\n      \"block_id\": \"p18_b12\",\n      \"translation\": \"into 2021, with new business value in the first two months growing 15% versus 2020. Our prudent financial management and strategic focus on high-quality business\"\n    },\n    {\n      \"block_id\": \"p18_b13\",\n      \"translation\": \"are reflected in continued growth in operating profit after tax and generated free surplus on a basic basis, robust capital position, and dividend per share growth.\"\n    },\n    {\n      \"block_id\": \"p18_b15\",\n      \"translation\": \"Mr. Garth Jones\\nGroup Chief Financial Officer\"\n    }\n  ]\n}\n```",
+      "type": "text"
+    }
+  ],
+  "conversationId": "1e80ca3d-9129-4e70-9367-af7b707bc32d",
+  "conversation_id": "1e80ca3d-9129-4e70-9367-af7b707bc32d",
+  "id": "1e80ca3d-9129-4e70-9367-af7b707bc32d",
+  "model": "claude-3-5-sonnet-20241022",
+  "role": "assistant",
+  "stop_reason": "end_turn",
+  "type": "message",
+  "usage": {
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2696,
+    "output_tokens": 448
+  }
+}

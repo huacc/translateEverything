@@ -1,0 +1,21 @@
+{
+  "content": [
+    {
+      "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p7_b1\",\n      \"translation\": \"2020 Milestones\"\n    },\n    {\n      \"block_id\": \"p7_b2\",\n      \"translation\": \"AIA commits $100 million to establish the AIA Scholarship\"\n    },\n    {\n      \"block_id\": \"p7_b3\",\n      \"translation\": \"AIA announced the establishment of the AIA Scholarship and committed to\"\n    },\n    {\n      \"block_id\": \"p7_b4\",\n      \"translation\": \"The AIA Scholarship aims to support outstanding students who serve\"\n    },\n    {\n      \"block_id\": \"p7_b5\",\n      \"translation\": \"investing $100 million to support annually over the coming decades\"\n    },\n    {\n      \"block_id\": \"p7_b6\",\n      \"translation\": \"society and those requiring financial assistance to\"\n    },\n    {\n      \"block_id\": \"p7_b7\",\n      \"translation\": \"100 undergraduate students from various universities in Hong Kong.\"\n    },\n    {\n      \"block_id\": \"p7_b8\",\n      \"translation\": \"continue their studies.\"\n    },\n    {\n      \"block_id\": \"p7_b9\",\n      \"translation\": \"AIA establishes wholly-owned life insurance subsidiary in mainland China\"\n    },\n    {\n      \"block_id\": \"p7_b10\",\n      \"translation\": \"AIA successfully converted its mainland China business in October 2020 into\"\n    },\n    {\n      \"block_id\": \"p7_b11\",\n      \"translation\": \"the first life insurance subsidiary, with the relevant\"\n    },\n    {\n      \"block_id\": \"p7_b12\",\n      \"translation\": \"approval obtained in June 2020. In March 2021,\"\n    },\n    {\n      \"block_id\": \"p7_b13\",\n      \"translation\": \"we received approval from the China Banking and Insurance Regulatory Commission\"\n    },\n    {\n      \"block_id\": \"p7_b14\",\n      \"translation\": \"to commence operations in Sichuan Province.\"\n    },\n    {\n      \"block_id\": \"p7_b15\",\n      \"translation\": \"AIA ranks first for the sixth consecutive year in Million Dollar Round Table\"\n    },\n    {\n      \"block_id\": \"p7_b16\",\n      \"translation\": \"AIA became the only multinational company to consecutively\"\n    },\n    {\n      \"block_id\": \"p7_b17\",\n      \"translation\": \"have the most Million Dollar Round Table registered members for six years.\"\n    },\n    {\n      \"block_id\": \"p7_b18\",\n      \"translation\": \"2020 Annual Report\\n005\"\n    }\n  ]\n}\n```",
+      "type": "text"
+    }
+  ],
+  "conversationId": "25635bd2-a3af-458d-b916-880651c01d18",
+  "conversation_id": "25635bd2-a3af-458d-b916-880651c01d18",
+  "id": "25635bd2-a3af-458d-b916-880651c01d18",
+  "model": "claude-3-5-sonnet-20241022",
+  "role": "assistant",
+  "stop_reason": "end_turn",
+  "type": "message",
+  "usage": {
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1645,
+    "output_tokens": 608
+  }
+}

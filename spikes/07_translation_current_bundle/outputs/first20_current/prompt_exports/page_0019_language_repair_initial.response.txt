@@ -1,0 +1,14 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p19_b11",
+      "translation": "Operating variance of $549 million, primarily due to our overall experience continuing to be favorable compared to our embedded value assumptions."
+    },
+    {
+      "block_id": "p19_b17",
+      "translation": "improvement, with the Group's renewal rate at 95%."
+    }
+  ]
+}
+```

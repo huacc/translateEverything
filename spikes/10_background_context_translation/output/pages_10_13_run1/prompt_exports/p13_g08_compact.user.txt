@@ -1,0 +1,56 @@
+文档场景：上市公司企业年报
+{
+  "document_background": {
+    "page_sections": [
+      {
+        "target_section": "Group Chief Executive and President's Report",
+        "content_type": "ceo_report",
+        "page_range": [
+          12,
+          16
+        ]
+      },
+      {
+        "target_section": "Overview",
+        "content_type": "executive_summary",
+        "page_range": [
+          8,
+          16
+        ]
+      }
+    ],
+    "roles": [
+      {
+        "source": "李源祥",
+        "target": "Lee Yuen Cheung",
+        "role": "Group Chief Executive and President"
+      }
+    ],
+    "terms": [],
+    "style_rules": [
+      "Preserve financial terminology consistency",
+      "Use formal corporate register throughout",
+      "Maintain parallel structure in lists and tables",
+      "Use active voice where source permits",
+      "Translate corporate mission statements with care",
+      "Preserve temporal references and context",
+      "Translate market/geographic references consistently"
+    ]
+  },
+  "current_unit": {
+    "page_no": 13,
+    "unit_id": "p13_g08",
+    "unit_mode": "semantic_group",
+    "slot_count": 3,
+    "source_text": "儘管2020年是前所未見的一年，但我對亞洲壽險行業的前景和友邦保險的未來比以往更為樂觀。我們繼續挑戰自\n己，發展我們的優先任務，以確保我們能繼續適切地迎合客戶期望和財務需求的轉變。我們的全新企業策略建基\n於友邦保險的現有實力，推進轉型過程，以在未來為客戶提供最佳的服務。",
+    "current_translation": "Despite 2020 being an unprecedented year, I am more optimistic than ever about the prospects for the life insurance industry in Asia and the future of AIA. We continue to challenge ourselves and advance our strategic priorities to ensure we remain well-positioned to meet the evolving expectations and financial needs of our customers. Our new corporate strategy builds on AIA's existing strengths and drives our transformation to deliver the best service to our customers in the years ahead."
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p13_g08",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+文档场景：上市公司企业年报
+page_no: 20
+unit_id: p20_g03
+unit_mode: semantic_group
+slot_count: 4
+source_text:
+友邦保險中國業務在2021年錄得成功的勢頭，首兩個月的新業務價值與2020年同期比較，錄得非常強勁的增
+長。2020年新業務價值9.68億美元較2019年減少17%，主要由於2019冠狀病毒病在第一季爆發初期而導致銷售額
+有限。隨著外出限制放寬，新業務動力得以迅速改善。新業務價值重拾我們慣常的季節性規律，比重更側重於上
+半年。在2020年，友邦保險中國業務為集團的新業務價值帶來最大貢獻。
+current_translation:
+AIA's China business achieved strong momentum in 2021, with new business value in the first two months showing very robust growth compared to the same period in 2020. In 2020, new business value of USD 968 million decreased by 17% compared to 2019, primarily due to limited sales in the early outbreak of COVID-19 in the first quarter. As travel restrictions eased, new business momentum improved rapidly. New business value resumed our customary seasonal pattern, with a greater proportion weighted towards the first half of the year. In 2020, AIA's China business made the largest contribution to the Group's new business value.
+返回格式:
+{
+  "translations": [
+    {
+      "unit_id": "p20_g03",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

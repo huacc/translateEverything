@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p13_g01",
+      "translation": "AIA is a trusted partner that customers can rely on, allowing them to have peace of mind while focusing on financial security and family protection. Despite the far-reaching impact of the COVID-19 pandemic, I sincerely appreciate our employees, agents, and partners for demonstrating flexibility and adaptability, and fulfilling their duties in adjusting to new ways of working and ensuring uninterrupted support to our customers."
+    }
+  ]
+}
+```

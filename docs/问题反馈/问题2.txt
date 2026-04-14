@@ -1,0 +1,47 @@
+第一次译文明显更优，更准确、更符合专业场景用意。
+我已将您提供的原文（PDF第19页左右的中文内容，对应集团首席财务总监回顾的部分段落）与PDF全文档的语境、惯用表达、财务术语一致性及AIA官方年报风格进行逐句比对评估。以下是从语义准确性、专业性、术语一致性、流畅度与企业报告规范四个维度进行的专业分析（基于PDF中反复出现的固定译法、表格数据、上下文逻辑及AIA历年英文年报的惯例）。
+1. 语义准确性（忠实于原文）
+
+第一次译文：100%忠实原文，无遗漏、无添加、无扭曲。
+例：“儘管2020年的新業務價值27.65億美元較2019年減少了33%” → “While VONB of US$2,765 million in 2020 was lower by 33 per cent compared to 2019” —— 精确对应数字与百分比。
+例：“內涵價值權益創下新高為671.85億美元，於派付股息19.97億美元之前增加52.77億美元” → “Embedded value (EV) equity reached a new high of US$67,185 million … increasing by US$5,277 million before payment of shareholder dividends of US$1,997 million” —— 数字、时态、因果逻辑完全一致。
+例：“本集團的續保率為95%” → “has remained at 95 per cent for the Group” —— 精准保留“本集團”范围。
+
+第二次译文：存在多处语义偏差与硬伤。
+“US$2.765 billion” 虽数值等价，但AIA官方惯例始终用“million”（与PDF表格及第8-9页图表一致）；“US$19.97 billion” 是严重错误（原文19.97億美元 = US$1,997 million，第二次译文把“股息”数字错位成“US$19.97 billion”）。
+“This brings the total dividend for 2020 to 100.30 Hong Kong cents per share” —— 直接把全年股息错写成末期股息金额（原文明确“全年股息總額為每股135.30港仙”）。
+开头“The pandemic primarily impacted…” 遗漏了“main effect … was on new business sales”的完整因果结构，语义弱化。
+
+
+结论：第一次译文在数字、逻辑、因果关系上零偏差；第二次存在多处事实性错误，已不符合专业翻译标准。
+2. 专业性与术语一致性（符合AIA年报惯用语）
+PDF中反复出现的固定专业术语（表格、图表、其他章节）必须统一：
+
+新業務價值 → VONB（PDF第8-9、18-21页表格统一使用）
+內涵價值權益 → Embedded value (EV) equity / EV equity
+稅後營運溢利 → OPAT
+基本自由盈餘 → UFSG（Underlying Free Surplus Generated）
+續保率 → persistency
+償付能力充足率 → solvency ratio
+集團當地資本總和法覆蓋率 → Group LCSM cover ratio
+
+第一次译文：全程使用上述标准缩写，并与PDF第6-9页、第18-24页的英文图表、注释完全一致（例如“EV operating profit”“operating margin of 16.9 per cent”“renewal premiums”“free surplus”等），完全符合AIA年报的“企业英语”风格。
+第二次译文：虽然也用了VONB、OPAT、UFSG，但：
+
+缩写使用不稳定（有时写全称，有时省略）；
+“inforce portfolio” 漏掉连字符（应为“in-force”）；
+插入了明显是PDF页面标题的乱码（如“Ov erv ie w Fin an cia l an d Op era tin g Re vie w Co rp ora te Go ver na nc e”），严重破坏专业性。
+
+结论：第一次译文术语高度一致，是AIA官方年报的“母语级”表达；第二次译文像机器初译+人工粗改，专业度不足。
+3. 流畅度与企业报告规范
+
+第一次译文：句子结构正式、节奏平稳，符合年报“客观、稳健、信心满满”的语气。
+使用“while”“as”“which offset”“as anticipated”等连接词，使长句逻辑清晰。
+股息部分：“This follows AIA’s established prudent, sustainable and progressive dividend policy” —— 精准还原“秉承友邦保險行之已久的審慎、可持續及漸進的派息政策”。
+结尾自信而不夸张，与PDF主席报告、CEO报告的风格完全统一。
+
+第二次译文：句子破碎、标点混乱，多处口语化或生硬（如“facetoface”无连字符、“he pandemic”打字错误、“regarding dividend payments US$19.97 billion”语义不通）。整体像未校对的草稿，缺乏年报应有的“polished corporate tone”。
+
+4. 整体推荐
+强烈推荐使用第一次译文。
+它不仅是语义最忠实、最准确的版本，更是与AIA 2020年报整体风格、术语体系、数据一致性完全匹配的“官方级”翻译。第二次译文存在多处硬伤（数字错误、格式乱码、语义偏差），若直接采用会降低报告的专业可信度。

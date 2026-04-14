@@ -1,0 +1,109 @@
+﻿请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。
+要求高保真、正式、可出版，不要摘要，不要解释。
+术语表和动态文档背景优先于自由翻译。
+只输出严格 JSON。
+{
+  "page_no": 9,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "relevant_terms": [
+    {
+      "source": "新業務價值",
+      "target": "new business value"
+    },
+    {
+      "source": "稅後營運溢利",
+      "target": "operating profit after tax"
+    },
+    {
+      "source": "中國內地",
+      "target": "Mainland China"
+    },
+    {
+      "source": "新加坡",
+      "target": "Singapore"
+    },
+    {
+      "source": "泰國",
+      "target": "Thailand"
+    },
+    {
+      "source": "馬來西亞",
+      "target": "Malaysia"
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "p9_b1",
+      "block_type": "heading",
+      "source_text": "2020年按市場分部劃分",
+      "line_count": 1,
+      "char_count": 12,
+      "region": "top",
+      "font_size_avg": 20.67
+    },
+    {
+      "block_id": "p9_b2",
+      "block_type": "label",
+      "source_text": "新業務價值(2)(7)",
+      "line_count": 1,
+      "char_count": 11,
+      "region": "middle",
+      "font_size_avg": 9.5
+    },
+    {
+      "block_id": "p9_b3",
+      "block_type": "label",
+      "source_text": "年化新保費(3)",
+      "line_count": 1,
+      "char_count": 8,
+      "region": "middle",
+      "font_size_avg": 9.5
+    },
+    {
+      "block_id": "p9_b16",
+      "block_type": "label",
+      "source_text": "稅後營運溢利(4)",
+      "line_count": 1,
+      "char_count": 9,
+      "region": "middle",
+      "font_size_avg": 9.5
+    },
+    {
+      "block_id": "p9_b17",
+      "block_type": "label",
+      "source_text": "總加權保費收入(5)",
+      "line_count": 1,
+      "char_count": 10,
+      "region": "middle",
+      "font_size_avg": 9.5
+    },
+    {
+      "block_id": "p9_b28",
+      "block_type": "body",
+      "source_text": "中國內地\n泰國\n新加坡\n馬來西亞\n其他市場\n香港",
+      "line_count": 6,
+      "char_count": 24,
+      "region": "middle",
+      "font_size_avg": 8.0
+    },
+    {
+      "block_id": "p9_b29",
+      "block_type": "label",
+      "source_text": "附註：",
+      "line_count": 1,
+      "char_count": 3,
+      "region": "middle",
+      "font_size_avg": 7.0
+    },
+    {
+      "block_id": "p9_b30",
+      "block_type": "body",
+      "source_text": "(7) 各分部新業務價值包括退休金業務，按當地法定基準列示、未計\n入未分配集團總部開支、並且未扣除非控股權益。",
+      "line_count": 2,
+      "char_count": 55,
+      "region": "middle",
+      "font_size_avg": 7.0
+    }
+  ]
+}

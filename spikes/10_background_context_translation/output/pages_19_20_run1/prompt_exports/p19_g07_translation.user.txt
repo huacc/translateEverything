@@ -1,0 +1,86 @@
+文档场景：上市公司企业年报
+请优先使用背景中的标准叫法和术语。
+{
+  "document_background": {
+    "global_profile": {
+      "company_name_target": "AIA GROUP LIMITED",
+      "industry": "Life Insurance",
+      "report_type": "annual_report",
+      "report_year": 2020,
+      "style_keywords": [
+        "corporate governance",
+        "financial performance",
+        "stakeholder communication",
+        "ESG commitment"
+      ]
+    },
+    "page_sections": [
+      {
+        "target_section": "Group Chief Financial Officer's Review",
+        "content_type": "cfo_review",
+        "page_range": [
+          18,
+          30
+        ]
+      },
+      {
+        "target_section": "Financial and Operating Review",
+        "content_type": "financial_review",
+        "page_range": [
+          17,
+          30
+        ]
+      }
+    ],
+    "roles": [],
+    "terms": [],
+    "style_rules": [
+      "Preserve financial terminology consistency",
+      "Use formal corporate register throughout",
+      "Maintain parallel structure in lists and tables",
+      "Preserve table structure and alignment",
+      "Translate table headers consistently with body text",
+      "Maintain footnote references and numbering",
+      "Convert currency units with precision"
+    ]
+  },
+  "matched_terms": [
+    {
+      "source": "友邦保險",
+      "target": "AIA"
+    }
+  ],
+  "current_unit": {
+    "page_no": 19,
+    "unit_id": "p19_g07",
+    "unit_mode": "semantic_group",
+    "block_types": [
+      "body",
+      "body",
+      "body"
+    ],
+    "blocks": [
+      {
+        "block_id": "p19_b24",
+        "source_text": "董事會建議末期股息增加7.5%至每股100.30港仙，並須於本公司應屆股東週年大會上獲股東批准。這使2020年的"
+      },
+      {
+        "block_id": "p19_b25",
+        "source_text": "全年股息總額為每股135.30港仙，較2019年的全年股息總額上升6.9%。這是秉承友邦保險行之已久的審慎、可持"
+      },
+      {
+        "block_id": "p19_b26",
+        "source_text": "續及漸進的派息政策，讓集團可把握未來的增長機遇，並且保持財務靈活性。"
+      }
+    ],
+    "joined_source_text": "董事會建議末期股息增加7.5%至每股100.30港仙，並須於本公司應屆股東週年大會上獲股東批准。這使2020年的\n全年股息總額為每股135.30港仙，較2019年的全年股息總額上升6.9%。這是秉承友邦保險行之已久的審慎、可持\n續及漸進的派息政策，讓集團可把握未來的增長機遇，並且保持財務靈活性。"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p19_g07",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

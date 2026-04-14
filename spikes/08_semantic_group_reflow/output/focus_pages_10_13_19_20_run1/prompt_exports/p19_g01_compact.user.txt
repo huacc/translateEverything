@@ -1,0 +1,20 @@
+文档场景：上市公司企业年报
+page_no: 19
+unit_id: p19_g01
+unit_mode: semantic_group
+slot_count: 3
+source_text:
+大流行病對我們2020年財務表現的主要影響是對新業務銷售的影響，原因在於我們眾多市場的遏制傳播措施限制
+了面對面的銷售活動，尤其是在2020年上半年。儘管2020年的新業務價值27.65億美元較2019年減少了33%，我
+們迅速採用了新的數碼工具，並且外出限制的普遍放寬支持了銷售勢頭的恢復。友邦保險中國業務為2020年本集
+current_translation:
+The pandemic's primary impact on our 2020 financial performance was on new business sales, as containment measures across our numerous markets restricted face-to-face sales activities, particularly in the first half of 2020. Despite new business value of USD 2.765 billion in 2020 representing a 33% decrease compared to 2019, we rapidly adopted new digital tools, and the widespread relaxation of mobility restrictions supported a recovery in sales momentum. AIA's China business in 2020 for the Group
+返回格式:
+{
+  "translations": [
+    {
+      "unit_id": "p19_g01",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

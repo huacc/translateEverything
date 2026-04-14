@@ -1,0 +1,30 @@
+文档场景：上市公司企业年报
+page_no: 20
+unit_id: p20_b19
+unit_mode: single_block
+blocks:
+[
+  {
+    "block_id": "p20_b19",
+    "source_text": "非控股權益\n(24)\n無意義\n無意義\n(32)\n無意義\n無意義\n無意義\n無意義"
+  }
+]
+joined_source_text:
+非控股權益
+(24)
+無意義
+無意義
+(32)
+無意義
+無意義
+無意義
+無意義
+返回格式:
+{
+  "translations": [
+    {
+      "unit_id": "p20_b19",
+      "translation": "<译文>"
+    }
+  ]
+}

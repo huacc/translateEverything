@@ -1,0 +1,24 @@
+[
+  {
+    "page_no": 3,
+    "text_block_count": 11,
+    "image_block_count": 2,
+    "original": "spikes\\02_background_restoration\\output\\AIA_2021_Annual_Report_zh\\original\\page_0003.png",
+    "mask": "spikes\\02_background_restoration\\output\\AIA_2021_Annual_Report_zh\\mask\\page_0003_mask.png",
+    "image_only": "spikes\\02_background_restoration\\output\\AIA_2021_Annual_Report_zh\\image_only\\page_0003_image_only.png",
+    "inpaint": "spikes\\02_background_restoration\\output\\AIA_2021_Annual_Report_zh\\inpaint\\page_0003_inpaint.png",
+    "comparison": "spikes\\02_background_restoration\\output\\AIA_2021_Annual_Report_zh\\comparison\\page_0003_background_restoration_comparison.png",
+    "status": "ok"
+  },
+  {
+    "page_no": 294,
+    "text_block_count": 19,
+    "image_block_count": 0,
+    "original": "spikes\\02_background_restoration\\output\\AIA_2021_Annual_Report_zh\\original\\page_0294.png",
+    "mask": "spikes\\02_background_restoration\\output\\AIA_2021_Annual_Report_zh\\mask\\page_0294_mask.png",
+    "image_only": "spikes\\02_background_restoration\\output\\AIA_2021_Annual_Report_zh\\image_only\\page_0294_image_only.png",
+    "inpaint": "spikes\\02_background_restoration\\output\\AIA_2021_Annual_Report_zh\\inpaint\\page_0294_inpaint.png",
+    "comparison": "spikes\\02_background_restoration\\output\\AIA_2021_Annual_Report_zh\\comparison\\page_0294_background_restoration_comparison.png",
+    "status": "ok"
+  }
+]

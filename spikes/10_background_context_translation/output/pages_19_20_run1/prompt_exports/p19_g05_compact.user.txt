@@ -1,0 +1,65 @@
+文档场景：上市公司企业年报
+{
+  "document_background": {
+    "page_sections": [
+      {
+        "target_section": "Group Chief Financial Officer's Review",
+        "content_type": "cfo_review",
+        "page_range": [
+          18,
+          30
+        ]
+      },
+      {
+        "target_section": "Financial and Operating Review",
+        "content_type": "financial_review",
+        "page_range": [
+          17,
+          30
+        ]
+      }
+    ],
+    "roles": [],
+    "terms": [
+      {
+        "source": "自由盈餘",
+        "target": "Free Surplus",
+        "abbreviation": "",
+        "context": "capital_metric",
+        "confidence": "high"
+      },
+      {
+        "source": "有效保單",
+        "target": "In-Force Business",
+        "abbreviation": "",
+        "context": "business_metric",
+        "confidence": "high"
+      }
+    ],
+    "style_rules": [
+      "Preserve financial terminology consistency",
+      "Use formal corporate register throughout",
+      "Maintain parallel structure in lists and tables",
+      "Preserve table structure and alignment",
+      "Translate table headers consistently with body text",
+      "Maintain footnote references and numbering",
+      "Convert currency units with precision"
+    ]
+  },
+  "current_unit": {
+    "page_no": 19,
+    "unit_id": "p19_g05",
+    "unit_mode": "semantic_group",
+    "slot_count": 2,
+    "source_text": "產生的基本自由盈餘為58.43億美元，增長了7%，是由我們有效保單組合的持續增長和我們對此積極管理所帶\n動，這足以抵銷預期投資回報降低的影響。於2020年12月31日，本集團的財務狀況仍然十分強勁，於派付股息",
+    "current_translation": "The underlying Free Surplus generated was USD 5.843 billion, an increase of 7%, driven by the continued growth of our in-force portfolio and our active management thereof, which was sufficient to offset the impact of lower expected investment returns. As at 31 December 2020, the Group's financial position remained robust, with respect to dividend payments"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p19_g05",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

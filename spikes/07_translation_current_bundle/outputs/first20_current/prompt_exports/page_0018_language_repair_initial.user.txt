@@ -1,0 +1,17 @@
+﻿以下文本块的上一轮译文不符合目标语言要求，请重新给出目标语言译文。
+只输出严格 JSON。
+{
+  "page_no": 18,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "problem_blocks": [
+    {
+      "block_id": "p18_b14",
+      "source_text": "進一步增長。",
+      "current_translation": "",
+      "block_type": "label",
+      "line_count": 1,
+      "char_count": 6
+    }
+  ]
+}

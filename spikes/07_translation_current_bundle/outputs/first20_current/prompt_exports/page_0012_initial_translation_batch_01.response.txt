@@ -1,0 +1,30 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p12_b3",
+      "translation": "AIA has once again delivered exceptionally strong results, reflecting the outstanding"
+    },
+    {
+      "block_id": "p12_b4",
+      "translation": "performance of our dedicated teams. Our employees have demonstrated the ability to respond swiftly"
+    },
+    {
+      "block_id": "p12_b5",
+      "translation": "and flexibly to the rapidly changing business environment, which fills me with pride."
+    },
+    {
+      "block_id": "p12_b6",
+      "translation": "With our unwavering commitment, we have helped our customers navigate an uncertain"
+    },
+    {
+      "block_id": "p12_b7",
+      "translation": "environment, while accelerating the implementation of our strategic plans."
+    },
+    {
+      "block_id": "p12_b8",
+      "translation": "Mr. Lee Yuen Shing\nGroup Chief Executive and President"
+    }
+  ]
+}
+```

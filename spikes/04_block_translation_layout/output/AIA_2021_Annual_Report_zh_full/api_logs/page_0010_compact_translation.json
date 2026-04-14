@@ -1,0 +1,21 @@
+{
+  "content": [
+    {
+      "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p10_b1\",\n      \"translation\": \"Overview\"\n    },\n    {\n      \"block_id\": \"p10_b2\",\n      \"translation\": \"Overview\"\n    },\n    {\n      \"block_id\": \"p10_b3\",\n      \"translation\": \"Chairman's Report\"\n    },\n    {\n      \"block_id\": \"p10_b5\",\n      \"translation\": \"earned recognition across Asia for serving communities in need\"\n    },\n    {\n      \"block_id\": \"p10_b6\",\n      \"translation\": \"with our essential services,\"\n    },\n    {\n      \"block_id\": \"p10_b8\",\n      \"translation\": \"Mr. Tse Sze-wing\\nIndependent Non-Executive Chairman\"\n    },\n    {\n      \"block_id\": \"p10_b10\",\n      \"translation\": \"our colleagues cared for communities and fulfilled their duties,\"\n    },\n    {\n      \"block_id\": \"p10_b11\",\n      \"translation\": \"supporting millions of customers\"\n    },\n    {\n      \"block_id\": \"p10_b13\",\n      \"translation\": \"AIA has a long history in Asia, successfully managing through social upheavals and uncertain periods, earning an outstanding\"\n    },\n    {\n      \"block_id\": \"p10_b14\",\n      \"translation\": \"reputation reflecting AIA's trustworthiness, resilience, and commitment to stakeholders. Since early 2020, COVID-19 has\"\n    },\n    {\n      \"block_id\": \"p10_b15\",\n      \"translation\": \"created complex business conditions with unprecedented shifts in political, macroeconomic, and capital markets. In this context,\"\n    },\n    {\n      \"block_id\": \"p10_b16\",\n      \"translation\": \"AIA's financial strength and mission to help people live healthier, longer, better lives are more vital. I thank all AIA\"\n    },\n    {\n      \"block_id\": \"p10_b17\",\n      \"translation\": \"employees, agents, and partners who, despite severe challenges, care for communities and dedicate themselves to customers,\"\n    },\n    {\n      \"block_id\": \"p10_b19\",\n      \"translation\": \"COVID-19 control measures impacted new business sales; new business value declined to USD 2.765 billion. We quickly adopted\"\n    },\n    {\n      \"block_id\": \"p10_b20\",\n      \"translation\": \"digital tools to boost efficiency. With relaxed restrictions, sales momentum recovered strongly into early 2021.\"\n    },\n    {\n      \"block_id\": \"p10_b21\",\n      \"translation\": \"New business value in early 2021 grew 15% versus prior year.\"\n    },\n    {\n      \"block_id\": \"p10_b22\",\n      \"translation\": \"After-tax operating profit grew 5% to USD 5.942 billion; free surplus rose 7% to USD 5.843 billion, reflecting high-quality\"\n    },\n    {\n      \"block_id\": \"p10_b23\",\n      \"translation\": \"recurring earnings. Embedded value equity reached USD 67.2 billion. As of December 31, 2020, local capital coverage ratio was\"\n    },\n    {\n      \"block_id\": \"p10_b24\",\n      \"translation\": \"374%, demonstrating strong capital and prudent financial management.\"\n    },\n    {\n      \"block_id\": \"p10_b25\",\n      \"translation\": \"Board recommends final dividend of HKD 100.30 per share, up 7.5%, reflecting solid performance and confidence in the Group's\"\n    },\n    {\n      \"block_id\": \"p10_b26\",\n      \"translation\": \"future prospects. Full-year 2020 dividend: HKD 135.30 per share. Board maintains AIA's prudent, sustainable,\"\n    },\n    {\n      \"block_id\": \"p10_b27\",\n      \"translation\": \"and progressive dividend policy, enabling growth while maintaining financial flexibility.\"\n    },\n    {\n      \"block_id\": \"p10_b28\",\n      \"translation\": \"008\\nAIA Group Limited\"\n    }\n  ]\n}\n```",
+      "type": "text"
+    }
+  ],
+  "conversationId": "b56399e1-6a16-4efc-8359-dd8e90fd7ce1",
+  "conversation_id": "b56399e1-6a16-4efc-8359-dd8e90fd7ce1",
+  "id": "b56399e1-6a16-4efc-8359-dd8e90fd7ce1",
+  "model": "claude-3-5-sonnet-20241022",
+  "role": "assistant",
+  "stop_reason": "end_turn",
+  "type": "message",
+  "usage": {
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 4381,
+    "output_tokens": 895
+  }
+}

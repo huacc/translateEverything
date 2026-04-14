@@ -1,0 +1,19 @@
+```json
+{
+  "unit_id": "p13_b29",
+  "page_no": 13,
+  "section_id": "overview",
+  "content_type": "footer",
+  "speaker_role": null,
+  "topic_tags": [],
+  "term_hits": [],
+  "needs_context": false,
+  "context_scope": null,
+  "risk_level": "low",
+  "risk_flags": [],
+  "translation_constraints": [
+    "Preserve page numbering format",
+    "Maintain footer placement and styling"
+  ]
+}
+```

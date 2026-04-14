@@ -1,0 +1,21 @@
+文档场景：上市公司企业年报
+page_no: 20
+unit_id: p20_g04
+unit_mode: semantic_group
+slot_count: 4
+source_text:
+在實施旅遊限制後，友邦保險香港業務來自中國內地訪港客戶的新業務銷售自2020年2月初起實際上已暫停，導
+致其新業務價值大幅下降。新業務價值利潤率錄得跌幅，反映新業務量減少導致承保開支超支、產品組合變動及
+利率下降的影響所致。澳門在2020年9月底恢復中國內地旅客個人遊計劃。這為澳門的中國內地訪澳客戶銷售回
+升提供支持，使其在第四季佔友邦保險澳門分公司的年化新保費總額超過三分之一。
+current_translation:
+Following the implementation of travel restrictions, new business sales from Mainland China visitors to Hong Kong under AIA's Hong Kong operations were virtually suspended from early February 2020, resulting in a significant decline in new business value. The new business value profit margin recorded a decrease, reflecting the impact of reduced new business volume leading to underwriting expense overruns, changes in product mix, and the effect of declining interest rates. Macau resumed the individual travel scheme for Mainland China visitors at the end of September 2020. This provided support for the recovery of sales from Mainland China visitors to Macau, which accounted for more than one-third of AIA's Macau branch's annualized new premiums in the fourth quarter.
+返回格式:
+{
+  "translations": [
+    {
+      "unit_id": "p20_g04",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

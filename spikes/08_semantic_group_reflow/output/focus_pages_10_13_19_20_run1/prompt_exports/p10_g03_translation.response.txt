@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p10_g03",
+      "translation": "AIA has a long and storied history in Asia. Having navigated through various social upheavals and uncertain periods while managing our business prudently, we have earned a distinguished reputation that reflects AIA's trustworthiness, resilience and strength, and our commitment to doing the right thing for our stakeholders. Since early 2020, the COVID-19 pandemic has led to continuously evolving and increasingly complex business environments, while political, macroeconomic and capital market landscapes have undergone unprecedented shifts. In such an environment, AIA's financial strength and our mission to \"help people live healthier, longer, better lives\" have become even more significant. I am deeply grateful to all AIA employees, agents and partners who, despite facing the most severe challenges, continue to care for our communities, fulfill their responsibilities diligently, and dedicate themselves to providing support to our customers, their families and our communities."
+    }
+  ]
+}
+```

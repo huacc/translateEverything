@@ -1,0 +1,89 @@
+﻿请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。
+要求高保真、正式、可出版，不要摘要，不要解释。
+术语表和动态文档背景优先于自由翻译。
+只输出严格 JSON。
+{
+  "page_no": 5,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "relevant_terms": [
+    {
+      "source": "友邦保險",
+      "target": "AIA"
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "p5_b1",
+      "block_type": "label",
+      "source_text": "友邦保險的目標是協助大眾實現健康、長久、好生活。",
+      "line_count": 1,
+      "char_count": 24,
+      "region": "middle",
+      "font_size_avg": 10.0
+    },
+    {
+      "block_id": "p5_b2",
+      "block_type": "body",
+      "source_text": "於2020年，2019冠狀病毒病為我們的社區帶來前所未見的",
+      "line_count": 1,
+      "char_count": 29,
+      "region": "middle",
+      "font_size_avg": 10.0
+    },
+    {
+      "block_id": "p5_b3",
+      "block_type": "label",
+      "source_text": "風險。我們作出迅速和全面的應對，包括為我們的社區",
+      "line_count": 1,
+      "char_count": 24,
+      "region": "middle",
+      "font_size_avg": 10.0
+    },
+    {
+      "block_id": "p5_b4",
+      "block_type": "label",
+      "source_text": "提供醫療物資，並為前線醫護和清潔人員提供免費保險",
+      "line_count": 1,
+      "char_count": 24,
+      "region": "middle",
+      "font_size_avg": 10.0
+    },
+    {
+      "block_id": "p5_b5",
+      "block_type": "label",
+      "source_text": "保障，讓他們冒著生命危險執行抗疫工作時能減輕一份",
+      "line_count": 1,
+      "char_count": 24,
+      "region": "middle",
+      "font_size_avg": 10.0
+    },
+    {
+      "block_id": "p5_b6",
+      "block_type": "body",
+      "source_text": "憂慮。我們為超過2,500萬份保單提供免費的2019冠狀病毒",
+      "line_count": 1,
+      "char_count": 30,
+      "region": "middle",
+      "font_size_avg": 10.0
+    },
+    {
+      "block_id": "p5_b7",
+      "block_type": "label",
+      "source_text": "病相關保障覆蓋，並於12個市場提供10億美元的保費支",
+      "line_count": 1,
+      "char_count": 26,
+      "region": "middle",
+      "font_size_avg": 10.0
+    },
+    {
+      "block_id": "p5_b8",
+      "block_type": "label",
+      "source_text": "援。年內，我們已支付逾160億美元的保險給付和理賠，",
+      "line_count": 1,
+      "char_count": 26,
+      "region": "middle",
+      "font_size_avg": 10.0
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+﻿请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。
+要求高保真、正式、可出版，不要摘要，不要解释。
+术语表和动态文档背景优先于自由翻译。
+只输出严格 JSON。
+{
+  "page_no": 16,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "relevant_terms": [
+    {
+      "source": "友邦保險",
+      "target": "AIA"
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "p16_b18",
+      "block_type": "body",
+      "source_text": "低，以及社會福利覆蓋有限的情況下，市場對友邦保險產品的需求將繼續增長。我們將憑藉龐大的競爭優勢和強",
+      "line_count": 1,
+      "char_count": 49,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p16_b19",
+      "block_type": "body",
+      "source_text": "勁的增長往績，為社區創建更可持續的未來，並為所有持分者創造共享價值。",
+      "line_count": 1,
+      "char_count": 34,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p16_b20",
+      "block_type": "label",
+      "source_text": "李源祥",
+      "line_count": 1,
+      "char_count": 3,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p16_b21",
+      "block_type": "label",
+      "source_text": "集團首席執行官兼總裁",
+      "line_count": 1,
+      "char_count": 10,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p16_b23",
+      "block_type": "footer",
+      "source_text": "增長率乃按固定匯率列示，管理層相信這可更清晰地說明相關業務按年的表現。",
+      "line_count": 1,
+      "char_count": 35,
+      "region": "bottom",
+      "font_size_avg": 7.0
+    }
+  ]
+}

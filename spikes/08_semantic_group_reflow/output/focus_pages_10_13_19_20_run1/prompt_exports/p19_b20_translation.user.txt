@@ -1,0 +1,22 @@
+文档场景：上市公司企业年报
+page_no: 19
+unit_id: p19_b20
+unit_mode: single_block
+blocks:
+[
+  {
+    "block_id": "p19_b20",
+    "source_text": "19.97億美元後，自由盈餘為134.73億美元。"
+  }
+]
+joined_source_text:
+19.97億美元後，自由盈餘為134.73億美元。
+返回格式:
+{
+  "translations": [
+    {
+      "unit_id": "p19_b20",
+      "translation": "<译文>"
+    }
+  ]
+}

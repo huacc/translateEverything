@@ -1,0 +1,48 @@
+```json
+{
+  "unit_id": "p13_g08",
+  "page_no": 13,
+  "section_id": "Group Chief Executive and President's Report",
+  "content_type": "executive_narrative",
+  "speaker_role": "Group Chief Executive and President",
+  "topic_tags": [
+    "market_outlook",
+    "business_strategy",
+    "customer_focus",
+    "digital_transformation",
+    "pandemic_context"
+  ],
+  "term_hits": [
+    {
+      "source_term": "亞洲壽險行業",
+      "target_term": "Asian life insurance industry",
+      "context": "market_segment"
+    },
+    {
+      "source_term": "友邦保險",
+      "target_term": "AIA",
+      "context": "company_name"
+    },
+    {
+      "source_term": "企業策略",
+      "target_term": "corporate strategy",
+      "context": "business_strategy"
+    }
+  ],
+  "needs_context": true,
+  "context_scope": "section",
+  "risk_level": "medium",
+  "risk_flags": [
+    "temporal_reference_2020",
+    "strategic_claim_accuracy",
+    "tone_preservation_optimism"
+  ],
+  "translation_constraints": [
+    "Preserve formal executive register and optimistic tone",
+    "Maintain parallel structure in strategy description",
+    "Translate '前所未見的一年' contextually (COVID-19 reference)",
+    "Ensure 'customer expectations' and 'financial needs' are rendered with precision",
+    "Preserve strategic intent of 'transformation process' language"
+  ]
+}
+```

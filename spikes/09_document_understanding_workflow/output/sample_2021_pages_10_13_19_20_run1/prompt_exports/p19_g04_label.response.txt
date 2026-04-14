@@ -1,0 +1,57 @@
+```json
+{
+  "unit_id": "p19_g04",
+  "page_no": 19,
+  "section_id": "集團首席財務總監回顧",
+  "content_type": "financial_narrative",
+  "speaker_role": "cfo",
+  "topic_tags": [
+    "operating_profit",
+    "premium_income",
+    "renewal_rate",
+    "claims_experience",
+    "investment_returns"
+  ],
+  "term_hits": [
+    {
+      "source_term": "稅後營運溢利",
+      "target_term": "Operating Profit After Tax",
+      "abbreviation": "OPAT",
+      "occurrences": 3
+    },
+    {
+      "source_term": "有效保單",
+      "target_term": "In-Force Business",
+      "occurrences": 1
+    },
+    {
+      "source_term": "續保保費",
+      "target_term": "Renewal Premium",
+      "occurrences": 2
+    },
+    {
+      "source_term": "續保率",
+      "target_term": "Renewal Rate",
+      "occurrences": 2
+    }
+  ],
+  "needs_context": true,
+  "context_scope": "section",
+  "risk_level": "high",
+  "risk_flags": [
+    "financial_metric_translation",
+    "percentage_precision",
+    "currency_conversion_notation",
+    "geographic_market_reference"
+  ],
+  "translation_constraints": [
+    "Preserve exact numerical values: 5%, 59.42億美元, 16.9%, 90%, 95%",
+    "Maintain financial metric consistency: OPAT, renewal rate, premium income",
+    "Convert currency notation: 59.42億美元 → USD 5.942 billion",
+    "Preserve temporal context: 上半年, 下半年, 全年, 2020年",
+    "Geographic reference: 友邦保險泰國業務 → AIA Thailand operations",
+    "Maintain formal CFO register and analytical tone",
+    "Preserve causal relationships and comparative metrics"
+  ]
+}
+```

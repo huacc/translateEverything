@@ -1,0 +1,21 @@
+{
+  "content": [
+    {
+      "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p3_b2\",\n      \"translation\": \"Million Dollar Round Table\\nRegistered Members\\nGlobal Leader\"\n    },\n    {\n      \"block_id\": \"p3_b3\",\n      \"translation\": \"Only global company\\nheadquartered in Hong Kong,\\nlisted in Hong Kong and\\n100% focused on Asia\"\n    },\n    {\n      \"block_id\": \"p3_b4\",\n      \"translation\": \"Largest company listed on\\nHong Kong Stock Exchange,\\nregistered and headquartered\\nin Hong Kong\"\n    },\n    {\n      \"block_id\": \"p3_b5\",\n      \"translation\": \"Only multinational company\\nleading Million Dollar Round Table\\nmembership for six consecutive years\"\n    },\n    {\n      \"block_id\": \"p3_b6\",\n      \"translation\": \"International Life\\nInsurance Company\"\n    },\n    {\n      \"block_id\": \"p3_b7\",\n      \"translation\": \"Business Coverage\"\n    },\n    {\n      \"block_id\": \"p3_b8\",\n      \"translation\": \"Serving over 38 million\\nindividual policyholders and\\nmore than 16 million participants\\nin group insurance plans\"\n    },\n    {\n      \"block_id\": \"p3_b9\",\n      \"translation\": \"In 2020, we paid over USD 16 billion\\nin insurance benefits and claims,\\nproviding essential financial support\\nto our customers\"\n    },\n    {\n      \"block_id\": \"p3_b10\",\n      \"translation\": \"Protecting people across Asia\\nwith total sum assured approaching\\nUSD 2 trillion across 18 markets\"\n    }\n  ]\n}\n```",
+      "type": "text"
+    }
+  ],
+  "conversationId": "9b5d51f5-2a23-4af1-ab64-761332595200",
+  "conversation_id": "9b5d51f5-2a23-4af1-ab64-761332595200",
+  "id": "9b5d51f5-2a23-4af1-ab64-761332595200",
+  "model": "claude-3-5-sonnet-20241022",
+  "role": "assistant",
+  "stop_reason": "end_turn",
+  "type": "message",
+  "usage": {
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2241,
+    "output_tokens": 381
+  }
+}

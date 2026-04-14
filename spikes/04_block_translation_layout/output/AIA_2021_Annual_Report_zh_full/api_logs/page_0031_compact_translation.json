@@ -1,0 +1,21 @@
+{
+  "content": [
+    {
+      "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p31_b1\",\n      \"translation\": \"Working capital & group center net remittances\"\n    },\n    {\n      \"block_id\": \"p31_b2\",\n      \"translation\": \"After $1,997M dividends, working capital rose $3,698M to $17,169M at 31 Dec 2020.\"\n    },\n    {\n      \"block_id\": \"p31_b4\",\n      \"translation\": \"Business unit remittances to group center planned annually based on local earnings, new business growth & capital needs. Actual net remittances\"\n    },\n    {\n      \"block_id\": \"p31_b5\",\n      \"translation\": \"determined after considering holding company liquidity, cash flow requirements (incl. head office), interest & dividends.\"\n    },\n    {\n      \"block_id\": \"p31_b6\",\n      \"translation\": \"Local businesses remitted $2,676M to group center in 2020 vs $3,730M in 2019. COVID-19's\"\n    },\n    {\n      \"block_id\": \"p31_b7\",\n      \"translation\": \"impact on disability claims & increased Australian regulatory capital offset positive remittances from other markets. As noted\"\n    },\n    {\n      \"block_id\": \"p31_b8\",\n      \"translation\": \"earlier, 2019's $3,730M net remittances included a 2018 Thailand remittance due to regulatory approval timing.\"\n    },\n    {\n      \"block_id\": \"p31_b9\",\n      \"translation\": \"We raised $2,792M under our global medium-term note program & paid $839M for CMLA acquisition.\"\n    },\n    {\n      \"block_id\": \"p31_b10\",\n      \"translation\": \"Working capital movements summary:\"\n    },\n    {\n      \"block_id\": \"p31_b11\",\n      \"translation\": \"USD millions\\n2020\\n2019\"\n    },\n    {\n      \"block_id\": \"p31_b12\",\n      \"translation\": \"Opening WC\\n13,471\\n10,296\"\n    },\n    {\n      \"block_id\": \"p31_b13\",\n      \"translation\": \"Group center result(1)\\n42\\n(3)\"\n    },\n    {\n      \"block_id\": \"p31_b14\",\n      \"translation\": \"Net remittances from units\"\n    },\n    {\n      \"block_id\": \"p31_b15\",\n      \"translation\": \"HK\\n643\\n986\"\n    },\n    {\n      \"block_id\": \"p31_b16\",\n      \"translation\": \"Thailand\\n394\\n1,037\"\n    },\n    {\n      \"block_id\": \"p31_b17\",\n      \"translation\": \"Singapore\\n332\\n295\"\n    },\n    {\n      \"block_id\": \"p31_b18\",\n      \"translation\": \"Malaysia\\n97\\n176\"\n    },\n    {\n      \"block_id\": \"p31_b19\",\n      \"translation\": \"Mainland China\\n1,139\\n1,022\"\n    },\n    {\n      \"block_id\": \"p31_b20\",\n      \"translation\": \"Other markets\\n71\\n214\"\n    },\n    {\n      \"block_id\": \"p31_b21\",\n      \"translation\": \"Net remittances to group\\n2,676\\n3,730\"\n    },\n    {\n      \"block_id\": \"p31_b22\",\n      \"translation\": \"CMLA acquisition payment\\n(839)\\n(344)\"\n    },\n    {\n      \"block_id\": \"p31_b23\",\n      \"translation\": \"Borrowing increase\\n2,792\\n797\"\n    },\n    {\n      \"block_id\": \"p31_b24\",\n      \"translation\": \"Employee share trust shares\\n(16)\\n(21)\"\n    },\n    {\n      \"block_id\": \"p31_b25\",\n      \"translation\": \"Dividends paid\\n(1,997)\\n(1,961)\"\n    },\n    {\n      \"block_id\": \"p31_b26\",\n      \"translation\": \"Debt securities FV & other(1)\\n1,040\\n977\"\n    },\n    {\n      \"block_id\": \"p31_b27\",\n      \"translation\": \"Closing WC\\n17,169\\n13,471\"\n    },\n    {\n      \"block_id\": \"p31_b29\",\n      \"translation\": \"2020 Report 029\"\n    }\n  ]\n}\n```",
+      "type": "text"
+    }
+  ],
+  "conversationId": "1594b15a-062d-40df-bbf5-ca1cfd081b79",
+  "conversation_id": "1594b15a-062d-40df-bbf5-ca1cfd081b79",
+  "id": "1594b15a-062d-40df-bbf5-ca1cfd081b79",
+  "model": "claude-3-5-sonnet-20241022",
+  "role": "assistant",
+  "stop_reason": "end_turn",
+  "type": "message",
+  "usage": {
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 4644,
+    "output_tokens": 1019
+  }
+}

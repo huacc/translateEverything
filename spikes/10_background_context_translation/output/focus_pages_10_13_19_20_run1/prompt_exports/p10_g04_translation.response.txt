@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p10_g04",
+      "translation": "Due to control measures related to COVID-19 impacting new business sales, New Business Value declined to US$2.765 billion. We rapidly adopted innovative digital tools to enhance operational efficiency, and with the recent relaxation of movement restrictions, sales momentum experienced strong recovery, which continued into early 2021."
+    }
+  ]
+}
+```

@@ -1,0 +1,85 @@
+文档场景：上市公司企业年报。
+请优先复用 document_background 和 matched_terms 中提供的标准写法。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "direction": "Traditional Chinese -> English"
+  },
+  "document_background": {
+    "global_profile": {
+      "company_name_target": "AIA GROUP LIMITED",
+      "industry": "Life Insurance",
+      "report_type": "annual_report",
+      "report_year": 2020
+    },
+    "term_usage_mode": "table",
+    "page_sections": [
+      {
+        "source_section": "集團首席財務總監回顧",
+        "target_section": "Group Chief Financial Officer's Review",
+        "content_type": "cfo_review",
+        "page_range": [
+          18,
+          30
+        ]
+      }
+    ],
+    "roles": [],
+    "terms": [
+      {
+        "source": "內涵價值營運溢利",
+        "target": "EV operating profit"
+      },
+      {
+        "source": "內涵價值",
+        "target": "EV"
+      }
+    ],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "Use established financial abbreviations for table labels when provided.",
+      "Keep row and column semantics unchanged.",
+      "Use n/m for 無意義."
+    ]
+  },
+  "matched_terms": [
+    {
+      "source": "內涵價值營運溢利",
+      "target": "EV operating profit"
+    },
+    {
+      "source": "內涵價值",
+      "target": "EV"
+    }
+  ],
+  "current_unit": {
+    "page_no": 19,
+    "unit_id": "p19_g03",
+    "unit_mode": "semantic_group",
+    "block_types": [
+      "body",
+      "body"
+    ],
+    "blocks": [
+      {
+        "block_id": "p19_b10",
+        "source_text": "原因在於內涵價值營運溢利72.43億美元抵銷了政府債券收益率下降的影響。內涵價值營運溢利包括來自正面營"
+      },
+      {
+        "block_id": "p19_b11",
+        "source_text": "運差異5.49億美元，原因在於與我們的內涵價值假設相比，我們的整體經驗持續維持正面。"
+      }
+    ],
+    "joined_source_text": "原因在於內涵價值營運溢利72.43億美元抵銷了政府債券收益率下降的影響。內涵價值營運溢利包括來自正面營\n運差異5.49億美元，原因在於與我們的內涵價值假設相比，我們的整體經驗持續維持正面。"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p19_g03",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

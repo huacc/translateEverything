@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "compact",
+    "page_no": 19,
+    "unit_id": "p19_g02"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是年报英文压缩器，不是重译器。\n语言方向：Traditional Chinese -> English。\n你的任务只是对已有译文做最小必要压缩，以便回填原版面。\n禁止改变数字、单位、术语、专名、比较关系、主体和结论。\n标题不能改成正文，表头不能改成句子，不能输出口语化表达。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市公司企业年报\n{\n  \"document_background\": {\n    \"page_sections\": [\n      {\n        \"source_section\": \"集團首席財務總監回顧\",\n        \"target_section\": \"Group Chief Financial Officer's Review\",\n        \"content_type\": \"cfo_review\",\n        \"page_range\": [\n          18,\n          30\n        ]\n      }\n    ],\n    \"roles\": [],\n    \"terms\": [\n      {\n        \"source\": \"中國內地訪港旅客\",\n        \"target\": \"Mainland Chinese visitors\"\n      },\n      {\n        \"source\": \"新業務價值\",\n        \"target\": \"VONB\"\n      }\n    ],\n    \"style_rules\": [\n      \"Use US$ for U.S. dollar amounts.\",\n      \"Keep listed-company annual report disclosure tone formal and publishable.\",\n      \"Do not change numbers, percentages, years, named entities or financial metric values.\",\n      \"Use established financial abbreviations for table labels when provided.\",\n      \"Keep row and column semantics unchanged.\",\n      \"Use n/m for 無意義.\"\n    ]\n  },\n  \"current_unit\": {\n    \"page_no\": 19,\n    \"unit_id\": \"p19_g02\",\n    \"unit_mode\": \"semantic_group\",\n    \"slot_count\": 4,\n    \"source_text\": \"團的新業務價值帶來最大貢獻，也是我們第一個顯示銷售勢頭有所恢復的報告分部，原因在於該地區自2020年3\\n月逐步放寬嚴格的封鎖。撇除維持低位的中國內地訪港旅客銷售額，本集團其他分部的新業務價值在下半年強勁\\n復甦，與上半年相比增長了23%。本集團的新業務發展勢頭在2021年持續強勁，首兩個月新業務價值較2020年同\\n期高出15%。\",\n    \"current_translation\": \"contributed the most to the Group's VONB and was the first reporting segment to show signs of recovery in sales momentum, as the region gradually relaxed strict lockdowns from March 2020 onwards. Excluding the subdued Mainland Chinese visitors sales, the Group's other segments' VONB recovered strongly in the second half, growing 23% compared to the first half. The Group's new business momentum remained robust in 2021, with VONB in the first two months 15% higher than the same period in 2020.\"\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p19_g02\",\n        \"translation\": \"<更紧凑译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p19_g02\",\n      \"translation\": \"contributed the most to the Group's VONB and was the first reporting segment showing sales momentum recovery, as the region gradually relaxed strict lockdowns from March 2020. Excluding subdued Mainland Chinese visitors sales, other segments' VONB recovered strongly in the second half, growing 23% versus the first half. The Group's new business momentum remained robust in 2021, with VONB in the first two months 15% higher than the same period in 2020.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "fc8ff730-9aff-4d8b-b68f-7ba05b123c32",
+    "conversation_id": "fc8ff730-9aff-4d8b-b68f-7ba05b123c32",
+    "id": "fc8ff730-9aff-4d8b-b68f-7ba05b123c32",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 843,
+      "output_tokens": 132
+    }
+  }
+}

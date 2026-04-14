@@ -1,0 +1,36 @@
+```json
+{
+  "unit_id": "p20_b8",
+  "page_no": 20,
+  "section_id": "new_business_performance",
+  "content_type": "table_header",
+  "speaker_role": null,
+  "topic_tags": [
+    "financial_metrics",
+    "new_business",
+    "valuation"
+  ],
+  "term_hits": [
+    {
+      "source_term": "新業務價值",
+      "target_term": "New Business Value",
+      "abbreviation": "NBV",
+      "confidence": "high"
+    }
+  ],
+  "needs_context": true,
+  "context_scope": "table",
+  "risk_level": "critical",
+  "risk_flags": [
+    "financial_metric_translation",
+    "currency_notation_consistency",
+    "table_header_alignment"
+  ],
+  "translation_constraints": [
+    "preserve_financial_terminology_consistency",
+    "maintain_currency_unit_notation",
+    "align_with_table_structure",
+    "cross_reference_ifrs_standards"
+  ]
+}
+```

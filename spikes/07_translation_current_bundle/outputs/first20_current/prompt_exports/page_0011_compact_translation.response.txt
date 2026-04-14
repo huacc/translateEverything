@@ -1,0 +1,70 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p11_b1",
+      "translation": "In the fourth quarter of 2020, we celebrated AIA's tenth anniversary of listing on the Hong Kong Stock Exchange. Looking back, AIA's IPO set multiple records and, to this day,"
+    },
+    {
+      "block_id": "p11_b3",
+      "translation": "our business has continued to develop and expand, becoming the world's largest life insurance company by market capitalization."
+    },
+    {
+      "block_id": "p11_b5",
+      "translation": "All non-executive directors of the Board are independent individuals with extensive governance and leadership experience in both public and private sectors. We are committed"
+    },
+    {
+      "block_id": "p11_b6",
+      "translation": "to maintaining a corporate culture that adheres to the highest international corporate governance standards. We firmly believe that a deeply rooted governance culture, combined with sound risk"
+    },
+    {
+      "block_id": "p11_b7",
+      "translation": "management framework, is the foundation for sustainable development of every institution."
+    },
+    {
+      "block_id": "p11_b8",
+      "translation": "One of the Board's key responsibilities is to ensure a strong pipeline of leadership talent and implement effective succession arrangements. We welcomed Mr. Lee Yuen Shing on 1 June 2020"
+    },
+    {
+      "block_id": "p11_b9",
+      "translation": "as Group Chief Executive Officer and President, succeeding Mr. Wong King-fai upon his retirement. On behalf of the Board, I wish to express our deep appreciation"
+    },
+    {
+      "block_id": "p11_b10",
+      "translation": "to Mr. Lee and his management team for their outstanding leadership during this unprecedented environment, enabling us to advance our business. We also extend our heartfelt thanks to Mr. Wong King-fai"
+    },
+    {
+      "block_id": "p11_b12",
+      "translation": "Environmental, social and governance matters are increasingly important globally. We are committed to helping drive society towards a better future, and our environmental,"
+    },
+    {
+      "block_id": "p11_b13",
+      "translation": "social and governance initiatives have been recognised again in 2020. According to Sustainalytics' assessment, AIA ranked second among over 270 insurance companies,"
+    },
+    {
+      "block_id": "p11_b15",
+      "translation": "Inc. (ISS) awarded us the \"Prime\" Environmental, Social and Governance Corporate Rating (ESG Corporate Rating), recognising AIA as a leading performer in sustainable development."
+    },
+    {
+      "block_id": "p11_b21",
+      "translation": "vast opportunities to provide financial protection to our customers and their families when most needed, giving them peace of mind, while creating shared value for all stakeholders."
+    },
+    {
+      "block_id": "p11_b22",
+      "translation": "Finally, it is thanks to the trust of our customers and shareholders that AIA has demonstrated strong and sustained growth since listing. On behalf of the entire Board,"
+    },
+    {
+      "block_id": "p11_b23",
+      "translation": "I wish to express my heartfelt gratitude for your continued support."
+    },
+    {
+      "block_id": "p11_b24",
+      "translation": "Tse Sze Wing"
+    },
+    {
+      "block_id": "p11_b25",
+      "translation": "Independent Non-Executive Chairman"
+    }
+  ]
+}
+```

@@ -1,0 +1,22 @@
+文档场景：上市公司企业年报
+page_no: 20
+unit_id: p20_b3
+unit_mode: single_block
+blocks:
+[
+  {
+    "block_id": "p20_b3",
+    "source_text": "新業務表現"
+  }
+]
+joined_source_text:
+新業務表現
+返回格式:
+{
+  "translations": [
+    {
+      "unit_id": "p20_b3",
+      "translation": "<译文>"
+    }
+  ]
+}

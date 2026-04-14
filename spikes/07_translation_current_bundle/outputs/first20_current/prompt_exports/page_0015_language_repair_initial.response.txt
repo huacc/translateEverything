@@ -1,0 +1,22 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p15_b6",
+      "translation": "The Group's flagship leadership development program features over 100 fully virtualized learning modules. Participants provided highly positive feedback on these virtual learning courses."
+    },
+    {
+      "block_id": "p15_b7",
+      "translation": "The feedback was comparable to that from previous face-to-face learning participants."
+    },
+    {
+      "block_id": "p15_b12",
+      "translation": "Over the coming decades, the program will sponsor 100 undergraduate students annually from multiple universities in Hong Kong to cultivate the next generation of business leaders."
+    },
+    {
+      "block_id": "p15_b24",
+      "translation": "The portfolio comprises over 1,400 companies and engages more than 30 external investment managers to influence how they manage climate change risks and address climate issues."
+    }
+  ]
+}
+```

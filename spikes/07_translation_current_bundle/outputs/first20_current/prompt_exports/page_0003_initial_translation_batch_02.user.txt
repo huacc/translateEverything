@@ -1,0 +1,30 @@
+﻿请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。
+要求高保真、正式、可出版，不要摘要，不要解释。
+术语表和动态文档背景优先于自由翻译。
+只输出严格 JSON。
+{
+  "page_no": 3,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "relevant_terms": [],
+  "blocks": [
+    {
+      "block_id": "p3_b9",
+      "block_type": "body",
+      "source_text": "於2020年內，我們已支付\n逾160億美元\n的保險給付和理賠，\n為客戶提供必不可少的\n財務支援",
+      "line_count": 5,
+      "char_count": 47,
+      "region": "middle",
+      "font_size_avg": 16.28
+    },
+    {
+      "block_id": "p3_b10",
+      "block_type": "body",
+      "source_text": "為亞洲大眾提供保障，\n總保額接近\n2萬億美元\n18個市場",
+      "line_count": 4,
+      "char_count": 28,
+      "region": "middle",
+      "font_size_avg": 30.85
+    }
+  ]
+}

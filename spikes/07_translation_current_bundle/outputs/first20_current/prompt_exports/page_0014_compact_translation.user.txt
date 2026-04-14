@@ -1,0 +1,370 @@
+﻿以下文本块版面过紧。请在不改变核心含义和正式风格的前提下，仅做最小必要压缩。
+不要摘要，不要解释，只输出严格 JSON。
+{
+  "page_no": 14,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "problem_blocks": [
+    {
+      "block_id": "p14_b4",
+      "block_type": "body",
+      "source_text": "友邦保險中國業務在2020年為本集團新業務價值帶來最大貢獻，並在2021年初表現卓越，與2020年同期比較，",
+      "current_translation": "AIA's Mainland China business made the largest contribution to the Group's new business value in 2020 and performed excellently in early 2021, with a significant increase in new business value recorded in the first two months of the year compared with the same period in 2020,",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.499,
+      "line_count": 1,
+      "char_count": 54,
+      "bbox": [
+        73.7,
+        126.47,
+        527.26,
+        138.65
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p14_b6",
+      "block_type": "body",
+      "source_text": "要由於2019冠狀病毒病在首季爆發初期新銷售有限所致。年內稅後營運溢利增長14%，主要是由於我們日益增長",
+      "current_translation": "due to limited new sales in the early stages of the COVID-19 outbreak in the first quarter. Operating profit after tax increased by 14% during the year, primarily due to our growing",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.784,
+      "line_count": 1,
+      "char_count": 52,
+      "bbox": [
+        73.7,
+        158.7,
+        527.24,
+        170.65
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p14_b8",
+      "block_type": "body",
+      "source_text": "在2020年，我們成功獲得監管機搆批復，將上海分公司改建為中國內地首家外資獨資人身保險子公司。於2021年",
+      "current_translation": "In 2020, we successfully obtained regulatory approval to convert our Shanghai branch into Mainland China's first wholly foreign-owned life insurance subsidiary. In March 2021,",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.792,
+      "line_count": 1,
+      "char_count": 53,
+      "bbox": [
+        73.7,
+        206.7,
+        527.25,
+        218.66
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p14_b9",
+      "block_type": "body",
+      "source_text": "3月，我們已獲得中國銀行保險監督委員會批復，准予在四川省開業。四川省是中國內地以國內生產總值計的",
+      "current_translation": "we received approval from the China Banking and Insurance Regulatory Commission to commence operations in Sichuan Province. Sichuan Province is the sixth largest province in Mainland China by gross domestic product",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.597,
+      "line_count": 1,
+      "char_count": 48,
+      "bbox": [
+        73.7,
+        222.71,
+        529.77,
+        234.66
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p14_b11",
+      "block_type": "body",
+      "source_text": "香港在2020年2月初實施旅遊限制，來自中國內地訪港旅客的新業務銷售實際上已經停頓，導致新業務價值大幅",
+      "current_translation": "Hong Kong implemented travel restrictions in early February 2020, and new business sales from Mainland China visitors to Hong Kong effectively came to a halt, resulting in a significant decline in new business value.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.645,
+      "line_count": 1,
+      "char_count": 51,
+      "bbox": [
+        73.7,
+        270.49,
+        527.25,
+        282.66
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p14_b12",
+      "block_type": "body",
+      "source_text": "下降。與上半年比較，我們的代理分銷來自本地客戶的業務於下半年錄得雙位數字的銷售增長，維持顯著的市場",
+      "current_translation": "Compared with the first half of the year, our agency distribution channel recorded double-digit sales growth from local customers in the second half, maintaining a significant market leadership position.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.669,
+      "line_count": 1,
+      "char_count": 49,
+      "bbox": [
+        73.7,
+        286.71,
+        527.12,
+        298.67
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p14_b13",
+      "block_type": "body",
+      "source_text": "領導地位。夥伴分銷渠道的新業務價值顯著低於2019年，乃由於透過零售獨立財務顧問渠道的中國內地訪港旅客",
+      "current_translation": "The new business value from the partnership distribution channel was significantly lower than 2019, primarily due to the higher proportion of sales historically generated through the retail independent financial adviser channel from Mainland China visitors to Hong Kong.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.519,
+      "line_count": 1,
+      "char_count": 51,
+      "bbox": [
+        73.7,
+        302.72,
+        527.24,
+        314.67
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p14_b15",
+      "block_type": "body",
+      "source_text": "友邦保險泰國業務在下半年錄得非常強勁的表現。儘管新業務價值全年下降4%，但隨著外出限制放寬，按月表",
+      "current_translation": "AIA's Thailand business recorded very strong performance in the second half. Although new business value declined by 4% for the full year, as restrictions on movement eased, monthly performance demonstrated positive momentum, with new business value in the second half recording 33% growth compared with the first half.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.444,
+      "line_count": 1,
+      "char_count": 49,
+      "bbox": [
+        73.7,
+        350.5,
+        527.26,
+        362.67
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p14_b16",
+      "block_type": "body",
+      "source_text": "現已展現正面動力，而下半年新業務價值較上半年錄得33%的增長。",
+      "current_translation": "Positive momentum has been demonstrated, with new business value in the second half of the year recording 33% growth compared to the first half.",
+      "translation_source": "model_repair_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.569,
+      "line_count": 1,
+      "char_count": 31,
+      "bbox": [
+        73.7,
+        366.72,
+        349.15,
+        378.68
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p14_b17",
+      "block_type": "body",
+      "source_text": "新加坡業務下半年亦有卓越的好轉，與上半年比較，新業務價值上升56%，按年則上升12%。新業務價值全年",
+      "current_translation": "Singapore's business also showed excellent improvement in the second half, with new business value increasing 56% compared to the first half and 12% year-on-year. New business value for the full year",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.69,
+      "line_count": 1,
+      "char_count": 50,
+      "bbox": [
+        73.7,
+        398.5,
+        529.77,
+        410.68
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p14_b20",
+      "block_type": "body",
+      "source_text": "馬來西亞方面，新業務價值全年下降13%，特別反映在上半年嚴格執行的外出限制。下半年新業務價值回升，較",
+      "current_translation": "In Malaysia, new business value declined 13% for the full year, particularly reflecting the strict movement restrictions enforced in the first half. New business value recovered in the second half, growing",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.696,
+      "line_count": 1,
+      "char_count": 50,
+      "bbox": [
+        73.7,
+        462.51,
+        527.13,
+        474.69
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p14_b21",
+      "block_type": "label",
+      "source_text": "上半年增長72%。",
+      "current_translation": "72% compared to the first half.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.696,
+      "line_count": 1,
+      "char_count": 9,
+      "bbox": [
+        73.7,
+        478.74,
+        146.2,
+        490.69
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p14_b22",
+      "block_type": "body",
+      "source_text": "其他市場方面，下半年的新業務價值較上半年上升10%，其中南韓和印尼的回升幅度正面。整體來說，新業務價",
+      "current_translation": "In other markets, new business value in the second half increased 10% compared to the first half, with positive recoveries in South Korea and Indonesia. Overall, new business value",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.766,
+      "line_count": 1,
+      "char_count": 50,
+      "bbox": [
+        73.7,
+        510.52,
+        527.16,
+        522.69
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p14_b23",
+      "block_type": "body",
+      "source_text": "值全年下降4%，主要由於新西蘭、菲律賓及印尼錄得跌幅。其餘的市場均錄得新業務價值正增長，其中越南、",
+      "current_translation": "declined 4% for the full year, primarily due to declines recorded in New Zealand, the Philippines and Indonesia. The remaining markets all recorded positive new business value growth, with Vietnam,",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.702,
+      "line_count": 1,
+      "char_count": 49,
+      "bbox": [
+        73.7,
+        526.74,
+        527.32,
+        538.7
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p14_b25",
+      "block_type": "body",
+      "source_text": "代理渠道方面，我們轉移使用線上招聘和入職培訓的趨勢，支持新入職代理及代理主管人數錄得雙位數字增長。",
+      "current_translation": "On the agency channel front, we shifted to leveraging online recruitment and onboarding practices, which supported double-digit growth in both new recruits and agency managers.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.775,
+      "line_count": 1,
+      "char_count": 49,
+      "bbox": [
+        73.7,
+        574.53,
+        527.12,
+        586.7
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p14_b26",
+      "block_type": "body",
+      "source_text": "雖然疫情大流行期間面對面會議受到限制，導致新業務價值下降28%，但隨著限制放寬，加上各業務採用新的數",
+      "current_translation": "Although face-to-face meetings were restricted during the pandemic, resulting in a 28% decline in new business value, as restrictions eased and businesses adopted new digital",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.789,
+      "line_count": 1,
+      "char_count": 50,
+      "bbox": [
+        73.7,
+        590.75,
+        527.2,
+        602.7
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p14_b27",
+      "block_type": "body",
+      "source_text": "碼工具，新業務價值在下半年已強勁回升。正面銷售動力延續至2021年，與2020年同期比較，代理業務在首兩",
+      "current_translation": "tools, new business value rebounded strongly in the second half. Positive sales momentum continued into 2021, with agency business recording exceptionally strong new business value growth in the first two",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.67,
+      "line_count": 1,
+      "char_count": 52,
+      "bbox": [
+        73.7,
+        606.75,
+        527.22,
+        618.71
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p14_b29",
+      "block_type": "body",
+      "source_text": "中國內地訪港旅客的旅遊限制影響我們的零售獨立財務顧問業務，導致夥伴業務於2020年的新業務價值下降",
+      "current_translation": "Travel restrictions on Mainland China visitors to Hong Kong impacted our retail independent financial adviser business, resulting in a 41% decline in new business value from partnership distribution in 2020.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.674,
+      "line_count": 1,
+      "char_count": 49,
+      "bbox": [
+        73.7,
+        654.54,
+        527.26,
+        666.71
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p14_b32",
+      "block_type": "body",
+      "source_text": "Berhad（大眾銀行）的銀行保險夥伴合作，在2020年均錄得新業務價值正增長。",
+      "current_translation": "Berhad (Public Bank) in Malaysia through bancassurance partnerships, both recorded positive new business value growth in 2020.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.755,
+      "line_count": 1,
+      "char_count": 40,
+      "bbox": [
+        73.69,
+        702.77,
+        395.5,
+        714.72
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    }
+  ]
+}

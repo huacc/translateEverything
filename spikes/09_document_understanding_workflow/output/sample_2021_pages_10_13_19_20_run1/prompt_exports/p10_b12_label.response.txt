@@ -1,0 +1,23 @@
+```json
+{
+  "unit_id": "p10_b12",
+  "page_no": 10,
+  "section_id": "chairman_statement",
+  "content_type": "narrative_body",
+  "speaker_role": "chairman",
+  "topic_tags": [
+    "customer_service",
+    "corporate_commitment",
+    "stakeholder_support"
+  ],
+  "term_hits": [],
+  "needs_context": true,
+  "context_scope": "section",
+  "risk_level": "low",
+  "risk_flags": [],
+  "translation_constraints": [
+    "preserve_formal_register",
+    "maintain_mission_statement_tone"
+  ]
+}
+```

@@ -1,0 +1,30 @@
+文档场景：上市公司企业年报
+page_no: 20
+unit_id: p20_b7
+unit_mode: single_block
+blocks:
+[
+  {
+    "block_id": "p20_b7",
+    "source_text": "新業務\n價值\n利潤率\n年化\n新保費\n按年變動\n（固定匯率）\n按年變動\n（實質匯率）"
+  }
+]
+joined_source_text:
+新業務
+價值
+利潤率
+年化
+新保費
+按年變動
+（固定匯率）
+按年變動
+（實質匯率）
+返回格式:
+{
+  "translations": [
+    {
+      "unit_id": "p20_b7",
+      "translation": "<译文>"
+    }
+  ]
+}

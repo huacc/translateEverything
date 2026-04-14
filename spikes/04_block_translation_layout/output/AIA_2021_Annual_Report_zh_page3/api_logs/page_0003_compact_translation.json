@@ -1,0 +1,21 @@
+{
+  "content": [
+    {
+      "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p3_b2\",\n      \"translation\": \"Million Dollar\\nRound Table\\nGlobal Leader\"\n    },\n    {\n      \"block_id\": \"p3_b3\",\n      \"translation\": \"HQ in Hong Kong,\\nlisted in Hong Kong,\\n100% Asia-focused\"\n    },\n    {\n      \"block_id\": \"p3_b4\",\n      \"translation\": \"Largest company\\nlisted on HKEX,\\nregistered & HQ\\nin Hong Kong\"\n    },\n    {\n      \"block_id\": \"p3_b5\",\n      \"translation\": \"Only multinational\\nleading MDRT\\nmembership 6 years\"\n    },\n    {\n      \"block_id\": \"p3_b6\",\n      \"translation\": \"International life\\ninsurer\"\n    },\n    {\n      \"block_id\": \"p3_b7\",\n      \"translation\": \"Operations Span\"\n    },\n    {\n      \"block_id\": \"p3_b8\",\n      \"translation\": \"Over 38M individual\\npolicyholders and\\n16M group insurance\\nparticipants\"\n    },\n    {\n      \"block_id\": \"p3_b9\",\n      \"translation\": \"2020: USD 16B in\\nbenefits and claims\\npaid to customers\"\n    },\n    {\n      \"block_id\": \"p3_b10\",\n      \"translation\": \"USD 2 trillion\\ncoverage across\\n18 Asian markets\"\n    },\n    {\n      \"block_id\": \"p3_b11\",\n      \"translation\": \"2020 Annual\\nReport 001\"\n    }\n  ]\n}\n```",
+      "type": "text"
+    }
+  ],
+  "conversationId": "f7566ce4-4c00-4442-8da6-99330f7a56fb",
+  "conversation_id": "f7566ce4-4c00-4442-8da6-99330f7a56fb",
+  "id": "f7566ce4-4c00-4442-8da6-99330f7a56fb",
+  "model": "claude-3-5-sonnet-20241022",
+  "role": "assistant",
+  "stop_reason": "end_turn",
+  "type": "message",
+  "usage": {
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1913,
+    "output_tokens": 374
+  }
+}

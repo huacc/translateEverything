@@ -1,0 +1,89 @@
+﻿请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。
+要求高保真、正式、可出版，不要摘要，不要解释。
+术语表和动态文档背景优先于自由翻译。
+只输出严格 JSON。
+{
+  "page_no": 2,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "relevant_terms": [
+    {
+      "source": "內涵價值",
+      "target": "embedded value"
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "p2_b61",
+      "block_type": "label",
+      "source_text": "總資產值為3,260億美元。",
+      "line_count": 1,
+      "char_count": 14,
+      "region": "middle",
+      "font_size_avg": 8.27
+    },
+    {
+      "block_id": "p2_b62",
+      "block_type": "label",
+      "source_text": "265 內涵價值補充資料的\n獨立核數師報告",
+      "line_count": 2,
+      "char_count": 21,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p2_b63",
+      "block_type": "label",
+      "source_text": "269 內涵價值補充資料",
+      "line_count": 1,
+      "char_count": 12,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p2_b65",
+      "block_type": "label",
+      "source_text": "295 股東參考資料",
+      "line_count": 1,
+      "char_count": 10,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p2_b66",
+      "block_type": "label",
+      "source_text": "298 公司資料",
+      "line_count": 1,
+      "char_count": 8,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p2_b67",
+      "block_type": "label",
+      "source_text": "299 詞彙",
+      "line_count": 1,
+      "char_count": 6,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p2_b68",
+      "block_type": "footer",
+      "source_text": "附註：",
+      "line_count": 1,
+      "char_count": 3,
+      "region": "bottom",
+      "font_size_avg": 7.0
+    },
+    {
+      "block_id": "p2_b69",
+      "block_type": "footer",
+      "source_text": "(1) 本報告所使用的若干詞彙的解釋和縮寫已列明於詞彙章節。",
+      "line_count": 1,
+      "char_count": 30,
+      "region": "bottom",
+      "font_size_avg": 7.0
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "content": [
+    {
+      "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p42_b1\",\n      \"translation\": \"Financial & Operational Review\"\n    },\n    {\n      \"block_id\": \"p42_b2\",\n      \"translation\": \"Business Review\"\n    },\n    {\n      \"block_id\": \"p42_b3\",\n      \"translation\": \"Overview & Key Business Summary\"\n    },\n    {\n      \"block_id\": \"p42_b4\",\n      \"translation\": \"In 2020, AIA navigated COVID-19 challenges. Our priority was ensuring employee safety while serving customers, agents and partners.\"\n    },\n    {\n      \"block_id\": \"p42_b5\",\n      \"translation\": \"Business momentum recovered. First two months of 2021 saw new business value grow 15% vs 2020.\"\n    },\n    {\n      \"block_id\": \"p42_b6\",\n      \"translation\": \"Containment measures restricted face-to-face sales, so we accelerated online and remote sales tools.\"\n    },\n    {\n      \"block_id\": \"p42_b7\",\n      \"translation\": \"All AIA agents and bancassurance channels now sell remotely.\"\n    },\n    {\n      \"block_id\": \"p42_b8\",\n      \"translation\": \"As restrictions eased, these tools supported sales recovery across markets.\"\n    },\n    {\n      \"block_id\": \"p42_b9\",\n      \"translation\": \"Distribution\"\n    },\n    {\n      \"block_id\": \"p42_b10\",\n      \"translation\": \"Agent channel: Double-digit growth in new recruits via online recruitment and onboarding.\"\n    },\n    {\n      \"block_id\": \"p42_b11\",\n      \"translation\": \"Pandemic restrictions cut 2020 new business value 28%. Recovery accelerated in 2021 with digital tools.\"\n    },\n    {\n      \"block_id\": \"p42_b13\",\n      \"translation\": \"Agent channel recorded very strong year-on-year growth in first two months of 2021.\"\n    },\n    {\n      \"block_id\": \"p42_b15\",\n      \"translation\": \"China business grew strongly in 2021. 2020 new business value USD 968M declined 17% from 2019 due to early COVID impact. Contributed largest share to Group new business value.\"\n    },\n    {\n      \"block_id\": \"p42_b16\",\n      \"translation\": \"Hong Kong: Mainland visitor sales halted Feb 2020, declining new business value. After-tax operating profit up 10%. Macau resumed visitor scheme Sept 2020, supporting recovery.\"\n    },\n    {\n      \"block_id\": \"p42_b17\",\n      \"translation\": \"Thailand excelled in H2, new business value up 33% vs H1. Full-year declined 4% but showed positive momentum as restrictions eased.\"\n    },\n    {\n      \"block_id\": \"p42_b18\",\n      \"translation\": \"Bangkok Bank, BCA Indonesia, and Public Bank Malaysia all recorded year-on-year growth.\"\n    }\n  ]\n}\n```",
+      "type": "text"
+    }
+  ],
+  "conversationId": "6a6d14b4-6317-4e2b-adfb-6d397da00529",
+  "conversation_id": "6a6d14b4-6317-4e2b-adfb-6d397da00529",
+  "id": "6a6d14b4-6317-4e2b-adfb-6d397da00529",
+  "model": "claude-3-5-sonnet-20241022",
+  "role": "assistant",
+  "stop_reason": "end_turn",
+  "type": "message",
+  "usage": {
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 3441,
+    "output_tokens": 653
+  }
+}

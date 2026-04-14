@@ -1,0 +1,66 @@
+﻿以下文本块版面过紧。请在不改变核心含义和正式风格的前提下，仅做最小必要压缩。
+不要摘要，不要解释，只输出严格 JSON。
+{
+  "page_no": 5,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "problem_blocks": [
+    {
+      "block_id": "p5_b2",
+      "block_type": "body",
+      "source_text": "於2020年，2019冠狀病毒病為我們的社區帶來前所未見的",
+      "current_translation": "In 2020, the COVID-19 pandemic brought unprecedented challenges to our communities.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.782,
+      "line_count": 1,
+      "char_count": 29,
+      "bbox": [
+        261.73,
+        366.03,
+        514.85,
+        379.07
+      ],
+      "font_size_avg": 10.0,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p5_b3",
+      "block_type": "label",
+      "source_text": "風險。我們作出迅速和全面的應對，包括為我們的社區",
+      "current_translation": "We responded swiftly and comprehensively, including providing medical supplies to our communities",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.692,
+      "line_count": 1,
+      "char_count": 24,
+      "bbox": [
+        261.73,
+        384.03,
+        514.98,
+        397.07
+      ],
+      "font_size_avg": 10.0,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p5_b4",
+      "block_type": "label",
+      "source_text": "提供醫療物資，並為前線醫護和清潔人員提供免費保險",
+      "current_translation": "and offering free insurance protection to frontline healthcare workers and sanitation personnel",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.746,
+      "line_count": 1,
+      "char_count": 24,
+      "bbox": [
+        261.73,
+        402.03,
+        514.98,
+        415.07
+      ],
+      "font_size_avg": 10.0,
+      "suggested_font": "F_ARIALNB"
+    }
+  ]
+}

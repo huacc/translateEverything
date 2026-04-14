@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "compact",
+    "page_no": 19,
+    "unit_id": "p19_g05"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是年报英文压缩器，不是重译器。\n语言方向：Traditional Chinese -> English。\n你的任务只是对已有译文做最小必要压缩，以便回填原版面。\n禁止改变数字、单位、术语、专名、比较关系、主体和结论。\n标题不能改成正文，表头不能改成句子，不能输出口语化表达。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市公司企业年报\n{\n  \"document_background\": {\n    \"page_sections\": [\n      {\n        \"target_section\": \"Group Chief Financial Officer's Review\",\n        \"content_type\": \"cfo_review\",\n        \"page_range\": [\n          18,\n          30\n        ]\n      },\n      {\n        \"target_section\": \"Financial and Operating Review\",\n        \"content_type\": \"financial_review\",\n        \"page_range\": [\n          17,\n          30\n        ]\n      }\n    ],\n    \"roles\": [],\n    \"terms\": [\n      {\n        \"source\": \"自由盈餘\",\n        \"target\": \"Free Surplus\",\n        \"abbreviation\": \"\",\n        \"context\": \"capital_metric\",\n        \"confidence\": \"high\"\n      },\n      {\n        \"source\": \"有效保單\",\n        \"target\": \"In-Force Business\",\n        \"abbreviation\": \"\",\n        \"context\": \"business_metric\",\n        \"confidence\": \"high\"\n      }\n    ],\n    \"style_rules\": [\n      \"Preserve financial terminology consistency\",\n      \"Use formal corporate register throughout\",\n      \"Maintain parallel structure in lists and tables\",\n      \"Preserve table structure and alignment\",\n      \"Translate table headers consistently with body text\",\n      \"Maintain footnote references and numbering\",\n      \"Convert currency units with precision\"\n    ]\n  },\n  \"current_unit\": {\n    \"page_no\": 19,\n    \"unit_id\": \"p19_g05\",\n    \"unit_mode\": \"semantic_group\",\n    \"slot_count\": 2,\n    \"source_text\": \"產生的基本自由盈餘為58.43億美元，增長了7%，是由我們有效保單組合的持續增長和我們對此積極管理所帶\\n動，這足以抵銷預期投資回報降低的影響。於2020年12月31日，本集團的財務狀況仍然十分強勁，於派付股息\",\n    \"current_translation\": \"The underlying Free Surplus generated was USD 5.843 billion, an increase of 7%, driven by the continued growth of our in-force portfolio and our active management thereof, which was sufficient to offset the impact of lower expected investment returns. As at 31 December 2020, the Group's financial position remained robust, with respect to dividend payments\"\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p19_g05\",\n        \"translation\": \"<更紧凑译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p19_g05\",\n      \"translation\": \"The underlying Free Surplus generated was USD 5.843 billion, up 7%, driven by continued growth in our in-force portfolio and active management thereof, offsetting lower expected investment returns. As at 31 December 2020, the Group's financial position remained robust regarding dividend payments\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "a12eadff-3b56-413b-b034-5a8852743819",
+    "conversation_id": "a12eadff-3b56-413b-b034-5a8852743819",
+    "id": "a12eadff-3b56-413b-b034-5a8852743819",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 755,
+      "output_tokens": 92
+    }
+  }
+}

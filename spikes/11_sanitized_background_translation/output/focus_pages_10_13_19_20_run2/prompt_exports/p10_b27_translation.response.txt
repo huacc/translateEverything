@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p10_b27",
+      "translation": "and a progressive dividend policy, which enable the Group to capitalize on future growth opportunities while maintaining financial flexibility."
+    }
+  ]
+}
+```

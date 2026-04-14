@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p20_g01",
+      "translation": "Adjustments for consolidation provisions and capital requirements (103) N/M N/M (87) N/M N/M N/M N/M After-tax value of unallocated group HQ expenses (161) N/M N/M (154) N/M N/M N/M N/M"
+    }
+  ]
+}
+```

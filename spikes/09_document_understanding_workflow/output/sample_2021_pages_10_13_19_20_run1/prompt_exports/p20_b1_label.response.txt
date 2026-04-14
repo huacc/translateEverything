@@ -1,0 +1,24 @@
+```json
+{
+  "unit_id": "p20_b1",
+  "page_no": 20,
+  "section_id": "financial_and_operating_review",
+  "content_type": "section_heading",
+  "speaker_role": null,
+  "topic_tags": [
+    "financial_performance",
+    "operational_metrics",
+    "business_review"
+  ],
+  "term_hits": [],
+  "needs_context": false,
+  "context_scope": null,
+  "risk_level": "low",
+  "risk_flags": [],
+  "translation_constraints": [
+    "Use Title Case for section heading",
+    "Maintain hierarchical structure consistency",
+    "Preserve as established section mapping: 財務及營運回顧 → Financial and Operating Review"
+  ]
+}
+```

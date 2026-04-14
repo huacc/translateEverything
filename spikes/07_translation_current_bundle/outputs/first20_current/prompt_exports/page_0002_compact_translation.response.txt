@@ -1,0 +1,142 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p2_b5",
+      "translation": "006 Financial Summary"
+    },
+    {
+      "block_id": "p2_b7",
+      "translation": "008 Chairman's Statement"
+    },
+    {
+      "block_id": "p2_b11",
+      "translation": "016 Group CFO's Review"
+    },
+    {
+      "block_id": "p2_b12",
+      "translation": "040 Business Review"
+    },
+    {
+      "block_id": "p2_b13",
+      "translation": "056 Risk Management"
+    },
+    {
+      "block_id": "p2_b14",
+      "translation": "062 Regulatory and International Development"
+    },
+    {
+      "block_id": "p2_b18",
+      "translation": "069 Directors' Responsibility Statement"
+    },
+    {
+      "block_id": "p2_b22",
+      "translation": "070 Board of Directors"
+    },
+    {
+      "block_id": "p2_b23",
+      "translation": "covering life, accident and health insurance and savings plans,"
+    },
+    {
+      "block_id": "p2_b24",
+      "translation": "independent listed life insurance group in the Pan-Asia region,"
+    },
+    {
+      "block_id": "p2_b25",
+      "translation": "078 Executive Committee"
+    },
+    {
+      "block_id": "p2_b26",
+      "translation": "to meet individual customers' long-term savings and protection needs"
+    },
+    {
+      "block_id": "p2_b27",
+      "translation": "across 18 markets, including Mainland China, Hong Kong"
+    },
+    {
+      "block_id": "p2_b29",
+      "translation": "083 Board of Directors' Report"
+    },
+    {
+      "block_id": "p2_b30",
+      "translation": "Special Administrative Region, Thailand, Singapore, Malaysia,"
+    },
+    {
+      "block_id": "p2_b32",
+      "translation": "096 Corporate Governance Report"
+    },
+    {
+      "block_id": "p2_b35",
+      "translation": "110 Remuneration Report"
+    },
+    {
+      "block_id": "p2_b37",
+      "translation": "agency, partnership and employee networks, serving over 38 million"
+    },
+    {
+      "block_id": "p2_b38",
+      "translation": "Brunei, Macau Special Administrative Region and New Zealand own"
+    },
+    {
+      "block_id": "p2_b43",
+      "translation": "125 Independent Auditors' Report"
+    },
+    {
+      "block_id": "p2_b45",
+      "translation": "132 Consolidated Income Statement"
+    },
+    {
+      "block_id": "p2_b46",
+      "translation": "AIA Group Limited is listed on the Main Board of The Stock Exchange of"
+    },
+    {
+      "block_id": "p2_b47",
+      "translation": "133 Consolidated Statement of Comprehensive Income"
+    },
+    {
+      "block_id": "p2_b48",
+      "translation": "AIA's business achievements today trace back to its origins in Shanghai"
+    },
+    {
+      "block_id": "p2_b49",
+      "translation": "Hong Kong Limited (stock code: 1299); its American Depositary Shares (Level 1) are"
+    },
+    {
+      "block_id": "p2_b50",
+      "translation": "134 Consolidated Statement of Financial Position"
+    },
+    {
+      "block_id": "p2_b53",
+      "translation": "136 Consolidated Statement of Changes in Equity"
+    },
+    {
+      "block_id": "p2_b54",
+      "translation": "By life insurance premiums, the Group is a leader in Asia (excluding Japan)"
+    },
+    {
+      "block_id": "p2_b56",
+      "translation": "138 Consolidated Cash Flow Statement"
+    },
+    {
+      "block_id": "p2_b60",
+      "translation": "leadership position. As at 31 December 2020, the Group"
+    },
+    {
+      "block_id": "p2_b63",
+      "translation": "269 Embedded Value Supplementary Information"
+    },
+    {
+      "block_id": "p2_b65",
+      "translation": "295 Shareholder Information"
+    },
+    {
+      "block_id": "p2_b66",
+      "translation": "298 Corporate Information"
+    },
+    {
+      "block_id": "p2_b67",
+      "translation": "299 Glossary"
+    }
+  ]
+}
+```

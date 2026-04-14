@@ -1,0 +1,121 @@
+[
+  {
+    "page_no": 10,
+    "text_block_count": 28,
+    "rule_resolved_count": 3,
+    "model_resolved_count": 25,
+    "compact_retry_count": 13,
+    "fit_summary": {
+      "font_shrink": 18,
+      "ok": 10
+    },
+    "translation_source_summary": {
+      "glossary_exact": 2,
+      "model_initial": 11,
+      "model_compact": 13,
+      "model_repair_initial": 1,
+      "glossary_linewise": 1
+    },
+    "original": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_focus_v8_company_memory_batched\\original\\page_0010_original.png",
+    "redacted": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_focus_v8_company_memory_batched\\redacted\\page_0010_redacted.png",
+    "translated": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_focus_v8_company_memory_batched\\translated\\page_0010_translated.png",
+    "comparison": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_focus_v8_company_memory_batched\\comparison\\page_0010_translation_comparison.png",
+    "document_context": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_focus_v8_company_memory_batched\\document_context.json",
+    "company_memory": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\06_company_memory_learning\\output\\AIA_excl_2021_v4\\company_memory.json",
+    "status": "ok"
+  },
+  {
+    "page_no": 12,
+    "text_block_count": 9,
+    "rule_resolved_count": 3,
+    "model_resolved_count": 6,
+    "compact_retry_count": 5,
+    "fit_summary": {
+      "font_shrink": 8,
+      "ok": 1
+    },
+    "translation_source_summary": {
+      "glossary_exact": 2,
+      "model_compact": 5,
+      "model_initial": 1,
+      "glossary_linewise": 1
+    },
+    "original": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_focus_v8_company_memory_batched\\original\\page_0012_original.png",
+    "redacted": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_focus_v8_company_memory_batched\\redacted\\page_0012_redacted.png",
+    "translated": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_focus_v8_company_memory_batched\\translated\\page_0012_translated.png",
+    "comparison": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_focus_v8_company_memory_batched\\comparison\\page_0012_translation_comparison.png",
+    "document_context": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_focus_v8_company_memory_batched\\document_context.json",
+    "company_memory": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\06_company_memory_learning\\output\\AIA_excl_2021_v4\\company_memory.json",
+    "status": "ok"
+  },
+  {
+    "page_no": 13,
+    "text_block_count": 29,
+    "rule_resolved_count": 2,
+    "model_resolved_count": 27,
+    "compact_retry_count": 19,
+    "fit_summary": {
+      "font_shrink": 20,
+      "ok": 9
+    },
+    "translation_source_summary": {
+      "model_compact": 19,
+      "model_initial": 8,
+      "glossary_linewise": 2
+    },
+    "original": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_focus_v8_company_memory_batched\\original\\page_0013_original.png",
+    "redacted": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_focus_v8_company_memory_batched\\redacted\\page_0013_redacted.png",
+    "translated": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_focus_v8_company_memory_batched\\translated\\page_0013_translated.png",
+    "comparison": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_focus_v8_company_memory_batched\\comparison\\page_0013_translation_comparison.png",
+    "document_context": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_focus_v8_company_memory_batched\\document_context.json",
+    "company_memory": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\06_company_memory_learning\\output\\AIA_excl_2021_v4\\company_memory.json",
+    "status": "ok"
+  },
+  {
+    "page_no": 19,
+    "text_block_count": 29,
+    "rule_resolved_count": 2,
+    "model_resolved_count": 27,
+    "compact_retry_count": 18,
+    "fit_summary": {
+      "font_shrink": 23,
+      "ok": 6
+    },
+    "translation_source_summary": {
+      "model_initial": 9,
+      "model_compact": 18,
+      "glossary_linewise": 2
+    },
+    "original": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_focus_v8_company_memory_batched\\original\\page_0019_original.png",
+    "redacted": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_focus_v8_company_memory_batched\\redacted\\page_0019_redacted.png",
+    "translated": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_focus_v8_company_memory_batched\\translated\\page_0019_translated.png",
+    "comparison": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_focus_v8_company_memory_batched\\comparison\\page_0019_translation_comparison.png",
+    "document_context": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_focus_v8_company_memory_batched\\document_context.json",
+    "company_memory": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\06_company_memory_learning\\output\\AIA_excl_2021_v4\\company_memory.json",
+    "status": "ok"
+  },
+  {
+    "page_no": 20,
+    "text_block_count": 34,
+    "rule_resolved_count": 3,
+    "model_resolved_count": 31,
+    "compact_retry_count": 18,
+    "fit_summary": {
+      "font_shrink": 22,
+      "ok": 12
+    },
+    "translation_source_summary": {
+      "glossary_exact": 2,
+      "model_compact": 18,
+      "model_initial": 13,
+      "glossary_linewise": 1
+    },
+    "original": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_focus_v8_company_memory_batched\\original\\page_0020_original.png",
+    "redacted": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_focus_v8_company_memory_batched\\redacted\\page_0020_redacted.png",
+    "translated": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_focus_v8_company_memory_batched\\translated\\page_0020_translated.png",
+    "comparison": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_focus_v8_company_memory_batched\\comparison\\page_0020_translation_comparison.png",
+    "document_context": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_focus_v8_company_memory_batched\\document_context.json",
+    "company_memory": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\06_company_memory_learning\\output\\AIA_excl_2021_v4\\company_memory.json",
+    "status": "ok"
+  }
+]

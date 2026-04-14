@@ -1,0 +1,53 @@
+```json
+{
+  "unit_id": "p19_g02",
+  "page_no": 19,
+  "section_id": "financial_review",
+  "content_type": "financial_narrative",
+  "speaker_role": "management",
+  "topic_tags": [
+    "new_business_performance",
+    "geographic_market_analysis",
+    "covid19_impact",
+    "business_recovery",
+    "regional_comparison"
+  ],
+  "term_hits": [
+    {
+      "source_term": "新業務價值",
+      "target_term": "New Business Value",
+      "abbreviation": "NBV",
+      "frequency": 3
+    },
+    {
+      "source_term": "中國內地",
+      "target_term": "Mainland China",
+      "frequency": 1
+    },
+    {
+      "source_term": "報告分部",
+      "target_term": "reporting segment",
+      "frequency": 1
+    }
+  ],
+  "needs_context": true,
+  "context_scope": "section",
+  "risk_level": "high",
+  "risk_flags": [
+    "financial_metric_translation",
+    "geographic_market_names",
+    "percentage_precision",
+    "covid19_context_sensitivity",
+    "temporal_reference_accuracy"
+  ],
+  "translation_constraints": [
+    "Preserve exact percentage values (23%, 15%) without rounding",
+    "Maintain consistent NBV terminology across all occurrences",
+    "Standardize geographic references: 中國內地 → Mainland China; 訪港旅客 → Hong Kong visitor",
+    "Preserve temporal markers: 2020年3月, 上半年, 下半年, 2021年首兩個月",
+    "Maintain formal corporate register; reflect management narrative tone",
+    "Verify COVID-19 lockdown context aligns with historical timeline",
+    "Ensure segment comparison logic is preserved in translation"
+  ]
+}
+```

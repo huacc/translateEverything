@@ -1,0 +1,75 @@
+﻿请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。
+要求高保真、正式、可出版，不要摘要，不要解释。
+术语表和动态文档背景优先于自由翻译。
+只输出严格 JSON。
+{
+  "page_no": 20,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "relevant_terms": [
+    {
+      "source": "友邦保險",
+      "target": "AIA"
+    },
+    {
+      "source": "新業務價值",
+      "target": "new business value"
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "p20_b17",
+      "block_type": "body",
+      "source_text": "未分配集團總部開支的\n稅後價值\n(161)\n無意義\n無意義\n(154)\n無意義\n無意義\n無意義\n無意義",
+      "line_count": 10,
+      "char_count": 51,
+      "region": "middle",
+      "font_size_avg": 8.5
+    },
+    {
+      "block_id": "p20_b18",
+      "block_type": "body",
+      "source_text": "扣除非控股權益前的總計\n2,789\n52.6%\n5,219\n4,186\n62.9%\n6,585\n(33)%\n(33)%",
+      "line_count": 9,
+      "char_count": 59,
+      "region": "middle",
+      "font_size_avg": 8.5
+    },
+    {
+      "block_id": "p20_b19",
+      "block_type": "body",
+      "source_text": "非控股權益\n(24)\n無意義\n無意義\n(32)\n無意義\n無意義\n無意義\n無意義",
+      "line_count": 9,
+      "char_count": 39,
+      "region": "middle",
+      "font_size_avg": 8.5
+    },
+    {
+      "block_id": "p20_b20",
+      "block_type": "body",
+      "source_text": "總計\n2,765\n52.6%\n5,219\n4,154\n62.9%\n6,585\n(33)%\n(33)%",
+      "line_count": 9,
+      "char_count": 50,
+      "region": "middle",
+      "font_size_avg": 8.5
+    },
+    {
+      "block_id": "p20_b21",
+      "block_type": "body",
+      "source_text": "儘管2020年的新業務價值27.65億美元較2019年減少了33%，我們迅速採用了新的數碼工具，並且外出限制的普",
+      "line_count": 1,
+      "char_count": 56,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p20_b22",
+      "block_type": "body",
+      "source_text": "遍放寬支持了銷售勢頭的恢復。友邦保險中國業務為2020年本集團的新業務價值帶來最大貢獻，也是我們第一個",
+      "line_count": 1,
+      "char_count": 51,
+      "region": "middle",
+      "font_size_avg": 9.0
+    }
+  ]
+}

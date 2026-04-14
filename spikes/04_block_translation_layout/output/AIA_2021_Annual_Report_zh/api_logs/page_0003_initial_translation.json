@@ -1,0 +1,21 @@
+{
+  "content": [
+    {
+      "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p3_b1\",\n      \"translation\": \"AIA at a Glance\"\n    },\n    {\n      \"block_id\": \"p3_b2\",\n      \"translation\": \"Million Dollar Round Table\\nRegistered Members\\nGlobal Leader\"\n    },\n    {\n      \"block_id\": \"p3_b3\",\n      \"translation\": \"Only company globally with\\nheadquarters in Hong Kong,\\nlisted in Hong Kong, and\\n100% focused on Asia\"\n    },\n    {\n      \"block_id\": \"p3_b4\",\n      \"translation\": \"Largest company listed on\\nHong Kong Stock Exchange,\\nregistered in Hong Kong with\\nheadquarters in Hong Kong\"\n    },\n    {\n      \"block_id\": \"p3_b5\",\n      \"translation\": \"Only multinational company\\nto lead Million Dollar Round Table\\nmembership for six consecutive years\"\n    },\n    {\n      \"block_id\": \"p3_b6\",\n      \"translation\": \"international life\\ninsurance company\"\n    },\n    {\n      \"block_id\": \"p3_b7\",\n      \"translation\": \"Operations Span\"\n    },\n    {\n      \"block_id\": \"p3_b8\",\n      \"translation\": \"Serving over\\n38 million individual\\npolicyholders and more than\\n16 million participants in\\ngroup insurance\\nplans\"\n    },\n    {\n      \"block_id\": \"p3_b9\",\n      \"translation\": \"In 2020, we paid over\\nUSD 16 billion in insurance\\nbenefits and claims, providing\\nessential financial support\\nto our customers\"\n    },\n    {\n      \"block_id\": \"p3_b10\",\n      \"translation\": \"Protecting Asian communities\\nwith total coverage of nearly\\nUSD 2 trillion across\\n18 markets\"\n    },\n    {\n      \"block_id\": \"p3_b11\",\n      \"translation\": \"2020 Annual Report\\n001\"\n    }\n  ]\n}\n```",
+      "type": "text"
+    }
+  ],
+  "conversationId": "d71da2f8-d338-4d50-a7b9-9d806e78a7dd",
+  "conversation_id": "d71da2f8-d338-4d50-a7b9-9d806e78a7dd",
+  "id": "d71da2f8-d338-4d50-a7b9-9d806e78a7dd",
+  "model": "claude-3-5-sonnet-20241022",
+  "role": "assistant",
+  "stop_reason": "end_turn",
+  "type": "message",
+  "usage": {
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1182,
+    "output_tokens": 455
+  }
+}

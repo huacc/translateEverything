@@ -1,0 +1,20 @@
+文档场景：上市公司企业年报
+page_no: 13
+unit_id: p13_g06
+unit_mode: semantic_group
+slot_count: 3
+source_text:
+我們無可比擬的分銷實力能直接接觸客戶，並提供高質素的專業建議，協助滿足亞洲消費者龐大且日益增長的長
+期保障和儲蓄需求。如今大眾比以往更期望企業能以符合長遠可持續發展的方式應對他們的需要。友邦保險擁有
+市場領先的品牌，以幫助大眾實踐健康、長久、好生活的目標為基礎。
+current_translation:
+Our unparalleled distribution strength enables us to reach customers directly and provide high-quality professional advice to help meet the substantial and growing long-term protection and savings needs of Asian consumers. Today, the public increasingly expects companies to address their needs in ways that align with long-term sustainable development. AIA possesses a market-leading brand, founded on the objective of helping the public achieve the goal of a healthy, long, and good life.
+返回格式:
+{
+  "translations": [
+    {
+      "unit_id": "p13_g06",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

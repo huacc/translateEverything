@@ -1,0 +1,51 @@
+[
+  {
+    "page_no": 10,
+    "text_block_count": 28,
+    "rule_resolved_count": 3,
+    "model_resolved_count": 25,
+    "compact_retry_count": 17,
+    "fit_summary": {
+      "font_shrink": 20,
+      "ok": 6,
+      "overflow": 2
+    },
+    "translation_source_summary": {
+      "glossary_exact": 2,
+      "model_initial": 7,
+      "model_compact": 17,
+      "model_repair_initial": 1,
+      "glossary_linewise": 1
+    },
+    "original": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_pages_10_20_smoke\\original\\page_0010_original.png",
+    "redacted": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_pages_10_20_smoke\\redacted\\page_0010_redacted.png",
+    "translated": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_pages_10_20_smoke\\translated\\page_0010_translated.png",
+    "comparison": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_pages_10_20_smoke\\comparison\\page_0010_translation_comparison.png",
+    "document_context": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_pages_10_20_smoke\\document_context.json",
+    "status": "ok"
+  },
+  {
+    "page_no": 20,
+    "text_block_count": 34,
+    "rule_resolved_count": 3,
+    "model_resolved_count": 31,
+    "compact_retry_count": 29,
+    "fit_summary": {
+      "font_shrink": 30,
+      "overflow": 2,
+      "ok": 2
+    },
+    "translation_source_summary": {
+      "glossary_exact": 2,
+      "model_compact": 29,
+      "model_initial": 2,
+      "glossary_linewise": 1
+    },
+    "original": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_pages_10_20_smoke\\original\\page_0020_original.png",
+    "redacted": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_pages_10_20_smoke\\redacted\\page_0020_redacted.png",
+    "translated": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_pages_10_20_smoke\\translated\\page_0020_translated.png",
+    "comparison": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_pages_10_20_smoke\\comparison\\page_0020_translation_comparison.png",
+    "document_context": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_pages_10_20_smoke\\document_context.json",
+    "status": "ok"
+  }
+]

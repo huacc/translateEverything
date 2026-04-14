@@ -1,0 +1,57 @@
+﻿请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。
+要求高保真、正式、可出版，不要摘要，不要解释。
+术语表和动态文档背景优先于自由翻译。
+只输出严格 JSON。
+{
+  "page_no": 17,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "relevant_terms": [],
+  "blocks": [
+    {
+      "block_id": "p17_b2",
+      "block_type": "label",
+      "source_text": "016 集團首席財務總監回顧",
+      "line_count": 1,
+      "char_count": 14,
+      "region": "middle",
+      "font_size_avg": 14.0
+    },
+    {
+      "block_id": "p17_b3",
+      "block_type": "label",
+      "source_text": "040 業務回顧",
+      "line_count": 1,
+      "char_count": 8,
+      "region": "middle",
+      "font_size_avg": 14.0
+    },
+    {
+      "block_id": "p17_b4",
+      "block_type": "label",
+      "source_text": "056 風險管理",
+      "line_count": 1,
+      "char_count": 8,
+      "region": "middle",
+      "font_size_avg": 14.0
+    },
+    {
+      "block_id": "p17_b5",
+      "block_type": "label",
+      "source_text": "062 監管及國際發展",
+      "line_count": 1,
+      "char_count": 11,
+      "region": "middle",
+      "font_size_avg": 14.0
+    },
+    {
+      "block_id": "p17_b6",
+      "block_type": "label",
+      "source_text": "064 我們的團隊",
+      "line_count": 1,
+      "char_count": 9,
+      "region": "middle",
+      "font_size_avg": 14.0
+    }
+  ]
+}

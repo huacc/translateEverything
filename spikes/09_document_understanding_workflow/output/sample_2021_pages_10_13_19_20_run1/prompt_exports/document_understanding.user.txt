@@ -1,0 +1,1411 @@
+请根据以下证据，输出结构化文档背景。
+目标语言方向：Traditional Chinese -> English
+你需要输出：document_profile / section_map / role_map / termbase / style_guide / risk_policy
+不要输出英文译文段落，只输出结构化背景。
+证据如下：
+{
+  "front_page_count": 30,
+  "page_summaries": [
+    {
+      "page_no": 1,
+      "text_block_count": 4,
+      "headings": [],
+      "labels": [
+        "健康、長久、好生活"
+      ],
+      "body_samples": [
+        "HEALTHIER\nLONGER\nBETTER\nLIVES",
+        "友邦保險控股有限公司 AIA GROUP LIMITED\n2020 年報"
+      ],
+      "block_type_summary": {
+        "body": 2,
+        "label": 1,
+        "footer": 1
+      }
+    },
+    {
+      "page_no": 2,
+      "text_block_count": 69,
+      "headings": [
+        "我們的目標",
+        "目錄"
+      ],
+      "labels": [
+        "我們的目標是",
+        "概覽",
+        "006 財務摘要",
+        "協助大眾實現健康、",
+        "008 主席報告",
+        "長久、好生活。"
+      ],
+      "body_samples": [],
+      "block_type_summary": {
+        "heading": 2,
+        "label": 65,
+        "footer": 2
+      }
+    },
+    {
+      "page_no": 3,
+      "text_block_count": 11,
+      "headings": [
+        "友邦保險一覽"
+      ],
+      "labels": [
+        "的國際人壽\n保險公司",
+        "業務覆蓋"
+      ],
+      "body_samples": [
+        "全球唯一一家總部\n設於香港、於香港上市\n並100%\n專注於亞洲",
+        "在香港聯交所上市、\n香港註冊並將\n總部設於香港\n最大的公司"
+      ],
+      "block_type_summary": {
+        "heading": 1,
+        "body": 7,
+        "label": 2,
+        "footer": 1
+      }
+    },
+    {
+      "page_no": 4,
+      "text_block_count": 0,
+      "headings": [],
+      "labels": [],
+      "body_samples": [],
+      "block_type_summary": {}
+    },
+    {
+      "page_no": 5,
+      "text_block_count": 11,
+      "headings": [],
+      "labels": [
+        "友邦保險的目標是協助大眾實現健康、長久、好生活。",
+        "風險。我們作出迅速和全面的應對，包括為我們的社區",
+        "提供醫療物資，並為前線醫護和清潔人員提供免費保險",
+        "保障，讓他們冒著生命危險執行抗疫工作時能減輕一份",
+        "病相關保障覆蓋，並於12個市場提供10億美元的保費支",
+        "援。年內，我們已支付逾160億美元的保險給付和理賠，"
+      ],
+      "body_samples": [
+        "於2020年，2019冠狀病毒病為我們的社區帶來前所未見的",
+        "憂慮。我們為超過2,500萬份保單提供免費的2019冠狀病毒"
+      ],
+      "block_type_summary": {
+        "label": 9,
+        "body": 2
+      }
+    },
+    {
+      "page_no": 6,
+      "text_block_count": 24,
+      "headings": [],
+      "labels": [
+        "友邦保險今天的業務由史戴",
+        "長遠的關係，這種關係很多時更能跨越",
+        "先生 (Cornelius Vander Starr)",
+        "世代。",
+        "始創於1919年的上海。",
+        "秉承我們為客戶和社區帶來顯著和正面"
+      ],
+      "body_samples": [],
+      "block_type_summary": {
+        "label": 23,
+        "footer": 1
+      }
+    },
+    {
+      "page_no": 7,
+      "text_block_count": 18,
+      "headings": [
+        "2020 年里程碑"
+      ],
+      "labels": [
+        "友邦保險承諾投放一億美元設立「友邦獎學金」",
+        "友邦保險宣佈設立「友邦獎學金」，並承諾",
+        "友邦獎學金旨在資助學業成績傑出並服務",
+        "投放一億美元，在未來數十年每年資助",
+        "社會的學生、以及那些需要經濟資助以",
+        "100名就讀於香港多間大學的本科生。"
+      ],
+      "body_samples": [],
+      "block_type_summary": {
+        "heading": 1,
+        "label": 16,
+        "footer": 1
+      }
+    },
+    {
+      "page_no": 8,
+      "text_block_count": 111,
+      "headings": [
+        "概覽",
+        "2020年業績一覽(1)"
+      ],
+      "labels": [
+        "新業務價值(2)(8)",
+        "年化新保費(3)(8)",
+        "US$ MILLIONS",
+        "US$ MILLIONS",
+        "百萬美元",
+        "百萬美元"
+      ],
+      "body_samples": [],
+      "block_type_summary": {
+        "heading": 2,
+        "label": 17,
+        "chart_label": 91,
+        "footer": 1
+      }
+    },
+    {
+      "page_no": 9,
+      "text_block_count": 39,
+      "headings": [
+        "2020年按市場分部劃分"
+      ],
+      "labels": [
+        "新業務價值(2)(7)",
+        "年化新保費(3)",
+        "稅後營運溢利(4)",
+        "總加權保費收入(5)",
+        "附註：",
+        "(4) 所列示的稅後營運溢利已扣除非控股權益。"
+      ],
+      "body_samples": [
+        "中國內地\n泰國\n新加坡\n馬來西亞\n其他市場\n香港",
+        "(7) 各分部新業務價值包括退休金業務，按當地法定基準列示、未計\n入未分配集團總部開支、並且未扣除非控股權益。"
+      ],
+      "block_type_summary": {
+        "heading": 1,
+        "label": 6,
+        "sidebar_nav": 1,
+        "chart_label": 21,
+        "body": 9,
+        "footer": 1
+      }
+    },
+    {
+      "page_no": 10,
+      "text_block_count": 28,
+      "headings": [
+        "概覽",
+        "概覽",
+        "主席報告"
+      ],
+      "labels": [
+        "在過去一個世紀，友邦保險",
+        "於亞洲區內，為極需我們服務的",
+        "社區大眾提供保障而備受稱譽，",
+        "這令我們引以為榮。",
+        "謝仕榮先生\n獨立非執行主席",
+        "在2019冠狀病毒病大流行期間，"
+      ],
+      "body_samples": [
+        "友邦保險在亞洲歷史悠久，源遠流長，經歷各種社會動盪和不明朗時期仍能妥善管理業務，因而贏得卓著的",
+        "聲譽，體現友邦保險誠可信賴、強韌穩健，並堅持為持分者做對的事。自2020年初以來，2019冠狀病毒病大流"
+      ],
+      "block_type_summary": {
+        "heading": 3,
+        "label": 11,
+        "body": 12,
+        "footer": 2
+      }
+    },
+    {
+      "page_no": 11,
+      "text_block_count": 28,
+      "headings": [],
+      "labels": [
+        "管理架構，是每家機構可持續發展的基礎。",
+        "多年來的卓越領導及對友邦保險所作出的重大貢獻。",
+        "成員、高級管理層團隊以及全體員工共同秉持的優先指標。",
+        "衷心感謝您們一直以來的支持。",
+        "謝仕榮",
+        "獨立非執行主席"
+      ],
+      "body_samples": [
+        "在2020年第四季，我們慶祝友邦保險在香港聯交所上市10週年。回顧當年友邦保險的上市刷新多項紀錄，至今",
+        "仍是全球保險業界規模最大的首次公開招股。能夠與董事會成員並肩合作，本人深感榮幸和欣慰。友邦保險的"
+      ],
+      "block_type_summary": {
+        "body": 18,
+        "sidebar_nav": 1,
+        "label": 7,
+        "footer": 2
+      }
+    },
+    {
+      "page_no": 12,
+      "text_block_count": 9,
+      "headings": [
+        "概覽",
+        "集團首席執行官兼總裁報告"
+      ],
+      "labels": [
+        "友邦保險再度錄得非常強勁的業績，反映我們表現",
+        "卓越的團隊努力不懈的成果。我們的員工能迅速",
+        "和靈活應對瞬息萬變的經營環境，令我深感自豪。",
+        "憑藉矢志不渝的承諾，我們協助客戶駕馭不明朗的",
+        "環境，同時加快落實我們的策略計劃。"
+      ],
+      "body_samples": [],
+      "block_type_summary": {
+        "heading": 2,
+        "label": 5,
+        "body": 1,
+        "footer": 1
+      }
+    },
+    {
+      "page_no": 13,
+      "text_block_count": 29,
+      "headings": [],
+      "labels": [
+        "時，展現靈活應變的能力和克盡己職的精神。",
+        "給付及理賠，為客戶提供極其重要的財務保障。",
+        "證我們雄厚的資本實力和嚴謹的財務管理。",
+        "政策，讓本集團可把握未來的增長機遇，並且保持財務靈活性。",
+        "一直是我們表現卓越的重要動力。",
+        "法，為我們與客戶建立長遠關係奠定堅實的基礎。"
+      ],
+      "body_samples": [
+        "友邦保險是客戶誠可信賴的夥伴，讓客戶在關注財務安全和家庭保障時仍可安心無憂。儘管2019冠狀病毒病大",
+        "流行的影響深遠，但我衷心感謝我們的員工、代理和合作夥伴在適應新工作方式並確保為客戶提供無間斷的支援"
+      ],
+      "block_type_summary": {
+        "body": 21,
+        "label": 6,
+        "sidebar_nav": 1,
+        "footer": 1
+      }
+    },
+    {
+      "page_no": 14,
+      "text_block_count": 33,
+      "headings": [
+        "概覽",
+        "集團首席執行官兼總裁報告"
+      ],
+      "labels": [
+        "2020年業績摘要",
+        "的有效保單組合及有利的理賠經驗。",
+        "8%。",
+        "上半年增長72%。",
+        "中國台灣及印度在2020年較2019年錄得雙位數字增長。",
+        "個月錄得非常強勁的新業務價值增長。"
+      ],
+      "body_samples": [
+        "友邦保險中國業務在2020年為本集團新業務價值帶來最大貢獻，並在2021年初表現卓越，與2020年同期比較，",
+        "今年首兩個月錄得非常強勁的新業務價值增長。儘管2020年的9.68億美元新業務價值較2019年下降17%，但這主"
+      ],
+      "block_type_summary": {
+        "heading": 2,
+        "label": 6,
+        "body": 24,
+        "footer": 1
+      }
+    },
+    {
+      "page_no": 15,
+      "text_block_count": 28,
+      "headings": [],
+      "labels": [
+        "以人為本",
+        "饋，與過往參與面對面學習的意見相若。",
+        "環境、社會及管治",
+        "資職能。"
+      ],
+      "body_samples": [
+        "友邦保險擁有23,000名員工，是本集團的重要競爭優勢，亦是我們持續獲取佳績的關鍵。我們推廣共融和協作的",
+        "學習文化，為員工提供平台，在友邦保險發展具意義和有價值的事業。因應社交距離措施和外遊限制，我們將學"
+      ],
+      "block_type_summary": {
+        "label": 4,
+        "body": 22,
+        "sidebar_nav": 1,
+        "footer": 1
+      }
+    },
+    {
+      "page_no": 16,
+      "text_block_count": 24,
+      "headings": [
+        "概覽",
+        "集團首席執行官兼總裁報告"
+      ],
+      "labels": [
+        "境、社會及管治方面領先全球業界的志向。",
+        "前景",
+        "段。",
+        "李源祥",
+        "集團首席執行官兼總裁",
+        "2021年3月12日"
+      ],
+      "body_samples": [
+        "我們瞭解我們在這重要領域仍然任重道遠。我們最近亦完成環境、社會及管治策略的檢討。本人充滿信心，我們",
+        "的五大策略焦點領域：提升身心健康、綠色營運、可持續投資、人才與文化和有效的管治，將有助我們實現在環"
+      ],
+      "block_type_summary": {
+        "heading": 2,
+        "body": 14,
+        "label": 6,
+        "footer": 2
+      }
+    },
+    {
+      "page_no": 17,
+      "text_block_count": 7,
+      "headings": [
+        "財務及營運回顧"
+      ],
+      "labels": [
+        "016 集團首席財務總監回顧",
+        "040 業務回顧",
+        "056 風險管理",
+        "062 監管及國際發展",
+        "064 我們的團隊"
+      ],
+      "body_samples": [],
+      "block_type_summary": {
+        "heading": 1,
+        "label": 5,
+        "footer": 1
+      }
+    },
+    {
+      "page_no": 18,
+      "text_block_count": 16,
+      "headings": [
+        "財務及營運回顧",
+        "集團首席財務總監回顧"
+      ],
+      "labels": [
+        "強勁的財務業績。在新業務價值受到全球疫情導致的外出限制",
+        "影響的情況下，我們錄得了稅後營運溢利、產生的基本自由盈餘",
+        "及內涵價值權益的穩健增長。我們的財務狀況仍然非常穩健，",
+        "讓我們在眾多增長機遇下得以繼續投資。",
+        "按固定匯率基準提供增長率及作出評述。",
+        "概要及主要財務摘要"
+      ],
+      "body_samples": [
+        "儘管2020年的營商及宏觀經濟環境前所未見，友邦保險仍實現",
+        "在2020年，友邦保險在全球大流行病帶來的空前商業和宏觀經濟狀況下錄得強勁的財務表現。儘管外出限制導致"
+      ],
+      "block_type_summary": {
+        "heading": 2,
+        "body": 5,
+        "label": 8,
+        "footer": 1
+      }
+    },
+    {
+      "page_no": 19,
+      "text_block_count": 29,
+      "headings": [],
+      "labels": [
+        "期高出15%。",
+        "改善，而本集團的續保率為95%。",
+        "19.97億美元後，自由盈餘為134.73億美元。"
+      ],
+      "body_samples": [
+        "大流行病對我們2020年財務表現的主要影響是對新業務銷售的影響，原因在於我們眾多市場的遏制傳播措施限制",
+        "了面對面的銷售活動，尤其是在2020年上半年。儘管2020年的新業務價值27.65億美元較2019年減少了33%，我"
+      ],
+      "block_type_summary": {
+        "body": 24,
+        "sidebar_nav": 1,
+        "label": 3,
+        "footer": 1
+      }
+    },
+    {
+      "page_no": 20,
+      "text_block_count": 34,
+      "headings": [
+        "財務及營運回顧",
+        "集團首席財務總監回顧"
+      ],
+      "labels": [
+        "新業務表現",
+        "按分部劃分的新業務價值、年化新保費及利潤率"
+      ],
+      "body_samples": [
+        "2020年\n2019年\n新業務價值變動",
+        "新業務\n價值\n利潤率\n年化\n新保費\n新業務\n價值"
+      ],
+      "block_type_summary": {
+        "heading": 2,
+        "label": 2,
+        "body": 29,
+        "footer": 1
+      }
+    },
+    {
+      "page_no": 21,
+      "text_block_count": 15,
+      "headings": [],
+      "labels": [
+        "出限制在下半年放寬，新業務價值錄得正面按月增長。",
+        "帶動新業務價值利潤率在下半年顯著回升。",
+        "點，而2020年整體利潤率為59.9%。"
+      ],
+      "body_samples": [
+        "友邦保險泰國業務在下半年表現卓越，新業務價值較上半年增長33%。雖然新業務價值全年下降4%，但隨著外",
+        "友邦保險新加坡業務在下半年實現卓越的復甦。與上半年比較，2020年下半年的新業務價值上升56%，按年則上"
+      ],
+      "block_type_summary": {
+        "body": 10,
+        "label": 3,
+        "sidebar_nav": 1,
+        "footer": 1
+      }
+    },
+    {
+      "page_no": 22,
+      "text_block_count": 26,
+      "headings": [
+        "財務及營運回顧",
+        "集團首席財務總監回顧"
+      ],
+      "labels": [
+        "內涵價值權益",
+        "內涵價值營運溢利",
+        "每股內涵價值營運盈利－基本",
+        "每股內涵價值營運盈利－攤薄",
+        "內涵價值變動",
+        "正面影響，以及調整合併資本要求的影響所抵銷。"
+      ],
+      "body_samples": [
+        "於2020年，內涵價值營運溢利為72.43億美元，與2019年相比減少17%，主要由新業務價值所帶動，帶來內涵價",
+        "值營運回報為11.7%。營運差異為5.49億美元，原因在於與我們的內涵價值假設相比，我們的整體經驗持續維持"
+      ],
+      "block_type_summary": {
+        "heading": 2,
+        "label": 6,
+        "body": 17,
+        "footer": 1
+      }
+    },
+    {
+      "page_no": 23,
+      "text_block_count": 44,
+      "headings": [],
+      "labels": [
+        "內涵價值變動分析如下：",
+        "2020年",
+        "2019年"
+      ],
+      "body_samples": [
+        "百萬美元，除另有說明外\n經調整\n資產淨值\n有效保單\n業務價值\n內涵價值",
+        "期初內涵價值\n28,241\n33,744\n61,985"
+      ],
+      "block_type_summary": {
+        "label": 3,
+        "body": 38,
+        "sidebar_nav": 1,
+        "footer": 2
+      }
+    },
+    {
+      "page_no": 24,
+      "text_block_count": 38,
+      "headings": [
+        "財務及營運回顧",
+        "集團首席財務總監回顧"
+      ],
+      "labels": [
+        "內涵價值權益",
+        "內涵價值及新業務價值敏感度",
+        "整。",
+        "百萬美元，除另有說明外",
+        "股本價格變動的影響",
+        "利率變動的影響"
+      ],
+      "body_samples": [
+        "百萬美元，除另有說明外\n於2020年\n12月31日\n於2019年\n12月31日",
+        "內涵價值\n65,247\n61,985"
+      ],
+      "block_type_summary": {
+        "heading": 2,
+        "label": 9,
+        "body": 25,
+        "footer": 2
+      }
+    },
+    {
+      "page_no": 25,
+      "text_block_count": 21,
+      "headings": [],
+      "labels": [
+        "改善，而本集團的續保率為95%。",
+        "降大幅抵銷了正面營運經驗及相關業務增長。",
+        "8%。"
+      ],
+      "body_samples": [
+        "我們的高質素、經常性盈利來源以及對有效保單組合的積極管理，帶動稅後營運溢利增長了5%至59.42億美元，",
+        "並使營運溢利率穩定在16.9%。所收取的續保保費增加了10%，經常性保費總額佔2020年所收取保費的90%以"
+      ],
+      "block_type_summary": {
+        "body": 16,
+        "sidebar_nav": 1,
+        "label": 3,
+        "footer": 1
+      }
+    },
+    {
+      "page_no": 26,
+      "text_block_count": 25,
+      "headings": [
+        "財務及營運回顧",
+        "集團首席財務總監回顧"
+      ],
+      "labels": [
+        "按分部劃分的總加權保費收入",
+        "取保費的90%以上。",
+        "國際財務報告準則營運溢利投資回報",
+        "營運開支"
+      ],
+      "body_samples": [
+        "百萬美元，除另有說明外\n2020年\n2019年\n按年變動\n（固定匯率）\n按年變動\n（實質匯率）",
+        "香港\n13,042\n13,107\n–\n–"
+      ],
+      "block_type_summary": {
+        "heading": 2,
+        "label": 4,
+        "body": 18,
+        "footer": 1
+      }
+    },
+    {
+      "page_no": 27,
+      "text_block_count": 21,
+      "headings": [],
+      "labels": [
+        "純利(1)(3)",
+        "國際財務報告準則非營運變動",
+        "況撥備的變動所抵銷。"
+      ],
+      "body_samples": [
+        "百萬美元，除另有說明外\n2020年\n2019年\n按年變動\n（固定匯率）\n按年變動\n（實質匯率）",
+        "稅後營運溢利(3)\n5,942\n5,689\n5%\n4%"
+      ],
+      "block_type_summary": {
+        "label": 3,
+        "body": 16,
+        "sidebar_nav": 1,
+        "footer": 1
+      }
+    },
+    {
+      "page_no": 28,
+      "text_block_count": 24,
+      "headings": [
+        "財務及營運回顧",
+        "集團首席財務總監回顧"
+      ],
+      "labels": [
+        "股東分配權益變動(1)",
+        "可供出售債券按國際財務報告準則進行的會計處理的市值調整。",
+        "億美元的影響，惟部分被派付股息19.97億美元所抵銷。",
+        "平均股東分配權益較去年增長11%。"
+      ],
+      "body_samples": [
+        "百萬美元，除另有說明外\n2020年\n2019年",
+        "期初股東分配權益\n42,845\n37,277"
+      ],
+      "block_type_summary": {
+        "heading": 2,
+        "label": 4,
+        "body": 17,
+        "footer": 1
+      }
+    },
+    {
+      "page_no": 29,
+      "text_block_count": 21,
+      "headings": [],
+      "labels": [
+        "國際財務報告準則每股盈利",
+        "美仙。",
+        "國際財務報告準則每股盈利— 基本",
+        "純利(1)(3)\n稅後營運溢利(1)(3)",
+        "國際財務報告準則每股盈利— 攤薄",
+        "純利(1)(3)\n稅後營運溢利(1)(3)"
+      ],
+      "body_samples": [
+        "股東應佔稅後營運溢利的每股基本盈利增加4%至2020年的49.27美仙。",
+        "股東應佔國際財務報告準則純利的每股基本盈利包括股權及投資物業組合的市價變動，減少3%至2020年的47.92"
+      ],
+      "block_type_summary": {
+        "label": 6,
+        "body": 13,
+        "sidebar_nav": 1,
+        "footer": 1
+      }
+    },
+    {
+      "page_no": 30,
+      "text_block_count": 30,
+      "headings": [
+        "財務及營運回顧",
+        "集團首席財務總監回顧"
+      ],
+      "labels": [
+        "資本",
+        "自由盈餘產生",
+        "配集團總部開支、財務費用、投資回報差異及其他非營運項目。",
+        "港分紅產品佔產品組合較少的影響所抵銷。",
+        "大幅下滑的影響。",
+        "下表概述自由盈餘變動："
+      ],
+      "body_samples": [
+        "本集團的自由盈餘為經調整資產淨值超出所需資本（包括合併準備金及資本要求）的部分。本集團持有自由盈餘",
+        "以令本集團可以投資新業務，善用非內部機遇及應對資本市場壓力帶來的影響。"
+      ],
+      "block_type_summary": {
+        "heading": 2,
+        "label": 6,
+        "body": 21,
+        "footer": 1
+      }
+    }
+  ],
+  "headings": [
+    {
+      "page_no": 2,
+      "text": "我們的目標"
+    },
+    {
+      "page_no": 2,
+      "text": "目錄"
+    },
+    {
+      "page_no": 3,
+      "text": "友邦保險一覽"
+    },
+    {
+      "page_no": 7,
+      "text": "2020 年里程碑"
+    },
+    {
+      "page_no": 8,
+      "text": "概覽"
+    },
+    {
+      "page_no": 8,
+      "text": "2020年業績一覽(1)"
+    },
+    {
+      "page_no": 9,
+      "text": "2020年按市場分部劃分"
+    },
+    {
+      "page_no": 10,
+      "text": "概覽"
+    },
+    {
+      "page_no": 10,
+      "text": "概覽"
+    },
+    {
+      "page_no": 10,
+      "text": "主席報告"
+    },
+    {
+      "page_no": 12,
+      "text": "概覽"
+    },
+    {
+      "page_no": 12,
+      "text": "集團首席執行官兼總裁報告"
+    },
+    {
+      "page_no": 14,
+      "text": "概覽"
+    },
+    {
+      "page_no": 14,
+      "text": "集團首席執行官兼總裁報告"
+    },
+    {
+      "page_no": 16,
+      "text": "概覽"
+    },
+    {
+      "page_no": 16,
+      "text": "集團首席執行官兼總裁報告"
+    },
+    {
+      "page_no": 17,
+      "text": "財務及營運回顧"
+    },
+    {
+      "page_no": 18,
+      "text": "財務及營運回顧"
+    },
+    {
+      "page_no": 18,
+      "text": "集團首席財務總監回顧"
+    },
+    {
+      "page_no": 20,
+      "text": "財務及營運回顧"
+    },
+    {
+      "page_no": 20,
+      "text": "集團首席財務總監回顧"
+    },
+    {
+      "page_no": 22,
+      "text": "財務及營運回顧"
+    },
+    {
+      "page_no": 22,
+      "text": "集團首席財務總監回顧"
+    },
+    {
+      "page_no": 24,
+      "text": "財務及營運回顧"
+    },
+    {
+      "page_no": 24,
+      "text": "集團首席財務總監回顧"
+    },
+    {
+      "page_no": 26,
+      "text": "財務及營運回顧"
+    },
+    {
+      "page_no": 26,
+      "text": "集團首席財務總監回顧"
+    },
+    {
+      "page_no": 28,
+      "text": "財務及營運回顧"
+    },
+    {
+      "page_no": 28,
+      "text": "集團首席財務總監回顧"
+    },
+    {
+      "page_no": 30,
+      "text": "財務及營運回顧"
+    },
+    {
+      "page_no": 30,
+      "text": "集團首席財務總監回顧"
+    }
+  ],
+  "labels": [
+    {
+      "page_no": 1,
+      "text": "健康、長久、好生活"
+    },
+    {
+      "page_no": 2,
+      "text": "我們的目標是"
+    },
+    {
+      "page_no": 2,
+      "text": "概覽"
+    },
+    {
+      "page_no": 2,
+      "text": "006 財務摘要"
+    },
+    {
+      "page_no": 2,
+      "text": "協助大眾實現健康、"
+    },
+    {
+      "page_no": 2,
+      "text": "008 主席報告"
+    },
+    {
+      "page_no": 2,
+      "text": "長久、好生活。"
+    },
+    {
+      "page_no": 3,
+      "text": "的國際人壽\n保險公司"
+    },
+    {
+      "page_no": 3,
+      "text": "業務覆蓋"
+    },
+    {
+      "page_no": 5,
+      "text": "友邦保險的目標是協助大眾實現健康、長久、好生活。"
+    },
+    {
+      "page_no": 5,
+      "text": "風險。我們作出迅速和全面的應對，包括為我們的社區"
+    },
+    {
+      "page_no": 5,
+      "text": "提供醫療物資，並為前線醫護和清潔人員提供免費保險"
+    },
+    {
+      "page_no": 5,
+      "text": "保障，讓他們冒著生命危險執行抗疫工作時能減輕一份"
+    },
+    {
+      "page_no": 5,
+      "text": "病相關保障覆蓋，並於12個市場提供10億美元的保費支"
+    },
+    {
+      "page_no": 5,
+      "text": "援。年內，我們已支付逾160億美元的保險給付和理賠，"
+    },
+    {
+      "page_no": 6,
+      "text": "友邦保險今天的業務由史戴"
+    },
+    {
+      "page_no": 6,
+      "text": "長遠的關係，這種關係很多時更能跨越"
+    },
+    {
+      "page_no": 6,
+      "text": "先生 (Cornelius Vander Starr)"
+    },
+    {
+      "page_no": 6,
+      "text": "世代。"
+    },
+    {
+      "page_no": 6,
+      "text": "始創於1919年的上海。"
+    },
+    {
+      "page_no": 6,
+      "text": "秉承我們為客戶和社區帶來顯著和正面"
+    },
+    {
+      "page_no": 7,
+      "text": "友邦保險承諾投放一億美元設立「友邦獎學金」"
+    },
+    {
+      "page_no": 7,
+      "text": "友邦保險宣佈設立「友邦獎學金」，並承諾"
+    },
+    {
+      "page_no": 7,
+      "text": "友邦獎學金旨在資助學業成績傑出並服務"
+    },
+    {
+      "page_no": 7,
+      "text": "投放一億美元，在未來數十年每年資助"
+    },
+    {
+      "page_no": 7,
+      "text": "社會的學生、以及那些需要經濟資助以"
+    },
+    {
+      "page_no": 7,
+      "text": "100名就讀於香港多間大學的本科生。"
+    },
+    {
+      "page_no": 8,
+      "text": "新業務價值(2)(8)"
+    },
+    {
+      "page_no": 8,
+      "text": "年化新保費(3)(8)"
+    },
+    {
+      "page_no": 8,
+      "text": "US$ MILLIONS"
+    },
+    {
+      "page_no": 8,
+      "text": "US$ MILLIONS"
+    },
+    {
+      "page_no": 8,
+      "text": "百萬美元"
+    },
+    {
+      "page_no": 8,
+      "text": "百萬美元"
+    },
+    {
+      "page_no": 9,
+      "text": "新業務價值(2)(7)"
+    },
+    {
+      "page_no": 9,
+      "text": "年化新保費(3)"
+    },
+    {
+      "page_no": 9,
+      "text": "稅後營運溢利(4)"
+    },
+    {
+      "page_no": 9,
+      "text": "總加權保費收入(5)"
+    },
+    {
+      "page_no": 9,
+      "text": "附註："
+    },
+    {
+      "page_no": 9,
+      "text": "(4) 所列示的稅後營運溢利已扣除非控股權益。"
+    },
+    {
+      "page_no": 10,
+      "text": "在過去一個世紀，友邦保險"
+    },
+    {
+      "page_no": 10,
+      "text": "於亞洲區內，為極需我們服務的"
+    },
+    {
+      "page_no": 10,
+      "text": "社區大眾提供保障而備受稱譽，"
+    },
+    {
+      "page_no": 10,
+      "text": "這令我們引以為榮。"
+    },
+    {
+      "page_no": 10,
+      "text": "謝仕榮先生\n獨立非執行主席"
+    },
+    {
+      "page_no": 10,
+      "text": "在2019冠狀病毒病大流行期間，"
+    },
+    {
+      "page_no": 11,
+      "text": "管理架構，是每家機構可持續發展的基礎。"
+    },
+    {
+      "page_no": 11,
+      "text": "多年來的卓越領導及對友邦保險所作出的重大貢獻。"
+    },
+    {
+      "page_no": 11,
+      "text": "成員、高級管理層團隊以及全體員工共同秉持的優先指標。"
+    },
+    {
+      "page_no": 11,
+      "text": "衷心感謝您們一直以來的支持。"
+    },
+    {
+      "page_no": 11,
+      "text": "謝仕榮"
+    },
+    {
+      "page_no": 11,
+      "text": "獨立非執行主席"
+    },
+    {
+      "page_no": 12,
+      "text": "友邦保險再度錄得非常強勁的業績，反映我們表現"
+    },
+    {
+      "page_no": 12,
+      "text": "卓越的團隊努力不懈的成果。我們的員工能迅速"
+    },
+    {
+      "page_no": 12,
+      "text": "和靈活應對瞬息萬變的經營環境，令我深感自豪。"
+    },
+    {
+      "page_no": 12,
+      "text": "憑藉矢志不渝的承諾，我們協助客戶駕馭不明朗的"
+    },
+    {
+      "page_no": 12,
+      "text": "環境，同時加快落實我們的策略計劃。"
+    },
+    {
+      "page_no": 13,
+      "text": "時，展現靈活應變的能力和克盡己職的精神。"
+    },
+    {
+      "page_no": 13,
+      "text": "給付及理賠，為客戶提供極其重要的財務保障。"
+    },
+    {
+      "page_no": 13,
+      "text": "證我們雄厚的資本實力和嚴謹的財務管理。"
+    },
+    {
+      "page_no": 13,
+      "text": "政策，讓本集團可把握未來的增長機遇，並且保持財務靈活性。"
+    },
+    {
+      "page_no": 13,
+      "text": "一直是我們表現卓越的重要動力。"
+    },
+    {
+      "page_no": 13,
+      "text": "法，為我們與客戶建立長遠關係奠定堅實的基礎。"
+    },
+    {
+      "page_no": 14,
+      "text": "2020年業績摘要"
+    },
+    {
+      "page_no": 14,
+      "text": "的有效保單組合及有利的理賠經驗。"
+    },
+    {
+      "page_no": 14,
+      "text": "8%。"
+    },
+    {
+      "page_no": 14,
+      "text": "上半年增長72%。"
+    },
+    {
+      "page_no": 14,
+      "text": "中國台灣及印度在2020年較2019年錄得雙位數字增長。"
+    },
+    {
+      "page_no": 14,
+      "text": "個月錄得非常強勁的新業務價值增長。"
+    },
+    {
+      "page_no": 15,
+      "text": "以人為本"
+    },
+    {
+      "page_no": 15,
+      "text": "饋，與過往參與面對面學習的意見相若。"
+    },
+    {
+      "page_no": 15,
+      "text": "環境、社會及管治"
+    },
+    {
+      "page_no": 15,
+      "text": "資職能。"
+    },
+    {
+      "page_no": 16,
+      "text": "境、社會及管治方面領先全球業界的志向。"
+    },
+    {
+      "page_no": 16,
+      "text": "前景"
+    },
+    {
+      "page_no": 16,
+      "text": "段。"
+    },
+    {
+      "page_no": 16,
+      "text": "李源祥"
+    },
+    {
+      "page_no": 16,
+      "text": "集團首席執行官兼總裁"
+    },
+    {
+      "page_no": 16,
+      "text": "2021年3月12日"
+    },
+    {
+      "page_no": 17,
+      "text": "016 集團首席財務總監回顧"
+    },
+    {
+      "page_no": 17,
+      "text": "040 業務回顧"
+    },
+    {
+      "page_no": 17,
+      "text": "056 風險管理"
+    },
+    {
+      "page_no": 17,
+      "text": "062 監管及國際發展"
+    },
+    {
+      "page_no": 17,
+      "text": "064 我們的團隊"
+    },
+    {
+      "page_no": 18,
+      "text": "強勁的財務業績。在新業務價值受到全球疫情導致的外出限制"
+    },
+    {
+      "page_no": 18,
+      "text": "影響的情況下，我們錄得了稅後營運溢利、產生的基本自由盈餘"
+    },
+    {
+      "page_no": 18,
+      "text": "及內涵價值權益的穩健增長。我們的財務狀況仍然非常穩健，"
+    },
+    {
+      "page_no": 18,
+      "text": "讓我們在眾多增長機遇下得以繼續投資。"
+    },
+    {
+      "page_no": 18,
+      "text": "按固定匯率基準提供增長率及作出評述。"
+    },
+    {
+      "page_no": 18,
+      "text": "概要及主要財務摘要"
+    },
+    {
+      "page_no": 19,
+      "text": "期高出15%。"
+    },
+    {
+      "page_no": 19,
+      "text": "改善，而本集團的續保率為95%。"
+    },
+    {
+      "page_no": 19,
+      "text": "19.97億美元後，自由盈餘為134.73億美元。"
+    },
+    {
+      "page_no": 20,
+      "text": "新業務表現"
+    },
+    {
+      "page_no": 20,
+      "text": "按分部劃分的新業務價值、年化新保費及利潤率"
+    },
+    {
+      "page_no": 21,
+      "text": "出限制在下半年放寬，新業務價值錄得正面按月增長。"
+    },
+    {
+      "page_no": 21,
+      "text": "帶動新業務價值利潤率在下半年顯著回升。"
+    },
+    {
+      "page_no": 21,
+      "text": "點，而2020年整體利潤率為59.9%。"
+    },
+    {
+      "page_no": 22,
+      "text": "內涵價值權益"
+    },
+    {
+      "page_no": 22,
+      "text": "內涵價值營運溢利"
+    },
+    {
+      "page_no": 22,
+      "text": "每股內涵價值營運盈利－基本"
+    },
+    {
+      "page_no": 22,
+      "text": "每股內涵價值營運盈利－攤薄"
+    },
+    {
+      "page_no": 22,
+      "text": "內涵價值變動"
+    },
+    {
+      "page_no": 22,
+      "text": "正面影響，以及調整合併資本要求的影響所抵銷。"
+    },
+    {
+      "page_no": 23,
+      "text": "內涵價值變動分析如下："
+    },
+    {
+      "page_no": 23,
+      "text": "2020年"
+    },
+    {
+      "page_no": 23,
+      "text": "2019年"
+    },
+    {
+      "page_no": 24,
+      "text": "內涵價值權益"
+    },
+    {
+      "page_no": 24,
+      "text": "內涵價值及新業務價值敏感度"
+    },
+    {
+      "page_no": 24,
+      "text": "整。"
+    },
+    {
+      "page_no": 24,
+      "text": "百萬美元，除另有說明外"
+    },
+    {
+      "page_no": 24,
+      "text": "股本價格變動的影響"
+    },
+    {
+      "page_no": 24,
+      "text": "利率變動的影響"
+    },
+    {
+      "page_no": 25,
+      "text": "改善，而本集團的續保率為95%。"
+    },
+    {
+      "page_no": 25,
+      "text": "降大幅抵銷了正面營運經驗及相關業務增長。"
+    },
+    {
+      "page_no": 25,
+      "text": "8%。"
+    },
+    {
+      "page_no": 26,
+      "text": "按分部劃分的總加權保費收入"
+    },
+    {
+      "page_no": 26,
+      "text": "取保費的90%以上。"
+    },
+    {
+      "page_no": 26,
+      "text": "國際財務報告準則營運溢利投資回報"
+    },
+    {
+      "page_no": 26,
+      "text": "營運開支"
+    },
+    {
+      "page_no": 27,
+      "text": "純利(1)(3)"
+    }
+  ],
+  "company_memory_titles": [
+    {
+      "source": "主席報告",
+      "target": "Chairman’s Statement",
+      "source_kind": "line_map"
+    },
+    {
+      "source": "企業管治",
+      "target": "Corporate Governance",
+      "source_kind": "line_map"
+    },
+    {
+      "source": "友邦保險一覽",
+      "target": "AIA At-A-Glance",
+      "source_kind": "line_map"
+    },
+    {
+      "source": "我們的團隊",
+      "target": "Our People",
+      "source_kind": "line_map"
+    },
+    {
+      "source": "業務回顧",
+      "target": "Business Review",
+      "source_kind": "line_map"
+    },
+    {
+      "source": "監管及國際發展",
+      "target": "Regulatory and International Developments",
+      "source_kind": "exact_map"
+    },
+    {
+      "source": "目錄",
+      "target": "Contents",
+      "source_kind": "line_map"
+    },
+    {
+      "source": "董事會",
+      "target": "Board of Directors",
+      "source_kind": "line_map"
+    },
+    {
+      "source": "董事責任聲明",
+      "target": "Statement of Directors’ Responsibilities",
+      "source_kind": "line_map"
+    },
+    {
+      "source": "財務及營運回顧",
+      "target": "Financial and Operating Review",
+      "source_kind": "line_map"
+    },
+    {
+      "source": "集團首席執行官兼總裁報告",
+      "target": "Group Chief Executive and President’s Report",
+      "source_kind": "exact_map"
+    },
+    {
+      "source": "風險管理",
+      "target": "Risk Management",
+      "source_kind": "line_map"
+    }
+  ],
+  "company_memory_terms": [
+    {
+      "source": "主席報告",
+      "target": "CHAIRMAN’S STATEMENT"
+    },
+    {
+      "source": "企業管治",
+      "target": "CORPORATE GOVERNANCE"
+    },
+    {
+      "source": "友邦保險一覽",
+      "target": "AIA AT-A-GLANCE"
+    },
+    {
+      "source": "我們的團隊",
+      "target": "OUR PEOPLE"
+    },
+    {
+      "source": "業務回顧",
+      "target": "BUSINESS REVIEW"
+    },
+    {
+      "source": "目錄",
+      "target": "CONTENTS"
+    },
+    {
+      "source": "董事會",
+      "target": "BOARD OF DIRECTORS"
+    },
+    {
+      "source": "董事責任聲明",
+      "target": "STATEMENT OF DIRECTORS’ RESPONSIBILITIES"
+    },
+    {
+      "source": "財務及營運回顧",
+      "target": "FINANCIAL AND OPERATING REVIEW"
+    },
+    {
+      "source": "風險管理",
+      "target": "RISK MANAGEMENT"
+    }
+  ]
+}
+返回格式示例：
+{
+  "document_profile": {
+    "company_name_source": "",
+    "company_name_target": "",
+    "industry": "",
+    "report_type": "annual_report",
+    "source_language": "Traditional Chinese",
+    "target_language": "English",
+    "style_keywords": [],
+    "confidence": "medium"
+  },
+  "section_map": [],
+  "role_map": [],
+  "termbase": [],
+  "style_guide": {
+    "global_rules": [],
+    "title_rules": [],
+    "table_rules": [],
+    "body_rules": []
+  },
+  "risk_policy": {
+    "high_risk_flags": [],
+    "context_escalation_rules": []
+  }
+}

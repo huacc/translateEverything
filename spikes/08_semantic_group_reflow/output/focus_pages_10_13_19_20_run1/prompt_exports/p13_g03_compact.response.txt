@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p13_g03",
+      "translation": "Although COVID-19 containment measures reduced new business value to US$2.765 billion, sales momentum turned positive as restrictions eased, with 15% year-on-year growth in the first two months of 2021. Our large and growing in-force policy portfolio generated high-quality recurring revenue, driving 5% operating profit after tax growth in 2020 and 7% basic free surplus growth. As at 31 December 2020, embedded value equity reached a record US$67.2 billion, with local capital aggregation coverage ratio at 374%, reflecting strong capital position and prudent financial management."
+    }
+  ]
+}
+```

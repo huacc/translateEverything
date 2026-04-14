@@ -1,0 +1,21 @@
+{
+  "content": [
+    {
+      "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p43_b1\",\n      \"translation\": \"AIA's Singapore business achieved strong recovery in the second half. Compared to the first half, new business value in H2 2020 increased 56%, and year-on-year growth was\"\n    },\n    {\n      \"block_id\": \"p43_b2\",\n      \"translation\": \"12%. Full-year new business value declined 5%, as growth in agent channel new business was offset by decreased partner distribution new business, with\"\n    },\n    {\n      \"block_id\": \"p43_b3\",\n      \"translation\": \"sales to offshore customer segments particularly impacted by border control measures. Improved product mix and increased new business volume reduced underwriting expense overruns,\"\n    },\n    {\n      \"block_id\": \"p43_b4\",\n      \"translation\": \"Overview\\nFinancial and Operational Review\\nCorporate Governance\\nOther Information\\nFinancial Statements\"\n    },\n    {\n      \"block_id\": \"p43_b5\",\n      \"translation\": \"driving significant recovery in new business value profit margin in H2.\"\n    },\n    {\n      \"block_id\": \"p43_b6\",\n      \"translation\": \"Compared to H1, AIA's Malaysia business recorded 72% new business value growth in H2, and double-digit new business value growth compared to H2 2019.\"\n    },\n    {\n      \"block_id\": \"p43_b7\",\n      \"translation\": \"Full-year new business value declined 13%, reflecting the impact of strict movement restrictions related to COVID-19 in H1 2020.\"\n    },\n    {\n      \"block_id\": \"p43_b8\",\n      \"translation\": \"Positive product mix shift and reduced underwriting expense overruns improved new business value profit margin by 16.6 percentage points in H2, with full-year 2020 margin at 59.9%.\"\n    },\n    {\n      \"block_id\": \"p43_b9\",\n      \"translation\": \"Full-year 2020 profit margin was 59.9%.\"\n    },\n    {\n      \"block_id\": \"p43_b10\",\n      \"translation\": \"In other markets, H2 2020 new business value increased 10% versus H1, with strong recovery in South Korea and Indonesia. Overall, new\"\n    },\n    {\n      \"block_id\": \"p43_b11\",\n      \"translation\": \"Zealand, Philippines and Indonesia recorded declines, resulting in 4% full-year new business value decrease. Other markets recorded positive new business value growth. Compared to\"\n    },\n    {\n      \"block_id\": \"p43_b12\",\n      \"translation\": \"2019, Vietnam, Taiwan and India achieved double-digit new business value growth in 2020.\"\n    },\n    {\n      \"block_id\": \"p43_b13\",\n      \"translation\": \"2020 Annual Report\\n041\"\n    }\n  ]\n}\n```",
+      "type": "text"
+    }
+  ],
+  "conversationId": "c9c2b8b4-c5ea-42f1-beb0-4e4bb55eb1ad",
+  "conversation_id": "c9c2b8b4-c5ea-42f1-beb0-4e4bb55eb1ad",
+  "id": "c9c2b8b4-c5ea-42f1-beb0-4e4bb55eb1ad",
+  "model": "claude-3-5-sonnet-20241022",
+  "role": "assistant",
+  "stop_reason": "end_turn",
+  "type": "message",
+  "usage": {
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1611,
+    "output_tokens": 634
+  }
+}

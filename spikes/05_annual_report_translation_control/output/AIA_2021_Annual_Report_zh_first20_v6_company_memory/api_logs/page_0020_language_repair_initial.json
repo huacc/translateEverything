@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "stage": "language_repair",
+    "page_no": 20
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 2200,
+    "temperature": 0,
+    "system": "你是一个用于 PDF 原位回填的翻译修复助手。\n上一轮输出中，部分文本块没有严格使用目标语言，或者出现了乱码/源语言残留。\n你的任务是只修复这些异常块。\n只返回 JSON，不要输出任何解释。\n\n硬约束：\n- 目标语言必须是 English。\n- 不允许保留中文、乱码或源语言残留，除非是受保护的数字、百分比、年份、货币或标准缩写。\n- 不要摘要，不要改写成另一种风格。\n- 保留 block_id。\n- 返回格式：{\"translations\": [{\"block_id\": \"...\", \"translation\": \"...\"}]}\n",
+    "messages": [
+      {
+        "role": "user",
+        "content": "以下文本块的上一轮译文不符合目标语言要求，请重新给出目标语言译文。\n只输出严格 JSON。\n{\n  \"page_no\": 20,\n  \"source_language\": \"Traditional Chinese\",\n  \"target_language\": \"English\",\n  \"problem_blocks\": [\n    {\n      \"block_id\": \"p20_b28\",\n      \"source_text\": \"有限。隨著外出限制放寬，新業務動力得以迅速改善。新業務價值重拾我們慣常的季節性規律，比重更側重於上\",\n      \"current_translation\": \"\",\n      \"block_type\": \"body\",\n      \"line_count\": 1,\n      \"char_count\": 49\n    },\n    {\n      \"block_id\": \"p20_b29\",\n      \"source_text\": \"半年。在2020年，友邦保險中國業務為集團的新業務價值帶來最大貢獻。\",\n      \"current_translation\": \"\",\n      \"block_type\": \"body\",\n      \"line_count\": 1,\n      \"char_count\": 34\n    },\n    {\n      \"block_id\": \"p20_b30\",\n      \"source_text\": \"在實施旅遊限制後，友邦保險香港業務來自中國內地訪港客戶的新業務銷售自2020年2月初起實際上已暫停，導\",\n      \"current_translation\": \"\",\n      \"block_type\": \"body\",\n      \"line_count\": 1,\n      \"char_count\": 51\n    },\n    {\n      \"block_id\": \"p20_b31\",\n      \"source_text\": \"致其新業務價值大幅下降。新業務價值利潤率錄得跌幅，反映新業務量減少導致承保開支超支、產品組合變動及\",\n      \"current_translation\": \"\",\n      \"block_type\": \"body\",\n      \"line_count\": 1,\n      \"char_count\": 49\n    },\n    {\n      \"block_id\": \"p20_b32\",\n      \"source_text\": \"利率下降的影響所致。澳門在2020年9月底恢復中國內地旅客個人遊計劃。這為澳門的中國內地訪澳客戶銷售回\",\n      \"current_translation\": \"\",\n      \"block_type\": \"body\",\n      \"line_count\": 1,\n      \"char_count\": 51\n    },\n    {\n      \"block_id\": \"p20_b33\",\n      \"source_text\": \"升提供支持，使其在第四季佔友邦保險澳門分公司的年化新保費總額超過三分之一。\",\n      \"current_translation\": \"\",\n      \"block_type\": \"body\",\n      \"line_count\": 1,\n      \"char_count\": 37\n    }\n  ]\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p20_b28\",\n      \"translation\": \"Limited. As travel restrictions eased, new business momentum improved rapidly. New business value resumed our typical seasonal patterns, with a greater proportion in the first\"\n    },\n    {\n      \"block_id\": \"p20_b29\",\n      \"translation\": \"half of the year. In 2020, AIA's China business contributed the most to the Group's new business value.\"\n    },\n    {\n      \"block_id\": \"p20_b30\",\n      \"translation\": \"Following the implementation of travel restrictions, new business sales from mainland China visitors to AIA's Hong Kong business were effectively suspended from early February 2020, resulting in\"\n    },\n    {\n      \"block_id\": \"p20_b31\",\n      \"translation\": \"a significant decline in new business value. New business value profit margin recorded a decrease, reflecting the impact of reduced new business volume leading to underwriting expense overruns, product mix changes, and\"\n    },\n    {\n      \"block_id\": \"p20_b32\",\n      \"translation\": \"lower interest rates. Macau resumed the Individual Visit Scheme for mainland China tourists in late September 2020. This provided support for sales recovery from mainland China visitors to AIA's Macau branch, accounting for\"\n    },\n    {\n      \"block_id\": \"p20_b33\",\n      \"translation\": \"more than one-third of the annualized new premium income of AIA's Macau branch in the fourth quarter.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "46db7f0a-09d8-498a-81d8-a4abb51a4f5d",
+    "conversation_id": "46db7f0a-09d8-498a-81d8-a4abb51a4f5d",
+    "id": "46db7f0a-09d8-498a-81d8-a4abb51a4f5d",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1010,
+      "output_tokens": 338
+    }
+  }
+}

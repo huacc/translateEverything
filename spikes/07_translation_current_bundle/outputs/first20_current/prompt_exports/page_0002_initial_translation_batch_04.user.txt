@@ -1,0 +1,97 @@
+﻿请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。
+要求高保真、正式、可出版，不要摘要，不要解释。
+术语表和动态文档背景优先于自由翻译。
+只输出严格 JSON。
+{
+  "page_no": 2,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "relevant_terms": [
+    {
+      "source": "新加坡",
+      "target": "Singapore"
+    },
+    {
+      "source": "泰國",
+      "target": "Thailand"
+    },
+    {
+      "source": "馬來西亞",
+      "target": "Malaysia"
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "p2_b28",
+      "block_type": "label",
+      "source_text": "的需要。此外，本集團亦為企業客戶",
+      "line_count": 1,
+      "char_count": 16,
+      "region": "middle",
+      "font_size_avg": 8.0
+    },
+    {
+      "block_id": "p2_b29",
+      "block_type": "label",
+      "source_text": "083 董事會報告",
+      "line_count": 1,
+      "char_count": 9,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p2_b30",
+      "block_type": "label",
+      "source_text": "特別行政區、泰國、新加坡、馬來西亞、",
+      "line_count": 1,
+      "char_count": 18,
+      "region": "middle",
+      "font_size_avg": 8.0
+    },
+    {
+      "block_id": "p2_b31",
+      "block_type": "label",
+      "source_text": "提供僱員福利、信貸保險和退休保障",
+      "line_count": 1,
+      "char_count": 16,
+      "region": "middle",
+      "font_size_avg": 8.0
+    },
+    {
+      "block_id": "p2_b32",
+      "block_type": "label",
+      "source_text": "096 企業管治報告",
+      "line_count": 1,
+      "char_count": 10,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p2_b33",
+      "block_type": "label",
+      "source_text": "澳洲、柬埔寨、印尼、緬甸、菲律賓、",
+      "line_count": 1,
+      "char_count": 17,
+      "region": "middle",
+      "font_size_avg": 8.0
+    },
+    {
+      "block_id": "p2_b34",
+      "block_type": "label",
+      "source_text": "服務。集團透過遍佈亞洲的龐大專屬",
+      "line_count": 1,
+      "char_count": 16,
+      "region": "middle",
+      "font_size_avg": 8.0
+    },
+    {
+      "block_id": "p2_b35",
+      "block_type": "label",
+      "source_text": "110 薪酬報告",
+      "line_count": 1,
+      "char_count": 8,
+      "region": "middle",
+      "font_size_avg": 9.0
+    }
+  ]
+}

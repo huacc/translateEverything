@@ -1,0 +1,84 @@
+﻿请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。
+要求高保真、正式、可出版，不要摘要，不要解释。
+术语表和动态文档背景优先于自由翻译。
+只输出严格 JSON。
+{
+  "page_no": 2,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "relevant_terms": [],
+  "blocks": [
+    {
+      "block_id": "p2_b53",
+      "block_type": "label",
+      "source_text": "136 合併權益變動表",
+      "line_count": 1,
+      "char_count": 11,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p2_b54",
+      "block_type": "label",
+      "source_text": "按壽險保費計算，集團在亞洲（日本",
+      "line_count": 1,
+      "char_count": 16,
+      "region": "middle",
+      "font_size_avg": 8.0
+    },
+    {
+      "block_id": "p2_b55",
+      "block_type": "label",
+      "source_text": "場外交易市場進行買賣（交易編號為",
+      "line_count": 1,
+      "char_count": 16,
+      "region": "middle",
+      "font_size_avg": 8.0
+    },
+    {
+      "block_id": "p2_b56",
+      "block_type": "label",
+      "source_text": "138 合併現金流量表",
+      "line_count": 1,
+      "char_count": 11,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p2_b57",
+      "block_type": "label",
+      "source_text": "除外）領先同業，並於大部分市場穩佔",
+      "line_count": 1,
+      "char_count": 17,
+      "region": "middle",
+      "font_size_avg": 8.0
+    },
+    {
+      "block_id": "p2_b58",
+      "block_type": "label",
+      "source_text": "「AAGIY」）。",
+      "line_count": 1,
+      "char_count": 9,
+      "region": "middle",
+      "font_size_avg": 8.27
+    },
+    {
+      "block_id": "p2_b59",
+      "block_type": "label",
+      "source_text": "140 合併財務報表附註\n及主要會計政策",
+      "line_count": 2,
+      "char_count": 20,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p2_b60",
+      "block_type": "label",
+      "source_text": "領導地位。截至2020年12月31日，集團",
+      "line_count": 1,
+      "char_count": 21,
+      "region": "middle",
+      "font_size_avg": 8.3
+    }
+  ]
+}

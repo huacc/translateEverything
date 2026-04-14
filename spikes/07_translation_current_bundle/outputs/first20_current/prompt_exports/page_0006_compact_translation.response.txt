@@ -1,0 +1,58 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p6_b4",
+      "translation": "generations."
+    },
+    {
+      "block_id": "p6_b6",
+      "translation": "Committed to bringing significant and positive impact to our customers and communities"
+    },
+    {
+      "block_id": "p6_b9",
+      "translation": "Pan-Asian independent listed life insurance group operating"
+    },
+    {
+      "block_id": "p6_b10",
+      "translation": "across the region to help people achieve healthy, long and fulfilling lives. Our purpose"
+    },
+    {
+      "block_id": "p6_b11",
+      "translation": "spans 18 markets, serving over 38 million individual policyholders"
+    },
+    {
+      "block_id": "p6_b15",
+      "translation": "plan members."
+    },
+    {
+      "block_id": "p6_b16",
+      "translation": "We support our customers in achieving their financial goals."
+    },
+    {
+      "block_id": "p6_b17",
+      "translation": "We believe that now and in the future, the most important and most"
+    },
+    {
+      "block_id": "p6_b18",
+      "translation": "valuable contribution we can make to our communities is to"
+    },
+    {
+      "block_id": "p6_b19",
+      "translation": "support social and economic development. One of the most worthwhile"
+    },
+    {
+      "block_id": "p6_b20",
+      "translation": "contributions we can make is to support social and economic"
+    },
+    {
+      "block_id": "p6_b21",
+      "translation": "development across Asia while helping create a healthier Asia."
+    },
+    {
+      "block_id": "p6_b22",
+      "translation": "We are committed to expanding life insurance coverage and impact. We are also proud"
+    }
+  ]
+}
+```

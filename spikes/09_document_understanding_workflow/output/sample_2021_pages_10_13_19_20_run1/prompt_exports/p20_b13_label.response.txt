@@ -1,0 +1,37 @@
+```json
+{
+  "unit_id": "p20_b13",
+  "page_no": 20,
+  "section_id": "新業務表現",
+  "content_type": "financial_table_data",
+  "speaker_role": null,
+  "topic_tags": [
+    "geographic_market_segment",
+    "financial_metrics",
+    "new_business_performance"
+  ],
+  "term_hits": [
+    {
+      "source_term": "中國內地",
+      "target_term": "Mainland China",
+      "context": "geographic_reference",
+      "confidence": "high"
+    }
+  ],
+  "needs_context": true,
+  "context_scope": "table",
+  "risk_level": "high",
+  "risk_flags": [
+    "geographic_market_names",
+    "percentage_and_ratio_precision",
+    "financial_metric_translation"
+  ],
+  "translation_constraints": [
+    "Preserve exact numerical values and decimal precision",
+    "Maintain percentage formatting (e.g., 80.9%, 93.5%, (17)%)",
+    "Standardize currency notation if applicable to table context",
+    "Verify table column headers to determine metric definitions",
+    "Preserve parenthetical notation for negative values"
+  ]
+}
+```

@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 10,
+    "unit_id": "p10_g05"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是上市公司年报英文翻译器。\n语言方向：Traditional Chinese -> English。\n你只处理当前翻译单元。\n如果当前单元由多个连续文本块组成，只允许在当前组内恢复被换行打散的句子和段落；只做最小必要融合，不得引入组外信息。\n标题、栏目名、表头、图表标签要短、稳、标准；正文要保持正式披露语体。\n数字、百分比、货币、年份、专有名词、公司名、人名、地名、财务指标必须准确。\n不增删事实，不补充因果，不输出残句，不重复表达。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市公司企业年报\n请优先使用背景中的标准叫法和术语。\n{\n  \"document_background\": {\n    \"global_profile\": {\n      \"company_name_target\": \"AIA GROUP LIMITED\",\n      \"industry\": \"Life Insurance\",\n      \"report_type\": \"annual_report\",\n      \"report_year\": 2020,\n      \"style_keywords\": [\n        \"corporate governance\",\n        \"financial performance\",\n        \"stakeholder communication\",\n        \"ESG commitment\"\n      ]\n    },\n    \"page_sections\": [\n      {\n        \"target_section\": \"Chairman's Statement\",\n        \"content_type\": \"chairman_statement\",\n        \"page_range\": [\n          10,\n          11\n        ]\n      },\n      {\n        \"target_section\": \"Overview\",\n        \"content_type\": \"executive_summary\",\n        \"page_range\": [\n          8,\n          16\n        ]\n      }\n    ],\n    \"roles\": [\n      {\n        \"source\": \"謝仕榮先生\",\n        \"target\": \"Mr. Tse Sze-wing\",\n        \"role\": \"Independent Non-Executive Chairman\"\n      }\n    ],\n    \"terms\": [\n      {\n        \"source\": \"稅後營運溢利\",\n        \"target\": \"Operating Profit After Tax\",\n        \"abbreviation\": \"OPAT\",\n        \"context\": \"financial_metric\",\n        \"confidence\": \"high\"\n      },\n      {\n        \"source\": \"內涵價值\",\n        \"target\": \"Embedded Value\",\n        \"abbreviation\": \"EV\",\n        \"context\": \"valuation_metric\",\n        \"confidence\": \"high\"\n      },\n      {\n        \"source\": \"自由盈餘\",\n        \"target\": \"Free Surplus\",\n        \"abbreviation\": \"\",\n        \"context\": \"capital_metric\",\n        \"confidence\": \"high\"\n      }\n    ],\n    \"style_rules\": [\n      \"Preserve financial terminology consistency\",\n      \"Use formal corporate register throughout\",\n      \"Maintain parallel structure in lists and tables\",\n      \"Preserve table structure and alignment\",\n      \"Translate table headers consistently with body text\",\n      \"Maintain footnote references and numbering\",\n      \"Convert currency units with precision\"\n    ]\n  },\n  \"matched_terms\": [\n    {\n      \"source\": \"稅後營運溢利\",\n      \"target\": \"operating profit after tax\"\n    },\n    {\n      \"source\": \"內涵價值\",\n      \"target\": \"embedded value\"\n    },\n    {\n      \"source\": \"稅後營運溢利\",\n      \"target\": \"Operating Profit After Tax\"\n    },\n    {\n      \"source\": \"內涵價值\",\n      \"target\": \"Embedded Value\"\n    },\n    {\n      \"source\": \"自由盈餘\",\n      \"target\": \"Free Surplus\"\n    }\n  ],\n  \"current_unit\": {\n    \"page_no\": 10,\n    \"unit_id\": \"p10_g05\",\n    \"unit_mode\": \"semantic_group\",\n    \"block_types\": [\n      \"body\",\n      \"body\",\n      \"label\"\n    ],\n    \"blocks\": [\n      {\n        \"block_id\": \"p10_b22\",\n        \"source_text\": \"稅後營運溢利增長5%至59.42億美元，產生的基本自由盈餘則上升7%至58.43億美元，反映我們擁有高質素的\"\n      },\n      {\n        \"block_id\": \"p10_b23\",\n        \"source_text\": \"經常性盈利來源。內涵價值權益創新高，達672億美元。截至2020年12月31日，集團當地資本總和法覆蓋率為\"\n      },\n      {\n        \"block_id\": \"p10_b24\",\n        \"source_text\": \"374%，足證我們雄厚的資本實力和嚴謹的財務管理。\"\n      }\n    ],\n    \"joined_source_text\": \"稅後營運溢利增長5%至59.42億美元，產生的基本自由盈餘則上升7%至58.43億美元，反映我們擁有高質素的\\n經常性盈利來源。內涵價值權益創新高，達672億美元。截至2020年12月31日，集團當地資本總和法覆蓋率為\\n374%，足證我們雄厚的資本實力和嚴謹的財務管理。\"\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p10_g05\",\n        \"translation\": \"<译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p10_g05\",\n      \"translation\": \"Operating Profit After Tax grew 5% to USD 5.942 billion, with underlying Free Surplus generated increasing 7% to USD 5.843 billion, reflecting our high-quality recurring earnings sources. Embedded Value equity reached a record high of USD 67.2 billion. As at 31 December 2020, the Group's local capital aggregation method coverage ratio stood at 374%, demonstrating our strong capital position and prudent financial management.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "54f74acf-9e7d-4526-be9a-00c4369c73ce",
+    "conversation_id": "54f74acf-9e7d-4526-be9a-00c4369c73ce",
+    "id": "54f74acf-9e7d-4526-be9a-00c4369c73ce",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1406,
+      "output_tokens": 120
+    }
+  }
+}

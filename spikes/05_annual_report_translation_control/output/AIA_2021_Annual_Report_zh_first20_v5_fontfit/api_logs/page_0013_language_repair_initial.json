@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "stage": "language_repair",
+    "page_no": 13
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 2200,
+    "temperature": 0,
+    "system": "你是一个用于 PDF 原位回填的翻译修复助手。\n上一轮输出中，部分文本块没有严格使用目标语言，或者出现了乱码/源语言残留。\n你的任务是只修复这些异常块。\n只返回 JSON，不要输出任何解释。\n\n硬约束：\n- 目标语言必须是 English。\n- 不允许保留中文、乱码或源语言残留，除非是受保护的数字、百分比、年份、货币或标准缩写。\n- 不要摘要，不要改写成另一种风格。\n- 保留 block_id。\n- 返回格式：{\"translations\": [{\"block_id\": \"...\", \"translation\": \"...\"}]}\n",
+    "messages": [
+      {
+        "role": "user",
+        "content": "以下文本块的上一轮译文不符合目标语言要求，请重新给出目标语言译文。\n只输出严格 JSON。\n{\n  \"page_no\": 13,\n  \"source_language\": \"Traditional Chinese\",\n  \"target_language\": \"English\",\n  \"problem_blocks\": [\n    {\n      \"block_id\": \"p13_b23\",\n      \"source_text\": \"我們旨在使友邦保險在科技應用方面領先全球，加強互聯互通，擴大規模和提升效率。更深入瞭解數據分析有助\",\n      \"current_translation\": \"\",\n      \"block_type\": \"body\",\n      \"line_count\": 1,\n      \"char_count\": 49\n    },\n    {\n      \"block_id\": \"p13_b24\",\n      \"source_text\": \"我們締造獨特和個人化的客戶體驗。切合和反映個人需求和生活方式的產品及服務，改變了大眾對人壽保險的看\",\n      \"current_translation\": \"\",\n      \"block_type\": \"body\",\n      \"line_count\": 1,\n      \"char_count\": 49\n    },\n    {\n      \"block_id\": \"p13_b25\",\n      \"source_text\": \"法，為我們與客戶建立長遠關係奠定堅實的基礎。\",\n      \"current_translation\": \"\",\n      \"block_type\": \"label\",\n      \"line_count\": 1,\n      \"char_count\": 22\n    },\n    {\n      \"block_id\": \"p13_b26\",\n      \"source_text\": \"儘管2020年是前所未見的一年，但我對亞洲壽險行業的前景和友邦保險的未來比以往更為樂觀。我們繼續挑戰自\",\n      \"current_translation\": \"\",\n      \"block_type\": \"body\",\n      \"line_count\": 1,\n      \"char_count\": 51\n    },\n    {\n      \"block_id\": \"p13_b27\",\n      \"source_text\": \"己，發展我們的優先任務，以確保我們能繼續適切地迎合客戶期望和財務需求的轉變。我們的全新企業策略建基\",\n      \"current_translation\": \"\",\n      \"block_type\": \"body\",\n      \"line_count\": 1,\n      \"char_count\": 49\n    },\n    {\n      \"block_id\": \"p13_b28\",\n      \"source_text\": \"於友邦保險的現有實力，推進轉型過程，以在未來為客戶提供最佳的服務。\",\n      \"current_translation\": \"\",\n      \"block_type\": \"body\",\n      \"line_count\": 1,\n      \"char_count\": 33\n    }\n  ]\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p13_b23\",\n      \"translation\": \"We aim to position AIA at the forefront of technology application globally, strengthen interconnectivity, expand scale and enhance efficiency. A deeper understanding of data analytics helps\"\n    },\n    {\n      \"block_id\": \"p13_b24\",\n      \"translation\": \"us create unique and personalized customer experiences. Products and services that align with and reflect individual needs and lifestyles have transformed public perception of life insurance,\"\n    },\n    {\n      \"block_id\": \"p13_b25\",\n      \"translation\": \"laying a solid foundation for building long-term relationships with our customers.\"\n    },\n    {\n      \"block_id\": \"p13_b26\",\n      \"translation\": \"Although 2020 was an unprecedented year, I am more optimistic than ever about the prospects of Asia's life insurance industry and AIA's future. We continue to challenge ourselves,\"\n    },\n    {\n      \"block_id\": \"p13_b27\",\n      \"translation\": \"develop our priorities, and ensure we can continue to appropriately meet the evolving expectations and financial needs of our customers. Our new corporate strategy is built on\"\n    },\n    {\n      \"block_id\": \"p13_b28\",\n      \"translation\": \"AIA's existing strengths, advancing our transformation to deliver the best service to customers in the future.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "0db2255e-7435-4a0f-8e83-65740a1ae894",
+    "conversation_id": "0db2255e-7435-4a0f-8e83-65740a1ae894",
+    "id": "0db2255e-7435-4a0f-8e83-65740a1ae894",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 977,
+      "output_tokens": 309
+    }
+  }
+}

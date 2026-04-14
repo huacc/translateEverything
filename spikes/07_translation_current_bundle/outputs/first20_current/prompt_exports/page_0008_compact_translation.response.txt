@@ -1,0 +1,22 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p8_b3",
+      "translation": "New business value(2)(8)"
+    },
+    {
+      "block_id": "p8_b4",
+      "translation": "Annualized new premiums(3)(8)"
+    },
+    {
+      "block_id": "p8_b76",
+      "translation": "US$ BN"
+    },
+    {
+      "block_id": "p8_b110",
+      "translation": "Total Assets\nTotal Liabilities"
+    }
+  ]
+}
+```

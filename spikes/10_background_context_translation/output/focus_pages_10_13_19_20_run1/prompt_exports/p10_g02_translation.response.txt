@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p10_g02",
+      "translation": "During the COVID-19 pandemic, our colleagues cared for the community and fulfilled their duties, continuing to serve millions of customers"
+    }
+  ]
+}
+```

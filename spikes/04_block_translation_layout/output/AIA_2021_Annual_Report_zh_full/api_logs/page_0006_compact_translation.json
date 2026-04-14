@@ -1,0 +1,21 @@
+{
+  "content": [
+    {
+      "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p6_b1\",\n      \"translation\": \"AIA founded by Starr\"\n    },\n    {\n      \"block_id\": \"p6_b4\",\n      \"translation\": \"generations\"\n    },\n    {\n      \"block_id\": \"p6_b5\",\n      \"translation\": \"Est. 1919, Shanghai\"\n    },\n    {\n      \"block_id\": \"p6_b6\",\n      \"translation\": \"Positive impact for customers & communities\"\n    },\n    {\n      \"block_id\": \"p6_b7\",\n      \"translation\": \"Now world's largest Pan-Asia\"\n    },\n    {\n      \"block_id\": \"p6_b8\",\n      \"translation\": \"Help people live healthier, longer lives\"\n    },\n    {\n      \"block_id\": \"p6_b9\",\n      \"translation\": \"Independent listed life insurer, 18 markets\"\n    },\n    {\n      \"block_id\": \"p6_b10\",\n      \"translation\": \"Goal: healthier, longer, better lives\"\n    },\n    {\n      \"block_id\": \"p6_b11\",\n      \"translation\": \"38M+ individual policyholders\"\n    },\n    {\n      \"block_id\": \"p6_b13\",\n      \"translation\": \"16M+ group insurance members\"\n    },\n    {\n      \"block_id\": \"p6_b14\",\n      \"translation\": \"Help understand & manage health\"\n    },\n    {\n      \"block_id\": \"p6_b16\",\n      \"translation\": \"Meet savings & protection needs\"\n    },\n    {\n      \"block_id\": \"p6_b17\",\n      \"translation\": \"Most important work: community support\"\n    },\n    {\n      \"block_id\": \"p6_b19\",\n      \"translation\": \"Support economic development\"\n    },\n    {\n      \"block_id\": \"p6_b20\",\n      \"translation\": \"Expand life insurance coverage in Asia\"\n    },\n    {\n      \"block_id\": \"p6_b22\",\n      \"translation\": \"Long-term customer & agent relationships\"\n    },\n    {\n      \"block_id\": \"p6_b23\",\n      \"translation\": \"Proud partnerships with stakeholders\"\n    },\n    {\n      \"block_id\": \"p6_b24\",\n      \"translation\": \"004\"\n    }\n  ]\n}\n```",
+      "type": "text"
+    }
+  ],
+  "conversationId": "3ba9da48-dc28-4fb4-a749-fc150dc812ba",
+  "conversation_id": "3ba9da48-dc28-4fb4-a749-fc150dc812ba",
+  "id": "3ba9da48-dc28-4fb4-a749-fc150dc812ba",
+  "model": "claude-3-5-sonnet-20241022",
+  "role": "assistant",
+  "stop_reason": "end_turn",
+  "type": "message",
+  "usage": {
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2885,
+    "output_tokens": 525
+  }
+}

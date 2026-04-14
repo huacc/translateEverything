@@ -1,0 +1,79 @@
+﻿请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。
+要求高保真、正式、可出版，不要摘要，不要解释。
+术语表和动态文档背景优先于自由翻译。
+只输出严格 JSON。
+{
+  "page_no": 19,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "relevant_terms": [
+    {
+      "source": "友邦保險",
+      "target": "AIA"
+    },
+    {
+      "source": "新業務價值",
+      "target": "new business value"
+    },
+    {
+      "source": "中國內地",
+      "target": "Mainland China"
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "p19_b1",
+      "block_type": "body",
+      "source_text": "大流行病對我們2020年財務表現的主要影響是對新業務銷售的影響，原因在於我們眾多市場的遏制傳播措施限制",
+      "line_count": 1,
+      "char_count": 51,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p19_b2",
+      "block_type": "body",
+      "source_text": "了面對面的銷售活動，尤其是在2020年上半年。儘管2020年的新業務價值27.65億美元較2019年減少了33%，我",
+      "line_count": 1,
+      "char_count": 58,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p19_b3",
+      "block_type": "body",
+      "source_text": "們迅速採用了新的數碼工具，並且外出限制的普遍放寬支持了銷售勢頭的恢復。友邦保險中國業務為2020年本集",
+      "line_count": 1,
+      "char_count": 51,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p19_b5",
+      "block_type": "body",
+      "source_text": "團的新業務價值帶來最大貢獻，也是我們第一個顯示銷售勢頭有所恢復的報告分部，原因在於該地區自2020年3",
+      "line_count": 1,
+      "char_count": 51,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p19_b6",
+      "block_type": "body",
+      "source_text": "月逐步放寬嚴格的封鎖。撇除維持低位的中國內地訪港旅客銷售額，本集團其他分部的新業務價值在下半年強勁",
+      "line_count": 1,
+      "char_count": 49,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p19_b7",
+      "block_type": "body",
+      "source_text": "復甦，與上半年相比增長了23%。本集團的新業務發展勢頭在2021年持續強勁，首兩個月新業務價值較2020年同",
+      "line_count": 1,
+      "char_count": 54,
+      "region": "middle",
+      "font_size_avg": 9.0
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+```json
+{
+  "unit_id": "p20_g03",
+  "page_no": 20,
+  "section_id": "新業務表現",
+  "content_type": "business_metrics",
+  "speaker_role": "management",
+  "topic_tags": [
+    "new_business_performance",
+    "china_market",
+    "covid19_impact",
+    "year_over_year_comparison",
+    "seasonal_patterns"
+  ],
+  "term_hits": [
+    {
+      "source_term": "新業務價值",
+      "target_term": "New Business Value",
+      "abbreviation": "NBV",
+      "occurrences": 4
+    },
+    {
+      "source_term": "2019冠狀病毒病",
+      "target_term": "COVID-19",
+      "occurrences": 1
+    }
+  ],
+  "needs_context": true,
+  "context_scope": "section",
+  "risk_level": "high",
+  "risk_flags": [
+    "financial_metric_translation",
+    "percentage_precision",
+    "covid19_context_sensitivity",
+    "geographic_market_reference",
+    "temporal_comparison_accuracy"
+  ],
+  "translation_constraints": [
+    "Preserve exact financial figures: 9.68億美元, 17% decline",
+    "Maintain temporal references: 2021年首兩個月, 2020年同期, 第一季, 上半年",
+    "Standardize currency notation to USD/US$ format",
+    "Preserve seasonal pattern terminology consistency",
+    "Maintain comparative structure: 2020 vs 2019 performance metrics",
+    "Ensure COVID-19 terminology consistency throughout",
+    "Preserve causal relationship: pandemic impact → sales limitation → recovery trajectory"
+  ]
+}
+```

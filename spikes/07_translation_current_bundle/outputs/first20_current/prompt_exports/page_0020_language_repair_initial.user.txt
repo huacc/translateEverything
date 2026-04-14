@@ -1,0 +1,17 @@
+﻿以下文本块的上一轮译文不符合目标语言要求，请重新给出目标语言译文。
+只输出严格 JSON。
+{
+  "page_no": 20,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "problem_blocks": [
+    {
+      "block_id": "p20_b28",
+      "source_text": "有限。隨著外出限制放寬，新業務動力得以迅速改善。新業務價值重拾我們慣常的季節性規律，比重更側重於上",
+      "current_translation": "",
+      "block_type": "body",
+      "line_count": 1,
+      "char_count": 49
+    }
+  ]
+}

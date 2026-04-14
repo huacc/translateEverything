@@ -1,0 +1,30 @@
+文档场景：上市公司企业年报
+page_no: 20
+unit_id: p20_b9
+unit_mode: single_block
+blocks:
+[
+  {
+    "block_id": "p20_b9",
+    "source_text": "香港\n550\n44.7%\n1,138\n1,621\n66.1%\n2,393\n(66)%\n(66)%"
+  }
+]
+joined_source_text:
+香港
+550
+44.7%
+1,138
+1,621
+66.1%
+2,393
+(66)%
+(66)%
+返回格式:
+{
+  "translations": [
+    {
+      "unit_id": "p20_b9",
+      "translation": "<译文>"
+    }
+  ]
+}

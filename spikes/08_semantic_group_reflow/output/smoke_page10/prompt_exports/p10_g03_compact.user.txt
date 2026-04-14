@@ -1,0 +1,23 @@
+文档场景：上市公司企业年报
+page_no: 10
+unit_id: p10_g03
+unit_mode: semantic_group
+slot_count: 6
+source_text:
+友邦保險在亞洲歷史悠久，源遠流長，經歷各種社會動盪和不明朗時期仍能妥善管理業務，因而贏得卓著的
+聲譽，體現友邦保險誠可信賴、強韌穩健，並堅持為持分者做對的事。自2020年初以來，2019冠狀病毒病大流
+行導致營商環境不斷變化及日趨複雜，而政治、宏觀經濟及資本市場亦出現前所未見的轉移。在這樣的環境下，
+友邦保險的財務實力，以及「幫助大眾活出健康、長久、好生活」的目標，更具重大意義。本人衷心感謝友邦
+保險所有員工、代理和合作夥伴，即使面對最嚴峻的挑戰，他們仍關懷社區，克盡己職，專心致志地為客戶、
+其家庭以及我們的社區提供支援。
+current_translation:
+AIA has a long and storied history in Asia. Having navigated through various social upheavals and uncertain periods while managing our business prudently, we have earned a distinguished reputation that reflects AIA's trustworthiness, resilience and strength, and our commitment to doing the right thing for our stakeholders. Since early 2020, the COVID-19 pandemic has led to continuously evolving and increasingly complex business environments, while political, macroeconomic and capital market landscapes have undergone unprecedented shifts. In such an environment, AIA's financial strength and our mission to "help people live healthier, longer, better lives" have become even more significant. I am deeply grateful to all AIA employees, agents and partners who, despite facing the most severe challenges, continue to care for our communities, fulfill their responsibilities diligently, and dedicate themselves to providing support to our customers, their families and our communities.
+返回格式:
+{
+  "translations": [
+    {
+      "unit_id": "p10_g03",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

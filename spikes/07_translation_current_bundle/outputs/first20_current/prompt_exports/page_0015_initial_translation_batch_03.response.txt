@@ -1,0 +1,34 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p15_b14",
+      "translation": "approach, as well as enhancing our capability framework. These strategic priorities will support employee career development and further strengthen AIA's position as a preferred employer."
+    },
+    {
+      "block_id": "p15_b15",
+      "translation": "From the second half of 2020, we embarked on a journey to shape a transformational organization through AIA's operations in Singapore and Vietnam as two pilot business units."
+    },
+    {
+      "block_id": "p15_b16",
+      "translation": "Early results have delivered a more streamlined and customer-centric operating model. We have also implemented flexible working arrangements and established multiple cross-functional expert teams."
+    },
+    {
+      "block_id": "p15_b17",
+      "translation": "We plan to pilot and learn within these business units before scaling the \"Organization of the Future\" initiative to other operations."
+    },
+    {
+      "block_id": "p15_b18",
+      "translation": "Environmental, Social and Governance"
+    },
+    {
+      "block_id": "p15_b19",
+      "translation": "Over more than a century, AIA has made a positive and lasting impact on the lives of our customers across Asia. Our communities face numerous environmental, social and governance"
+    },
+    {
+      "block_id": "p15_b20",
+      "translation": "matters, including climate change, environmental pollution and lifestyle-related diseases. As the pandemic continues, it has highlighted the complexity of these issues. As a"
+    }
+  ]
+}
+```

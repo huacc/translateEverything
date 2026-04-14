@@ -1,0 +1,38 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p5_b1",
+      "translation": "AIA's purpose is to help people live healthier, longer, better lives."
+    },
+    {
+      "block_id": "p5_b2",
+      "translation": "In 2020, the COVID-19 pandemic brought unprecedented challenges to our communities."
+    },
+    {
+      "block_id": "p5_b3",
+      "translation": "We responded swiftly and comprehensively, including providing medical supplies to our communities"
+    },
+    {
+      "block_id": "p5_b4",
+      "translation": "and offering free insurance protection to frontline healthcare workers and sanitation personnel"
+    },
+    {
+      "block_id": "p5_b5",
+      "translation": "to ease their concerns as they risked their lives in the fight against the pandemic."
+    },
+    {
+      "block_id": "p5_b6",
+      "translation": "We provided free COVID-19 related coverage to over 25 million policies"
+    },
+    {
+      "block_id": "p5_b7",
+      "translation": "and offered USD 1 billion in premium support across 12 markets."
+    },
+    {
+      "block_id": "p5_b8",
+      "translation": "During the year, we paid out over USD 16 billion in insurance benefits and claims."
+    }
+  ]
+}
+```

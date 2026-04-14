@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p10_b21",
+      "translation": "Compared with the same period last year, new business value grew by 15% in the first two months of 2021."
+    }
+  ]
+}
+```

@@ -1,0 +1,36 @@
+```json
+{
+  "unit_id": "p10_g02",
+  "page_no": 10,
+  "section_id": "chairman_statement",
+  "content_type": "narrative_body",
+  "speaker_role": "management",
+  "topic_tags": [
+    "pandemic_response",
+    "corporate_values",
+    "stakeholder_engagement",
+    "business_continuity"
+  ],
+  "term_hits": [
+    {
+      "source_term": "2019冠狀病毒病",
+      "target_term": "COVID-19",
+      "context": "external_event"
+    }
+  ],
+  "needs_context": true,
+  "context_scope": "section",
+  "risk_level": "high",
+  "risk_flags": [
+    "COVID-19_context_sensitivity",
+    "executive_statement_tone_preservation",
+    "incomplete_sentence_fragment"
+  ],
+  "translation_constraints": [
+    "Preserve formal corporate register",
+    "Maintain parallel structure with subsequent clauses",
+    "Ensure COVID-19 terminology consistency",
+    "Verify complete sentence context (text appears truncated)"
+  ]
+}
+```

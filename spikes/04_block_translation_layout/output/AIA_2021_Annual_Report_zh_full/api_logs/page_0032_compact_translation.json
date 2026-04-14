@@ -1,0 +1,21 @@
+{
+  "content": [
+    {
+      "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p32_b1\",\n      \"translation\": \"Financial & Operational Review\"\n    },\n    {\n      \"block_id\": \"p32_b2\",\n      \"translation\": \"Group CFO Review\"\n    },\n    {\n      \"block_id\": \"p32_b3\",\n      \"translation\": \"Holding Co. Financial Resources\"\n    },\n    {\n      \"block_id\": \"p32_b4\",\n      \"translation\": \"Holding Co. Financial Resources is new disclosure replacing working capital from FY 2021, showing resources available for dividends.\"\n    },\n    {\n      \"block_id\": \"p32_b6\",\n      \"translation\": \"Comprises debt & equity securities, deposits, cash & equivalents of AIA Group Limited (holding company),\"\n    },\n    {\n      \"block_id\": \"p32_b7\",\n      \"translation\": \"plus unsettled subsidiary dividends, net of repurchase agreements.\"\n    },\n    {\n      \"block_id\": \"p32_b8\",\n      \"translation\": \"Forms part of Group Corporate Centre working capital. Holding company is part of Corporate Centre, shown below:\"\n    },\n    {\n      \"block_id\": \"p32_b9\",\n      \"translation\": \"AIA Corporate Structure(1)\"\n    },\n    {\n      \"block_id\": \"p32_b10\",\n      \"translation\": \"Group Corporate Centre\"\n    },\n    {\n      \"block_id\": \"p32_b11\",\n      \"translation\": \"Holding Company\\nAIA Group Limited\"\n    },\n    {\n      \"block_id\": \"p32_b12\",\n      \"translation\": \"Other Group\\nCorporate Entities\"\n    },\n    {\n      \"block_id\": \"p32_b13\",\n      \"translation\": \"Local Business Units\"\n    },\n    {\n      \"block_id\": \"p32_b14\",\n      \"translation\": \"Mainland China, Thailand, Singapore,\\nMalaysia, Others(2)\"\n    },\n    {\n      \"block_id\": \"p32_b17\",\n      \"translation\": \"Hong Kong, Others(3)\"\n    },\n    {\n      \"block_id\": \"p32_b18\",\n      \"translation\": \"(1) Diagram for illustration only, not all Group entities shown\\n(2) Australia, Brunei, Myanmar, Philippines, Sri Lanka\\n(3) Cambodia, Indonesia, India, South Korea, Macau, New Zealand, Taiwan, Vietnam\"\n    },\n    {\n      \"block_id\": \"p32_b19\",\n      \"translation\": \"31 Dec 2020: USD 12.388bn vs 31 Dec 2019: USD 8.630bn. Increase of USD 3.758bn\"\n    },\n    {\n      \"block_id\": \"p32_b20\",\n      \"translation\": \"mainly from subsidiary cash flows of USD 2.354bn and net borrowing proceeds of USD 2.792bn,\"\n    },\n    {\n      \"block_id\": \"p32_b21\",\n      \"translation\": \"offset by dividend payments of USD 1.997bn. 2020 & 2019 flows primarily from principal operating\"\n    },\n    {\n      \"block_id\": \"p32_b23\",\n      \"translation\": \"030\\nAIA Group Limited\"\n    }\n  ]\n}\n```",
+      "type": "text"
+    }
+  ],
+  "conversationId": "a9fb03cc-8c00-4ccb-82a2-d77ab2471631",
+  "conversation_id": "a9fb03cc-8c00-4ccb-82a2-d77ab2471631",
+  "id": "a9fb03cc-8c00-4ccb-82a2-d77ab2471631",
+  "model": "claude-3-5-sonnet-20241022",
+  "role": "assistant",
+  "stop_reason": "end_turn",
+  "type": "message",
+  "usage": {
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 3486,
+    "output_tokens": 720
+  }
+}

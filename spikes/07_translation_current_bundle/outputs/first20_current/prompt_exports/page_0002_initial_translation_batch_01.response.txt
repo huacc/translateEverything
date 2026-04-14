@@ -1,0 +1,38 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p2_b1",
+      "translation": "Our Purpose"
+    },
+    {
+      "block_id": "p2_b2",
+      "translation": "Contents"
+    },
+    {
+      "block_id": "p2_b3",
+      "translation": "Our purpose is to"
+    },
+    {
+      "block_id": "p2_b5",
+      "translation": "006 Financial Summary"
+    },
+    {
+      "block_id": "p2_b6",
+      "translation": "help people live healthier,"
+    },
+    {
+      "block_id": "p2_b7",
+      "translation": "008 Chairman's Statement"
+    },
+    {
+      "block_id": "p2_b8",
+      "translation": "longer, better lives."
+    },
+    {
+      "block_id": "p2_b9",
+      "translation": "010 Group Chief Executive Officer\nand President's Statement"
+    }
+  ]
+}
+```

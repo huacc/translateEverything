@@ -1,0 +1,38 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p10_b3",
+      "translation": "Chairman's Statement"
+    },
+    {
+      "block_id": "p10_b4",
+      "translation": "Over the past century, AIA"
+    },
+    {
+      "block_id": "p10_b5",
+      "translation": "has been recognised across Asia for providing protection to"
+    },
+    {
+      "block_id": "p10_b6",
+      "translation": "communities that greatly need our services, and we are proud"
+    },
+    {
+      "block_id": "p10_b7",
+      "translation": "of this legacy."
+    },
+    {
+      "block_id": "p10_b8",
+      "translation": "Mr. Xie Shirong\nIndependent Non-Executive Chairman"
+    },
+    {
+      "block_id": "p10_b9",
+      "translation": "During the COVID-19 pandemic,"
+    },
+    {
+      "block_id": "p10_b10",
+      "translation": "our colleagues have cared for our communities and fulfilled their duties with dedication,"
+    }
+  ]
+}
+```

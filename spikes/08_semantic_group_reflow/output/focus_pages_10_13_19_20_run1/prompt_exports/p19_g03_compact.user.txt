@@ -1,0 +1,19 @@
+文档场景：上市公司企业年报
+page_no: 19
+unit_id: p19_g03
+unit_mode: semantic_group
+slot_count: 2
+source_text:
+原因在於內涵價值營運溢利72.43億美元抵銷了政府債券收益率下降的影響。內涵價值營運溢利包括來自正面營
+運差異5.49億美元，原因在於與我們的內涵價值假設相比，我們的整體經驗持續維持正面。
+current_translation:
+This was due to embedded value operating profit of USD 7.243 billion offsetting the impact of the decline in government bond yields. Embedded value operating profit includes positive operating variances of USD 549 million, which resulted from our overall experience continuing to be favorable compared to our embedded value assumptions.
+返回格式:
+{
+  "translations": [
+    {
+      "unit_id": "p19_g03",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

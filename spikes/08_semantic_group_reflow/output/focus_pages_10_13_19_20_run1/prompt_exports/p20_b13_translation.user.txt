@@ -1,0 +1,37 @@
+文档场景：上市公司企业年报
+page_no: 20
+unit_id: p20_b13
+unit_mode: single_block
+命中术语约束:
+[
+  {
+    "source": "中國內地",
+    "target": "Mainland China"
+  }
+]
+blocks:
+[
+  {
+    "block_id": "p20_b13",
+    "source_text": "中國內地\n968\n80.9%\n1,197\n1,167\n93.5%\n1,248\n(17)%\n(17)%"
+  }
+]
+joined_source_text:
+中國內地
+968
+80.9%
+1,197
+1,167
+93.5%
+1,248
+(17)%
+(17)%
+返回格式:
+{
+  "translations": [
+    {
+      "unit_id": "p20_b13",
+      "translation": "<译文>"
+    }
+  ]
+}

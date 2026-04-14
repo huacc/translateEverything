@@ -1,0 +1,51 @@
+```json
+{
+  "unit_id": "p13_g06",
+  "page_no": 13,
+  "section_id": "Group Chief Executive and President's Report",
+  "content_type": "narrative_body",
+  "speaker_role": "management",
+  "topic_tags": [
+    "distribution_capability",
+    "customer_engagement",
+    "product_positioning",
+    "sustainability",
+    "brand_value",
+    "market_leadership"
+  ],
+  "term_hits": [
+    {
+      "source_term": "健康、長久、好生活",
+      "target_term": "Healthier, Longer, Better Lives",
+      "context": "mission_statement",
+      "confidence": "high"
+    },
+    {
+      "source_term": "可持續發展",
+      "target_term": "sustainable development",
+      "context": "esg_framework",
+      "confidence": "high"
+    },
+    {
+      "source_term": "長期保障和儲蓄需求",
+      "target_term": "long-term protection and savings needs",
+      "context": "product_positioning",
+      "confidence": "high"
+    }
+  ],
+  "needs_context": true,
+  "context_scope": "section",
+  "risk_level": "medium",
+  "risk_flags": [
+    "mission_statement_translation",
+    "sustainability_terminology",
+    "market_positioning_claims"
+  ],
+  "translation_constraints": [
+    "Preserve brand mission statement 'Healthier, Longer, Better Lives' exactly as established",
+    "Maintain formal corporate register throughout",
+    "Ensure sustainability/ESG terminology aligns with company's official framework",
+    "Preserve parallel structure in descriptive phrases about distribution and customer value"
+  ]
+}
+```

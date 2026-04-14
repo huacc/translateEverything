@@ -1,0 +1,47 @@
+```json
+{
+  "unit_id": "p20_b12",
+  "page_no": 20,
+  "section_id": "新業務表現",
+  "content_type": "business_metrics",
+  "speaker_role": null,
+  "topic_tags": [
+    "geographic_market_segment",
+    "financial_performance",
+    "market_data"
+  ],
+  "term_hits": [
+    {
+      "source_term": "馬來西亞",
+      "target_term": "Malaysia",
+      "context": "geographic_market"
+    },
+    {
+      "source_term": "續保率",
+      "inferred": true,
+      "percentage_value": "59.9%"
+    },
+    {
+      "source_term": "續保率",
+      "inferred": true,
+      "percentage_value": "63.1%"
+    }
+  ],
+  "needs_context": true,
+  "context_scope": "section",
+  "risk_level": "high",
+  "risk_flags": [
+    "percentage_and_ratio_precision",
+    "financial_metric_translation",
+    "table_structure_integrity",
+    "currency_conversion_notation"
+  ],
+  "translation_constraints": [
+    "Preserve exact decimal places in percentages (59.9%, 63.1%)",
+    "Verify column headers and row labels from parent table structure",
+    "Confirm metric definitions (likely: premium volume, renewal rate, year-over-year change)",
+    "Maintain numerical alignment with source table formatting",
+    "Preserve negative value indicators: (13)%, (14)%"
+  ]
+}
+```

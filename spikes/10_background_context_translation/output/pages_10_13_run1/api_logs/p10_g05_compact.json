@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "compact",
+    "page_no": 10,
+    "unit_id": "p10_g05"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是年报英文压缩器，不是重译器。\n语言方向：Traditional Chinese -> English。\n你的任务只是对已有译文做最小必要压缩，以便回填原版面。\n禁止改变数字、单位、术语、专名、比较关系、主体和结论。\n标题不能改成正文，表头不能改成句子，不能输出口语化表达。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市公司企业年报\n{\n  \"document_background\": {\n    \"page_sections\": [\n      {\n        \"target_section\": \"Chairman's Statement\",\n        \"content_type\": \"chairman_statement\",\n        \"page_range\": [\n          10,\n          11\n        ]\n      },\n      {\n        \"target_section\": \"Overview\",\n        \"content_type\": \"executive_summary\",\n        \"page_range\": [\n          8,\n          16\n        ]\n      }\n    ],\n    \"roles\": [\n      {\n        \"source\": \"謝仕榮先生\",\n        \"target\": \"Mr. Tse Sze-wing\",\n        \"role\": \"Independent Non-Executive Chairman\"\n      }\n    ],\n    \"terms\": [\n      {\n        \"source\": \"稅後營運溢利\",\n        \"target\": \"Operating Profit After Tax\",\n        \"abbreviation\": \"OPAT\",\n        \"context\": \"financial_metric\",\n        \"confidence\": \"high\"\n      },\n      {\n        \"source\": \"內涵價值\",\n        \"target\": \"Embedded Value\",\n        \"abbreviation\": \"EV\",\n        \"context\": \"valuation_metric\",\n        \"confidence\": \"high\"\n      },\n      {\n        \"source\": \"自由盈餘\",\n        \"target\": \"Free Surplus\",\n        \"abbreviation\": \"\",\n        \"context\": \"capital_metric\",\n        \"confidence\": \"high\"\n      }\n    ],\n    \"style_rules\": [\n      \"Preserve financial terminology consistency\",\n      \"Use formal corporate register throughout\",\n      \"Maintain parallel structure in lists and tables\",\n      \"Preserve table structure and alignment\",\n      \"Translate table headers consistently with body text\",\n      \"Maintain footnote references and numbering\",\n      \"Convert currency units with precision\"\n    ]\n  },\n  \"current_unit\": {\n    \"page_no\": 10,\n    \"unit_id\": \"p10_g05\",\n    \"unit_mode\": \"semantic_group\",\n    \"slot_count\": 3,\n    \"source_text\": \"稅後營運溢利增長5%至59.42億美元，產生的基本自由盈餘則上升7%至58.43億美元，反映我們擁有高質素的\\n經常性盈利來源。內涵價值權益創新高，達672億美元。截至2020年12月31日，集團當地資本總和法覆蓋率為\\n374%，足證我們雄厚的資本實力和嚴謹的財務管理。\",\n    \"current_translation\": \"Operating Profit After Tax grew 5% to USD 5.942 billion, with underlying Free Surplus generated increasing 7% to USD 5.843 billion, reflecting our high-quality recurring earnings sources. Embedded Value equity reached a record high of USD 67.2 billion. As at 31 December 2020, the Group's local capital aggregation method coverage ratio stood at 374%, demonstrating our strong capital position and prudent financial management.\"\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p10_g05\",\n        \"translation\": \"<更紧凑译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p10_g05\",\n      \"translation\": \"Operating Profit After Tax grew 5% to USD 5.942 billion, with underlying Free Surplus increasing 7% to USD 5.843 billion, reflecting high-quality recurring earnings sources. Embedded Value equity reached USD 67.2 billion. As at 31 December 2020, the Group's local capital aggregation method coverage ratio stood at 374%, demonstrating strong capital position and prudent financial management.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "43c77f8e-0209-4414-bd6e-731baf45cbf0",
+    "conversation_id": "43c77f8e-0209-4414-bd6e-731baf45cbf0",
+    "id": "43c77f8e-0209-4414-bd6e-731baf45cbf0",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 908,
+      "output_tokens": 113
+    }
+  }
+}

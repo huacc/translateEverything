@@ -1,0 +1,101 @@
+﻿请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。
+要求高保真、正式、可出版，不要摘要，不要解释。
+术语表和动态文档背景优先于自由翻译。
+只输出严格 JSON。
+{
+  "page_no": 18,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "relevant_terms": [
+    {
+      "source": "友邦保險",
+      "target": "AIA"
+    },
+    {
+      "source": "新業務價值",
+      "target": "new business value"
+    },
+    {
+      "source": "稅後營運溢利",
+      "target": "operating profit after tax"
+    },
+    {
+      "source": "內涵價值",
+      "target": "embedded value"
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "p18_b3",
+      "block_type": "body",
+      "source_text": "儘管2020年的營商及宏觀經濟環境前所未見，友邦保險仍實現",
+      "line_count": 1,
+      "char_count": 29,
+      "region": "middle",
+      "font_size_avg": 15.0
+    },
+    {
+      "block_id": "p18_b4",
+      "block_type": "label",
+      "source_text": "強勁的財務業績。在新業務價值受到全球疫情導致的外出限制",
+      "line_count": 1,
+      "char_count": 27,
+      "region": "middle",
+      "font_size_avg": 15.0
+    },
+    {
+      "block_id": "p18_b5",
+      "block_type": "label",
+      "source_text": "影響的情況下，我們錄得了稅後營運溢利、產生的基本自由盈餘",
+      "line_count": 1,
+      "char_count": 28,
+      "region": "middle",
+      "font_size_avg": 15.0
+    },
+    {
+      "block_id": "p18_b6",
+      "block_type": "label",
+      "source_text": "及內涵價值權益的穩健增長。我們的財務狀況仍然非常穩健，",
+      "line_count": 1,
+      "char_count": 27,
+      "region": "middle",
+      "font_size_avg": 15.0
+    },
+    {
+      "block_id": "p18_b7",
+      "block_type": "label",
+      "source_text": "讓我們在眾多增長機遇下得以繼續投資。",
+      "line_count": 1,
+      "char_count": 18,
+      "region": "middle",
+      "font_size_avg": 15.0
+    },
+    {
+      "block_id": "p18_b8",
+      "block_type": "label",
+      "source_text": "按固定匯率基準提供增長率及作出評述。",
+      "line_count": 1,
+      "char_count": 18,
+      "region": "middle",
+      "font_size_avg": 7.0
+    },
+    {
+      "block_id": "p18_b9",
+      "block_type": "label",
+      "source_text": "概要及主要財務摘要",
+      "line_count": 1,
+      "char_count": 9,
+      "region": "middle",
+      "font_size_avg": 14.0
+    },
+    {
+      "block_id": "p18_b10",
+      "block_type": "body",
+      "source_text": "在2020年，友邦保險在全球大流行病帶來的空前商業和宏觀經濟狀況下錄得強勁的財務表現。儘管外出限制導致",
+      "line_count": 1,
+      "char_count": 51,
+      "region": "middle",
+      "font_size_avg": 9.0
+    }
+  ]
+}

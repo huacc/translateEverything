@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 19,
+    "unit_id": "p19_g05"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是上市公司年报翻译器。\n语言方向：Traditional Chinese -> English。\n只翻译当前输入，不补充、不解释、不总结。\n如果当前输入由多个连续块组成，只允许在当前组内做跨块理解；不得引入组外内容。\n数字、百分比、货币、年份、专有名词、公司名、人名、地名必须准确。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市公司企业年报\npage_no: 19\nunit_id: p19_g05\nunit_mode: semantic_group\n命中术语约束:\n[\n  {\n    \"source\": \"有效保單組合\",\n    \"target\": \"in-force portfolio\"\n  }\n]\nblocks:\n[\n  {\n    \"block_id\": \"p19_b18\",\n    \"source_text\": \"產生的基本自由盈餘為58.43億美元，增長了7%，是由我們有效保單組合的持續增長和我們對此積極管理所帶\"\n  },\n  {\n    \"block_id\": \"p19_b19\",\n    \"source_text\": \"動，這足以抵銷預期投資回報降低的影響。於2020年12月31日，本集團的財務狀況仍然十分強勁，於派付股息\"\n  }\n]\njoined_source_text:\n產生的基本自由盈餘為58.43億美元，增長了7%，是由我們有效保單組合的持續增長和我們對此積極管理所帶\n動，這足以抵銷預期投資回報降低的影響。於2020年12月31日，本集團的財務狀況仍然十分強勁，於派付股息\n返回格式:\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p19_g05\",\n      \"translation\": \"<译文>\"\n    }\n  ]\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p19_g05\",\n      \"translation\": \"generated basic free surplus of USD 5.843 billion, an increase of 7%, driven by the continued growth of our in-force portfolio and our active management thereof, which was sufficient to offset the impact of lower expected investment returns. As at 31 December 2020, the Group's financial position remained very strong, in respect of dividend payments\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "e50938b1-2da7-4a0d-bb12-adb5d31fd075",
+    "conversation_id": "e50938b1-2da7-4a0d-bb12-adb5d31fd075",
+    "id": "e50938b1-2da7-4a0d-bb12-adb5d31fd075",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 593,
+      "output_tokens": 104
+    }
+  }
+}

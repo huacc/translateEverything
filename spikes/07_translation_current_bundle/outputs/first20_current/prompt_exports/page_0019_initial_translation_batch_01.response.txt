@@ -1,0 +1,30 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p19_b1",
+      "translation": "The pandemic's principal impact on our 2020 financial performance was on new business sales, as containment measures across many of our markets restricted"
+    },
+    {
+      "block_id": "p19_b2",
+      "translation": "face-to-face sales activities, particularly in the first half of 2020. Although new business value of US$2.765 billion in 2020 decreased by 33% compared to 2019, we"
+    },
+    {
+      "block_id": "p19_b3",
+      "translation": "rapidly adopted new digital tools, and the widespread relaxation of movement restrictions supported a recovery in sales momentum. AIA's China business contributed the largest share to the Group's new business value in 2020 and was our first reporting segment to"
+    },
+    {
+      "block_id": "p19_b5",
+      "translation": "demonstrate a recovery in sales momentum, as the region progressively eased strict lockdowns from March 2020 onwards. Excluding the subdued sales from Mainland China visitors to Hong Kong, new business value across the Group's other segments showed strong"
+    },
+    {
+      "block_id": "p19_b6",
+      "translation": "recovery in the second half, growing 23% compared to the first half. The Group's new business momentum remained robust into 2021, with new business value in the first two months of 2021 compared to the same period in 2020"
+    },
+    {
+      "block_id": "p19_b7",
+      "translation": "demonstrating continued strong development."
+    }
+  ]
+}
+```

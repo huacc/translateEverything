@@ -1,0 +1,38 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p2_b36",
+      "translation": "South Korea, Sri Lanka, Taiwan, Vietnam,"
+    },
+    {
+      "block_id": "p2_b37",
+      "translation": "agency, partnership and employee networks, serving over 38 million"
+    },
+    {
+      "block_id": "p2_b38",
+      "translation": "Brunei, Macau Special Administrative Region and New Zealand own"
+    },
+    {
+      "block_id": "p2_b39",
+      "translation": "individual policyholders and over 16 million group"
+    },
+    {
+      "block_id": "p2_b41",
+      "translation": "wholly-owned branches and subsidiaries, as well as India"
+    },
+    {
+      "block_id": "p2_b42",
+      "translation": "insurance plan members."
+    },
+    {
+      "block_id": "p2_b43",
+      "translation": "125 Independent Auditors' Report"
+    },
+    {
+      "block_id": "p2_b44",
+      "translation": "49% interest in joint ventures."
+    }
+  ]
+}
+```

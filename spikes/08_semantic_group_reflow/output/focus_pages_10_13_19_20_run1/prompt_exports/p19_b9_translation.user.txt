@@ -1,0 +1,29 @@
+文档场景：上市公司企业年报
+page_no: 19
+unit_id: p19_b9
+unit_mode: single_block
+命中术语约束:
+[
+  {
+    "source": "內涵價值",
+    "target": "embedded value"
+  }
+]
+blocks:
+[
+  {
+    "block_id": "p19_b9",
+    "source_text": "截至2020年12月31日的內涵價值權益創下新高為671.85億美元，於派付股息19.97億美元之前增加52.77億美元，"
+  }
+]
+joined_source_text:
+截至2020年12月31日的內涵價值權益創下新高為671.85億美元，於派付股息19.97億美元之前增加52.77億美元，
+返回格式:
+{
+  "translations": [
+    {
+      "unit_id": "p19_b9",
+      "translation": "<译文>"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p10_b5",
+      "translation": "has been recognised across Asia for providing protection to"
+    },
+    {
+      "block_id": "p10_b6",
+      "translation": "communities that greatly need our services, and we are proud"
+    },
+    {
+      "block_id": "p10_b8",
+      "translation": "Mr. Xie Shirong\nIndependent Non-Executive Chairman"
+    },
+    {
+      "block_id": "p10_b10",
+      "translation": "our colleagues have cared for our communities and fulfilled their duties with dedication,"
+    },
+    {
+      "block_id": "p10_b14",
+      "translation": "trustworthy, resilient and steadfast in doing the right thing for our stakeholders. Since early 2020, the COVID-19 pandemic has created an increasingly complex business environment with unprecedented shifts in political, macroeconomic and capital market conditions. AIA's financial strength and our purpose of"
+    },
+    {
+      "block_id": "p10_b15",
+      "translation": "helping people live healthier, longer, better lives takes on greater significance. I am deeply grateful to all AIA employees, agents and partners who, despite facing severe challenges, have continued to care for our communities, fulfilled their responsibilities and remained focused on supporting our customers,"
+    },
+    {
+      "block_id": "p10_b17",
+      "translation": "All employees, agents and partners of the insurance company, even facing the most severe challenges, care for the community, fulfill their duties and are dedicated to supporting customers,"
+    },
+    {
+      "block_id": "p10_b20",
+      "translation": "innovative digital tools to enhance operational efficiency, and with the recent relaxation of movement restrictions, sales momentum recovered strongly and continued into early 2021."
+    },
+    {
+      "block_id": "p10_b21",
+      "translation": "New business value in the first two months of 2021 grew 15% compared with the same period last year."
+    },
+    {
+      "block_id": "p10_b23",
+      "translation": "recurring earnings base. Embedded value equity reached a record high of US$67.2 billion. As at 31 December 2020, the Group's local capital aggregation method coverage ratio was"
+    },
+    {
+      "block_id": "p10_b24",
+      "translation": "374%, demonstrating our strong capital position and prudent financial management."
+    },
+    {
+      "block_id": "p10_b25",
+      "translation": "The Board recommends a final dividend of HK$1.0030 per share, an increase of 7.5%, reflecting our solid and resilient financial performance, while the Board remains confident in the Group's"
+    },
+    {
+      "block_id": "p10_b26",
+      "translation": "future prospects. This resulted in a full year dividend of HK$1.3530 per share for 2020. The Board adheres to AIA's long-established prudent and sustainable"
+    }
+  ]
+}
+```

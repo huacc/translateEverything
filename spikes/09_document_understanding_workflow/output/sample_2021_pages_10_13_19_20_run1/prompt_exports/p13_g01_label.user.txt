@@ -1,0 +1,470 @@
+请只对当前 unit 做标签，不要翻译。
+文档背景：
+{
+  "document_profile": {
+    "company_name_source": "友邦保險控股有限公司",
+    "company_name_target": "AIA GROUP LIMITED",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "report_year": 2020,
+    "source_language": "Traditional Chinese",
+    "target_language": "English",
+    "geographic_focus": "Asia-Pacific",
+    "style_keywords": [
+      "corporate governance",
+      "financial performance",
+      "stakeholder communication",
+      "ESG commitment"
+    ],
+    "confidence": "high"
+  },
+  "section_map": [
+    {
+      "source_section": "我們的目標",
+      "target_section": "Our Objective",
+      "page_range": [
+        1,
+        2
+      ],
+      "content_type": "mission_statement"
+    },
+    {
+      "source_section": "目錄",
+      "target_section": "Contents",
+      "page_range": [
+        2
+      ],
+      "content_type": "navigation"
+    },
+    {
+      "source_section": "友邦保險一覽",
+      "target_section": "AIA At-A-Glance",
+      "page_range": [
+        3
+      ],
+      "content_type": "company_overview"
+    },
+    {
+      "source_section": "2020年里程碑",
+      "target_section": "2020 Milestones",
+      "page_range": [
+        7
+      ],
+      "content_type": "highlights"
+    },
+    {
+      "source_section": "概覽",
+      "target_section": "Overview",
+      "page_range": [
+        8,
+        16
+      ],
+      "content_type": "executive_summary"
+    },
+    {
+      "source_section": "主席報告",
+      "target_section": "Chairman's Statement",
+      "page_range": [
+        10,
+        11
+      ],
+      "content_type": "chairman_statement"
+    },
+    {
+      "source_section": "集團首席執行官兼總裁報告",
+      "target_section": "Group Chief Executive and President's Report",
+      "page_range": [
+        12,
+        16
+      ],
+      "content_type": "ceo_report"
+    },
+    {
+      "source_section": "財務及營運回顧",
+      "target_section": "Financial and Operating Review",
+      "page_range": [
+        17,
+        30
+      ],
+      "content_type": "financial_review"
+    },
+    {
+      "source_section": "集團首席財務總監回顧",
+      "target_section": "Group Chief Financial Officer's Review",
+      "page_range": [
+        18,
+        30
+      ],
+      "content_type": "cfo_review"
+    },
+    {
+      "source_section": "新業務表現",
+      "target_section": "New Business Performance",
+      "page_range": [
+        20,
+        21
+      ],
+      "content_type": "business_metrics"
+    },
+    {
+      "source_section": "內涵價值權益",
+      "target_section": "Embedded Value Equity",
+      "page_range": [
+        22,
+        24
+      ],
+      "content_type": "valuation_metrics"
+    },
+    {
+      "source_section": "業務回顧",
+      "target_section": "Business Review",
+      "page_range": [
+        40
+      ],
+      "content_type": "business_review"
+    }
+  ],
+  "role_map": [
+    {
+      "source_title": "謝仕榮先生",
+      "target_title": "Mr. Tse Sze-wing",
+      "role": "Independent Non-Executive Chairman",
+      "context": "主席報告",
+      "confidence": "high"
+    },
+    {
+      "source_title": "李源祥",
+      "target_title": "Lee Yuen Cheung",
+      "role": "Group Chief Executive and President",
+      "context": "集團首席執行官兼總裁報告",
+      "confidence": "high"
+    },
+    {
+      "source_title": "史戴先生",
+      "target_title": "Cornelius Vander Starr",
+      "role": "Founder",
+      "context": "company_history",
+      "confidence": "high"
+    }
+  ],
+  "termbase": [
+    {
+      "source_term": "新業務價值",
+      "target_term": "New Business Value",
+      "context": "financial_metric",
+      "abbreviation": "NBV",
+      "confidence": "high"
+    },
+    {
+      "source_term": "年化新保費",
+      "target_term": "Annualized New Premium",
+      "context": "financial_metric",
+      "abbreviation": "ANP",
+      "confidence": "high"
+    },
+    {
+      "source_term": "稅後營運溢利",
+      "target_term": "Operating Profit After Tax",
+      "context": "financial_metric",
+      "abbreviation": "OPAT",
+      "confidence": "high"
+    },
+    {
+      "source_term": "內涵價值",
+      "target_term": "Embedded Value",
+      "context": "valuation_metric",
+      "abbreviation": "EV",
+      "confidence": "high"
+    },
+    {
+      "source_term": "自由盈餘",
+      "target_term": "Free Surplus",
+      "context": "capital_metric",
+      "confidence": "high"
+    },
+    {
+      "source_term": "總加權保費收入",
+      "target_term": "Total Weighted Premium Income",
+      "context": "financial_metric",
+      "confidence": "high"
+    },
+    {
+      "source_term": "續保率",
+      "target_term": "Renewal Rate",
+      "context": "business_metric",
+      "confidence": "high"
+    },
+    {
+      "source_term": "有效保單",
+      "target_term": "In-Force Business",
+      "context": "business_metric",
+      "confidence": "high"
+    },
+    {
+      "source_term": "環境、社會及管治",
+      "target_term": "Environmental, Social and Governance",
+      "context": "esg_framework",
+      "abbreviation": "ESG",
+      "confidence": "high"
+    },
+    {
+      "source_term": "2019冠狀病毒病",
+      "target_term": "COVID-19",
+      "context": "external_event",
+      "confidence": "high"
+    },
+    {
+      "source_term": "國際財務報告準則",
+      "target_term": "International Financial Reporting Standards",
+      "context": "accounting_standard",
+      "abbreviation": "IFRS",
+      "confidence": "high"
+    },
+    {
+      "source_term": "每股盈利",
+      "target_term": "Earnings Per Share",
+      "context": "financial_metric",
+      "abbreviation": "EPS",
+      "confidence": "high"
+    },
+    {
+      "source_term": "股東分配權益",
+      "target_term": "Shareholders' Distributable Equity",
+      "context": "equity_metric",
+      "confidence": "high"
+    },
+    {
+      "source_term": "利潤率",
+      "target_term": "Profit Margin",
+      "context": "financial_ratio",
+      "confidence": "high"
+    },
+    {
+      "source_term": "市場分部",
+      "target_term": "Market Segment",
+      "context": "business_structure",
+      "confidence": "high"
+    }
+  ],
+  "style_guide": {
+    "global_rules": [
+      {
+        "rule": "Preserve financial terminology consistency",
+        "example": "新業務價值 → New Business Value (not 'New Business Worth')",
+        "priority": "critical"
+      },
+      {
+        "rule": "Use formal corporate register throughout",
+        "example": "Avoid colloquialisms; maintain professional tone",
+        "priority": "high"
+      },
+      {
+        "rule": "Maintain parallel structure in lists and tables",
+        "example": "Ensure grammatical consistency across table headers",
+        "priority": "high"
+      },
+      {
+        "rule": "Preserve numerical precision",
+        "example": "27.65億美元 → USD 2.765 billion (not 'approximately')",
+        "priority": "critical"
+      },
+      {
+        "rule": "Use consistent currency notation",
+        "example": "US$ or USD throughout; avoid mixing formats",
+        "priority": "high"
+      },
+      {
+        "rule": "Translate company names and proper nouns consistently",
+        "example": "友邦保險 → AIA (established in source document)",
+        "priority": "critical"
+      }
+    ],
+    "title_rules": [
+      {
+        "rule": "Section headings use Title Case",
+        "example": "財務及營運回顧 → Financial and Operating Review",
+        "priority": "high"
+      },
+      {
+        "rule": "Preserve hierarchical structure of headings",
+        "example": "Main sections in larger font; subsections in smaller",
+        "priority": "medium"
+      },
+      {
+        "rule": "Translate milestone dates literally",
+        "example": "2020年里程碑 → 2020 Milestones",
+        "priority": "high"
+      }
+    ],
+    "table_rules": [
+      {
+        "rule": "Preserve table structure and alignment",
+        "example": "Column headers must align with data rows",
+        "priority": "critical"
+      },
+      {
+        "rule": "Translate table headers consistently with body text",
+        "example": "新業務價值 in headers = New Business Value",
+        "priority": "high"
+      },
+      {
+        "rule": "Maintain footnote references and numbering",
+        "example": "附註(1) → Note (1); preserve superscript markers",
+        "priority": "high"
+      },
+      {
+        "rule": "Convert currency units with precision",
+        "example": "百萬美元 → US$ millions (or USD millions)",
+        "priority": "critical"
+      },
+      {
+        "rule": "Preserve percentage and ratio formatting",
+        "example": "95% renewal rate (not 'ninety-five percent')",
+        "priority": "high"
+      }
+    ],
+    "body_rules": [
+      {
+        "rule": "Use active voice where source permits",
+        "example": "我們錄得 → We recorded (not 'was recorded')",
+        "priority": "medium"
+      },
+      {
+        "rule": "Translate corporate mission statements with care",
+        "example": "健康、長久、好生活 → Healthier, Longer, Better Lives",
+        "priority": "high"
+      },
+      {
+        "rule": "Preserve temporal references and context",
+        "example": "2020年 → 2020; 下半年 → second half of the year",
+        "priority": "high"
+      },
+      {
+        "rule": "Translate market/geographic references consistently",
+        "example": "中國內地 → Mainland China; 中國台灣 → Taiwan",
+        "priority": "high"
+      },
+      {
+        "rule": "Maintain formal register in executive statements",
+        "example": "CEO/Chairman quotes should reflect original formality",
+        "priority": "high"
+      },
+      {
+        "rule": "Translate comparative metrics with clarity",
+        "example": "較2019年下降17% → declined 17% compared to 2019",
+        "priority": "high"
+      }
+    ]
+  },
+  "risk_policy": {
+    "high_risk_flags": [
+      {
+        "flag": "Financial metric translation",
+        "risk_level": "critical",
+        "description": "Incorrect translation of NBV, OPAT, or EV could misrepresent financial performance",
+        "mitigation": "Cross-reference with IFRS standards and company's English financial statements"
+      },
+      {
+        "flag": "COVID-19 context sensitivity",
+        "risk_level": "high",
+        "description": "2019冠狀病毒病 references require accurate, consistent terminology",
+        "mitigation": "Use 'COVID-19' consistently; verify context for pandemic-related claims"
+      },
+      {
+        "flag": "Geographic market names",
+        "risk_level": "high",
+        "description": "Ambiguous references to 'China', 'Taiwan', 'Hong Kong' require precise translation",
+        "mitigation": "Use standardized geographic terminology; verify against company's English materials"
+      },
+      {
+        "flag": "Percentage and ratio precision",
+        "risk_level": "high",
+        "description": "Rounding errors in financial ratios could distort analysis",
+        "mitigation": "Preserve exact decimal places from source; verify calculations"
+      },
+      {
+        "flag": "Executive attribution",
+        "risk_level": "medium",
+        "description": "Ensure correct titles and names for Chairman, CEO, CFO",
+        "mitigation": "Cross-reference with company directory; verify romanization of names"
+      },
+      {
+        "flag": "Footnote and reference integrity",
+        "risk_level": "high",
+        "description": "Broken or misaligned footnotes could obscure important caveats",
+        "mitigation": "Verify all superscript markers and corresponding notes are preserved"
+      },
+      {
+        "flag": "Currency conversion notation",
+        "risk_level": "high",
+        "description": "Inconsistent USD/US$ notation could confuse readers",
+        "mitigation": "Standardize to 'US$' or 'USD' throughout; verify billion/million conversions"
+      }
+    ],
+    "context_escalation_rules": [
+      {
+        "trigger": "Ambiguous financial metric definition",
+        "action": "Escalate to subject matter expert; consult company's English glossary",
+        "priority": "critical"
+      },
+      {
+        "trigger": "Conflicting market segment naming",
+        "action": "Verify against company's official market structure; escalate if inconsistency found",
+        "priority": "high"
+      },
+      {
+        "trigger": "Unusual percentage or ratio values",
+        "action": "Verify calculation; cross-check against source document",
+        "priority": "high"
+      },
+      {
+        "trigger": "Executive statement with policy implications",
+        "action": "Escalate to senior translator; ensure tone and intent preserved",
+        "priority": "high"
+      },
+      {
+        "trigger": "Regulatory or compliance terminology",
+        "action": "Consult regulatory glossary; verify against IFRS/Hong Kong standards",
+        "priority": "critical"
+      },
+      {
+        "trigger": "ESG or sustainability claims",
+        "action": "Verify against company's ESG framework; ensure accuracy of commitments",
+        "priority": "high"
+      }
+    ]
+  }
+}
+当前 unit：
+{
+  "page_no": 13,
+  "unit_id": "p13_g01",
+  "mode": "semantic_group",
+  "block_ids": [
+    "p13_b1",
+    "p13_b2",
+    "p13_b3"
+  ],
+  "block_types": [
+    "body",
+    "body",
+    "label"
+  ],
+  "source_text_joined": "友邦保險是客戶誠可信賴的夥伴，讓客戶在關注財務安全和家庭保障時仍可安心無憂。儘管2019冠狀病毒病大\n流行的影響深遠，但我衷心感謝我們的員工、代理和合作夥伴在適應新工作方式並確保為客戶提供無間斷的支援\n時，展現靈活應變的能力和克盡己職的精神。"
+}
+返回字段：section_id, content_type, speaker_role, topic_tags, term_hits, needs_context, context_scope, risk_level, risk_flags, translation_constraints
+返回格式示例：
+{
+  "unit_id": "p13_g01",
+  "page_no": 13,
+  "section_id": "",
+  "content_type": "narrative_body",
+  "speaker_role": "management",
+  "topic_tags": [],
+  "term_hits": [],
+  "needs_context": true,
+  "context_scope": "section",
+  "risk_level": "medium",
+  "risk_flags": [],
+  "translation_constraints": []
+}

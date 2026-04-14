@@ -1,0 +1,26 @@
+```json
+{
+  "unit_id": "p20_b2",
+  "page_no": 20,
+  "section_id": "集團首席財務總監回顧",
+  "content_type": "section_heading",
+  "speaker_role": "cfo",
+  "topic_tags": [
+    "financial_review",
+    "executive_statement",
+    "management_commentary"
+  ],
+  "term_hits": [],
+  "needs_context": true,
+  "context_scope": "section",
+  "risk_level": "medium",
+  "risk_flags": [
+    "executive_attribution"
+  ],
+  "translation_constraints": [
+    "preserve_title_case",
+    "maintain_hierarchical_structure",
+    "verify_cfo_identity_and_romanization"
+  ]
+}
+```

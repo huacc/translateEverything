@@ -1,0 +1,18 @@
+文档场景：上市公司企业年报
+page_no: 19
+unit_id: p19_b9
+unit_mode: single_block
+slot_count: 1
+source_text:
+截至2020年12月31日的內涵價值權益創下新高為671.85億美元，於派付股息19.97億美元之前增加52.77億美元，
+current_translation:
+As of December 31, 2020, embedded value equity reached a new high of USD 67.185 billion, an increase of USD 5.277 billion before the payment of dividends of USD 1.997 billion,
+返回格式:
+{
+  "translations": [
+    {
+      "unit_id": "p19_b9",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+文档场景：上市公司企业年报
+{
+  "document_background": {
+    "page_sections": [
+      {
+        "target_section": "New Business Performance",
+        "content_type": "business_metrics",
+        "page_range": [
+          20,
+          21
+        ]
+      },
+      {
+        "target_section": "Group Chief Financial Officer's Review",
+        "content_type": "cfo_review",
+        "page_range": [
+          18,
+          30
+        ]
+      },
+      {
+        "target_section": "Financial and Operating Review",
+        "content_type": "financial_review",
+        "page_range": [
+          17,
+          30
+        ]
+      }
+    ],
+    "roles": [],
+    "terms": [
+      {
+        "source": "新業務價值",
+        "target": "New Business Value",
+        "abbreviation": "NBV",
+        "context": "financial_metric",
+        "confidence": "high"
+      },
+      {
+        "source": "年化新保費",
+        "target": "Annualized New Premium",
+        "abbreviation": "ANP",
+        "context": "financial_metric",
+        "confidence": "high"
+      },
+      {
+        "source": "利潤率",
+        "target": "Profit Margin",
+        "abbreviation": "",
+        "context": "financial_ratio",
+        "confidence": "high"
+      }
+    ],
+    "style_rules": [
+      "Preserve financial terminology consistency",
+      "Use formal corporate register throughout",
+      "Maintain parallel structure in lists and tables",
+      "Preserve table structure and alignment",
+      "Translate table headers consistently with body text",
+      "Maintain footnote references and numbering",
+      "Convert currency units with precision"
+    ]
+  },
+  "current_unit": {
+    "page_no": 20,
+    "unit_id": "p20_g04",
+    "unit_mode": "semantic_group",
+    "slot_count": 4,
+    "source_text": "在實施旅遊限制後，友邦保險香港業務來自中國內地訪港客戶的新業務銷售自2020年2月初起實際上已暫停，導\n致其新業務價值大幅下降。新業務價值利潤率錄得跌幅，反映新業務量減少導致承保開支超支、產品組合變動及\n利率下降的影響所致。澳門在2020年9月底恢復中國內地旅客個人遊計劃。這為澳門的中國內地訪澳客戶銷售回\n升提供支持，使其在第四季佔友邦保險澳門分公司的年化新保費總額超過三分之一。",
+    "current_translation": "Following the implementation of travel restrictions, new business sales from Mainland China visitors to AIA's Hong Kong operations were effectively suspended from early February 2020, resulting in a significant decline in New Business Value. The New Business Value Profit Margin recorded a decrease, reflecting the impact of reduced new business volume leading to underwriting expense overruns, product mix changes, and the effect of lower interest rates. Macau resumed the Individual Visit Scheme for Mainland China visitors at the end of September 2020. This supported a recovery in sales from Mainland China visitors to Macau, which accounted for more than one-third of AIA's Macau branch's total Annualized New Premium in the fourth quarter."
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p20_g04",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

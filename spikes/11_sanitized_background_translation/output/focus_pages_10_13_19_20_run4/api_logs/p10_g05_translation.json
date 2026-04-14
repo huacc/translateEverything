@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 10,
+    "unit_id": "p10_g05"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是上市公司年报翻译器。\n语言方向：Traditional Chinese -> English。\n你只处理当前翻译单元。\n如果当前单元由多个连续文本块组成，只允许在当前组内恢复被换行打断的句子；不得引入组外信息。\n优先严格采用提供的标准术语、角色名称和章节叫法。\n不得增删事实，不得保留中文残片，不得输出解释。\n输出必须是 JSON，并且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市公司企业年报。\n请优先复用 document_background 和 matched_terms 中提供的标准写法。\n{\n  \"task\": {\n    \"scenario\": \"listed_company_annual_report\",\n    \"direction\": \"Traditional Chinese -> English\"\n  },\n  \"document_background\": {\n    \"global_profile\": {\n      \"company_name_target\": \"AIA GROUP LIMITED\",\n      \"industry\": \"Life Insurance\",\n      \"report_type\": \"annual_report\",\n      \"report_year\": 2020\n    },\n    \"term_usage_mode\": \"table\",\n    \"page_sections\": [\n      {\n        \"source_section\": \"主席報告\",\n        \"target_section\": \"Chairman's Statement\",\n        \"content_type\": \"chairman_statement\",\n        \"page_range\": [\n          10,\n          11\n        ]\n      }\n    ],\n    \"roles\": [\n      {\n        \"source\": \"謝仕榮先生\",\n        \"target\": \"Mr. Tse Sze-wing\",\n        \"role\": \"Independent Non-Executive Chairman\"\n      }\n    ],\n    \"terms\": [\n      {\n        \"source\": \"稅後營運溢利\",\n        \"target\": \"OPAT\"\n      },\n      {\n        \"source\": \"產生的基本自由盈餘\",\n        \"target\": \"UFSG\"\n      },\n      {\n        \"source\": \"自由盈餘\",\n        \"target\": \"Free Surplus\"\n      },\n      {\n        \"source\": \"內涵價值權益\",\n        \"target\": \"EV Equity\"\n      },\n      {\n        \"source\": \"內涵價值\",\n        \"target\": \"EV\"\n      },\n      {\n        \"source\": \"集團當地資本總和法覆蓋率\",\n        \"target\": \"Group LCSM cover ratio\"\n      }\n    ],\n    \"style_rules\": [\n      \"Use US$ for U.S. dollar amounts.\",\n      \"Keep listed-company annual report disclosure tone formal and publishable.\",\n      \"Do not change numbers, percentages, years, named entities or financial metric values.\",\n      \"Use established financial abbreviations for table labels when provided.\",\n      \"Keep row and column semantics unchanged.\",\n      \"Use n/m for 無意義.\"\n    ]\n  },\n  \"matched_terms\": [\n    {\n      \"source\": \"稅後營運溢利\",\n      \"target\": \"OPAT\"\n    },\n    {\n      \"source\": \"產生的基本自由盈餘\",\n      \"target\": \"UFSG\"\n    },\n    {\n      \"source\": \"自由盈餘\",\n      \"target\": \"Free Surplus\"\n    },\n    {\n      \"source\": \"內涵價值權益\",\n      \"target\": \"EV Equity\"\n    },\n    {\n      \"source\": \"內涵價值\",\n      \"target\": \"EV\"\n    },\n    {\n      \"source\": \"集團當地資本總和法覆蓋率\",\n      \"target\": \"Group LCSM cover ratio\"\n    }\n  ],\n  \"current_unit\": {\n    \"page_no\": 10,\n    \"unit_id\": \"p10_g05\",\n    \"unit_mode\": \"semantic_group\",\n    \"block_types\": [\n      \"body\",\n      \"body\",\n      \"label\"\n    ],\n    \"blocks\": [\n      {\n        \"block_id\": \"p10_b22\",\n        \"source_text\": \"稅後營運溢利增長5%至59.42億美元，產生的基本自由盈餘則上升7%至58.43億美元，反映我們擁有高質素的\"\n      },\n      {\n        \"block_id\": \"p10_b23\",\n        \"source_text\": \"經常性盈利來源。內涵價值權益創新高，達672億美元。截至2020年12月31日，集團當地資本總和法覆蓋率為\"\n      },\n      {\n        \"block_id\": \"p10_b24\",\n        \"source_text\": \"374%，足證我們雄厚的資本實力和嚴謹的財務管理。\"\n      }\n    ],\n    \"joined_source_text\": \"稅後營運溢利增長5%至59.42億美元，產生的基本自由盈餘則上升7%至58.43億美元，反映我們擁有高質素的\\n經常性盈利來源。內涵價值權益創新高，達672億美元。截至2020年12月31日，集團當地資本總和法覆蓋率為\\n374%，足證我們雄厚的資本實力和嚴謹的財務管理。\"\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p10_g05\",\n        \"translation\": \"<译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p10_g05\",\n      \"translation\": \"OPAT grew 5% to US$5.942 billion, while UFSG increased 7% to US$5.843 billion, reflecting our high-quality recurring earnings sources. EV Equity reached a record high of US$67.2 billion. As at 31 December 2020, the Group LCSM cover ratio was 374%, demonstrating our strong capital position and prudent financial management.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "bbd5dd2a-c411-49c8-a234-75249b0b8d40",
+    "conversation_id": "bbd5dd2a-c411-49c8-a234-75249b0b8d40",
+    "id": "bbd5dd2a-c411-49c8-a234-75249b0b8d40",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1413,
+      "output_tokens": 115
+    }
+  }
+}

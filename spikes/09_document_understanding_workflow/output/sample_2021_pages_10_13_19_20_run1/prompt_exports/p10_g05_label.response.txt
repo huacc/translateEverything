@@ -1,0 +1,55 @@
+```json
+{
+  "unit_id": "p10_g05",
+  "page_no": 10,
+  "section_id": "chairman_statement",
+  "content_type": "financial_narrative",
+  "speaker_role": "chairman",
+  "topic_tags": [
+    "financial_performance",
+    "capital_strength",
+    "profitability_metrics"
+  ],
+  "term_hits": [
+    {
+      "source_term": "稅後營運溢利",
+      "target_term": "Operating Profit After Tax",
+      "abbreviation": "OPAT",
+      "confidence": "high"
+    },
+    {
+      "source_term": "自由盈餘",
+      "target_term": "Free Surplus",
+      "confidence": "high"
+    },
+    {
+      "source_term": "內涵價值權益",
+      "target_term": "Embedded Value Equity",
+      "abbreviation": "EV",
+      "confidence": "high"
+    },
+    {
+      "source_term": "當地資本總和法覆蓋率",
+      "target_term": "Local Capital Adequacy Ratio",
+      "confidence": "high"
+    }
+  ],
+  "needs_context": true,
+  "context_scope": "section",
+  "risk_level": "critical",
+  "risk_flags": [
+    "financial_metric_translation",
+    "percentage_precision",
+    "currency_conversion_notation",
+    "capital_ratio_accuracy"
+  ],
+  "translation_constraints": [
+    "Preserve exact numerical values: 5%, 7%, 59.42億美元, 58.43億美元, 672億美元, 374%",
+    "Maintain financial terminology consistency per termbase",
+    "Use standardized currency notation (US$ or USD) throughout",
+    "Verify capital adequacy ratio terminology against Hong Kong regulatory standards",
+    "Preserve comparative structure: growth percentages and baseline figures",
+    "Maintain formal corporate register appropriate to Chairman's Statement context"
+  ]
+}
+```

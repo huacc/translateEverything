@@ -1,0 +1,38 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p8_b2",
+      "translation": "2020 Performance Overview(1)"
+    },
+    {
+      "block_id": "p8_b3",
+      "translation": "New business value(2)(8)"
+    },
+    {
+      "block_id": "p8_b4",
+      "translation": "Annualized new premiums(3)(8)"
+    },
+    {
+      "block_id": "p8_b5",
+      "translation": "US$ MILLIONS"
+    },
+    {
+      "block_id": "p8_b6",
+      "translation": "US$ MILLIONS"
+    },
+    {
+      "block_id": "p8_b39",
+      "translation": "Operating profit after tax(4)(9)\nTotal weighted premiums written(5)"
+    },
+    {
+      "block_id": "p8_b40",
+      "translation": "US$ MILLIONS"
+    },
+    {
+      "block_id": "p8_b41",
+      "translation": "US$ MILLIONS"
+    }
+  ]
+}
+```

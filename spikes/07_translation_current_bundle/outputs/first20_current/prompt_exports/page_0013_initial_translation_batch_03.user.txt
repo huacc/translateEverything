@@ -1,0 +1,80 @@
+﻿请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。
+要求高保真、正式、可出版，不要摘要，不要解释。
+术语表和动态文档背景优先于自由翻译。
+只输出严格 JSON。
+{
+  "page_no": 13,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "relevant_terms": [
+    {
+      "source": "友邦保險",
+      "target": "AIA"
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "p13_b16",
+      "block_type": "body",
+      "source_text": "友邦保險具有多項顯著優勢，讓我們在競爭激烈的市場別樹一幟。我們在亞洲經營數十載，擁有區內無可比擬的",
+      "line_count": 1,
+      "char_count": 49,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p13_b17",
+      "block_type": "body",
+      "source_text": "平台，並於我們業務所在的大部分市場雄踞領導地位。我們始終如一地百分百專注於亞洲市場，有助我們在全球",
+      "line_count": 1,
+      "char_count": 49,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p13_b18",
+      "block_type": "body",
+      "source_text": "最具吸引力的壽險業地區全面把握增長機遇。這份專注結合我們領導團隊在亞洲的豐富經驗及員工的優秀質素，",
+      "line_count": 1,
+      "char_count": 49,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p13_b19",
+      "block_type": "label",
+      "source_text": "一直是我們表現卓越的重要動力。",
+      "line_count": 1,
+      "char_count": 15,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p13_b20",
+      "block_type": "body",
+      "source_text": "我們無可比擬的分銷實力能直接接觸客戶，並提供高質素的專業建議，協助滿足亞洲消費者龐大且日益增長的長",
+      "line_count": 1,
+      "char_count": 49,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p13_b21",
+      "block_type": "body",
+      "source_text": "期保障和儲蓄需求。如今大眾比以往更期望企業能以符合長遠可持續發展的方式應對他們的需要。友邦保險擁有",
+      "line_count": 1,
+      "char_count": 49,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p13_b22",
+      "block_type": "body",
+      "source_text": "市場領先的品牌，以幫助大眾實踐健康、長久、好生活的目標為基礎。",
+      "line_count": 1,
+      "char_count": 31,
+      "region": "middle",
+      "font_size_avg": 9.0
+    }
+  ]
+}

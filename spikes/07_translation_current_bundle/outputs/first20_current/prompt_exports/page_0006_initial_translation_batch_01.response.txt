@@ -1,0 +1,38 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p6_b1",
+      "translation": "AIA's business today was founded by Starr"
+    },
+    {
+      "block_id": "p6_b2",
+      "translation": "long-term relationships, which often transcend"
+    },
+    {
+      "block_id": "p6_b3",
+      "translation": "Mr. (Cornelius Vander Starr)"
+    },
+    {
+      "block_id": "p6_b4",
+      "translation": "generations."
+    },
+    {
+      "block_id": "p6_b5",
+      "translation": "Founded in Shanghai in 1919."
+    },
+    {
+      "block_id": "p6_b6",
+      "translation": "Committed to bringing significant and positive impact to our customers and communities"
+    },
+    {
+      "block_id": "p6_b7",
+      "translation": "Since then, AIA has grown to become the world's largest"
+    },
+    {
+      "block_id": "p6_b8",
+      "translation": "impact, AIA's mission is to help people"
+    }
+  ]
+}
+```

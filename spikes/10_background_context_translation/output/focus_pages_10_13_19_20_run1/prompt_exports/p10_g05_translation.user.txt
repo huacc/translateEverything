@@ -1,0 +1,130 @@
+文档场景：上市公司企业年报
+请优先使用背景中的标准叫法和术语。
+{
+  "document_background": {
+    "global_profile": {
+      "company_name_target": "AIA GROUP LIMITED",
+      "industry": "Life Insurance",
+      "report_type": "annual_report",
+      "report_year": 2020,
+      "style_keywords": [
+        "corporate governance",
+        "financial performance",
+        "stakeholder communication",
+        "ESG commitment"
+      ]
+    },
+    "page_sections": [
+      {
+        "target_section": "Chairman's Statement",
+        "content_type": "chairman_statement",
+        "page_range": [
+          10,
+          11
+        ]
+      },
+      {
+        "target_section": "Overview",
+        "content_type": "executive_summary",
+        "page_range": [
+          8,
+          16
+        ]
+      }
+    ],
+    "roles": [
+      {
+        "source": "謝仕榮先生",
+        "target": "Mr. Tse Sze-wing",
+        "role": "Independent Non-Executive Chairman"
+      }
+    ],
+    "terms": [
+      {
+        "source": "稅後營運溢利",
+        "target": "Operating Profit After Tax",
+        "abbreviation": "OPAT",
+        "context": "financial_metric",
+        "confidence": "high"
+      },
+      {
+        "source": "內涵價值",
+        "target": "Embedded Value",
+        "abbreviation": "EV",
+        "context": "valuation_metric",
+        "confidence": "high"
+      },
+      {
+        "source": "自由盈餘",
+        "target": "Free Surplus",
+        "abbreviation": "",
+        "context": "capital_metric",
+        "confidence": "high"
+      }
+    ],
+    "style_rules": [
+      "Preserve financial terminology consistency",
+      "Use formal corporate register throughout",
+      "Maintain parallel structure in lists and tables",
+      "Preserve table structure and alignment",
+      "Translate table headers consistently with body text",
+      "Maintain footnote references and numbering",
+      "Convert currency units with precision"
+    ]
+  },
+  "matched_terms": [
+    {
+      "source": "稅後營運溢利",
+      "target": "operating profit after tax"
+    },
+    {
+      "source": "內涵價值",
+      "target": "embedded value"
+    },
+    {
+      "source": "稅後營運溢利",
+      "target": "Operating Profit After Tax"
+    },
+    {
+      "source": "內涵價值",
+      "target": "Embedded Value"
+    },
+    {
+      "source": "自由盈餘",
+      "target": "Free Surplus"
+    }
+  ],
+  "current_unit": {
+    "page_no": 10,
+    "unit_id": "p10_g05",
+    "unit_mode": "semantic_group",
+    "block_types": [
+      "body",
+      "body",
+      "label"
+    ],
+    "blocks": [
+      {
+        "block_id": "p10_b22",
+        "source_text": "稅後營運溢利增長5%至59.42億美元，產生的基本自由盈餘則上升7%至58.43億美元，反映我們擁有高質素的"
+      },
+      {
+        "block_id": "p10_b23",
+        "source_text": "經常性盈利來源。內涵價值權益創新高，達672億美元。截至2020年12月31日，集團當地資本總和法覆蓋率為"
+      },
+      {
+        "block_id": "p10_b24",
+        "source_text": "374%，足證我們雄厚的資本實力和嚴謹的財務管理。"
+      }
+    ],
+    "joined_source_text": "稅後營運溢利增長5%至59.42億美元，產生的基本自由盈餘則上升7%至58.43億美元，反映我們擁有高質素的\n經常性盈利來源。內涵價值權益創新高，達672億美元。截至2020年12月31日，集團當地資本總和法覆蓋率為\n374%，足證我們雄厚的資本實力和嚴謹的財務管理。"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p10_g05",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

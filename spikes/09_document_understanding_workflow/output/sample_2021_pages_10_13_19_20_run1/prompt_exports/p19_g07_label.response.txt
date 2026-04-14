@@ -1,0 +1,49 @@
+```json
+{
+  "unit_id": "p19_g07",
+  "page_no": 19,
+  "section_id": "financial_review",
+  "content_type": "dividend_announcement",
+  "speaker_role": "board_of_directors",
+  "topic_tags": [
+    "dividend_policy",
+    "shareholder_returns",
+    "financial_performance",
+    "capital_allocation"
+  ],
+  "term_hits": [
+    {
+      "source_term": "末期股息",
+      "target_term": "Final Dividend",
+      "context": "financial_metric"
+    },
+    {
+      "source_term": "全年股息總額",
+      "target_term": "Total Annual Dividend",
+      "context": "financial_metric"
+    },
+    {
+      "source_term": "派息政策",
+      "target_term": "Dividend Policy",
+      "context": "corporate_policy"
+    }
+  ],
+  "needs_context": true,
+  "context_scope": "section",
+  "risk_level": "high",
+  "risk_flags": [
+    "percentage_precision",
+    "currency_notation",
+    "financial_metric_translation",
+    "year_over_year_comparison"
+  ],
+  "translation_constraints": [
+    "Preserve exact percentage values (7.5%, 6.9%) without rounding",
+    "Maintain currency notation consistency (港仙 → HK cents; ensure HKD/HK$ alignment)",
+    "Translate dividend policy terminology consistently with company's English financial statements",
+    "Preserve temporal references (2020年, 2019年) with clarity",
+    "Maintain formal corporate register for board-level announcement",
+    "Verify 'sustainable and progressive dividend policy' alignment with company's official English phrasing"
+  ]
+}
+```

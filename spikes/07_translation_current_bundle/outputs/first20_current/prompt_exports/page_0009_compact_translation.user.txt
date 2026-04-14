@@ -1,0 +1,104 @@
+﻿以下文本块版面过紧。请在不改变核心含义和正式风格的前提下，仅做最小必要压缩。
+不要摘要，不要解释，只输出严格 JSON。
+{
+  "page_no": 9,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "problem_blocks": [
+    {
+      "block_id": "p9_b2",
+      "block_type": "label",
+      "source_text": "新業務價值(2)(7)",
+      "current_translation": "New business value(2)(7)",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.691,
+      "line_count": 1,
+      "char_count": 11,
+      "bbox": [
+        68.03,
+        97.83,
+        145.07,
+        113.48
+      ],
+      "font_size_avg": 9.5,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p9_b3",
+      "block_type": "label",
+      "source_text": "年化新保費(3)",
+      "current_translation": "Annualized new premiums(3)",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.546,
+      "line_count": 1,
+      "char_count": 8,
+      "bbox": [
+        299.06,
+        97.83,
+        368.24,
+        113.48
+      ],
+      "font_size_avg": 9.5,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p9_b16",
+      "block_type": "label",
+      "source_text": "稅後營運溢利(4)",
+      "current_translation": "Operating profit after tax(4)",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.69,
+      "line_count": 1,
+      "char_count": 9,
+      "bbox": [
+        68.03,
+        307.59,
+        149.51,
+        323.24
+      ],
+      "font_size_avg": 9.5,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p9_b17",
+      "block_type": "label",
+      "source_text": "總加權保費收入(5)",
+      "current_translation": "Total weighted premiums written(5)",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.589,
+      "line_count": 1,
+      "char_count": 10,
+      "bbox": [
+        299.06,
+        307.59,
+        392.84,
+        323.24
+      ],
+      "font_size_avg": 9.5,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p9_b35",
+      "block_type": "label",
+      "source_text": "(4) 所列示的稅後營運溢利已扣除非控股權益。",
+      "current_translation": "(4) The operating profit after tax presented has been stated after deducting non-controlling interests.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.592,
+      "line_count": 1,
+      "char_count": 23,
+      "bbox": [
+        68.03,
+        667.6,
+        218.36,
+        676.9
+      ],
+      "font_size_avg": 7.0,
+      "suggested_font": "F_ARIALN"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+﻿请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。
+要求高保真、正式、可出版，不要摘要，不要解释。
+术语表和动态文档背景优先于自由翻译。
+只输出严格 JSON。
+{
+  "page_no": 12,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "relevant_terms": [
+    {
+      "source": "友邦保險",
+      "target": "AIA"
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "p12_b3",
+      "block_type": "label",
+      "source_text": "友邦保險再度錄得非常強勁的業績，反映我們表現",
+      "line_count": 1,
+      "char_count": 22,
+      "region": "middle",
+      "font_size_avg": 15.0
+    },
+    {
+      "block_id": "p12_b4",
+      "block_type": "label",
+      "source_text": "卓越的團隊努力不懈的成果。我們的員工能迅速",
+      "line_count": 1,
+      "char_count": 21,
+      "region": "middle",
+      "font_size_avg": 15.0
+    },
+    {
+      "block_id": "p12_b5",
+      "block_type": "label",
+      "source_text": "和靈活應對瞬息萬變的經營環境，令我深感自豪。",
+      "line_count": 1,
+      "char_count": 22,
+      "region": "middle",
+      "font_size_avg": 15.0
+    },
+    {
+      "block_id": "p12_b6",
+      "block_type": "label",
+      "source_text": "憑藉矢志不渝的承諾，我們協助客戶駕馭不明朗的",
+      "line_count": 1,
+      "char_count": 22,
+      "region": "middle",
+      "font_size_avg": 15.0
+    },
+    {
+      "block_id": "p12_b7",
+      "block_type": "label",
+      "source_text": "環境，同時加快落實我們的策略計劃。",
+      "line_count": 1,
+      "char_count": 17,
+      "region": "middle",
+      "font_size_avg": 15.0
+    },
+    {
+      "block_id": "p12_b8",
+      "block_type": "body",
+      "source_text": "李源祥先生\n集團首席執行官\n兼總裁",
+      "line_count": 3,
+      "char_count": 17,
+      "region": "bottom",
+      "font_size_avg": 7.25
+    }
+  ]
+}

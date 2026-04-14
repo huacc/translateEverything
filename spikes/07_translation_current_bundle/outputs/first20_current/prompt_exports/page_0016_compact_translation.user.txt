@@ -1,0 +1,256 @@
+﻿以下文本块版面过紧。请在不改变核心含义和正式风格的前提下，仅做最小必要压缩。
+不要摘要，不要解释，只输出严格 JSON。
+{
+  "page_no": 16,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "problem_blocks": [
+    {
+      "block_id": "p16_b3",
+      "block_type": "body",
+      "source_text": "我們瞭解我們在這重要領域仍然任重道遠。我們最近亦完成環境、社會及管治策略的檢討。本人充滿信心，我們",
+      "current_translation": "We recognise that we still have much to accomplish in this important area. We have also recently completed a review of our Environmental, Social and Governance strategy. I am confident that our",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.709,
+      "line_count": 1,
+      "char_count": 49,
+      "bbox": [
+        73.7,
+        94.69,
+        527.08,
+        106.65
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p16_b4",
+      "block_type": "body",
+      "source_text": "的五大策略焦點領域：提升身心健康、綠色營運、可持續投資、人才與文化和有效的管治，將有助我們實現在環",
+      "current_translation": "five strategic focus areas – enhancing physical and mental wellbeing, green operations, sustainable investment, talent and culture, and effective governance – will help us achieve our aspiration to be a",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.667,
+      "line_count": 1,
+      "char_count": 49,
+      "bbox": [
+        73.7,
+        110.7,
+        527.26,
+        122.65
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p16_b6",
+      "block_type": "label",
+      "source_text": "前景",
+      "current_translation": "Outlook",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.714,
+      "line_count": 1,
+      "char_count": 2,
+      "bbox": [
+        73.7,
+        169.0,
+        102.05,
+        187.26
+      ],
+      "font_size_avg": 14.0,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p16_b8",
+      "block_type": "body",
+      "source_text": "獲得前所未見的公共財政和金融支援，有助緩解由疫情大流行造成的部分極端金融衝擊，並加快復甦步伐，這在",
+      "current_translation": "received unprecedented public financial and monetary support, which helped mitigate some of the extreme financial impacts caused by the pandemic and accelerated the pace of recovery, which was particularly evident in",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.63,
+      "line_count": 1,
+      "char_count": 49,
+      "bbox": [
+        73.7,
+        222.7,
+        527.12,
+        234.65
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p16_b9",
+      "block_type": "body",
+      "source_text": "具備完善衞生政策及基建的國家尤其可見。然而，各國之間存在顯著差異，在這困境下，亞洲（日本除外）地區",
+      "current_translation": "countries with well-developed health policies and infrastructure. However, there were significant differences between countries, and in these challenging circumstances, Asia (excluding Japan) recorded",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.665,
+      "line_count": 1,
+      "char_count": 49,
+      "bbox": [
+        73.7,
+        238.7,
+        527.27,
+        250.65
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p16_b10",
+      "block_type": "body",
+      "source_text": "錄得全球相對最強勁的國內生產總值表現。現時，環球經濟正剛剛開始擺脫一場深度衰退，並步入好轉的初步階",
+      "current_translation": "the relatively strongest gross domestic product performance globally. Currently, the global economy is just beginning to emerge from a deep recession and is entering the early stages of improvement.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.698,
+      "line_count": 1,
+      "char_count": 49,
+      "bbox": [
+        73.7,
+        254.7,
+        527.12,
+        266.65
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p16_b11",
+      "block_type": "label",
+      "source_text": "段。",
+      "current_translation": "segment.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.667,
+      "line_count": 1,
+      "char_count": 2,
+      "bbox": [
+        73.7,
+        270.7,
+        91.93,
+        282.65
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p16_b13",
+      "block_type": "body",
+      "source_text": "疫苗接種計劃和新療法有助降低疫症的感染率和嚴重性，使醫療系統能更有效應對疫情，並降低死亡率。儘管我",
+      "current_translation": "vaccination programmes and new therapies will help reduce infection rates and severity of the disease, enabling healthcare systems to respond more effectively to the pandemic and lower mortality rates. Although we",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.617,
+      "line_count": 1,
+      "char_count": 49,
+      "bbox": [
+        73.7,
+        318.71,
+        527.12,
+        330.66
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p16_b14",
+      "block_type": "body",
+      "source_text": "們並不預計外出或消費行為於短期內能回復疫情大流行前的水平，但隨著消費者信心恢復，預期復甦範疇將逐步",
+      "current_translation": "do not expect consumer behaviour and spending patterns to return to pre-pandemic levels in the near term, as consumer confidence recovers, the scope of recovery is expected to gradually",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.708,
+      "line_count": 1,
+      "char_count": 49,
+      "bbox": [
+        73.7,
+        334.71,
+        527.16,
+        346.66
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p16_b15",
+      "block_type": "body",
+      "source_text": "由製造主導的產業擴展到消費和服務業。這在人口較年輕的國家將尤其可見。",
+      "current_translation": "expand from manufacturing-led industries to consumer and service sectors. This will be particularly evident in countries with younger populations.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.661,
+      "line_count": 1,
+      "char_count": 34,
+      "bbox": [
+        73.7,
+        350.71,
+        387.13,
+        362.66
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p16_b19",
+      "block_type": "body",
+      "source_text": "勁的增長往績，為社區創建更可持續的未來，並為所有持分者創造共享價值。",
+      "current_translation": "growth track record, we will build a more sustainable future for our communities and create shared value for all stakeholders.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.744,
+      "line_count": 1,
+      "char_count": 34,
+      "bbox": [
+        73.7,
+        430.72,
+        387.13,
+        442.67
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p16_b20",
+      "block_type": "label",
+      "source_text": "李源祥",
+      "current_translation": "Lee Yuan Siong",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.667,
+      "line_count": 1,
+      "char_count": 3,
+      "bbox": [
+        73.7,
+        542.49,
+        101.15,
+        554.23
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p16_b21",
+      "block_type": "label",
+      "source_text": "集團首席執行官兼總裁",
+      "current_translation": "Group Chief Executive and President",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.758,
+      "line_count": 1,
+      "char_count": 10,
+      "bbox": [
+        73.7,
+        558.72,
+        165.73,
+        570.67
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    }
+  ]
+}

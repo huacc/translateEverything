@@ -1,0 +1,21 @@
+{
+  "content": [
+    {
+      "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p28_b1\",\n      \"translation\": \"Financial & Operational Review\"\n    },\n    {\n      \"block_id\": \"p28_b2\",\n      \"translation\": \"Group CFO Review\"\n    },\n    {\n      \"block_id\": \"p28_b3\",\n      \"translation\": \"Shareholders' Distributable Equity Movement(1)\"\n    },\n    {\n      \"block_id\": \"p28_b4\",\n      \"translation\": \"USD millions, unless stated otherwise\\n2020\\n2019\"\n    },\n    {\n      \"block_id\": \"p28_b5\",\n      \"translation\": \"Opening equity\\n42,845\\n37,277\"\n    },\n    {\n      \"block_id\": \"p28_b6\",\n      \"translation\": \"Accounting policy adjustment\\n433\\n1,130\"\n    },\n    {\n      \"block_id\": \"p28_b7\",\n      \"translation\": \"Opening equity, adjusted\\n43,278\\n38,407\"\n    },\n    {\n      \"block_id\": \"p28_b8\",\n      \"translation\": \"Net profit\\n5,779\\n5,979\"\n    },\n    {\n      \"block_id\": \"p28_b9\",\n      \"translation\": \"Employee share trust\\n(16)\\n(21)\"\n    },\n    {\n      \"block_id\": \"p28_b10\",\n      \"translation\": \"Dividends\\n(1,997)\\n(1,961)\"\n    },\n    {\n      \"block_id\": \"p28_b11\",\n      \"translation\": \"Property revaluation (loss)/gain\\n(46)\\n154\"\n    },\n    {\n      \"block_id\": \"p28_b12\",\n      \"translation\": \"FX translation adjustments\\n931\\n603\"\n    },\n    {\n      \"block_id\": \"p28_b13\",\n      \"translation\": \"Other capital movements\\n101\\n117\"\n    },\n    {\n      \"block_id\": \"p28_b14\",\n      \"translation\": \"Total equity movement\\n4,752\\n4,871\"\n    },\n    {\n      \"block_id\": \"p28_b15\",\n      \"translation\": \"Closing equity\\n48,030\\n43,278\"\n    },\n    {\n      \"block_id\": \"p28_b16\",\n      \"translation\": \"Average equity\\n45,654\\n40,638\"\n    },\n    {\n      \"block_id\": \"p28_b17\",\n      \"translation\": \"Note:\\n(1) Following HK insurance accounting policy change. Comparatives adjusted to current period presentation. See note 48.\"\n    },\n    {\n      \"block_id\": \"p28_b18\",\n      \"translation\": \"Equity movement excludes fair value reserve changes, better reflecting relevant movements excluding AFS debt fair value adjustments under IFRS.\"\n    },\n    {\n      \"block_id\": \"p28_b19\",\n      \"translation\": \"fair value adjustments on AFS debt securities under IFRS.\"\n    },\n    {\n      \"block_id\": \"p28_b20\",\n      \"translation\": \"Equity rose 9% to USD 48.03bn, driven by USD 5.78bn net profit and USD 0.93bn FX gains, offset by USD 1.99bn dividends.\"\n    },\n    {\n      \"block_id\": \"p28_b22\",\n      \"translation\": \"Average equity up 11% YoY.\"\n    },\n    {\n      \"block_id\": \"p28_b23\",\n      \"translation\": \"FX, interest rate and equity price sensitivity in note 38.\"\n    },\n    {\n      \"block_id\": \"p28_b24\",\n      \"translation\": \"026\\nAIA Group Limited\"\n    }\n  ]\n}\n```",
+      "type": "text"
+    }
+  ],
+  "conversationId": "ebc9fb31-dd54-45fd-9fa1-0f2b85cfb3b2",
+  "conversation_id": "ebc9fb31-dd54-45fd-9fa1-0f2b85cfb3b2",
+  "id": "ebc9fb31-dd54-45fd-9fa1-0f2b85cfb3b2",
+  "model": "claude-3-5-sonnet-20241022",
+  "role": "assistant",
+  "stop_reason": "end_turn",
+  "type": "message",
+  "usage": {
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 3980,
+    "output_tokens": 844
+  }
+}

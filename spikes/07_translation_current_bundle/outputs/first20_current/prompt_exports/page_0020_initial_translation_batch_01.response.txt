@@ -1,0 +1,38 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p20_b3",
+      "translation": "New Business Performance"
+    },
+    {
+      "block_id": "p20_b4",
+      "translation": "New business value, annualized new premiums and profit margin by segment"
+    },
+    {
+      "block_id": "p20_b5",
+      "translation": "2020\n2019\nNew Business Value Change"
+    },
+    {
+      "block_id": "p20_b6",
+      "translation": "New Business\nValue\nProfit Margin\nAnnualized\nNew Premiums\nNew Business\nValue"
+    },
+    {
+      "block_id": "p20_b7",
+      "translation": "New Business\nValue\nProfit Margin\nAnnualized\nNew Premiums\nYear-on-Year Change\n(constant exchange rates)\nYear-on-Year Change\n(actual exchange rates)"
+    },
+    {
+      "block_id": "p20_b8",
+      "translation": "In millions of US dollars, unless otherwise stated\nNew Business\nValue"
+    },
+    {
+      "block_id": "p20_b9",
+      "translation": "Hong Kong\n550\n44.7%\n1,138\n1,621\n66.1%\n2,393\n(66)%\n(66)%"
+    },
+    {
+      "block_id": "p20_b10",
+      "translation": "Thailand\n469\n71.0%\n661\n494\n67.7%\n729\n(4)%\n(5)%"
+    }
+  ]
+}
+```

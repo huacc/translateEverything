@@ -1,0 +1,351 @@
+﻿以下文本块版面过紧。请在不改变核心含义和正式风格的前提下，仅做最小必要压缩。
+不要摘要，不要解释，只输出严格 JSON。
+{
+  "page_no": 20,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "problem_blocks": [
+    {
+      "block_id": "p20_b3",
+      "block_type": "label",
+      "source_text": "新業務表現",
+      "current_translation": "New Business Performance",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.514,
+      "line_count": 1,
+      "char_count": 5,
+      "bbox": [
+        73.7,
+        91.03,
+        145.1,
+        109.29
+      ],
+      "font_size_avg": 14.0,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p20_b4",
+      "block_type": "label",
+      "source_text": "按分部劃分的新業務價值、年化新保費及利潤率",
+      "current_translation": "New business value, annualized new premiums and profit margin by segment",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.771,
+      "line_count": 1,
+      "char_count": 21,
+      "bbox": [
+        73.7,
+        127.41,
+        288.7,
+        140.45
+      ],
+      "font_size_avg": 10.0,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p20_b5",
+      "block_type": "body",
+      "source_text": "2020年\n2019年\n新業務價值變動",
+      "current_translation": "2020\n2019\nNew Business Value Change",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.693,
+      "line_count": 3,
+      "char_count": 19,
+      "bbox": [
+        227.46,
+        151.81,
+        503.2,
+        163.03
+      ],
+      "font_size_avg": 8.5,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p20_b6",
+      "block_type": "body",
+      "source_text": "新業務\n價值\n利潤率\n年化\n新保費\n新業務\n價值",
+      "current_translation": "New Business\nValue\nProfit Margin\nAnnualized\nNew Premiums\nNew Business\nValue",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.588,
+      "line_count": 7,
+      "char_count": 24,
+      "bbox": [
+        229.2,
+        167.28,
+        334.87,
+        199.78
+      ],
+      "font_size_avg": 8.5,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p20_b7",
+      "block_type": "body",
+      "source_text": "新業務\n價值\n利潤率\n年化\n新保費\n按年變動\n（固定匯率）\n按年變動\n（實質匯率）",
+      "current_translation": "New Business\nValue\nProfit Margin\nAnnualized\nNew Premiums\nYear-on-Year Change\n(constant exchange rates)\nYear-on-Year Change\n(actual exchange rates)",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.353,
+      "line_count": 9,
+      "char_count": 41,
+      "bbox": [
+        348.26,
+        167.48,
+        525.84,
+        199.77
+      ],
+      "font_size_avg": 8.5,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p20_b16",
+      "block_type": "body",
+      "source_text": "為符合合併準備金及\n資本要求所作調整\n(103)\n無意義\n無意義\n(87)\n無意義\n無意義\n無意義\n無意義",
+      "current_translation": "Adjustments for consolidation\nreserves and capital requirements\n(103)\nNot meaningful\nNot meaningful\n(87)\nNot meaningful\nNot meaningful\nNot meaningful\nNot meaningful",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.383,
+      "line_count": 10,
+      "char_count": 53,
+      "bbox": [
+        79.5,
+        312.24,
+        521.71,
+        334.02
+      ],
+      "font_size_avg": 8.5,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p20_b19",
+      "block_type": "body",
+      "source_text": "非控股權益\n(24)\n無意義\n無意義\n(32)\n無意義\n無意義\n無意義\n無意義",
+      "current_translation": "Non-controlling interests\n(24)\nNot meaningful\nNot meaningful\n(32)\nNot meaningful\nNot meaningful\nNot meaningful\nNot meaningful",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.536,
+      "line_count": 9,
+      "char_count": 39,
+      "bbox": [
+        79.54,
+        379.43,
+        521.76,
+        390.93
+      ],
+      "font_size_avg": 8.5,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p20_b21",
+      "block_type": "body",
+      "source_text": "儘管2020年的新業務價值27.65億美元較2019年減少了33%，我們迅速採用了新的數碼工具，並且外出限制的普",
+      "current_translation": "Although the Group's new business value of US$2.765 billion in 2020 decreased by 33% compared to 2019, we rapidly adopted new digital tools, and the widespread relaxation of movement restrictions supported a recovery in sales momentum. AIA's China business contributed the largest share to the Group's new business value in 2020 and was our first",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.444,
+      "line_count": 1,
+      "char_count": 56,
+      "bbox": [
+        73.7,
+        432.05,
+        527.25,
+        444.0
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p20_b22",
+      "block_type": "body",
+      "source_text": "遍放寬支持了銷售勢頭的恢復。友邦保險中國業務為2020年本集團的新業務價值帶來最大貢獻，也是我們第一個",
+      "current_translation": "market to achieve new business value growth in the second half of the year. AIA China's business contributed the largest share to the Group's new business value in 2020 and was our first",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.741,
+      "line_count": 1,
+      "char_count": 51,
+      "bbox": [
+        73.7,
+        448.05,
+        527.24,
+        460.0
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p20_b23",
+      "block_type": "body",
+      "source_text": "顯示銷售勢頭有所恢復的報告分部，原因在於該地區自2020年3月逐步放寬嚴格的封鎖。撇除維持低位的中國內",
+      "current_translation": "reporting segment showing recovery in sales momentum, reflecting the gradual easing of strict lockdowns in the region from March 2020 onwards. Excluding sales from mainland visitors to Hong Kong, which remained at low levels, the Group's new business value in other segments rebounded strongly in the second half, growing 23% compared with the first half.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.444,
+      "line_count": 1,
+      "char_count": 51,
+      "bbox": [
+        73.7,
+        464.05,
+        527.25,
+        476.0
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p20_b24",
+      "block_type": "body",
+      "source_text": "地訪港旅客銷售額，本集團其他分部的新業務價值在下半年強勁復甦，與上半年相比增長了23%。本集團的新業",
+      "current_translation": "The Group's new business development momentum remained strong in 2021, with new business value in the first two months 15% higher than the corresponding period in 2020.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.785,
+      "line_count": 1,
+      "char_count": 50,
+      "bbox": [
+        73.7,
+        480.05,
+        527.23,
+        492.01
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p20_b25",
+      "block_type": "body",
+      "source_text": "務發展勢頭在2021年持續強勁，首兩個月新業務價值較2020年同期高出15%。",
+      "current_translation": "AIA's China business recorded successful momentum in 2021, with new business value in the first two months showing very strong growth compared with the corresponding period in 2020.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.512,
+      "line_count": 1,
+      "char_count": 39,
+      "bbox": [
+        73.7,
+        496.06,
+        387.96,
+        508.01
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p20_b26",
+      "block_type": "body",
+      "source_text": "友邦保險中國業務在2021年錄得成功的勢頭，首兩個月的新業務價值與2020年同期比較，錄得非常強勁的增",
+      "current_translation": "New business value of USD 968 million in 2020 decreased 17% from 2019, primarily due to limited sales in the initial outbreak of COVID-19 in the first quarter. As travel restrictions eased, new business momentum improved rapidly.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.574,
+      "line_count": 1,
+      "char_count": 51,
+      "bbox": [
+        73.7,
+        528.06,
+        527.24,
+        540.01
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p20_b28",
+      "block_type": "body",
+      "source_text": "有限。隨著外出限制放寬，新業務動力得以迅速改善。新業務價值重拾我們慣常的季節性規律，比重更側重於上",
+      "current_translation": "Limited. As restrictions on going out were relaxed, new business momentum improved rapidly. New business value resumed our usual seasonal patterns, with a greater proportion in the upper",
+      "translation_source": "model_repair_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.699,
+      "line_count": 1,
+      "char_count": 49,
+      "bbox": [
+        73.7,
+        560.06,
+        527.08,
+        572.02
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p20_b29",
+      "block_type": "body",
+      "source_text": "半年。在2020年，友邦保險中國業務為集團的新業務價值帶來最大貢獻。",
+      "current_translation": "half-year. In 2020, AIA's Mainland China business made the largest contribution to the Group's new business value.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.757,
+      "line_count": 1,
+      "char_count": 34,
+      "bbox": [
+        73.7,
+        576.07,
+        369.63,
+        588.02
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p20_b30",
+      "block_type": "body",
+      "source_text": "在實施旅遊限制後，友邦保險香港業務來自中國內地訪港客戶的新業務銷售自2020年2月初起實際上已暫停，導",
+      "current_translation": "Following the implementation of travel restrictions, new business sales from Mainland China visitors to AIA's Hong Kong business were effectively suspended from early February 2020, resulting in",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.683,
+      "line_count": 1,
+      "char_count": 51,
+      "bbox": [
+        73.7,
+        608.07,
+        527.25,
+        620.02
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p20_b31",
+      "block_type": "body",
+      "source_text": "致其新業務價值大幅下降。新業務價值利潤率錄得跌幅，反映新業務量減少導致承保開支超支、產品組合變動及",
+      "current_translation": "a significant decline in new business value. New business value profit margin recorded a decrease, reflecting the impact of reduced new business volume leading to underwriting expense overruns, product mix changes and",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.626,
+      "line_count": 1,
+      "char_count": 49,
+      "bbox": [
+        73.7,
+        624.07,
+        527.12,
+        636.02
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p20_b32",
+      "block_type": "body",
+      "source_text": "利率下降的影響所致。澳門在2020年9月底恢復中國內地旅客個人遊計劃。這為澳門的中國內地訪澳客戶銷售回",
+      "current_translation": "lower interest rates. Macau resumed the Individual Visit Scheme for Mainland China visitors in late September 2020. This provided support for the recovery of new business sales from Mainland China visitors to Macau, contributing to",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.598,
+      "line_count": 1,
+      "char_count": 51,
+      "bbox": [
+        73.7,
+        640.07,
+        527.25,
+        652.03
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    }
+  ]
+}

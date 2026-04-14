@@ -1,0 +1,93 @@
+文档场景：上市公司企业年报
+请优先使用背景中的标准叫法和术语。
+{
+  "document_background": {
+    "global_profile": {
+      "company_name_target": "AIA GROUP LIMITED",
+      "industry": "Life Insurance",
+      "report_type": "annual_report",
+      "report_year": 2020,
+      "style_keywords": [
+        "corporate governance",
+        "financial performance",
+        "stakeholder communication",
+        "ESG commitment"
+      ]
+    },
+    "page_sections": [
+      {
+        "target_section": "Group Chief Financial Officer's Review",
+        "content_type": "cfo_review",
+        "page_range": [
+          18,
+          30
+        ]
+      },
+      {
+        "target_section": "Financial and Operating Review",
+        "content_type": "financial_review",
+        "page_range": [
+          17,
+          30
+        ]
+      }
+    ],
+    "roles": [],
+    "terms": [
+      {
+        "source": "內涵價值",
+        "target": "Embedded Value",
+        "abbreviation": "EV",
+        "context": "valuation_metric",
+        "confidence": "high"
+      }
+    ],
+    "style_rules": [
+      "Preserve financial terminology consistency",
+      "Use formal corporate register throughout",
+      "Maintain parallel structure in lists and tables",
+      "Preserve table structure and alignment",
+      "Translate table headers consistently with body text",
+      "Maintain footnote references and numbering",
+      "Convert currency units with precision"
+    ]
+  },
+  "matched_terms": [
+    {
+      "source": "內涵價值",
+      "target": "embedded value"
+    },
+    {
+      "source": "內涵價值",
+      "target": "Embedded Value"
+    }
+  ],
+  "current_unit": {
+    "page_no": 19,
+    "unit_id": "p19_g03",
+    "unit_mode": "semantic_group",
+    "block_types": [
+      "body",
+      "body"
+    ],
+    "blocks": [
+      {
+        "block_id": "p19_b10",
+        "source_text": "原因在於內涵價值營運溢利72.43億美元抵銷了政府債券收益率下降的影響。內涵價值營運溢利包括來自正面營"
+      },
+      {
+        "block_id": "p19_b11",
+        "source_text": "運差異5.49億美元，原因在於與我們的內涵價值假設相比，我們的整體經驗持續維持正面。"
+      }
+    ],
+    "joined_source_text": "原因在於內涵價值營運溢利72.43億美元抵銷了政府債券收益率下降的影響。內涵價值營運溢利包括來自正面營\n運差異5.49億美元，原因在於與我們的內涵價值假設相比，我們的整體經驗持續維持正面。"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p19_g03",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

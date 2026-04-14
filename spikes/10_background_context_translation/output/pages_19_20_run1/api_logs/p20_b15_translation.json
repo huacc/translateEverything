@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 20,
+    "unit_id": "p20_b15"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是上市公司年报英文翻译器。\n语言方向：Traditional Chinese -> English。\n你只处理当前翻译单元。\n如果当前单元由多个连续文本块组成，只允许在当前组内恢复被换行打散的句子和段落；只做最小必要融合，不得引入组外信息。\n标题、栏目名、表头、图表标签要短、稳、标准；正文要保持正式披露语体。\n数字、百分比、货币、年份、专有名词、公司名、人名、地名、财务指标必须准确。\n不增删事实，不补充因果，不输出残句，不重复表达。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市公司企业年报\n请优先使用背景中的标准叫法和术语。\n{\n  \"document_background\": {\n    \"global_profile\": {\n      \"company_name_target\": \"AIA GROUP LIMITED\",\n      \"industry\": \"Life Insurance\",\n      \"report_type\": \"annual_report\",\n      \"report_year\": 2020,\n      \"style_keywords\": [\n        \"corporate governance\",\n        \"financial performance\",\n        \"stakeholder communication\",\n        \"ESG commitment\"\n      ]\n    },\n    \"page_sections\": [\n      {\n        \"target_section\": \"New Business Performance\",\n        \"content_type\": \"business_metrics\",\n        \"page_range\": [\n          20,\n          21\n        ]\n      },\n      {\n        \"target_section\": \"Group Chief Financial Officer's Review\",\n        \"content_type\": \"cfo_review\",\n        \"page_range\": [\n          18,\n          30\n        ]\n      },\n      {\n        \"target_section\": \"Financial and Operating Review\",\n        \"content_type\": \"financial_review\",\n        \"page_range\": [\n          17,\n          30\n        ]\n      }\n    ],\n    \"roles\": [],\n    \"terms\": [],\n    \"style_rules\": [\n      \"Preserve financial terminology consistency\",\n      \"Use formal corporate register throughout\",\n      \"Maintain parallel structure in lists and tables\",\n      \"Preserve table structure and alignment\",\n      \"Translate table headers consistently with body text\",\n      \"Maintain footnote references and numbering\",\n      \"Convert currency units with precision\"\n    ]\n  },\n  \"matched_terms\": [],\n  \"current_unit\": {\n    \"page_no\": 20,\n    \"unit_id\": \"p20_b15\",\n    \"unit_mode\": \"single_block\",\n    \"block_types\": [\n      \"body\"\n    ],\n    \"blocks\": [\n      {\n        \"block_id\": \"p20_b15\",\n        \"source_text\": \"小計\\n3,053\\n57.7%\\n5,219\\n4,427\\n66.6%\\n6,585\\n(31)%\\n(31)%\"\n      }\n    ],\n    \"joined_source_text\": \"小計\\n3,053\\n57.7%\\n5,219\\n4,427\\n66.6%\\n6,585\\n(31)%\\n(31)%\"\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p20_b15\",\n        \"translation\": \"<译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p20_b15\",\n      \"translation\": \"Subtotal\\n3,053\\n57.7%\\n5,219\\n4,427\\n66.6%\\n6,585\\n(31)%\\n(31)%\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "477711b8-232e-4253-a9fa-43faeb6ec2d3",
+    "conversation_id": "477711b8-232e-4253-a9fa-43faeb6ec2d3",
+    "id": "477711b8-232e-4253-a9fa-43faeb6ec2d3",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 800,
+      "output_tokens": 80
+    }
+  }
+}

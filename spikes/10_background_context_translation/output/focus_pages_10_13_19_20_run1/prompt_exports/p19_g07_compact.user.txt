@@ -1,0 +1,50 @@
+文档场景：上市公司企业年报
+{
+  "document_background": {
+    "page_sections": [
+      {
+        "target_section": "Group Chief Financial Officer's Review",
+        "content_type": "cfo_review",
+        "page_range": [
+          18,
+          30
+        ]
+      },
+      {
+        "target_section": "Financial and Operating Review",
+        "content_type": "financial_review",
+        "page_range": [
+          17,
+          30
+        ]
+      }
+    ],
+    "roles": [],
+    "terms": [],
+    "style_rules": [
+      "Preserve financial terminology consistency",
+      "Use formal corporate register throughout",
+      "Maintain parallel structure in lists and tables",
+      "Preserve table structure and alignment",
+      "Translate table headers consistently with body text",
+      "Maintain footnote references and numbering",
+      "Convert currency units with precision"
+    ]
+  },
+  "current_unit": {
+    "page_no": 19,
+    "unit_id": "p19_g07",
+    "unit_mode": "semantic_group",
+    "slot_count": 3,
+    "source_text": "董事會建議末期股息增加7.5%至每股100.30港仙，並須於本公司應屆股東週年大會上獲股東批准。這使2020年的\n全年股息總額為每股135.30港仙，較2019年的全年股息總額上升6.9%。這是秉承友邦保險行之已久的審慎、可持\n續及漸進的派息政策，讓集團可把握未來的增長機遇，並且保持財務靈活性。",
+    "current_translation": "The Board recommends an increase in the final dividend of 7.5% to HK$1.0030 per share, subject to approval by shareholders at the forthcoming Annual General Meeting of the Company. This brings the total dividend for 2020 to HK$1.3530 per share, representing an increase of 6.9% compared to the total dividend for 2019. This reflects AIA's long-established prudent, sustainable and progressive dividend policy, which enables the Group to capitalize on future growth opportunities while maintaining financial flexibility."
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p19_g07",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+﻿以下文本块的上一轮译文不符合目标语言要求，请重新给出目标语言译文。
+只输出严格 JSON。
+{
+  "page_no": 10,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "problem_blocks": [
+    {
+      "block_id": "p10_b17",
+      "source_text": "保險所有員工、代理和合作夥伴，即使面對最嚴峻的挑戰，他們仍關懷社區，克盡己職，專心致志地為客戶、",
+      "current_translation": "",
+      "block_type": "body",
+      "line_count": 1,
+      "char_count": 48
+    },
+    {
+      "block_id": "p10_b18",
+      "source_text": "其家庭以及我們的社區提供支援。",
+      "current_translation": "",
+      "block_type": "label",
+      "line_count": 1,
+      "char_count": 15
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p11_b15",
+      "translation": "Inc. (ISS) has awarded us the \"Prime\" Environmental, Social and Governance Corporate Rating (ESG Corporate Rating), recognising AIA as one of the industry's best-performing companies in sustainable development."
+    },
+    {
+      "block_id": "p11_b16",
+      "translation": "We believe we must do more to deliver better outcomes for our communities. This remains a priority shared by myself, the Board"
+    },
+    {
+      "block_id": "p11_b17",
+      "translation": "members, senior management and all our employees."
+    },
+    {
+      "block_id": "p11_b18",
+      "translation": "Today, customer demand for AIA's products, services and high-quality advice has never been stronger. Our strategy is built on Asia's robust structural"
+    },
+    {
+      "block_id": "p11_b19",
+      "translation": "growth drivers, supported by multiple factors including unprecedented wealth creation, rapidly widening protection gaps, evolving consumer preferences,"
+    },
+    {
+      "block_id": "p11_b20",
+      "translation": "digital technology adoption, and market focus on long-term sustainability. The Board is confident that AIA is well-positioned to capture the opportunities"
+    }
+  ]
+}
+```

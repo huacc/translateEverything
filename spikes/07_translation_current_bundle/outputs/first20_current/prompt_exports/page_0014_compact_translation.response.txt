@@ -1,0 +1,82 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p14_b4",
+      "translation": "AIA's Mainland China business made the largest contribution to the Group's new business value in 2020 and performed excellently in early 2021, recording significant growth compared with the same period in 2020,"
+    },
+    {
+      "block_id": "p14_b6",
+      "translation": "due to limited new sales in the early stages of the COVID-19 outbreak in the first quarter. Operating profit after tax increased by 14% during the year, primarily due to our growing"
+    },
+    {
+      "block_id": "p14_b8",
+      "translation": "In 2020, we successfully obtained regulatory approval to convert our Shanghai branch into Mainland China's first wholly foreign-owned life insurance subsidiary. In March 2021,"
+    },
+    {
+      "block_id": "p14_b9",
+      "translation": "we received approval from the China Banking and Insurance Regulatory Commission to commence operations in Sichuan Province. Sichuan is the sixth largest province in Mainland China by gross domestic product"
+    },
+    {
+      "block_id": "p14_b11",
+      "translation": "Hong Kong implemented travel restrictions in early February 2020, and new business sales from Mainland China visitors effectively halted, resulting in a significant decline in new business value."
+    },
+    {
+      "block_id": "p14_b12",
+      "translation": "Compared with the first half, our agency distribution channel recorded double-digit sales growth from local customers in the second half, maintaining significant market leadership."
+    },
+    {
+      "block_id": "p14_b13",
+      "translation": "Partnership distribution new business value was significantly lower than 2019, primarily due to the higher proportion of sales historically generated through the retail independent financial adviser channel from Mainland China visitors to Hong Kong."
+    },
+    {
+      "block_id": "p14_b15",
+      "translation": "AIA's Thailand business recorded very strong performance in the second half. Although new business value declined 4% for the full year, as movement restrictions eased, monthly performance showed positive momentum, with second-half new business value recording 33% growth versus the first half."
+    },
+    {
+      "block_id": "p14_b16",
+      "translation": "Positive momentum has been demonstrated, with second-half new business value recording 33% growth versus the first half."
+    },
+    {
+      "block_id": "p14_b17",
+      "translation": "Singapore's business also showed excellent improvement in the second half, with new business value increasing 56% versus the first half and 12% year-on-year. Full-year new business value"
+    },
+    {
+      "block_id": "p14_b20",
+      "translation": "In Malaysia, new business value declined 13% for the full year, particularly reflecting strict movement restrictions enforced in the first half. Second-half new business value recovered, growing"
+    },
+    {
+      "block_id": "p14_b21",
+      "translation": "72% versus the first half."
+    },
+    {
+      "block_id": "p14_b22",
+      "translation": "In other markets, second-half new business value increased 10% versus the first half, with positive recoveries in South Korea and Indonesia. Overall, new business value"
+    },
+    {
+      "block_id": "p14_b23",
+      "translation": "declined 4% for the full year, primarily due to declines in New Zealand, the Philippines and Indonesia. Remaining markets all recorded positive new business value growth, with Vietnam,"
+    },
+    {
+      "block_id": "p14_b25",
+      "translation": "On the agency channel, we shifted to online recruitment and onboarding practices, supporting double-digit growth in both new recruits and agency managers."
+    },
+    {
+      "block_id": "p14_b26",
+      "translation": "Although face-to-face meetings were restricted during the pandemic, resulting in 28% decline in new business value, as restrictions eased and businesses adopted new digital"
+    },
+    {
+      "block_id": "p14_b27",
+      "translation": "tools, new business value rebounded strongly in the second half. Positive sales momentum continued into 2021, with agency business recording exceptionally strong new business value growth in the first two"
+    },
+    {
+      "block_id": "p14_b29",
+      "translation": "Travel restrictions on Mainland China visitors to Hong Kong impacted our retail independent financial adviser business, resulting in 41% decline in partnership distribution new business value in 2020."
+    },
+    {
+      "block_id": "p14_b32",
+      "translation": "Berhad (Public Bank) in Malaysia through bancassurance partnerships both recorded positive new business value growth in 2020."
+    }
+  ]
+}
+```

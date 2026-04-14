@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "compact",
+    "page_no": 19,
+    "unit_id": "p19_g06"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是版面回填压缩器。\n语言方向：Traditional Chinese -> English。\n在不改变事实、数字、专有名词和正式语气的前提下，对当前译文做最小必要压缩。\n不得补充新信息，不得删除关键事实，不得改动数字和单位。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市公司企业年报\npage_no: 19\nunit_id: p19_g06\nunit_mode: semantic_group\nslot_count: 3\nsource_text:\n於2020年12月31日，我們的主要營運公司友邦保險有限公司（AIA Co.）的償付能力充足率仍然非常強勁，為\n489%。於2020年12月31日，在新的集團監管框架下，集團當地資本總和法覆蓋率為374%。日後，我們將披露集\n團當地資本總和法覆蓋率，作為衡量本集團監管償付能力的主要指標。\ncurrent_translation:\nAs at 31 December 2020, our principal operating company AIA Co.'s solvency ratio remained very strong at 489%. As at 31 December 2020, under the new group regulatory framework, the group's local capital aggregation method coverage ratio was 374%. Going forward, we will disclose the group's local capital aggregation method coverage ratio as the primary indicator for measuring the group's regulatory solvency.\n返回格式:\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p19_g06\",\n      \"translation\": \"<更紧凑译文>\"\n    }\n  ]\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p19_g06\",\n      \"translation\": \"As at 31 December 2020, our principal operating company AIA Co.'s solvency ratio remained strong at 489%. Under the new group regulatory framework, the group's local capital aggregation method coverage ratio was 374%. Going forward, this ratio will be our primary indicator for measuring regulatory solvency.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "167911c9-5af5-4533-914c-3bd339d38ccc",
+    "conversation_id": "167911c9-5af5-4533-914c-3bd339d38ccc",
+    "id": "167911c9-5af5-4533-914c-3bd339d38ccc",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 460,
+      "output_tokens": 98
+    }
+  }
+}

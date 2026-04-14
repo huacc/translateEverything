@@ -1,0 +1,24 @@
+{
+  "source_pdf": "D:\\项目\\开源项目\\ontology-scenario\\样本\\中文\\AIA_2021_Annual_Report_zh.pdf",
+  "page_count_total": 312,
+  "page_count_processed": 1,
+  "selected_pages_1_based": [
+    294
+  ],
+  "total_text_blocks": 19,
+  "avg_text_blocks_per_page": 19.0,
+  "pages_with_zero_blocks": 0,
+  "zero_block_pages_1_based": [],
+  "max_blocks_page_1_based": 294,
+  "max_blocks_count": 19,
+  "rendered_page_count": 1,
+  "render_pages_dir": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\01_text_block_extraction\\output\\AIA_2021_Annual_Report_zh_mask_test\\pages",
+  "masked_page_count": 1,
+  "masked_pages_dir": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\01_text_block_extraction\\output\\AIA_2021_Annual_Report_zh_mask_test\\masked_pages",
+  "header_blocks": 0,
+  "footer_blocks": 0,
+  "repeated_header_footer_signatures": 0,
+  "output_jsonl": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\01_text_block_extraction\\output\\AIA_2021_Annual_Report_zh_mask_test\\blocks.jsonl",
+  "duration_sec": 0.42,
+  "status": "ok"
+}

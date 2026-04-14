@@ -1,0 +1,2607 @@
+[
+  {
+    "page_no": 10,
+    "unit_id": "p10_b1",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "heading",
+      "page_sections": [
+        {
+          "source_section": "主席報告",
+          "target_section": "Chairman's Statement",
+          "content_type": "chairman_statement",
+          "page_range": [
+            10,
+            11
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "source": "謝仕榮先生",
+          "target": "Mr. Tse Sze-wing",
+          "role": "Independent Non-Executive Chairman"
+        }
+      ],
+      "terms": [],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "Keep headings short, stable and standard.",
+        "Prefer established annual report section names over free paraphrase."
+      ]
+    }
+  },
+  {
+    "page_no": 10,
+    "unit_id": "p10_b2",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "heading",
+      "page_sections": [
+        {
+          "source_section": "主席報告",
+          "target_section": "Chairman's Statement",
+          "content_type": "chairman_statement",
+          "page_range": [
+            10,
+            11
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "source": "謝仕榮先生",
+          "target": "Mr. Tse Sze-wing",
+          "role": "Independent Non-Executive Chairman"
+        }
+      ],
+      "terms": [],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "Keep headings short, stable and standard.",
+        "Prefer established annual report section names over free paraphrase."
+      ]
+    }
+  },
+  {
+    "page_no": 10,
+    "unit_id": "p10_b3",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "heading",
+      "page_sections": [
+        {
+          "source_section": "主席報告",
+          "target_section": "Chairman's Statement",
+          "content_type": "chairman_statement",
+          "page_range": [
+            10,
+            11
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "source": "謝仕榮先生",
+          "target": "Mr. Tse Sze-wing",
+          "role": "Independent Non-Executive Chairman"
+        }
+      ],
+      "terms": [],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "Keep headings short, stable and standard.",
+        "Prefer established annual report section names over free paraphrase."
+      ]
+    }
+  },
+  {
+    "page_no": 10,
+    "unit_id": "p10_g01",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "overview_narrative",
+      "page_sections": [
+        {
+          "source_section": "主席報告",
+          "target_section": "Chairman's Statement",
+          "content_type": "chairman_statement",
+          "page_range": [
+            10,
+            11
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "source": "謝仕榮先生",
+          "target": "Mr. Tse Sze-wing",
+          "role": "Independent Non-Executive Chairman"
+        }
+      ],
+      "terms": [],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "For overview narrative, use full financial metric name plus abbreviation when provided.",
+        "For financial review and business metrics narrative, use established abbreviations when provided.",
+        "Prefer AIA China / AIA Hong Kong / AIA Macau over loose paraphrases when matched."
+      ]
+    }
+  },
+  {
+    "page_no": 10,
+    "unit_id": "p10_b8",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "heading",
+      "page_sections": [
+        {
+          "source_section": "主席報告",
+          "target_section": "Chairman's Statement",
+          "content_type": "chairman_statement",
+          "page_range": [
+            10,
+            11
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "source": "謝仕榮先生",
+          "target": "Mr. Tse Sze-wing",
+          "role": "Independent Non-Executive Chairman"
+        }
+      ],
+      "terms": [],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "Keep headings short, stable and standard.",
+        "Prefer established annual report section names over free paraphrase."
+      ]
+    }
+  },
+  {
+    "page_no": 10,
+    "unit_id": "p10_g02",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "overview_narrative",
+      "page_sections": [
+        {
+          "source_section": "主席報告",
+          "target_section": "Chairman's Statement",
+          "content_type": "chairman_statement",
+          "page_range": [
+            10,
+            11
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "source": "謝仕榮先生",
+          "target": "Mr. Tse Sze-wing",
+          "role": "Independent Non-Executive Chairman"
+        }
+      ],
+      "terms": [
+        {
+          "source": "2019冠狀病毒病",
+          "target": "COVID-19"
+        }
+      ],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "For overview narrative, use full financial metric name plus abbreviation when provided.",
+        "For financial review and business metrics narrative, use established abbreviations when provided.",
+        "Prefer AIA China / AIA Hong Kong / AIA Macau over loose paraphrases when matched."
+      ]
+    }
+  },
+  {
+    "page_no": 10,
+    "unit_id": "p10_b12",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "heading",
+      "page_sections": [
+        {
+          "source_section": "主席報告",
+          "target_section": "Chairman's Statement",
+          "content_type": "chairman_statement",
+          "page_range": [
+            10,
+            11
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "source": "謝仕榮先生",
+          "target": "Mr. Tse Sze-wing",
+          "role": "Independent Non-Executive Chairman"
+        }
+      ],
+      "terms": [],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "Keep headings short, stable and standard.",
+        "Prefer established annual report section names over free paraphrase."
+      ]
+    }
+  },
+  {
+    "page_no": 10,
+    "unit_id": "p10_g03",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "table",
+      "page_sections": [
+        {
+          "source_section": "主席報告",
+          "target_section": "Chairman's Statement",
+          "content_type": "chairman_statement",
+          "page_range": [
+            10,
+            11
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "source": "謝仕榮先生",
+          "target": "Mr. Tse Sze-wing",
+          "role": "Independent Non-Executive Chairman"
+        }
+      ],
+      "terms": [
+        {
+          "source": "2019冠狀病毒病",
+          "target": "COVID-19"
+        }
+      ],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "Use established financial abbreviations for table labels when provided.",
+        "Keep row and column semantics unchanged.",
+        "Use n/m for 無意義."
+      ]
+    }
+  },
+  {
+    "page_no": 10,
+    "unit_id": "p10_g04",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "table",
+      "page_sections": [
+        {
+          "source_section": "主席報告",
+          "target_section": "Chairman's Statement",
+          "content_type": "chairman_statement",
+          "page_range": [
+            10,
+            11
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "source": "謝仕榮先生",
+          "target": "Mr. Tse Sze-wing",
+          "role": "Independent Non-Executive Chairman"
+        }
+      ],
+      "terms": [
+        {
+          "source": "新業務價值",
+          "target": "VONB"
+        },
+        {
+          "source": "2019冠狀病毒病",
+          "target": "COVID-19"
+        }
+      ],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "Use established financial abbreviations for table labels when provided.",
+        "Keep row and column semantics unchanged.",
+        "Use n/m for 無意義."
+      ]
+    }
+  },
+  {
+    "page_no": 10,
+    "unit_id": "p10_b21",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "table",
+      "page_sections": [
+        {
+          "source_section": "主席報告",
+          "target_section": "Chairman's Statement",
+          "content_type": "chairman_statement",
+          "page_range": [
+            10,
+            11
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "source": "謝仕榮先生",
+          "target": "Mr. Tse Sze-wing",
+          "role": "Independent Non-Executive Chairman"
+        }
+      ],
+      "terms": [
+        {
+          "source": "新業務價值",
+          "target": "VONB"
+        }
+      ],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "Use established financial abbreviations for table labels when provided.",
+        "Keep row and column semantics unchanged.",
+        "Use n/m for 無意義."
+      ]
+    }
+  },
+  {
+    "page_no": 10,
+    "unit_id": "p10_g05",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "table",
+      "page_sections": [
+        {
+          "source_section": "主席報告",
+          "target_section": "Chairman's Statement",
+          "content_type": "chairman_statement",
+          "page_range": [
+            10,
+            11
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "source": "謝仕榮先生",
+          "target": "Mr. Tse Sze-wing",
+          "role": "Independent Non-Executive Chairman"
+        }
+      ],
+      "terms": [
+        {
+          "source": "稅後營運溢利",
+          "target": "OPAT"
+        },
+        {
+          "source": "產生的基本自由盈餘",
+          "target": "UFSG"
+        },
+        {
+          "source": "自由盈餘",
+          "target": "Free Surplus"
+        },
+        {
+          "source": "內涵價值權益",
+          "target": "EV Equity"
+        },
+        {
+          "source": "內涵價值",
+          "target": "EV"
+        },
+        {
+          "source": "集團當地資本總和法覆蓋率",
+          "target": "Group LCSM cover ratio"
+        }
+      ],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "Use established financial abbreviations for table labels when provided.",
+        "Keep row and column semantics unchanged.",
+        "Use n/m for 無意義."
+      ]
+    }
+  },
+  {
+    "page_no": 10,
+    "unit_id": "p10_g06",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "table",
+      "page_sections": [
+        {
+          "source_section": "主席報告",
+          "target_section": "Chairman's Statement",
+          "content_type": "chairman_statement",
+          "page_range": [
+            10,
+            11
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "source": "謝仕榮先生",
+          "target": "Mr. Tse Sze-wing",
+          "role": "Independent Non-Executive Chairman"
+        }
+      ],
+      "terms": [],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "Use established financial abbreviations for table labels when provided.",
+        "Keep row and column semantics unchanged.",
+        "Use n/m for 無意義."
+      ]
+    }
+  },
+  {
+    "page_no": 10,
+    "unit_id": "p10_b27",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "overview_narrative",
+      "page_sections": [
+        {
+          "source_section": "主席報告",
+          "target_section": "Chairman's Statement",
+          "content_type": "chairman_statement",
+          "page_range": [
+            10,
+            11
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "source": "謝仕榮先生",
+          "target": "Mr. Tse Sze-wing",
+          "role": "Independent Non-Executive Chairman"
+        }
+      ],
+      "terms": [],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "For overview narrative, use full financial metric name plus abbreviation when provided.",
+        "For financial review and business metrics narrative, use established abbreviations when provided.",
+        "Prefer AIA China / AIA Hong Kong / AIA Macau over loose paraphrases when matched."
+      ]
+    }
+  },
+  {
+    "page_no": 10,
+    "unit_id": "p10_b28",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "overview_narrative",
+      "page_sections": [
+        {
+          "source_section": "主席報告",
+          "target_section": "Chairman's Statement",
+          "content_type": "chairman_statement",
+          "page_range": [
+            10,
+            11
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "source": "謝仕榮先生",
+          "target": "Mr. Tse Sze-wing",
+          "role": "Independent Non-Executive Chairman"
+        }
+      ],
+      "terms": [],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "For overview narrative, use full financial metric name plus abbreviation when provided.",
+        "For financial review and business metrics narrative, use established abbreviations when provided.",
+        "Prefer AIA China / AIA Hong Kong / AIA Macau over loose paraphrases when matched."
+      ]
+    }
+  },
+  {
+    "page_no": 13,
+    "unit_id": "p13_g01",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "overview_narrative",
+      "page_sections": [
+        {
+          "source_section": "集團首席執行官兼總裁報告",
+          "target_section": "Group Chief Executive and President's Report",
+          "content_type": "ceo_report",
+          "page_range": [
+            12,
+            16
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "source": "李源祥",
+          "target": "Lee Yuen Cheung",
+          "role": "Group Chief Executive and President"
+        }
+      ],
+      "terms": [
+        {
+          "source": "2019冠狀病毒病",
+          "target": "COVID-19"
+        }
+      ],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "For overview narrative, use full financial metric name plus abbreviation when provided.",
+        "For financial review and business metrics narrative, use established abbreviations when provided.",
+        "Prefer AIA China / AIA Hong Kong / AIA Macau over loose paraphrases when matched."
+      ]
+    }
+  },
+  {
+    "page_no": 13,
+    "unit_id": "p13_b4",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "overview_narrative",
+      "page_sections": [
+        {
+          "source_section": "集團首席執行官兼總裁報告",
+          "target_section": "Group Chief Executive and President's Report",
+          "content_type": "ceo_report",
+          "page_range": [
+            12,
+            16
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "source": "李源祥",
+          "target": "Lee Yuen Cheung",
+          "role": "Group Chief Executive and President"
+        }
+      ],
+      "terms": [],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "For overview narrative, use full financial metric name plus abbreviation when provided.",
+        "For financial review and business metrics narrative, use established abbreviations when provided.",
+        "Prefer AIA China / AIA Hong Kong / AIA Macau over loose paraphrases when matched."
+      ]
+    }
+  },
+  {
+    "page_no": 13,
+    "unit_id": "p13_g02",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "overview_narrative",
+      "page_sections": [
+        {
+          "source_section": "集團首席執行官兼總裁報告",
+          "target_section": "Group Chief Executive and President's Report",
+          "content_type": "ceo_report",
+          "page_range": [
+            12,
+            16
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "source": "李源祥",
+          "target": "Lee Yuen Cheung",
+          "role": "Group Chief Executive and President"
+        }
+      ],
+      "terms": [],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "For overview narrative, use full financial metric name plus abbreviation when provided.",
+        "For financial review and business metrics narrative, use established abbreviations when provided.",
+        "Prefer AIA China / AIA Hong Kong / AIA Macau over loose paraphrases when matched."
+      ]
+    }
+  },
+  {
+    "page_no": 13,
+    "unit_id": "p13_g03",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "table",
+      "page_sections": [
+        {
+          "source_section": "集團首席執行官兼總裁報告",
+          "target_section": "Group Chief Executive and President's Report",
+          "content_type": "ceo_report",
+          "page_range": [
+            12,
+            16
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "source": "李源祥",
+          "target": "Lee Yuen Cheung",
+          "role": "Group Chief Executive and President"
+        }
+      ],
+      "terms": [
+        {
+          "source": "新業務價值",
+          "target": "VONB"
+        },
+        {
+          "source": "稅後營運溢利",
+          "target": "OPAT"
+        },
+        {
+          "source": "產生的基本自由盈餘",
+          "target": "UFSG"
+        },
+        {
+          "source": "自由盈餘",
+          "target": "Free Surplus"
+        },
+        {
+          "source": "內涵價值權益",
+          "target": "EV Equity"
+        },
+        {
+          "source": "內涵價值",
+          "target": "EV"
+        },
+        {
+          "source": "集團當地資本總和法覆蓋率",
+          "target": "Group LCSM cover ratio"
+        },
+        {
+          "source": "2019冠狀病毒病",
+          "target": "COVID-19"
+        }
+      ],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "Use established financial abbreviations for table labels when provided.",
+        "Keep row and column semantics unchanged.",
+        "Use n/m for 無意義."
+      ]
+    }
+  },
+  {
+    "page_no": 13,
+    "unit_id": "p13_g04",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "table",
+      "page_sections": [
+        {
+          "source_section": "集團首席執行官兼總裁報告",
+          "target_section": "Group Chief Executive and President's Report",
+          "content_type": "ceo_report",
+          "page_range": [
+            12,
+            16
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "source": "李源祥",
+          "target": "Lee Yuen Cheung",
+          "role": "Group Chief Executive and President"
+        }
+      ],
+      "terms": [],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "Use established financial abbreviations for table labels when provided.",
+        "Keep row and column semantics unchanged.",
+        "Use n/m for 無意義."
+      ]
+    }
+  },
+  {
+    "page_no": 13,
+    "unit_id": "p13_g05",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "overview_narrative",
+      "page_sections": [
+        {
+          "source_section": "集團首席執行官兼總裁報告",
+          "target_section": "Group Chief Executive and President's Report",
+          "content_type": "ceo_report",
+          "page_range": [
+            12,
+            16
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "source": "李源祥",
+          "target": "Lee Yuen Cheung",
+          "role": "Group Chief Executive and President"
+        }
+      ],
+      "terms": [],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "For overview narrative, use full financial metric name plus abbreviation when provided.",
+        "For financial review and business metrics narrative, use established abbreviations when provided.",
+        "Prefer AIA China / AIA Hong Kong / AIA Macau over loose paraphrases when matched."
+      ]
+    }
+  },
+  {
+    "page_no": 13,
+    "unit_id": "p13_g06",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "overview_narrative",
+      "page_sections": [
+        {
+          "source_section": "集團首席執行官兼總裁報告",
+          "target_section": "Group Chief Executive and President's Report",
+          "content_type": "ceo_report",
+          "page_range": [
+            12,
+            16
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "source": "李源祥",
+          "target": "Lee Yuen Cheung",
+          "role": "Group Chief Executive and President"
+        }
+      ],
+      "terms": [],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "For overview narrative, use full financial metric name plus abbreviation when provided.",
+        "For financial review and business metrics narrative, use established abbreviations when provided.",
+        "Prefer AIA China / AIA Hong Kong / AIA Macau over loose paraphrases when matched."
+      ]
+    }
+  },
+  {
+    "page_no": 13,
+    "unit_id": "p13_g07",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "overview_narrative",
+      "page_sections": [
+        {
+          "source_section": "集團首席執行官兼總裁報告",
+          "target_section": "Group Chief Executive and President's Report",
+          "content_type": "ceo_report",
+          "page_range": [
+            12,
+            16
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "source": "李源祥",
+          "target": "Lee Yuen Cheung",
+          "role": "Group Chief Executive and President"
+        }
+      ],
+      "terms": [],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "For overview narrative, use full financial metric name plus abbreviation when provided.",
+        "For financial review and business metrics narrative, use established abbreviations when provided.",
+        "Prefer AIA China / AIA Hong Kong / AIA Macau over loose paraphrases when matched."
+      ]
+    }
+  },
+  {
+    "page_no": 13,
+    "unit_id": "p13_g08",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "overview_narrative",
+      "page_sections": [
+        {
+          "source_section": "集團首席執行官兼總裁報告",
+          "target_section": "Group Chief Executive and President's Report",
+          "content_type": "ceo_report",
+          "page_range": [
+            12,
+            16
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "source": "李源祥",
+          "target": "Lee Yuen Cheung",
+          "role": "Group Chief Executive and President"
+        }
+      ],
+      "terms": [],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "For overview narrative, use full financial metric name plus abbreviation when provided.",
+        "For financial review and business metrics narrative, use established abbreviations when provided.",
+        "Prefer AIA China / AIA Hong Kong / AIA Macau over loose paraphrases when matched."
+      ]
+    }
+  },
+  {
+    "page_no": 13,
+    "unit_id": "p13_b29",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "table",
+      "page_sections": [
+        {
+          "source_section": "集團首席執行官兼總裁報告",
+          "target_section": "Group Chief Executive and President's Report",
+          "content_type": "ceo_report",
+          "page_range": [
+            12,
+            16
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "source": "李源祥",
+          "target": "Lee Yuen Cheung",
+          "role": "Group Chief Executive and President"
+        }
+      ],
+      "terms": [],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "Use established financial abbreviations for table labels when provided.",
+        "Keep row and column semantics unchanged.",
+        "Use n/m for 無意義."
+      ]
+    }
+  },
+  {
+    "page_no": 19,
+    "unit_id": "p19_g01",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "table",
+      "page_sections": [
+        {
+          "source_section": "集團首席財務總監回顧",
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [
+        {
+          "source": "友邦保險中國業務",
+          "target": "AIA China"
+        },
+        {
+          "source": "新業務價值",
+          "target": "VONB"
+        }
+      ],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "Use established financial abbreviations for table labels when provided.",
+        "Keep row and column semantics unchanged.",
+        "Use n/m for 無意義."
+      ]
+    }
+  },
+  {
+    "page_no": 19,
+    "unit_id": "p19_b4",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "financial_narrative",
+      "page_sections": [
+        {
+          "source_section": "集團首席財務總監回顧",
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "For overview narrative, use full financial metric name plus abbreviation when provided.",
+        "For financial review and business metrics narrative, use established abbreviations when provided.",
+        "Prefer AIA China / AIA Hong Kong / AIA Macau over loose paraphrases when matched."
+      ]
+    }
+  },
+  {
+    "page_no": 19,
+    "unit_id": "p19_g02",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "table",
+      "page_sections": [
+        {
+          "source_section": "集團首席財務總監回顧",
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [
+        {
+          "source": "中國內地訪港旅客",
+          "target": "Mainland Chinese visitors"
+        },
+        {
+          "source": "新業務價值",
+          "target": "VONB"
+        }
+      ],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "Use established financial abbreviations for table labels when provided.",
+        "Keep row and column semantics unchanged.",
+        "Use n/m for 無意義."
+      ]
+    }
+  },
+  {
+    "page_no": 19,
+    "unit_id": "p19_b9",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "table",
+      "page_sections": [
+        {
+          "source_section": "集團首席財務總監回顧",
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [
+        {
+          "source": "內涵價值權益",
+          "target": "EV Equity"
+        },
+        {
+          "source": "內涵價值",
+          "target": "EV"
+        }
+      ],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "Use established financial abbreviations for table labels when provided.",
+        "Keep row and column semantics unchanged.",
+        "Use n/m for 無意義."
+      ]
+    }
+  },
+  {
+    "page_no": 19,
+    "unit_id": "p19_g03",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "table",
+      "page_sections": [
+        {
+          "source_section": "集團首席財務總監回顧",
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [
+        {
+          "source": "內涵價值營運溢利",
+          "target": "EV operating profit"
+        },
+        {
+          "source": "內涵價值",
+          "target": "EV"
+        }
+      ],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "Use established financial abbreviations for table labels when provided.",
+        "Keep row and column semantics unchanged.",
+        "Use n/m for 無意義."
+      ]
+    }
+  },
+  {
+    "page_no": 19,
+    "unit_id": "p19_g04",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "table",
+      "page_sections": [
+        {
+          "source_section": "集團首席財務總監回顧",
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [
+        {
+          "source": "稅後營運溢利",
+          "target": "OPAT"
+        },
+        {
+          "source": "營運溢利率",
+          "target": "operating margin"
+        },
+        {
+          "source": "有效保單組合",
+          "target": "in-force portfolio"
+        },
+        {
+          "source": "續保率",
+          "target": "persistency"
+        },
+        {
+          "source": "續保保費",
+          "target": "renewal premiums"
+        },
+        {
+          "source": "有效保單",
+          "target": "In-Force Business"
+        }
+      ],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "Use established financial abbreviations for table labels when provided.",
+        "Keep row and column semantics unchanged.",
+        "Use n/m for 無意義."
+      ]
+    }
+  },
+  {
+    "page_no": 19,
+    "unit_id": "p19_g05",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "table",
+      "page_sections": [
+        {
+          "source_section": "集團首席財務總監回顧",
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [
+        {
+          "source": "產生的基本自由盈餘",
+          "target": "UFSG"
+        },
+        {
+          "source": "自由盈餘",
+          "target": "Free Surplus"
+        },
+        {
+          "source": "有效保單組合",
+          "target": "in-force portfolio"
+        },
+        {
+          "source": "有效保單",
+          "target": "In-Force Business"
+        }
+      ],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "Use established financial abbreviations for table labels when provided.",
+        "Keep row and column semantics unchanged.",
+        "Use n/m for 無意義."
+      ]
+    }
+  },
+  {
+    "page_no": 19,
+    "unit_id": "p19_b20",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "heading",
+      "page_sections": [
+        {
+          "source_section": "集團首席財務總監回顧",
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [
+        {
+          "source": "自由盈餘",
+          "target": "Free Surplus"
+        }
+      ],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "Keep headings short, stable and standard.",
+        "Prefer established annual report section names over free paraphrase."
+      ]
+    }
+  },
+  {
+    "page_no": 19,
+    "unit_id": "p19_g06",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "table",
+      "page_sections": [
+        {
+          "source_section": "集團首席財務總監回顧",
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [
+        {
+          "source": "集團當地資本總和法覆蓋率",
+          "target": "Group LCSM cover ratio"
+        }
+      ],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "Use established financial abbreviations for table labels when provided.",
+        "Keep row and column semantics unchanged.",
+        "Use n/m for 無意義."
+      ]
+    }
+  },
+  {
+    "page_no": 19,
+    "unit_id": "p19_g07",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "table",
+      "page_sections": [
+        {
+          "source_section": "集團首席財務總監回顧",
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "Use established financial abbreviations for table labels when provided.",
+        "Keep row and column semantics unchanged.",
+        "Use n/m for 無意義."
+      ]
+    }
+  },
+  {
+    "page_no": 19,
+    "unit_id": "p19_g08",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "financial_narrative",
+      "page_sections": [
+        {
+          "source_section": "集團首席財務總監回顧",
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "For overview narrative, use full financial metric name plus abbreviation when provided.",
+        "For financial review and business metrics narrative, use established abbreviations when provided.",
+        "Prefer AIA China / AIA Hong Kong / AIA Macau over loose paraphrases when matched."
+      ]
+    }
+  },
+  {
+    "page_no": 19,
+    "unit_id": "p19_b29",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "table",
+      "page_sections": [
+        {
+          "source_section": "集團首席財務總監回顧",
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "Use established financial abbreviations for table labels when provided.",
+        "Keep row and column semantics unchanged.",
+        "Use n/m for 無意義."
+      ]
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_b1",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "heading",
+      "page_sections": [
+        {
+          "source_section": "新業務表現",
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "source_section": "集團首席財務總監回顧",
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "Keep headings short, stable and standard.",
+        "Prefer established annual report section names over free paraphrase."
+      ]
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_b2",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "heading",
+      "page_sections": [
+        {
+          "source_section": "新業務表現",
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "source_section": "集團首席財務總監回顧",
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "Keep headings short, stable and standard.",
+        "Prefer established annual report section names over free paraphrase."
+      ]
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_b3",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "heading",
+      "page_sections": [
+        {
+          "source_section": "新業務表現",
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "source_section": "集團首席財務總監回顧",
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "Keep headings short, stable and standard.",
+        "Prefer established annual report section names over free paraphrase."
+      ]
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_b4",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "heading",
+      "page_sections": [
+        {
+          "source_section": "新業務表現",
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "source_section": "集團首席財務總監回顧",
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [
+        {
+          "source": "新業務價值",
+          "target": "New Business Value"
+        },
+        {
+          "source": "年化新保費",
+          "target": "Annualized New Premium"
+        },
+        {
+          "source": "利潤率",
+          "target": "Profit Margin"
+        }
+      ],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "Keep headings short, stable and standard.",
+        "Prefer established annual report section names over free paraphrase."
+      ]
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_b5",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "table",
+      "page_sections": [
+        {
+          "source_section": "新業務表現",
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "source_section": "集團首席財務總監回顧",
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [
+        {
+          "source": "新業務價值",
+          "target": "VONB"
+        }
+      ],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "Use established financial abbreviations for table labels when provided.",
+        "Keep row and column semantics unchanged.",
+        "Use n/m for 無意義."
+      ]
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_b6",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "financial_narrative",
+      "page_sections": [
+        {
+          "source_section": "新業務表現",
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "source_section": "集團首席財務總監回顧",
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [
+        {
+          "source": "利潤率",
+          "target": "Profit Margin"
+        }
+      ],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "For overview narrative, use full financial metric name plus abbreviation when provided.",
+        "For financial review and business metrics narrative, use established abbreviations when provided.",
+        "Prefer AIA China / AIA Hong Kong / AIA Macau over loose paraphrases when matched."
+      ]
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_b7",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "financial_narrative",
+      "page_sections": [
+        {
+          "source_section": "新業務表現",
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "source_section": "集團首席財務總監回顧",
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [
+        {
+          "source": "利潤率",
+          "target": "Profit Margin"
+        }
+      ],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "For overview narrative, use full financial metric name plus abbreviation when provided.",
+        "For financial review and business metrics narrative, use established abbreviations when provided.",
+        "Prefer AIA China / AIA Hong Kong / AIA Macau over loose paraphrases when matched."
+      ]
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_b8",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "financial_narrative",
+      "page_sections": [
+        {
+          "source_section": "新業務表現",
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "source_section": "集團首席財務總監回顧",
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "For overview narrative, use full financial metric name plus abbreviation when provided.",
+        "For financial review and business metrics narrative, use established abbreviations when provided.",
+        "Prefer AIA China / AIA Hong Kong / AIA Macau over loose paraphrases when matched."
+      ]
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_b9",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "table",
+      "page_sections": [
+        {
+          "source_section": "新業務表現",
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "source_section": "集團首席財務總監回顧",
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "Use established financial abbreviations for table labels when provided.",
+        "Keep row and column semantics unchanged.",
+        "Use n/m for 無意義."
+      ]
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_b10",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "table",
+      "page_sections": [
+        {
+          "source_section": "新業務表現",
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "source_section": "集團首席財務總監回顧",
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "Use established financial abbreviations for table labels when provided.",
+        "Keep row and column semantics unchanged.",
+        "Use n/m for 無意義."
+      ]
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_b11",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "table",
+      "page_sections": [
+        {
+          "source_section": "新業務表現",
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "source_section": "集團首席財務總監回顧",
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "Use established financial abbreviations for table labels when provided.",
+        "Keep row and column semantics unchanged.",
+        "Use n/m for 無意義."
+      ]
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_b12",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "table",
+      "page_sections": [
+        {
+          "source_section": "新業務表現",
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "source_section": "集團首席財務總監回顧",
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "Use established financial abbreviations for table labels when provided.",
+        "Keep row and column semantics unchanged.",
+        "Use n/m for 無意義."
+      ]
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_b13",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "table",
+      "page_sections": [
+        {
+          "source_section": "新業務表現",
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "source_section": "集團首席財務總監回顧",
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "Use established financial abbreviations for table labels when provided.",
+        "Keep row and column semantics unchanged.",
+        "Use n/m for 無意義."
+      ]
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_b14",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "table",
+      "page_sections": [
+        {
+          "source_section": "新業務表現",
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "source_section": "集團首席財務總監回顧",
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "Use established financial abbreviations for table labels when provided.",
+        "Keep row and column semantics unchanged.",
+        "Use n/m for 無意義."
+      ]
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_b15",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "table",
+      "page_sections": [
+        {
+          "source_section": "新業務表現",
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "source_section": "集團首席財務總監回顧",
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "Use established financial abbreviations for table labels when provided.",
+        "Keep row and column semantics unchanged.",
+        "Use n/m for 無意義."
+      ]
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_g01",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "table",
+      "page_sections": [
+        {
+          "source_section": "新業務表現",
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "source_section": "集團首席財務總監回顧",
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "Use established financial abbreviations for table labels when provided.",
+        "Keep row and column semantics unchanged.",
+        "Use n/m for 無意義."
+      ]
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_b18",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "table",
+      "page_sections": [
+        {
+          "source_section": "新業務表現",
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "source_section": "集團首席財務總監回顧",
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "Use established financial abbreviations for table labels when provided.",
+        "Keep row and column semantics unchanged.",
+        "Use n/m for 無意義."
+      ]
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_b19",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "table",
+      "page_sections": [
+        {
+          "source_section": "新業務表現",
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "source_section": "集團首席財務總監回顧",
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "Use established financial abbreviations for table labels when provided.",
+        "Keep row and column semantics unchanged.",
+        "Use n/m for 無意義."
+      ]
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_b20",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "table",
+      "page_sections": [
+        {
+          "source_section": "新業務表現",
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "source_section": "集團首席財務總監回顧",
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "Use established financial abbreviations for table labels when provided.",
+        "Keep row and column semantics unchanged.",
+        "Use n/m for 無意義."
+      ]
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_g02",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "table",
+      "page_sections": [
+        {
+          "source_section": "新業務表現",
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "source_section": "集團首席財務總監回顧",
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [
+        {
+          "source": "友邦保險中國業務",
+          "target": "AIA China"
+        },
+        {
+          "source": "新業務價值",
+          "target": "VONB"
+        }
+      ],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "Use established financial abbreviations for table labels when provided.",
+        "Keep row and column semantics unchanged.",
+        "Use n/m for 無意義."
+      ]
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_g03",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "table",
+      "page_sections": [
+        {
+          "source_section": "新業務表現",
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "source_section": "集團首席財務總監回顧",
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [
+        {
+          "source": "友邦保險中國業務",
+          "target": "AIA China"
+        },
+        {
+          "source": "新業務價值",
+          "target": "VONB"
+        },
+        {
+          "source": "2019冠狀病毒病",
+          "target": "COVID-19"
+        }
+      ],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "Use established financial abbreviations for table labels when provided.",
+        "Keep row and column semantics unchanged.",
+        "Use n/m for 無意義."
+      ]
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_g04",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "table",
+      "page_sections": [
+        {
+          "source_section": "新業務表現",
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "source_section": "集團首席財務總監回顧",
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [
+        {
+          "source": "友邦保險香港業務",
+          "target": "AIA Hong Kong"
+        },
+        {
+          "source": "友邦保險澳門分公司",
+          "target": "AIA Macau"
+        },
+        {
+          "source": "中國內地訪港客戶",
+          "target": "Mainland Chinese visitors"
+        },
+        {
+          "source": "個人遊計劃",
+          "target": "Individual Visit Scheme"
+        },
+        {
+          "source": "新業務價值利潤率",
+          "target": "VONB margin"
+        },
+        {
+          "source": "新業務價值",
+          "target": "VONB"
+        },
+        {
+          "source": "年化新保費",
+          "target": "ANP"
+        },
+        {
+          "source": "利潤率",
+          "target": "Profit Margin"
+        }
+      ],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "Use established financial abbreviations for table labels when provided.",
+        "Keep row and column semantics unchanged.",
+        "Use n/m for 無意義."
+      ]
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_b34",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020
+      },
+      "term_usage_mode": "table",
+      "page_sections": [
+        {
+          "source_section": "新業務表現",
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "source_section": "集團首席財務總監回顧",
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Use US$ for U.S. dollar amounts.",
+        "Keep listed-company annual report disclosure tone formal and publishable.",
+        "Do not change numbers, percentages, years, named entities or financial metric values.",
+        "Use established financial abbreviations for table labels when provided.",
+        "Keep row and column semantics unchanged.",
+        "Use n/m for 無意義."
+      ]
+    }
+  }
+]

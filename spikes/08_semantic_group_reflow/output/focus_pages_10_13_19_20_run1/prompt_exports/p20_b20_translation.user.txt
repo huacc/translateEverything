@@ -1,0 +1,30 @@
+文档场景：上市公司企业年报
+page_no: 20
+unit_id: p20_b20
+unit_mode: single_block
+blocks:
+[
+  {
+    "block_id": "p20_b20",
+    "source_text": "總計\n2,765\n52.6%\n5,219\n4,154\n62.9%\n6,585\n(33)%\n(33)%"
+  }
+]
+joined_source_text:
+總計
+2,765
+52.6%
+5,219
+4,154
+62.9%
+6,585
+(33)%
+(33)%
+返回格式:
+{
+  "translations": [
+    {
+      "unit_id": "p20_b20",
+      "translation": "<译文>"
+    }
+  ]
+}

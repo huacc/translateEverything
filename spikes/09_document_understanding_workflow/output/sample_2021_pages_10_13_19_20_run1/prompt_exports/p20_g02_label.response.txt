@@ -1,0 +1,55 @@
+```json
+{
+  "unit_id": "p20_g02",
+  "page_no": 20,
+  "section_id": "新業務表現",
+  "content_type": "business_metrics",
+  "speaker_role": "management",
+  "topic_tags": [
+    "new_business_value",
+    "financial_performance",
+    "covid_19_impact",
+    "regional_analysis",
+    "sales_momentum",
+    "digital_transformation"
+  ],
+  "term_hits": [
+    {
+      "source_term": "新業務價值",
+      "target_term": "New Business Value",
+      "abbreviation": "NBV",
+      "occurrences": 4
+    },
+    {
+      "source_term": "中國內地",
+      "target_term": "Mainland China",
+      "occurrences": 1
+    },
+    {
+      "source_term": "報告分部",
+      "target_term": "Reporting Segment",
+      "occurrences": 1
+    }
+  ],
+  "needs_context": true,
+  "context_scope": "section",
+  "risk_level": "high",
+  "risk_flags": [
+    "financial_metric_translation",
+    "percentage_precision",
+    "covid_19_context_sensitivity",
+    "geographic_market_names",
+    "temporal_reference_accuracy"
+  ],
+  "translation_constraints": [
+    "Preserve exact numerical values: 27.65億美元, 33%, 23%, 15%",
+    "Maintain financial metric consistency: 新業務價值 → New Business Value (NBV)",
+    "Standardize geographic reference: 中國內地 → Mainland China",
+    "Preserve temporal structure: 2020年, 2019年, 上半年, 下半年, 首兩個月",
+    "Maintain comparative metric clarity: 較2019年減少了33% → declined 33% compared to 2019",
+    "Preserve segment attribution: 友邦保險中國業務, 本集團其他分部",
+    "Maintain causal relationship: 原因在於該地區自2020年3月逐步放寬嚴格的封鎖",
+    "Preserve forward-looking statement: 2021年持續強勁"
+  ]
+}
+```

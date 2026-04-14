@@ -1,0 +1,78 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p20_b3",
+      "translation": "New Business Performance"
+    },
+    {
+      "block_id": "p20_b4",
+      "translation": "New business value, annualized new premiums and profit margin by segment"
+    },
+    {
+      "block_id": "p20_b5",
+      "translation": "2020\n2019\nNew Business Value Change"
+    },
+    {
+      "block_id": "p20_b6",
+      "translation": "New Business\nValue\nProfit Margin\nAnnualized\nNew Premiums\nNew Business\nValue"
+    },
+    {
+      "block_id": "p20_b7",
+      "translation": "New Business\nValue\nProfit Margin\nAnnualized\nNew Premiums\nYoY Change\n(constant rates)\nYoY Change\n(actual rates)"
+    },
+    {
+      "block_id": "p20_b16",
+      "translation": "Adjustments for consolidation\nreserves and capital requirements\n(103)\nNot meaningful\nNot meaningful\n(87)\nNot meaningful\nNot meaningful\nNot meaningful\nNot meaningful"
+    },
+    {
+      "block_id": "p20_b19",
+      "translation": "Non-controlling interests\n(24)\nNot meaningful\nNot meaningful\n(32)\nNot meaningful\nNot meaningful\nNot meaningful\nNot meaningful"
+    },
+    {
+      "block_id": "p20_b21",
+      "translation": "Although the Group's new business value of US$2.765 billion in 2020 decreased 33% from 2019, we rapidly adopted new digital tools, and the widespread relaxation of movement restrictions supported a recovery in sales momentum. AIA's China business contributed the largest share to the Group's new business value in 2020 and was our first"
+    },
+    {
+      "block_id": "p20_b22",
+      "translation": "market to achieve new business value growth in the second half of the year. AIA China's business contributed the largest share to the Group's new business value in 2020 and was our first"
+    },
+    {
+      "block_id": "p20_b23",
+      "translation": "reporting segment showing recovery in sales momentum, reflecting the gradual easing of strict lockdowns in the region from March 2020 onwards. Excluding sales from mainland visitors to Hong Kong, which remained at low levels, the Group's new business value in other segments rebounded strongly in the second half, growing 23% compared with the first half."
+    },
+    {
+      "block_id": "p20_b24",
+      "translation": "The Group's new business development momentum remained strong in 2021, with new business value in the first two months 15% higher than the corresponding period in 2020."
+    },
+    {
+      "block_id": "p20_b25",
+      "translation": "AIA's China business recorded successful momentum in 2021, with new business value in the first two months showing very strong growth compared with the corresponding period in 2020."
+    },
+    {
+      "block_id": "p20_b26",
+      "translation": "New business value of US$968 million in 2020 decreased 17% from 2019, primarily due to limited sales in the initial COVID-19 outbreak in the first quarter. As travel restrictions eased, new business momentum improved rapidly."
+    },
+    {
+      "block_id": "p20_b28",
+      "translation": "As restrictions on going out were relaxed, new business momentum improved rapidly. New business value resumed our usual seasonal patterns, with a greater proportion in the upper"
+    },
+    {
+      "block_id": "p20_b29",
+      "translation": "half-year. In 2020, AIA's Mainland China business made the largest contribution to the Group's new business value."
+    },
+    {
+      "block_id": "p20_b30",
+      "translation": "Following the implementation of travel restrictions, new business sales from Mainland China visitors to AIA's Hong Kong business were effectively suspended from early February 2020, resulting in"
+    },
+    {
+      "block_id": "p20_b31",
+      "translation": "a significant decline in new business value. New business value profit margin recorded a decrease, reflecting reduced new business volume leading to underwriting expense overruns, product mix changes and"
+    },
+    {
+      "block_id": "p20_b32",
+      "translation": "lower interest rates. Macau resumed the Individual Visit Scheme for Mainland China visitors in late September 2020. This supported recovery of new business sales from Mainland China visitors to Macau, contributing to"
+    }
+  ]
+}
+```

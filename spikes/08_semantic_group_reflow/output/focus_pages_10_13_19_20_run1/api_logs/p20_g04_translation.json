@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 20,
+    "unit_id": "p20_g04"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是上市公司年报翻译器。\n语言方向：Traditional Chinese -> English。\n只翻译当前输入，不补充、不解释、不总结。\n如果当前输入由多个连续块组成，只允许在当前组内做跨块理解；不得引入组外内容。\n数字、百分比、货币、年份、专有名词、公司名、人名、地名必须准确。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市公司企业年报\npage_no: 20\nunit_id: p20_g04\nunit_mode: semantic_group\n命中术语约束:\n[\n  {\n    \"source\": \"友邦保險\",\n    \"target\": \"AIA\"\n  },\n  {\n    \"source\": \"新業務價值\",\n    \"target\": \"new business value\"\n  },\n  {\n    \"source\": \"中國內地\",\n    \"target\": \"Mainland China\"\n  }\n]\nblocks:\n[\n  {\n    \"block_id\": \"p20_b30\",\n    \"source_text\": \"在實施旅遊限制後，友邦保險香港業務來自中國內地訪港客戶的新業務銷售自2020年2月初起實際上已暫停，導\"\n  },\n  {\n    \"block_id\": \"p20_b31\",\n    \"source_text\": \"致其新業務價值大幅下降。新業務價值利潤率錄得跌幅，反映新業務量減少導致承保開支超支、產品組合變動及\"\n  },\n  {\n    \"block_id\": \"p20_b32\",\n    \"source_text\": \"利率下降的影響所致。澳門在2020年9月底恢復中國內地旅客個人遊計劃。這為澳門的中國內地訪澳客戶銷售回\"\n  },\n  {\n    \"block_id\": \"p20_b33\",\n    \"source_text\": \"升提供支持，使其在第四季佔友邦保險澳門分公司的年化新保費總額超過三分之一。\"\n  }\n]\njoined_source_text:\n在實施旅遊限制後，友邦保險香港業務來自中國內地訪港客戶的新業務銷售自2020年2月初起實際上已暫停，導\n致其新業務價值大幅下降。新業務價值利潤率錄得跌幅，反映新業務量減少導致承保開支超支、產品組合變動及\n利率下降的影響所致。澳門在2020年9月底恢復中國內地旅客個人遊計劃。這為澳門的中國內地訪澳客戶銷售回\n升提供支持，使其在第四季佔友邦保險澳門分公司的年化新保費總額超過三分之一。\n返回格式:\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p20_g04\",\n      \"translation\": \"<译文>\"\n    }\n  ]\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p20_g04\",\n      \"translation\": \"Following the implementation of travel restrictions, new business sales from Mainland China visitors to Hong Kong under AIA's Hong Kong operations were virtually suspended from early February 2020, resulting in a significant decline in new business value. The new business value profit margin recorded a decrease, reflecting the impact of reduced new business volume leading to underwriting expense overruns, changes in product mix, and the effect of declining interest rates. Macau resumed the individual travel scheme for Mainland China visitors at the end of September 2020. This provided support for the recovery of sales from Mainland China visitors to Macau, which accounted for more than one-third of AIA's Macau branch's annualized new premiums in the fourth quarter.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "83585c9d-0e77-489c-b33a-ab6e96374170",
+    "conversation_id": "83585c9d-0e77-489c-b33a-ab6e96374170",
+    "id": "83585c9d-0e77-489c-b33a-ab6e96374170",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 952,
+      "output_tokens": 181
+    }
+  }
+}

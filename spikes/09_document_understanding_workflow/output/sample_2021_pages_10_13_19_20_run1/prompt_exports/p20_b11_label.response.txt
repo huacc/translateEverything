@@ -1,0 +1,36 @@
+```json
+{
+  "unit_id": "p20_b11",
+  "page_no": 20,
+  "section_id": "新業務表現",
+  "content_type": "business_metrics",
+  "speaker_role": null,
+  "topic_tags": [
+    "geographic_market_segment",
+    "financial_performance",
+    "market_penetration"
+  ],
+  "term_hits": [
+    {
+      "source_term": "新業務表現",
+      "target_term": "New Business Performance",
+      "confidence": "high"
+    }
+  ],
+  "needs_context": true,
+  "context_scope": "table",
+  "risk_level": "high",
+  "risk_flags": [
+    "percentage_precision",
+    "currency_unit_ambiguity",
+    "table_header_alignment",
+    "numeric_data_integrity"
+  ],
+  "translation_constraints": [
+    "preserve_exact_decimal_places",
+    "maintain_table_column_structure",
+    "verify_currency_notation_consistency",
+    "cross_reference_with_full_table_context"
+  ]
+}
+```

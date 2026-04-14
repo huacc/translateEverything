@@ -1,0 +1,71 @@
+﻿请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。
+要求高保真、正式、可出版，不要摘要，不要解释。
+术语表和动态文档背景优先于自由翻译。
+只输出严格 JSON。
+{
+  "page_no": 11,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "relevant_terms": [
+    {
+      "source": "友邦保險",
+      "target": "AIA"
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "p11_b9",
+      "block_type": "body",
+      "source_text": "接替榮休的黃經輝先生，擔任集團首席執行官兼總裁。本人謹代表董事會向李源祥先生及其管理層團隊深表",
+      "line_count": 1,
+      "char_count": 47,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p11_b10",
+      "block_type": "body",
+      "source_text": "謝意，他們在這段前所未見的環境發揮優秀的管理才能，帶領我們的業務向前邁進。我們也衷心感謝黃經輝先生",
+      "line_count": 1,
+      "char_count": 49,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p11_b11",
+      "block_type": "label",
+      "source_text": "多年來的卓越領導及對友邦保險所作出的重大貢獻。",
+      "line_count": 1,
+      "char_count": 23,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p11_b12",
+      "block_type": "body",
+      "source_text": "環境、社會及管治議題對全球的影響日形重要。我們當竭盡所能，協助推動社會邁向更美好的未來，而我們的環",
+      "line_count": 1,
+      "char_count": 49,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p11_b13",
+      "block_type": "body",
+      "source_text": "境、社會及管治措施在2020年再度備受肯定。根據評級機構Sustainalytics的評選，友邦保險在超過270家保險公",
+      "line_count": 1,
+      "char_count": 60,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p11_b14",
+      "block_type": "body",
+      "source_text": "司中排名第二，足證我們卓越的企業管治實力和質素。此外，我們繼續榮獲Institutional Shareholder Services",
+      "line_count": 1,
+      "char_count": 67,
+      "region": "middle",
+      "font_size_avg": 9.0
+    }
+  ]
+}

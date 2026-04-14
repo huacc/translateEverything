@@ -1,0 +1,89 @@
+﻿请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。
+要求高保真、正式、可出版，不要摘要，不要解释。
+术语表和动态文档背景优先于自由翻译。
+只输出严格 JSON。
+{
+  "page_no": 10,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "relevant_terms": [
+    {
+      "source": "友邦保險",
+      "target": "AIA"
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "p10_b11",
+      "block_type": "label",
+      "source_text": "持續為數以百萬計的客戶",
+      "line_count": 1,
+      "char_count": 11,
+      "region": "middle",
+      "font_size_avg": 15.0
+    },
+    {
+      "block_id": "p10_b12",
+      "block_type": "label",
+      "source_text": "提供無間斷的支援。",
+      "line_count": 1,
+      "char_count": 9,
+      "region": "middle",
+      "font_size_avg": 15.0
+    },
+    {
+      "block_id": "p10_b13",
+      "block_type": "body",
+      "source_text": "友邦保險在亞洲歷史悠久，源遠流長，經歷各種社會動盪和不明朗時期仍能妥善管理業務，因而贏得卓著的",
+      "line_count": 1,
+      "char_count": 47,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p10_b14",
+      "block_type": "body",
+      "source_text": "聲譽，體現友邦保險誠可信賴、強韌穩健，並堅持為持分者做對的事。自2020年初以來，2019冠狀病毒病大流",
+      "line_count": 1,
+      "char_count": 52,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p10_b15",
+      "block_type": "body",
+      "source_text": "行導致營商環境不斷變化及日趨複雜，而政治、宏觀經濟及資本市場亦出現前所未見的轉移。在這樣的環境下，",
+      "line_count": 1,
+      "char_count": 49,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p10_b16",
+      "block_type": "body",
+      "source_text": "友邦保險的財務實力，以及「幫助大眾活出健康、長久、好生活」的目標，更具重大意義。本人衷心感謝友邦",
+      "line_count": 1,
+      "char_count": 48,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p10_b17",
+      "block_type": "body",
+      "source_text": "保險所有員工、代理和合作夥伴，即使面對最嚴峻的挑戰，他們仍關懷社區，克盡己職，專心致志地為客戶、",
+      "line_count": 1,
+      "char_count": 48,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p10_b18",
+      "block_type": "label",
+      "source_text": "其家庭以及我們的社區提供支援。",
+      "line_count": 1,
+      "char_count": 15,
+      "region": "middle",
+      "font_size_avg": 9.0
+    }
+  ]
+}

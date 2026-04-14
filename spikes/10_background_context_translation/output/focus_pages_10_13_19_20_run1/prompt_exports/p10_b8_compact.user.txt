@@ -1,0 +1,63 @@
+文档场景：上市公司企业年报
+{
+  "document_background": {
+    "page_sections": [
+      {
+        "target_section": "Chairman's Statement",
+        "content_type": "chairman_statement",
+        "page_range": [
+          10,
+          11
+        ]
+      },
+      {
+        "target_section": "Overview",
+        "content_type": "executive_summary",
+        "page_range": [
+          8,
+          16
+        ]
+      }
+    ],
+    "roles": [
+      {
+        "source": "謝仕榮先生",
+        "target": "Mr. Tse Sze-wing",
+        "role": "Independent Non-Executive Chairman"
+      }
+    ],
+    "terms": [
+      {
+        "source": "謝仕榮先生",
+        "target": "Mr. Tse Sze-wing",
+        "abbreviation": "",
+        "context": "Independent Non-Executive Chairman",
+        "confidence": "high"
+      }
+    ],
+    "style_rules": [
+      "Preserve financial terminology consistency",
+      "Use formal corporate register throughout",
+      "Maintain parallel structure in lists and tables",
+      "Section headings use Title Case",
+      "Preserve hierarchical structure of headings",
+      "Translate milestone dates literally"
+    ]
+  },
+  "current_unit": {
+    "page_no": 10,
+    "unit_id": "p10_b8",
+    "unit_mode": "single_block",
+    "slot_count": 2,
+    "source_text": "謝仕榮先生\n獨立非執行主席",
+    "current_translation": "Mr. Tse Sze-wing Independent Non-Executive Chairman"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p10_b8",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 19,
+    "unit_id": "p19_g06"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是上市公司年报英文翻译器。\n语言方向：Traditional Chinese -> English。\n你只处理当前翻译单元。\n如果当前单元由多个连续文本块组成，只允许在当前组内恢复被换行打散的句子和段落；只做最小必要融合，不得引入组外信息。\n标题、栏目名、表头、图表标签要短、稳、标准；正文要保持正式披露语体。\n数字、百分比、货币、年份、专有名词、公司名、人名、地名、财务指标必须准确。\n不增删事实，不补充因果，不输出残句，不重复表达。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市公司企业年报\n请优先使用背景中的标准叫法和术语。\n{\n  \"document_background\": {\n    \"global_profile\": {\n      \"company_name_target\": \"AIA GROUP LIMITED\",\n      \"industry\": \"Life Insurance\",\n      \"report_type\": \"annual_report\",\n      \"report_year\": 2020,\n      \"style_keywords\": [\n        \"corporate governance\",\n        \"financial performance\",\n        \"stakeholder communication\",\n        \"ESG commitment\"\n      ]\n    },\n    \"page_sections\": [\n      {\n        \"target_section\": \"Group Chief Financial Officer's Review\",\n        \"content_type\": \"cfo_review\",\n        \"page_range\": [\n          18,\n          30\n        ]\n      },\n      {\n        \"target_section\": \"Financial and Operating Review\",\n        \"content_type\": \"financial_review\",\n        \"page_range\": [\n          17,\n          30\n        ]\n      }\n    ],\n    \"roles\": [],\n    \"terms\": [],\n    \"style_rules\": [\n      \"Preserve financial terminology consistency\",\n      \"Use formal corporate register throughout\",\n      \"Maintain parallel structure in lists and tables\",\n      \"Preserve table structure and alignment\",\n      \"Translate table headers consistently with body text\",\n      \"Maintain footnote references and numbering\",\n      \"Convert currency units with precision\"\n    ]\n  },\n  \"matched_terms\": [\n    {\n      \"source\": \"友邦保險\",\n      \"target\": \"AIA\"\n    }\n  ],\n  \"current_unit\": {\n    \"page_no\": 19,\n    \"unit_id\": \"p19_g06\",\n    \"unit_mode\": \"semantic_group\",\n    \"block_types\": [\n      \"body\",\n      \"body\",\n      \"body\"\n    ],\n    \"blocks\": [\n      {\n        \"block_id\": \"p19_b21\",\n        \"source_text\": \"於2020年12月31日，我們的主要營運公司友邦保險有限公司（AIA Co.）的償付能力充足率仍然非常強勁，為\"\n      },\n      {\n        \"block_id\": \"p19_b22\",\n        \"source_text\": \"489%。於2020年12月31日，在新的集團監管框架下，集團當地資本總和法覆蓋率為374%。日後，我們將披露集\"\n      },\n      {\n        \"block_id\": \"p19_b23\",\n        \"source_text\": \"團當地資本總和法覆蓋率，作為衡量本集團監管償付能力的主要指標。\"\n      }\n    ],\n    \"joined_source_text\": \"於2020年12月31日，我們的主要營運公司友邦保險有限公司（AIA Co.）的償付能力充足率仍然非常強勁，為\\n489%。於2020年12月31日，在新的集團監管框架下，集團當地資本總和法覆蓋率為374%。日後，我們將披露集\\n團當地資本總和法覆蓋率，作為衡量本集團監管償付能力的主要指標。\"\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p19_g06\",\n        \"translation\": \"<译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p19_g06\",\n      \"translation\": \"As at 31 December 2020, our principal operating company AIA Co. maintained a very strong solvency ratio of 489%. As at 31 December 2020, under the new group regulatory framework, the Group's local capital aggregation method coverage ratio was 374%. Going forward, we will disclose the Group's local capital aggregation method coverage ratio as the primary measure of the Group's regulatory solvency position.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "ef1f3ff2-4502-4a4e-89ac-7bc55b3fff4b",
+    "conversation_id": "ef1f3ff2-4502-4a4e-89ac-7bc55b3fff4b",
+    "id": "ef1f3ff2-4502-4a4e-89ac-7bc55b3fff4b",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1075,
+      "output_tokens": 117
+    }
+  }
+}

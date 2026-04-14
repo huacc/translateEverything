@@ -1,0 +1,48 @@
+文档场景：上市公司企业年报
+{
+  "document_background": {
+    "page_sections": [
+      {
+        "source_section": "主席報告",
+        "target_section": "Chairman's Statement",
+        "content_type": "chairman_statement",
+        "page_range": [
+          10,
+          11
+        ]
+      }
+    ],
+    "roles": [
+      {
+        "source": "謝仕榮先生",
+        "target": "Mr. Tse Sze-wing",
+        "role": "Independent Non-Executive Chairman"
+      }
+    ],
+    "terms": [],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "For overview narrative, use full financial metric name plus abbreviation when provided.",
+      "For financial review and business metrics narrative, use established abbreviations when provided.",
+      "Prefer AIA China / AIA Hong Kong / AIA Macau over loose paraphrases when matched."
+    ]
+  },
+  "current_unit": {
+    "page_no": 10,
+    "unit_id": "p10_g01",
+    "unit_mode": "semantic_group",
+    "slot_count": 4,
+    "source_text": "在過去一個世紀，友邦保險\n於亞洲區內，為極需我們服務的\n社區大眾提供保障而備受稱譽，\n這令我們引以為榮。",
+    "current_translation": "Over the past century, AIA has earned recognition across Asia for providing protection to the communities we serve, and this is a source of great pride for us."
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p10_g01",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

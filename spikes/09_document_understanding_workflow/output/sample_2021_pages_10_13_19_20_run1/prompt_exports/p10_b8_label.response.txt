@@ -1,0 +1,36 @@
+```json
+{
+  "unit_id": "p10_b8",
+  "page_no": 10,
+  "section_id": "chairman_statement",
+  "content_type": "executive_attribution",
+  "speaker_role": "chairman",
+  "topic_tags": [
+    "corporate_governance",
+    "executive_leadership"
+  ],
+  "term_hits": [
+    {
+      "source_term": "謝仕榮先生",
+      "target_term": "Mr. Tse Sze-wing",
+      "confidence": "high"
+    },
+    {
+      "source_term": "獨立非執行主席",
+      "target_term": "Independent Non-Executive Chairman",
+      "confidence": "high"
+    }
+  ],
+  "needs_context": false,
+  "context_scope": null,
+  "risk_level": "low",
+  "risk_flags": [
+    "executive_attribution"
+  ],
+  "translation_constraints": [
+    "Preserve exact name romanization (Tse Sze-wing)",
+    "Maintain formal title structure",
+    "Verify title consistency with company directory"
+  ]
+}
+```

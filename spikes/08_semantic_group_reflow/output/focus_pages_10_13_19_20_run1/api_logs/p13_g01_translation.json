@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 13,
+    "unit_id": "p13_g01"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是上市公司年报翻译器。\n语言方向：Traditional Chinese -> English。\n只翻译当前输入，不补充、不解释、不总结。\n如果当前输入由多个连续块组成，只允许在当前组内做跨块理解；不得引入组外内容。\n数字、百分比、货币、年份、专有名词、公司名、人名、地名必须准确。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市公司企业年报\npage_no: 13\nunit_id: p13_g01\nunit_mode: semantic_group\n命中术语约束:\n[\n  {\n    \"source\": \"友邦保險\",\n    \"target\": \"AIA\"\n  }\n]\nblocks:\n[\n  {\n    \"block_id\": \"p13_b1\",\n    \"source_text\": \"友邦保險是客戶誠可信賴的夥伴，讓客戶在關注財務安全和家庭保障時仍可安心無憂。儘管2019冠狀病毒病大\"\n  },\n  {\n    \"block_id\": \"p13_b2\",\n    \"source_text\": \"流行的影響深遠，但我衷心感謝我們的員工、代理和合作夥伴在適應新工作方式並確保為客戶提供無間斷的支援\"\n  },\n  {\n    \"block_id\": \"p13_b3\",\n    \"source_text\": \"時，展現靈活應變的能力和克盡己職的精神。\"\n  }\n]\njoined_source_text:\n友邦保險是客戶誠可信賴的夥伴，讓客戶在關注財務安全和家庭保障時仍可安心無憂。儘管2019冠狀病毒病大\n流行的影響深遠，但我衷心感謝我們的員工、代理和合作夥伴在適應新工作方式並確保為客戶提供無間斷的支援\n時，展現靈活應變的能力和克盡己職的精神。\n返回格式:\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p13_g01\",\n      \"translation\": \"<译文>\"\n    }\n  ]\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p13_g01\",\n      \"translation\": \"AIA is a trusted partner that customers can rely on, allowing them to have peace of mind while focusing on financial security and family protection. Despite the far-reaching impact of the COVID-19 pandemic, I sincerely appreciate our employees, agents, and partners for demonstrating flexibility and adaptability, and fulfilling their duties in adjusting to new ways of working and ensuring uninterrupted support to our customers.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "e3f41c9b-9a39-4a9b-b6f2-ce7734c79b66",
+    "conversation_id": "e3f41c9b-9a39-4a9b-b6f2-ce7734c79b66",
+    "id": "e3f41c9b-9a39-4a9b-b6f2-ce7734c79b66",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 676,
+      "output_tokens": 117
+    }
+  }
+}

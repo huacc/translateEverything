@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "compact",
+    "page_no": 10,
+    "unit_id": "p10_g03"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是年报英文压缩器，不是重译器。\n语言方向：Traditional Chinese -> English。\n你的任务只是对已有译文做最小必要压缩，以便回填原版面。\n禁止改变数字、单位、术语、专名、比较关系、主体和结论。\n标题不能改成正文，表头不能改成句子，不能输出口语化表达。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市公司企业年报\n{\n  \"document_background\": {\n    \"page_sections\": [\n      {\n        \"target_section\": \"Chairman's Statement\",\n        \"content_type\": \"chairman_statement\",\n        \"page_range\": [\n          10,\n          11\n        ]\n      },\n      {\n        \"target_section\": \"Overview\",\n        \"content_type\": \"executive_summary\",\n        \"page_range\": [\n          8,\n          16\n        ]\n      }\n    ],\n    \"roles\": [\n      {\n        \"source\": \"謝仕榮先生\",\n        \"target\": \"Mr. Tse Sze-wing\",\n        \"role\": \"Independent Non-Executive Chairman\"\n      }\n    ],\n    \"terms\": [\n      {\n        \"source\": \"2019冠狀病毒病\",\n        \"target\": \"COVID-19\",\n        \"abbreviation\": \"\",\n        \"context\": \"external_event\",\n        \"confidence\": \"high\"\n      }\n    ],\n    \"style_rules\": [\n      \"Preserve financial terminology consistency\",\n      \"Use formal corporate register throughout\",\n      \"Maintain parallel structure in lists and tables\",\n      \"Preserve table structure and alignment\",\n      \"Translate table headers consistently with body text\",\n      \"Maintain footnote references and numbering\",\n      \"Convert currency units with precision\"\n    ]\n  },\n  \"current_unit\": {\n    \"page_no\": 10,\n    \"unit_id\": \"p10_g03\",\n    \"unit_mode\": \"semantic_group\",\n    \"slot_count\": 6,\n    \"source_text\": \"友邦保險在亞洲歷史悠久，源遠流長，經歷各種社會動盪和不明朗時期仍能妥善管理業務，因而贏得卓著的\\n聲譽，體現友邦保險誠可信賴、強韌穩健，並堅持為持分者做對的事。自2020年初以來，2019冠狀病毒病大流\\n行導致營商環境不斷變化及日趨複雜，而政治、宏觀經濟及資本市場亦出現前所未見的轉移。在這樣的環境下，\\n友邦保險的財務實力，以及「幫助大眾活出健康、長久、好生活」的目標，更具重大意義。本人衷心感謝友邦\\n保險所有員工、代理和合作夥伴，即使面對最嚴峻的挑戰，他們仍關懷社區，克盡己職，專心致志地為客戶、\\n其家庭以及我們的社區提供支援。\",\n    \"current_translation\": \"AIA has a long and storied history in Asia. Having navigated various periods of social upheaval and uncertainty while managing our business prudently, we have earned a distinguished reputation that reflects our trustworthiness, resilience and steadfast commitment to doing the right thing for our stakeholders. Since early 2020, the COVID-19 pandemic has created an increasingly complex and dynamic business environment, while political, macroeconomic and capital market conditions have undergone unprecedented shifts. In such circumstances, AIA's financial strength and our purpose of helping people live healthier, longer, better lives take on even greater significance. I wish to express my heartfelt gratitude to all AIA employees, agents and partners who, despite facing the most severe challenges, have continued to care for our communities, fulfilled their responsibilities with dedication, and remained focused on providing support to our customers, their families and our communities.\"\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p10_g03\",\n        \"translation\": \"<更紧凑译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p10_g03\",\n      \"translation\": \"AIA has a long and storied history in Asia. Having navigated various periods of social upheaval and uncertainty while managing our business prudently, we have earned a distinguished reputation reflecting our trustworthiness, resilience and commitment to doing right by our stakeholders. Since early 2020, the COVID-19 pandemic has created an increasingly complex business environment, while political, macroeconomic and capital market conditions have undergone unprecedented shifts. In such circumstances, AIA's financial strength and our purpose of helping people live healthier, longer, better lives take on greater significance. I express my heartfelt gratitude to all AIA employees, agents and partners who, despite severe challenges, have continued to care for our communities, fulfilled their responsibilities with dedication, and remained focused on supporting our customers, their families and our communities.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "1518ee0e-bf0c-4c4a-bd6f-0bd2b9e6da8d",
+    "conversation_id": "1518ee0e-bf0c-4c4a-bd6f-0bd2b9e6da8d",
+    "id": "1518ee0e-bf0c-4c4a-bd6f-0bd2b9e6da8d",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1099,
+      "output_tokens": 198
+    }
+  }
+}

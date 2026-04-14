@@ -1,0 +1,21 @@
+{
+  "content": [
+    {
+      "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p26_b1\",\n      \"translation\": \"Financial and Operational Review\"\n    },\n    {\n      \"block_id\": \"p26_b2\",\n      \"translation\": \"Group Chief Financial Officer Review\"\n    },\n    {\n      \"block_id\": \"p26_b3\",\n      \"translation\": \"Total Weighted Premium Income by Segment\"\n    },\n    {\n      \"block_id\": \"p26_b4\",\n      \"translation\": \"USD millions, unless otherwise stated\\n2020\\n2019\\nYear-on-Year Change\\n(Constant Exchange Rate)\\nYear-on-Year Change\\n(Actual Exchange Rate)\"\n    },\n    {\n      \"block_id\": \"p26_b5\",\n      \"translation\": \"Hong Kong\\n13,042\\n13,107\\n–\\n–\"\n    },\n    {\n      \"block_id\": \"p26_b6\",\n      \"translation\": \"Thailand\\n4,462\\n4,352\\n3%\\n3%\"\n    },\n    {\n      \"block_id\": \"p26_b7\",\n      \"translation\": \"Singapore\\n3,088\\n2,916\\n7%\\n6%\"\n    },\n    {\n      \"block_id\": \"p26_b8\",\n      \"translation\": \"Malaysia\\n2,216\\n2,142\\n5%\\n3%\"\n    },\n    {\n      \"block_id\": \"p26_b9\",\n      \"translation\": \"Mainland China\\n5,622\\n4,804\\n17%\\n17%\"\n    },\n    {\n      \"block_id\": \"p26_b10\",\n      \"translation\": \"Other Markets\\n6,978\\n6,681\\n5%\\n4%\"\n    },\n    {\n      \"block_id\": \"p26_b11\",\n      \"translation\": \"Total\\n35,408\\n34,002\\n4%\\n4%\"\n    },\n    {\n      \"block_id\": \"p26_b12\",\n      \"translation\": \"Total weighted premium income increased 4% to USD 3,540.8 million compared to 2019. Renewal premiums collected increased 10%, with recurring premiums representing over 90% of total premiums collected in 2020.\"\n    },\n    {\n      \"block_id\": \"p26_b13\",\n      \"translation\": \"\"\n    },\n    {\n      \"block_id\": \"p26_b14\",\n      \"translation\": \"IFRS Operating Profit Investment Return\"\n    },\n    {\n      \"block_id\": \"p26_b15\",\n      \"translation\": \"USD millions, unless otherwise stated\\n2020\\n2019\\nYear-on-Year Change\\n(Constant Exchange Rate)\\nYear-on-Year Change\\n(Actual Exchange Rate)\"\n    },\n    {\n      \"block_id\": \"p26_b16\",\n      \"translation\": \"Interest Income\\n7,051\\n6,624\\n7%\\n6%\"\n    },\n    {\n      \"block_id\": \"p26_b17\",\n      \"translation\": \"Expected Long-term Investment Return on Equities and Real Estate\\n2,347\\n2,275\\n4%\\n3%\"\n    },\n    {\n      \"block_id\": \"p26_b18\",\n      \"translation\": \"Total\\n9,398\\n8,899\\n6%\\n6%\"\n    },\n    {\n      \"block_id\": \"p26_b19\",\n      \"translation\": \"IFRS operating profit investment return grew 6% to USD 939.8 million compared to 2019. The growth was primarily driven by portfolio expansion, partially offset by lower yields on new fixed income investments and reduced expected long-term equity returns.\"\n    },\n    {\n      \"block_id\": \"p26_b20\",\n      \"translation\": \"\"\n    },\n    {\n      \"block_id\": \"p26_b21\",\n      \"translation\": \"Operating Expenses\"\n    },\n    {\n      \"block_id\": \"p26_b22\",\n      \"translation\": \"USD millions, unless otherwise stated\\n2020\\n2019\\nYear-on-Year Change\\n(Constant Exchange Rate)\\nYear-on-Year Change\\n(Actual Exchange Rate)\"\n    },\n    {\n      \"block_id\": \"p26_b23\",\n      \"translation\": \"Operating Expenses\\n2,695\\n2,468\\n9%\\n9%\"\n    },\n    {\n      \"block_id\": \"p26_b24\",\n      \"translation\": \"The expense ratio was 7.6%, compared to 7.3% in 2019, due to lower new business volume and the Australian business acquired in the second half of 2019.\"\n    },\n    {\n      \"block_id\": \"p26_b25\",\n      \"translation\": \"024\\nAIA Group Limited\"\n    }\n  ]\n}\n```",
+      "type": "text"
+    }
+  ],
+  "conversationId": "90178cd9-4741-407f-8921-aed598d593cd",
+  "conversation_id": "90178cd9-4741-407f-8921-aed598d593cd",
+  "id": "90178cd9-4741-407f-8921-aed598d593cd",
+  "model": "claude-3-5-sonnet-20241022",
+  "role": "assistant",
+  "stop_reason": "end_turn",
+  "type": "message",
+  "usage": {
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2395,
+    "output_tokens": 1074
+  }
+}

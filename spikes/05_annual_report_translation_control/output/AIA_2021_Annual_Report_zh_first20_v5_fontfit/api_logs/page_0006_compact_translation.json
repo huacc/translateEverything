@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "stage": "compact_translation",
+    "page_no": 6
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 2200,
+    "temperature": 0,
+    "system": "你是一个用于 PDF 原位回填的精修助手。\n你处理的是已经翻译过、但版面过紧的文本块。\n你的目标不是重写内容，而是在尽量不损失信息和正式风格的前提下，做最小必要压缩。\n只返回 JSON，不要输出任何解释。\n\n文档场景：上市公司年度报告翻译与逐页版面回填\n目标风格：正式、审慎、可披露、接近已发布英文年报\n\n动态文档背景：\n- 章节线索：我們的目標 | 目錄 | 友邦保險一覽 | 2020 年里程碑 | 概覽 | 2020年業績一覽(1) | 2020年按市場分部劃分 | 主席報告 | 集團首席執行官兼總裁報告 | 財務及營運回顧\n- 导航线索：概覽 | 財務及營運回顧 | 企業管治 | 其他資料 | 財務報表\n- 高频术语：友邦保險 -> AIA | 新業務價值 -> new business value | 稅後營運溢利 -> operating profit after tax | 內涵價值 -> embedded value | 有效保單組合 -> in-force portfolio | 代理渠道 -> agency channel | 夥伴分銷 -> partnership distribution | 銀行保險 -> bancassurance | 中國內地 -> Mainland China | 中國台灣 -> Taiwan | 新加坡 -> Singapore | 泰國 -> Thailand\n- 这是上市公司年度报告语境，译文要保持年报/财报正式书面表达，不使用口语化或营销化措辞。\n- 文档包含财务表格、比率和金额，数字、百分比、币种、年份及缩写必须严格保留。\n- 文档包含目录或侧边导航，导航项宜使用固定、稳定、可复用的正式译法。\n- 文档存在大量章节标题，标题应优先贴近正式已发布年报的写法，并尽量避免不必要换行。\n\n受保护信息：\n- 数字\n- 百分比\n- 货币\n- 年份\n- 日期\n- 专有名词\n- 公司名\n- 人名\n- 地名\n- 图表微标签\n- 页码\n\n硬约束：\n- 只做最小幅度缩短，不要摘要化，不要改成分析师速记风格。\n- 不要随意缩写正式标题、栏目名、导航项、图表标签、页眉页脚。\n- 如果原文是完整句，优先保持完整句。\n- block_id 必须原样保留。\n- 返回格式：{\"translations\": [{\"block_id\": \"...\", \"translation\": \"...\"}]}\n",
+    "messages": [
+      {
+        "role": "user",
+        "content": "以下文本块版面过紧。请在不改变核心含义和正式风格的前提下，仅做最小必要压缩。\n不要摘要，不要解释，只输出严格 JSON。\n{\n  \"page_no\": 6,\n  \"source_language\": \"Traditional Chinese\",\n  \"target_language\": \"English\",\n  \"problem_blocks\": [\n    {\n      \"block_id\": \"p6_b4\",\n      \"block_type\": \"label\",\n      \"source_text\": \"世代。\",\n      \"current_translation\": \"generations.\",\n      \"translation_source\": \"model_initial\",\n      \"fit_status\": \"font_shrink\",\n      \"current_font_ratio\": 0.65,\n      \"line_count\": 1,\n      \"char_count\": 3,\n      \"bbox\": [\n        267.41,\n        110.44,\n        298.41,\n        123.48\n      ],\n      \"font_size_avg\": 10.0,\n      \"suggested_font\": \"F_ARIALNB\"\n    },\n    {\n      \"block_id\": \"p6_b8\",\n      \"block_type\": \"label\",\n      \"source_text\": \"影響的承諾，友邦保險的目標是協助大\",\n      \"current_translation\": \"impact to our customers and communities, AIA's purpose is to help\",\n      \"translation_source\": \"model_initial\",\n      \"fit_status\": \"font_shrink\",\n      \"current_font_ratio\": 0.748,\n      \"line_count\": 1,\n      \"char_count\": 17,\n      \"bbox\": [\n        267.41,\n        153.44,\n        449.73,\n        166.48\n      ],\n      \"font_size_avg\": 10.0,\n      \"suggested_font\": \"F_ARIALNB\"\n    },\n    {\n      \"block_id\": \"p6_b14\",\n      \"block_type\": \"label\",\n      \"source_text\": \"宗旨，即讓大眾明白和管理其健康、並\",\n      \"current_translation\": \"mission: to help people understand and manage their health, and\",\n      \"translation_source\": \"model_initial\",\n      \"fit_status\": \"font_shrink\",\n      \"current_font_ratio\": 0.747,\n      \"line_count\": 1,\n      \"char_count\": 17,\n      \"bbox\": [\n        267.41,\n        207.44,\n        449.73,\n        220.48\n      ],\n      \"font_size_avg\": 10.0,\n      \"suggested_font\": \"F_ARIALNB\"\n    },\n    {\n      \"block_id\": \"p6_b17\",\n      \"block_type\": \"label\",\n      \"source_text\": \"相信無論是現在或未來，最重要和最\",\n      \"current_translation\": \"believe that now and in the future, the most important and most\",\n      \"translation_source\": \"model_initial\",\n      \"fit_status\": \"font_shrink\",\n      \"current_font_ratio\": 0.798,\n      \"line_count\": 1,\n      \"char_count\": 16,\n      \"bbox\": [\n        267.41,\n        243.44,\n        451.57,\n        256.48\n      ],\n      \"font_size_avg\": 10.0,\n      \"suggested_font\": \"F_ARIALNB\"\n    },\n    {\n      \"block_id\": \"p6_b20\",\n      \"block_type\": \"label\",\n      \"source_text\": \"經濟發展帶來支持，並同時在亞洲區內\",\n      \"current_translation\": \"economic development of the markets we serve, and at the same time in Asia\",\n      \"translation_source\": \"model_initial\",\n      \"fit_status\": \"font_shrink\",\n      \"current_font_ratio\": 0.653,\n      \"line_count\": 1,\n      \"char_count\": 17,\n      \"bbox\": [\n        73.71,\n        268.44,\n        256.03,\n        281.48\n      ],\n      \"font_size_avg\": 10.0,\n      \"suggested_font\": \"F_ARIALNB\"\n    },\n    {\n      \"block_id\": \"p6_b22\",\n      \"block_type\": \"label\",\n      \"source_text\": \"提升人壽保險的覆蓋和影響。我們亦很\",\n      \"current_translation\": \"expand life insurance coverage and impact. We are also proud\",\n      \"translation_source\": \"model_initial\",\n      \"fit_status\": \"font_shrink\",\n      \"current_font_ratio\": 0.792,\n      \"line_count\": 1,\n      \"char_count\": 17,\n      \"bbox\": [\n        73.71,\n        286.44,\n        257.87,\n        299.48\n      ],\n      \"font_size_avg\": 10.0,\n      \"suggested_font\": \"F_ARIALNB\"\n    },\n    {\n      \"block_id\": \"p6_b23\",\n      \"block_type\": \"label\",\n      \"source_text\": \"自豪，能夠與我們的客戶和代理維持\",\n      \"current_translation\": \"to maintain long-term relationships with our customers and agents\",\n      \"translation_source\": \"model_initial\",\n      \"fit_status\": \"font_shrink\",\n      \"current_font_ratio\": 0.77,\n      \"line_count\": 1,\n      \"char_count\": 16,\n      \"bbox\": [\n        73.71,\n        304.44,\n        257.87,\n        317.48\n      ],\n      \"font_size_avg\": 10.0,\n      \"suggested_font\": \"F_ARIALNB\"\n    }\n  ]\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p6_b4\",\n      \"translation\": \"generations.\"\n    },\n    {\n      \"block_id\": \"p6_b8\",\n      \"translation\": \"impact, AIA's purpose is to help\"\n    },\n    {\n      \"block_id\": \"p6_b14\",\n      \"translation\": \"mission: to help people understand and manage their health, and\"\n    },\n    {\n      \"block_id\": \"p6_b17\",\n      \"translation\": \"believe that now and in the future, the most important and most\"\n    },\n    {\n      \"block_id\": \"p6_b20\",\n      \"translation\": \"economic development of markets we serve, and in Asia\"\n    },\n    {\n      \"block_id\": \"p6_b22\",\n      \"translation\": \"expand life insurance coverage and impact. We are also proud\"\n    },\n    {\n      \"block_id\": \"p6_b23\",\n      \"translation\": \"to maintain long-term relationships with our customers and agents\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "9f890695-38c3-4015-9608-2639325cc92d",
+    "conversation_id": "9f890695-38c3-4015-9608-2639325cc92d",
+    "id": "9f890695-38c3-4015-9608-2639325cc92d",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 2170,
+      "output_tokens": 243
+    }
+  }
+}

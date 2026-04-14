@@ -1,0 +1,37 @@
+```json
+{
+  "unit_id": "p19_b20",
+  "page_no": 19,
+  "section_id": "集團首席財務總監回顧",
+  "content_type": "financial_narrative",
+  "speaker_role": "cfo",
+  "topic_tags": [
+    "capital_metrics",
+    "financial_performance",
+    "balance_sheet"
+  ],
+  "term_hits": [
+    {
+      "source_term": "自由盈餘",
+      "target_term": "Free Surplus",
+      "context": "capital_metric",
+      "confidence": "high"
+    }
+  ],
+  "needs_context": true,
+  "context_scope": "section",
+  "risk_level": "high",
+  "risk_flags": [
+    "financial_metric_translation",
+    "currency_conversion_notation",
+    "percentage_and_ratio_precision"
+  ],
+  "translation_constraints": [
+    "Preserve numerical precision: 19.97億美元 and 134.73億美元 must convert accurately to USD billions",
+    "Use consistent currency notation: standardize to 'US$' or 'USD' format",
+    "Maintain formal corporate register for financial statement context",
+    "Verify Free Surplus definition against IFRS standards and company's English financial statements",
+    "Preserve exact decimal places (19.97, 134.73) without rounding"
+  ]
+}
+```

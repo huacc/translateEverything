@@ -1,0 +1,21 @@
+{
+  "content": [
+    {
+      "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p21_b1\",\n      \"translation\": \"AIA Thailand: H2 new business value up 33% vs H1. Full year down 4%, but external\"\n    },\n    {\n      \"block_id\": \"p21_b2\",\n      \"translation\": \"restrictions eased H2, driving positive monthly growth.\"\n    },\n    {\n      \"block_id\": \"p21_b4\",\n      \"translation\": \"AIA Singapore: Excellent H2 recovery. New business value up 56% vs H1, +12% YoY.\"\n    },\n    {\n      \"block_id\": \"p21_b5\",\n      \"translation\": \"Full year down 5% as agency growth offset by partner distribution decline, offshore sales hit by border controls.\"\n    },\n    {\n      \"block_id\": \"p21_b6\",\n      \"translation\": \"Improved product mix and higher volume reduced underwriting overruns,\"\n    },\n    {\n      \"block_id\": \"p21_b7\",\n      \"translation\": \"boosting H2 margin recovery.\"\n    },\n    {\n      \"block_id\": \"p21_b8\",\n      \"translation\": \"AIA Malaysia: H2 new business value up 72% vs H1, double-digit vs 2019 H2.\"\n    },\n    {\n      \"block_id\": \"p21_b9\",\n      \"translation\": \"Full year down 13% due to H1 COVID-19 restrictions.\"\n    },\n    {\n      \"block_id\": \"p21_b10\",\n      \"translation\": \"Better product mix and lower underwriting overruns improved H2 margin +16.6pp; 2020 margin 59.9%.\"\n    },\n    {\n      \"block_id\": \"p21_b12\",\n      \"translation\": \"Other markets: H2 new business value up 10% vs H1; South Korea and Indonesia recovered well. Overall,\"\n    },\n    {\n      \"block_id\": \"p21_b13\",\n      \"translation\": \"New Zealand, Philippines, Indonesia down; full year -4%. Other markets positive. vs\"\n    },\n    {\n      \"block_id\": \"p21_b15\",\n      \"translation\": \"2020 Report 019\"\n    }\n  ]\n}\n```",
+      "type": "text"
+    }
+  ],
+  "conversationId": "1dfd897a-d380-4b0f-bb29-5c12dda8855f",
+  "conversation_id": "1dfd897a-d380-4b0f-bb29-5c12dda8855f",
+  "id": "1dfd897a-d380-4b0f-bb29-5c12dda8855f",
+  "model": "claude-3-5-sonnet-20241022",
+  "role": "assistant",
+  "stop_reason": "end_turn",
+  "type": "message",
+  "usage": {
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2626,
+    "output_tokens": 493
+  }
+}

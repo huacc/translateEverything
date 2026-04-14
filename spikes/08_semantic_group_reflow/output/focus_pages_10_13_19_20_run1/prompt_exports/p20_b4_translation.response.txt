@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p20_b4",
+      "translation": "New business value, annualized new premiums and profit margins by segment"
+    }
+  ]
+}
+```

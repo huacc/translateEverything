@@ -1,0 +1,10 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p20_b28",
+      "translation": "Limited. As restrictions on going out were relaxed, new business momentum improved rapidly. New business value resumed our usual seasonal patterns, with a greater proportion in the upper"
+    }
+  ]
+}
+```

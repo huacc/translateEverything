@@ -1,0 +1,62 @@
+﻿请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。
+要求高保真、正式、可出版，不要摘要，不要解释。
+术语表和动态文档背景优先于自由翻译。
+只输出严格 JSON。
+{
+  "page_no": 15,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "relevant_terms": [
+    {
+      "source": "友邦保險",
+      "target": "AIA"
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "p15_b9",
+      "block_type": "body",
+      "source_text": "97%的員工參與調查，本集團所得的員工敬業度評分升至歷來新高，在蓋洛普環球金融服務及保險業基準中排名",
+      "line_count": 1,
+      "char_count": 50,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p15_b10",
+      "block_type": "body",
+      "source_text": "88分位。此外，友邦保險獲列入《福布斯》\n「2020年世界最佳僱主榜單」(‘World’s Best Employers 2020’ list)。",
+      "line_count": 2,
+      "char_count": 73,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p15_b11",
+      "block_type": "body",
+      "source_text": "在2020年10月，友邦保險慶祝於香港聯交所上市10週年誌慶，特別設立「友邦獎學金」，承諾投放1億美元，在未",
+      "line_count": 1,
+      "char_count": 54,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p15_b12",
+      "block_type": "body",
+      "source_text": "來數十年每年資助100名就讀於香港多間大學的本科生，培養新世代企業領袖。",
+      "line_count": 1,
+      "char_count": 36,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p15_b13",
+      "block_type": "body",
+      "source_text": "「未來的組織」(Organisation of the Future)策略的核心組成部分，包括強化和簡化組織結構、引進靈活的工作方",
+      "line_count": 1,
+      "char_count": 65,
+      "region": "middle",
+      "font_size_avg": 9.0
+    }
+  ]
+}

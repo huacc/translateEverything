@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p19_b20",
+      "translation": "After USD 19.97 billion, free cash flow was USD 13.473 billion."
+    }
+  ]
+}
+```

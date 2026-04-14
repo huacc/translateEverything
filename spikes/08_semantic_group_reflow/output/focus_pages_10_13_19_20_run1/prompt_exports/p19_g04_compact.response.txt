@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p19_g04",
+      "translation": "Our high-quality, recurring earnings sources and active portfolio management drove operating profit after tax growth of 5% to USD 5.942 billion, maintaining the operating profit margin at 16.9%. Renewal premiums increased 10%, with recurring premiums representing over 90% of 2020 total premiums collected. Growth benefited from significantly positive claims experience throughout the year, offsetting declines in new fixed income investment yields and reduced assumed long-term equity returns. As expected, the exceptional positive medical claims experience in the first half did not recur in the second half, though positive contributions from this source continued. With AIA's Thailand business lapse experience normalizing, the renewal rate improved in the second half, with the Group's renewal rate at 95%."
+    }
+  ]
+}
+```

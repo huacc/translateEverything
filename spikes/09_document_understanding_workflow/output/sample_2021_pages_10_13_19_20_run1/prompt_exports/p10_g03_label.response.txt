@@ -1,0 +1,49 @@
+```json
+{
+  "unit_id": "p10_g03",
+  "page_no": 10,
+  "section_id": "chairman_statement",
+  "content_type": "chairman_statement",
+  "speaker_role": "chairman",
+  "topic_tags": [
+    "company_heritage",
+    "business_resilience",
+    "pandemic_context",
+    "corporate_values",
+    "stakeholder_commitment",
+    "mission_statement"
+  ],
+  "term_hits": [
+    {
+      "source_term": "2019冠狀病毒病",
+      "target_term": "COVID-19",
+      "context": "external_event",
+      "confidence": "high"
+    },
+    {
+      "source_term": "幫助大眾活出健康、長久、好生活",
+      "target_term": "Healthier, Longer, Better Lives",
+      "context": "mission_statement",
+      "confidence": "high"
+    }
+  ],
+  "needs_context": true,
+  "context_scope": "section",
+  "risk_level": "high",
+  "risk_flags": [
+    "COVID-19_context_sensitivity",
+    "mission_statement_translation",
+    "executive_attribution",
+    "temporal_reference_precision"
+  ],
+  "translation_constraints": [
+    "Preserve formal corporate register and executive tone",
+    "Maintain consistency with established mission statement translation",
+    "Use 'COVID-19' consistently throughout",
+    "Preserve temporal markers: '2020年初以來' requires precise temporal translation",
+    "Translate stakeholder references (員工、代理、合作夥伴) with parallel structure",
+    "Ensure active voice preservation where source permits",
+    "Verify chairman attribution against role_map for correct title and name"
+  ]
+}
+```

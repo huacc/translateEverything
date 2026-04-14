@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "stage": "language_repair",
+    "page_no": 19
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 2200,
+    "temperature": 0,
+    "system": "你是一个用于 PDF 原位回填的翻译修复助手。\n上一轮输出中，部分文本块没有严格使用目标语言，或者出现了乱码/源语言残留。\n你的任务是只修复这些异常块。\n只返回 JSON，不要输出任何解释。\n\n硬约束：\n- 目标语言必须是 English。\n- 不允许保留中文、乱码或源语言残留，除非是受保护的数字、百分比、年份、货币或标准缩写。\n- 不要摘要，不要改写成另一种风格。\n- 保留 block_id。\n- 返回格式：{\"translations\": [{\"block_id\": \"...\", \"translation\": \"...\"}]}\n",
+    "messages": [
+      {
+        "role": "user",
+        "content": "以下文本块的上一轮译文不符合目标语言要求，请重新给出目标语言译文。\n只输出严格 JSON。\n{\n  \"page_no\": 19,\n  \"source_language\": \"Traditional Chinese\",\n  \"target_language\": \"English\",\n  \"problem_blocks\": [\n    {\n      \"block_id\": \"p19_b7\",\n      \"source_text\": \"復甦，與上半年相比增長了23%。本集團的新業務發展勢頭在2021年持續強勁，首兩個月新業務價值較2020年同\",\n      \"current_translation\": \"\",\n      \"block_type\": \"body\",\n      \"line_count\": 1,\n      \"char_count\": 54\n    },\n    {\n      \"block_id\": \"p19_b8\",\n      \"source_text\": \"期高出15%。\",\n      \"current_translation\": \"\",\n      \"block_type\": \"label\",\n      \"line_count\": 1,\n      \"char_count\": 7\n    },\n    {\n      \"block_id\": \"p19_b10\",\n      \"source_text\": \"原因在於內涵價值營運溢利72.43億美元抵銷了政府債券收益率下降的影響。內涵價值營運溢利包括來自正面營\",\n      \"current_translation\": \"\",\n      \"block_type\": \"body\",\n      \"line_count\": 1,\n      \"char_count\": 51\n    },\n    {\n      \"block_id\": \"p19_b11\",\n      \"source_text\": \"運差異5.49億美元，原因在於與我們的內涵價值假設相比，我們的整體經驗持續維持正面。\",\n      \"current_translation\": \"\",\n      \"block_type\": \"body\",\n      \"line_count\": 1,\n      \"char_count\": 42\n    },\n    {\n      \"block_id\": \"p19_b16\",\n      \"source_text\": \"來源對稅後營運溢利增長的正面貢獻。在友邦保險泰國業務的失效經驗恢復正常的情況下，下半年的續保率有所\",\n      \"current_translation\": \"\",\n      \"block_type\": \"body\",\n      \"line_count\": 1,\n      \"char_count\": 49\n    },\n    {\n      \"block_id\": \"p19_b17\",\n      \"source_text\": \"改善，而本集團的續保率為95%。\",\n      \"current_translation\": \"\",\n      \"block_type\": \"label\",\n      \"line_count\": 1,\n      \"char_count\": 16\n    },\n    {\n      \"block_id\": \"p19_b19\",\n      \"source_text\": \"動，這足以抵銷預期投資回報降低的影響。於2020年12月31日，本集團的財務狀況仍然十分強勁，於派付股息\",\n      \"current_translation\": \"\",\n      \"block_type\": \"body\",\n      \"line_count\": 1,\n      \"char_count\": 52\n    },\n    {\n      \"block_id\": \"p19_b20\",\n      \"source_text\": \"19.97億美元後，自由盈餘為134.73億美元。\",\n      \"current_translation\": \"\",\n      \"block_type\": \"label\",\n      \"line_count\": 1,\n      \"char_count\": 25\n    },\n    {\n      \"block_id\": \"p19_b22\",\n      \"source_text\": \"489%。於2020年12月31日，在新的集團監管框架下，集團當地資本總和法覆蓋率為374%。日後，我們將披露集\",\n      \"current_translation\": \"\",\n      \"block_type\": \"body\",\n      \"line_count\": 1,\n      \"char_count\": 56\n    },\n    {\n      \"block_id\": \"p19_b23\",\n      \"source_text\": \"團當地資本總和法覆蓋率，作為衡量本集團監管償付能力的主要指標。\",\n      \"current_translation\": \"\",\n      \"block_type\": \"body\",\n      \"line_count\": 1,\n      \"char_count\": 31\n    },\n    {\n      \"block_id\": \"p19_b25\",\n      \"source_text\": \"全年股息總額為每股135.30港仙，較2019年的全年股息總額上升6.9%。這是秉承友邦保險行之已久的審慎、可持\",\n      \"current_translation\": \"\",\n      \"block_type\": \"body\",\n      \"line_count\": 1,\n      \"char_count\": 56\n    },\n    {\n      \"block_id\": \"p19_b26\",\n      \"source_text\": \"續及漸進的派息政策，讓集團可把握未來的增長機遇，並且保持財務靈活性。\",\n      \"current_translation\": \"\",\n      \"block_type\": \"body\",\n      \"line_count\": 1,\n      \"char_count\": 34\n    },\n    {\n      \"block_id\": \"p19_b28\",\n      \"source_text\": \"增長，並運用我們的競爭優勢，同時維持審慎的財務管理和實現長期股東價值。\",\n      \"current_translation\": \"\",\n      \"block_type\": \"body\",\n      \"line_count\": 1,\n      \"char_count\": 35\n    }\n  ]\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p19_b7\",\n      \"translation\": \"recovery, representing growth of 23% compared to the first half. The Group's new business momentum remained strong throughout 2021, with new business value in the first two months being 15% higher than the corresponding\"\n    },\n    {\n      \"block_id\": \"p19_b8\",\n      \"translation\": \"period in 2020.\"\n    },\n    {\n      \"block_id\": \"p19_b10\",\n      \"translation\": \"This was due to embedded value operating profit of USD 7.243 billion offsetting the impact of lower government bond yields. Embedded value operating profit included positive contributions from operating\"\n    },\n    {\n      \"block_id\": \"p19_b11\",\n      \"translation\": \"variances of USD 549 million, reflecting our continued positive experience relative to our embedded value assumptions.\"\n    },\n    {\n      \"block_id\": \"p19_b16\",\n      \"translation\": \"sources to after-tax operating profit growth. With AIA Thailand's lapse experience normalizing, renewal rates improved in the second half, with the Group's renewal rate at 95%.\"\n    },\n    {\n      \"block_id\": \"p19_b17\",\n      \"translation\": \"The Group's renewal rate was 95%.\"\n    },\n    {\n      \"block_id\": \"p19_b19\",\n      \"translation\": \"momentum, which was sufficient to offset the impact of lower expected investment returns. As at 31 December 2020, the Group's financial position remained very strong, with free surplus of USD 13.473 billion after\"\n    },\n    {\n      \"block_id\": \"p19_b20\",\n      \"translation\": \"paying dividends of USD 1.997 billion.\"\n    },\n    {\n      \"block_id\": \"p19_b22\",\n      \"translation\": \"489%. As at 31 December 2020, under the new group regulatory framework, the Group's local capital aggregation method coverage ratio was 374%. Going forward, we will disclose the Group's\"\n    },\n    {\n      \"block_id\": \"p19_b23\",\n      \"translation\": \"local capital aggregation method coverage ratio as the primary measure of the Group's regulatory solvency.\"\n    },\n    {\n      \"block_id\": \"p19_b25\",\n      \"translation\": \"Total dividends for the full year were HKD 135.30 per share, representing an increase of 6.9% compared to total dividends of HKD 135.30 per share in 2019. This reflects AIA's long-standing prudent, sustainable\"\n    },\n    {\n      \"block_id\": \"p19_b26\",\n      \"translation\": \"and progressive dividend policy, enabling the Group to capture future growth opportunities while maintaining financial flexibility.\"\n    },\n    {\n      \"block_id\": \"p19_b28\",\n      \"translation\": \"growth, while leveraging our competitive advantages, maintaining prudent financial management and delivering long-term shareholder value.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "f053a5fb-a760-4529-8767-d21408886e08",
+    "conversation_id": "f053a5fb-a760-4529-8767-d21408886e08",
+    "id": "f053a5fb-a760-4529-8767-d21408886e08",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1684,
+      "output_tokens": 647
+    }
+  }
+}

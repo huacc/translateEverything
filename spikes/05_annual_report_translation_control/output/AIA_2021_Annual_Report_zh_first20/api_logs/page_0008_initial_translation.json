@@ -1,0 +1,21 @@
+{
+  "content": [
+    {
+      "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p8_b2\",\n      \"translation\": \"2020 Performance Overview(1)\"\n    },\n    {\n      \"block_id\": \"p8_b3\",\n      \"translation\": \"New Business Value(2)(8)\"\n    },\n    {\n      \"block_id\": \"p8_b4\",\n      \"translation\": \"Annualized New Premiums(3)(8)\"\n    },\n    {\n      \"block_id\": \"p8_b5\",\n      \"translation\": \"US$ MILLIONS\"\n    },\n    {\n      \"block_id\": \"p8_b6\",\n      \"translation\": \"US$ MILLIONS\"\n    },\n    {\n      \"block_id\": \"p8_b39\",\n      \"translation\": \"Operating Profit After Tax(4)(9)\\nTotal Weighted Premium Income(5)\"\n    },\n    {\n      \"block_id\": \"p8_b40\",\n      \"translation\": \"US$ MILLIONS\"\n    },\n    {\n      \"block_id\": \"p8_b41\",\n      \"translation\": \"US$ MILLIONS\"\n    },\n    {\n      \"block_id\": \"p8_b72\",\n      \"translation\": \"Embedded Value Equity(6)\\nTotal Assets and Total Liabilities(9)\"\n    },\n    {\n      \"block_id\": \"p8_b73\",\n      \"translation\": \"US$ MILLIONS\"\n    },\n    {\n      \"block_id\": \"p8_b74\",\n      \"translation\": \"US$ BILLIONS\"\n    },\n    {\n      \"block_id\": \"p8_b76\",\n      \"translation\": \"US$ BILLIONS\"\n    },\n    {\n      \"block_id\": \"p8_b110\",\n      \"translation\": \"Total Assets\\nTotal Liabilities\"\n    }\n  ]\n}\n```",
+      "type": "text"
+    }
+  ],
+  "conversationId": "06e2fdd9-b5e2-4583-95f8-30a6bcd422c8",
+  "conversation_id": "06e2fdd9-b5e2-4583-95f8-30a6bcd422c8",
+  "id": "06e2fdd9-b5e2-4583-95f8-30a6bcd422c8",
+  "model": "claude-3-5-sonnet-20241022",
+  "role": "assistant",
+  "stop_reason": "end_turn",
+  "type": "message",
+  "usage": {
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2133,
+    "output_tokens": 414
+  }
+}

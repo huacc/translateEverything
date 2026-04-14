@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 19,
+    "unit_id": "p19_g07"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是上市公司年报翻译器。\n语言方向：Traditional Chinese -> English。\n只翻译当前输入，不补充、不解释、不总结。\n如果当前输入由多个连续块组成，只允许在当前组内做跨块理解；不得引入组外内容。\n数字、百分比、货币、年份、专有名词、公司名、人名、地名必须准确。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市公司企业年报\npage_no: 19\nunit_id: p19_g07\nunit_mode: semantic_group\n命中术语约束:\n[\n  {\n    \"source\": \"友邦保險\",\n    \"target\": \"AIA\"\n  }\n]\nblocks:\n[\n  {\n    \"block_id\": \"p19_b24\",\n    \"source_text\": \"董事會建議末期股息增加7.5%至每股100.30港仙，並須於本公司應屆股東週年大會上獲股東批准。這使2020年的\"\n  },\n  {\n    \"block_id\": \"p19_b25\",\n    \"source_text\": \"全年股息總額為每股135.30港仙，較2019年的全年股息總額上升6.9%。這是秉承友邦保險行之已久的審慎、可持\"\n  },\n  {\n    \"block_id\": \"p19_b26\",\n    \"source_text\": \"續及漸進的派息政策，讓集團可把握未來的增長機遇，並且保持財務靈活性。\"\n  }\n]\njoined_source_text:\n董事會建議末期股息增加7.5%至每股100.30港仙，並須於本公司應屆股東週年大會上獲股東批准。這使2020年的\n全年股息總額為每股135.30港仙，較2019年的全年股息總額上升6.9%。這是秉承友邦保險行之已久的審慎、可持\n續及漸進的派息政策，讓集團可把握未來的增長機遇，並且保持財務靈活性。\n返回格式:\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p19_g07\",\n      \"translation\": \"<译文>\"\n    }\n  ]\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p19_g07\",\n      \"translation\": \"The Board recommends an increase in the final dividend of 7.5% to HK$1.0030 per share, subject to approval by shareholders at the forthcoming Annual General Meeting of the Company. This brings the total dividend for 2020 to HK$1.3530 per share, representing an increase of 6.9% compared to the total dividend for 2019. This is in line with AIA's long-established prudent, sustainable and progressive dividend policy, which enables the Group to capitalize on future growth opportunities while maintaining financial flexibility.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "fb5c77e8-7d4d-4b0e-9b41-232fdc7a0657",
+    "conversation_id": "fb5c77e8-7d4d-4b0e-9b41-232fdc7a0657",
+    "id": "fb5c77e8-7d4d-4b0e-9b41-232fdc7a0657",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 718,
+      "output_tokens": 145
+    }
+  }
+}

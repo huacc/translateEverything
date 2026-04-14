@@ -1,0 +1,18 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p5_b9",
+      "translation": "Providing essential financial support. Despite the ongoing impact of the pandemic,"
+    },
+    {
+      "block_id": "p5_b10",
+      "translation": "we will continue to play a supportive role in helping our communities"
+    },
+    {
+      "block_id": "p5_b11",
+      "translation": "regain vitality."
+    }
+  ]
+}
+```

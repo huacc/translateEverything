@@ -1,0 +1,354 @@
+[
+  {
+    "page_no": 3,
+    "text_block_count": 11,
+    "original": "spikes\\03_pdf_native_text_replace\\output\\AIA_2021_Annual_Report_zh\\original\\page_0003_original.png",
+    "redacted": "spikes\\03_pdf_native_text_replace\\output\\AIA_2021_Annual_Report_zh\\redacted\\page_0003_redacted.png",
+    "translated": "spikes\\03_pdf_native_text_replace\\output\\AIA_2021_Annual_Report_zh\\translated\\page_0003_translated.png",
+    "comparison": "spikes\\03_pdf_native_text_replace\\output\\AIA_2021_Annual_Report_zh\\comparison\\page_0003_native_replace_comparison.png",
+    "blocks": [
+      {
+        "block_id": "p3_b1",
+        "placeholder": "At a glance",
+        "fit_status": "ok",
+        "font_size": 21.05,
+        "color_rgb255": [
+          62,
+          58,
+          57
+        ]
+      },
+      {
+        "block_id": "p3_b2",
+        "placeholder": "Paid over US$16 billion in benefits and claims.",
+        "fit_status": "font_shrink",
+        "font_size": 16.8,
+        "color_rgb255": [
+          255,
+          255,
+          255
+        ]
+      },
+      {
+        "block_id": "p3_b3",
+        "placeholder": "Nearly US$2 trillion of in-force sum assured across Asia.",
+        "fit_status": "font_shrink",
+        "font_size": 17.6,
+        "color_rgb255": [
+          255,
+          255,
+          255
+        ]
+      },
+      {
+        "block_id": "p3_b4",
+        "placeholder": "Helping people live healthier, longer, better lives across the region.",
+        "fit_status": "font_shrink",
+        "font_size": 15.8,
+        "color_rgb255": [
+          255,
+          255,
+          255
+        ]
+      },
+      {
+        "block_id": "p3_b5",
+        "placeholder": "Operating across 18 markets in Asia.",
+        "fit_status": "font_shrink",
+        "font_size": 13.8,
+        "color_rgb255": [
+          255,
+          255,
+          255
+        ]
+      },
+      {
+        "block_id": "p3_b6",
+        "placeholder": "Paid over US$16 billion in benefits and claims.",
+        "fit_status": "font_shrink",
+        "font_size": 8.8,
+        "color_rgb255": [
+          255,
+          255,
+          255
+        ]
+      },
+      {
+        "block_id": "p3_b7",
+        "placeholder": "18 markets",
+        "fit_status": "font_shrink",
+        "font_size": 18.06,
+        "color_rgb255": [
+          255,
+          255,
+          255
+        ]
+      },
+      {
+        "block_id": "p3_b8",
+        "placeholder": "Helping people live healthier, longer, better lives across the region.",
+        "fit_status": "font_shrink",
+        "font_size": 19.6,
+        "color_rgb255": [
+          255,
+          255,
+          255
+        ]
+      },
+      {
+        "block_id": "p3_b9",
+        "placeholder": "The only international life insurer headquartered and listed in Hong Kong, fully focused on Asia.",
+        "fit_status": "font_shrink",
+        "font_size": 14.6,
+        "color_rgb255": [
+          255,
+          255,
+          255
+        ]
+      },
+      {
+        "block_id": "p3_b10",
+        "placeholder": "Serving more than 38 million individual policies and over 16 million group insurance members.",
+        "fit_status": "font_shrink",
+        "font_size": 29.06,
+        "color_rgb255": [
+          255,
+          255,
+          255
+        ]
+      },
+      {
+        "block_id": "p3_b11",
+        "placeholder": "Top-ranked globally in MDRT registered members.",
+        "fit_status": "overflow",
+        "font_size": 6.0,
+        "color_rgb255": [
+          62,
+          58,
+          57
+        ]
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "page_no": 294,
+    "text_block_count": 19,
+    "original": "spikes\\03_pdf_native_text_replace\\output\\AIA_2021_Annual_Report_zh\\original\\page_0294_original.png",
+    "redacted": "spikes\\03_pdf_native_text_replace\\output\\AIA_2021_Annual_Report_zh\\redacted\\page_0294_redacted.png",
+    "translated": "spikes\\03_pdf_native_text_replace\\output\\AIA_2021_Annual_Report_zh\\translated\\page_0294_translated.png",
+    "comparison": "spikes\\03_pdf_native_text_replace\\output\\AIA_2021_Annual_Report_zh\\comparison\\page_0294_native_replace_comparison.png",
+    "blocks": [
+      {
+        "block_id": "p294_b1",
+        "placeholder": "At a glance",
+        "fit_status": "ok",
+        "font_size": 9.9,
+        "color_rgb255": [
+          108,
+          89,
+          105
+        ]
+      },
+      {
+        "block_id": "p294_b2",
+        "placeholder": "18 markets",
+        "fit_status": "ok",
+        "font_size": 9.0,
+        "color_rgb255": [
+          108,
+          89,
+          105
+        ]
+      },
+      {
+        "block_id": "p294_b3",
+        "placeholder": "Top-ranked globally in MDRT registered members.",
+        "fit_status": "ok",
+        "font_size": 8.1,
+        "color_rgb255": [
+          108,
+          89,
+          105
+        ]
+      },
+      {
+        "block_id": "p294_b4",
+        "placeholder": "Protection in force",
+        "fit_status": "ok",
+        "font_size": 8.1,
+        "color_rgb255": [
+          108,
+          89,
+          105
+        ]
+      },
+      {
+        "block_id": "p294_b5",
+        "placeholder": "Operating across 18 markets in Asia.",
+        "fit_status": "ok",
+        "font_size": 8.1,
+        "color_rgb255": [
+          108,
+          89,
+          105
+        ]
+      },
+      {
+        "block_id": "p294_b6",
+        "placeholder": "Paid over US$16 billion in benefits and claims.",
+        "fit_status": "ok",
+        "font_size": 8.1,
+        "color_rgb255": [
+          108,
+          89,
+          105
+        ]
+      },
+      {
+        "block_id": "p294_b7",
+        "placeholder": "18 markets",
+        "fit_status": "ok",
+        "font_size": 9.0,
+        "color_rgb255": [
+          108,
+          89,
+          105
+        ]
+      },
+      {
+        "block_id": "p294_b8",
+        "placeholder": "Serving individual and group customers across Asia.",
+        "fit_status": "ok",
+        "font_size": 8.1,
+        "color_rgb255": [
+          108,
+          89,
+          105
+        ]
+      },
+      {
+        "block_id": "p294_b9",
+        "placeholder": "Protection in force",
+        "fit_status": "font_shrink",
+        "font_size": 6.1,
+        "color_rgb255": [
+          108,
+          89,
+          105
+        ]
+      },
+      {
+        "block_id": "p294_b10",
+        "placeholder": "MDRT leadership",
+        "fit_status": "overflow",
+        "font_size": 6.0,
+        "color_rgb255": [
+          108,
+          89,
+          105
+        ]
+      },
+      {
+        "block_id": "p294_b11",
+        "placeholder": "Top-ranked globally in MDRT registered members.",
+        "fit_status": "ok",
+        "font_size": 8.1,
+        "color_rgb255": [
+          108,
+          89,
+          105
+        ]
+      },
+      {
+        "block_id": "p294_b12",
+        "placeholder": "Serving individual and group customers across Asia.",
+        "fit_status": "font_shrink",
+        "font_size": 8.0,
+        "color_rgb255": [
+          108,
+          89,
+          105
+        ]
+      },
+      {
+        "block_id": "p294_b13",
+        "placeholder": "Operating across 18 markets in Asia.",
+        "fit_status": "ok",
+        "font_size": 8.1,
+        "color_rgb255": [
+          108,
+          89,
+          105
+        ]
+      },
+      {
+        "block_id": "p294_b14",
+        "placeholder": "Paid over US$16 billion in benefits and claims.",
+        "fit_status": "ok",
+        "font_size": 8.1,
+        "color_rgb255": [
+          108,
+          89,
+          105
+        ]
+      },
+      {
+        "block_id": "p294_b15",
+        "placeholder": "Top-ranked globally in MDRT registered members.",
+        "fit_status": "overflow",
+        "font_size": 6.0,
+        "color_rgb255": [
+          108,
+          89,
+          105
+        ]
+      },
+      {
+        "block_id": "p294_b16",
+        "placeholder": "Serving individual and group customers across Asia.",
+        "fit_status": "ok",
+        "font_size": 8.1,
+        "color_rgb255": [
+          108,
+          89,
+          105
+        ]
+      },
+      {
+        "block_id": "p294_b17",
+        "placeholder": "18 markets",
+        "fit_status": "overflow",
+        "font_size": 6.0,
+        "color_rgb255": [
+          108,
+          89,
+          105
+        ]
+      },
+      {
+        "block_id": "p294_b18",
+        "placeholder": "Claims paid",
+        "fit_status": "overflow",
+        "font_size": 6.0,
+        "color_rgb255": [
+          108,
+          89,
+          105
+        ]
+      },
+      {
+        "block_id": "p294_b19",
+        "placeholder": "Protection in force",
+        "fit_status": "ok",
+        "font_size": 6.0,
+        "color_rgb255": [
+          108,
+          89,
+          105
+        ]
+      }
+    ],
+    "status": "ok"
+  }
+]

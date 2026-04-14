@@ -1,0 +1,19 @@
+```json
+{
+  "unit_id": "p19_b29",
+  "page_no": 19,
+  "section_id": "financial_review",
+  "content_type": "footer",
+  "speaker_role": null,
+  "topic_tags": [],
+  "term_hits": [],
+  "needs_context": false,
+  "context_scope": null,
+  "risk_level": "low",
+  "risk_flags": [],
+  "translation_constraints": [
+    "Preserve page numbering format",
+    "Maintain footer positioning and typography"
+  ]
+}
+```

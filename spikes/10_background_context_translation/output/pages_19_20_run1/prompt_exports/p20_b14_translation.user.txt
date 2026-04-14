@@ -1,0 +1,79 @@
+文档场景：上市公司企业年报
+请优先使用背景中的标准叫法和术语。
+{
+  "document_background": {
+    "global_profile": {
+      "company_name_target": "AIA GROUP LIMITED",
+      "industry": "Life Insurance",
+      "report_type": "annual_report",
+      "report_year": 2020,
+      "style_keywords": [
+        "corporate governance",
+        "financial performance",
+        "stakeholder communication",
+        "ESG commitment"
+      ]
+    },
+    "page_sections": [
+      {
+        "target_section": "New Business Performance",
+        "content_type": "business_metrics",
+        "page_range": [
+          20,
+          21
+        ]
+      },
+      {
+        "target_section": "Group Chief Financial Officer's Review",
+        "content_type": "cfo_review",
+        "page_range": [
+          18,
+          30
+        ]
+      },
+      {
+        "target_section": "Financial and Operating Review",
+        "content_type": "financial_review",
+        "page_range": [
+          17,
+          30
+        ]
+      }
+    ],
+    "roles": [],
+    "terms": [],
+    "style_rules": [
+      "Preserve financial terminology consistency",
+      "Use formal corporate register throughout",
+      "Maintain parallel structure in lists and tables",
+      "Preserve table structure and alignment",
+      "Translate table headers consistently with body text",
+      "Maintain footnote references and numbering",
+      "Convert currency units with precision"
+    ]
+  },
+  "matched_terms": [],
+  "current_unit": {
+    "page_no": 20,
+    "unit_id": "p20_b14",
+    "unit_mode": "single_block",
+    "block_types": [
+      "body"
+    ],
+    "blocks": [
+      {
+        "block_id": "p20_b14",
+        "source_text": "其他市場\n514\n38.4%\n1,334\n535\n41.9%\n1,271\n(4)%\n(4)%"
+      }
+    ],
+    "joined_source_text": "其他市場\n514\n38.4%\n1,334\n535\n41.9%\n1,271\n(4)%\n(4)%"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p20_b14",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

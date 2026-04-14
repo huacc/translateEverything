@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p20_b10",
+      "translation": "Thailand\n469\n71.0%\n661\n494\n67.7%\n729\n(4)%\n(5)%"
+    }
+  ]
+}
+```

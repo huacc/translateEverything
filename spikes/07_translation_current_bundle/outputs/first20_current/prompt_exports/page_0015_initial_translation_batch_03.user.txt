@@ -1,0 +1,84 @@
+﻿请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。
+要求高保真、正式、可出版，不要摘要，不要解释。
+术语表和动态文档背景优先于自由翻译。
+只输出严格 JSON。
+{
+  "page_no": 15,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "relevant_terms": [
+    {
+      "source": "友邦保險",
+      "target": "AIA"
+    },
+    {
+      "source": "新加坡",
+      "target": "Singapore"
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "p15_b14",
+      "block_type": "body",
+      "source_text": "式，以及提升能力框架。這些策略性優先任務將支持員工發展事業，進一步提升友邦保險作為首選僱主的地位。",
+      "line_count": 1,
+      "char_count": 49,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p15_b15",
+      "block_type": "body",
+      "source_text": "我們從2020年下半年起，透過友邦保險在新加坡和越南的業務作為兩個試點業務單位，展開塑造一個轉型機構的",
+      "line_count": 1,
+      "char_count": 51,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p15_b16",
+      "block_type": "body",
+      "source_text": "旅程。初步成果已實現更簡化、更以客為本的營運模式，我們亦推行靈活的工作方式，設立多個跨職能的專家團",
+      "line_count": 1,
+      "char_count": 49,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p15_b17",
+      "block_type": "body",
+      "source_text": "隊。我們計劃在這些試點業務內進行試驗和學習，然後將「未來的組織」項目擴展至其他業務。",
+      "line_count": 1,
+      "char_count": 42,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p15_b18",
+      "block_type": "label",
+      "source_text": "環境、社會及管治",
+      "line_count": 1,
+      "char_count": 8,
+      "region": "middle",
+      "font_size_avg": 14.0
+    },
+    {
+      "block_id": "p15_b19",
+      "block_type": "body",
+      "source_text": "過去一個多世紀以來，友邦保險為亞洲客戶的生活帶來正面和持久的影響。我們的社區存在不少環境、社會及管",
+      "line_count": 1,
+      "char_count": 49,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p15_b20",
+      "block_type": "body",
+      "source_text": "治議題，包括氣候變化、環境污染及生活模式相關疾病。隨著疫情大流行持續，突顯了這些問題的複雜性。作為",
+      "line_count": 1,
+      "char_count": 49,
+      "region": "middle",
+      "font_size_avg": 9.0
+    }
+  ]
+}

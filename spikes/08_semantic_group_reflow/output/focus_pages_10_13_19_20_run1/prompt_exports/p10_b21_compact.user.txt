@@ -1,0 +1,18 @@
+文档场景：上市公司企业年报
+page_no: 10
+unit_id: p10_b21
+unit_mode: single_block
+slot_count: 1
+source_text:
+與去年同期比較，2021年首兩個月的新業務價值增長15%。
+current_translation:
+Compared with the same period last year, new business value grew by 15% in the first two months of 2021.
+返回格式:
+{
+  "translations": [
+    {
+      "unit_id": "p10_b21",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

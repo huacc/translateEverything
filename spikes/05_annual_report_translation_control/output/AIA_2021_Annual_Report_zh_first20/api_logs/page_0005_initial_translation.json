@@ -1,0 +1,21 @@
+{
+  "content": [
+    {
+      "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p5_b1\",\n      \"translation\": \"AIA's mission is to help people live healthier, longer, better lives.\"\n    },\n    {\n      \"block_id\": \"p5_b2\",\n      \"translation\": \"In 2020, COVID-19 brought unprecedented challenges to our communities.\"\n    },\n    {\n      \"block_id\": \"p5_b3\",\n      \"translation\": \"We responded swiftly and comprehensively, including providing medical supplies to our communities\"\n    },\n    {\n      \"block_id\": \"p5_b4\",\n      \"translation\": \"and offering free insurance protection to frontline healthcare workers and sanitation personnel\"\n    },\n    {\n      \"block_id\": \"p5_b5\",\n      \"translation\": \"to ease their concerns as they risked their lives in the fight against the pandemic.\"\n    },\n    {\n      \"block_id\": \"p5_b6\",\n      \"translation\": \"We provided free COVID-19 related coverage to over 25 million policies\"\n    },\n    {\n      \"block_id\": \"p5_b7\",\n      \"translation\": \"and offered USD 1 billion in premium support across 12 markets.\"\n    },\n    {\n      \"block_id\": \"p5_b8\",\n      \"translation\": \"During the year, we paid out over USD 16 billion in insurance benefits and claims,\"\n    },\n    {\n      \"block_id\": \"p5_b9\",\n      \"translation\": \"providing essential financial support. Although the impact of the pandemic continues,\"\n    },\n    {\n      \"block_id\": \"p5_b10\",\n      \"translation\": \"we will continue to play a supportive role in helping our communities\"\n    },\n    {\n      \"block_id\": \"p5_b11\",\n      \"translation\": \"recover and thrive.\"\n    }\n  ]\n}\n```",
+      "type": "text"
+    }
+  ],
+  "conversationId": "c774f1b7-899b-4cd2-b617-55a6902c301c",
+  "conversation_id": "c774f1b7-899b-4cd2-b617-55a6902c301c",
+  "id": "c774f1b7-899b-4cd2-b617-55a6902c301c",
+  "model": "claude-3-5-sonnet-20241022",
+  "role": "assistant",
+  "stop_reason": "end_turn",
+  "type": "message",
+  "usage": {
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2137,
+    "output_tokens": 407
+  }
+}

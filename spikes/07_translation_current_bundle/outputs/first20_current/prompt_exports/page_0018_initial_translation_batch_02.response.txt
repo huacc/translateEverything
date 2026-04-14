@@ -1,0 +1,26 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p18_b11",
+      "translation": "New business value declined in 2020, but as business adjustments were made and certain restrictions were eased, we saw a recovery in sales momentum. This momentum continued"
+    },
+    {
+      "block_id": "p18_b12",
+      "translation": "into 2021, with new business value in the first two months growing 15% compared to the same period in 2020. Over the years, our prudent financial management and consistent strategic focus on high-quality business"
+    },
+    {
+      "block_id": "p18_b13",
+      "translation": "have been reflected in continued growth in operating profit after tax and underlying free surplus generated, a robust and resilient capital position, and further growth in dividend per share."
+    },
+    {
+      "block_id": "p18_b14",
+      "translation": ""
+    },
+    {
+      "block_id": "p18_b15",
+      "translation": "Garth Jones\nGroup Chief Financial Officer"
+    }
+  ]
+}
+```

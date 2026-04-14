@@ -1,0 +1,21 @@
+{
+  "content": [
+    {
+      "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p17_b1\",\n      \"translation\": \"Financial & Operations Review\"\n    },\n    {\n      \"block_id\": \"p17_b2\",\n      \"translation\": \"016 CFO's Review\"\n    },\n    {\n      \"block_id\": \"p17_b3\",\n      \"translation\": \"040 Business Review\"\n    },\n    {\n      \"block_id\": \"p17_b4\",\n      \"translation\": \"056 Risk Management\"\n    },\n    {\n      \"block_id\": \"p17_b5\",\n      \"translation\": \"062 Regulatory & International\"\n    },\n    {\n      \"block_id\": \"p17_b7\",\n      \"translation\": \"2020 Report\\n015\"\n    }\n  ]\n}\n```",
+      "type": "text"
+    }
+  ],
+  "conversationId": "7eee7dc8-2de3-407e-a8a4-b08813cbd322",
+  "conversation_id": "7eee7dc8-2de3-407e-a8a4-b08813cbd322",
+  "id": "7eee7dc8-2de3-407e-a8a4-b08813cbd322",
+  "model": "claude-3-5-sonnet-20241022",
+  "role": "assistant",
+  "stop_reason": "end_turn",
+  "type": "message",
+  "usage": {
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1002,
+    "output_tokens": 178
+  }
+}

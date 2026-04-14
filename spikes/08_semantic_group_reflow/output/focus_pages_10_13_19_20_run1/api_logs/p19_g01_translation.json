@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 19,
+    "unit_id": "p19_g01"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是上市公司年报翻译器。\n语言方向：Traditional Chinese -> English。\n只翻译当前输入，不补充、不解释、不总结。\n如果当前输入由多个连续块组成，只允许在当前组内做跨块理解；不得引入组外内容。\n数字、百分比、货币、年份、专有名词、公司名、人名、地名必须准确。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市公司企业年报\npage_no: 19\nunit_id: p19_g01\nunit_mode: semantic_group\n命中术语约束:\n[\n  {\n    \"source\": \"友邦保險\",\n    \"target\": \"AIA\"\n  },\n  {\n    \"source\": \"新業務價值\",\n    \"target\": \"new business value\"\n  }\n]\nblocks:\n[\n  {\n    \"block_id\": \"p19_b1\",\n    \"source_text\": \"大流行病對我們2020年財務表現的主要影響是對新業務銷售的影響，原因在於我們眾多市場的遏制傳播措施限制\"\n  },\n  {\n    \"block_id\": \"p19_b2\",\n    \"source_text\": \"了面對面的銷售活動，尤其是在2020年上半年。儘管2020年的新業務價值27.65億美元較2019年減少了33%，我\"\n  },\n  {\n    \"block_id\": \"p19_b3\",\n    \"source_text\": \"們迅速採用了新的數碼工具，並且外出限制的普遍放寬支持了銷售勢頭的恢復。友邦保險中國業務為2020年本集\"\n  }\n]\njoined_source_text:\n大流行病對我們2020年財務表現的主要影響是對新業務銷售的影響，原因在於我們眾多市場的遏制傳播措施限制\n了面對面的銷售活動，尤其是在2020年上半年。儘管2020年的新業務價值27.65億美元較2019年減少了33%，我\n們迅速採用了新的數碼工具，並且外出限制的普遍放寬支持了銷售勢頭的恢復。友邦保險中國業務為2020年本集\n返回格式:\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p19_g01\",\n      \"translation\": \"<译文>\"\n    }\n  ]\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p19_g01\",\n      \"translation\": \"The pandemic's primary impact on our 2020 financial performance was on new business sales, as containment measures across our numerous markets restricted face-to-face sales activities, particularly in the first half of 2020. Despite new business value of USD 2.765 billion in 2020 representing a 33% decrease compared to 2019, we rapidly adopted new digital tools, and the widespread relaxation of mobility restrictions supported a recovery in sales momentum. AIA's China business in 2020 for the Group\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "392fbb6b-3c96-427f-934e-d1dd1a555832",
+    "conversation_id": "392fbb6b-3c96-427f-934e-d1dd1a555832",
+    "id": "392fbb6b-3c96-427f-934e-d1dd1a555832",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 763,
+      "output_tokens": 130
+    }
+  }
+}

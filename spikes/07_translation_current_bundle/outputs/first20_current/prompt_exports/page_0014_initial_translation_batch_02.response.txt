@@ -1,0 +1,30 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p14_b11",
+      "translation": "Hong Kong implemented travel restrictions in early February 2020, and new business sales from Mainland China visitors to Hong Kong effectively came to a halt, resulting in a significant decline in new business value."
+    },
+    {
+      "block_id": "p14_b12",
+      "translation": "Compared with the first half of the year, our agency distribution channel recorded double-digit sales growth from local customers in the second half, maintaining a significant market leadership position."
+    },
+    {
+      "block_id": "p14_b13",
+      "translation": "The new business value from the partnership distribution channel was significantly lower than 2019, primarily due to the higher proportion of sales historically generated through the retail independent financial adviser channel from Mainland China visitors to Hong Kong."
+    },
+    {
+      "block_id": "p14_b14",
+      "translation": "Operating profit after tax grew by 10%, benefiting from strong renewal premium growth and favourable claims experience."
+    },
+    {
+      "block_id": "p14_b15",
+      "translation": "AIA's Thailand business recorded very strong performance in the second half. Although new business value declined by 4% for the full year, as restrictions on movement eased, monthly performance demonstrated positive momentum, with new business value in the second half recording 33% growth compared with the first half."
+    },
+    {
+      "block_id": "p14_b16",
+      "translation": ""
+    }
+  ]
+}
+```

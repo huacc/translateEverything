@@ -1,0 +1,16 @@
+```json
+{
+  "unit_id": "p10_b28",
+  "page_no": 10,
+  "section_id": "chairman_statement",
+  "content_type": "footer",
+  "speaker_role": null,
+  "topic_tags": ["company_identification", "document_branding"],
+  "term_hits": ["友邦保險控股有限公司"],
+  "needs_context": false,
+  "context_scope": null,
+  "risk_level": "low",
+  "risk_flags": [],
+  "translation_constraints": ["preserve_company_name_mapping", "maintain_page_number_format"]
+}
+```

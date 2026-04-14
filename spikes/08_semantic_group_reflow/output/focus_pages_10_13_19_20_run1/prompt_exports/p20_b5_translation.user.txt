@@ -1,0 +1,31 @@
+文档场景：上市公司企业年报
+page_no: 20
+unit_id: p20_b5
+unit_mode: single_block
+命中术语约束:
+[
+  {
+    "source": "新業務價值",
+    "target": "new business value"
+  }
+]
+blocks:
+[
+  {
+    "block_id": "p20_b5",
+    "source_text": "2020年\n2019年\n新業務價值變動"
+  }
+]
+joined_source_text:
+2020年
+2019年
+新業務價值變動
+返回格式:
+{
+  "translations": [
+    {
+      "unit_id": "p20_b5",
+      "translation": "<译文>"
+    }
+  ]
+}

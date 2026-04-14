@@ -1,0 +1,47 @@
+```json
+{
+  "unit_id": "p19_g01",
+  "page_no": 19,
+  "section_id": "集團首席財務總監回顧",
+  "content_type": "financial_narrative",
+  "speaker_role": "cfo",
+  "topic_tags": [
+    "pandemic_impact",
+    "new_business_performance",
+    "sales_channel_adaptation",
+    "digital_transformation"
+  ],
+  "term_hits": [
+    {
+      "source_term": "新業務價值",
+      "target_term": "New Business Value",
+      "abbreviation": "NBV",
+      "confidence": "high"
+    },
+    {
+      "source_term": "2019冠狀病毒病",
+      "target_term": "COVID-19",
+      "confidence": "high"
+    }
+  ],
+  "needs_context": true,
+  "context_scope": "section",
+  "risk_level": "high",
+  "risk_flags": [
+    "financial_metric_translation",
+    "percentage_precision",
+    "covid19_context_sensitivity",
+    "currency_conversion_notation",
+    "incomplete_sentence_boundary"
+  ],
+  "translation_constraints": [
+    "preserve_exact_decimal_places_27.65_billion",
+    "maintain_percentage_accuracy_33_percent_decline",
+    "standardize_currency_notation_USD",
+    "verify_year_over_year_comparison_2019_vs_2020",
+    "preserve_temporal_sequence_H1_vs_full_year",
+    "maintain_causal_relationship_containment_measures_to_sales_impact",
+    "handle_incomplete_sentence_at_unit_boundary"
+  ]
+}
+```

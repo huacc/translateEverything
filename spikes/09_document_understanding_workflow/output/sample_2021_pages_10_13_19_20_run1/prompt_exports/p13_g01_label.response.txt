@@ -1,0 +1,46 @@
+```json
+{
+  "unit_id": "p13_g01",
+  "page_no": 13,
+  "section_id": "ceo_report",
+  "content_type": "executive_narrative",
+  "speaker_role": "group_ceo_president",
+  "topic_tags": [
+    "customer_value_proposition",
+    "financial_security",
+    "family_protection",
+    "covid19_pandemic_response",
+    "organizational_resilience",
+    "stakeholder_acknowledgment"
+  ],
+  "term_hits": [
+    {
+      "source_term": "2019冠狀病毒病",
+      "target_term": "COVID-19",
+      "context": "external_event"
+    }
+  ],
+  "needs_context": true,
+  "context_scope": "section",
+  "risk_level": "medium",
+  "risk_flags": [
+    {
+      "flag": "COVID-19_context_sensitivity",
+      "severity": "high",
+      "description": "Pandemic reference requires consistent terminology and accurate contextual framing"
+    },
+    {
+      "flag": "executive_tone_preservation",
+      "severity": "medium",
+      "description": "CEO statement requires formal register and authentic voice preservation"
+    }
+  ],
+  "translation_constraints": [
+    "Maintain formal corporate register throughout",
+    "Preserve temporal context of pandemic reference",
+    "Use 'COVID-19' consistently per termbase",
+    "Translate mission-aligned language (customer trust, financial security, family protection) with care",
+    "Preserve acknowledgment tone toward employees, agents, and partners"
+  ]
+}
+```

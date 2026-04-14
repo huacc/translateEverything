@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p19_g03",
+      "translation": "This was offset by EV operating profit of US$7,243 million, which included positive operating variances of US$549 million, reflecting the continued positive experience relative to our EV assumptions."
+    }
+  ]
+}
+```

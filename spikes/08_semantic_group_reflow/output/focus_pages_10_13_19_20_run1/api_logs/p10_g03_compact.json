@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "compact",
+    "page_no": 10,
+    "unit_id": "p10_g03"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是版面回填压缩器。\n语言方向：Traditional Chinese -> English。\n在不改变事实、数字、专有名词和正式语气的前提下，对当前译文做最小必要压缩。\n不得补充新信息，不得删除关键事实，不得改动数字和单位。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市公司企业年报\npage_no: 10\nunit_id: p10_g03\nunit_mode: semantic_group\nslot_count: 6\nsource_text:\n友邦保險在亞洲歷史悠久，源遠流長，經歷各種社會動盪和不明朗時期仍能妥善管理業務，因而贏得卓著的\n聲譽，體現友邦保險誠可信賴、強韌穩健，並堅持為持分者做對的事。自2020年初以來，2019冠狀病毒病大流\n行導致營商環境不斷變化及日趨複雜，而政治、宏觀經濟及資本市場亦出現前所未見的轉移。在這樣的環境下，\n友邦保險的財務實力，以及「幫助大眾活出健康、長久、好生活」的目標，更具重大意義。本人衷心感謝友邦\n保險所有員工、代理和合作夥伴，即使面對最嚴峻的挑戰，他們仍關懷社區，克盡己職，專心致志地為客戶、\n其家庭以及我們的社區提供支援。\ncurrent_translation:\nAIA has a long and storied history in Asia. Having navigated through various social upheavals and uncertain periods while managing our business prudently, we have earned a distinguished reputation that reflects AIA's trustworthiness, resilience and strength, and our commitment to doing the right thing for our stakeholders. Since early 2020, the COVID-19 pandemic has led to continuously evolving and increasingly complex business environments, while political, macroeconomic and capital market landscapes have undergone unprecedented shifts. In such an environment, AIA's financial strength and our mission to \"help people live healthier, longer, better lives\" have become even more significant. I am deeply grateful to all AIA employees, agents and partners who, despite facing the most severe challenges, continue to care for our communities, fulfill their responsibilities diligently, and dedicate themselves to providing support to our customers, their families and our communities.\n返回格式:\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p10_g03\",\n      \"translation\": \"<更紧凑译文>\"\n    }\n  ]\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p10_g03\",\n      \"translation\": \"AIA has a long and storied history in Asia. Having navigated various social upheavals and uncertain periods while managing our business prudently, we have earned a distinguished reputation reflecting our trustworthiness, resilience and strength, and commitment to doing right by our stakeholders. Since early 2020, the COVID-19 pandemic has created continuously evolving and increasingly complex business environments, while political, macroeconomic and capital market landscapes have undergone unprecedented shifts. In this context, AIA's financial strength and our mission to \\\"help people live healthier, longer, better lives\\\" are more significant than ever. I am deeply grateful to all AIA employees, agents and partners who, despite severe challenges, continue to care for our communities, fulfill their responsibilities diligently, and dedicate themselves to supporting our customers, their families and our communities.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "459d1ea5-000e-467f-9a50-ec6bc0c2c66a",
+    "conversation_id": "459d1ea5-000e-467f-9a50-ec6bc0c2c66a",
+    "id": "459d1ea5-000e-467f-9a50-ec6bc0c2c66a",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 767,
+      "output_tokens": 203
+    }
+  }
+}

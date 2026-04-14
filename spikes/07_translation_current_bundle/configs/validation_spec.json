@@ -1,0 +1,20 @@
+{
+  "schema_id": "annual_report_translation_validation_spec_v1",
+  "protected_token_categories": [
+    "数字",
+    "百分比",
+    "货币",
+    "年份",
+    "日期",
+    "专有名词",
+    "公司名",
+    "人名",
+    "地名",
+    "图表微标签",
+    "页码"
+  ],
+  "compact_retry_allowed_block_types": [
+    "body",
+    "label"
+  ]
+}

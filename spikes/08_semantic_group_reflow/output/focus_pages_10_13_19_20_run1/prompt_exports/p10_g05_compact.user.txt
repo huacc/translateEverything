@@ -1,0 +1,20 @@
+文档场景：上市公司企业年报
+page_no: 10
+unit_id: p10_g05
+unit_mode: semantic_group
+slot_count: 3
+source_text:
+稅後營運溢利增長5%至59.42億美元，產生的基本自由盈餘則上升7%至58.43億美元，反映我們擁有高質素的
+經常性盈利來源。內涵價值權益創新高，達672億美元。截至2020年12月31日，集團當地資本總和法覆蓋率為
+374%，足證我們雄厚的資本實力和嚴謹的財務管理。
+current_translation:
+Operating profit after tax grew 5% to USD 5.942 billion, with basic free surplus rising 7% to USD 5.843 billion, reflecting our high-quality recurring earnings sources. Embedded value equity reached a record high of USD 67.2 billion. As at 31 December 2020, the Group's local capital total ratio coverage was 374%, demonstrating our strong capital strength and prudent financial management.
+返回格式:
+{
+  "translations": [
+    {
+      "unit_id": "p10_g05",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+﻿请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。
+要求高保真、正式、可出版，不要摘要，不要解释。
+术语表和动态文档背景优先于自由翻译。
+只输出严格 JSON。
+{
+  "page_no": 14,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "relevant_terms": [
+    {
+      "source": "新業務價值",
+      "target": "new business value"
+    },
+    {
+      "source": "銀行保險",
+      "target": "bancassurance"
+    },
+    {
+      "source": "泰國",
+      "target": "Thailand"
+    },
+    {
+      "source": "馬來西亞",
+      "target": "Malaysia"
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "p14_b31",
+      "block_type": "body",
+      "source_text": "Central Asia (BCA)、泰國的Bangkok Bank Public Company Limited（盤谷銀行）及馬來西亞的Public Bank",
+      "line_count": 1,
+      "char_count": 80,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p14_b32",
+      "block_type": "body",
+      "source_text": "Berhad（大眾銀行）的銀行保險夥伴合作，在2020年均錄得新業務價值正增長。",
+      "line_count": 1,
+      "char_count": 40,
+      "region": "middle",
+      "font_size_avg": 9.0
+    }
+  ]
+}

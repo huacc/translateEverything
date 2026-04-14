@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p20_b19",
+      "translation": "Non-controlling interests\n(24)\nNot meaningful\nNot meaningful\n(32)\nNot meaningful\nNot meaningful\nNot meaningful\nNot meaningful"
+    }
+  ]
+}
+```

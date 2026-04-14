@@ -1,0 +1,35 @@
+﻿请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。
+要求高保真、正式、可出版，不要摘要，不要解释。
+术语表和动态文档背景优先于自由翻译。
+只输出严格 JSON。
+{
+  "page_no": 15,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "relevant_terms": [
+    {
+      "source": "友邦保險",
+      "target": "AIA"
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "p15_b26",
+      "block_type": "body",
+      "source_text": "而在2020年，MSCI上調友邦保險的環境、社會及管治評級至A級，主要由於我們把環境、社會及管治因素融入投",
+      "line_count": 1,
+      "char_count": 53,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p15_b27",
+      "block_type": "label",
+      "source_text": "資職能。",
+      "line_count": 1,
+      "char_count": 4,
+      "region": "middle",
+      "font_size_avg": 9.0
+    }
+  ]
+}

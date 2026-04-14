@@ -1,0 +1,57 @@
+文档场景：上市公司企业年报
+{
+  "document_background": {
+    "page_sections": [
+      {
+        "target_section": "New Business Performance",
+        "content_type": "business_metrics",
+        "page_range": [
+          20,
+          21
+        ]
+      },
+      {
+        "target_section": "Group Chief Financial Officer's Review",
+        "content_type": "cfo_review",
+        "page_range": [
+          18,
+          30
+        ]
+      },
+      {
+        "target_section": "Financial and Operating Review",
+        "content_type": "financial_review",
+        "page_range": [
+          17,
+          30
+        ]
+      }
+    ],
+    "roles": [],
+    "terms": [],
+    "style_rules": [
+      "Preserve financial terminology consistency",
+      "Use formal corporate register throughout",
+      "Maintain parallel structure in lists and tables",
+      "Section headings use Title Case",
+      "Preserve hierarchical structure of headings",
+      "Translate milestone dates literally"
+    ]
+  },
+  "current_unit": {
+    "page_no": 20,
+    "unit_id": "p20_b3",
+    "unit_mode": "single_block",
+    "slot_count": 1,
+    "source_text": "新業務表現",
+    "current_translation": "New Business Performance"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p20_b3",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

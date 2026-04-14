@@ -1,0 +1,36 @@
+```json
+{
+  "unit_id": "p20_b3",
+  "page_no": 20,
+  "section_id": "new_business_performance",
+  "content_type": "section_heading",
+  "speaker_role": null,
+  "topic_tags": [
+    "financial_metrics",
+    "business_performance",
+    "new_business"
+  ],
+  "term_hits": [
+    {
+      "source_term": "新業務表現",
+      "target_term": "New Business Performance",
+      "context": "business_metrics",
+      "confidence": "high"
+    }
+  ],
+  "needs_context": false,
+  "context_scope": null,
+  "risk_level": "low",
+  "risk_flags": [],
+  "translation_constraints": [
+    {
+      "constraint": "Preserve financial terminology consistency",
+      "detail": "新業務表現 must translate to 'New Business Performance' (established in termbase)"
+    },
+    {
+      "constraint": "Use Title Case for section heading",
+      "detail": "Section headings follow Title Case convention per style_guide"
+    }
+  ]
+}
+```

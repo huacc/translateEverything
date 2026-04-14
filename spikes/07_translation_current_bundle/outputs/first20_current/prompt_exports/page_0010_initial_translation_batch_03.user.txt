@@ -1,0 +1,88 @@
+﻿请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。
+要求高保真、正式、可出版，不要摘要，不要解释。
+术语表和动态文档背景优先于自由翻译。
+只输出严格 JSON。
+{
+  "page_no": 10,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "relevant_terms": [
+    {
+      "source": "新業務價值",
+      "target": "new business value"
+    },
+    {
+      "source": "稅後營運溢利",
+      "target": "operating profit after tax"
+    },
+    {
+      "source": "內涵價值",
+      "target": "embedded value"
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "p10_b19",
+      "block_type": "body",
+      "source_text": "由於2019冠狀病毒病相關的控制措施對新業務銷售造成影響，新業務價值下降至27.65億美元。我們迅速採用",
+      "line_count": 1,
+      "char_count": 52,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p10_b20",
+      "block_type": "body",
+      "source_text": "嶄新的數碼工具，提升業務運作效率，加上近期放寬外出限制，帶動銷售動力強勁復蘇，並延續至2021年初。",
+      "line_count": 1,
+      "char_count": 50,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p10_b21",
+      "block_type": "body",
+      "source_text": "與去年同期比較，2021年首兩個月的新業務價值增長15%。",
+      "line_count": 1,
+      "char_count": 29,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p10_b22",
+      "block_type": "body",
+      "source_text": "稅後營運溢利增長5%至59.42億美元，產生的基本自由盈餘則上升7%至58.43億美元，反映我們擁有高質素的",
+      "line_count": 1,
+      "char_count": 54,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p10_b23",
+      "block_type": "body",
+      "source_text": "經常性盈利來源。內涵價值權益創新高，達672億美元。截至2020年12月31日，集團當地資本總和法覆蓋率為",
+      "line_count": 1,
+      "char_count": 53,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p10_b24",
+      "block_type": "label",
+      "source_text": "374%，足證我們雄厚的資本實力和嚴謹的財務管理。",
+      "line_count": 1,
+      "char_count": 25,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p10_b25",
+      "block_type": "body",
+      "source_text": "董事會建議派發末期股息每股100.30港仙，增加7.5%，反映我們的財務業績穩健強韌，同時董事會持續對本集團",
+      "line_count": 1,
+      "char_count": 54,
+      "region": "middle",
+      "font_size_avg": 9.0
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p7_b17",
+      "translation": "Six years of most MDRT registered members."
+    }
+  ]
+}
+```

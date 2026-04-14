@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p13_g03",
+      "translation": "Although COVID-19 containment measures reduced New Business Value to US$2.765 billion, sales momentum turned positive as restrictions eased, entering 2021 with strong momentum and 15% year-on-year New Business Value growth in the first two months. Our large, growing in-force policy portfolio generated high-quality recurring income, driving 5% Operating Profit After Tax growth in 2020 and 7% Free Surplus growth. As at 31 December 2020, Embedded Value equity reached a record US$67.2 billion, with Group local capital aggregation method coverage at 374%, demonstrating strong capital position and prudent financial management."
+    }
+  ]
+}
+```

@@ -1,0 +1,801 @@
+{
+  "pages": [
+    {
+      "page_no": 10,
+      "unit_count": 14,
+      "group_count": 6,
+      "reports": [
+        {
+          "unit_id": "p10_b1",
+          "mode": "single_block",
+          "block_ids": [
+            "p10_b1"
+          ],
+          "translation_source": "glossary_exact",
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.271,
+          "layout_mode": "textbox"
+        },
+        {
+          "unit_id": "p10_b2",
+          "mode": "single_block",
+          "block_ids": [
+            "p10_b2"
+          ],
+          "translation_source": "glossary_exact",
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.271,
+          "layout_mode": "textbox"
+        },
+        {
+          "unit_id": "p10_b3",
+          "mode": "single_block",
+          "block_ids": [
+            "p10_b3"
+          ],
+          "translation_source": "model_initial",
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.594,
+          "layout_mode": "single_line"
+        },
+        {
+          "unit_id": "p10_g01",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p10_b4",
+            "p10_b5",
+            "p10_b6",
+            "p10_b7"
+          ],
+          "translation_source": "model_initial",
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.55,
+          "layout_mode": "group_slots"
+        },
+        {
+          "unit_id": "p10_b8",
+          "mode": "single_block",
+          "block_ids": [
+            "p10_b8"
+          ],
+          "translation_source": "model_initial",
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.688,
+          "layout_mode": "textbox"
+        },
+        {
+          "unit_id": "p10_g02",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p10_b9",
+            "p10_b10",
+            "p10_b11"
+          ],
+          "translation_source": "model_initial",
+          "compact_used": true,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.732,
+          "layout_mode": "group_slots"
+        },
+        {
+          "unit_id": "p10_b12",
+          "mode": "single_block",
+          "block_ids": [
+            "p10_b12"
+          ],
+          "translation_source": "model_initial",
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 0.882,
+          "layout_mode": "single_line"
+        },
+        {
+          "unit_id": "p10_g03",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p10_b13",
+            "p10_b14",
+            "p10_b15",
+            "p10_b16",
+            "p10_b17",
+            "p10_b18"
+          ],
+          "translation_source": "model_initial",
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.55,
+          "layout_mode": "group_slots"
+        },
+        {
+          "unit_id": "p10_g04",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p10_b19",
+            "p10_b20"
+          ],
+          "translation_source": "model_initial",
+          "compact_used": true,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.723,
+          "layout_mode": "group_slots"
+        },
+        {
+          "unit_id": "p10_b21",
+          "mode": "single_block",
+          "block_ids": [
+            "p10_b21"
+          ],
+          "translation_source": "model_initial",
+          "compact_used": true,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.74,
+          "layout_mode": "single_line"
+        },
+        {
+          "unit_id": "p10_g05",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p10_b22",
+            "p10_b23",
+            "p10_b24"
+          ],
+          "translation_source": "model_initial",
+          "compact_used": true,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.781,
+          "layout_mode": "group_slots"
+        },
+        {
+          "unit_id": "p10_g06",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p10_b25",
+            "p10_b26"
+          ],
+          "translation_source": "model_initial",
+          "compact_used": true,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.798,
+          "layout_mode": "group_slots"
+        },
+        {
+          "unit_id": "p10_b27",
+          "mode": "single_block",
+          "block_ids": [
+            "p10_b27"
+          ],
+          "translation_source": "model_initial",
+          "compact_used": true,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.719,
+          "layout_mode": "single_line"
+        },
+        {
+          "unit_id": "p10_b28",
+          "mode": "single_block",
+          "block_ids": [
+            "p10_b28"
+          ],
+          "translation_source": "glossary_linewise",
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox"
+        }
+      ]
+    },
+    {
+      "page_no": 13,
+      "unit_count": 10,
+      "group_count": 8,
+      "reports": [
+        {
+          "unit_id": "p13_g01",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p13_b1",
+            "p13_b2",
+            "p13_b3"
+          ],
+          "translation_source": "model_initial",
+          "compact_used": true,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.574,
+          "layout_mode": "group_slots"
+        },
+        {
+          "unit_id": "p13_b4",
+          "mode": "single_block",
+          "block_ids": [
+            "p13_b4"
+          ],
+          "translation_source": "glossary_linewise",
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox"
+        },
+        {
+          "unit_id": "p13_g02",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p13_b5",
+            "p13_b6",
+            "p13_b7",
+            "p13_b8"
+          ],
+          "translation_source": "model_initial",
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.55,
+          "layout_mode": "group_slots"
+        },
+        {
+          "unit_id": "p13_g03",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p13_b9",
+            "p13_b10",
+            "p13_b11",
+            "p13_b12",
+            "p13_b13"
+          ],
+          "translation_source": "model_initial",
+          "compact_used": true,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.768,
+          "layout_mode": "group_slots"
+        },
+        {
+          "unit_id": "p13_g04",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p13_b14",
+            "p13_b15"
+          ],
+          "translation_source": "model_initial",
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.55,
+          "layout_mode": "group_slots"
+        },
+        {
+          "unit_id": "p13_g05",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p13_b16",
+            "p13_b17",
+            "p13_b18",
+            "p13_b19"
+          ],
+          "translation_source": "model_initial",
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.55,
+          "layout_mode": "group_slots"
+        },
+        {
+          "unit_id": "p13_g06",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p13_b20",
+            "p13_b21",
+            "p13_b22"
+          ],
+          "translation_source": "model_initial",
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.55,
+          "layout_mode": "group_slots"
+        },
+        {
+          "unit_id": "p13_g07",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p13_b23",
+            "p13_b24",
+            "p13_b25"
+          ],
+          "translation_source": "model_initial",
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.55,
+          "layout_mode": "group_slots"
+        },
+        {
+          "unit_id": "p13_g08",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p13_b26",
+            "p13_b27",
+            "p13_b28"
+          ],
+          "translation_source": "model_initial",
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 0.913,
+          "layout_mode": "group_slots"
+        },
+        {
+          "unit_id": "p13_b29",
+          "mode": "single_block",
+          "block_ids": [
+            "p13_b29"
+          ],
+          "translation_source": "glossary_linewise",
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.833,
+          "layout_mode": "textbox"
+        }
+      ]
+    },
+    {
+      "page_no": 19,
+      "unit_count": 12,
+      "group_count": 8,
+      "reports": [
+        {
+          "unit_id": "p19_g01",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p19_b1",
+            "p19_b2",
+            "p19_b3"
+          ],
+          "translation_source": "model_initial",
+          "compact_used": true,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.739,
+          "layout_mode": "group_slots"
+        },
+        {
+          "unit_id": "p19_b4",
+          "mode": "single_block",
+          "block_ids": [
+            "p19_b4"
+          ],
+          "translation_source": "glossary_linewise",
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox"
+        },
+        {
+          "unit_id": "p19_g02",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p19_b5",
+            "p19_b6",
+            "p19_b7",
+            "p19_b8"
+          ],
+          "translation_source": "model_initial",
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.55,
+          "layout_mode": "group_slots"
+        },
+        {
+          "unit_id": "p19_b9",
+          "mode": "single_block",
+          "block_ids": [
+            "p19_b9"
+          ],
+          "translation_source": "model_initial",
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 0.911,
+          "layout_mode": "single_line"
+        },
+        {
+          "unit_id": "p19_g03",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p19_b10",
+            "p19_b11"
+          ],
+          "translation_source": "model_initial",
+          "compact_used": true,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.611,
+          "layout_mode": "group_slots"
+        },
+        {
+          "unit_id": "p19_g04",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p19_b12",
+            "p19_b13",
+            "p19_b14",
+            "p19_b15",
+            "p19_b16",
+            "p19_b17"
+          ],
+          "translation_source": "model_initial",
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.55,
+          "layout_mode": "group_slots"
+        },
+        {
+          "unit_id": "p19_g05",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p19_b18",
+            "p19_b19"
+          ],
+          "translation_source": "model_initial",
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 0.945,
+          "layout_mode": "group_slots"
+        },
+        {
+          "unit_id": "p19_b20",
+          "mode": "single_block",
+          "block_ids": [
+            "p19_b20"
+          ],
+          "translation_source": "model_initial",
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.868,
+          "layout_mode": "single_line"
+        },
+        {
+          "unit_id": "p19_g06",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p19_b21",
+            "p19_b22",
+            "p19_b23"
+          ],
+          "translation_source": "model_initial",
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "group_slots"
+        },
+        {
+          "unit_id": "p19_g07",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p19_b24",
+            "p19_b25",
+            "p19_b26"
+          ],
+          "translation_source": "model_initial",
+          "compact_used": true,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.566,
+          "layout_mode": "group_slots"
+        },
+        {
+          "unit_id": "p19_g08",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p19_b27",
+            "p19_b28"
+          ],
+          "translation_source": "model_initial",
+          "compact_used": true,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.776,
+          "layout_mode": "group_slots"
+        },
+        {
+          "unit_id": "p19_b29",
+          "mode": "single_block",
+          "block_ids": [
+            "p19_b29"
+          ],
+          "translation_source": "glossary_linewise",
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.833,
+          "layout_mode": "textbox"
+        }
+      ]
+    },
+    {
+      "page_no": 20,
+      "unit_count": 23,
+      "group_count": 4,
+      "reports": [
+        {
+          "unit_id": "p20_b1",
+          "mode": "single_block",
+          "block_ids": [
+            "p20_b1"
+          ],
+          "translation_source": "glossary_exact",
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.595,
+          "layout_mode": "single_line"
+        },
+        {
+          "unit_id": "p20_b2",
+          "mode": "single_block",
+          "block_ids": [
+            "p20_b2"
+          ],
+          "translation_source": "glossary_exact",
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.725,
+          "layout_mode": "single_line"
+        },
+        {
+          "unit_id": "p20_b3",
+          "mode": "single_block",
+          "block_ids": [
+            "p20_b3"
+          ],
+          "translation_source": "model_initial",
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.514,
+          "layout_mode": "single_line"
+        },
+        {
+          "unit_id": "p20_b4",
+          "mode": "single_block",
+          "block_ids": [
+            "p20_b4"
+          ],
+          "translation_source": "model_initial",
+          "compact_used": true,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.808,
+          "layout_mode": "single_line"
+        },
+        {
+          "unit_id": "p20_b5",
+          "mode": "single_block",
+          "block_ids": [
+            "p20_b5"
+          ],
+          "translation_source": "model_initial",
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox"
+        },
+        {
+          "unit_id": "p20_b6",
+          "mode": "single_block",
+          "block_ids": [
+            "p20_b6"
+          ],
+          "translation_source": "model_initial",
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox"
+        },
+        {
+          "unit_id": "p20_b7",
+          "mode": "single_block",
+          "block_ids": [
+            "p20_b7"
+          ],
+          "translation_source": "model_initial",
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox"
+        },
+        {
+          "unit_id": "p20_b8",
+          "mode": "single_block",
+          "block_ids": [
+            "p20_b8"
+          ],
+          "translation_source": "model_initial",
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox"
+        },
+        {
+          "unit_id": "p20_b9",
+          "mode": "single_block",
+          "block_ids": [
+            "p20_b9"
+          ],
+          "translation_source": "model_initial",
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox"
+        },
+        {
+          "unit_id": "p20_b10",
+          "mode": "single_block",
+          "block_ids": [
+            "p20_b10"
+          ],
+          "translation_source": "model_initial",
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox"
+        },
+        {
+          "unit_id": "p20_b11",
+          "mode": "single_block",
+          "block_ids": [
+            "p20_b11"
+          ],
+          "translation_source": "model_initial",
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox"
+        },
+        {
+          "unit_id": "p20_b12",
+          "mode": "single_block",
+          "block_ids": [
+            "p20_b12"
+          ],
+          "translation_source": "model_initial",
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox"
+        },
+        {
+          "unit_id": "p20_b13",
+          "mode": "single_block",
+          "block_ids": [
+            "p20_b13"
+          ],
+          "translation_source": "model_initial",
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox"
+        },
+        {
+          "unit_id": "p20_b14",
+          "mode": "single_block",
+          "block_ids": [
+            "p20_b14"
+          ],
+          "translation_source": "model_initial",
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox"
+        },
+        {
+          "unit_id": "p20_b15",
+          "mode": "single_block",
+          "block_ids": [
+            "p20_b15"
+          ],
+          "translation_source": "model_initial",
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox"
+        },
+        {
+          "unit_id": "p20_g01",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p20_b16",
+            "p20_b17"
+          ],
+          "translation_source": "model_initial",
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 0.991,
+          "layout_mode": "group_slots"
+        },
+        {
+          "unit_id": "p20_b18",
+          "mode": "single_block",
+          "block_ids": [
+            "p20_b18"
+          ],
+          "translation_source": "model_initial",
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox"
+        },
+        {
+          "unit_id": "p20_b19",
+          "mode": "single_block",
+          "block_ids": [
+            "p20_b19"
+          ],
+          "translation_source": "model_initial",
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox"
+        },
+        {
+          "unit_id": "p20_b20",
+          "mode": "single_block",
+          "block_ids": [
+            "p20_b20"
+          ],
+          "translation_source": "model_initial",
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox"
+        },
+        {
+          "unit_id": "p20_g02",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p20_b21",
+            "p20_b22",
+            "p20_b23",
+            "p20_b24",
+            "p20_b25"
+          ],
+          "translation_source": "model_initial",
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 0.872,
+          "layout_mode": "group_slots"
+        },
+        {
+          "unit_id": "p20_g03",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p20_b26",
+            "p20_b27",
+            "p20_b28",
+            "p20_b29"
+          ],
+          "translation_source": "model_initial",
+          "compact_used": true,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.672,
+          "layout_mode": "group_slots"
+        },
+        {
+          "unit_id": "p20_g04",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p20_b30",
+            "p20_b31",
+            "p20_b32",
+            "p20_b33"
+          ],
+          "translation_source": "model_initial",
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.55,
+          "layout_mode": "group_slots"
+        },
+        {
+          "unit_id": "p20_b34",
+          "mode": "single_block",
+          "block_ids": [
+            "p20_b34"
+          ],
+          "translation_source": "glossary_linewise",
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox"
+        }
+      ]
+    }
+  ]
+}

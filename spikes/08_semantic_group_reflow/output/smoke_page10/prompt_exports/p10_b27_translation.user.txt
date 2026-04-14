@@ -1,0 +1,22 @@
+文档场景：上市公司企业年报
+page_no: 10
+unit_id: p10_b27
+unit_mode: single_block
+blocks:
+[
+  {
+    "block_id": "p10_b27",
+    "source_text": "及漸進的派息政策，讓本集團可把握未來的增長機遇，並保持財務靈活性。"
+  }
+]
+joined_source_text:
+及漸進的派息政策，讓本集團可把握未來的增長機遇，並保持財務靈活性。
+返回格式:
+{
+  "translations": [
+    {
+      "unit_id": "p10_b27",
+      "translation": "<译文>"
+    }
+  ]
+}

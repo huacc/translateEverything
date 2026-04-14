@@ -1,0 +1,34 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p10_b19",
+      "translation": "New business value declined to US$2.765 billion due to the impact of COVID-19 related control measures on new business sales. We swiftly adopted"
+    },
+    {
+      "block_id": "p10_b20",
+      "translation": "innovative digital tools to enhance operational efficiency, and with the recent relaxation of movement restrictions, sales momentum recovered strongly and continued into early 2021."
+    },
+    {
+      "block_id": "p10_b21",
+      "translation": "New business value in the first two months of 2021 grew 15% compared with the same period last year."
+    },
+    {
+      "block_id": "p10_b22",
+      "translation": "Operating profit after tax increased 5% to US$5.942 billion, while basic free surplus generated rose 7% to US$5.843 billion, reflecting our high-quality"
+    },
+    {
+      "block_id": "p10_b23",
+      "translation": "recurring earnings base. Embedded value equity reached a record high of US$67.2 billion. As at 31 December 2020, the Group's local capital aggregation method coverage ratio was"
+    },
+    {
+      "block_id": "p10_b24",
+      "translation": "374%, demonstrating our strong capital position and prudent financial management."
+    },
+    {
+      "block_id": "p10_b25",
+      "translation": "The Board recommends a final dividend of HK$1.0030 per share, an increase of 7.5%, reflecting our solid and resilient financial performance, while the Board remains confident in the Group's"
+    }
+  ]
+}
+```

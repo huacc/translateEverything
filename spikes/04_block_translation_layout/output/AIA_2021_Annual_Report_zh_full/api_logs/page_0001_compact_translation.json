@@ -1,0 +1,21 @@
+{
+  "content": [
+    {
+      "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p1_b1\",\n      \"translation\": \"HEALTHIER\\nLONGER\\nBETTER\\nLIVES\"\n    },\n    {\n      \"block_id\": \"p1_b2\",\n      \"translation\": \"Healthier, Longer, Better\"\n    },\n    {\n      \"block_id\": \"p1_b3\",\n      \"translation\": \"AIA GROUP\\n2020 Report\"\n    },\n    {\n      \"block_id\": \"p1_b4\",\n      \"translation\": \"Code 1299\"\n    }\n  ]\n}\n```",
+      "type": "text"
+    }
+  ],
+  "conversationId": "3760e0b4-7cb7-49e6-841c-5a383c95f6e4",
+  "conversation_id": "3760e0b4-7cb7-49e6-841c-5a383c95f6e4",
+  "id": "3760e0b4-7cb7-49e6-841c-5a383c95f6e4",
+  "model": "claude-3-5-sonnet-20241022",
+  "role": "assistant",
+  "stop_reason": "end_turn",
+  "type": "message",
+  "usage": {
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 764,
+    "output_tokens": 139
+  }
+}

@@ -1,0 +1,14 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p10_b17",
+      "translation": "All employees, agents, and partners of the insurance company, even in the face of the most severe challenges, care for the community, fulfill their duties, and are dedicated to providing support to customers,"
+    },
+    {
+      "block_id": "p10_b18",
+      "translation": "their families, and our community."
+    }
+  ]
+}
+```

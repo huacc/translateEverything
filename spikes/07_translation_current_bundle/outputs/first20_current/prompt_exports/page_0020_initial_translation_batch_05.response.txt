@@ -1,0 +1,26 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p20_b29",
+      "translation": "half-year. In 2020, AIA's Mainland China business made the largest contribution to the Group's new business value."
+    },
+    {
+      "block_id": "p20_b30",
+      "translation": "Following the implementation of travel restrictions, new business sales from Mainland China visitors to AIA's Hong Kong business were effectively suspended from early February 2020, resulting in"
+    },
+    {
+      "block_id": "p20_b31",
+      "translation": "a significant decline in new business value. New business value profit margin recorded a decrease, reflecting the impact of reduced new business volume leading to underwriting expense overruns, product mix changes and"
+    },
+    {
+      "block_id": "p20_b32",
+      "translation": "lower interest rates. Macau resumed the Individual Visit Scheme for Mainland China visitors in late September 2020. This provided support for the recovery of new business sales from Mainland China visitors to Macau, contributing to"
+    },
+    {
+      "block_id": "p20_b33",
+      "translation": "over one-third of AIA's Macau branch's annualized new premiums in the fourth quarter."
+    }
+  ]
+}
+```

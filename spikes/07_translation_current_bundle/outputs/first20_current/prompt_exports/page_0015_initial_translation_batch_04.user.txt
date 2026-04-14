@@ -1,0 +1,62 @@
+﻿请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。
+要求高保真、正式、可出版，不要摘要，不要解释。
+术语表和动态文档背景优先于自由翻译。
+只输出严格 JSON。
+{
+  "page_no": 15,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "relevant_terms": [
+    {
+      "source": "友邦保險",
+      "target": "AIA"
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "p15_b21",
+      "block_type": "body",
+      "source_text": "客戶和社區的終身夥伴，我們竭盡所能，推動社會邁向更美好、更可持續的未來。",
+      "line_count": 1,
+      "char_count": 36,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p15_b22",
+      "block_type": "body",
+      "source_text": "友邦保險參與氣候相關財務披露工作小組(Task Force on Climate-related Financial Disclosures)，這個全球組",
+      "line_count": 1,
+      "char_count": 77,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p15_b23",
+      "block_type": "body",
+      "source_text": "織致力就氣候變化影響建立一個自願和一致的披露框架。我們繼續重申對有關建議的承諾，在2020年與我們投資",
+      "line_count": 1,
+      "char_count": 51,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p15_b24",
+      "block_type": "body",
+      "source_text": "組合內逾1,400家公司，以及超過30名外部投資經理聯繫，致力影響其如何管理氣候變化風險及應對氣候問題。",
+      "line_count": 1,
+      "char_count": 52,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p15_b25",
+      "block_type": "body",
+      "source_text": "根據評級機構Sustainalytics的評選，友邦保險連續第二年在保險業環境、社會及管治風險管理方面排名第二，",
+      "line_count": 1,
+      "char_count": 56,
+      "region": "middle",
+      "font_size_avg": 9.0
+    }
+  ]
+}

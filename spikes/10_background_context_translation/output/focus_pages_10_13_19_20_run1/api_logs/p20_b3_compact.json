@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "compact",
+    "page_no": 20,
+    "unit_id": "p20_b3"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是年报英文压缩器，不是重译器。\n语言方向：Traditional Chinese -> English。\n你的任务只是对已有译文做最小必要压缩，以便回填原版面。\n禁止改变数字、单位、术语、专名、比较关系、主体和结论。\n标题不能改成正文，表头不能改成句子，不能输出口语化表达。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市公司企业年报\n{\n  \"document_background\": {\n    \"page_sections\": [\n      {\n        \"target_section\": \"New Business Performance\",\n        \"content_type\": \"business_metrics\",\n        \"page_range\": [\n          20,\n          21\n        ]\n      },\n      {\n        \"target_section\": \"Group Chief Financial Officer's Review\",\n        \"content_type\": \"cfo_review\",\n        \"page_range\": [\n          18,\n          30\n        ]\n      },\n      {\n        \"target_section\": \"Financial and Operating Review\",\n        \"content_type\": \"financial_review\",\n        \"page_range\": [\n          17,\n          30\n        ]\n      }\n    ],\n    \"roles\": [],\n    \"terms\": [],\n    \"style_rules\": [\n      \"Preserve financial terminology consistency\",\n      \"Use formal corporate register throughout\",\n      \"Maintain parallel structure in lists and tables\",\n      \"Section headings use Title Case\",\n      \"Preserve hierarchical structure of headings\",\n      \"Translate milestone dates literally\"\n    ]\n  },\n  \"current_unit\": {\n    \"page_no\": 20,\n    \"unit_id\": \"p20_b3\",\n    \"unit_mode\": \"single_block\",\n    \"slot_count\": 1,\n    \"source_text\": \"新業務表現\",\n    \"current_translation\": \"New Business Performance\"\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p20_b3\",\n        \"translation\": \"<更紧凑译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p20_b3\",\n      \"translation\": \"New Business Performance\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "802de8ed-d7d0-4bd8-8ee8-24dec0b64a6d",
+    "conversation_id": "802de8ed-d7d0-4bd8-8ee8-24dec0b64a6d",
+    "id": "802de8ed-d7d0-4bd8-8ee8-24dec0b64a6d",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 496,
+      "output_tokens": 41
+    }
+  }
+}

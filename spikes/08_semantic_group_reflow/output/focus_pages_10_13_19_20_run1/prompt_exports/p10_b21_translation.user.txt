@@ -1,0 +1,29 @@
+文档场景：上市公司企业年报
+page_no: 10
+unit_id: p10_b21
+unit_mode: single_block
+命中术语约束:
+[
+  {
+    "source": "新業務價值",
+    "target": "new business value"
+  }
+]
+blocks:
+[
+  {
+    "block_id": "p10_b21",
+    "source_text": "與去年同期比較，2021年首兩個月的新業務價值增長15%。"
+  }
+]
+joined_source_text:
+與去年同期比較，2021年首兩個月的新業務價值增長15%。
+返回格式:
+{
+  "translations": [
+    {
+      "unit_id": "p10_b21",
+      "translation": "<译文>"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "content": [
+    {
+      "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p38_b1\",\n      \"translation\": \"Financial & Operational Review\"\n    },\n    {\n      \"block_id\": \"p38_b2\",\n      \"translation\": \"CFO's Review\"\n    },\n    {\n      \"block_id\": \"p38_b3\",\n      \"translation\": \"Regulatory Capital\"\n    },\n    {\n      \"block_id\": \"p38_b4\",\n      \"translation\": \"The Group's regulator is the Insurance Authority of Hong Kong. The Group complies with solvency and capital adequacy requirements. Principal operating company AIA Co. is an insurance company registered in Hong Kong, required to comply with Insurance Ordinance solvency requirements.\"\n    },\n    {\n      \"block_id\": \"p38_b5\",\n      \"translation\": \"Beyond local Hong Kong Insurance Ordinance requirements, the Insurance Authority is introducing a group regulatory framework assessing the Group's capital position via local capital aggregation method.\"\n    },\n    {\n      \"block_id\": \"p38_b6\",\n      \"translation\": \"Group regulatory framework legislation was promulgated 17 July 2020. Effective date published in Gazette as 29 March 2021.\"\n    },\n    {\n      \"block_id\": \"p38_b7\",\n      \"translation\": \"Insurance (Group Capital) Rules submitted to Legislative Council 6 January 2021, effective 29 March 2021.\"\n    },\n    {\n      \"block_id\": \"p38_b8\",\n      \"translation\": \"Group Capital Rules' exact applicability remains under discussion with Insurance Authority and will be confirmed upon formal designation as applicable entity.\"\n    },\n    {\n      \"block_id\": \"p38_b9\",\n      \"translation\": \"Group adopted same disclosure basis as 2020 interim report, reflecting current understanding of Group Capital Rules application.\"\n    },\n    {\n      \"block_id\": \"p38_b10\",\n      \"translation\": \"Upon formal designation, Group will disclose regulatory capital per Insurance Authority requirements and cease disclosing AIA Co. solvency ratio in results announcements.\"\n    },\n    {\n      \"block_id\": \"p38_b11\",\n      \"translation\": \"AIA Co. continues reporting solvency ratio in financial statements and submits solvency position based on audited financials to Insurance Authority.\"\n    },\n    {\n      \"block_id\": \"p38_b14\",\n      \"translation\": \"As of 31 December 2020, AIA Co.'s total available capital increased to USD 9.78 billion with solvency ratio of 489%.\"\n    },\n    {\n      \"block_id\": \"p38_b15\",\n      \"translation\": \"Solvency ratio increased 127 percentage points from 31 December 2019, primarily due to AIA China becoming subsidiary, partially offset by lower government bond yields.\"\n    },\n    {\n      \"block_id\": \"p38_b16\",\n      \"translation\": \"AIA Co. and Group capital position summary:\"\n    },\n    {\n      \"block_id\": \"p38_b17\",\n      \"translation\": \"AIA Co. Solvency Position\"\n    },\n    {\n      \"block_id\": \"p38_b18\",\n      \"translation\": \"Total Available Capital: USD 9,780m (2020) vs USD 11,856m (2019)\"\n    },\n    {\n      \"block_id\": \"p38_b19\",\n      \"translation\": \"Minimum Regulatory Capital (100%): USD 2,000m (2020) vs USD 3,272m (2019)\"\n    },\n    {\n      \"block_id\": \"p38_b20\",\n      \"translation\": \"AIA Co. Solvency Ratio: 489% (2020) vs 362% (2019)\"\n    },\n    {\n      \"block_id\": \"p38_b21\",\n      \"translation\": \"AIA Group Holdings Limited\"\n    }\n  ]\n}\n```",
+      "type": "text"
+    }
+  ],
+  "conversationId": "23b1ee19-e640-42e7-bacb-be0ca2830cbc",
+  "conversation_id": "23b1ee19-e640-42e7-bacb-be0ca2830cbc",
+  "id": "23b1ee19-e640-42e7-bacb-be0ca2830cbc",
+  "model": "claude-3-5-sonnet-20241022",
+  "role": "assistant",
+  "stop_reason": "end_turn",
+  "type": "message",
+  "usage": {
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 3886,
+    "output_tokens": 832
+  }
+}

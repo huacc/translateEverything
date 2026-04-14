@@ -1,0 +1,26 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p8_b72",
+      "translation": "Embedded Value Equity(6)\nTotal Assets and Total Liabilities(9)"
+    },
+    {
+      "block_id": "p8_b73",
+      "translation": "US$ MILLIONS"
+    },
+    {
+      "block_id": "p8_b74",
+      "translation": "US$ BILLIONS"
+    },
+    {
+      "block_id": "p8_b76",
+      "translation": "US$ BILLIONS"
+    },
+    {
+      "block_id": "p8_b110",
+      "translation": "Total Assets\nTotal Liabilities"
+    }
+  ]
+}
+```

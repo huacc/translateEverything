@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 19,
+    "unit_id": "p19_b20"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是上市公司年报翻译器。\n语言方向：Traditional Chinese -> English。\n只翻译当前输入，不补充、不解释、不总结。\n如果当前输入由多个连续块组成，只允许在当前组内做跨块理解；不得引入组外内容。\n数字、百分比、货币、年份、专有名词、公司名、人名、地名必须准确。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市公司企业年报\npage_no: 19\nunit_id: p19_b20\nunit_mode: single_block\nblocks:\n[\n  {\n    \"block_id\": \"p19_b20\",\n    \"source_text\": \"19.97億美元後，自由盈餘為134.73億美元。\"\n  }\n]\njoined_source_text:\n19.97億美元後，自由盈餘為134.73億美元。\n返回格式:\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p19_b20\",\n      \"translation\": \"<译文>\"\n    }\n  ]\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p19_b20\",\n      \"translation\": \"After USD 19.97 billion, free cash flow was USD 13.473 billion.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "82634242-2a12-426c-8428-12cf9bdcbec4",
+    "conversation_id": "82634242-2a12-426c-8428-12cf9bdcbec4",
+    "id": "82634242-2a12-426c-8428-12cf9bdcbec4",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 321,
+      "output_tokens": 54
+    }
+  }
+}

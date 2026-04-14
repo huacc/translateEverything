@@ -1,0 +1,8 @@
+{
+  "schema_id": "annual_report_domain_spec_v1",
+  "scenario": "上市公司年度报告翻译与逐页版面回填",
+  "document_type": "Annual Report / 正式披露文件",
+  "document_characteristics": "混合标题、正文、图表标签、侧边导航、页眉页脚；强调术语一致性和数字准确性",
+  "target_register": "正式、审慎、可披露、接近已发布英文年报",
+  "target_audience": "投资者、监管、审计、董事会、公开市场读者"
+}

@@ -1,0 +1,80 @@
+﻿请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。
+要求高保真、正式、可出版，不要摘要，不要解释。
+术语表和动态文档背景优先于自由翻译。
+只输出严格 JSON。
+{
+  "page_no": 15,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "relevant_terms": [
+    {
+      "source": "友邦保險",
+      "target": "AIA"
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "p15_b1",
+      "block_type": "label",
+      "source_text": "以人為本",
+      "line_count": 1,
+      "char_count": 4,
+      "region": "middle",
+      "font_size_avg": 14.0
+    },
+    {
+      "block_id": "p15_b2",
+      "block_type": "body",
+      "source_text": "友邦保險擁有23,000名員工，是本集團的重要競爭優勢，亦是我們持續獲取佳績的關鍵。我們推廣共融和協作的",
+      "line_count": 1,
+      "char_count": 52,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p15_b4",
+      "block_type": "body",
+      "source_text": "學習文化，為員工提供平台，在友邦保險發展具意義和有價值的事業。因應社交距離措施和外遊限制，我們將學",
+      "line_count": 1,
+      "char_count": 49,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p15_b5",
+      "block_type": "body",
+      "source_text": "習內容轉至網上的「AIA Learning Hub」。位於曼谷的世界級設施AIA Leadership Centre (ALC)重新設計及推行本",
+      "line_count": 1,
+      "char_count": 72,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p15_b6",
+      "block_type": "body",
+      "source_text": "集團的旗艦領袖發展計劃，擁有逾100個完全虛擬化的學習模組。參與者對這些虛擬學習課程作出非常正面的反",
+      "line_count": 1,
+      "char_count": 50,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p15_b7",
+      "block_type": "label",
+      "source_text": "饋，與過往參與面對面學習的意見相若。",
+      "line_count": 1,
+      "char_count": 18,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p15_b8",
+      "block_type": "body",
+      "source_text": "年度員工敬業度指標調查是我們在各市場共同努力所得成果的重要指標，藉此更瞭解和支援員工。在2020年，",
+      "line_count": 1,
+      "char_count": 50,
+      "region": "middle",
+      "font_size_avg": 9.0
+    }
+  ]
+}

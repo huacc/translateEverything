@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p19_g01",
+      "translation": "The pandemic primarily impacted our 2020 financial performance through new business sales, as containment measures across our markets restricted face-to-face sales activities, particularly in H1 2020. Despite new business value of USD 2.765 billion in 2020, a 33% decrease from 2019, we rapidly adopted digital tools and widespread mobility restrictions relaxation supported sales momentum recovery. AIA's China business in 2020 for the Group"
+    }
+  ]
+}
+```

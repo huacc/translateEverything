@@ -1,0 +1,44 @@
+文档场景：上市公司企业年报
+page_no: 10
+unit_id: p10_g01
+unit_mode: semantic_group
+命中术语约束:
+[
+  {
+    "source": "友邦保險",
+    "target": "AIA"
+  }
+]
+blocks:
+[
+  {
+    "block_id": "p10_b4",
+    "source_text": "在過去一個世紀，友邦保險"
+  },
+  {
+    "block_id": "p10_b5",
+    "source_text": "於亞洲區內，為極需我們服務的"
+  },
+  {
+    "block_id": "p10_b6",
+    "source_text": "社區大眾提供保障而備受稱譽，"
+  },
+  {
+    "block_id": "p10_b7",
+    "source_text": "這令我們引以為榮。"
+  }
+]
+joined_source_text:
+在過去一個世紀，友邦保險
+於亞洲區內，為極需我們服務的
+社區大眾提供保障而備受稱譽，
+這令我們引以為榮。
+返回格式:
+{
+  "translations": [
+    {
+      "unit_id": "p10_g01",
+      "translation": "<译文>"
+    }
+  ]
+}

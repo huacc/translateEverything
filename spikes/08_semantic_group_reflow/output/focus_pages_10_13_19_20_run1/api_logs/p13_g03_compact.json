@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "compact",
+    "page_no": 13,
+    "unit_id": "p13_g03"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是版面回填压缩器。\n语言方向：Traditional Chinese -> English。\n在不改变事实、数字、专有名词和正式语气的前提下，对当前译文做最小必要压缩。\n不得补充新信息，不得删除关键事实，不得改动数字和单位。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市公司企业年报\npage_no: 13\nunit_id: p13_g03\nunit_mode: semantic_group\nslot_count: 5\nsource_text:\n儘管為遏制2019冠狀病毒病傳播的措施導致新業務價值減少至27.65億美元，但隨著外出限制放寬，銷售動力轉\n趨正面，並在2021年展開非常強勁的勢頭，首兩個月的新業務價值按年增長15%。我們規模龐大和持續增長的有\n效保單組合所帶來的高質素和經常性收入來源，帶動2020年稅後營運溢利增加5%，期內產生的基本自由盈餘則\n增長7%。截至2020年12月31日，內涵價值權益創新高，達672億美元，集團當地資本總和法覆蓋率為374%，足\n證我們雄厚的資本實力和嚴謹的財務管理。\ncurrent_translation:\nAlthough measures to contain the spread of COVID-19 resulted in new business value declining to US$2.765 billion, as mobility restrictions eased, sales momentum turned positive, and in 2021 we saw very strong momentum, with new business value growing 15% year-on-year in the first two months. Our large-scale and growing portfolio of in-force policies generated high-quality and recurring revenue streams, driving a 5% increase in operating profit after tax in 2020, while basic free surplus generated during the period grew 7%. As at 31 December 2020, embedded value equity reached a record high of US$67.2 billion, with the Group's local capital aggregation method coverage ratio at 374%, demonstrating our strong capital position and prudent financial management.\n返回格式:\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p13_g03\",\n      \"translation\": \"<更紧凑译文>\"\n    }\n  ]\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p13_g03\",\n      \"translation\": \"Although COVID-19 containment measures reduced new business value to US$2.765 billion, sales momentum turned positive as restrictions eased, with 15% year-on-year growth in the first two months of 2021. Our large and growing in-force policy portfolio generated high-quality recurring revenue, driving 5% operating profit after tax growth in 2020 and 7% basic free surplus growth. As at 31 December 2020, embedded value equity reached a record US$67.2 billion, with local capital aggregation coverage ratio at 374%, reflecting strong capital position and prudent financial management.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "8fa5b0a7-ab6e-46c4-b098-b830617e2cf7",
+    "conversation_id": "8fa5b0a7-ab6e-46c4-b098-b830617e2cf7",
+    "id": "8fa5b0a7-ab6e-46c4-b098-b830617e2cf7",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 668,
+      "output_tokens": 151
+    }
+  }
+}

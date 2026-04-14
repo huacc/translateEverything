@@ -1,0 +1,38 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p3_b1",
+      "translation": "AIA At-A-Glance"
+    },
+    {
+      "block_id": "p3_b2",
+      "translation": "Million Dollar Round Table\nRegistered Members\nGlobal Leader"
+    },
+    {
+      "block_id": "p3_b3",
+      "translation": "The only global company\nheadquartered in Hong Kong,\nlisted in Hong Kong and\n100% focused on Asia"
+    },
+    {
+      "block_id": "p3_b4",
+      "translation": "The largest company\nlisted on the Hong Kong Stock Exchange,\nregistered in Hong Kong and\nheadquartered in Hong Kong"
+    },
+    {
+      "block_id": "p3_b5",
+      "translation": "The only multinational company\nto lead Million Dollar Round Table\nmembership for six consecutive years"
+    },
+    {
+      "block_id": "p3_b6",
+      "translation": "international life\ninsurance company"
+    },
+    {
+      "block_id": "p3_b7",
+      "translation": "Business Coverage"
+    },
+    {
+      "block_id": "p3_b8",
+      "translation": "Serving over\n38 million individual\npolicyholders and more than\n16 million participants\nin group insurance plans"
+    }
+  ]
+}
+```

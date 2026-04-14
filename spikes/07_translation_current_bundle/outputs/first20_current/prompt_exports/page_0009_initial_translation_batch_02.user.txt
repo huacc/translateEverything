@@ -1,0 +1,21 @@
+﻿请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。
+要求高保真、正式、可出版，不要摘要，不要解释。
+术语表和动态文档背景优先于自由翻译。
+只输出严格 JSON。
+{
+  "page_no": 9,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "relevant_terms": [],
+  "blocks": [
+    {
+      "block_id": "p9_b31",
+      "block_type": "body",
+      "source_text": "(1) 自2017年起，財務資料按12月31日的財政年度結算基準\n列報。於2016年的財務資料按11月30日的財政年度結算\n基準列報。",
+      "line_count": 3,
+      "char_count": 67,
+      "region": "middle",
+      "font_size_avg": 7.0
+    }
+  ]
+}

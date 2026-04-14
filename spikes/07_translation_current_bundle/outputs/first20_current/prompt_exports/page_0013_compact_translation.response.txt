@@ -1,0 +1,82 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p13_b1",
+      "translation": "AIA is a trusted partner for our customers, enabling them to focus on financial security and family protection with peace of mind. Despite the far-reaching impact of COVID-19,"
+    },
+    {
+      "block_id": "p13_b2",
+      "translation": "I am deeply grateful to our employees, agents and partners for adapting to new ways of working and ensuring uninterrupted support for our customers"
+    },
+    {
+      "block_id": "p13_b5",
+      "translation": "Since the onset of the pandemic, our business teams have responded swiftly and actively worked to mitigate impact on our communities while ensuring employee safety. The Group has"
+    },
+    {
+      "block_id": "p13_b6",
+      "translation": "implemented comprehensive measures, including financial support, medical supplies, complimentary coverage, healthcare access, streamlined service processes and"
+    },
+    {
+      "block_id": "p13_b8",
+      "translation": "benefits and claims, providing our customers with critical financial protection."
+    },
+    {
+      "block_id": "p13_b9",
+      "translation": "Although COVID-19 containment measures resulted in new business value of US$2.765 billion, as lockdown restrictions eased, sales momentum turned"
+    },
+    {
+      "block_id": "p13_b12",
+      "translation": "the period grew 7%. As at 31 December 2020, embedded value equity reached a record high of US$67.2 billion, with the Group's local capital adequacy ratio at 374%, demonstrating"
+    },
+    {
+      "block_id": "p13_b14",
+      "translation": "The Board recommends a final dividend for 2020 increased by 7.5% to HK$1.0030 per share. This reflects AIA's long-standing prudent, sustainable and progressive dividend"
+    },
+    {
+      "block_id": "p13_b15",
+      "translation": "policy, enabling the Group to capture future growth opportunities while maintaining financial flexibility."
+    },
+    {
+      "block_id": "p13_b17",
+      "translation": "platform in the region and hold leading positions in most markets where we operate. Our consistent focus on Asia enables us to capture growth opportunities across the world's"
+    },
+    {
+      "block_id": "p13_b19",
+      "translation": "has been a key driver of our outstanding performance."
+    },
+    {
+      "block_id": "p13_b20",
+      "translation": "Our unparalleled distribution strength enables direct customer engagement and delivery of high-quality professional advice to meet the substantial and growing long-term"
+    },
+    {
+      "block_id": "p13_b21",
+      "translation": "protection and savings needs of Asian consumers. Today, the public increasingly expects companies to address their needs in ways that support long-term sustainability. AIA possesses a"
+    },
+    {
+      "block_id": "p13_b23",
+      "translation": "We aim to position AIA as a global leader in technology application, strengthening connectivity, expanding scale and enhancing efficiency. Deeper data analytics insights help"
+    },
+    {
+      "block_id": "p13_b24",
+      "translation": "us create unique and personalized customer experiences. Products and services tailored to individual needs and lifestyles have transformed public perception of life insurance,"
+    },
+    {
+      "block_id": "p13_b25",
+      "translation": "laying a solid foundation for building long-term relationships with our customers."
+    },
+    {
+      "block_id": "p13_b26",
+      "translation": "Despite 2020 being an unprecedented year, I am more optimistic than ever about the Asian life insurance industry and AIA's future. We continue to challenge ourselves,"
+    },
+    {
+      "block_id": "p13_b27",
+      "translation": "develop our strategic priorities, and ensure we can continue to address evolving customer expectations and financial needs. Our new corporate strategy builds on"
+    },
+    {
+      "block_id": "p13_b28",
+      "translation": "AIA's existing strengths to advance our transformation and deliver the best service to our customers in the future."
+    }
+  ]
+}
+```

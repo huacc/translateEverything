@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 13,
+    "unit_id": "p13_g04"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是上市公司年报翻译器。\n语言方向：Traditional Chinese -> English。\n你只处理当前翻译单元。\n如果当前单元由多个连续文本块组成，只允许在当前组内恢复被换行打断的句子；不得引入组外信息。\n优先严格采用提供的标准术语、角色名称和章节叫法。\n不得增删事实，不得保留中文残片，不得输出解释。\n输出必须是 JSON，并且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市公司企业年报。\n请优先复用 document_background 和 matched_terms 中提供的标准写法。\n{\n  \"task\": {\n    \"scenario\": \"listed_company_annual_report\",\n    \"direction\": \"Traditional Chinese -> English\"\n  },\n  \"document_background\": {\n    \"global_profile\": {\n      \"company_name_target\": \"AIA GROUP LIMITED\",\n      \"industry\": \"Life Insurance\",\n      \"report_type\": \"annual_report\",\n      \"report_year\": 2020\n    },\n    \"term_usage_mode\": \"table\",\n    \"page_sections\": [\n      {\n        \"source_section\": \"集團首席執行官兼總裁報告\",\n        \"target_section\": \"Group Chief Executive and President's Report\",\n        \"content_type\": \"ceo_report\",\n        \"page_range\": [\n          12,\n          16\n        ]\n      }\n    ],\n    \"roles\": [\n      {\n        \"source\": \"李源祥\",\n        \"target\": \"Lee Yuen Cheung\",\n        \"role\": \"Group Chief Executive and President\"\n      }\n    ],\n    \"terms\": [],\n    \"style_rules\": [\n      \"Use US$ for U.S. dollar amounts.\",\n      \"Keep listed-company annual report disclosure tone formal and publishable.\",\n      \"Do not change numbers, percentages, years, named entities or financial metric values.\",\n      \"Use established financial abbreviations for table labels when provided.\",\n      \"Keep row and column semantics unchanged.\",\n      \"Use n/m for 無意義.\"\n    ]\n  },\n  \"matched_terms\": [\n    {\n      \"source\": \"友邦保險\",\n      \"target\": \"AIA\"\n    }\n  ],\n  \"current_unit\": {\n    \"page_no\": 13,\n    \"unit_id\": \"p13_g04\",\n    \"unit_mode\": \"semantic_group\",\n    \"block_types\": [\n      \"body\",\n      \"label\"\n    ],\n    \"blocks\": [\n      {\n        \"block_id\": \"p13_b14\",\n        \"source_text\": \"董事會建議2020年末期股息增加7.5%至每股100.30港仙。這秉承友邦保險行之已久的審慎、可持續及漸進的派息\"\n      },\n      {\n        \"block_id\": \"p13_b15\",\n        \"source_text\": \"政策，讓本集團可把握未來的增長機遇，並且保持財務靈活性。\"\n      }\n    ],\n    \"joined_source_text\": \"董事會建議2020年末期股息增加7.5%至每股100.30港仙。這秉承友邦保險行之已久的審慎、可持續及漸進的派息\\n政策，讓本集團可把握未來的增長機遇，並且保持財務靈活性。\"\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p13_g04\",\n        \"translation\": \"<译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p13_g04\",\n      \"translation\": \"The Board recommends a final dividend for 2020 of HK$100.30 per share, representing an increase of 7.5%. This reflects AIA's long-established prudent, sustainable and progressive dividend policy, which enables the Group to capture future growth opportunities while maintaining financial flexibility.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "c1dd9dba-fdb1-4c87-8d33-95616be228f0",
+    "conversation_id": "c1dd9dba-fdb1-4c87-8d33-95616be228f0",
+    "id": "c1dd9dba-fdb1-4c87-8d33-95616be228f0",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 938,
+      "output_tokens": 93
+    }
+  }
+}

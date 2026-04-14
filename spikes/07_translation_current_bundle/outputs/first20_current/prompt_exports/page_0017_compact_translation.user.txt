@@ -1,0 +1,85 @@
+﻿以下文本块版面过紧。请在不改变核心含义和正式风格的前提下，仅做最小必要压缩。
+不要摘要，不要解释，只输出严格 JSON。
+{
+  "page_no": 17,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "problem_blocks": [
+    {
+      "block_id": "p17_b2",
+      "block_type": "label",
+      "source_text": "016 集團首席財務總監回顧",
+      "current_translation": "016 Group Chief Financial Officer's Review",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.783,
+      "line_count": 1,
+      "char_count": 14,
+      "bbox": [
+        68.03,
+        143.9,
+        239.52,
+        162.38
+      ],
+      "font_size_avg": 14.0,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p17_b3",
+      "block_type": "label",
+      "source_text": "040 業務回顧",
+      "current_translation": "040 Business Review",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.768,
+      "line_count": 1,
+      "char_count": 8,
+      "bbox": [
+        68.02,
+        167.89,
+        153.42,
+        186.37
+      ],
+      "font_size_avg": 14.0,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p17_b4",
+      "block_type": "label",
+      "source_text": "056 風險管理",
+      "current_translation": "056 Risk Management",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.743,
+      "line_count": 1,
+      "char_count": 8,
+      "bbox": [
+        68.02,
+        191.89,
+        153.42,
+        210.37
+      ],
+      "font_size_avg": 14.0,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p17_b5",
+      "block_type": "label",
+      "source_text": "062 監管及國際發展",
+      "current_translation": "062 Regulatory and International Development",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.541,
+      "line_count": 1,
+      "char_count": 11,
+      "bbox": [
+        68.02,
+        215.89,
+        196.45,
+        234.37
+      ],
+      "font_size_avg": 14.0,
+      "suggested_font": "F_ARIALNB"
+    }
+  ]
+}

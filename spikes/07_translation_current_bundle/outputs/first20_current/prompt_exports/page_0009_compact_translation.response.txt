@@ -1,0 +1,26 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p9_b2",
+      "translation": "New business value(2)(7)"
+    },
+    {
+      "block_id": "p9_b3",
+      "translation": "Annualized new premiums(3)"
+    },
+    {
+      "block_id": "p9_b16",
+      "translation": "Operating profit after tax(4)"
+    },
+    {
+      "block_id": "p9_b17",
+      "translation": "Total weighted premiums written(5)"
+    },
+    {
+      "block_id": "p9_b35",
+      "translation": "(4) Operating profit after tax presented is stated after deducting non-controlling interests."
+    }
+  ]
+}
+```

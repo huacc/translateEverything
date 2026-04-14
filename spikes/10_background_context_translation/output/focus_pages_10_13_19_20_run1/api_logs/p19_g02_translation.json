@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 19,
+    "unit_id": "p19_g02"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是上市公司年报英文翻译器。\n语言方向：Traditional Chinese -> English。\n你只处理当前翻译单元。\n如果当前单元由多个连续文本块组成，只允许在当前组内恢复被换行打散的句子和段落；只做最小必要融合，不得引入组外信息。\n标题、栏目名、表头、图表标签要短、稳、标准；正文要保持正式披露语体。\n数字、百分比、货币、年份、专有名词、公司名、人名、地名、财务指标必须准确。\n不增删事实，不补充因果，不输出残句，不重复表达。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市公司企业年报\n请优先使用背景中的标准叫法和术语。\n{\n  \"document_background\": {\n    \"global_profile\": {\n      \"company_name_target\": \"AIA GROUP LIMITED\",\n      \"industry\": \"Life Insurance\",\n      \"report_type\": \"annual_report\",\n      \"report_year\": 2020,\n      \"style_keywords\": [\n        \"corporate governance\",\n        \"financial performance\",\n        \"stakeholder communication\",\n        \"ESG commitment\"\n      ]\n    },\n    \"page_sections\": [\n      {\n        \"target_section\": \"Group Chief Financial Officer's Review\",\n        \"content_type\": \"cfo_review\",\n        \"page_range\": [\n          18,\n          30\n        ]\n      },\n      {\n        \"target_section\": \"Financial and Operating Review\",\n        \"content_type\": \"financial_review\",\n        \"page_range\": [\n          17,\n          30\n        ]\n      }\n    ],\n    \"roles\": [],\n    \"terms\": [\n      {\n        \"source\": \"新業務價值\",\n        \"target\": \"New Business Value\",\n        \"abbreviation\": \"NBV\",\n        \"context\": \"financial_metric\",\n        \"confidence\": \"high\"\n      }\n    ],\n    \"style_rules\": [\n      \"Preserve financial terminology consistency\",\n      \"Use formal corporate register throughout\",\n      \"Maintain parallel structure in lists and tables\",\n      \"Preserve table structure and alignment\",\n      \"Translate table headers consistently with body text\",\n      \"Maintain footnote references and numbering\",\n      \"Convert currency units with precision\"\n    ]\n  },\n  \"matched_terms\": [\n    {\n      \"source\": \"新業務價值\",\n      \"target\": \"new business value\"\n    },\n    {\n      \"source\": \"中國內地\",\n      \"target\": \"Mainland China\"\n    },\n    {\n      \"source\": \"新業務價值\",\n      \"target\": \"New Business Value\"\n    }\n  ],\n  \"current_unit\": {\n    \"page_no\": 19,\n    \"unit_id\": \"p19_g02\",\n    \"unit_mode\": \"semantic_group\",\n    \"block_types\": [\n      \"body\",\n      \"body\",\n      \"body\",\n      \"label\"\n    ],\n    \"blocks\": [\n      {\n        \"block_id\": \"p19_b5\",\n        \"source_text\": \"團的新業務價值帶來最大貢獻，也是我們第一個顯示銷售勢頭有所恢復的報告分部，原因在於該地區自2020年3\"\n      },\n      {\n        \"block_id\": \"p19_b6\",\n        \"source_text\": \"月逐步放寬嚴格的封鎖。撇除維持低位的中國內地訪港旅客銷售額，本集團其他分部的新業務價值在下半年強勁\"\n      },\n      {\n        \"block_id\": \"p19_b7\",\n        \"source_text\": \"復甦，與上半年相比增長了23%。本集團的新業務發展勢頭在2021年持續強勁，首兩個月新業務價值較2020年同\"\n      },\n      {\n        \"block_id\": \"p19_b8\",\n        \"source_text\": \"期高出15%。\"\n      }\n    ],\n    \"joined_source_text\": \"團的新業務價值帶來最大貢獻，也是我們第一個顯示銷售勢頭有所恢復的報告分部，原因在於該地區自2020年3\\n月逐步放寬嚴格的封鎖。撇除維持低位的中國內地訪港旅客銷售額，本集團其他分部的新業務價值在下半年強勁\\n復甦，與上半年相比增長了23%。本集團的新業務發展勢頭在2021年持續強勁，首兩個月新業務價值較2020年同\\n期高出15%。\"\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p19_g02\",\n        \"translation\": \"<译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p19_g02\",\n      \"translation\": \"contributed the most to the Group's New Business Value and was the first reporting segment to demonstrate a recovery in sales momentum, as the region gradually eased strict lockdown measures from March 2020 onwards. Excluding the subdued sales from Mainland China visitors to Hong Kong, the Group's other segments showed strong New Business Value recovery in the second half, growing 23% compared to the first half. The Group's new business momentum remained robust in 2021, with New Business Value in the first two months up 15% compared to the same period in 2020.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "27fb9b07-32a7-49f5-b448-563104a9a768",
+    "conversation_id": "27fb9b07-32a7-49f5-b448-563104a9a768",
+    "id": "27fb9b07-32a7-49f5-b448-563104a9a768",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1326,
+      "output_tokens": 147
+    }
+  }
+}

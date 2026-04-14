@@ -1,0 +1,14 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p1_b2",
+      "translation": "Healthier, Longer, Better Lives"
+    },
+    {
+      "block_id": "p1_b3",
+      "translation": "AIA GROUP LIMITED\n2020 Annual Report"
+    }
+  ]
+}
+```

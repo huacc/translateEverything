@@ -1,0 +1,25 @@
+[
+  {
+    "page_no": 20,
+    "text_block_count": 34,
+    "rule_resolved_count": 3,
+    "model_resolved_count": 31,
+    "compact_retry_count": 19,
+    "fit_summary": {
+      "font_shrink": 21,
+      "ok": 13
+    },
+    "translation_source_summary": {
+      "glossary_exact": 2,
+      "model_compact": 19,
+      "model_initial": 12,
+      "glossary_linewise": 1
+    },
+    "original": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_page20_cellfit_v3\\original\\page_0020_original.png",
+    "redacted": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_page20_cellfit_v3\\redacted\\page_0020_redacted.png",
+    "translated": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_page20_cellfit_v3\\translated\\page_0020_translated.png",
+    "comparison": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_page20_cellfit_v3\\comparison\\page_0020_translation_comparison.png",
+    "document_context": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\05_annual_report_translation_control\\output\\AIA_2021_Annual_Report_zh_page20_cellfit_v3\\document_context.json",
+    "status": "ok"
+  }
+]

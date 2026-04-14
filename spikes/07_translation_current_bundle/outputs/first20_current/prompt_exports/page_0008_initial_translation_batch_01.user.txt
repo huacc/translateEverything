@@ -1,0 +1,93 @@
+﻿请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。
+要求高保真、正式、可出版，不要摘要，不要解释。
+术语表和动态文档背景优先于自由翻译。
+只输出严格 JSON。
+{
+  "page_no": 8,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "relevant_terms": [
+    {
+      "source": "新業務價值",
+      "target": "new business value"
+    },
+    {
+      "source": "稅後營運溢利",
+      "target": "operating profit after tax"
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "p8_b2",
+      "block_type": "heading",
+      "source_text": "2020年業績一覽(1)",
+      "line_count": 1,
+      "char_count": 12,
+      "region": "top",
+      "font_size_avg": 18.41
+    },
+    {
+      "block_id": "p8_b3",
+      "block_type": "label",
+      "source_text": "新業務價值(2)(8)",
+      "line_count": 1,
+      "char_count": 11,
+      "region": "middle",
+      "font_size_avg": 9.5
+    },
+    {
+      "block_id": "p8_b4",
+      "block_type": "label",
+      "source_text": "年化新保費(3)(8)",
+      "line_count": 1,
+      "char_count": 11,
+      "region": "middle",
+      "font_size_avg": 9.5
+    },
+    {
+      "block_id": "p8_b5",
+      "block_type": "label",
+      "source_text": "US$ MILLIONS",
+      "line_count": 1,
+      "char_count": 12,
+      "region": "middle",
+      "font_size_avg": 8.0
+    },
+    {
+      "block_id": "p8_b6",
+      "block_type": "label",
+      "source_text": "US$ MILLIONS",
+      "line_count": 1,
+      "char_count": 12,
+      "region": "middle",
+      "font_size_avg": 8.0
+    },
+    {
+      "block_id": "p8_b39",
+      "block_type": "label",
+      "source_text": "稅後營運溢利(4)(9)\n總加權保費收入(5)",
+      "line_count": 2,
+      "char_count": 23,
+      "region": "middle",
+      "font_size_avg": 9.5
+    },
+    {
+      "block_id": "p8_b40",
+      "block_type": "label",
+      "source_text": "US$ MILLIONS",
+      "line_count": 1,
+      "char_count": 12,
+      "region": "middle",
+      "font_size_avg": 8.0
+    },
+    {
+      "block_id": "p8_b41",
+      "block_type": "label",
+      "source_text": "US$ MILLIONS",
+      "line_count": 1,
+      "char_count": 12,
+      "region": "middle",
+      "font_size_avg": 8.0
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+```json
+{
+  "unit_id": "p20_b34",
+  "page_no": 20,
+  "section_id": "financial_review",
+  "content_type": "footer",
+  "speaker_role": null,
+  "topic_tags": ["company_identity", "page_marker"],
+  "term_hits": ["友邦保險控股有限公司"],
+  "needs_context": false,
+  "context_scope": null,
+  "risk_level": "low",
+  "risk_flags": [],
+  "translation_constraints": ["preserve_company_name_mapping", "maintain_footer_format"]
+}
+```

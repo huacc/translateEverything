@@ -1,0 +1,34 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p16_b11",
+      "translation": "segment."
+    },
+    {
+      "block_id": "p16_b12",
+      "translation": "Despite the ongoing impact of the pandemic, we believe 2021 will be a transitional year and we remain cautiously optimistic. Market anticipation of the rollout of"
+    },
+    {
+      "block_id": "p16_b13",
+      "translation": "vaccination programmes and new therapies will help reduce infection rates and severity of the disease, enabling healthcare systems to respond more effectively to the pandemic and lower mortality rates. Although we"
+    },
+    {
+      "block_id": "p16_b14",
+      "translation": "do not expect consumer behaviour and spending patterns to return to pre-pandemic levels in the near term, as consumer confidence recovers, the scope of recovery is expected to gradually"
+    },
+    {
+      "block_id": "p16_b15",
+      "translation": "expand from manufacturing-led industries to consumer and service sectors. This will be particularly evident in countries with younger populations."
+    },
+    {
+      "block_id": "p16_b16",
+      "translation": "I am confident about AIA's long-term prospects. Despite near-term uncertainties, the domestic drivers of demand remain strong, and with Asia's key"
+    },
+    {
+      "block_id": "p16_b17",
+      "translation": "demographic trends, AIA's business continues to benefit from positive structural support in the long term. With rising incomes, low private insurance penetration,"
+    }
+  ]
+}
+```

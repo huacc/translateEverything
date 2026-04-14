@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "compact",
+    "page_no": 13,
+    "unit_id": "p13_g05"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是年报英文压缩器，不是重译器。\n语言方向：Traditional Chinese -> English。\n你的任务只是对已有译文做最小必要压缩，以便回填原版面。\n禁止改变数字、单位、术语、专名、比较关系、主体和结论。\n标题不能改成正文，表头不能改成句子，不能输出口语化表达。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市公司企业年报\n{\n  \"document_background\": {\n    \"page_sections\": [\n      {\n        \"source_section\": \"集團首席執行官兼總裁報告\",\n        \"target_section\": \"Group Chief Executive and President's Report\",\n        \"content_type\": \"ceo_report\",\n        \"page_range\": [\n          12,\n          16\n        ]\n      }\n    ],\n    \"roles\": [\n      {\n        \"source\": \"李源祥\",\n        \"target\": \"Lee Yuen Cheung\",\n        \"role\": \"Group Chief Executive and President\"\n      }\n    ],\n    \"terms\": [],\n    \"style_rules\": [\n      \"Use US$ for U.S. dollar amounts.\",\n      \"Keep listed-company annual report disclosure tone formal and publishable.\",\n      \"Do not change numbers, percentages, years, named entities or financial metric values.\",\n      \"For overview narrative, use full financial metric name plus abbreviation when provided.\",\n      \"For financial review and business metrics narrative, use established abbreviations when provided.\",\n      \"Prefer AIA China / AIA Hong Kong / AIA Macau over loose paraphrases when matched.\"\n    ]\n  },\n  \"current_unit\": {\n    \"page_no\": 13,\n    \"unit_id\": \"p13_g05\",\n    \"unit_mode\": \"semantic_group\",\n    \"slot_count\": 4,\n    \"source_text\": \"友邦保險具有多項顯著優勢，讓我們在競爭激烈的市場別樹一幟。我們在亞洲經營數十載，擁有區內無可比擬的\\n平台，並於我們業務所在的大部分市場雄踞領導地位。我們始終如一地百分百專注於亞洲市場，有助我們在全球\\n最具吸引力的壽險業地區全面把握增長機遇。這份專注結合我們領導團隊在亞洲的豐富經驗及員工的優秀質素，\\n一直是我們表現卓越的重要動力。\",\n    \"current_translation\": \"AIA possesses multiple significant competitive advantages that distinguish us in a highly competitive marketplace. With decades of operations across Asia, we have built an unparalleled platform within the region and hold leading positions in most of the markets where we conduct business. Our unwavering and complete focus on the Asian market enables us to capture growth opportunities comprehensively across the world's most attractive life insurance regions. This focus, combined with our leadership team's extensive experience in Asia and our employees' exceptional quality, has been a key driver of our outstanding performance.\"\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p13_g05\",\n        \"translation\": \"<更紧凑译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p13_g05\",\n      \"translation\": \"AIA possesses multiple significant competitive advantages that distinguish us in a highly competitive marketplace. With decades of operations across Asia, we have built an unparalleled platform and hold leading positions in most markets where we conduct business. Our unwavering focus on the Asian market enables us to capture growth opportunities across the world's most attractive life insurance regions. This focus, combined with our leadership team's extensive Asia experience and our employees' exceptional quality, has been a key driver of our outstanding performance.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "c6f17c2a-1fac-4f0f-92de-c1bd6929ee83",
+    "conversation_id": "c6f17c2a-1fac-4f0f-92de-c1bd6929ee83",
+    "id": "c6f17c2a-1fac-4f0f-92de-c1bd6929ee83",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 872,
+      "output_tokens": 135
+    }
+  }
+}

@@ -1,0 +1,313 @@
+﻿以下文本块版面过紧。请在不改变核心含义和正式风格的前提下，仅做最小必要压缩。
+不要摘要，不要解释，只输出严格 JSON。
+{
+  "page_no": 11,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "problem_blocks": [
+    {
+      "block_id": "p11_b1",
+      "block_type": "body",
+      "source_text": "在2020年第四季，我們慶祝友邦保險在香港聯交所上市10週年。回顧當年友邦保險的上市刷新多項紀錄，至今",
+      "current_translation": "In the fourth quarter of 2020, we celebrated AIA's tenth anniversary of listing on the Hong Kong Stock Exchange. Looking back, AIA's initial public offering set multiple records and remains to this day",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.679,
+      "line_count": 1,
+      "char_count": 51,
+      "bbox": [
+        68.03,
+        94.7,
+        524.09,
+        106.65
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p11_b3",
+      "block_type": "body",
+      "source_text": "業務在此期間繼往開來，不斷擴展，成為以市值計全球最大的人壽保險公司。",
+      "current_translation": "business has continued to develop and expand during this period, becoming the world's largest life insurance company by market capitalization.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.641,
+      "line_count": 1,
+      "char_count": 34,
+      "bbox": [
+        68.03,
+        126.7,
+        381.45,
+        138.65
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p11_b5",
+      "block_type": "body",
+      "source_text": "董事會的所有非執行董事均由獨立人士出任，他們在公營和私營產業擁有廣泛的管治和領導經驗。我們同心",
+      "current_translation": "All non-executive directors of the Board are independent individuals with extensive governance and leadership experience in both the public and private sectors. We work together",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.755,
+      "line_count": 1,
+      "char_count": 47,
+      "bbox": [
+        68.03,
+        158.71,
+        524.09,
+        170.66
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p11_b6",
+      "block_type": "body",
+      "source_text": "協力，銳意維持奉行最高國際企業管治標準的公司文化。我們深信根深蒂固的企業管治文化，加上穩健的風險",
+      "current_translation": "with determination to maintain a corporate culture that adheres to the highest international corporate governance standards. We firmly believe that a deeply rooted corporate governance culture, combined with sound risk",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.638,
+      "line_count": 1,
+      "char_count": 48,
+      "bbox": [
+        68.03,
+        174.71,
+        524.09,
+        186.66
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p11_b7",
+      "block_type": "label",
+      "source_text": "管理架構，是每家機構可持續發展的基礎。",
+      "current_translation": "management framework, is the foundation for sustainable development of every institution.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.592,
+      "line_count": 1,
+      "char_count": 19,
+      "bbox": [
+        68.03,
+        190.71,
+        243.08,
+        202.66
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p11_b8",
+      "block_type": "body",
+      "source_text": "董事會的重要責任之一是確保領導層人才輩出，並執行有效的繼任安排。我們歡迎李源祥先生於2020年6月1日",
+      "current_translation": "One of the important responsibilities of the Board is to ensure a strong pipeline of leadership talent and to implement effective succession arrangements. We welcomed Mr. Lee Yuen Shing on 1 June 2020",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.657,
+      "line_count": 1,
+      "char_count": 51,
+      "bbox": [
+        68.03,
+        222.71,
+        524.09,
+        234.67
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p11_b9",
+      "block_type": "body",
+      "source_text": "接替榮休的黃經輝先生，擔任集團首席執行官兼總裁。本人謹代表董事會向李源祥先生及其管理層團隊深表",
+      "current_translation": "Mr. Wong King-fai, who succeeded Mr. Lee Yuan-tseh upon his retirement, took office as Group Chief Executive Officer and President. On behalf of the Board, I wish to express our deep appreciation",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.704,
+      "line_count": 1,
+      "char_count": 47,
+      "bbox": [
+        68.03,
+        238.72,
+        524.09,
+        250.67
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p11_b10",
+      "block_type": "body",
+      "source_text": "謝意，他們在這段前所未見的環境發揮優秀的管理才能，帶領我們的業務向前邁進。我們也衷心感謝黃經輝先生",
+      "current_translation": "to Mr. Lee and his management team for their outstanding leadership during this unprecedented environment, which has enabled us to advance our business. We also wish to extend our heartfelt thanks to Mr. Wong King-fai",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.595,
+      "line_count": 1,
+      "char_count": 49,
+      "bbox": [
+        68.03,
+        254.72,
+        521.45,
+        266.67
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p11_b12",
+      "block_type": "body",
+      "source_text": "環境、社會及管治議題對全球的影響日形重要。我們當竭盡所能，協助推動社會邁向更美好的未來，而我們的環",
+      "current_translation": "Environmental, social and governance matters are increasingly important to the world. We are committed to doing our part to help drive society towards a better future, and our environmental,",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.702,
+      "line_count": 1,
+      "char_count": 49,
+      "bbox": [
+        68.03,
+        302.72,
+        521.41,
+        314.68
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p11_b13",
+      "block_type": "body",
+      "source_text": "境、社會及管治措施在2020年再度備受肯定。根據評級機構Sustainalytics的評選，友邦保險在超過270家保險公",
+      "current_translation": "social and governance initiatives have once again been recognised in 2020. According to Sustainalytics' assessment, AIA ranked second among over 270 insurance companies,",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.787,
+      "line_count": 1,
+      "char_count": 60,
+      "bbox": [
+        68.03,
+        318.73,
+        521.58,
+        330.68
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p11_b15",
+      "block_type": "body",
+      "source_text": "Inc.(ISS)頒發「Prime」環境、社會及管治企業評級(ESG Corporate Rating)，認同我們為業界可持續發展表現",
+      "current_translation": "Inc. (ISS) has awarded us the \"Prime\" Environmental, Social and Governance Corporate Rating (ESG Corporate Rating), recognising AIA as one of the industry's best-performing companies in sustainable development.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.613,
+      "line_count": 1,
+      "char_count": 67,
+      "bbox": [
+        68.03,
+        350.73,
+        524.09,
+        362.68
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p11_b21",
+      "block_type": "body",
+      "source_text": "龐大機遇，在客戶及其家庭最需要的時刻提供財務保障，使其安心無憂，並同時為所有持分者創造共享價值。",
+      "current_translation": "vast opportunities to provide financial protection to our customers and their families at their time of greatest need, giving them peace of mind, while creating shared value for all our stakeholders.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.703,
+      "line_count": 1,
+      "char_count": 48,
+      "bbox": [
+        68.03,
+        462.74,
+        510.6,
+        474.7
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p11_b22",
+      "block_type": "body",
+      "source_text": "最後，全賴客戶及股東的信任，友邦保險才能自上市以來表現強勁和持續增長。本人謹代表董事會全體成員，",
+      "current_translation": "Finally, it is thanks to the trust of our customers and shareholders that AIA has demonstrated strong and sustained growth since our listing. On behalf of the entire Board,",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.799,
+      "line_count": 1,
+      "char_count": 48,
+      "bbox": [
+        68.03,
+        494.75,
+        524.09,
+        506.7
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p11_b23",
+      "block_type": "label",
+      "source_text": "衷心感謝您們一直以來的支持。",
+      "current_translation": "I wish to express my heartfelt gratitude for your continued support.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.608,
+      "line_count": 1,
+      "char_count": 14,
+      "bbox": [
+        68.03,
+        510.75,
+        199.47,
+        522.7
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p11_b24",
+      "block_type": "label",
+      "source_text": "謝仕榮",
+      "current_translation": "Tse Sze Wing",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.667,
+      "line_count": 1,
+      "char_count": 3,
+      "bbox": [
+        68.03,
+        622.52,
+        95.48,
+        634.26
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p11_b25",
+      "block_type": "label",
+      "source_text": "獨立非執行主席",
+      "current_translation": "Independent Non-Executive Chairman",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.514,
+      "line_count": 1,
+      "char_count": 7,
+      "bbox": [
+        68.03,
+        638.75,
+        132.38,
+        650.7
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    }
+  ]
+}

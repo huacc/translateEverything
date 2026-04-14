@@ -1,0 +1,10 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p14_b16",
+      "translation": "Positive momentum has been demonstrated, with new business value in the second half of the year recording 33% growth compared to the first half."
+    }
+  ]
+}
+```

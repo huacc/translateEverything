@@ -1,0 +1,18 @@
+文档场景：上市公司企业年报
+page_no: 20
+unit_id: p20_b3
+unit_mode: single_block
+slot_count: 1
+source_text:
+新業務表現
+current_translation:
+New Business Performance
+返回格式:
+{
+  "translations": [
+    {
+      "unit_id": "p20_b3",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

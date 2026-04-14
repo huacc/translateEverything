@@ -1,0 +1,71 @@
+文档场景：上市公司企业年报。
+请优先复用 document_background 和 matched_terms 中提供的标准写法。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "direction": "Traditional Chinese -> English"
+  },
+  "document_background": {
+    "global_profile": {
+      "company_name_target": "AIA GROUP LIMITED",
+      "industry": "Life Insurance",
+      "report_type": "annual_report",
+      "report_year": 2020
+    },
+    "term_usage_mode": "heading",
+    "page_sections": [
+      {
+        "source_section": "集團首席財務總監回顧",
+        "target_section": "Group Chief Financial Officer's Review",
+        "content_type": "cfo_review",
+        "page_range": [
+          18,
+          30
+        ]
+      }
+    ],
+    "roles": [],
+    "terms": [
+      {
+        "source": "自由盈餘",
+        "target": "Free Surplus"
+      }
+    ],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "Keep headings short, stable and standard.",
+      "Prefer established annual report section names over free paraphrase."
+    ]
+  },
+  "matched_terms": [
+    {
+      "source": "自由盈餘",
+      "target": "Free Surplus"
+    }
+  ],
+  "current_unit": {
+    "page_no": 19,
+    "unit_id": "p19_b20",
+    "unit_mode": "single_block",
+    "block_types": [
+      "label"
+    ],
+    "blocks": [
+      {
+        "block_id": "p19_b20",
+        "source_text": "19.97億美元後，自由盈餘為134.73億美元。"
+      }
+    ],
+    "joined_source_text": "19.97億美元後，自由盈餘為134.73億美元。"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p19_b20",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

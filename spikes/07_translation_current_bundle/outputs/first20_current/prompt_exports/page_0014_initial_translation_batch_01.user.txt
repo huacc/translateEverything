@@ -1,0 +1,100 @@
+﻿请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。
+要求高保真、正式、可出版，不要摘要，不要解释。
+术语表和动态文档背景优先于自由翻译。
+只输出严格 JSON。
+{
+  "page_no": 14,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "relevant_terms": [
+    {
+      "source": "友邦保險",
+      "target": "AIA"
+    },
+    {
+      "source": "新業務價值",
+      "target": "new business value"
+    },
+    {
+      "source": "稅後營運溢利",
+      "target": "operating profit after tax"
+    },
+    {
+      "source": "有效保單組合",
+      "target": "in-force portfolio"
+    },
+    {
+      "source": "銀行保險",
+      "target": "bancassurance"
+    },
+    {
+      "source": "中國內地",
+      "target": "Mainland China"
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "p14_b4",
+      "block_type": "body",
+      "source_text": "友邦保險中國業務在2020年為本集團新業務價值帶來最大貢獻，並在2021年初表現卓越，與2020年同期比較，",
+      "line_count": 1,
+      "char_count": 54,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p14_b5",
+      "block_type": "body",
+      "source_text": "今年首兩個月錄得非常強勁的新業務價值增長。儘管2020年的9.68億美元新業務價值較2019年下降17%，但這主",
+      "line_count": 1,
+      "char_count": 56,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p14_b6",
+      "block_type": "body",
+      "source_text": "要由於2019冠狀病毒病在首季爆發初期新銷售有限所致。年內稅後營運溢利增長14%，主要是由於我們日益增長",
+      "line_count": 1,
+      "char_count": 52,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p14_b7",
+      "block_type": "label",
+      "source_text": "的有效保單組合及有利的理賠經驗。",
+      "line_count": 1,
+      "char_count": 16,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p14_b8",
+      "block_type": "body",
+      "source_text": "在2020年，我們成功獲得監管機搆批復，將上海分公司改建為中國內地首家外資獨資人身保險子公司。於2021年",
+      "line_count": 1,
+      "char_count": 53,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p14_b9",
+      "block_type": "body",
+      "source_text": "3月，我們已獲得中國銀行保險監督委員會批復，准予在四川省開業。四川省是中國內地以國內生產總值計的",
+      "line_count": 1,
+      "char_count": 48,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p14_b10",
+      "block_type": "body",
+      "source_text": "第六大省份，以人口計為第四大省，為友邦保險帶來重大的長期增長機遇。",
+      "line_count": 1,
+      "char_count": 33,
+      "region": "middle",
+      "font_size_avg": 9.0
+    }
+  ]
+}

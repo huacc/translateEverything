@@ -1,0 +1,21 @@
+{
+  "content": [
+    {
+      "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p12_b1\",\n      \"translation\": \"Overview\"\n    },\n    {\n      \"block_id\": \"p12_b2\",\n      \"translation\": \"CEO & President's Report\"\n    },\n    {\n      \"block_id\": \"p12_b3\",\n      \"translation\": \"AIA delivered exceptionally strong results, reflecting outstanding\"\n    },\n    {\n      \"block_id\": \"p12_b4\",\n      \"translation\": \"team performance. I'm proud of how our employees have\"\n    },\n    {\n      \"block_id\": \"p12_b5\",\n      \"translation\": \"responded swiftly and flexibly to the changing environment.\"\n    },\n    {\n      \"block_id\": \"p12_b6\",\n      \"translation\": \"With unwavering commitment, we helped customers navigate uncertainty\"\n    },\n    {\n      \"block_id\": \"p12_b7\",\n      \"translation\": \"while accelerating strategic initiatives.\"\n    },\n    {\n      \"block_id\": \"p12_b8\",\n      \"translation\": \"Mr. Lee Yuen Shing\\nCEO & President\"\n    },\n    {\n      \"block_id\": \"p12_b9\",\n      \"translation\": \"010 AIA Group Limited\"\n    }\n  ]\n}\n```",
+      "type": "text"
+    }
+  ],
+  "conversationId": "c5cd6d34-37f6-4bae-843f-e438b0c0e732",
+  "conversation_id": "c5cd6d34-37f6-4bae-843f-e438b0c0e732",
+  "id": "c5cd6d34-37f6-4bae-843f-e438b0c0e732",
+  "model": "claude-3-5-sonnet-20241022",
+  "role": "assistant",
+  "stop_reason": "end_turn",
+  "type": "message",
+  "usage": {
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1580,
+    "output_tokens": 293
+  }
+}

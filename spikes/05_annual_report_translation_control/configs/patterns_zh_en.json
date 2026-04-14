@@ -1,0 +1,28 @@
+{
+  "schema_id": "annual_report_pattern_rules_v1",
+  "preserve_fullmatch_patterns": [
+    "^[\\d\\s,\\.\\-()%+/–—]+$"
+  ],
+  "regex_templates": [
+    {
+      "name": "annual_report_year",
+      "pattern": "^(?P<year>\\d{4})年報$",
+      "template": "{year} Annual Report"
+    },
+    {
+      "name": "calendar_date",
+      "pattern": "^(?P<year>\\d{4})年\\s*(?P<month>\\d{1,2})月\\s*(?P<day>\\d{1,2})日$",
+      "template": "{month_name} {day}, {year}"
+    },
+    {
+      "name": "as_of_date",
+      "pattern": "^截至(?P<year>\\d{4})年\\s*(?P<month>\\d{1,2})月\\s*(?P<day>\\d{1,2})日$",
+      "template": "As of {month_name} {day}, {year}"
+    },
+    {
+      "name": "year_ended_date",
+      "pattern": "^截至(?P<year>\\d{4})年\\s*(?P<month>\\d{1,2})月\\s*(?P<day>\\d{1,2})日\\s*止年度$",
+      "template": "Year ended {month_name} {day}, {year}"
+    }
+  ]
+}

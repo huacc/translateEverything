@@ -1,0 +1,47 @@
+﻿以下文本块版面过紧。请在不改变核心含义和正式风格的前提下，仅做最小必要压缩。
+不要摘要，不要解释，只输出严格 JSON。
+{
+  "page_no": 1,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "problem_blocks": [
+    {
+      "block_id": "p1_b2",
+      "block_type": "label",
+      "source_text": "健康、長久、好生活",
+      "current_translation": "Healthier, Longer, Better Lives",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.35,
+      "line_count": 1,
+      "char_count": 9,
+      "bbox": [
+        76.54,
+        632.59,
+        537.06,
+        714.19
+      ],
+      "font_size_avg": 59.4,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p1_b3",
+      "block_type": "body",
+      "source_text": "友邦保險控股有限公司 AIA GROUP LIMITED\n2020 年報",
+      "current_translation": "AIA GROUP LIMITED\n2020 Annual Report",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.581,
+      "line_count": 2,
+      "char_count": 36,
+      "bbox": [
+        83.47,
+        772.3,
+        251.1,
+        806.03
+      ],
+      "font_size_avg": 12.57,
+      "suggested_font": "F_ARIALNB"
+    }
+  ]
+}

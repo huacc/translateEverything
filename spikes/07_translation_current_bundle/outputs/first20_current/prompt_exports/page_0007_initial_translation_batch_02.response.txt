@@ -1,0 +1,38 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p7_b9",
+      "translation": "AIA Establishes Wholly-owned Life Insurance\nSubsidiary in Mainland China"
+    },
+    {
+      "block_id": "p7_b10",
+      "translation": "AIA successfully converted its Mainland China business into the first life"
+    },
+    {
+      "block_id": "p7_b11",
+      "translation": "insurance subsidiary in October 2020, with the relevant approval obtained"
+    },
+    {
+      "block_id": "p7_b12",
+      "translation": "in June 2020. In March 2021, we received approval from the China Banking"
+    },
+    {
+      "block_id": "p7_b13",
+      "translation": "and Insurance Regulatory Commission to commence operations in Sichuan"
+    },
+    {
+      "block_id": "p7_b14",
+      "translation": "Province."
+    },
+    {
+      "block_id": "p7_b15",
+      "translation": "AIA Ranked First in Million Dollar Round Table\nfor Sixth Consecutive Year"
+    },
+    {
+      "block_id": "p7_b16",
+      "translation": "AIA became the only multinational company globally to rank first consecutively"
+    }
+  ]
+}
+```

@@ -1,0 +1,38 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p18_b3",
+      "translation": "Despite an unprecedented business and macroeconomic environment in 2020, AIA achieved"
+    },
+    {
+      "block_id": "p18_b4",
+      "translation": "strong financial performance. While new business value was impacted by mobility restrictions"
+    },
+    {
+      "block_id": "p18_b5",
+      "translation": "resulting from the global pandemic, we recorded solid growth in operating profit after tax, free surplus"
+    },
+    {
+      "block_id": "p18_b6",
+      "translation": "generated and embedded value equity. Our financial position remained very robust,"
+    },
+    {
+      "block_id": "p18_b7",
+      "translation": "enabling us to continue investing in numerous growth opportunities."
+    },
+    {
+      "block_id": "p18_b8",
+      "translation": "Growth rates and commentary are provided on a constant exchange rate basis."
+    },
+    {
+      "block_id": "p18_b9",
+      "translation": "Overview and Key Financial Summary"
+    },
+    {
+      "block_id": "p18_b10",
+      "translation": "In 2020, AIA delivered strong financial performance amid an unprecedented business and macroeconomic environment brought about by the global pandemic. Despite mobility restrictions resulting in"
+    }
+  ]
+}
+```

@@ -1,0 +1,21 @@
+{
+  "content": [
+    {
+      "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p9_b1\",\n      \"translation\": \"2020 Market Segment\"\n    },\n    {\n      \"block_id\": \"p9_b2\",\n      \"translation\": \"New Business Value(2)(7)\"\n    },\n    {\n      \"block_id\": \"p9_b3\",\n      \"translation\": \"Annualized New Premium(3)\"\n    },\n    {\n      \"block_id\": \"p9_b5\",\n      \"translation\": \"17%\"\n    },\n    {\n      \"block_id\": \"p9_b6\",\n      \"translation\": \"23%\"\n    },\n    {\n      \"block_id\": \"p9_b7\",\n      \"translation\": \"25%\"\n    },\n    {\n      \"block_id\": \"p9_b8\",\n      \"translation\": \"32%\"\n    },\n    {\n      \"block_id\": \"p9_b9\",\n      \"translation\": \"7%\"\n    },\n    {\n      \"block_id\": \"p9_b10\",\n      \"translation\": \"7%\"\n    },\n    {\n      \"block_id\": \"p9_b11\",\n      \"translation\": \"11%\"\n    },\n    {\n      \"block_id\": \"p9_b12\",\n      \"translation\": \"22%\"\n    },\n    {\n      \"block_id\": \"p9_b13\",\n      \"translation\": \"10%\"\n    },\n    {\n      \"block_id\": \"p9_b14\",\n      \"translation\": \"18%\\n15%\"\n    },\n    {\n      \"block_id\": \"p9_b15\",\n      \"translation\": \"13%\"\n    },\n    {\n      \"block_id\": \"p9_b16\",\n      \"translation\": \"Operating Profit After Tax(4)\"\n    },\n    {\n      \"block_id\": \"p9_b17\",\n      \"translation\": \"Total Weighted Premium(5)\"\n    },\n    {\n      \"block_id\": \"p9_b19\",\n      \"translation\": \"16%\"\n    },\n    {\n      \"block_id\": \"p9_b20\",\n      \"translation\": \"21%\"\n    },\n    {\n      \"block_id\": \"p9_b21\",\n      \"translation\": \"20%\"\n    },\n    {\n      \"block_id\": \"p9_b22\",\n      \"translation\": \"10%\"\n    },\n    {\n      \"block_id\": \"p9_b23\",\n      \"translation\": \"6%\"\n    },\n    {\n      \"block_id\": \"p9_b24\",\n      \"translation\": \"9%\"\n    },\n    {\n      \"block_id\": \"p9_b25\",\n      \"translation\": \"37%\"\n    },\n    {\n      \"block_id\": \"p9_b26\",\n      \"translation\": \"35%\\n17%\"\n    },\n    {\n      \"block_id\": \"p9_b27\",\n      \"translation\": \"12%\"\n    },\n    {\n      \"block_id\": \"p9_b28\",\n      \"translation\": \"Mainland China\\nThailand\\nSingapore\\nMalaysia\\nOther Markets\\nHK\"\n    },\n    {\n      \"block_id\": \"p9_b30\",\n      \"translation\": \"(7) New Business Value includes retirement business on local statutory basis, before unallocated group head office expenses and non-controlling interests.\"\n    },\n    {\n      \"block_id\": \"p9_b34\",\n      \"translation\": \"(3) Annualized New Premium measures new business volume: 100% of annualized first year premiums plus 10% of single premiums, before reinsurance ceded.\"\n    },\n    {\n      \"block_id\": \"p9_b35\",\n      \"translation\": \"(4) Operating profit after tax is net of non-controlling interests.\"\n    },\n    {\n      \"block_id\": \"p9_b38\",\n      \"translation\": \"(6) Embedded Value is the estimated economic value of life insurance business using actuarial methods based on specific assumptions about future experience, excluding future new business value. Embedded Value equity equals embedded value plus goodwill and intangible assets.\"\n    },\n    {\n      \"block_id\": \"p9_b39\",\n      \"translation\": \"2020 Report\\n007\"\n    }\n  ]\n}\n```",
+      "type": "text"
+    }
+  ],
+  "conversationId": "0b4a6e21-ecaf-4795-b270-f19780b4fb39",
+  "conversation_id": "0b4a6e21-ecaf-4795-b270-f19780b4fb39",
+  "id": "0b4a6e21-ecaf-4795-b270-f19780b4fb39",
+  "model": "claude-3-5-sonnet-20241022",
+  "role": "assistant",
+  "stop_reason": "end_turn",
+  "type": "message",
+  "usage": {
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 4582,
+    "output_tokens": 931
+  }
+}

@@ -1,0 +1,37 @@
+文档场景：上市公司企业年报
+page_no: 20
+unit_id: p20_b12
+unit_mode: single_block
+命中术语约束:
+[
+  {
+    "source": "馬來西亞",
+    "target": "Malaysia"
+  }
+]
+blocks:
+[
+  {
+    "block_id": "p20_b12",
+    "source_text": "馬來西亞\n222\n59.9%\n369\n258\n63.1%\n406\n(13)%\n(14)%"
+  }
+]
+joined_source_text:
+馬來西亞
+222
+59.9%
+369
+258
+63.1%
+406
+(13)%
+(14)%
+返回格式:
+{
+  "translations": [
+    {
+      "unit_id": "p20_b12",
+      "translation": "<译文>"
+    }
+  ]
+}

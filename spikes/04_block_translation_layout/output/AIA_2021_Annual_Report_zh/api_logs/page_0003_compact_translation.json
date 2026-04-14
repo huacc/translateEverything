@@ -1,0 +1,21 @@
+{
+  "content": [
+    {
+      "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p3_b2\",\n      \"translation\": \"Million Dollar\\nRound Table\\nGlobal Leader\"\n    },\n    {\n      \"block_id\": \"p3_b3\",\n      \"translation\": \"Only global company:\\nHQ in Hong Kong,\\nlisted in Hong Kong,\\n100% Asia-focused\"\n    },\n    {\n      \"block_id\": \"p3_b4\",\n      \"translation\": \"Largest company listed\\non Hong Kong Stock\\nExchange, HK registered\\nwith HK headquarters\"\n    },\n    {\n      \"block_id\": \"p3_b5\",\n      \"translation\": \"Only multinational leading\\nMillion Dollar Round Table\\nmembership 6 years running\"\n    },\n    {\n      \"block_id\": \"p3_b6\",\n      \"translation\": \"international life\\ninsurer\"\n    },\n    {\n      \"block_id\": \"p3_b7\",\n      \"translation\": \"Global Reach\"\n    },\n    {\n      \"block_id\": \"p3_b8\",\n      \"translation\": \"Serving 38M+\\nindividual policyholders\\nand 16M+ group\\ninsurance participants\"\n    },\n    {\n      \"block_id\": \"p3_b9\",\n      \"translation\": \"2020: Paid USD 16B+\\nin benefits and claims,\\nproviding essential\\nfinancial support\"\n    },\n    {\n      \"block_id\": \"p3_b10\",\n      \"translation\": \"Protecting Asia:\\nUSD 2T coverage\\nacross 18 markets\"\n    },\n    {\n      \"block_id\": \"p3_b11\",\n      \"translation\": \"2020 Report\\n001\"\n    }\n  ]\n}\n```",
+      "type": "text"
+    }
+  ],
+  "conversationId": "2a7de366-2bb5-4b97-8f23-b4217eead4b9",
+  "conversation_id": "2a7de366-2bb5-4b97-8f23-b4217eead4b9",
+  "id": "2a7de366-2bb5-4b97-8f23-b4217eead4b9",
+  "model": "claude-3-5-sonnet-20241022",
+  "role": "assistant",
+  "stop_reason": "end_turn",
+  "type": "message",
+  "usage": {
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1913,
+    "output_tokens": 387
+  }
+}

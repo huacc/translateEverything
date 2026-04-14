@@ -1,0 +1,34 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p19_b15",
+      "translation": "investment returns. As expected, the exceptional positive medical claims experience reported in the first half did not recur in the second half, but we continued to see this"
+    },
+    {
+      "block_id": "p19_b16",
+      "translation": "source contribute positively to the growth in operating profit after tax. With the normalization of lapse experience in AIA's Thailand business, the renewal rate improved in the second half, while the Group's renewal rate was 95%."
+    },
+    {
+      "block_id": "p19_b17",
+      "translation": ""
+    },
+    {
+      "block_id": "p19_b18",
+      "translation": "generated basic free surplus of US$5.843 billion, an increase of 7%, driven by the continued growth of our in-force portfolio and our active management thereof, which was"
+    },
+    {
+      "block_id": "p19_b19",
+      "translation": "sufficient to offset the expected decline in investment returns. As at 31 December 2020, the Group's financial position remained very strong, and after the payment of dividends of"
+    },
+    {
+      "block_id": "p19_b20",
+      "translation": "US$1.997 billion, free surplus was US$13.473 billion."
+    },
+    {
+      "block_id": "p19_b21",
+      "translation": "As at 31 December 2020, the solvency ratio of our principal operating company AIA Co. remained very strong at"
+    }
+  ]
+}
+```

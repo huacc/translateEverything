@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "compact",
+    "page_no": 10,
+    "unit_id": "p10_g01"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是年报英文压缩器，不是重译器。\n语言方向：Traditional Chinese -> English。\n你的任务只是对已有译文做最小必要压缩，以便回填原版面。\n禁止改变数字、单位、术语、专名、比较关系、主体和结论。\n标题不能改成正文，表头不能改成句子，不能输出口语化表达。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市公司企业年报\n{\n  \"document_background\": {\n    \"page_sections\": [\n      {\n        \"source_section\": \"主席報告\",\n        \"target_section\": \"Chairman's Statement\",\n        \"content_type\": \"chairman_statement\",\n        \"page_range\": [\n          10,\n          11\n        ]\n      }\n    ],\n    \"roles\": [\n      {\n        \"source\": \"謝仕榮先生\",\n        \"target\": \"Mr. Tse Sze-wing\",\n        \"role\": \"Independent Non-Executive Chairman\"\n      }\n    ],\n    \"terms\": [],\n    \"style_rules\": [\n      \"Use US$ for U.S. dollar amounts.\",\n      \"Keep listed-company annual report disclosure tone formal and publishable.\",\n      \"Do not change numbers, percentages, years, named entities or financial metric values.\",\n      \"For overview narrative, use full financial metric name plus abbreviation when provided.\",\n      \"For financial review and business metrics narrative, use established abbreviations when provided.\",\n      \"Prefer AIA China / AIA Hong Kong / AIA Macau over loose paraphrases when matched.\"\n    ]\n  },\n  \"current_unit\": {\n    \"page_no\": 10,\n    \"unit_id\": \"p10_g01\",\n    \"unit_mode\": \"semantic_group\",\n    \"slot_count\": 4,\n    \"source_text\": \"在過去一個世紀，友邦保險\\n於亞洲區內，為極需我們服務的\\n社區大眾提供保障而備受稱譽，\\n這令我們引以為榮。\",\n    \"current_translation\": \"Over the past century, AIA has earned recognition across Asia for providing protection to the communities we serve, and this is a source of great pride for us.\"\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p10_g01\",\n        \"translation\": \"<更紧凑译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p10_g01\",\n      \"translation\": \"Over the past century, AIA has earned recognition across Asia for providing protection to communities we serve, a source of great pride for us.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "ee5fbc44-4638-4bde-9844-405208f024b0",
+    "conversation_id": "ee5fbc44-4638-4bde-9844-405208f024b0",
+    "id": "ee5fbc44-4638-4bde-9844-405208f024b0",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 622,
+      "output_tokens": 65
+    }
+  }
+}

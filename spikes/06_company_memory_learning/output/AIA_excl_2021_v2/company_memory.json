@@ -1,0 +1,5351 @@
+{
+  "schema_id": "annual_report_company_memory_v1",
+  "company_name": "AIA Group",
+  "document_family": "annual_report",
+  "years": [
+    2020,
+    2022,
+    2023,
+    2024
+  ],
+  "exact_map": {
+    "US$ MILLIONS": "US$ MILLIONS",
+    "中國內地": "MAINLAND CHINA",
+    "主席報告": "CHAIRMAN’S STATEMENT",
+    "主要風險\n定義": "Principal Risk\nDefinition",
+    "代理隊伍": "AGENCY",
+    "企業管治": "CORPORATE GOVERNANCE",
+    "內涵價值權益": "EV EQUITY",
+    "其他市場": "OTHER MARKETS",
+    "具吸引力的主張": "COMPELLING PROPOSITIONS",
+    "友邦保險一覽": "AIA AT-A-GLANCE",
+    "友邦保險簡介": "ABOUT AIA",
+    "國際財務報告準則溢利": "IFRS PROFIT",
+    "國際財務報告準則資產負債表": "IFRS BALANCE SHEET",
+    "地區市場摘要": "GEOGRAPHICAL MARKET HIGHLIGHTS",
+    "夥伴分銷": "PARTNERSHIPS",
+    "年化新保費(2)": "ANNUALISED NEW PREMIUMS(2)",
+    "年化新保費(2)(7)": "ANNUALISED NEW PREMIUMS(2)(7)",
+    "我們的團隊": "OUR PEOPLE",
+    "技術、數碼及分析": "TECHNOLOGY, DIGITAL AND ANALYTICS",
+    "按分部劃分的新業務價值、年化新保費及利潤率": "VONB, ANP and Margin by Segment",
+    "按年變動\n（固定匯率）": "YoY\nCER",
+    "按年變動\n（實質匯率）": "YoY\nAER",
+    "新加坡": "SINGAPORE",
+    "新業務價值(1)(6)": "VALUE OF NEW BUSINESS(1)(6)",
+    "新業務價值(1)(7)": "VALUE OF NEW BUSINESS(1)(7)",
+    "新業務表現": "NEW BUSINESS PERFORMANCE",
+    "未來的組織": "ORGANISATION OF THE FUTURE",
+    "業務回顧": "BUSINESS REVIEW",
+    "概要及主要業務摘要": "SUMMARY AND KEY BUSINESS HIGHLIGHTS",
+    "概要及主要財務摘要": "SUMMARY AND KEY FINANCIAL HIGHLIGHTS",
+    "概覽": "OVERVIEW",
+    "概覽\n財務及營運回顧\n企業管治\n其他資料\n財務報表": "OVERVIEW\nFINANCIAL AND OPERATING REVIEW\nCORPORATE GOVERNANCE\nFINANCIAL STATEMENTS\nADDITIONAL INFORMATION",
+    "泰國": "THAILAND",
+    "無可比擬的分銷平台": "UNRIVALLED DISTRIBUTION",
+    "獨立非執行董事": "INDEPENDENT NON-EXECUTIVE DIRECTORS",
+    "百萬美元": "US$\nmillions",
+    "百萬美元，除另有說明外": "Percentage",
+    "監管及國際發展": "REGULATORY AND INTERNATIONAL\nDEVELOPMENTS",
+    "目錄": "CONTENTS",
+    "稅後營運溢利(3)": "OPERATING PROFIT AFTER TAX(3)",
+    "總加權保費收入(4)": "TOTAL WEIGHTED PREMIUM INCOME(4)",
+    "董事責任聲明": "STATEMENT OF DIRECTORS’ RESPONSIBILITIES",
+    "財務及營運回顧": "FINANCIAL AND OPERATING REVIEW",
+    "財務及營運回顧\n我們的團隊": "FINANCIAL AND OPERATING REVIEW\nOUR PEOPLE",
+    "財務及營運回顧\n業務回顧": "FINANCIAL AND OPERATING REVIEW\nBUSINESS REVIEW",
+    "資本": "CAPITAL",
+    "附註：": "financial statements.",
+    "集團首席執行官兼總裁報告": "GROUP CHIEF EXECUTIVE AND\nPRESIDENT’S REPORT",
+    "領先同儕的客戶體驗": "LEADING CUSTOMER EXPERIENCE",
+    "風險控制": "RISK CONTROL",
+    "風險管理": "RISK MANAGEMENT",
+    "風險管理文化": "RISK CULTURE",
+    "香港": "HONG KONG",
+    "馬來西亞": "MALAYSIA"
+  },
+  "line_map": {
+    "主席報告": "CHAIRMAN’S STATEMENT",
+    "企業管治": "CORPORATE GOVERNANCE",
+    "友邦保險一覽": "AIA AT-A-GLANCE",
+    "我們的團隊": "OUR PEOPLE",
+    "業務回顧": "BUSINESS REVIEW",
+    "目錄": "CONTENTS",
+    "董事會": "BOARD OF DIRECTORS",
+    "董事責任聲明": "STATEMENT OF DIRECTORS’ RESPONSIBILITIES",
+    "財務及營運回顧": "FINANCIAL AND OPERATING REVIEW",
+    "風險管理": "RISK MANAGEMENT"
+  },
+  "term_map": {
+    "US$ MILLIONS": "US$ MILLIONS",
+    "中國內地": "MAINLAND CHINA",
+    "主席報告": "CHAIRMAN’S STATEMENT",
+    "代理隊伍": "AGENCY",
+    "企業管治": "CORPORATE GOVERNANCE",
+    "內涵價值權益": "EV EQUITY",
+    "其他市場": "OTHER MARKETS",
+    "具吸引力的主張": "COMPELLING PROPOSITIONS",
+    "友邦保險一覽": "AIA AT-A-GLANCE",
+    "友邦保險簡介": "ABOUT AIA",
+    "合併財務狀況表": "Assets",
+    "國際財務報告準則溢利": "IFRS PROFIT",
+    "國際財務報告準則資產負債表": "IFRS BALANCE SHEET",
+    "地區市場摘要": "GEOGRAPHICAL MARKET HIGHLIGHTS",
+    "夥伴分銷": "PARTNERSHIPS",
+    "年化新保費(2)": "ANNUALISED NEW PREMIUMS(2)",
+    "年化新保費(2)(7)": "ANNUALISED NEW PREMIUMS(2)(7)",
+    "我們的團隊": "OUR PEOPLE",
+    "技術、數碼及分析": "TECHNOLOGY, DIGITAL AND ANALYTICS",
+    "按分部劃分的新業務價值、年化新保費及利潤率": "VONB, ANP and Margin by Segment",
+    "新加坡": "SINGAPORE",
+    "新業務價值(1)(6)": "VALUE OF NEW BUSINESS(1)(6)",
+    "新業務價值(1)(7)": "VALUE OF NEW BUSINESS(1)(7)",
+    "新業務表現": "NEW BUSINESS PERFORMANCE",
+    "未來的組織": "ORGANISATION OF THE FUTURE",
+    "業務回顧": "BUSINESS REVIEW",
+    "概要及主要業務摘要": "SUMMARY AND KEY BUSINESS HIGHLIGHTS",
+    "概要及主要財務摘要": "SUMMARY AND KEY FINANCIAL HIGHLIGHTS",
+    "概覽": "OVERVIEW",
+    "權益": "Movement in Shareholders’ Equity",
+    "泰國": "THAILAND",
+    "無可比擬的分銷平台": "UNRIVALLED DISTRIBUTION",
+    "營運風險委員會及財務風險委員會": "RISK CULTURE",
+    "獨立非執行董事": "INDEPENDENT NON-EXECUTIVE DIRECTORS",
+    "百萬美元，除另有說明外": "Percentage",
+    "目錄": "CONTENTS",
+    "稅後營運溢利(3)": "OPERATING PROFIT AFTER TAX(3)",
+    "總加權保費收入(4)": "TOTAL WEIGHTED PREMIUM INCOME(4)",
+    "董事會": "BOARD OF DIRECTORS",
+    "董事責任聲明": "STATEMENT OF DIRECTORS’ RESPONSIBILITIES",
+    "觀點均得到適當考慮。": "RISK DISCLOSURE",
+    "負債": "Equity",
+    "財務及營運回顧": "FINANCIAL AND OPERATING REVIEW",
+    "資本": "CAPITAL",
+    "資產": "Liabilities",
+    "附註：": "financial statements.",
+    "集團首席財務總監回顧": "Total Investments",
+    "領先同儕的客戶體驗": "LEADING CUSTOMER EXPERIENCE",
+    "風險原則及風險承受水平": "Risk Principles",
+    "風險控制": "RISK CONTROL",
+    "風險格局": "Operational Risk",
+    "風險管理": "RISK MANAGEMENT",
+    "風險管理文化": "RISK CULTURE",
+    "香港": "HONG KONG",
+    "馬來西亞": "MALAYSIA"
+  },
+  "style_hints": [
+    "优先沿用该公司历史年报中已经稳定出现的栏目标题、导航名和管理层头衔译法。",
+    "若当前页面与历史年报中的页面形态接近，应优先参考该公司惯用的标题长度、表格标签写法和正式披露语气。",
+    "公司历史记忆仅作为软约束，不能覆盖当前 PDF 中真实抽取到的数字、页内结构和文本边界。"
+  ],
+  "page_archetypes": {
+    "dense_narrative": {
+      "count": 167,
+      "examples": [
+        {
+          "year": 2020,
+          "page_no": 3,
+          "heading": "",
+          "text_block_count": 23,
+          "image_count": 3
+        },
+        {
+          "year": 2020,
+          "page_no": 10,
+          "heading": "主席報告",
+          "text_block_count": 28,
+          "image_count": 0
+        },
+        {
+          "year": 2020,
+          "page_no": 11,
+          "heading": "",
+          "text_block_count": 13,
+          "image_count": 1
+        },
+        {
+          "year": 2020,
+          "page_no": 12,
+          "heading": "",
+          "text_block_count": 20,
+          "image_count": 0
+        },
+        {
+          "year": 2020,
+          "page_no": 14,
+          "heading": "",
+          "text_block_count": 28,
+          "image_count": 0
+        },
+        {
+          "year": 2020,
+          "page_no": 15,
+          "heading": "",
+          "text_block_count": 29,
+          "image_count": 0
+        }
+      ]
+    },
+    "table_dense": {
+      "count": 87,
+      "examples": [
+        {
+          "year": 2020,
+          "page_no": 7,
+          "heading": "目錄",
+          "text_block_count": 34,
+          "image_count": 1
+        },
+        {
+          "year": 2020,
+          "page_no": 8,
+          "heading": "2019年業績一覽(1)",
+          "text_block_count": 105,
+          "image_count": 0
+        },
+        {
+          "year": 2020,
+          "page_no": 9,
+          "heading": "2019年按市場分部劃分",
+          "text_block_count": 40,
+          "image_count": 0
+        },
+        {
+          "year": 2020,
+          "page_no": 24,
+          "heading": "",
+          "text_block_count": 30,
+          "image_count": 0
+        },
+        {
+          "year": 2020,
+          "page_no": 26,
+          "heading": "",
+          "text_block_count": 27,
+          "image_count": 0
+        },
+        {
+          "year": 2020,
+          "page_no": 27,
+          "heading": "",
+          "text_block_count": 45,
+          "image_count": 0
+        }
+      ]
+    },
+    "showcase_narrative": {
+      "count": 33,
+      "examples": [
+        {
+          "year": 2020,
+          "page_no": 2,
+          "heading": "",
+          "text_block_count": 10,
+          "image_count": 1
+        },
+        {
+          "year": 2020,
+          "page_no": 4,
+          "heading": "",
+          "text_block_count": 3,
+          "image_count": 5
+        },
+        {
+          "year": 2020,
+          "page_no": 5,
+          "heading": "",
+          "text_block_count": 13,
+          "image_count": 4
+        },
+        {
+          "year": 2020,
+          "page_no": 6,
+          "heading": "",
+          "text_block_count": 12,
+          "image_count": 1
+        },
+        {
+          "year": 2020,
+          "page_no": 13,
+          "heading": "集團首席執行官兼總裁報告",
+          "text_block_count": 13,
+          "image_count": 1
+        },
+        {
+          "year": 2020,
+          "page_no": 20,
+          "heading": "",
+          "text_block_count": 11,
+          "image_count": 1
+        }
+      ]
+    },
+    "contents_like": {
+      "count": 21,
+      "examples": [
+        {
+          "year": 2020,
+          "page_no": 60,
+          "heading": "風險管理",
+          "text_block_count": 32,
+          "image_count": 0
+        },
+        {
+          "year": 2020,
+          "page_no": 65,
+          "heading": "",
+          "text_block_count": 27,
+          "image_count": 0
+        },
+        {
+          "year": 2022,
+          "page_no": 2,
+          "heading": "",
+          "text_block_count": 29,
+          "image_count": 1
+        },
+        {
+          "year": 2022,
+          "page_no": 5,
+          "heading": "",
+          "text_block_count": 28,
+          "image_count": 4
+        },
+        {
+          "year": 2022,
+          "page_no": 6,
+          "heading": "2021年摘要",
+          "text_block_count": 29,
+          "image_count": 3
+        },
+        {
+          "year": 2022,
+          "page_no": 7,
+          "heading": "",
+          "text_block_count": 22,
+          "image_count": 3
+        }
+      ]
+    },
+    "section_lead": {
+      "count": 8,
+      "examples": [
+        {
+          "year": 2020,
+          "page_no": 19,
+          "heading": "財務及營運回顧\n財務及營運回顧",
+          "text_block_count": 7,
+          "image_count": 0
+        },
+        {
+          "year": 2020,
+          "page_no": 74,
+          "heading": "企業管治\n企業管治",
+          "text_block_count": 8,
+          "image_count": 0
+        },
+        {
+          "year": 2020,
+          "page_no": 75,
+          "heading": "董事責任聲明",
+          "text_block_count": 17,
+          "image_count": 0
+        },
+        {
+          "year": 2022,
+          "page_no": 23,
+          "heading": "財務及營運回顧",
+          "text_block_count": 7,
+          "image_count": 0
+        },
+        {
+          "year": 2022,
+          "page_no": 74,
+          "heading": "企業管治",
+          "text_block_count": 8,
+          "image_count": 0
+        },
+        {
+          "year": 2023,
+          "page_no": 27,
+          "heading": "財務及營運回顧",
+          "text_block_count": 7,
+          "image_count": 0
+        }
+      ]
+    },
+    "cover_like": {
+      "count": 4,
+      "examples": [
+        {
+          "year": 2020,
+          "page_no": 1,
+          "heading": "",
+          "text_block_count": 4,
+          "image_count": 5
+        },
+        {
+          "year": 2022,
+          "page_no": 1,
+          "heading": "",
+          "text_block_count": 5,
+          "image_count": 1
+        },
+        {
+          "year": 2023,
+          "page_no": 1,
+          "heading": "",
+          "text_block_count": 5,
+          "image_count": 7
+        },
+        {
+          "year": 2024,
+          "page_no": 1,
+          "heading": "",
+          "text_block_count": 6,
+          "image_count": 1
+        }
+      ]
+    }
+  },
+  "layout_priors": {
+    "body": {
+      "count": 3901,
+      "font_size_avg": 9.09,
+      "font_size_median": 9.0,
+      "font_size_max": 86.25
+    },
+    "footer": {
+      "count": 392,
+      "font_size_avg": 7.63,
+      "font_size_median": 7.5,
+      "font_size_max": 11.5
+    },
+    "heading": {
+      "count": 56,
+      "font_size_avg": 20.39,
+      "font_size_median": 20.0,
+      "font_size_max": 36.0
+    },
+    "label": {
+      "count": 3384,
+      "font_size_avg": 10.22,
+      "font_size_median": 9.0,
+      "font_size_max": 156.0
+    },
+    "sidebar_nav": {
+      "count": 131,
+      "font_size_avg": 8.5,
+      "font_size_median": 8.5,
+      "font_size_max": 8.5
+    },
+    "table_row": {
+      "count": 735,
+      "font_size_avg": 8.42,
+      "font_size_median": 8.5,
+      "font_size_max": 9.25
+    }
+  },
+  "page_examples": [
+    {
+      "year": 2020,
+      "page_no": 1,
+      "archetype": "cover_like",
+      "heading": "",
+      "signatures": [
+        "leading with purpose",
+        "目標引領向前邁進",
+        "#年報",
+        "股份代號 #"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 2,
+      "archetype": "showcase_narrative",
+      "heading": "",
+      "signatures": [
+        "願景與目標",
+        "友邦保險簡介",
+        "附註：",
+        "(#) 本報告所使用的若干詞彙的解釋和縮寫已列明於詞彙章節。"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 3,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "我們設立有保薦一級 美國預託證券計劃。",
+        "intasco在香港及 新加坡成立分公司。",
+        "intasco將總部遷往 香港。"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 4,
+      "archetype": "showcase_narrative",
+      "heading": "",
+      "signatures": [
+        "目標引領 向前邁進"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 5,
+      "archetype": "showcase_narrative",
+      "heading": "",
+      "signatures": [
+        "友邦保險百年誌慶",
+        "友邦保險在中國內地 新增營銷服務部",
+        "友邦保險獲准在緬甸 經營業務"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 6,
+      "archetype": "showcase_narrative",
+      "heading": "",
+      "signatures": [
+        "友邦保險一覽",
+        "業務覆蓋 #個市場",
+        "於#年錄得"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 7,
+      "archetype": "table_dense",
+      "heading": "目錄",
+      "signatures": [
+        "目錄",
+        "概覽",
+        "# 財務摘要",
+        "# 主席報告",
+        "# 集團首席執行官兼總裁報告",
+        "財務及營運回顧",
+        "# 財務回顧",
+        "# 業務回顧"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 8,
+      "archetype": "table_dense",
+      "heading": "2019年業績一覽(1)",
+      "signatures": [
+        "概覽",
+        "#年業績一覽(#)",
+        "us$ millions",
+        "百萬美元",
+        "按年變動（實質匯率） 按年變動（固定匯率）",
+        "us$ billions",
+        "十億美元",
+        "總負債 +#%"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 9,
+      "archetype": "table_dense",
+      "heading": "2019年按市場分部劃分",
+      "signatures": [
+        "#年按市場分部劃分",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "新業務價值(#)(#)",
+        "年化新保費(#)",
+        "香港",
+        "中國內地",
+        "泰國",
+        "新加坡"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 10,
+      "archetype": "dense_narrative",
+      "heading": "主席報告",
+      "signatures": [
+        "概覽",
+        "主席報告",
+        "友邦保險在亞洲擁有悠久歷史，經歷多個不同的市場週期，",
+        "建立了穩健可靠的品牌。儘管面對充滿挑戰的經營環境，友邦保險",
+        "憑藉我們業務的實力和堅韌，以及友邦保險在亞太區內機遇的規模，",
+        "繼續在#年締造增長。",
+        "下，友邦保險的所有主要財務指標均繼續錄得增長。",
+        "增長率乃按固定匯率列示，以更清晰地說明相關業務按年的表現。"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 11,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "謝仕榮先生 獨立非執行主席",
+        "作出了重大和深遠的貢獻。",
+        "#年報 | #"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 12,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "概覽 主席報告",
+        "亞洲區內實踐其品牌承諾。",
+        "就資料私隱、網絡安全和道德營商手法，與高級管理層緊密協調。",
+        "地區，我們的業務團隊亦致力在這艱難的時刻支援我們所服務的社區。",
+        "長久好生活」。",
+        "謝仕榮",
+        "獨立非執行主席",
+        "#年#月#日"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 13,
+      "archetype": "showcase_narrative",
+      "heading": "集團首席執行官兼總裁報告",
+      "signatures": [
+        "集團首席執行官兼總裁報告",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "黃經輝(ng keng hooi)先生 集團首席執行官兼總裁",
+        "儘管面對充滿挑戰的經營環境，友邦保險的所有主要財務指標均",
+        "繼續錄得增長。",
+        "儲蓄產品的結構性需求日益增長。",
+        "務按年的表現。",
+        "#年報 | #"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 14,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "概覽",
+        "集團首席執行官兼總裁報告",
+        "會福利覆蓋偏低的情況。",
+        "帶來三贏局面。",
+        "繼續專注執行我們清晰的增長策略，維持我們的競爭優勢。",
+        "| 友邦保險控股有限公司 #"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 15,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "#年表現摘要（按固定匯率基準計算）",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "營運溢利則增加#%，並首次超出#億美元。",
+        "運溢利增加#%，惟部分被債券收益率下降及醫療理賠增加所抵銷。",
+        "人數增加和生產力提升。稅後營運溢利則增加#%。",
+        "監管變動所引起的營運開支增加所抵銷。",
+        "於#年#月投入營運。",
+        "#年報 | #"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 16,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "概覽 集團首席執行官兼總裁報告",
+        "集團概要",
+        "分銷",
+        "伴合作關係，並取得更佳的成果。",
+        "品牌和市場營銷",
+        "本集團的健康計劃會員總數超過#萬，較#年底增加#%。",
+        "的財務保障，為客戶締造價值。",
+        "| 友邦保險控股有限公司 #"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 17,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "技術及營運",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "務，提高生產力及優化體驗。",
+        "中，超過#%乃透過數碼形式遞交，而自動核保則佔#%。",
+        "的穩健程度。",
+        "以人為本",
+        "學習為本的協作文化。",
+        "保險是全球唯一一家獲此認證的人壽保險公司。"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 18,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "概覽 集團首席執行官兼總裁報告",
+        "前景",
+        "對個人收入的財務影響。",
+        "業務銷售造成顯著的影響。",
+        "庭和社區深表慰問。",
+        "邦保險產品的需求將會繼續增長。",
+        "卓越成果將會為我們的客戶、投資者、員工及社區締造重大價值。",
+        "達深切的謝意。"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 19,
+      "archetype": "section_lead",
+      "heading": "財務及營運回顧\n財務及營運回顧",
+      "signatures": [
+        "財務及營運回顧 財務及營運回顧",
+        "# 財務回顧",
+        "# 業務回顧",
+        "# 風險管理",
+        "# 監管及國際發展",
+        "# 我們的團隊",
+        "#年報 | #"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 20,
+      "archetype": "showcase_narrative",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "garth jones先生 集團首席財務總監",
+        "儘管經營環境充滿挑戰，但友邦保險於#年仍然錄得穩健表現，",
+        "各項主要財務指標均錄得持續增長。我們實現新業務價值增長、國際",
+        "財務報告準則稅後營運溢利的穩健增長以及所產生的基本自由盈餘及",
+        "內涵價值雙位數增長。",
+        "按固定匯率提供增長率及對營運表現作出評述。",
+        "| 友邦保險控股有限公司 #"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 21,
+      "archetype": "dense_narrative",
+      "heading": "財務回顧",
+      "signatures": [
+        "財務回顧",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "摘要及主要財務摘要",
+        "在審慎的財務管理下，投資於對我們具吸引力的機遇。",
+        "內涵價值",
+        "報的中國內地訪港旅客的下降大致一致。",
+        "#年報 | #"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 22,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧 財務回顧",
+        "務價值增加#%，而夥伴分銷的新業務價值增加#%。",
+        "稅收抵免增加所帶來的正面影響。",
+        "#.#億美元後列示。",
+        "國際財務報告準則盈利",
+        "銀行收購在澳洲及新西蘭的業務所帶動。",
+        "差異的負面影響。",
+        "| 友邦保險控股有限公司 #"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 23,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "營運溢利的增長相若，因此股東分配權益營運回報維持#.#%。",
+        "#.#億美元，惟部分被派付股息#.#億美元所抵銷。",
+        "資本及股息",
+        "額主要被中國內地稅務規定變更導致佣金稅收抵免增加的影響所抵銷。",
+        "#月#日的#.#億美元。",
+        "#年報 | #"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 24,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧 財務回顧",
+        "新業務表現",
+        "按分部劃分的新業務價值、年化新保費及利潤率",
+        "稅收抵免增加所帶來的正面影響。",
+        "| 友邦保險控股有限公司 #"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 25,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "務價值增加#%，而夥伴分銷的新業務價值增加#%。",
+        "由於銀行保險業務所佔比重上升所導致。",
+        "費銷售所抵銷。",
+        "支持。",
+        "配集團總部開支的現值及非控股權益應佔新業務價值。",
+        "務價值為#,#萬美元。",
+        "#年報 | #"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 26,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧 財務回顧",
+        "內涵價值權益",
+        "內涵價值營運溢利",
+        "涵價值。",
+        "期回報增長放緩所帶來的綜合影響。",
+        "每股內涵價值營運盈利 - 基本",
+        "每股內涵價值營運盈利 - 攤薄",
+        "內涵價值變動"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 27,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "內涵價值變動分析如下：",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "#年",
+        "(#) aia sovereign limited及其附屬公司(sovereign)的已收購內涵價值乃按#年#月#日的金額計算，此已扣除相關的再保險協議。",
+        "#年報 | #"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 28,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧 財務回顧",
+        "內涵價值權益",
+        "內涵價值及新業務價值敏感度",
+        "百萬美元，除另有說明外",
+        "股本價格變動的影響",
+        "利率變動的影響",
+        "詳細資料載列於內涵價值補充資料第#節。",
+        "| 友邦保險控股有限公司 #"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 29,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "國際財務報告準則溢利",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "按分部劃分的稅後營運溢利(#)",
+        "附註： (#) 僅為本公司股東應佔權益，不包括非控股權益。",
+        "投資的收益率，及有效分紅產品組合所產生的呈報溢利的影響而有所抵銷。",
+        "源及持續有利的營運經驗所帶動。",
+        "面醫療理賠經驗，及下半年新固定收入投資的收益率顯著下降而有所抵銷。",
+        "盈利能力而有所抵銷。"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 30,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧 財務回顧",
+        "監管變動所產生的較高營運開支，抵銷了新業務強勁增長對盈利的貢獻。",
+        "營運溢利的增長相若，因此股東分配權益營運回報維持#.#%。",
+        "按分部劃分的總加權保費收入",
+        "總加權保費收入較#年增加#%至#.#億美元。",
+        "國際財務報告準則營運溢利投資回報",
+        "營運開支",
+        "| 友邦保險控股有限公司 #"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 31,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "純利(#)",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "附註： (#) 僅為本公司股東應佔權益，不包括非控股權益。",
+        "國際財務報告準則非營運變動",
+        "#,#萬美元。",
+        "股東分配權益變動",
+        "#年報 | #"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 32,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧 財務回顧",
+        "包括可供出售債券按國際財務報告準則進行的會計處理的市值調整。",
+        "則為#.#億美元。",
+        "億美元，惟部分被派付股息#.#億美元所抵銷。",
+        "對匯率、利率及股本價格變動的敏感度載於財務報表附註#。",
+        "國際財務報告準則每股盈利",
+        "#.#美仙。",
+        "國際財務報告準則每股盈利 - 基本"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 33,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "資本",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "自由盈餘產生",
+        "以令本集團可以投資新業務，善用非內部機遇及應對資本市場壓力帶來的影響。",
+        "的影響所抵銷。",
+        "#年#月#日的#.#億美元。",
+        "下表概述自由盈餘變動：",
+        "附註： (#) 經計及再保險的影響。"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 34,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧 財務回顧",
+        "集團企業中心淨資金流",
+        "#日的#.#億美元。",
+        "較低的#年其他市場匯款。",
+        "營運資金變動概述如下：",
+        "來自業務單位的匯款淨額",
+        "附註： (#) 指早前所公佈的初次支付款項#.#億澳元。",
+        "| 友邦保險控股有限公司 #"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 35,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "國際財務報告準則資產負債表",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "合併財務狀況表",
+        "資產",
+        "負債",
+        "權益",
+        "#年報 | #"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 36,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧 財務回顧",
+        "股東權益變動",
+        "總投資",
+        "如下所示，投資組合於年內保持穩定：",
+        "單位連結式合約及合併投資基金",
+        "| 友邦保險控股有限公司 #"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 37,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "保單持有人及股東投資",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "分紅基金及具特定資產組合的其他分紅業務",
+        "其他保單持有人及股東",
+        "#年報 | #"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 38,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧 財務回顧",
+        "資產",
+        "料，以反映該業務的性質及更大規模。",
+        "#.#億美元為就單位連結式合約所持有及合併投資基金的資產。",
+        "整體平均信貸評級為a-，與#年#月#日一致。",
+        "券中，#.#億美元為分紅基金及具特定資產組合的其他分紅業務所持有。",
+        "| 友邦保險控股有限公司 #"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 39,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "為#.#億美元。",
+        "務增長。",
+        "加。",
+        "負債",
+        "#年#月#日則為#.#%。",
+        "承擔及或有事項的詳情載於財務報表附註#。",
+        "#年報 | #"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 40,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧 財務回顧",
+        "監管資本",
+        "於計入收購cmla及向本公司派付股息後仍然保持強勁。",
+        "aia co.的可用資本總額及償付能力充足率概述如下：",
+        "全球中期票據及證券計劃",
+        "發售包括年利率為#.#%的#.#億美元#年期票據。",
+        "及證券計劃下已發行債務的賬面值合共為#.#億美元。",
+        "| 友邦保險控股有限公司 #"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 41,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "信貸評級",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "展望評級由穩定修訂為樂觀。",
+        "股息",
+        "有關收購澳洲聯邦銀行在澳洲及新西蘭之人壽保險業務之更新",
+        "並包括與澳洲聯邦銀行#年的策略性銀行保險夥伴安排。",
+        "對潛在新客戶的覆蓋並達致有盈利的增長。",
+        "#年報 | #"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 42,
+      "archetype": "dense_narrative",
+      "heading": "業務回顧",
+      "signatures": [
+        "財務及營運回顧",
+        "業務回顧",
+        "分銷",
+        "代理隊伍",
+        "品和服務以滿足他們多元化的需求。",
+        "兩倍的活躍度，而且生產力亦顯著較高。",
+        "求透過以人為中心的設計方針，確保最佳的用戶體驗。",
+        "#%。友邦保險更成為連續五年擁有全球最多百萬圓桌會註冊會員的跨國公司。"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 43,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "夥伴分銷",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "區，顯著地擴大了我們可接觸的潛在新客戶，並為本集團提供巨大的增長機會。",
+        "的整體夥伴分銷業務的新業務價值在#年增長#%。",
+        "關係。",
+        "客戶整付保費業務維持嚴格的定價原則，導致新業務價值亦錄得跌幅。",
+        "整個集團進一步擴展並增強這些工具。",
+        "附註："
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 44,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧 業務回顧",
+        "市場營銷",
+        "保險集團，擁有亞洲首屈一指的壽險品牌，並深受數以百萬計客戶信賴。",
+        "客戶的終身夥伴",
+        "水平，提升治療效果，以及帶動重複銷售增長。",
+        "改善至健康水平。",
+        "客戶聯繫",
+        "買率最少三倍。"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 45,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "健康、長久、好生活",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "股東受惠。",
+        "取充足睡眠。",
+        "和社區人士直接互動。",
+        "和員工。",
+        "#年報 | #"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 46,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧 業務回顧",
+        "技術及營運",
+        "利用數碼化提升效率和客戶滿意度",
+        "量，並將該些服務相關的後勤業務流程自動化。",
+        "通過數碼形式遞交，其中#%申請以自動核保程序完成。",
+        "提供的保單通訊佔所有保單通訊的#%。",
+        "提高生產力和卓越服務",
+        "在#年#月推出以來，使用該程式的代理生產力顯著改善。"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 47,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "的時間則減少了#%。",
+        "推動創新及提升客戶體驗",
+        "理；以及在印尼、馬來西亞和泰國與medix合作推出個人醫療個案管理服務。",
+        "率。",
+        "加強數據安全",
+        "新的內部取證調查能力。",
+        "#年報 | #"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 48,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧 業務回顧 • 地區市場",
+        "香港",
+        "財務摘要",
+        "益投資收益率減少，並影響我們的有效分紅產品組合所產生的盈利。",
+        "業務摘要",
+        "年與該計劃整合的產品錄得超過#%的新業務價值增長。",
+        "| 友邦保險控股有限公司 #"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 49,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "香港",
+        "新業務價值利潤率",
+        "百萬美元， 除另有說明外",
+        "#年報 | #"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 50,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧 業務回顧 • 地區市場",
+        "中國內地",
+        "財務摘要",
+        "元，並首次超過#億美元。",
+        "業務摘要",
+        "管提供指引，採用行之奏效及結構性更強的策略進行代理管理。",
+        "這些舉措使活躍代理人數錄得雙位數字的增長，並提升代理的生產力。",
+        "業務。"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 51,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "中國內地",
+        "新業務價值利潤率",
+        "百萬美元， 除另有說明外",
+        "#年報 | #"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 52,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧 業務回顧 • 地區市場",
+        "泰國",
+        "財務摘要",
+        "面醫療理賠經驗，以及新固定收入投資的收益率顯著下降所抵銷。",
+        "業務摘要",
+        "了「財務顧問」計劃帶來的強勁新業務價值增長。",
+        "網絡持續培訓駐分行保險專員及其他職員，提高該夥伴關係的生產力。",
+        "費所佔比重上升超過#%。這是保單續保率改善的關鍵因素之一。"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 53,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "泰國",
+        "新業務價值利潤率",
+        "百萬美元， 除另有說明外",
+        "#年報 | #"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 54,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧 業務回顧 • 地區市場",
+        "新加坡",
+        "財務摘要",
+        "業務摘要",
+        "| 友邦保險控股有限公司 #"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 55,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "新加坡",
+        "新業務價值利潤率",
+        "百萬美元， 除另有說明外",
+        "#年報 | #"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 56,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧 業務回顧 • 地區市場",
+        "馬來西亞",
+        "財務摘要",
+        "致相關業務的部分增長被醫療理賠上升所抵銷。",
+        "業務摘要",
+        "應用於所有新入職代理的申請。",
+        "| 友邦保險控股有限公司 #"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 57,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "馬來西亞",
+        "新業務價值利潤率",
+        "百萬美元， 除另有說明外",
+        "#年報 | #"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 58,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧 業務回顧 • 地區市場",
+        "其他市場",
+        "越南及印度。",
+        "及年化新保費亦無載於本節所示的#年比較數字。",
+        "財務摘要",
+        "的各種監管變動導致營運開支增加，抵銷了新業務強勁增長對盈利的部分貢獻。",
+        "業務摘要",
+        "#年。我們於#年#月開始通過澳洲聯邦銀行銷售產品。"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 59,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "價值錄得非常強勁的增長。",
+        "前景，並對消費信心帶來負面影響，使我們面對艱難的市場環境。",
+        "立財務顧問夥伴提供全面的銷售支援。",
+        "業務在純零售保障市場保持領導地位，而代理隊伍亦維持業內最高的生產力。",
+        "其他市場",
+        "新業務價值利潤率",
+        "百萬美元， 除另有說明外"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 60,
+      "archetype": "contents_like",
+      "heading": "風險管理",
+      "signatures": [
+        "財務及營運回顧",
+        "風險管理",
+        "概覽",
+        "保險業增長及增強業內公信力。",
+        "進一步評核。",
+        "本集團的風險管理架構包括以下主要組成部分：",
+        "• 風險治理；",
+        "• 風險管理文化；"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 61,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "風險治理",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "三道防線",
+        "職責。雖然各道防線彼此獨立，但卻緊密合作以確保有效監督。",
+        "風險。",
+        "董事會風險委員會，或適當時上呈董事會全體成員。",
+        "活動並確保對決策進行適當的管治，以及確保本集團秉持其固有之高標準。",
+        "三道防線於董事會匯集，由董事會對本集團的風險管理架構負上整體責任。"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 62,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧 風險管理",
+        "風險委員會架構",
+        "本集團的風險委員會架構旨在：",
+        "• 確保於本集團內一致地落實風險管理架構；",
+        "• 提供一套精簡的流程以適時識別、評估及呈報風險事宜；",
+        "• 提供對風險事宜的客觀分析，以助知情決策；及",
+        "• 確保於合適的平台上討論及質疑有關風險事宜，以獲得理想結果。",
+        "友邦保險控股有限公司董事會"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 63,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "風險管理文化",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "並確保其薪酬體制能倡導正當的行為。",
+        "問責",
+        "大多數情況下亦為其地區執行委員會的成員。",
+        "風險與合規組織架構列示如下：",
+        "集團首席執行官兼總裁",
+        "集團首席風險總監"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 64,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧 風險管理",
+        "風險管理策略",
+        "#. 風險胃納聲明陳述了集團面對風險的取態之總體意見；",
+        "#. 風險原則及風險承受水平分別是質化陳述和量化指標，",
+        "風險胃納聲明",
+        "用以擴展和驗證風險胃納聲明；及",
+        "風險原則及 風險承受水平",
+        "#. 風險控制及風險限額是用於管理特定的風險。"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 65,
+      "archetype": "contents_like",
+      "heading": "",
+      "signatures": [
+        "風險格局",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "營運風險",
+        "財務風險",
+        "責任風險",
+        "主要風險 相關風險",
+        "業務風險 結構風險",
+        "投資風險 保險風險"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 66,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧 風險管理",
+        "風險核保",
+        "會對其進行識別、量化和管理，以助創造長期價值。",
+        "識別",
+        "量化",
+        "特定的風險量化方法，其中包括定期資本評估以及壓力和情景測試等。",
+        "核保決策",
+        "風險概況的影響。"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 67,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "風險控制",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "觀點均得到適當考慮。",
+        "風險披露",
+        "主要決策。",
+        "及償付能力評估報告亦須給予風險委員會以供年度審閱。",
+        "風險管理架構的執行",
+        "風險和營運風險；"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 68,
+      "archetype": "dense_narrative",
+      "heading": "監管及國際發展",
+      "signatures": [
+        "財務及營運回顧",
+        "監管及國際發展",
+        "標準及指引；",
+        "• 在五年監測期內制定保險資本標準；及",
+        "• 採納整體框架以評估系統性風險（整體框架）。",
+        "保險資本標準將分兩階段制定及實施：",
+        "報。",
+        "起生效。"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 69,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "日，該申請仍待中國銀行保險監督管理委員會批准。",
+        "會計準則",
+        "賃」：",
+        "合併財務報表並無重大財務影響，但需作出額外披露。",
+        "#年報 | #"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 70,
+      "archetype": "dense_narrative",
+      "heading": "我們的團隊",
+      "signatures": [
+        "財務及營運回顧",
+        "我們的團隊",
+        "友邦保險是一家以人才為本的公司。",
+        "發展人才",
+        "活動，從中累積知識和技能。",
+        "友邦保險的業務發展。",
+        "#年及其後陸續推出的新課程。",
+        "進一步鞏固和營造我們的公司文化，優化員工的長期發展計劃。"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 71,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "#年報 | #"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 72,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧 我們的團隊",
+        "表揚和獎勵員工表現",
+        "保險實現各種短期和長期的業務目標。",
+        "不但關注員工的成就，同時亦關注員工如何實現目標。",
+        "檢查。",
+        "計劃的人數，均上升至該計劃推出以來的最高水平。",
+        "凝聚我們的團隊",
+        "參與水平。"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 73,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "傑出僱主嘉許",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "在#年亦獲納入該指數。",
+        "險是目前世界上唯一獲得此項認證的人壽保險公司。",
+        "計劃（此前稱為「怡安最佳僱主計劃」）亦獲亞太區「最佳僱主」殊榮。",
+        "「女性最佳職場」之一。",
+        "現代化工作方式",
+        "附註： (#) 不包括友邦保險緬甸和tata aia life。"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 74,
+      "archetype": "section_lead",
+      "heading": "企業管治\n企業管治",
+      "signatures": [
+        "企業管治 企業管治",
+        "# 董事責任聲明",
+        "# 董事會",
+        "# 執行委員會",
+        "# 董事會報告",
+        "# 企業管治報告",
+        "# 薪酬報告",
+        "| 友邦保險控股有限公司 #"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 75,
+      "archetype": "section_lead",
+      "heading": "董事責任聲明",
+      "signatures": [
+        "董事責任聲明",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "董事負責根據適用法例及規例編製本公司的合併財務報表。",
+        "在編製本公司的合併財務報表時，董事須：",
+        "• 選用合適的會計政策然後貫徹採用；",
+        "• 作出合理及審慎的判斷及估計；",
+        "• 說明財務報表是否根據香港財務報告準則及國際財務報告準則編製；及",
+        "• 按持續經營基準編製財務報表，除非假定本集團將持續經營業務乃屬不當。"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 76,
+      "archetype": "showcase_narrative",
+      "heading": "董事會",
+      "signatures": [
+        "企業管治",
+        "董事會",
+        "| 友邦保險控股有限公司 #"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 77,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "#年報 | #"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 78,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "企業管治 董事會",
+        "獨立非執行主席及獨立非執行董事",
+        "謝仕榮先生",
+        "大會有史以來首個終身成就獎，表彰其對保險業的傑出貢獻。",
+        "執行董事、集團首席執行官兼總裁",
+        "ng keng hooi（黃經輝）先生",
+        "| 友邦保險控股有限公司 #"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 79,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "獨立非執行董事",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "蘇澤光先生",
+        "周松崗先生",
+        "#年報 | #"
+      ]
+    },
+    {
+      "year": 2020,
+      "page_no": 80,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "企業管治 董事會",
+        "john barrie harrison先生",
+        "楊榮文先生",
+        "| 友邦保險控股有限公司 #"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 1,
+      "archetype": "cover_like",
+      "heading": "",
+      "signatures": [
+        "友邦保險控股有限公司 aia group limited",
+        "股份代號 #",
+        "living our",
+        "實踐我們的目標"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 2,
+      "archetype": "contents_like",
+      "heading": "",
+      "signatures": [
+        "友邦保險簡介",
+        "友邦保險控股有限公司及其附屬公司（統稱",
+        "友邦保險提供一系列的產品及服務，涵蓋",
+        "「友邦保險」或「本集團」）是最大的泛亞地",
+        "壽險、意外及醫療保險和儲蓄計劃，以滿",
+        "區獨立上市人壽保險集團，覆蓋#個市場，",
+        "足個人客戶在長期儲蓄及保障方面的需要。",
+        "包括在中國內地、香港特別行政區、泰國、"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 3,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "目錄",
+        "概覽",
+        "# 財務摘要",
+        "# 主席報告",
+        "# 集團首席執行官 兼總裁報告",
+        "財務及營運回顧",
+        "# 集團首席財務總監回顧",
+        "# 業務回顧"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 4,
+      "archetype": "showcase_narrative",
+      "heading": "",
+      "signatures": [
+        "過去一年，友邦保險加強對區內社群的承諾，",
+        "並加快擴展在主要增長市場（尤其是中國內地）",
+        "的業務。",
+        "我們清晰明確闡述對環境、社會及管治的長期",
+        "策略，此策略對我們幫助大眾實踐健康、長久、",
+        "好生活的目標是不可或缺的。我們亦應對了",
+        "# 冠狀病毒病大流行在全部# 個營運市場",
+        "帶來的緊迫挑戰。"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 5,
+      "archetype": "contents_like",
+      "heading": "",
+      "signatures": [
+        "根據這項策略性銀行保險夥伴協",
+        "議，東亞銀行透過於香港及中國內",
+        "地逾# 家分行網絡，向其富裕客",
+        "戶群獨家分銷友邦保險的人壽及",
+        "長期儲蓄產品。",
+        "#,#萬人 #.#萬億美元",
+        "大灣區的總人口為",
+        "本地生產總值接近"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 6,
+      "archetype": "contents_like",
+      "heading": "2021年摘要",
+      "signatures": [
+        "#年摘要",
+        "作為泛亞地區最大的人壽及健康保險集團，",
+        "友邦保險承諾實現淨零排放，此乃建基於友邦",
+        "保險對可持續發展的長期承諾，並支持我們為",
+        "亞洲的客戶、股東及社區締造可持續的價值。",
+        "友邦保險公佈全新的環境、 社會及管治策略",
+        "友邦保險的環境、社會及管治策略以我們的目標為",
+        "基礎，匯集明確的目的及行動方案，為持份者提供"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 7,
+      "archetype": "contents_like",
+      "heading": "",
+      "signatures": [
+        "友邦保險頒發首批# 個獎學",
+        "金予香港的大學生，踐行我們",
+        "投放一億美元，在未來數十年",
+        "間每年資助# 名本科生之",
+        "承諾。",
+        "友邦保險 支援社區抗疫",
+        "友邦保險在我們全部# 個市場作出有意義而重大",
+        "的貢獻，幫助前線醫護人員及整體社區對抗持續"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 8,
+      "archetype": "contents_like",
+      "heading": "",
+      "signatures": [
+        "多年來，友邦保險一直在亞洲幫助數以",
+        "#年通過數碼渠道 處理",
+        "百萬計大眾實現健康、長久、好生活。",
+        "回顧過去兩年，健康和保健對社區的",
+        "重要性與日俱增，令我們具吸引力的主",
+        "超越全球金融服務及 保險業的平均水平",
+        "的服務申請 #%",
+        "張和領先同儕的客戶體驗更受青睞。"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 9,
+      "archetype": "showcase_narrative",
+      "heading": "",
+      "signatures": [
+        "以上",
+        "「aia vitality」在十個市場和 友邦中國的保健計劃共有接近",
+        "#萬名會員",
+        "超過",
+        "通過社交媒體 平台物色超過",
+        "#萬名",
+        "銷售對象",
+        "#年報 #"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 10,
+      "archetype": "showcase_narrative",
+      "heading": "",
+      "signatures": [
+        "友邦保險 一覽",
+        "# 友邦保險控股有限公司"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 11,
+      "archetype": "showcase_narrative",
+      "heading": "",
+      "signatures": [
+        "並於香港註冊及 將總部設於香港(#)",
+        "百萬圓桌會註冊 會員全球之冠",
+        "附註： (#) 截至#年#月#日。",
+        "#年報 #"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 12,
+      "archetype": "table_dense",
+      "heading": "2021年業績一覽",
+      "signatures": [
+        "概覽",
+        "#年業績一覽",
+        "新業務價值(#)(#)",
+        "年化新保費(#)(#)",
+        "us$ millions",
+        "百萬美元",
+        "稅後營運溢利(#)(#) 總加權保費收入(#)",
+        "內涵價值權益(#) 總資產及總負債(#)"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 13,
+      "archetype": "table_dense",
+      "heading": "2021年按市場分部劃分",
+      "signatures": [
+        "概覽",
+        "#年按市場分部劃分",
+        "新業務價值(#)(#)",
+        "年化新保費(#)",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "稅後營運溢利(#)",
+        "總加權保費收入(#)",
+        "(#) 所列示的稅後營運溢利已扣除非控股權益。"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 14,
+      "archetype": "showcase_narrative",
+      "heading": "主席報告",
+      "signatures": [
+        "概覽",
+        "主席報告",
+        "友邦保險深深植根於亞洲，我們的增長策略完全對準",
+        "區內龐大潛力和持續轉變的需求。儘管#冠狀",
+        "病毒病大流行持續為全球帶來嚴峻挑戰，我們的團隊",
+        "仍克盡己職，悉心關懷客戶，並為我們的股東帶來",
+        "強勁業績，令我深感自豪。",
+        "謝仕榮先生 獨立非執行主席"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 15,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "助大眾實踐健康、長久、好生活。",
+        "及漸進的派息政策，讓本集團可把握未來的增長機遇，並保持財務靈活性。",
+        "本返還將進一步提升股東回報。",
+        "理日益複雜的營運環境奠定基礎。",
+        "持續的回報。",
+        "#年報 #"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 16,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "概覽",
+        "主席報告",
+        "的人，以對的方法，做對的事，而成果將隨之而來」。",
+        "能夠為所有持份者實現可持續的長期價值。",
+        "最後，全賴客戶及股東一如既往的信任，友邦保險才能取得如此佳績。",
+        "本人謹代表董事會，衷心感謝您們一直以來的支持。",
+        "謝仕榮",
+        "獨立非執行主席"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 17,
+      "archetype": "showcase_narrative",
+      "heading": "集團首席執行官兼總裁報告",
+      "signatures": [
+        "概覽",
+        "集團首席執行官兼總裁報告",
+        "友邦保險在#年實現非常強勁佳績，所有主要財務",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "指標均錄得增長。我深信友邦保險優秀的員工專注執行",
+        "清晰和宏大的策略，定能使集團繼續把握亞洲龐大的",
+        "增長機遇，延續友邦保險為所有持份者創造價值的",
+        "卓越往績。"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 18,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "概覽",
+        "集團首席執行官兼總裁報告",
+        "百萬計的大眾提供財務保障。",
+        "#年財務表現摘要",
+        "流行前的水平，而所有報告分部均按年增長。",
+        "元，而產生的基本自由盈餘則增長#%至#.#億美元。",
+        "新業務及非內部機遇，同時優化股東的現金回報。",
+        "# 友邦保險控股有限公司"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 19,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "長機遇。",
+        "加強我們的競爭優勢",
+        "盈利性增長。",
+        "賠在內的每個業務範疇。",
+        "集團「最優秀代理」策略的成效。",
+        "及場景化的主張，大規模地吸納新的客戶群，以新的業務模型帶動增長。",
+        "#年報 #"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 20,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "概覽",
+        "集團首席執行官兼總裁報告",
+        "現更個人化和貫徹一致的服務，提高客戶聯繫和留存率。",
+        "行清晰和目標宏大的策略，有助進一步鞏固友邦保險龐大的競爭優勢。",
+        "我們的團隊",
+        "分析方面的人才增加了#%。",
+        "和成果。",
+        "投資以拓展額外增長機遇"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 21,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "股份有限公司達成協議，建立新的分銷夥伴合作關係。",
+        "的優勢，以發揮友邦保險在大灣區的龐大潛力。",
+        "略潛力提供無可比擬的基礎。",
+        "益。",
+        "前景",
+        "市場產生不確定性。",
+        "縮政策。"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 22,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "概覽",
+        "集團首席執行官兼總裁報告",
+        "助大眾實踐健康、長久、好生活的目標。",
+        "李源祥",
+        "集團首席執行官兼總裁",
+        "#年#月#日",
+        "增長率乃按固定匯率列示，管理層相信這可更清晰地說明相關業務的按年表現。",
+        "# 友邦保險控股有限公司"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 23,
+      "archetype": "section_lead",
+      "heading": "財務及營運回顧",
+      "signatures": [
+        "財務及營運回顧",
+        "# 集團首席財務總監回顧",
+        "# 業務回顧",
+        "# 風險管理",
+        "# 監管及國際發展",
+        "# 我們的團隊",
+        "#年報 #"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 24,
+      "archetype": "showcase_narrative",
+      "heading": "集團首席財務總監回顧",
+      "signatures": [
+        "財務及營運回顧",
+        "集團首席財務總監回顧",
+        "友邦保險錄得了非常強勁且廣泛的財務表現。",
+        "我們的業績證明了友邦保險獨特的業務模式有實力",
+        "使我們能夠把握亞洲龐大的增長機遇並帶來優越",
+        "的股東價值。",
+        "按固定匯率基準提供增長率及作出評述。",
+        "garth jones 先生 集團首席財務總監"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 25,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "概要及主要財務摘要",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "金回報。",
+        "子公司後預扣稅的影響後，稅後營運溢利的增長為#%。",
+        "#年報 #"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 26,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "集團首席財務總監回顧",
+        "風險為本資本制度及其影響的進一步詳情載於本回顧下文。",
+        "政策，讓本集團可把握未來的增長機遇，並且保持財務靈活性。",
+        "與非內部機遇，以及派付審慎、可持續及漸進的股息。",
+        "資本需要，以締造可持續和最優的股東回報。",
+        "# 友邦保險控股有限公司"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 27,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "新業務表現",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "按分部劃分的新業務價值、年化新保費及利潤率",
+        "#年報 #"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 28,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "集團首席財務總監回顧",
+        "價值增長。",
+        "並提高代理生產力。",
+        "險業務亦在#年錄得卓越的增長。",
+        "# 友邦保險控股有限公司"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 29,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "內涵價值權益",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "內涵價值營運溢利",
+        "每股內涵價值營運盈利－基本",
+        "每股內涵價值營運盈利－攤薄",
+        "內涵價值變動",
+        "億美元的投資按成本列賬，對經調整資產淨值及內涵價值並無影響。",
+        "#年報 #"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 30,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "集團首席財務總監回顧",
+        "內涵價值變動分析如下：",
+        "#年",
+        "其他資本變動 # - #",
+        "匯率變動的影響 # # #,#",
+        "期末內涵價值 #,# #,# #,#",
+        "# 友邦保險控股有限公司"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 31,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "內涵價值權益",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "(#) 於#年#月#日。",
+        "(#) 指策略性銀行保險夥伴關係的代價。",
+        "內涵價值及新業務價值敏感度",
+        "於#年#月#日 於#年#月#日",
+        "股本價格變動的影響",
+        "利率變動的影響"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 32,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "集團首席財務總監回顧",
+        "國際財務報告準則溢利",
+        "按分部劃分的稅後營運溢利(#)",
+        "附註： (#) 僅為本公司股東應佔權益，不包括非控股權益。",
+        "子公司後預扣稅的影響後，稅後營運溢利的增長為#%。",
+        "的業務市場的死亡理賠增加所抵銷。",
+        "# 友邦保險控股有限公司"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 33,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "按分部劃分的總加權保費收入",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "性保費總額佔#年所收取保費的#%以上。",
+        "國際財務報告準則營運溢利投資回報",
+        "及房地產結餘增加所帶動。",
+        "營運開支",
+        "#.#%，而#年為#.#%。",
+        "#年報 #"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 34,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "集團首席財務總監回顧",
+        "純利(#)",
+        "附註： (#) 僅為本公司股東應佔權益，不包括非控股權益。",
+        "國際財務報告準則非營運變動",
+        "益所帶動。",
+        "# 友邦保險控股有限公司"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 35,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "股東分配權益變動",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "供出售債務證券按國際財務報告準則進行的會計處理的市值調整。",
+        "貨幣兌我們的美元呈報貨幣貶值#.#億美元所抵銷。",
+        "平均股東分配權益較去年增長#%。",
+        "對匯率、利率及股本價格變動的敏感度載於合併財務報表附註#。",
+        "#年報 #"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 36,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "集團首席財務總監回顧",
+        "國際財務報告準則每股盈利",
+        "股東應佔稅後營運溢利的每股基本盈利增加#%至#年的#.#美仙。",
+        "仙。",
+        "國際財務報告準則每股盈利－基本",
+        "純利(#) 稅後營運溢利(#)",
+        "國際財務報告準則每股盈利－攤薄"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 37,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "國際財務報告準則資產負債表",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "合併財務狀況表",
+        "資產",
+        "負債",
+        "權益",
+        "股東權益變動",
+        "#年報 #"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 38,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "集團首席財務總監回顧",
+        "總投資",
+        "如下所示，投資組合於年內維持穩定：",
+        "單位連結式合約及合併投資基金",
+        "# 友邦保險控股有限公司"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 39,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "保單持有人及股東投資",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "分紅基金及具特定資產組合的其他分紅業務(#)",
+        "其他保單持有人及股東",
+        "資產",
+        "#年報 #"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 40,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "集團首席財務總監回顧",
+        "#年並無任何減值，反映了我們投資組合的質素。",
+        "業務所持有。",
+        "要反映了收購的付款。",
+        "款項及無形資產的增加。",
+        "負債",
+        "組合的相關增長。"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 41,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "資本",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "自由盈餘",
+        "場壓力帶來的影響。",
+        "集團總部開支、財務費用、投資回報差異及其他非營運項目。",
+        "盈餘增長#%至#.#美仙。",
+        "每股產生的基本自由盈餘－基本",
+        "每股產生的基本自由盈餘－攤薄"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 42,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "集團首席財務總監回顧",
+        "下表概述自由盈餘變動：",
+        "(#) 指策略性銀行保險夥伴的代價。",
+        "每股自由盈餘",
+        "集團當地資本總和法償付能力狀況",
+        "等規定以「總和法」為基準，並稱為當地資本總和法。",
+        "率。"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 43,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "#%。該等數字內的集團可用資本包括：",
+        "集團當地資本總和法償付能力狀況概要如下：",
+        "#年報 #"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 44,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "集團首席財務總監回顧",
+        "集團當地資本總和法覆蓋率敏感度",
+        "務資本的金額等於賬面值，且在敏感度計算中保持不變。",
+        "股本價格變動的影響",
+        "利率變動的影響",
+        "集團當地資本總和法盈餘與自由盈餘之間的對賬",
+        "點。下表載列集團當地資本總和法盈餘與自由盈餘之間的對賬。"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 45,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "當地償付能力規定",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "有所增加。",
+        "性準備金。",
+        "#年報 #"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 46,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "集團首席財務總監回顧",
+        "控股公司財務資源",
+        "#.#億美元，而#.#億美元於到期日贖回。",
+        "控股公司財務資源的變動概述如下：",
+        "於十二個月內可收回資產及應償還負債如下：",
+        "# 友邦保險控股有限公司"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 47,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "全球中期票據及證券計劃",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "易所有限公司上市。",
+        "信貸評級",
+        "股息",
+        "政策，讓集團可把握未來的增長機遇，並且保持財務靈活性。",
+        "#年報 #"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 48,
+      "archetype": "dense_narrative",
+      "heading": "財務及營運回顧\n業務回顧",
+      "signatures": [
+        "財務及營運回顧 業務回顧",
+        "概要及主要業務摘要",
+        "務。",
+        "分銷",
+        "前並未發掘的客戶群，並通過無縫的全渠道體驗滿足其需求。",
+        "地區市場",
+        "價值增長。",
+        "並提高代理生產力。"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 49,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "無可比擬的分銷平台",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "代理隊伍",
+        "的需求。",
+        "承保開支超支減少所帶動。",
+        "代理」策略的成效。",
+        "#年報 #"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 50,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "業務回顧",
+        "夥伴分銷",
+        "上升#%。",
+        "銀行保險、中介夥伴分銷渠道及直接銷售",
+        "係在#年下半年已為我們的整體銀行保險業績帶來顯著貢獻。",
+        "務價值帶來大部分貢獻。",
+        "數碼平台"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 51,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "地區市場摘要",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "中國內地",
+        "一季度錄得#年全年近一半的新業務價值。",
+        "非常強勁的雙位數字增長。",
+        "議。這項工具已經惠及超過#,#位客戶。",
+        "可享各種退休及復康服務。",
+        "接觸相當於現有市場覆蓋面五倍的潛在客戶群。"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 52,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "業務回顧",
+        "香港",
+        "分公司的中國內地訪澳旅客銷售較#年錄得卓越增長。",
+        "活轉換多種貨幣。",
+        "滿並全數繳足；而該批仍然生效的保單繼續產生稅後營運溢利。",
+        "泰國",
+        "保費單位連結式及保障產品，因此新業務價值利潤率上升#.#個百分點。"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 53,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "新加坡",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "點。",
+        "戶，從而提升代理生產力，令#年的件均保費錄得雙位數字的增長。",
+        "稅後營運溢利上升#%，受惠於我們的有效保單組合增長及投資回報增加。",
+        "馬來西亞",
+        "平。",
+        "理賠的行業性舉措作出一筆一次性撥備。撇除該撥備，稅後營運溢利增加#%。"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 54,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "業務回顧",
+        "其他市場",
+        "概覽",
+        "的死亡理賠上升所部分抵銷。",
+        "地區市場摘要",
+        "費增幅。",
+        "超支。"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 55,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "保險專員的生產力。",
+        "年的銷售表現較上半年顯著增長。",
+        "#年報 #"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 56,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "業務回顧",
+        "技術、數碼及分析",
+        "友邦保險互動時的體驗。",
+        "世界級的技術",
+        "目標。",
+        "在中國內地的地域拓展。",
+        "處理。"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 57,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "應用程式在所有主要市場的應用程式商店評分達到#或以上。",
+        "銷售的機會，同時為客戶提供更加適切和個人化的建議。",
+        "in #)。",
+        "數據分析為我們所有工作注入動力",
+        "#年報 #"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 58,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "業務回顧",
+        "網絡安全及負責任使用人工智能",
+        "用上的管治、數據保護和網絡安全。",
+        "團不同層面有效執行有關要求。",
+        "數據安全及加密標準。我們的認證範圍亦擴大至涵蓋雲端安全操作。",
+        "# 友邦保險控股有限公司"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 59,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "具吸引力的主張",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "高質素建議是我們主張的核心",
+        "我們的主張結合業內最佳的健康和保健服務",
+        "的健康旅途上全程獲得支持。",
+        "vitality」會員已上傳超過#萬份食物日誌。",
+        "受線上遠距醫療諮詢的總量增加#%。",
+        "#年報 #"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 60,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "業務回顧",
+        "升客戶支援。",
+        "滿足客戶需求的綜合方案",
+        "獲得極高的評分，達#.#分，並已擁有超過#萬名註冊用戶。",
+        "務，以滿足退休前和退休後的需要。",
+        "帶來強勁的提升。",
+        "從付款人持續轉變為合作夥伴"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 61,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "領先同儕的客戶體驗",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "心，重新調整業務架構，同時充分利用技術、數碼及分析的實力。",
+        "可發揮最大作用的轉變。",
+        "通過對客戶的瞭解及縮短服務所需時間以提高滿意度",
+        "領先地位。",
+        "額醫療理賠於一日內完成。",
+        "善用我們與客戶的互信關係"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 62,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "業務回顧",
+        "未來的組織",
+        "有所改善，使友邦保險在蓋洛普環球金融及保險業基準中排名第#個百分位。",
+        "塑造更簡單、更迅速、更緊密聯繫的友邦保險",
+        "和最佳做法，並採用靈活的工作方式。",
+        "式。",
+        "建立一個面向未來的團隊"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 63,
+      "archetype": "dense_narrative",
+      "heading": "風險管理",
+      "signatures": [
+        "財務及營運回顧",
+        "風險管理",
+        "概覽",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "保險業增長及增強業內公信力。",
+        "評核。",
+        "本集團的風險管理架構包括以下主要組成部分：",
+        "• 風險治理；"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 64,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "風險管理",
+        "活動並確保對決策進行適當的管治，以及確保本集團秉持其固有之高標準。",
+        "三道防線於董事會匯集，董事會對本集團的風險管理架構負整體責任。",
+        "風險委員會架構",
+        "本集團的風險委員會架構旨在：",
+        "• 確保於本集團內一致地落實風險管理架構；",
+        "• 提供一套精簡的流程以適時識別、評估及呈報風險事宜；"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 65,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "營運風險委員會及財務風險委員會",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "如適用，上述委員會架構也於各業務單位執行。",
+        "風險管理文化",
+        "並確保其薪酬體制能倡導正當的行為。",
+        "問責",
+        "首席風險總監在大多數情況下亦為其業務單位執行委員會的成員。",
+        "薪酬"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 66,
+      "archetype": "contents_like",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "風險管理",
+        "風險原則及風險承受水平",
+        "友邦保險透過五項風險原則支持風險胃納聲明：",
+        "風險原則",
+        "流動性 「友邦保險將維持足夠的流動性以便如期承擔財務償付需求。」",
+        "風險格局",
+        "營運風險"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 67,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "主要風險 定義",
+        "風險核保",
+        "其進行識別、量化和管理，以助創造長期價值。",
+        "識別",
+        "量化",
+        "的風險量化方法，其中包括定期資本評估以及壓力和情景測試等。",
+        "核保決策"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 68,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "風險管理",
+        "風險控制",
+        "觀點均得到適當考慮。",
+        "風險披露",
+        "主要決策。",
+        "能力評估報告亦須給予風險委員會以供年度審閱。",
+        "風險管理架構的執行"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 69,
+      "archetype": "dense_narrative",
+      "heading": "監管及國際發展",
+      "signatures": [
+        "財務及營運回顧",
+        "監管及國際發展",
+        "共同框架及保險資本標準",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "險集團。",
+        "與參考保險資本標準類似的結果，繼而可以取而代之。",
+        "保險集團監管",
+        "能的管控要員擔任指明職位，以及作出干預、查察及調查的權力。"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 70,
+      "archetype": "dense_narrative",
+      "heading": "財務及營運回顧\n我們的團隊",
+      "signatures": [
+        "財務及營運回顧 我們的團隊",
+        "和培育優秀人才，使友邦保險成為其業務市場內的首選僱主。",
+        "策略的首要任務。",
+        "營造企業文化",
+        "我們的企業文化既凝聚人心，亦讓我們與眾不同。",
+        "所制定和監控的指引下作出決策。",
+        "素質一直是我們彼此合作的核心準則，並將繼續成為員工發展的框架。",
+        "管理。"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 71,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "繼任和組織安排",
+        "的例子中可見一斑。",
+        "建立一個面向未來的團隊",
+        "體驗。",
+        "學習與發展",
+        "藉此累積知識和技能。",
+        "滿足相關需求。此外，員工需要定期完成關鍵項目的強制性培訓。"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 72,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "我們的團隊",
+        "learning hub，這是一個提供數以千計數碼學習課程的網上平台。",
+        "員工轉調",
+        "他們發展其於友邦保險的人脈網絡。",
+        "員工輔導與實習",
+        "我們鼓勵員工擴展網絡，從而得到不同部門和資歷的同事指導，促進彼此溝通。",
+        "的良機。"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 73,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "支持多元共融文化",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "解決問題的能力。",
+        "殘疾、兵役狀況、婚姻狀況和性取向。",
+        "總數的#% (#)，並佔高級管理層#%。",
+        "截至#年#月#日，我們有#%員工屬於y世代和z世代(#)。",
+        "以及廣泛的教育背景和經驗。",
+        "獲表揚為首選僱主"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 74,
+      "archetype": "section_lead",
+      "heading": "企業管治",
+      "signatures": [
+        "企業管治",
+        "# 董事責任聲明",
+        "# 董事會",
+        "# 執行委員會",
+        "# 董事會報告",
+        "# 企業管治報告",
+        "# 薪酬報告",
+        "# 友邦保險控股有限公司"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 75,
+      "archetype": "dense_narrative",
+      "heading": "董事責任聲明",
+      "signatures": [
+        "企業管治",
+        "董事責任聲明",
+        "董事負責根據適用法例及規例編製本公司的合併財務報表。",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "在編製本公司的合併財務報表時，董事須：",
+        "• 選用合適的會計政策然後貫徹採用；",
+        "• 作出合理及審慎的判斷及估計；",
+        "• 說明合併財務報表是否根據香港財務報告準則及國際財務報告準則編製；及"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 76,
+      "archetype": "showcase_narrative",
+      "heading": "企業管治\n董事會",
+      "signatures": [
+        "企業管治 董事會",
+        "孫潔女士 謝仕榮先生",
+        "narongchai akrasanee 博士",
+        "# 友邦保險控股有限公司"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 77,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "楊榮文先生",
+        "#年報 #"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 78,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "企業管治",
+        "董事會",
+        "獨立非執行主席及獨立非執行董事",
+        "謝仕榮先生",
+        "的傑出貢獻。",
+        "執行董事、集團首席執行官兼總裁",
+        "李源祥先生",
+        "# 友邦保險控股有限公司"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 79,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "獨立非執行董事",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "蘇澤光先生",
+        "並自#年至#年擔任中國人民政治協商會議全國委員會委員。",
+        "周松崗先生",
+        "#年報 #"
+      ]
+    },
+    {
+      "year": 2022,
+      "page_no": 80,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "企業管治",
+        "董事會",
+        "john barrie harrison先生",
+        "特許會計師公會資深會員及香港會計師公會會員。",
+        "楊榮文先生",
+        "# 友邦保險控股有限公司"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 1,
+      "archetype": "cover_like",
+      "heading": "",
+      "signatures": [
+        "友邦保險控股有限公司 aia group limited",
+        "股份代號 #",
+        "a healthy asia investing in",
+        "投資健康亞洲",
+        "#年報"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 2,
+      "archetype": "showcase_narrative",
+      "heading": "",
+      "signatures": [
+        "我們的目標是 幫助大眾實踐",
+        "好生活」。 「健康、長久、",
+        "f 友邦保險控股有限公司"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 3,
+      "archetype": "contents_like",
+      "heading": "",
+      "signatures": [
+        "友邦保險簡介",
+        "友邦保險提供一系列的產品及服務，涵蓋壽險、",
+        "友邦保險控股有限公司及其附屬公司（統稱「友邦",
+        "意外及健康保險和儲蓄計劃，以滿足個人客戶在",
+        "保險」或「本集團」）是最大的泛亞地區獨立上市",
+        "長期儲蓄及保障方面的需要。此外，本集團亦為企",
+        "人壽保險集團，覆蓋#個市場，包括在中國內地、",
+        "業客戶提供僱員福利、信貸保險和退休保障服務。"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 4,
+      "archetype": "showcase_narrative",
+      "heading": "友邦保險一覽",
+      "signatures": [
+        "友邦保險一覽",
+        "附註： (#) 截至#年#月#日。",
+        "# 友邦保險控股有限公司"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 5,
+      "archetype": "showcase_narrative",
+      "heading": "",
+      "signatures": [
+        "在《財富》雜誌 (fortune)的#年",
+        "「改變世界的公司」",
+        "(change the world)榜單 名列首十位",
+        "#年報 #"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 6,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "目錄",
+        "概覽",
+        "# 財務摘要",
+        "# 主席報告",
+        "# 集團首席執行官兼總裁報告",
+        "財務及營運回顧",
+        "# 集團首席財務總監回顧",
+        "# 業務回顧"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 7,
+      "archetype": "showcase_narrative",
+      "heading": "",
+      "signatures": [
+        "年",
+        "摘要",
+        "#年報 #"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 8,
+      "archetype": "contents_like",
+      "heading": "2022年摘要",
+      "signatures": [
+        "#年摘要",
+        "友邦保險憑藉無可比擬的 分銷平台領先同業",
+        "友邦保險越南與vietnam",
+        "prosperity joint stock bank",
+        "友邦保險中國在湖北省開",
+        "簽訂的獨家銀行保險夥伴協",
+        "設分公司，並獲批在河南省",
+        "議延長額外四年；友邦保險"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 9,
+      "archetype": "contents_like",
+      "heading": "",
+      "signatures": [
+        "友邦保險於亞洲拓展 健康服務",
+        "友邦保險收購 菲律賓medicard",
+        "medicard philippines, inc.",
+        "（medicard）是一家領先的",
+        "健康維護組織，是次收購",
+        "友邦保險推出amplify health，",
+        "友邦保險從東亞銀行有",
+        "將帶來新的產品、客戶群和"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 10,
+      "archetype": "showcase_narrative",
+      "heading": "2022年摘要",
+      "signatures": [
+        "#年摘要",
+        "「aia one billion」",
+        "友邦保險透過「aia one billion」計劃，",
+        "接觸客戶以外的更多群眾，致力幫",
+        "助個人改善身心健康，為亞洲創造",
+        "更可持續發展的未來。#年，我們",
+        "進一步實現集團目標，在各個社區",
+        "推行這些創新舉措，為實現這項宏"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 11,
+      "archetype": "contents_like",
+      "heading": "",
+      "signatures": [
+        "友邦保險推出「aia voices」，",
+        "友邦保險在澳洲、香港、",
+        "為不同的思想領袖提供",
+        "泰國和越南四個市場先行",
+        "平台，以教育、激勵和啟發",
+        "推出「aia 健康校園計劃」，",
+        "大眾改善生活習慣，邁向健",
+        "致力於當地學校推廣健康"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 12,
+      "archetype": "showcase_narrative",
+      "heading": "",
+      "signatures": [
+        "# 友邦保險控股有限公司"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 13,
+      "archetype": "showcase_narrative",
+      "heading": "",
+      "signatures": [
+        "亞洲是增長速度最快的醫療保健市場，",
+        "其長期結構性因素帶動醫療保健需求",
+        "龐大。無可比擬的經濟擴張為不斷增長、",
+        "老化的亞洲人口創造出前所未有的財富",
+        "水平。儘管亞洲大眾日益富裕，健康狀況",
+        "卻未見改善。醫療保健及健康保險的資源",
+        "有限，以致數以百萬計的民眾未能獲得",
+        "所需的治療。"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 14,
+      "archetype": "contents_like",
+      "heading": "友邦保險\n三大支柱\n「綜合健康策略」的",
+      "signatures": [
+        "友邦保險 三大支柱 「綜合健康策略」的",
+        "個人化的 健康保險",
+        "與門診服務 相結合",
+        "友邦保險中國「康養生態圈#.#」",
+        "已獲升級，並為初老客戶提供居",
+        "家養老、醫療護理和協助服務",
+        "友邦保險致力提供",
+        "友邦保險通過與門"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 15,
+      "archetype": "showcase_narrative",
+      "heading": "",
+      "signatures": [
+        "個人療程管理",
+        "遍佈 十二個市場",
+        "和我們在",
+        "遠距醫療遍佈 十個市場",
+        "中國內地的",
+        "友邦保險將為客戶",
+        "健康計劃擁有 #萬名會員",
+        "提供更高效的醫療"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 16,
+      "archetype": "table_dense",
+      "heading": "2022年業績一覽",
+      "signatures": [
+        "概覽",
+        "#年業績一覽",
+        "新業務價值(#)(#)",
+        "年化新保費(#)(#)",
+        "us$ millions",
+        "百萬美元",
+        "稅後營運溢利(#)(#) 總加權保費收入(#)",
+        "內涵價值權益(#) 總資產及總負債(#)"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 17,
+      "archetype": "table_dense",
+      "heading": "2022年按市場分部劃分",
+      "signatures": [
+        "概覽",
+        "#年按市場分部劃分",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "新業務價值(#)(#)",
+        "年化新保費(#)",
+        "稅後營運溢利(#)",
+        "總加權保費收入(#)",
+        "(#) 所列示的稅後營運溢利已扣除非控股權益。"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 18,
+      "archetype": "showcase_narrative",
+      "heading": "主席報告",
+      "signatures": [
+        "概覽",
+        "主席報告",
+        "友邦保險是一家卓爾非凡的公司。經歷#年充滿",
+        "挑戰的經營環境，我們的業務依然穩健強韌，本人",
+        "深感自豪。友邦保險在亞洲歷史悠久，經歷了多個",
+        "不同的市場週期，在客戶最需要我們的時候提供",
+        "支持，令我們獲得誠可信賴的卓越聲譽。隨著亞洲",
+        "各地迅速走出疫情陰霾，我們幫助大眾實踐健康、"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 19,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "百萬計的大眾帶來安心，並提供急需的財務保障。",
+        "信心，專注執行策略將在未來多年帶來可持續的增長。",
+        "放寬，面對面銷售亦已反彈回升。",
+        "#%，反映我們擁有高質素、經常性盈利來源。",
+        "等項目後，截至#年#月#日，自由盈餘為#.#億美元。",
+        "#年報 #"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 20,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "概覽",
+        "主席報告",
+        "的公司之一。",
+        "職，努力不懈管理集團業務。沒有他們的努力，我們不可能取得可持續的成功。",
+        "事會全體成員，衷心感謝您們一直以來的支持。",
+        "謝仕榮",
+        "獨立非執行主席",
+        "#年#月#日"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 21,
+      "archetype": "showcase_narrative",
+      "heading": "集團首席執行官兼總裁報告",
+      "signatures": [
+        "概覽",
+        "集團首席執行官兼總裁報告",
+        "友邦保險在#年表現堅實，下半年的新業務增長勢頭強勁，",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "自由盈餘錄得上升，並為股東締造了更佳的資本回報。我們的業績",
+        "足證我們優質業務組合的寬度和多樣性，以及結構性增長動力，",
+        "支撐著各個市場對人壽及健康保障的龐大需求。為鞏固友邦保險",
+        "的獨特優勢，我們作出重大投資，確保本集團處於絕佳地位，"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 22,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "概覽",
+        "集團首席執行官兼總裁報告",
+        "並成功應對#冠狀病毒病大流行及其後果的廣泛影響。",
+        "助客戶應對種種挑戰和不明朗因素，為社區提供迫切需要的支援。",
+        "性趨勢，而對生活質素的更高期望是數以百萬計亞洲大眾的首要關注。",
+        "性，友邦保險將繼續為所有持份者創造及締造長遠、可持續的價值。",
+        "#年財務表現摘要",
+        "加。"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 23,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "合共#.#億美元。扣除該等項目後，內涵價值權益為#.#億美元。",
+        "該等項目後，截至#年#月#日，自由盈餘為#.#億美元。",
+        "#%，按先前披露的最低資本要求基準計算則為#%。",
+        "性。",
+        "績。",
+        "加強我們的競爭優勢",
+        "銷售轉換率，自代理團隊及銀行保險渠道產生超過#.#億美元的年化新保費。"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 24,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "概覽",
+        "集團首席執行官兼總裁報告",
+        "能，以提升自動化水平及提供更個人化的服務，在各個市場取得更佳的客戶成果。",
+        "投資以拓展額外增長機遇",
+        "的人壽及健康保險地區拓展業務規模及多樣性。",
+        "邦保險在香港及大灣區的分銷渠道帶來支持。",
+        "# 友邦保險控股有限公司"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 25,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "的產品、客戶群及分銷實力。",
+        "障，是中國內地領先的銀行關聯壽險公司。",
+        "售。",
+        "我們的團隊",
+        "我們的業務實力和營運堅韌力。",
+        "旨在表彰員工團隊參與度高、企業文化以績效為本的公司。",
+        "環境、社會及管治"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 26,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "概覽",
+        "集團首席執行官兼總裁報告",
+        "出深遠的貢獻。",
+        "展望",
+        "離和旅遊限制後，服務需求迎來強勁增長，尤其是旅遊業。",
+        "行的影響消退，我們預期活動水平及消費者需求將持續強勢復甦。",
+        "李源祥",
+        "集團首席執行官兼總裁"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 27,
+      "archetype": "section_lead",
+      "heading": "財務及營運回顧",
+      "signatures": [
+        "財務及營運回顧",
+        "# 集團首席財務總監回顧",
+        "# 業務回顧",
+        "# 風險管理",
+        "# 監管及國際發展",
+        "# 我們的團隊",
+        "#年報 #"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 28,
+      "archetype": "showcase_narrative",
+      "heading": "集團首席財務總監回顧",
+      "signatures": [
+        "財務及營運回顧",
+        "集團首席財務總監回顧",
+        "友邦保險於#年錄得堅韌的財務表現。下半年新業務價值",
+        "增長勢頭強勁。在經營環境受到奧密克戎（omicron）疫情以及資本",
+        "市場動蕩的影響下，我們的資本狀況仍非常強勁，自由盈餘增長的",
+        "同時也帶給股東更多股息及資本回報。隨著市場擺脫疫情的影響，",
+        "友邦保險獨特的業務模式及競爭優勢令我們能夠充分把握未來",
+        "龐大的增長機遇。"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 29,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "概要及主要財務摘要",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "體及於印度的tata aia life均實現雙位數字的增長。",
+        "美元及透過股份回購計劃向股東返還的額外資本#.#億美元。",
+        "因素，新業務相繼增至有效保單業務中，並隨著時間推移轉化為盈利。",
+        "的盈利來源以及對持續增長的有效保單組合的積極管理。",
+        "了#.#億股股份，總價值為#.#億美元，使流通股份數量減少了#%。",
+        "#年報 #"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 30,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "集團首席財務總監回顧",
+        "變。",
+        "備考基準計算則為#%。",
+        "的財務狀況產生的影響並不重大。",
+        "派息政策，讓本集團可把握未來的增長機遇，並且保持財務靈活性。",
+        "# 友邦保險控股有限公司"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 31,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "新業務表現",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "按分部劃分的新業務價值、年化新保費及利潤率",
+        "#年報 #"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 32,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "集團首席財務總監回顧",
+        "二期）法定準備金及資本基準，這對新業務價值的影響並不重大。",
+        "價值重拾動力並歸復增長。",
+        "長，使活躍代理人數較#年取得提升。",
+        "現。",
+        "力。",
+        "字增長被澳洲、南韓和越南的跌幅所抵銷。"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 33,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "內涵價值權益",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "內涵價值變動",
+        "#.#億美元及#.#億美元。",
+        "策略重點。",
+        "加#億美元，惟被風險貼現率的相應增加令內涵價值減少#億美元所抵銷。",
+        "#.#億美元。",
+        "#年報 #"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 34,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "集團首席財務總監回顧",
+        "內涵價值變動分析如下：",
+        "#年",
+        "每股期末內涵價值（美元） #.#",
+        "# 友邦保險控股有限公司"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 35,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "#年",
+        "每股期末內涵價值（美元） #.#",
+        "內涵價值權益",
+        "附註： (#) 於#年報的合併財務報表附註#所載的藍十字的購買價。",
+        "於#年報的合併財務報表附註#所載的友邦雋峰的購買價。",
+        "(#) 於#年收購藍十字而獲得的已收購內涵價值。",
+        "於#年收購友邦雋峰而獲得的已收購內涵價值。"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 36,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "集團首席財務總監回顧",
+        "每股內涵價值營運盈利－攤薄",
+        "內涵價值及新業務價值敏感度",
+        "的債券收益率之起始水平隨著#年債券收益率的上升而提高。",
+        "對利率的敏感度方向因業務市場而異。",
+        "於#年#月#日 於#年#月#日",
+        "股本價格變動的影響"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 37,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "國際財務報告準則溢利",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "按分部劃分的稅後營運溢利(#)",
+        "附註： (#) 僅為本公司股東應佔權益，不包括非控股權益。",
+        "新業務相繼增至有效保單業務中，並隨著時間推移轉化為盈利。",
+        "的盈利來源以及對持續增長的有效保單組合的積極管理。",
+        "進一步詳情載於本報告業務回顧內。",
+        "#年報 #"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 38,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "集團首席財務總監回顧",
+        "按分部劃分的總加權保費收入",
+        "收入增長。經常性保費總額佔所收取保費的#%以上。",
+        "國際財務報告準則營運溢利投資回報",
+        "營運開支",
+        "因素。",
+        "# 友邦保險控股有限公司"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 39,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "國際財務報告準則非營運變動及純利(#)",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "期假設相比，純利受該等資產類別的負面短期變動#.#億美元影響。",
+        "法，致使國際財務報告準則純利出現會計錯配。",
+        "間所產生的這種非經濟性會計錯配。",
+        "及出售可供出售債務證券。",
+        "附註： (#) 僅為本公司股東應佔權益，不包括非控股權益。",
+        "(#) 分紅業務指分紅基金及具特定資產組合的其他分紅業務。"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 40,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "集團首席財務總監回顧",
+        "股東分配權益變動",
+        "售債務證券按國際財務報告準則進行的會計處理的市值調整。",
+        "此乃與#年#月#日的#.#億美元比較。",
+        "導致的國際財務報告準則非營運變動所抵銷。",
+        "對匯率、利率及股本價格變動的敏感度載列於合併財務報表附註#。",
+        "# 友邦保險控股有限公司"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 41,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "國際財務報告準則資產負債表",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "合併財務狀況表",
+        "資產",
+        "負債",
+        "權益",
+        "股東權益變動",
+        "#年報 #"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 42,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "集團首席財務總監回顧",
+        "總投資",
+        "單位連結式合約及合併投資基金",
+        "附註： (#) 包括股權、投資基金的權益及可轉換貸款票據。",
+        "# 友邦保險控股有限公司"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 43,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "保單持有人及股東投資",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "分紅基金及具特定資產組合的其他分紅業務(#)",
+        "其他保單持有人及股東",
+        "(#) 包括股權、投資基金的權益及可轉換貸款票據。",
+        "#年報 #"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 44,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "集團首席財務總監回顧",
+        "資產",
+        "化，有超過#,#名發行人及平均持有規模為#,#萬美元。",
+        "整體高質素。",
+        "億美元。該減少主要由於負面市值變動抵銷了年內的新投資。",
+        "#日友邦保險股東所屬權益為#億美元。",
+        "# 友邦保險控股有限公司"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 45,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "負債",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "結式產品及分紅保單的股權資產的負面市值變動一致。",
+        "的槓桿比率預期較按國際財務報告準則第#號計算的減少至少#個百分點。",
+        "承擔及或有事項的詳情載列於合併財務報表附註#。",
+        "權益",
+        "的長期投資回報假設釐定。這造成會計錯配，令所呈報的總權益出現波動。",
+        "不重大。"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 46,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "集團首席財務總監回顧",
+        "資本",
+        "自由盈餘",
+        "的壓力。",
+        "升及股市下跌。",
+        "向股東返還資本後，自由盈餘於#年#月#日為#.#億美元。",
+        "下表概述自由盈餘變動："
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 47,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "產生的基本自由盈餘",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "分配集團總部開支、財務費用、投資回報差異及其他非營運項目。",
+        "自由盈餘在#年相應地減少#.#億美元。",
+        "售的新產品的資本效率提高。",
+        "按每股基準",
+        "每股產生的基本自由盈餘",
+        "#年報 #"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 48,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "集團首席財務總監回顧",
+        "集團當地資本總和法償付能力狀況",
+        "（訂明資本要求基準）。",
+        "平。",
+        "二代二期。",
+        "# 友邦保險控股有限公司"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 49,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "集團當地資本總和法覆蓋率",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "#%，反映了新訂明資本要求基準下的資本要求更高。",
+        "分點，集團當地資本總和法覆蓋率仍非常強勁，為#%。",
+        "下表概述#年#月#日的集團當地資本總和法償付能力狀況。",
+        "集團當地資本總和法覆蓋率（最低資本要求基準）載於該表以供參考。",
+        "#年報 #"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 50,
+      "archetype": "contents_like",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "集團首席財務總監回顧",
+        "集團當地資本總和法覆蓋率敏感度",
+        "示如下。",
+        "本的金額等於賬面值，且在敏感度計算中保持不變。",
+        "於#年 #月#日",
+        "中間價值 #%",
+        "股本價格變動的影響"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 51,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "當地償付能力規定",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "當地償付能力規定的變更情況概述如下：",
+        "香港",
+        "中國內地",
+        "生效。該等影響並不重大，並已反映在本報告的相關財務指標中。",
+        "南韓",
+        "務指標中。"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 52,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "集團首席財務總監回顧",
+        "控股公司財務資源的變動概述如下：",
+        "於十二個月內可收回資產及應償還負債如下：",
+        "# 友邦保險控股有限公司"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 53,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "全球中期票據及證券計劃",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "據。",
+        "期票據。已發行等值美元約為#.#億美元。",
+        "年期票據。已發行等值美元約為#.#億美元。",
+        "#日為#.#億美元。",
+        "信貸評級",
+        "股息"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 54,
+      "archetype": "dense_narrative",
+      "heading": "財務及營運回顧\n業務回顧",
+      "signatures": [
+        "財務及營運回顧 業務回顧",
+        "概要及主要業務摘要",
+        "分銷",
+        "經紀的緊密合作，帶動夥伴分銷新業務價值錄得卓越增長。",
+        "地區市場",
+        "價值重拾動力並歸復增長。",
+        "長，使活躍代理人數較#年取得提升。",
+        "現。"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 55,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "無可比擬的分銷平台",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "代理隊伍",
+        "元化和急速增長的需求。",
+        "大的增長機遇。",
+        "增長。",
+        "會排名中持續領先，反映我們別樹一幟的「最優秀代理」策略的成效。",
+        "#年報 #"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 56,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "業務回顧",
+        "夥伴分銷",
+        "銷業務為友邦保險帶來持續增長的新業務來源。",
+        "價值的#%。",
+        "銀行保險、中介夥伴分銷渠道及直接銷售",
+        "對面提供建議。",
+        "值受到影響。"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 57,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "地區市場摘要",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "中國內地",
+        "友邦保險中國業務",
+        "生產新業務，而隨著限制措施放寬，面對面銷售亦見回升。",
+        "增長。",
+        "長#%。",
+        "銷業務。"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 58,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "業務回顧",
+        "香港",
+        "#%；強勁動力延續至#年首兩個月。",
+        "平造成的營運投資回報減少和不利的理賠經驗所帶動。",
+        "泰國",
+        "穩定水平。",
+        "中，我們繼續推動銀行保險專員生產力的提升。"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 59,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "新加坡",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "善，加上邊境管制措施放寬，帶動花旗銀行的表現所致。",
+        "驗所帶動。受到醫療理賠增加所影響，下半年的增長較去年同期有所緩和。",
+        "馬來西亞",
+        "險專員的活躍度和生產力。",
+        "有利的情況相比，#年同期的稅後營運溢利增長較低。",
+        "#年報 #"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 60,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "業務回顧",
+        "其他市場",
+        "概覽",
+        "下半年的強勁雙位數字增長被澳洲、南韓和越南的跌幅所抵銷。",
+        "整體增長#%。新業務價值利潤率較#上半年增加#.#個百分點。",
+        "高死亡理賠水平相比更加正面。",
+        "地區市場摘要"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 61,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "優質招聘，帶動新入職代理人數錄得卓越增長，生產力亦同時有所提升。",
+        "隊伍和保險專員，推動生產力較去年提升。",
+        "銷渠道和直接銷售渠道的卓越表現所帶動。",
+        "台招聘。",
+        "#年報 #"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 62,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "業務回顧",
+        "技術、數碼及分析",
+        "服務所需時間將締造更豐碩的成果，包括提升客戶滿意度、留存率和盈利能力。",
+        "高銷售轉換率。",
+        "世界級的技術",
+        "往的基礎設施平台相比翻了一倍，並帶來了成本效益。",
+        "數碼支援"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 63,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "場，我們計劃在#年進一步推出超級應用程式。",
+        "數據分析為我們所有工作注入動力",
+        "#個帶有重要影響的用例，當中#個於#年內推行。",
+        "與最合適代理的自動配對，從而提高銷售轉換率。",
+        "原則等的監管要求，使得友邦保險能夠帶領亞洲負責任地使用人工智能。",
+        "網絡安全",
+        "並達到我們信息安全的目標。"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 64,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "業務回顧",
+        "具吸引力的主張",
+        "久、好生活的目標。",
+        "接觸新客戶群的機遇。",
+        "健康和保健",
+        "來轉變。",
+        "友邦保險提供個人化方案至為關鍵。"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 65,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "與度、更高的分銷能力、增加保障銷售及取得可持續增長。",
+        "滿足客戶需要的綜合方案",
+        "來提供保障。",
+        "季在同類基金組別排名首四分位，自#年推出以來表現優於基準指標。",
+        "stewardship基金，以可負擔的成本提供一個長期資本保證。",
+        "康計劃的會員人數共有#萬名。",
+        "#年報 #"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 66,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "業務回顧",
+        "領先同儕的客戶體驗",
+        "高轉換率，以及提升分銷渠道的生產力。",
+        "客戶體驗過程轉型",
+        "互動式銷售點(ipos)，支持直通式處理比率上升#個百分點。",
+        "整體集團#%的理賠乃以數碼方式支付。",
+        "訊增加至#%。"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 67,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "善用我們與客戶的互信關係",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "計劃相比，銷售轉換率高出兩倍，新業務價值亦高出超過一倍。",
+        "#年報 #"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 68,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "業務回顧",
+        "未來的組織",
+        "建立一個面向未來的團隊",
+        "務分析能力。",
+        "hub」，為所有業務單位的員工提供數以千計的數碼學習課程。",
+        "友邦保險作為首選僱主",
+        "保險能在各業務市場成為首選僱主。"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 69,
+      "archetype": "dense_narrative",
+      "heading": "風險管理",
+      "signatures": [
+        "財務及營運回顧",
+        "風險管理",
+        "概覽",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "風險管理能夠支持行業發展及增強公眾對行業的信任。",
+        "風險管理架構更明確簡潔，而風險管理方式則維持不變。",
+        "本集團的風險管理架構包括以下主要組成部分：",
+        "• 風險治理；"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 70,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "風險管理",
+        "三道防線於董事會匯集，董事會對本集團的風險管理架構負整體責任。",
+        "風險委員會架構",
+        "本集團的風險委員會架構旨在：",
+        "• 確保於本集團內一致地落實風險管理架構；",
+        "• 提供一套精簡的流程以及時識別、評估及呈報風險事宜；",
+        "• 提供對風險事宜的客觀分析，以助知情決策；及"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 71,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "營運風險委員會及財務風險委員會",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "會議。",
+        "如適用，上述委員會架構也於各業務單位執行。",
+        "風險管理文化",
+        "確保其薪酬體制能倡導正當的行為。",
+        "問責",
+        "薪酬"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 72,
+      "archetype": "contents_like",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "風險管理",
+        "風險原則及風險承受水平",
+        "友邦保險透過五項風險原則支持風險胃納聲明：",
+        "風險原則",
+        "流動性 「友邦保險將維持足夠的流動性以便如期承擔財務償付需求。」",
+        "風險格局",
+        "營運風險"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 73,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "主要風險 定義",
+        "風險管理流程",
+        "其進行識別、量化和管理，以助創造長期價值。",
+        "風險識別及評估",
+        "特定的風險量化方法，其中包括定期資本評估以及壓力和情景測試等。",
+        "管理及對策",
+        "風險。他們亦須負責及時呈報重大風險的發展變化。"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 74,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "風險管理",
+        "風險監察",
+        "當前及前瞻性風險概況的影響。",
+        "風險控制",
+        "考慮。",
+        "風險呈報、系統及工具",
+        "（自險評估）報告。"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 75,
+      "archetype": "dense_narrative",
+      "heading": "監管及國際發展",
+      "signatures": [
+        "財務及營運回顧",
+        "監管及國際發展",
+        "保險集團監管",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "查的權力。",
+        "共同框架及保險資本準則",
+        "取而代之。",
+        "稅基侵蝕和利潤轉移#.#"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 76,
+      "archetype": "dense_narrative",
+      "heading": "財務及營運回顧\n我們的團隊",
+      "signatures": [
+        "財務及營運回顧 我們的團隊",
+        "讓我們得以實踐目標，為亞洲數以百萬計大眾實現健康、長久、好生活。",
+        "僱主。",
+        "營造企業文化",
+        "我們在一起亦讓我們與眾不同。",
+        "茁壯成長、盡展所長。",
+        "一直秉持目標明確、果斷勇敢和以人為本的領袖素質。",
+        "身心健康提供支持及保障。"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 77,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "人員的人才。",
+        "繼任和組織安排",
+        "建立面向未來的團隊",
+        "建立團隊實力和培育人才，助其盡展潛能，是友邦保險一個首要的優先任務之一。",
+        "整體增長策略的能力。",
+        "學習與發展",
+        "課材，並配合各種指導和輔導，讓員工從中累積知識和技能。"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 78,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "我們的團隊",
+        "保險的內部職能以推動業務轉型。",
+        "技能。",
+        "員工輔導與實習",
+        "指導，促進彼此溝通。",
+        "表揚和獎勵員工表現",
+        "同時亦重視員工實現目標的方式。"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 79,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "年齡、殘疾、兵役狀況、婚姻狀況或性取向。",
+        "#年#月#日，我們#百分比的員工屬於y世代和z世代(#)。",
+        "組成，代表不同的社區，並改善我們的管治和決策流程。",
+        "獲表揚為首選僱主",
+        "在#年，我們繼續專注培育人才，因而獲得多項地區及全球殊榮，包括：",
+        "評選為保險業的「冠軍」 （champion）。",
+        "employers）之一。"
+      ]
+    },
+    {
+      "year": 2023,
+      "page_no": 80,
+      "archetype": "section_lead",
+      "heading": "企業管治",
+      "signatures": [
+        "企業管治",
+        "# 董事責任聲明",
+        "# 董事會",
+        "# 執行委員會",
+        "# 董事會報告",
+        "# 企業管治報告",
+        "# 薪酬報告",
+        "# 友邦保險控股有限公司"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 1,
+      "archetype": "cover_like",
+      "heading": "",
+      "signatures": [
+        "友邦保險控股有限公司 aia group limited",
+        "making a",
+        "推動 新轉變",
+        "difference",
+        "#年報"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 2,
+      "archetype": "contents_like",
+      "heading": "友邦保險簡介",
+      "signatures": [
+        "友邦保險簡介",
+        "友邦保險控股有限公司及其附屬公司（統稱「友邦保險」或",
+        "「本集團」）是最大的泛亞地區獨立上市人壽保險集團，覆蓋",
+        "#個市場，包括在中國內地、香港特別行政區、泰國、新加坡、",
+        "馬來西亞、澳洲、柬埔寨、印尼、緬甸、新西蘭、菲律賓、",
+        "南韓、斯里蘭卡、中國台灣、越南、汶萊和澳門特別行政區",
+        "擁有全資的分公司及附屬公司，以及印度合資公司的 #%",
+        "權益。此外，友邦保險持有中郵人壽保險股份有限公司的"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 3,
+      "archetype": "showcase_narrative",
+      "heading": "",
+      "signatures": []
+    },
+    {
+      "year": 2024,
+      "page_no": 4,
+      "archetype": "table_dense",
+      "heading": "目錄",
+      "signatures": [
+        "目錄",
+        "概覽",
+        "# 主席報告",
+        "# 集團首席執行官兼總裁報告",
+        "財務及營運回顧",
+        "# 集團首席財務總監回顧",
+        "# 監管及國際發展",
+        "# 業務回顧"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 5,
+      "archetype": "showcase_narrative",
+      "heading": "友邦保險一覽",
+      "signatures": [
+        "友邦保險一覽",
+        "連續四年榮獲 《亞洲保險新聞》",
+        "保險公司」 (digital insurer of the year)",
+        "附註：",
+        "(#) 截至#年#月#日。",
+        "#年報 #"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 6,
+      "archetype": "table_dense",
+      "heading": "財務業績一覽",
+      "signatures": [
+        "財務業績一覽",
+        "新業務價值(#) 年化新保費(#)",
+        "us$ millions",
+        "百萬美元 us$ millions",
+        "百萬美元",
+        "稅後營運溢利(#)(#) 總加權保費收入(#)",
+        "內涵價值權益(#) 總資產及總負債(#)",
+        "us$ billions"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 7,
+      "archetype": "table_dense",
+      "heading": "2024年按市場分部劃分",
+      "signatures": [
+        "#年按市場分部劃分",
+        "新業務價值(#)(#)",
+        "年化新保費(#)",
+        "稅後營運溢利(#)",
+        "總加權保費收入(#)",
+        "附註：",
+        "(#) 按當地法定基準列示、且並未扣除未分配集團總部開支、集團企",
+        "(#) 新業務價值是期間內所售新業務在未來產生的預計稅後法定溢利"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 8,
+      "archetype": "showcase_narrative",
+      "heading": "",
+      "signatures": [
+        "年摘要",
+        "作為最大的泛亞地區人壽及健康保險集團，",
+        "友邦保險領先同業，憑藉我們的規模及影響",
+        "力，以實踐「健康、長久、好生活」為目標，推動",
+        "亞洲數以百萬計大眾作出轉變。#年，",
+        "我們為股東、客戶、合作夥伴和社區締造可觀",
+        "的價值，為區內的經濟及社會發展帶來積極",
+        "改變及重大貢獻。"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 9,
+      "archetype": "contents_like",
+      "heading": "",
+      "signatures": [
+        "財務狀況強勁、股東回報增加",
+        "友邦保險在# 年締造",
+        "就資本回報提供更高清",
+        "#年#月，友邦保險公佈",
+        "卓越表現，我們的新業務",
+        "晰度。我們的目標是每年",
+        "每股稅後營運溢利自#年",
+        "價值創新高，盈利及產生"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 10,
+      "archetype": "showcase_narrative",
+      "heading": "2024年摘要",
+      "signatures": [
+        "#年摘要",
+        "無可比擬的分銷平台",
+        "友邦保險無可比擬的專屬「最優秀代理」 是業界領先的代理團隊，連續十年蟬聯",
+        "全球百萬圓桌會會員人數之冠並創下紀錄。",
+        "我們在九個市場佔據領先",
+        "百萬圓桌會會籍認可展現",
+        "地位，友邦保險中國、香港",
+        "傑出專業水平、嚴格道德"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 11,
+      "archetype": "contents_like",
+      "heading": "",
+      "signatures": [
+        "集團總部大廈再次開幕",
+        "#年#月#日，友邦保險",
+        "位於香港灣仔司徒拔道",
+        "一號的集團總部大廈經",
+        "重建後正式開幕。友邦",
+        "身心健康、建立連繫並培",
+        "領先的綠色建築認證，包括",
+        "保險大廈設計一流，是香"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 12,
+      "archetype": "contents_like",
+      "heading": "",
+      "signatures": [
+        "以行動",
+        "「再想健康」",
+        "描述，並呼籲對健康作出",
+        "本集團於#年#月推出了",
+        "新定義，鼓勵更多人活得更",
+        "全新品牌活動「再想健康」，",
+        "健康。該活動的主題影片",
+        "作為「aia one billion」願景"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 13,
+      "archetype": "contents_like",
+      "heading": "",
+      "signatures": [
+        "實踐目標",
+        "「aia vitality」",
+        "該計劃遍佈 # 個市場，",
+        "「aia vitality」會員在年",
+        "「aia vitality」是以科學",
+        "內進行超過 #,#萬次",
+        "數據為依據的健康計劃，",
+        "體能活動，並完成超過"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 14,
+      "archetype": "showcase_narrative",
+      "heading": "概覽\n主席報告",
+      "signatures": [
+        "概覽 主席報告",
+        "友邦保險在#年取得卓越表現，盈利性新業務、核心盈利及產生現金流",
+        "等關鍵財務指標均錄得雙位數字增長。向股東返還#億美元後，每股內涵價",
+        "值權益亦增加#%。此外，董事會建議每股末期股息增加#%，並已批准新",
+        "一輪#億美元股份回購。我們策略的專注執行，最大限度地發揮了集團多元",
+        "化業務模式的統一優勢，並使我們能夠取得強勁的業績。",
+        "# 友邦保險控股有限公司"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 15,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "會及管理團隊仍然致力於推動關鍵成果，務求在現時及未來為股東創造價值。",
+        "並為股東締造現金回報。",
+        "任，我們亦已擴大披露，以提供更高透明度和問責性。",
+        "#年主要財務成果",
+        "#月#日，內涵價值權益為#.#億美元，年內每股上升#%。",
+        "公佈的每股稅後營運溢利增長目標。",
+        "#年報 #"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 16,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "概覽",
+        "主席報告",
+        "優化的資本管理政策",
+        "使#年全年股息總額達到每股#.#港仙，增加#%。",
+        "本集團可把握未來的增長機遇，並保持財務靈活性。",
+        "集團董事會的觀點",
+        "複雜的營運環境下取得成功至關重要。",
+        "會有增無減。"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 17,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "精選指數。",
+        "感謝",
+        "做對的事⋯而成果將隨之而來」的營運理念。",
+        "略的成功執行，以及集團作為領先的亞洲地區人壽及健康保險集團的卓越地位。",
+        "價值。",
+        "本人謹代表董事會，衷心感謝各位長期以來的支持。",
+        "謝仕榮"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 18,
+      "archetype": "showcase_narrative",
+      "heading": "集團首席執行官兼總裁報告",
+      "signatures": [
+        "概覽",
+        "集團首席執行官兼總裁報告",
+        "李源祥先生 集團首席執行官兼總裁",
+        "我們的財務和營運業績卓越，足證本集團市場領先的業務具備合適的",
+        "策略重心。我深信，友邦保險處於極其優越的地位，能夠在未來實現",
+        "具盈利性和可持續的增長、盈利及現金回報。",
+        "# 友邦保險控股有限公司"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 19,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "每股上升#%。",
+        "及審慎、可持續及漸進的派息政策，已為股東帶來合計#億美元的總回報。",
+        "我們的資本狀況，返還超出我們需要的資本。",
+        "服務和人才，以滿足消費者不斷轉變的需求。",
+        "期的盈利增長並提升現金流產生，令股東受益。",
+        "#年報 #"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 20,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "概覽",
+        "集團首席執行官兼總裁報告",
+        "集團財務業績摘要",
+        "新業務價值",
+        "#.#億美元，而新業務價值利潤率亦上升#.#個百分點至#.#%。",
+        "利潤率。",
+        "內涵價值權益",
+        "國際財務報告會計準則盈利"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 21,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "按市場劃分的新業務表現",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "戶，將我們優質的增長模式複製到新地區。",
+        "的增長，主要由生產力上升和活躍保險銷售員人數增加所帶動。",
+        "蓋範圍，高淨值及長期儲蓄產品的銷售表現強勁。",
+        "#年報 #"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 22,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "概覽",
+        "集團首席執行官兼總裁報告",
+        "極其優越的地位助力締造未來增長",
+        "產品所帶來的新業務價值增長#%。",
+        "持市場領先地位。",
+        "台規模，新入職代理人數在#年增加#%，而大部分市場均錄得增長。",
+        "增長#%至#.#億美元，佔本集團整體新業務價值的#%。",
+        "個人保障、長期儲蓄、退休及醫療方案。"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 23,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "新加坡。",
+        "能驅動的決策結合，以提升醫療保健服務機構管理及營運效益。",
+        "實現更佳的結果。",
+        "環境、社會及管治和我們的團隊",
+        "任，高瞻遠矚，並展現強大的適應力。",
+        "的報告，使我們能夠取得成功。",
+        "#年報 #"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 24,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "概覽",
+        "集團首席執行官兼總裁報告",
+        "每天為我們的業務帶來動力，對此深感自豪。",
+        "展望",
+        "著，以充分把握只有我們才可得的巨大機遇。",
+        "餘。",
+        "備優越地位，以實現我們在#年及之後的策略目標。",
+        "李源祥"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 25,
+      "archetype": "section_lead",
+      "heading": "財務及營運回顧",
+      "signatures": [
+        "財務及營運回顧",
+        "# 集團首席財務總監回顧",
+        "# 監管及國際發展",
+        "# 業務回顧",
+        "# 風險管理",
+        "# 員工及文化",
+        "# #年報 #"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 26,
+      "archetype": "showcase_narrative",
+      "heading": "財務及營運回顧\n集團首席財務總監回顧",
+      "signatures": [
+        "財務及營運回顧 集團首席財務總監回顧",
+        "garth jones 先生 集團首席財務總監",
+        "友邦保險再創卓越業績，主要財務指標錄得雙位數字增長：新業務",
+        "價值增長#%，而稅後營運溢利及產生的基本自由盈餘分別每股增長",
+        "#%及#%。透過股息及股份回購計劃向股東返還#.#億美元後，每",
+        "股內涵價值權益亦增加#%。",
+        "我們對友邦保險無可比擬的競爭優勢在未來推動新業務持續增長、盈",
+        "利增加及更高的現金回報充滿信心。因此，我們於#年設定每股稅"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 27,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "後營運溢利的三年增長目標，並披露優化的資本管理政策，為我們將如何為",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "股東帶來年度資本回報提供更高清晰度。",
+        "董事會建議增派每股末期股息#%。此外，按照我們的資本管理政策，董事",
+        "會亦批准了額外#億美元股份回購，提升了友邦保險股份的總收益率(#)至",
+        "約#%。友邦保險在卓越業績的基礎上增加股息及帶來額外資本回報，再次",
+        "證明我們對本集團的穩健性和未來前景充滿信心。",
+        "按固定匯率基準提供增長率及作出評述，除另有說明外。"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 28,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "集團首席財務總監回顧",
+        "國際財務報告會計準則盈利",
+        "加#%所推動，並受惠於股份回購。",
+        "加，為我們的有效保單業務增添可觀及層疊的經常性盈利。",
+        "滿信心(#)。",
+        "行動。營運溢利率維持穩健，達#.#%，反映我們高質素的盈利來源。",
+        "#%。"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 29,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "購。",
+        "股息和股份回購合共為股東帶來約#%的總收益率(#)。",
+        "們的稅後營運溢利增長目標(#)以及為股東帶來現金回報充滿信心。",
+        "附註：",
+        "(#) 按實質匯率基準。",
+        "(#) 按合併財務報表附註#所計算。",
+        "為股東資本資源佔所需資本的百分比。"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 30,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "集團首席財務總監回顧",
+        "新業務表現",
+        "按分部劃分的新業務價值、年化新保費及利潤率",
+        "按年變動",
+        "（固定",
+        "新業務",
+        "新業務價 值利潤率"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 31,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "合所支持。",
+        "其他市場的新業務價值增長#%，該分部所有市場均實現新業務價值增長。",
+        "進一步詳情載於本報告的業務回顧內。",
+        "#年報 #"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 32,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "集團首席財務總監回顧",
+        "內涵價值權益",
+        "內涵價值權益變動",
+        "月#日則為#.#億美元。",
+        "有所改善以及對醫療業務所採取的管理行動。",
+        "來一貫以承保優質新業務及積極管理有效保單組合為重點。",
+        "及泰國較低的利率的影響。"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 33,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "內涵價值權益變動分析如下：",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "#年",
+        "經調整 資產淨值、",
+        "商譽及 其他無形資產",
+        "有效保單 業務價值",
+        "內涵價值",
+        "權益"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 34,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "集團首席財務總監回顧",
+        "#年",
+        "經調整 資產淨值、",
+        "商譽及 其他無形資產",
+        "有效保單 業務價值",
+        "內涵價值",
+        "權益"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 35,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "每股內涵價值營運溢利",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "按年變動 （固定匯率）",
+        "按年變動 （實質匯率）",
+        "#年 #年",
+        "按攤薄基準的已發行在外的普通股的",
+        "附註：",
+        "內涵價值及新業務價值敏感度"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 36,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "集團首席財務總監回顧",
+        "國際財務報告會計準則盈利",
+        "稅後營運溢利組成",
+        "#.#%，受惠於我們的資本管理行動。",
+        "營運溢利率仍然非常強勁，達#.#%，反映我們高質素的盈利來源。",
+        "動因素，佔#年稅前營運溢利#%。",
+        "益於對醫療業務採取的管理行動。"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 37,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "按年變動 （固定匯率）",
+        "按年變動 （實質匯率）",
+        "附註：",
+        "合約服務邊際變動，已扣除再保險",
+        "合共使合約服務邊際增加至#.#億美元，相當於增長#%。",
+        "以及模型調整所推動。",
+        "末合約服務邊際為#.#億美元。"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 38,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "集團首席財務總監回顧",
+        "按分部劃分的稅後營運溢利",
+        "部中更高的合約服務邊際釋放，這是稅後營運溢利增長的主要因素。",
+        "響所抵銷。",
+        "收入降低，以及正面的非醫療理賠經驗較#年降低所抵銷。",
+        "業績淨額增加所支持。",
+        "料包括了澳洲儲蓄及投資業務直至其於#年下半年出售前的盈利。"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 39,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "稅後營運溢利的投資業績淨額",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "計入稅後營運溢利的投資業績淨額與非分紅業務(#)及盈餘資產有關。",
+        "非分紅及盈餘資產(#)的投資回報較#年增加#%至#.#億美元。",
+        "按年變動 （固定匯率）",
+        "按年變動 （實質匯率）",
+        "大淨影響。",
+        "#年"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 40,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "集團首席財務總監回顧",
+        "按分部劃分的總加權保費收入",
+        "按年變動 （固定匯率）",
+        "按年變動 （實質匯率）",
+        "營運開支",
+        "開支管理。",
+        "非營運變動及純利"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 41,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "按年變動 （固定匯率）",
+        "按年變動 （實質匯率）",
+        "附註：",
+        "股東分配權益變動",
+        "#年報 #"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 42,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "集團首席財務總監回顧",
+        "合約服務邊際，已扣除再保險及稅前溢利敏感度",
+        "於#年#月#日 於#年#月#日",
+        "股本價格變動的影響",
+        "利率變動的影響",
+        "#年 #年",
+        "對匯率風險的敏感度分析載列於合併財務報表附註#。"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 43,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "國際財務報告會計準則資產負債表",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "合併財務狀況表",
+        "於#年 #月#日",
+        "變動 （實質匯率）",
+        "百萬美元，除另有說明外",
+        "資產",
+        "負債"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 44,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "集團首席財務總監回顧",
+        "資產",
+        "投資現金流入淨額及金融投資的公平值變動所致，部分被向股東返還資本所抵銷。",
+        "負債",
+        "自現金流入淨額及負債貼現率變動，部分被匯率變動帶來的下降所抵銷。",
+        "稅後營運溢利及股東權益並無影響。",
+        "所得款項淨額合共#.#億美元。"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 45,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "少所致，部分被合約服務邊際淨額增加所抵銷。",
+        "於#年 #月#日",
+        "變動 （固定匯率）",
+        "變動 （實質匯率）",
+        "百萬美元，除另有說明外",
+        "附註：",
+        "(#) 經計及再保險、稅項及扣除非控股權益。"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 46,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "集團首席財務總監回顧",
+        "保單持有人及股東投資",
+        "百萬美元，除另有說明外",
+        "分紅基金及具特定資產組合的其他分紅業務(#)",
+        "其他保單持有人及股東",
+        "附註：",
+        "# # 友邦保險控股有限公司"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 47,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "#,#.#億美元。",
+        "配置變動所帶動。",
+        "#%增加，反映#年年底中國內地及泰國較低的利率。",
+        "的權益及可轉換貸款票據增加。",
+        "券（佔全部債券組合的#.#%）於期內降級至投資級別以下。",
+        "#月#日的#.#億美元，主要由於股份回購及資產配置變動。",
+        "附註："
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 48,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "集團首席財務總監回顧",
+        "資本",
+        "自由盈餘",
+        "抵銷，其受利率變動、外匯變動及南韓監管資本要求變動的影響。",
+        "下表概述年內自由盈餘變動：",
+        "產生的基本自由盈餘",
+        "產生的基本自由盈餘為#.#億美元，每股增加#%。"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 49,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "按年變動 （固定匯率）",
+        "按年變動 （實質匯率）",
+        "產生的自由盈餘淨額",
+        "及其他資本變動計算。產生的自由盈餘淨額及其所有組成部分均已扣除相關稅項。",
+        "分派盈利現值。",
+        "年產生的自由盈餘淨額為#.#億美元。",
+        "每股產生的基本自由盈餘"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 50,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "集團首席財務總監回顧",
+        "資本管理政策",
+        "況，並有系統地返還超出我們需要的資本。",
+        "元股份回購。",
+        "股份回購將於實際可行情況下儘快開始，並預期於#年內完成。",
+        "附註：",
+        "(#) 按合併財務報表附註#所計算。"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 51,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "集團當地資本總和法償付能力狀況",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "計量的可用資本、最低資本要求及訂明資本要求進行匯總。",
+        "覆蓋率降低主要是由向股東返還資本所致。",
+        "被向股東返還的資本所抵銷。",
+        "年#月#日生效(#)。",
+        "於#年 #月#日",
+        "百萬美元，除另有說明外"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 52,
+      "archetype": "contents_like",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "集團首席財務總監回顧",
+        "銷。次級永久證券將獲得全部資本信貸額，除非其被贖回；及",
+        "附註：",
+        "(#) 該金額指撥作合資格集團資本資源的中期票據及證券的賬面值。",
+        "集團當地資本總和法覆蓋率敏感度",
+        "度列示如下。",
+        "於#年 #月#日"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 53,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "當地償付能力規定",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "當地償付能力規定的主要發展情況概述如下：",
+        "中華人民共和國香港特別行政區",
+        "局在附屬法例中訂明詳細規定。經修訂條例於#年#月#日生效。",
+        "馬來西亞",
+        "中華人民共和國澳門特別行政區",
+        "估程序，並預期在#年提出法案草案。"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 54,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "集團首席財務總監回顧",
+        "控股公司財務資源",
+        "億美元。",
+        "外支持。",
+        "控股公司財務資源的變動概述如下：",
+        "於十二個月內可收回資產及應償還負債如下：",
+        "於#年 #月#日"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 55,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "全球中期票據及證券計劃",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "等證券於香港聯合交易所有限公司上市。",
+        "元。",
+        "信貸評級",
+        "主權評級前景展望由穩定調整為負面。",
+        "區的主權評級前景展望由穩定調整為負面。",
+        "#年報 #"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 56,
+      "archetype": "dense_narrative",
+      "heading": "財務及營運回顧\n監管及國際發展",
+      "signatures": [
+        "財務及營運回顧 監管及國際發展",
+        "保險資本準則",
+        "則，作為保監協會監管國際活躍保險集團共同框架的量化元素。",
+        "本充足程度規定的基礎上實施該等要求。",
+        "保監協會工作的其他策略性主題",
+        "續密切監察此等發展。",
+        "侵蝕稅基和轉移利潤#.#",
+        "業營運所在的各司法權區引入最低有效稅率。"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 57,
+      "archetype": "dense_narrative",
+      "heading": "業務回顧",
+      "signatures": [
+        "財務及營運回顧",
+        "業務回顧",
+        "無可比擬的分銷平台",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "代理隊伍",
+        "按年變動 （固定匯率）",
+        "按年變動 （實質匯率）",
+        "業務價值增長。代理分銷在#年佔本集團整體新業務價值的#%。"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 58,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "業務回顧",
+        "夥伴分銷",
+        "按年變動 （固定匯率）",
+        "按年變動 （實質匯率）",
+        "為支持集團未來可持續增長的一個關鍵因素。",
+        "產力提升所帶動，以及新業務價值利潤率升至超過#%的水平。",
+        "客戶主張。"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 59,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "地區市場摘要",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "中國內地",
+        "按年變動 （固定匯率）",
+        "按年變動 （實質匯率）",
+        "率均有所提升，代理上升至約#%，銀行保險亦升至約#%。",
+        "業的「最優秀代理」的核心優勢完全一致，並受領先的數碼科技所支持。",
+        "#年報 #"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 60,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "業務回顧",
+        "股份有限公司及中國銀行建立策略性關係。",
+        "生態系統所支持，包括以下類別：",
+        "一次性支付保障覆蓋。",
+        "老金主張一併銷售，進一步完善我們全面的產品系列。",
+        "握價值。",
+        "中郵保險"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 61,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "香港",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "按年變動 （固定匯率）",
+        "按年變動 （實質匯率）",
+        "為未來增長奠定堅實的基礎。",
+        "季重拾動力，於全年實現強勁的新業務價值增長。",
+        "#年報 #"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 62,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "業務回顧",
+        "泰國",
+        "按年變動 （固定匯率）",
+        "按年變動 （實質匯率）",
+        "方式聯繫的能力，簡化與其互動的流程。",
+        "導地位。",
+        "會會員人數持續市場排名第一。"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 63,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "新加坡",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "按年變動 （固定匯率）",
+        "按年變動 （實質匯率）",
+        "勁，帶動新業務價值實現#%的增長。",
+        "#年報 #"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 64,
+      "archetype": "table_dense",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "業務回顧",
+        "馬來西亞",
+        "按年變動 （固定匯率）",
+        "按年變動 （實質匯率）",
+        "萬圓桌會會員人數之冠，並已有八年獲得此殊榮。",
+        "躍銷售員人數的提高及生產力的提升所支持。",
+        "其他市場"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 65,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "強勁增長。",
+        "公司，並在續保率方面維持市場領導地位，突顯我們的業務質素領先。",
+        "內繼續提高代理活躍度及生產力水平。",
+        "銀行夥伴分行數目增加所帶動。",
+        "動。",
+        "的美元計值產品支持下通過我們的銀行夥伴實現卓越表現。",
+        "所支持。"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 66,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "業務回顧",
+        "技術、數碼及分析",
+        "一。",
+        "提供專業的財務建議。",
+        "效的營運效率及提升客戶體驗。",
+        "news)評選為「年度數碼保險公司」。",
+        "提供領先同儕的客戶數碼體驗"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 67,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "賦能無可比擬的分銷平台",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "生產力，幫助我們接觸新客戶，並能夠更迅速地回應客戶不斷轉變的需要。",
+        "知識和客戶保單摘要，並幫助代理處理代理團隊的流程。",
+        "械人，幫助銷售人員獲取產品規格和銷售相關資訊。",
+        "鞏固健康技術基礎",
+        "用光學字元辨識技術和人工智能驅動的自動理賠裁決，加快理賠處理的時間。",
+        "和濫用的偵測能力。"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 68,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "業務回顧",
+        "數據管治和負責任使用人工智能",
+        "務時，採用高質素和完整的數據，作出更佳的決策，並提升用戶體驗。",
+        "靈活性以能滿足當地監管要求和應對新出現的風險。",
+        "全方位的網絡安全技術",
+        "standardization)#認證。",
+        "內的所有主要持份者慎防新出現的威脅。"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 69,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "具吸引力的主張",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "以客戶為中心的方針",
+        "擴大我們服務的客戶群",
+        "全面的退休主張",
+        "高淨值客戶",
+        "邦保險的專屬投資策略和生態系統，旨在把握這個龐大和不斷增長的機會。",
+        "非常強勁增長的關鍵因素。"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 70,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "業務回顧",
+        "客戶可以在一個全方位的框架內實現個人財務目標和福祉的願望。",
+        "全新的一站式醫療禮賓服務，為客戶的健康和醫療旅程提供指引。",
+        "可持續的醫療服務",
+        "持。",
+        "步的消費者。",
+        "障產品。"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 71,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "友邦保險的「綜合醫療保健策略」",
+        "機構，以及在各個業務市場採用最佳的健康科技方案。",
+        "個人化健康保險",
+        "尊」主張，讓客戶能夠繼續享用可負擔的優質醫療保健服務。",
+        "整合醫療保健服務機構",
+        "包括提供藥房和診斷服務。",
+        "客戶提供更多選擇和更具成本效益的治療。"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 72,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "業務回顧",
+        "amplify health",
+        "要的里程碑。",
+        "西亞、印尼、菲律賓和越南。",
+        "智能驅動的決策整合至醫療保健服務機構的管理中，提高了理賠管理的成本效益。",
+        "構建的醫院夥伴網絡－smart，並支援新保險產品的開發。",
+        "# # 友邦保險控股有限公司"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 73,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "領先同儕的客戶體驗",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "客戶體驗過程轉型",
+        "及準確的回應，以達到他們的期望。",
+        "的過程更便捷，促使通過自動核保程序完成的新業務保單比率達到#%。",
+        "以專注於建立客戶關係，而非耗時的行政工作上。",
+        "#年報 #"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 74,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "業務回顧",
+        "推動現有客戶再次購買保單",
+        "值增長#%。",
+        "#%。",
+        "透過數碼渠道與客戶聯繫",
+        "觸的銷售對象所帶來的年化新保費較#年增長#%。",
+        "銷售轉換率得以受惠。"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 75,
+      "archetype": "dense_narrative",
+      "heading": "風險管理",
+      "signatures": [
+        "財務及營運回顧",
+        "風險管理",
+        "概覽",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "全的風險管理能夠支持行業發展及增強公眾對行業的信任。",
+        "監控及報告本集團的主要風險。",
+        "本集團的風險管理架構包括以下主要組成部分：",
+        "• 風險治理；"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 76,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "風險管理",
+        "風險委員會、薪酬委員會及提名委員會）給予協助並提出建議。",
+        "風險委員會架構",
+        "風險委員會架構旨在：",
+        "• 確保於本集團內一致地落實風險管理架構；",
+        "• 提供一套精簡的流程以及時識別、評估及呈報風險事宜；",
+        "• 提供對風險事宜的客觀分析，以助知情決策；及"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 77,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "風險管理文化",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "組織的營運韌性，並支持我們長期持續成功地履行對客戶的承諾。",
+        "問責",
+        "單位首席風險管理總監在大多數情況下亦為其業務單位執行委員會的成員。",
+        "薪酬",
+        "「用對的人，以對的方法，做對的事⋯而成果將隨之而來」貫徹一致。",
+        "風險管理策略及風險胃納"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 78,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "風險管理",
+        "風險原則及風險承受水平",
+        "友邦保險透過五項風險原則支持風險胃納聲明：",
+        "風險原則",
+        "流動性 「友邦保險將維持足夠的流動性以便如期承擔財務償付需求。」",
+        "風險管理流程",
+        "其進行識別、量化和管理，以助創造長期價值。"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 79,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "風險監察",
+        "概覽 財務及營運回顧 企業管治 其他資料 財務報表",
+        "當前及前瞻性風險概況的影響。",
+        "風險控制",
+        "風險呈報、系統及工具",
+        "估（自險評估）報告。",
+        "本集團的主要風險",
+        "本集團的主要風險（儘管並非詳盡無遺）及管理風險的策略詳述如下。"
+      ]
+    },
+    {
+      "year": 2024,
+      "page_no": 80,
+      "archetype": "dense_narrative",
+      "heading": "",
+      "signatures": [
+        "財務及營運回顧",
+        "風險管理",
+        "環境、社會及管治的相關風險",
+        "金融犯罪風險",
+        "政府、個人及實體交易的風險的標準。",
+        "欺詐風險",
+        "有責任保持警惕。偵查控制包括對中介行為的監控及建模以及對僱員開支的核查。",
+        "營運韌性風險"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "year": 2020,
+      "zh_pdf": "D:\\项目\\开源项目\\ontology-scenario\\样本\\中文\\AIA_2020_Annual_Report_zh.pdf",
+      "en_pdf": "D:\\项目\\开源项目\\ontology-scenario\\样本\\英文\\AIA_2020_Annual_Report_en.pdf",
+      "page_count_used": 80
+    },
+    {
+      "year": 2022,
+      "zh_pdf": "D:\\项目\\开源项目\\ontology-scenario\\样本\\中文\\AIA_2022_Annual_Report_zh.pdf",
+      "en_pdf": "D:\\项目\\开源项目\\ontology-scenario\\样本\\英文\\AIA_2022_Annual_Report_en.pdf",
+      "page_count_used": 80
+    },
+    {
+      "year": 2023,
+      "zh_pdf": "D:\\项目\\开源项目\\ontology-scenario\\样本\\中文\\AIA_2023_Annual_Report_zh.pdf",
+      "en_pdf": "D:\\项目\\开源项目\\ontology-scenario\\样本\\英文\\AIA_2023_Annual_Report_en.pdf",
+      "page_count_used": 80
+    },
+    {
+      "year": 2024,
+      "zh_pdf": "D:\\项目\\开源项目\\ontology-scenario\\样本\\中文\\AIA_2024_Annual_Report_zh.pdf",
+      "en_pdf": "D:\\项目\\开源项目\\ontology-scenario\\样本\\英文\\AIA_2024_Annual_Report_en.pdf",
+      "page_count_used": 80
+    }
+  ]
+}

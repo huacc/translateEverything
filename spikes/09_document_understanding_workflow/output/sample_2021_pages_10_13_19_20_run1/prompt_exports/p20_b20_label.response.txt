@@ -1,0 +1,45 @@
+```json
+{
+  "unit_id": "p20_b20",
+  "page_no": 20,
+  "section_id": "new_business_performance",
+  "content_type": "financial_table_row",
+  "speaker_role": null,
+  "topic_tags": [
+    "new_business_metrics",
+    "financial_performance",
+    "annualized_new_premium",
+    "new_business_value"
+  ],
+  "term_hits": [
+    {
+      "source_term": "年化新保費",
+      "target_term": "Annualized New Premium",
+      "abbreviation": "ANP",
+      "confidence": "high"
+    },
+    {
+      "source_term": "新業務價值",
+      "target_term": "New Business Value",
+      "abbreviation": "NBV",
+      "confidence": "high"
+    }
+  ],
+  "needs_context": true,
+  "context_scope": "table",
+  "risk_level": "critical",
+  "risk_flags": [
+    "financial_metric_translation",
+    "percentage_precision",
+    "currency_conversion_notation",
+    "table_structure_integrity"
+  ],
+  "translation_constraints": [
+    "preserve_numerical_precision",
+    "maintain_percentage_formatting",
+    "standardize_currency_notation",
+    "align_with_table_headers",
+    "verify_column_mapping"
+  ]
+}
+```

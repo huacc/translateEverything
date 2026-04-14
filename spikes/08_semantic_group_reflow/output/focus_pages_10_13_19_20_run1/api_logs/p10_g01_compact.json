@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "compact",
+    "page_no": 10,
+    "unit_id": "p10_g01"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是版面回填压缩器。\n语言方向：Traditional Chinese -> English。\n在不改变事实、数字、专有名词和正式语气的前提下，对当前译文做最小必要压缩。\n不得补充新信息，不得删除关键事实，不得改动数字和单位。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市公司企业年报\npage_no: 10\nunit_id: p10_g01\nunit_mode: semantic_group\nslot_count: 4\nsource_text:\n在過去一個世紀，友邦保險\n於亞洲區內，為極需我們服務的\n社區大眾提供保障而備受稱譽，\n這令我們引以為榮。\ncurrent_translation:\nOver the past century, AIA has been highly regarded in the Asia region for providing protection to communities in great need of our services, which makes us proud.\n返回格式:\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p10_g01\",\n      \"translation\": \"<更紧凑译文>\"\n    }\n  ]\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p10_g01\",\n      \"translation\": \"Over the past century, AIA has been highly regarded in Asia for providing protection to underserved communities, a source of pride for us.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "d60d35ca-0148-42dd-9083-5febe6ec1a5c",
+    "conversation_id": "d60d35ca-0148-42dd-9083-5febe6ec1a5c",
+    "id": "d60d35ca-0148-42dd-9083-5febe6ec1a5c",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 329,
+      "output_tokens": 65
+    }
+  }
+}

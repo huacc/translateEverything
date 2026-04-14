@@ -1,0 +1,58 @@
+文档场景：上市公司企业年报
+{
+  "document_background": {
+    "page_sections": [
+      {
+        "target_section": "Group Chief Financial Officer's Review",
+        "content_type": "cfo_review",
+        "page_range": [
+          18,
+          30
+        ]
+      },
+      {
+        "target_section": "Financial and Operating Review",
+        "content_type": "financial_review",
+        "page_range": [
+          17,
+          30
+        ]
+      }
+    ],
+    "roles": [],
+    "terms": [
+      {
+        "source": "內涵價值",
+        "target": "Embedded Value",
+        "abbreviation": "EV",
+        "context": "valuation_metric",
+        "confidence": "high"
+      }
+    ],
+    "style_rules": [
+      "Preserve financial terminology consistency",
+      "Use formal corporate register throughout",
+      "Maintain parallel structure in lists and tables",
+      "Preserve table structure and alignment",
+      "Translate table headers consistently with body text",
+      "Maintain footnote references and numbering",
+      "Convert currency units with precision"
+    ]
+  },
+  "current_unit": {
+    "page_no": 19,
+    "unit_id": "p19_b9",
+    "unit_mode": "single_block",
+    "slot_count": 1,
+    "source_text": "截至2020年12月31日的內涵價值權益創下新高為671.85億美元，於派付股息19.97億美元之前增加52.77億美元，",
+    "current_translation": "Embedded Value equity reached a new high of US$67.185 billion as at 31 December 2020, an increase of US$5.277 billion before the payment of dividends of US$1.997 billion,"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p19_b9",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

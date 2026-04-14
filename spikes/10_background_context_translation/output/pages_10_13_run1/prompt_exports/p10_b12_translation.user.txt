@@ -1,0 +1,76 @@
+文档场景：上市公司企业年报
+请优先使用背景中的标准叫法和术语。
+{
+  "document_background": {
+    "global_profile": {
+      "company_name_target": "AIA GROUP LIMITED",
+      "industry": "Life Insurance",
+      "report_type": "annual_report",
+      "report_year": 2020,
+      "style_keywords": [
+        "corporate governance",
+        "financial performance",
+        "stakeholder communication",
+        "ESG commitment"
+      ]
+    },
+    "page_sections": [
+      {
+        "target_section": "Chairman's Statement",
+        "content_type": "chairman_statement",
+        "page_range": [
+          10,
+          11
+        ]
+      },
+      {
+        "target_section": "Overview",
+        "content_type": "executive_summary",
+        "page_range": [
+          8,
+          16
+        ]
+      }
+    ],
+    "roles": [
+      {
+        "source": "謝仕榮先生",
+        "target": "Mr. Tse Sze-wing",
+        "role": "Independent Non-Executive Chairman"
+      }
+    ],
+    "terms": [],
+    "style_rules": [
+      "Preserve financial terminology consistency",
+      "Use formal corporate register throughout",
+      "Maintain parallel structure in lists and tables",
+      "Section headings use Title Case",
+      "Preserve hierarchical structure of headings",
+      "Translate milestone dates literally"
+    ]
+  },
+  "matched_terms": [],
+  "current_unit": {
+    "page_no": 10,
+    "unit_id": "p10_b12",
+    "unit_mode": "single_block",
+    "block_types": [
+      "label"
+    ],
+    "blocks": [
+      {
+        "block_id": "p10_b12",
+        "source_text": "提供無間斷的支援。"
+      }
+    ],
+    "joined_source_text": "提供無間斷的支援。"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p10_b12",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

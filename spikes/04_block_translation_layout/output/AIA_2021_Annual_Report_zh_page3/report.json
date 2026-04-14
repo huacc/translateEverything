@@ -1,0 +1,17 @@
+[
+  {
+    "page_no": 3,
+    "text_block_count": 11,
+    "compact_retry_count": 10,
+    "fit_summary": {
+      "ok": 2,
+      "font_shrink": 8,
+      "overflow": 1
+    },
+    "original": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_page3\\original\\page_0003_original.png",
+    "redacted": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_page3\\redacted\\page_0003_redacted.png",
+    "translated": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_page3\\translated\\page_0003_translated.png",
+    "comparison": "spikes\\04_block_translation_layout\\output\\AIA_2021_Annual_Report_zh_page3\\comparison\\page_0003_translation_comparison.png",
+    "status": "ok"
+  }
+]

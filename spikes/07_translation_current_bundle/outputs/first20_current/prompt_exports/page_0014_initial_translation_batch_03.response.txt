@@ -1,0 +1,38 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p14_b17",
+      "translation": "Singapore's business also showed excellent improvement in the second half, with new business value increasing 56% compared to the first half and 12% year-on-year. New business value for the full year"
+    },
+    {
+      "block_id": "p14_b18",
+      "translation": "declined 5%, as our offshore partner business was impacted by strict border control measures, offsetting growth from the agency channel. Operating profit after tax increased"
+    },
+    {
+      "block_id": "p14_b19",
+      "translation": "8%."
+    },
+    {
+      "block_id": "p14_b20",
+      "translation": "In Malaysia, new business value declined 13% for the full year, particularly reflecting the strict movement restrictions enforced in the first half. New business value recovered in the second half, growing"
+    },
+    {
+      "block_id": "p14_b21",
+      "translation": "72% compared to the first half."
+    },
+    {
+      "block_id": "p14_b22",
+      "translation": "In other markets, new business value in the second half increased 10% compared to the first half, with positive recoveries in South Korea and Indonesia. Overall, new business value"
+    },
+    {
+      "block_id": "p14_b23",
+      "translation": "declined 4% for the full year, primarily due to declines recorded in New Zealand, the Philippines and Indonesia. The remaining markets all recorded positive new business value growth, with Vietnam,"
+    },
+    {
+      "block_id": "p14_b24",
+      "translation": "Taiwan and India recording double-digit growth in 2020 compared to 2019."
+    }
+  ]
+}
+```

@@ -1,0 +1,56 @@
+文档场景：上市公司企业年报
+{
+  "document_background": {
+    "page_sections": [
+      {
+        "target_section": "Group Chief Executive and President's Report",
+        "content_type": "ceo_report",
+        "page_range": [
+          12,
+          16
+        ]
+      },
+      {
+        "target_section": "Overview",
+        "content_type": "executive_summary",
+        "page_range": [
+          8,
+          16
+        ]
+      }
+    ],
+    "roles": [
+      {
+        "source": "李源祥",
+        "target": "Lee Yuen Cheung",
+        "role": "Group Chief Executive and President"
+      }
+    ],
+    "terms": [],
+    "style_rules": [
+      "Preserve financial terminology consistency",
+      "Use formal corporate register throughout",
+      "Maintain parallel structure in lists and tables",
+      "Use active voice where source permits",
+      "Translate corporate mission statements with care",
+      "Preserve temporal references and context",
+      "Translate market/geographic references consistently"
+    ]
+  },
+  "current_unit": {
+    "page_no": 13,
+    "unit_id": "p13_g05",
+    "unit_mode": "semantic_group",
+    "slot_count": 4,
+    "source_text": "友邦保險具有多項顯著優勢，讓我們在競爭激烈的市場別樹一幟。我們在亞洲經營數十載，擁有區內無可比擬的\n平台，並於我們業務所在的大部分市場雄踞領導地位。我們始終如一地百分百專注於亞洲市場，有助我們在全球\n最具吸引力的壽險業地區全面把握增長機遇。這份專注結合我們領導團隊在亞洲的豐富經驗及員工的優秀質素，\n一直是我們表現卓越的重要動力。",
+    "current_translation": "AIA possesses multiple distinctive competitive advantages that set us apart in a highly competitive market. With decades of operations across Asia, we have built an unparalleled platform within the region and hold leading positions in most of the markets where we conduct business. Our unwavering and complete focus on the Asian market enables us to capture growth opportunities comprehensively across the world's most attractive life insurance region. This strategic focus, combined with our leadership team's extensive experience in Asia and our employees' exceptional capabilities, has been a key driver of our outstanding performance."
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p13_g05",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

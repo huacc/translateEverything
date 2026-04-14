@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "stage": "language_repair",
+    "page_no": 20
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 2200,
+    "temperature": 0,
+    "system": "你是一个用于 PDF 原位回填的翻译修复助手。\n上一轮输出中，部分文本块没有严格使用目标语言，或者出现了乱码/源语言残留。\n你的任务是只修复这些异常块。\n只返回 JSON，不要输出任何解释。\n\n硬约束：\n- 目标语言必须是 English。\n- 不允许保留中文、乱码或源语言残留，除非是受保护的数字、百分比、年份、货币或标准缩写。\n- 不要摘要，不要改写成另一种风格。\n- 保留 block_id。\n- 返回格式：{\"translations\": [{\"block_id\": \"...\", \"translation\": \"...\"}]}\n",
+    "messages": [
+      {
+        "role": "user",
+        "content": "以下文本块的上一轮译文不符合目标语言要求，请重新给出目标语言译文。\n只输出严格 JSON。\n{\n  \"page_no\": 20,\n  \"source_language\": \"Traditional Chinese\",\n  \"target_language\": \"English\",\n  \"problem_blocks\": [\n    {\n      \"block_id\": \"p20_b28\",\n      \"source_text\": \"有限。隨著外出限制放寬，新業務動力得以迅速改善。新業務價值重拾我們慣常的季節性規律，比重更側重於上\",\n      \"current_translation\": \"\",\n      \"block_type\": \"body\",\n      \"line_count\": 1,\n      \"char_count\": 49\n    }\n  ]\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p20_b28\",\n      \"translation\": \"Limited. As restrictions on going out were relaxed, new business momentum improved rapidly. New business value resumed our usual seasonal patterns, with a greater proportion in the upper\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "23b3f5f4-906a-4647-8f69-3e18fc72c771",
+    "conversation_id": "23b3f5f4-906a-4647-8f69-3e18fc72c771",
+    "id": "23b3f5f4-906a-4647-8f69-3e18fc72c771",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 426,
+      "output_tokens": 71
+    }
+  }
+}

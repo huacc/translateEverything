@@ -1,0 +1,89 @@
+﻿请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。
+要求高保真、正式、可出版，不要摘要，不要解释。
+术语表和动态文档背景优先于自由翻译。
+只输出严格 JSON。
+{
+  "page_no": 3,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "relevant_terms": [
+    {
+      "source": "友邦保險",
+      "target": "AIA"
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "p3_b1",
+      "block_type": "heading",
+      "source_text": "友邦保險一覽",
+      "line_count": 1,
+      "char_count": 6,
+      "region": "top",
+      "font_size_avg": 23.39
+    },
+    {
+      "block_id": "p3_b2",
+      "block_type": "body",
+      "source_text": "百萬圓桌會\n註冊會員人數\n全球之冠",
+      "line_count": 3,
+      "char_count": 17,
+      "region": "middle",
+      "font_size_avg": 22.0
+    },
+    {
+      "block_id": "p3_b3",
+      "block_type": "body",
+      "source_text": "全球唯一一家總部\n設於香港、於香港上市\n並100%\n專注於亞洲",
+      "line_count": 4,
+      "char_count": 31,
+      "region": "middle",
+      "font_size_avg": 17.14
+    },
+    {
+      "block_id": "p3_b4",
+      "block_type": "body",
+      "source_text": "在香港聯交所上市、\n香港註冊並將\n總部設於香港\n最大的公司",
+      "line_count": 4,
+      "char_count": 29,
+      "region": "middle",
+      "font_size_avg": 16.86
+    },
+    {
+      "block_id": "p3_b5",
+      "block_type": "body",
+      "source_text": "唯一連續六年\n問鼎百萬圓桌會會員\n人數之冠的跨國公司",
+      "line_count": 3,
+      "char_count": 26,
+      "region": "middle",
+      "font_size_avg": 13.0
+    },
+    {
+      "block_id": "p3_b6",
+      "block_type": "label",
+      "source_text": "的國際人壽\n保險公司",
+      "line_count": 2,
+      "char_count": 10,
+      "region": "middle",
+      "font_size_avg": 13.0
+    },
+    {
+      "block_id": "p3_b7",
+      "block_type": "label",
+      "source_text": "業務覆蓋",
+      "line_count": 1,
+      "char_count": 4,
+      "region": "middle",
+      "font_size_avg": 22.0
+    },
+    {
+      "block_id": "p3_b8",
+      "block_type": "body",
+      "source_text": "為超過\n3,800萬份\n個人保單的持有人及逾\n1,600萬名\n團體保險計劃的參與\n成員提供服務",
+      "line_count": 6,
+      "char_count": 47,
+      "region": "middle",
+      "font_size_avg": 17.83
+    }
+  ]
+}

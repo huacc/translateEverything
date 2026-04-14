@@ -1,0 +1,30 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p11_b9",
+      "translation": "Mr. Wong King-fai, who succeeded Mr. Lee Yuan-tseh upon his retirement, took office as Group Chief Executive Officer and President. On behalf of the Board, I wish to express our deep appreciation"
+    },
+    {
+      "block_id": "p11_b10",
+      "translation": "to Mr. Lee and his management team for their outstanding leadership during this unprecedented environment, which has enabled us to advance our business. We also wish to extend our heartfelt thanks to Mr. Wong King-fai"
+    },
+    {
+      "block_id": "p11_b11",
+      "translation": "for his years of distinguished leadership and significant contributions to AIA."
+    },
+    {
+      "block_id": "p11_b12",
+      "translation": "Environmental, social and governance matters are increasingly important to the world. We are committed to doing our part to help drive society towards a better future, and our environmental,"
+    },
+    {
+      "block_id": "p11_b13",
+      "translation": "social and governance initiatives have once again been recognised in 2020. According to Sustainalytics' assessment, AIA ranked second among over 270 insurance companies,"
+    },
+    {
+      "block_id": "p11_b14",
+      "translation": "which demonstrates our strong corporate governance capabilities and quality. In addition, we have continued to receive recognition from Institutional Shareholder Services"
+    }
+  ]
+}
+```

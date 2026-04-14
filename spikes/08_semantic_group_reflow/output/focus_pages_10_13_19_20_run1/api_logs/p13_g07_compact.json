@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "compact",
+    "page_no": 13,
+    "unit_id": "p13_g07"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是版面回填压缩器。\n语言方向：Traditional Chinese -> English。\n在不改变事实、数字、专有名词和正式语气的前提下，对当前译文做最小必要压缩。\n不得补充新信息，不得删除关键事实，不得改动数字和单位。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市公司企业年报\npage_no: 13\nunit_id: p13_g07\nunit_mode: semantic_group\nslot_count: 3\nsource_text:\n我們旨在使友邦保險在科技應用方面領先全球，加強互聯互通，擴大規模和提升效率。更深入瞭解數據分析有助\n我們締造獨特和個人化的客戶體驗。切合和反映個人需求和生活方式的產品及服務，改變了大眾對人壽保險的看\n法，為我們與客戶建立長遠關係奠定堅實的基礎。\ncurrent_translation:\nWe aim to make AIA a global leader in technology application, strengthen interconnectivity, expand scale and enhance efficiency. A deeper understanding of data analytics helps us create unique and personalized customer experiences. Products and services that meet and reflect individual needs and lifestyles have changed public perception of life insurance, laying a solid foundation for building long-term relationships with our customers.\n返回格式:\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p13_g07\",\n      \"translation\": \"<更紧凑译文>\"\n    }\n  ]\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p13_g07\",\n      \"translation\": \"We aim to make AIA a global technology leader, strengthen interconnectivity, expand scale and enhance efficiency. Deeper data analytics understanding enables us to create unique, personalized customer experiences. Products and services reflecting individual needs and lifestyles have transformed public perception of life insurance, establishing a solid foundation for long-term customer relationships.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "cd4a2979-2f40-440d-a449-fa10f093bb37",
+    "conversation_id": "cd4a2979-2f40-440d-a449-fa10f093bb37",
+    "id": "cd4a2979-2f40-440d-a449-fa10f093bb37",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 458,
+      "output_tokens": 102
+    }
+  }
+}

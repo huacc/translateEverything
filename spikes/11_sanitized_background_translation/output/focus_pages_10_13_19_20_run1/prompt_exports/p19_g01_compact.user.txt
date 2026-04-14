@@ -1,0 +1,51 @@
+文档场景：上市公司企业年报
+{
+  "document_background": {
+    "page_sections": [
+      {
+        "source_section": "集團首席財務總監回顧",
+        "target_section": "Group Chief Financial Officer's Review",
+        "content_type": "cfo_review",
+        "page_range": [
+          18,
+          30
+        ]
+      }
+    ],
+    "roles": [],
+    "terms": [
+      {
+        "source": "友邦保險中國業務",
+        "target": "AIA China"
+      },
+      {
+        "source": "新業務價值",
+        "target": "VONB"
+      }
+    ],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "Use established financial abbreviations for table labels when provided.",
+      "Keep row and column semantics unchanged.",
+      "Use n/m for 無意義."
+    ]
+  },
+  "current_unit": {
+    "page_no": 19,
+    "unit_id": "p19_g01",
+    "unit_mode": "semantic_group",
+    "slot_count": 3,
+    "source_text": "大流行病對我們2020年財務表現的主要影響是對新業務銷售的影響，原因在於我們眾多市場的遏制傳播措施限制\n了面對面的銷售活動，尤其是在2020年上半年。儘管2020年的新業務價值27.65億美元較2019年減少了33%，我\n們迅速採用了新的數碼工具，並且外出限制的普遍放寬支持了銷售勢頭的恢復。友邦保險中國業務為2020年本集",
+    "current_translation": "The pandemic's principal impact on our 2020 financial performance was on new business sales, as containment measures across many of our markets restricted face-to-face sales activities, particularly in the first half of 2020. Despite VONB of US$2.765 billion in 2020 representing a 33% decrease from 2019, we rapidly adopted new digital tools, and the widespread relaxation of movement restrictions supported a recovery in sales momentum. AIA China contributed to the Group's"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p19_g01",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

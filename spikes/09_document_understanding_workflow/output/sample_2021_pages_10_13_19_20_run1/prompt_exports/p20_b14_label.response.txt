@@ -1,0 +1,35 @@
+```json
+{
+  "unit_id": "p20_b14",
+  "page_no": 20,
+  "section_id": "新業務表現",
+  "content_type": "financial_table_data",
+  "speaker_role": null,
+  "topic_tags": [
+    "market_segment",
+    "financial_metrics",
+    "geographic_performance"
+  ],
+  "term_hits": [
+    {
+      "source_term": "市場分部",
+      "target_term": "Market Segment",
+      "context": "business_structure"
+    }
+  ],
+  "needs_context": true,
+  "context_scope": "section",
+  "risk_level": "high",
+  "risk_flags": [
+    "percentage_and_ratio_precision",
+    "financial_metric_translation",
+    "table_structure_alignment"
+  ],
+  "translation_constraints": [
+    "preserve_numerical_precision",
+    "maintain_table_alignment",
+    "consistent_currency_notation",
+    "preserve_percentage_formatting"
+  ]
+}
+```

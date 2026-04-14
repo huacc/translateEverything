@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "compact",
+    "page_no": 10,
+    "unit_id": "p10_g02"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是版面回填压缩器。\n语言方向：Traditional Chinese -> English。\n在不改变事实、数字、专有名词和正式语气的前提下，对当前译文做最小必要压缩。\n不得补充新信息，不得删除关键事实，不得改动数字和单位。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市公司企业年报\npage_no: 10\nunit_id: p10_g02\nunit_mode: semantic_group\nslot_count: 3\nsource_text:\n在2019冠狀病毒病大流行期間，\n我們的同事關懷社群，克盡己職，\n持續為數以百萬計的客戶\ncurrent_translation:\nDuring the COVID-19 pandemic, our colleagues cared for the community and fulfilled their duties, continuing to serve millions of customers\n返回格式:\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p10_g02\",\n      \"translation\": \"<更紧凑译文>\"\n    }\n  ]\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p10_g02\",\n      \"translation\": \"During the COVID-19 pandemic, our colleagues served the community and continued supporting millions of customers\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "8ece0bf7-d4b5-469e-9d08-f9226683c4e0",
+    "conversation_id": "8ece0bf7-d4b5-469e-9d08-f9226683c4e0",
+    "id": "8ece0bf7-d4b5-469e-9d08-f9226683c4e0",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 301,
+      "output_tokens": 56
+    }
+  }
+}

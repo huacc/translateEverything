@@ -1,0 +1,97 @@
+﻿请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。
+要求高保真、正式、可出版，不要摘要，不要解释。
+术语表和动态文档背景优先于自由翻译。
+只输出严格 JSON。
+{
+  "page_no": 7,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "relevant_terms": [
+    {
+      "source": "友邦保險",
+      "target": "AIA"
+    },
+    {
+      "source": "銀行保險",
+      "target": "bancassurance"
+    },
+    {
+      "source": "中國內地",
+      "target": "Mainland China"
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "p7_b9",
+      "block_type": "label",
+      "source_text": "友邦保險在中國內地成立\n獨資人身保險子公司",
+      "line_count": 2,
+      "char_count": 21,
+      "region": "middle",
+      "font_size_avg": 16.0
+    },
+    {
+      "block_id": "p7_b10",
+      "block_type": "label",
+      "source_text": "友邦保險成功於2020年10月將其中國內地",
+      "line_count": 1,
+      "char_count": 21,
+      "region": "middle",
+      "font_size_avg": 10.33
+    },
+    {
+      "block_id": "p7_b11",
+      "block_type": "label",
+      "source_text": "業務改建為首家人身保險子公司，而有關",
+      "line_count": 1,
+      "char_count": 18,
+      "region": "middle",
+      "font_size_avg": 10.0
+    },
+    {
+      "block_id": "p7_b12",
+      "block_type": "label",
+      "source_text": "批復已於2020年6月取得。於2021年3月，",
+      "line_count": 1,
+      "char_count": 23,
+      "region": "middle",
+      "font_size_avg": 10.44
+    },
+    {
+      "block_id": "p7_b13",
+      "block_type": "label",
+      "source_text": "我們已獲得中國銀行保險監督委員會",
+      "line_count": 1,
+      "char_count": 16,
+      "region": "middle",
+      "font_size_avg": 10.0
+    },
+    {
+      "block_id": "p7_b14",
+      "block_type": "label",
+      "source_text": "批復，准予在四川省開業。",
+      "line_count": 1,
+      "char_count": 12,
+      "region": "middle",
+      "font_size_avg": 10.0
+    },
+    {
+      "block_id": "p7_b15",
+      "block_type": "label",
+      "source_text": "友邦保險連續第六年榮登\n百萬圓桌會排名榜首",
+      "line_count": 2,
+      "char_count": 21,
+      "region": "middle",
+      "font_size_avg": 16.0
+    },
+    {
+      "block_id": "p7_b16",
+      "block_type": "label",
+      "source_text": "友邦保險成為全球唯一一家跨國公司連續",
+      "line_count": 1,
+      "char_count": 18,
+      "region": "middle",
+      "font_size_avg": 10.0
+    }
+  ]
+}

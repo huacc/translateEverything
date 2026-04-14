@@ -1,0 +1,38 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p2_b11",
+      "translation": "016 Group Chief Financial Officer's Review"
+    },
+    {
+      "block_id": "p2_b12",
+      "translation": "040 Business Review"
+    },
+    {
+      "block_id": "p2_b13",
+      "translation": "056 Risk Management"
+    },
+    {
+      "block_id": "p2_b14",
+      "translation": "062 Regulatory and International Development"
+    },
+    {
+      "block_id": "p2_b15",
+      "translation": "About AIA"
+    },
+    {
+      "block_id": "p2_b16",
+      "translation": "064 Our Team"
+    },
+    {
+      "block_id": "p2_b18",
+      "translation": "069 Directors' Responsibility Statement"
+    },
+    {
+      "block_id": "p2_b19",
+      "translation": "AIA Group Limited and its Subsidiaries"
+    }
+  ]
+}
+```

@@ -1,0 +1,34 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p11_b1",
+      "translation": "In the fourth quarter of 2020, we celebrated AIA's tenth anniversary of listing on the Hong Kong Stock Exchange. Looking back, AIA's initial public offering set multiple records and remains to this day"
+    },
+    {
+      "block_id": "p11_b2",
+      "translation": "the largest initial public offering in the global insurance industry. I am honored and gratified to work alongside the members of the Board of Directors. AIA's"
+    },
+    {
+      "block_id": "p11_b3",
+      "translation": "business has continued to develop and expand during this period, becoming the world's largest life insurance company by market capitalization."
+    },
+    {
+      "block_id": "p11_b5",
+      "translation": "All non-executive directors of the Board are independent individuals with extensive governance and leadership experience in both the public and private sectors. We work together"
+    },
+    {
+      "block_id": "p11_b6",
+      "translation": "with determination to maintain a corporate culture that adheres to the highest international corporate governance standards. We firmly believe that a deeply rooted corporate governance culture, combined with sound risk"
+    },
+    {
+      "block_id": "p11_b7",
+      "translation": "management framework, is the foundation for sustainable development of every institution."
+    },
+    {
+      "block_id": "p11_b8",
+      "translation": "One of the important responsibilities of the Board is to ensure a strong pipeline of leadership talent and to implement effective succession arrangements. We welcomed Mr. Lee Yuen Shing on 1 June 2020"
+    }
+  ]
+}
+```

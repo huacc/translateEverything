@@ -1,0 +1,50 @@
+文档场景：上市公司企业年报
+{
+  "document_background": {
+    "page_sections": [
+      {
+        "source_section": "新業務表現",
+        "target_section": "New Business Performance",
+        "content_type": "business_metrics",
+        "page_range": [
+          20,
+          21
+        ]
+      },
+      {
+        "source_section": "集團首席財務總監回顧",
+        "target_section": "Group Chief Financial Officer's Review",
+        "content_type": "cfo_review",
+        "page_range": [
+          18,
+          30
+        ]
+      }
+    ],
+    "roles": [],
+    "terms": [],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "Keep headings short, stable and standard.",
+      "Prefer established annual report section names over free paraphrase."
+    ]
+  },
+  "current_unit": {
+    "page_no": 20,
+    "unit_id": "p20_b3",
+    "unit_mode": "single_block",
+    "slot_count": 1,
+    "source_text": "新業務表現",
+    "current_translation": "New Business Performance"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p20_b3",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

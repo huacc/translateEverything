@@ -1,0 +1,351 @@
+﻿以下文本块版面过紧。请在不改变核心含义和正式风格的前提下，仅做最小必要压缩。
+不要摘要，不要解释，只输出严格 JSON。
+{
+  "page_no": 19,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "problem_blocks": [
+    {
+      "block_id": "p19_b3",
+      "block_type": "body",
+      "source_text": "們迅速採用了新的數碼工具，並且外出限制的普遍放寬支持了銷售勢頭的恢復。友邦保險中國業務為2020年本集",
+      "current_translation": "rapidly adopted new digital tools, and the widespread relaxation of movement restrictions supported a recovery in sales momentum. AIA's China business contributed the largest share to the Group's new business value in 2020 and was our first reporting segment to",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.525,
+      "line_count": 1,
+      "char_count": 51,
+      "bbox": [
+        68.03,
+        125.17,
+        521.57,
+        137.12
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p19_b5",
+      "block_type": "body",
+      "source_text": "團的新業務價值帶來最大貢獻，也是我們第一個顯示銷售勢頭有所恢復的報告分部，原因在於該地區自2020年3",
+      "current_translation": "demonstrate a recovery in sales momentum, as the region progressively eased strict lockdowns from March 2020 onwards. Excluding the subdued sales from Mainland China visitors to Hong Kong, new business value across the Group's other segments showed strong",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.518,
+      "line_count": 1,
+      "char_count": 51,
+      "bbox": [
+        68.03,
+        141.17,
+        521.57,
+        153.13
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p19_b6",
+      "block_type": "body",
+      "source_text": "月逐步放寬嚴格的封鎖。撇除維持低位的中國內地訪港旅客銷售額，本集團其他分部的新業務價值在下半年強勁",
+      "current_translation": "recovery in the second half, growing 23% compared to the first half. The Group's new business momentum remained robust into 2021, with new business value in the first two months of 2021 compared to the same period in 2020",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.609,
+      "line_count": 1,
+      "char_count": 49,
+      "bbox": [
+        68.03,
+        157.18,
+        521.48,
+        169.13
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p19_b8",
+      "block_type": "label",
+      "source_text": "期高出15%。",
+      "current_translation": "15% higher than the prior period.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.503,
+      "line_count": 1,
+      "char_count": 7,
+      "bbox": [
+        68.03,
+        189.18,
+        122.08,
+        201.13
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p19_b9",
+      "block_type": "body",
+      "source_text": "截至2020年12月31日的內涵價值權益創下新高為671.85億美元，於派付股息19.97億美元之前增加52.77億美元，",
+      "current_translation": "Embedded value equity reached a new high of US$67.185 billion as at 31 December 2020, increasing by US$5.277 billion before the payment of dividends of US$1.997 billion,",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.766,
+      "line_count": 1,
+      "char_count": 61,
+      "bbox": [
+        68.03,
+        221.18,
+        521.57,
+        233.14
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p19_b10",
+      "block_type": "body",
+      "source_text": "原因在於內涵價值營運溢利72.43億美元抵銷了政府債券收益率下降的影響。內涵價值營運溢利包括來自正面營",
+      "current_translation": "driven by embedded value operating profit of US$7.243 billion which offset the impact of lower government bond yields. Embedded value operating profit includes positive operating variances of US$549 million, reflecting the continued positive experience of our overall portfolio relative to our embedded value assumptions.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.444,
+      "line_count": 1,
+      "char_count": 51,
+      "bbox": [
+        68.03,
+        237.19,
+        521.53,
+        249.14
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p19_b11",
+      "block_type": "body",
+      "source_text": "運差異5.49億美元，原因在於與我們的內涵價值假設相比，我們的整體經驗持續維持正面。",
+      "current_translation": "Operating variance of $549 million, primarily due to our overall experience continuing to be favorable compared to our embedded value assumptions.",
+      "translation_source": "model_repair_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.756,
+      "line_count": 1,
+      "char_count": 42,
+      "bbox": [
+        68.03,
+        253.19,
+        435.51,
+        265.14
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p19_b13",
+      "block_type": "body",
+      "source_text": "並使營運溢利率穩定在16.9%。所收取的續保保費增加了10%，經常性保費總額佔2020年所收取保費的90%以",
+      "current_translation": "while maintaining a stable operating profit margin of 16.9%. Renewal premiums collected increased by 10%, with recurring premiums representing 90% or more of total premiums collected in 2020.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.71,
+      "line_count": 1,
+      "char_count": 54,
+      "bbox": [
+        68.03,
+        301.19,
+        521.56,
+        313.15
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p19_b14",
+      "block_type": "body",
+      "source_text": "上。稅後營運溢利增長受益於全年顯著正面理賠經驗，其抵銷了新固定收入投資的收益率下跌及假設長期股權投",
+      "current_translation": "Operating profit after tax growth benefited from significantly positive claims experience throughout the year, which offset the impact of lower yields on new fixed income investments and the assumption of lower long-term equity returns.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.595,
+      "line_count": 1,
+      "char_count": 49,
+      "bbox": [
+        68.02,
+        317.2,
+        521.47,
+        329.15
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p19_b16",
+      "block_type": "body",
+      "source_text": "來源對稅後營運溢利增長的正面貢獻。在友邦保險泰國業務的失效經驗恢復正常的情況下，下半年的續保率有所",
+      "current_translation": "source contribute positively to the growth in operating profit after tax. With the normalization of lapse experience in AIA's Thailand business, the renewal rate improved in the second half, while the Group's renewal rate was 95%.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.585,
+      "line_count": 1,
+      "char_count": 49,
+      "bbox": [
+        68.02,
+        349.2,
+        521.47,
+        361.15
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p19_b17",
+      "block_type": "label",
+      "source_text": "改善，而本集團的續保率為95%。",
+      "current_translation": "improvement, with the Group's renewal rate at 95%.",
+      "translation_source": "model_repair_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.78,
+      "line_count": 1,
+      "char_count": 16,
+      "bbox": [
+        68.02,
+        365.2,
+        205.1,
+        377.15
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p19_b18",
+      "block_type": "body",
+      "source_text": "產生的基本自由盈餘為58.43億美元，增長了7%，是由我們有效保單組合的持續增長和我們對此積極管理所帶",
+      "current_translation": "generated basic free surplus of US$5.843 billion, an increase of 7%, driven by the continued growth of our in-force portfolio and our active management thereof, which was",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.786,
+      "line_count": 1,
+      "char_count": 51,
+      "bbox": [
+        68.02,
+        397.21,
+        521.55,
+        409.16
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p19_b19",
+      "block_type": "body",
+      "source_text": "動，這足以抵銷預期投資回報降低的影響。於2020年12月31日，本集團的財務狀況仍然十分強勁，於派付股息",
+      "current_translation": "sufficient to offset the expected decline in investment returns. As at 31 December 2020, the Group's financial position remained very strong, and after the payment of dividends of",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.783,
+      "line_count": 1,
+      "char_count": 52,
+      "bbox": [
+        68.01,
+        413.21,
+        521.55,
+        425.16
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p19_b22",
+      "block_type": "body",
+      "source_text": "489%。於2020年12月31日，在新的集團監管框架下，集團當地資本總和法覆蓋率為374%。日後，我們將披露集",
+      "current_translation": "489%. As at 31 December 2020, under the new Group regulatory framework, the Group's local capital aggregation method coverage ratio was 374%. Going forward, we will disclose the Group's",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.72,
+      "line_count": 1,
+      "char_count": 56,
+      "bbox": [
+        68.01,
+        477.22,
+        521.54,
+        489.17
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p19_b23",
+      "block_type": "body",
+      "source_text": "團當地資本總和法覆蓋率，作為衡量本集團監管償付能力的主要指標。",
+      "current_translation": "local capital aggregation method coverage ratio as the primary measure of the Group's regulatory solvency.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.787,
+      "line_count": 1,
+      "char_count": 31,
+      "bbox": [
+        68.01,
+        493.22,
+        353.76,
+        505.17
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p19_b24",
+      "block_type": "body",
+      "source_text": "董事會建議末期股息增加7.5%至每股100.30港仙，並須於本公司應屆股東週年大會上獲股東批准。這使2020年的",
+      "current_translation": "The Board recommends an increase in the final dividend of 7.5% to HK$1.0030 per share, subject to approval by shareholders at the forthcoming Annual General Meeting. This brings the total",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.699,
+      "line_count": 1,
+      "char_count": 56,
+      "bbox": [
+        68.01,
+        525.22,
+        521.47,
+        537.17
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p19_b26",
+      "block_type": "body",
+      "source_text": "續及漸進的派息政策，讓集團可把握未來的增長機遇，並且保持財務靈活性。",
+      "current_translation": "and progressive dividend policy, enabling the Group to capture future growth opportunities while maintaining financial flexibility.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.729,
+      "line_count": 1,
+      "char_count": 34,
+      "bbox": [
+        68.01,
+        557.23,
+        381.43,
+        569.18
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p19_b28",
+      "block_type": "body",
+      "source_text": "增長，並運用我們的競爭優勢，同時維持審慎的財務管理和實現長期股東價值。",
+      "current_translation": "growth, while leveraging our competitive advantages, maintaining prudent financial management and delivering long-term shareholder value.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.676,
+      "line_count": 1,
+      "char_count": 35,
+      "bbox": [
+        68.01,
+        605.23,
+        390.66,
+        617.18
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    }
+  ]
+}

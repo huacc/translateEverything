@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p10_g06",
+      "translation": "The Board recommends a final dividend of HK$1.0030 per share, up 7.5%, reflecting robust financial performance and confidence in the Group's future prospects. This brings the full year 2020 dividend to HK$1.3530 per share. The Board maintains AIA's long-established prudent and sustainable dividend policy."
+    }
+  ]
+}
+```

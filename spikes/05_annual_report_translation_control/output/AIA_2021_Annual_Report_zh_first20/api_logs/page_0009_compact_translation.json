@@ -1,0 +1,21 @@
+{
+  "content": [
+    {
+      "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p9_b2\",\n      \"translation\": \"New business value(2)(7)\"\n    },\n    {\n      \"block_id\": \"p9_b3\",\n      \"translation\": \"Annualized new premiums(3)\"\n    },\n    {\n      \"block_id\": \"p9_b16\",\n      \"translation\": \"Operating profit after tax(4)\"\n    },\n    {\n      \"block_id\": \"p9_b17\",\n      \"translation\": \"Total weighted premium income(5)\"\n    },\n    {\n      \"block_id\": \"p9_b28\",\n      \"translation\": \"Mainland China\\nThailand\\nSingapore\\nMalaysia\\nOther markets\\nHong Kong\"\n    },\n    {\n      \"block_id\": \"p9_b30\",\n      \"translation\": \"(7) New business value of each segment includes retirement business, presented on local statutory basis, excluding unallocated Group head office expenses and before deduction of non-controlling interests.\"\n    },\n    {\n      \"block_id\": \"p9_b34\",\n      \"translation\": \"(3) Annualized new premiums measures new business level, calculated as sum of 100% of annualized first year premiums and 10% of single premiums, before reinsurance ceded.\"\n    },\n    {\n      \"block_id\": \"p9_b35\",\n      \"translation\": \"(4) Operating profit after tax presented is after deduction of non-controlling interests.\"\n    },\n    {\n      \"block_id\": \"p9_b38\",\n      \"translation\": \"(6) Embedded value is the estimated economic value of life insurance business determined using actuarial methods based on specific assumptions about future experience, excluding economic value of future new business. Embedded value equity is the sum of embedded value, goodwill and other intangible assets.\"\n    }\n  ]\n}\n```",
+      "type": "text"
+    }
+  ],
+  "conversationId": "8e80fc3a-f3f8-44e7-b073-a9b03fa044e4",
+  "conversation_id": "8e80fc3a-f3f8-44e7-b073-a9b03fa044e4",
+  "id": "8e80fc3a-f3f8-44e7-b073-a9b03fa044e4",
+  "model": "claude-3-5-sonnet-20241022",
+  "role": "assistant",
+  "stop_reason": "end_turn",
+  "type": "message",
+  "usage": {
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2298,
+    "output_tokens": 413
+  }
+}

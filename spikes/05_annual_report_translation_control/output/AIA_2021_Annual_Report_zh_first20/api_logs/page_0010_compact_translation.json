@@ -1,0 +1,21 @@
+{
+  "content": [
+    {
+      "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p10_b5\",\n      \"translation\": \"has been highly regarded in Asia for providing protection to\"\n    },\n    {\n      \"block_id\": \"p10_b6\",\n      \"translation\": \"communities in great need of our services,\"\n    },\n    {\n      \"block_id\": \"p10_b7\",\n      \"translation\": \"which is a source of great pride for us.\"\n    },\n    {\n      \"block_id\": \"p10_b8\",\n      \"translation\": \"Mr. Xie Shirong\\nIndependent Non-Executive Chairman\"\n    },\n    {\n      \"block_id\": \"p10_b10\",\n      \"translation\": \"our colleagues cared for the community and fulfilled their duties,\"\n    },\n    {\n      \"block_id\": \"p10_b11\",\n      \"translation\": \"continuing to support millions of customers\"\n    },\n    {\n      \"block_id\": \"p10_b13\",\n      \"translation\": \"AIA has a long and distinguished history in Asia. Having successfully managed its business through various periods of social upheaval and uncertainty, the Company has earned an outstanding\"\n    },\n    {\n      \"block_id\": \"p10_b14\",\n      \"translation\": \"reputation, demonstrating that AIA is trustworthy, resilient and robust, and committed to doing the right thing for all stakeholders. Since early 2020, the COVID-19 pandemic has created a constantly evolving and increasingly complex business environment, with unprecedented shifts in political, macroeconomic and capital market conditions. In such an environment,\"\n    },\n    {\n      \"block_id\": \"p10_b15\",\n      \"translation\": \"AIA's financial strength and our purpose of \\\"helping people live healthier, longer, better lives\\\" have become even more significant. I am deeply grateful to all AIA employees, agents and partners who, despite facing the most severe challenges, have cared for the community, fulfilled their duties and remained dedicated to supporting our customers,\"\n    },\n    {\n      \"block_id\": \"p10_b17\",\n      \"translation\": \"Due to the impact of COVID-19 control measures on new business sales, new business value declined to USD 2.765 billion. We quickly adopted innovative digital tools to enhance operational efficiency, and with the recent relaxation of movement restrictions, sales momentum has recovered strongly and continued into early 2021.\"\n    },\n    {\n      \"block_id\": \"p10_b18\",\n      \"translation\": \"Compared with the same period last year, new business value in the first two months of 2021 grew by 15%.\"\n    },\n    {\n      \"block_id\": \"p10_b19\",\n      \"translation\": \"Operating profit after tax increased by 5% to USD 5.942 billion, while underlying free surplus generated rose by 7% to USD 5.843 billion, reflecting the high quality of our recurring earnings sources. Embedded value equity reached a record high of USD 67.2 billion. As at 31 December 2020, the Group's local capital aggregation method coverage ratio was\"\n    },\n    {\n      \"block_id\": \"p10_b21\",\n      \"translation\": \"The Board recommends a final dividend of HK 100.30 cents per share, an increase of 7.5%, reflecting the robust strength of our financial performance and the Board's continued confidence in the Group's future prospects. This brings the full year dividend for 2020 to HK 135.30 cents per share. The Board adheres to AIA's long-established prudent, sustainable\"\n    }\n  ]\n}\n```",
+      "type": "text"
+    }
+  ],
+  "conversationId": "2c19a55a-51cd-4f86-838f-2adf23ceb07f",
+  "conversation_id": "2c19a55a-51cd-4f86-838f-2adf23ceb07f",
+  "id": "2c19a55a-51cd-4f86-838f-2adf23ceb07f",
+  "model": "claude-3-5-sonnet-20241022",
+  "role": "assistant",
+  "stop_reason": "end_turn",
+  "type": "message",
+  "usage": {
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 3237,
+    "output_tokens": 758
+  }
+}

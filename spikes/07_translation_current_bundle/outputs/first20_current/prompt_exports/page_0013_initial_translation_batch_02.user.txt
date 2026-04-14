@@ -1,0 +1,92 @@
+﻿请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。
+要求高保真、正式、可出版，不要摘要，不要解释。
+术语表和动态文档背景优先于自由翻译。
+只输出严格 JSON。
+{
+  "page_no": 13,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "relevant_terms": [
+    {
+      "source": "友邦保險",
+      "target": "AIA"
+    },
+    {
+      "source": "新業務價值",
+      "target": "new business value"
+    },
+    {
+      "source": "稅後營運溢利",
+      "target": "operating profit after tax"
+    },
+    {
+      "source": "內涵價值",
+      "target": "embedded value"
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "p13_b9",
+      "block_type": "body",
+      "source_text": "儘管為遏制2019冠狀病毒病傳播的措施導致新業務價值減少至27.65億美元，但隨著外出限制放寬，銷售動力轉",
+      "line_count": 1,
+      "char_count": 53,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p13_b10",
+      "block_type": "body",
+      "source_text": "趨正面，並在2021年展開非常強勁的勢頭，首兩個月的新業務價值按年增長15%。我們規模龐大和持續增長的有",
+      "line_count": 1,
+      "char_count": 52,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p13_b11",
+      "block_type": "body",
+      "source_text": "效保單組合所帶來的高質素和經常性收入來源，帶動2020年稅後營運溢利增加5%，期內產生的基本自由盈餘則",
+      "line_count": 1,
+      "char_count": 51,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p13_b12",
+      "block_type": "body",
+      "source_text": "增長7%。截至2020年12月31日，內涵價值權益創新高，達672億美元，集團當地資本總和法覆蓋率為374%，足",
+      "line_count": 1,
+      "char_count": 56,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p13_b13",
+      "block_type": "label",
+      "source_text": "證我們雄厚的資本實力和嚴謹的財務管理。",
+      "line_count": 1,
+      "char_count": 19,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p13_b14",
+      "block_type": "body",
+      "source_text": "董事會建議2020年末期股息增加7.5%至每股100.30港仙。這秉承友邦保險行之已久的審慎、可持續及漸進的派息",
+      "line_count": 1,
+      "char_count": 56,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p13_b15",
+      "block_type": "label",
+      "source_text": "政策，讓本集團可把握未來的增長機遇，並且保持財務靈活性。",
+      "line_count": 1,
+      "char_count": 28,
+      "region": "middle",
+      "font_size_avg": 9.0
+    }
+  ]
+}

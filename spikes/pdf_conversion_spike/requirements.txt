@@ -1,0 +1,4 @@
+markitdown[pdf]>=0.1.5
+pypandoc-binary>=1.17
+pdf2docx>=0.5.8
+pypdf>=5.4.0

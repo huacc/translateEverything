@@ -1,0 +1,37 @@
+文档场景：上市公司企业年报
+page_no: 20
+unit_id: p20_g01
+unit_mode: semantic_group
+slot_count: 20
+source_text:
+為符合合併準備金及
+資本要求所作調整
+(103)
+無意義
+無意義
+(87)
+無意義
+無意義
+無意義
+無意義
+未分配集團總部開支的
+稅後價值
+(161)
+無意義
+無意義
+(154)
+無意義
+無意義
+無意義
+無意義
+current_translation:
+Adjustments to comply with consolidation provisions and capital requirements (103) Not meaningful Not meaningful (87) Not meaningful Not meaningful Not meaningful Not meaningful After-tax value of unallocated group head office expenses (161) Not meaningful Not meaningful (154) Not meaningful Not meaningful Not meaningful Not meaningful
+返回格式:
+{
+  "translations": [
+    {
+      "unit_id": "p20_g01",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

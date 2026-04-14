@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p10_g05",
+      "translation": "OPAT grew 5% to US$5.942 billion, while UFSG increased 7% to US$5.843 billion, reflecting our high-quality recurring earnings sources. EV Equity reached a record high of US$67.2 billion. As at 31 December 2020, the Group LCSM cover ratio was 374%, demonstrating our strong capital position and prudent financial management."
+    }
+  ]
+}
+```

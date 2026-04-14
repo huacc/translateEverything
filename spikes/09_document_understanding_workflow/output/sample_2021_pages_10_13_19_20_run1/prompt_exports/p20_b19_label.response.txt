@@ -1,0 +1,37 @@
+```json
+{
+  "unit_id": "p20_b19",
+  "page_no": 20,
+  "section_id": "financial_review",
+  "content_type": "financial_table_row",
+  "speaker_role": null,
+  "topic_tags": [
+    "equity_metrics",
+    "non_controlling_interests",
+    "financial_statement"
+  ],
+  "term_hits": [
+    {
+      "source_term": "非控股權益",
+      "target_term": "Non-Controlling Interests",
+      "context": "equity_metric",
+      "confidence": "high"
+    }
+  ],
+  "needs_context": true,
+  "context_scope": "table",
+  "risk_level": "high",
+  "risk_flags": [
+    "financial_metric_translation",
+    "percentage_and_ratio_precision",
+    "table_structure_integrity"
+  ],
+  "translation_constraints": [
+    "Preserve table alignment and row structure",
+    "Maintain footnote reference markers (24, 32)",
+    "Interpret '無意義' placeholder values consistently",
+    "Verify non-controlling interests calculation against consolidated financial statements",
+    "Cross-reference with IFRS equity classification standards"
+  ]
+}
+```

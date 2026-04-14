@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p20_b7",
+      "translation": "New Business\nValue\nProfit Margin\nAnnualized\nNew Premium\nYear-on-Year Change\n(Constant Exchange Rate)\nYear-on-Year Change\n(Actual Exchange Rate)"
+    }
+  ]
+}
+```

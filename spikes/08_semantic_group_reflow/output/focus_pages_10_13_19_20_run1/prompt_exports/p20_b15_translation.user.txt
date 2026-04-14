@@ -1,0 +1,30 @@
+文档场景：上市公司企业年报
+page_no: 20
+unit_id: p20_b15
+unit_mode: single_block
+blocks:
+[
+  {
+    "block_id": "p20_b15",
+    "source_text": "小計\n3,053\n57.7%\n5,219\n4,427\n66.6%\n6,585\n(31)%\n(31)%"
+  }
+]
+joined_source_text:
+小計
+3,053
+57.7%
+5,219
+4,427
+66.6%
+6,585
+(31)%
+(31)%
+返回格式:
+{
+  "translations": [
+    {
+      "unit_id": "p20_b15",
+      "translation": "<译文>"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+文档场景：上市公司企业年报
+page_no: 20
+unit_id: p20_b10
+unit_mode: single_block
+命中术语约束:
+[
+  {
+    "source": "泰國",
+    "target": "Thailand"
+  }
+]
+blocks:
+[
+  {
+    "block_id": "p20_b10",
+    "source_text": "泰國\n469\n71.0%\n661\n494\n67.7%\n729\n(4)%\n(5)%"
+  }
+]
+joined_source_text:
+泰國
+469
+71.0%
+661
+494
+67.7%
+729
+(4)%
+(5)%
+返回格式:
+{
+  "translations": [
+    {
+      "unit_id": "p20_b10",
+      "translation": "<译文>"
+    }
+  ]
+}

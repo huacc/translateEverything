@@ -1,0 +1,21 @@
+{
+  "content": [
+    {
+      "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p6_b1\",\n      \"translation\": \"AIA's business today was founded by Starr\"\n    },\n    {\n      \"block_id\": \"p6_b2\",\n      \"translation\": \"long-term relationships, which often transcend\"\n    },\n    {\n      \"block_id\": \"p6_b3\",\n      \"translation\": \"Mr. (Cornelius Vander Starr)\"\n    },\n    {\n      \"block_id\": \"p6_b4\",\n      \"translation\": \"generations.\"\n    },\n    {\n      \"block_id\": \"p6_b5\",\n      \"translation\": \"Founded in 1919 in Shanghai.\"\n    },\n    {\n      \"block_id\": \"p6_b6\",\n      \"translation\": \"Committed to bringing significant and positive impact\"\n    },\n    {\n      \"block_id\": \"p6_b7\",\n      \"translation\": \"Since then, AIA has grown to become the world's largest\"\n    },\n    {\n      \"block_id\": \"p6_b8\",\n      \"translation\": \"to our customers and communities. AIA aims to help people\"\n    },\n    {\n      \"block_id\": \"p6_b9\",\n      \"translation\": \"Pan-Asia independent listed life insurance group, serving\"\n    },\n    {\n      \"block_id\": \"p6_b10\",\n      \"translation\": \"achieve healthier, longer, better lives. Our goal is to\"\n    },\n    {\n      \"block_id\": \"p6_b11\",\n      \"translation\": \"across 18 markets, serving over 38 million individual\"\n    },\n    {\n      \"block_id\": \"p6_b12\",\n      \"translation\": \"guide our decisions and work as an institution\"\n    },\n    {\n      \"block_id\": \"p6_b13\",\n      \"translation\": \"policyholders and over 16 million group insurance\"\n    },\n    {\n      \"block_id\": \"p6_b14\",\n      \"translation\": \"purpose: to help people understand and manage their health and\"\n    },\n    {\n      \"block_id\": \"p6_b15\",\n      \"translation\": \"plan members.\"\n    },\n    {\n      \"block_id\": \"p6_b16\",\n      \"translation\": \"meet their long-term savings and protection needs. We\"\n    },\n    {\n      \"block_id\": \"p6_b17\",\n      \"translation\": \"believe that now and in the future, the most important and most\"\n    },\n    {\n      \"block_id\": \"p6_b18\",\n      \"translation\": \"Our contributions support the social and\"\n    },\n    {\n      \"block_id\": \"p6_b19\",\n      \"translation\": \"valuable work we can do for our communities is to\"\n    },\n    {\n      \"block_id\": \"p6_b20\",\n      \"translation\": \"economic development of the markets we serve, while also\"\n    },\n    {\n      \"block_id\": \"p6_b21\",\n      \"translation\": \"helping create a healthier Asia.\"\n    },\n    {\n      \"block_id\": \"p6_b22\",\n      \"translation\": \"expand life insurance coverage and impact. We are also proud\"\n    },\n    {\n      \"block_id\": \"p6_b23\",\n      \"translation\": \"to maintain long-term relationships with our customers and agents\"\n    },\n    {\n      \"block_id\": \"p6_b24\",\n      \"translation\": \"004\"\n    }\n  ]\n}\n```",
+      "type": "text"
+    }
+  ],
+  "conversationId": "1a959d4a-dbb6-4648-a519-76425c38ca54",
+  "conversation_id": "1a959d4a-dbb6-4648-a519-76425c38ca54",
+  "id": "1a959d4a-dbb6-4648-a519-76425c38ca54",
+  "model": "claude-3-5-sonnet-20241022",
+  "role": "assistant",
+  "stop_reason": "end_turn",
+  "type": "message",
+  "usage": {
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2064,
+    "output_tokens": 772
+  }
+}

@@ -1,0 +1,80 @@
+﻿请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。
+要求高保真、正式、可出版，不要摘要，不要解释。
+术语表和动态文档背景优先于自由翻译。
+只输出严格 JSON。
+{
+  "page_no": 13,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "relevant_terms": [
+    {
+      "source": "友邦保險",
+      "target": "AIA"
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "p13_b1",
+      "block_type": "body",
+      "source_text": "友邦保險是客戶誠可信賴的夥伴，讓客戶在關注財務安全和家庭保障時仍可安心無憂。儘管2019冠狀病毒病大",
+      "line_count": 1,
+      "char_count": 50,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p13_b2",
+      "block_type": "body",
+      "source_text": "流行的影響深遠，但我衷心感謝我們的員工、代理和合作夥伴在適應新工作方式並確保為客戶提供無間斷的支援",
+      "line_count": 1,
+      "char_count": 49,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p13_b3",
+      "block_type": "label",
+      "source_text": "時，展現靈活應變的能力和克盡己職的精神。",
+      "line_count": 1,
+      "char_count": 20,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p13_b5",
+      "block_type": "body",
+      "source_text": "自疫情大流行開始以來，本集團的各業務團隊反應迅速，積極協助紓緩對社區的影響，同時確保員工安全。本集",
+      "line_count": 1,
+      "char_count": 49,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p13_b6",
+      "block_type": "body",
+      "source_text": "團為此廣泛採取多項措拖，包括財政支持、提供醫療物資、免費保障覆蓋、獲取醫療保健資源、精簡服務流程和",
+      "line_count": 1,
+      "char_count": 49,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p13_b7",
+      "block_type": "body",
+      "source_text": "加快理賠支付，令我引以為榮。我們一如既往找出每一個可以作出理賠的理由，年內已支付逾160億美元的保險",
+      "line_count": 1,
+      "char_count": 50,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p13_b8",
+      "block_type": "label",
+      "source_text": "給付及理賠，為客戶提供極其重要的財務保障。",
+      "line_count": 1,
+      "char_count": 21,
+      "region": "middle",
+      "font_size_avg": 9.0
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "content": [
+    {
+      "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p7_b1\",\n      \"translation\": \"2020 Milestones\"\n    },\n    {\n      \"block_id\": \"p7_b2\",\n      \"translation\": \"AIA commits $100M to AIA Scholarship\"\n    },\n    {\n      \"block_id\": \"p7_b3\",\n      \"translation\": \"AIA launches AIA Scholarship, commits to\"\n    },\n    {\n      \"block_id\": \"p7_b4\",\n      \"translation\": \"Supports outstanding students serving\"\n    },\n    {\n      \"block_id\": \"p7_b5\",\n      \"translation\": \"$100M invested, annual support for decades\"\n    },\n    {\n      \"block_id\": \"p7_b6\",\n      \"translation\": \"society; those needing financial aid to\"\n    },\n    {\n      \"block_id\": \"p7_b7\",\n      \"translation\": \"100 undergrads from HK universities\"\n    },\n    {\n      \"block_id\": \"p7_b9\",\n      \"translation\": \"AIA establishes life insurance subsidiary in mainland China\"\n    },\n    {\n      \"block_id\": \"p7_b10\",\n      \"translation\": \"Oct 2020: AIA converts mainland business into\"\n    },\n    {\n      \"block_id\": \"p7_b11\",\n      \"translation\": \"first life insurance subsidiary; approval\"\n    },\n    {\n      \"block_id\": \"p7_b12\",\n      \"translation\": \"obtained June 2020. March 2021:\"\n    },\n    {\n      \"block_id\": \"p7_b13\",\n      \"translation\": \"CBIRC approval received to\"\n    },\n    {\n      \"block_id\": \"p7_b14\",\n      \"translation\": \"operate in Sichuan Province\"\n    },\n    {\n      \"block_id\": \"p7_b15\",\n      \"translation\": \"AIA #1 in MDRT for 6th consecutive year\"\n    },\n    {\n      \"block_id\": \"p7_b16\",\n      \"translation\": \"Only multinational with most MDRT\"\n    },\n    {\n      \"block_id\": \"p7_b17\",\n      \"translation\": \"members 6 years running\"\n    },\n    {\n      \"block_id\": \"p7_b18\",\n      \"translation\": \"2020 Report 005\"\n    }\n  ]\n}\n```",
+      "type": "text"
+    }
+  ],
+  "conversationId": "4687f9b8-5055-4026-aeac-dc6c080fe605",
+  "conversation_id": "4687f9b8-5055-4026-aeac-dc6c080fe605",
+  "id": "4687f9b8-5055-4026-aeac-dc6c080fe605",
+  "model": "claude-3-5-sonnet-20241022",
+  "role": "assistant",
+  "stop_reason": "end_turn",
+  "type": "message",
+  "usage": {
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2810,
+    "output_tokens": 528
+  }
+}

@@ -1,0 +1,104 @@
+﻿以下文本块版面过紧。请在不改变核心含义和正式风格的前提下，仅做最小必要压缩。
+不要摘要，不要解释，只输出严格 JSON。
+{
+  "page_no": 12,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "problem_blocks": [
+    {
+      "block_id": "p12_b3",
+      "block_type": "label",
+      "source_text": "友邦保險再度錄得非常強勁的業績，反映我們表現",
+      "current_translation": "AIA has once again delivered exceptionally strong results, reflecting the outstanding",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.708,
+      "line_count": 1,
+      "char_count": 22,
+      "bbox": [
+        73.7,
+        142.87,
+        403.7,
+        162.43
+      ],
+      "font_size_avg": 15.0,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p12_b4",
+      "block_type": "label",
+      "source_text": "卓越的團隊努力不懈的成果。我們的員工能迅速",
+      "current_translation": "performance of our dedicated teams. Our employees have demonstrated the ability to respond swiftly",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.581,
+      "line_count": 1,
+      "char_count": 21,
+      "bbox": [
+        73.7,
+        166.87,
+        392.87,
+        186.43
+      ],
+      "font_size_avg": 15.0,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p12_b5",
+      "block_type": "label",
+      "source_text": "和靈活應對瞬息萬變的經營環境，令我深感自豪。",
+      "current_translation": "and flexibly to the rapidly changing business environment, which fills me with pride.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.731,
+      "line_count": 1,
+      "char_count": 22,
+      "bbox": [
+        73.7,
+        190.87,
+        403.7,
+        210.43
+      ],
+      "font_size_avg": 15.0,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p12_b6",
+      "block_type": "label",
+      "source_text": "憑藉矢志不渝的承諾，我們協助客戶駕馭不明朗的",
+      "current_translation": "With our unwavering commitment, we have helped our customers navigate an uncertain",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.679,
+      "line_count": 1,
+      "char_count": 22,
+      "bbox": [
+        73.7,
+        214.87,
+        403.7,
+        234.43
+      ],
+      "font_size_avg": 15.0,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p12_b7",
+      "block_type": "label",
+      "source_text": "環境，同時加快落實我們的策略計劃。",
+      "current_translation": "environment, while accelerating the implementation of our strategic plans.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.636,
+      "line_count": 1,
+      "char_count": 17,
+      "bbox": [
+        73.7,
+        238.87,
+        328.7,
+        258.43
+      ],
+      "font_size_avg": 15.0,
+      "suggested_font": "F_ARIALNB"
+    }
+  ]
+}

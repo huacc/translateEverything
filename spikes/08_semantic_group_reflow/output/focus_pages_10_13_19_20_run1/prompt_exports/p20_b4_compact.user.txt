@@ -1,0 +1,18 @@
+文档场景：上市公司企业年报
+page_no: 20
+unit_id: p20_b4
+unit_mode: single_block
+slot_count: 1
+source_text:
+按分部劃分的新業務價值、年化新保費及利潤率
+current_translation:
+New business value, annualized new premiums and profit margins by segment
+返回格式:
+{
+  "translations": [
+    {
+      "unit_id": "p20_b4",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+```json
+{
+  "unit_id": "p13_g03",
+  "page_no": 13,
+  "section_id": "Group Chief Executive and President's Report",
+  "content_type": "financial_narrative",
+  "speaker_role": "ceo",
+  "topic_tags": [
+    "financial_performance",
+    "new_business_metrics",
+    "capital_strength",
+    "covid_19_impact",
+    "operational_results"
+  ],
+  "term_hits": [
+    {
+      "source_term": "2019冠狀病毒病",
+      "target_term": "COVID-19",
+      "context": "external_event"
+    },
+    {
+      "source_term": "新業務價值",
+      "target_term": "New Business Value",
+      "abbreviation": "NBV"
+    },
+    {
+      "source_term": "有效保單",
+      "target_term": "In-Force Business"
+    },
+    {
+      "source_term": "稅後營運溢利",
+      "target_term": "Operating Profit After Tax",
+      "abbreviation": "OPAT"
+    },
+    {
+      "source_term": "自由盈餘",
+      "target_term": "Free Surplus"
+    },
+    {
+      "source_term": "內涵價值權益",
+      "target_term": "Embedded Value Equity",
+      "abbreviation": "EV"
+    }
+  ],
+  "needs_context": true,
+  "context_scope": "section",
+  "risk_level": "critical",
+  "risk_flags": [
+    "financial_metric_translation",
+    "percentage_precision",
+    "currency_conversion_notation",
+    "covid_19_context_sensitivity"
+  ],
+  "translation_constraints": [
+    "Preserve exact numerical values: 27.65億美元, 15%, 5%, 7%, 672億美元, 374%",
+    "Maintain formal corporate register in CEO statement",
+    "Standardize currency notation to US$ or USD throughout",
+    "Ensure consistent financial terminology per termbase",
+    "Preserve temporal references: 2020年, 2021年, 首兩個月, 2020年12月31日",
+    "Verify COVID-19 impact narrative aligns with company's English disclosure",
+    "Cross-reference capital adequacy metrics against IFRS standards"
+  ]
+}
+```

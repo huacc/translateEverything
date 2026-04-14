@@ -1,0 +1,21 @@
+{
+  "content": [
+    {
+      "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p25_b1\",\n      \"translation\": \"High-quality recurring profits and active in-force policy management drove after-tax operating profit up 5% to $5.942 billion,\"\n    },\n    {\n      \"block_id\": \"p25_b2\",\n      \"translation\": \"maintaining operating margin at 16.9%. Renewal premiums rose 10%, with recurring premiums at 90% of 2020 total premiums.\"\n    },\n    {\n      \"block_id\": \"p25_b3\",\n      \"translation\": \"Growth benefited from strong positive claims experience, offsetting lower fixed income returns and reduced equity return assumptions.\"\n    },\n    {\n      \"block_id\": \"p25_b5\",\n      \"translation\": \"As expected, H1's exceptional medical claims experience didn't recur in H2, but positive contributions continued.\"\n    },\n    {\n      \"block_id\": \"p25_b6\",\n      \"translation\": \"With AIA Thailand's lapse experience normalizing, H2 renewal rates improved; Group renewal rate: 95%.\"\n    },\n    {\n      \"block_id\": \"p25_b7\",\n      \"translation\": \"Group renewal rate: 95%.\"\n    },\n    {\n      \"block_id\": \"p25_b8\",\n      \"translation\": \"Mainland China grew strongly with after-tax operating profit up 14%, driven by growing in-force policies and favorable claims.\"\n    },\n    {\n      \"block_id\": \"p25_b9\",\n      \"translation\": \"H1's strong positive claims normalized in H2, but full-year claims experience remained positive.\"\n    },\n    {\n      \"block_id\": \"p25_b10\",\n      \"translation\": \"Hong Kong's after-tax operating profit rose 10%, with business growth and favorable claims offsetting lower bond yields.\"\n    },\n    {\n      \"block_id\": \"p25_b11\",\n      \"translation\": \"Offset by lower long-term investment return assumptions since end-2019.\"\n    },\n    {\n      \"block_id\": \"p25_b12\",\n      \"translation\": \"Thailand's after-tax operating profit fell 7%. H2 lapse improvement was offset by Thai stock decline and lower equity assumptions.\"\n    },\n    {\n      \"block_id\": \"p25_b13\",\n      \"translation\": \"Offset positive operations and business growth.\"\n    },\n    {\n      \"block_id\": \"p25_b14\",\n      \"translation\": \"Singapore's after-tax operating profit rose 8%, benefiting from in-force growth and improved renewal rates, expenses, and claims.\"\n    },\n    {\n      \"block_id\": \"p25_b15\",\n      \"translation\": \"Malaysia's after-tax operating profit remained stable as growth and positive claims were offset by a one-time industry initiative provision.\"\n    },\n    {\n      \"block_id\": \"p25_b18\",\n      \"translation\": \"Other markets' after-tax operating profit fell 11%. Australia down $68M vs 2019, mainly from lower disability insurance yields.\"\n    },\n    {\n      \"block_id\": \"p25_b19\",\n      \"translation\": \"Taiwan and Vietnam growth offset by declines in Indonesia, Philippines, and South Korea.\"\n    },\n    {\n      \"block_id\": \"p25_b20\",\n      \"translation\": \"Average shareholders' equity up 11% to $45.7B; return on equity: 13.0%.\"\n    },\n    {\n      \"block_id\": \"p25_b21\",\n      \"translation\": \"2020 Report 023\"\n    }\n  ]\n}\n```",
+      "type": "text"
+    }
+  ],
+  "conversationId": "78dde015-b5f8-4f65-be27-03e8cef9fe5b",
+  "conversation_id": "78dde015-b5f8-4f65-be27-03e8cef9fe5b",
+  "id": "78dde015-b5f8-4f65-be27-03e8cef9fe5b",
+  "model": "claude-3-5-sonnet-20241022",
+  "role": "assistant",
+  "stop_reason": "end_turn",
+  "type": "message",
+  "usage": {
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 3844,
+    "output_tokens": 783
+  }
+}

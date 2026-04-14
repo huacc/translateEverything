@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p20_b12",
+      "translation": "Malaysia\n222\n59.9%\n369\n258\n63.1%\n406\n(13)%\n(14)%"
+    }
+  ]
+}
+```

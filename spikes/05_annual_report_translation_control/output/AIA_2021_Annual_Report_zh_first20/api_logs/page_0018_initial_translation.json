@@ -1,0 +1,21 @@
+{
+  "content": [
+    {
+      "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p18_b3\",\n      \"translation\": \"Despite the unprecedented business and macroeconomic environment in 2020, AIA achieved\"\n    },\n    {\n      \"block_id\": \"p18_b4\",\n      \"translation\": \"strong financial performance. Despite the impact of global pandemic-related mobility restrictions on new business value,\"\n    },\n    {\n      \"block_id\": \"p18_b5\",\n      \"translation\": \"we recorded solid growth in operating profit after tax, generated free surplus on a basic basis,\"\n    },\n    {\n      \"block_id\": \"p18_b6\",\n      \"translation\": \"and embedded value equity. Our financial position remains very robust,\"\n    },\n    {\n      \"block_id\": \"p18_b7\",\n      \"translation\": \"enabling us to continue investing amid numerous growth opportunities.\"\n    },\n    {\n      \"block_id\": \"p18_b8\",\n      \"translation\": \"Growth rates and commentary are provided on a constant exchange rate basis.\"\n    },\n    {\n      \"block_id\": \"p18_b9\",\n      \"translation\": \"Overview and Key Financial Summary\"\n    },\n    {\n      \"block_id\": \"p18_b10\",\n      \"translation\": \"In 2020, AIA delivered strong financial performance amid the unprecedented business and macroeconomic conditions brought by the global pandemic. Although mobility restrictions led to\"\n    },\n    {\n      \"block_id\": \"p18_b11\",\n      \"translation\": \"a decline in new business value in 2020, as business adjusted and restrictions eased, we saw a recovery in sales momentum. This momentum continued\"\n    },\n    {\n      \"block_id\": \"p18_b12\",\n      \"translation\": \"into 2021, with new business value in the first two months growing 15% compared to the same period in 2020. Over the years, our prudent financial management and strategic focus on high-quality business\"\n    },\n    {\n      \"block_id\": \"p18_b13\",\n      \"translation\": \"have been reflected in continued growth in operating profit after tax and generated free surplus on a basic basis, a robust and resilient capital position, and further growth in dividend per share.\"\n    },\n    {\n      \"block_id\": \"p18_b14\",\n      \"translation\": \"\"\n    },\n    {\n      \"block_id\": \"p18_b15\",\n      \"translation\": \"Mr. Garth Jones\\nGroup Chief Financial Officer\"\n    }\n  ]\n}\n```",
+      "type": "text"
+    }
+  ],
+  "conversationId": "f5253b35-7cde-4ecf-b7fd-03fc3c48923d",
+  "conversation_id": "f5253b35-7cde-4ecf-b7fd-03fc3c48923d",
+  "id": "f5253b35-7cde-4ecf-b7fd-03fc3c48923d",
+  "model": "claude-3-5-sonnet-20241022",
+  "role": "assistant",
+  "stop_reason": "end_turn",
+  "type": "message",
+  "usage": {
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2543,
+    "output_tokens": 539
+  }
+}

@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p13_g06",
+      "translation": "Our unparalleled distribution strength enables direct customer engagement and high-quality professional advice to meet the substantial and growing long-term protection and savings needs of Asian consumers. As the public increasingly expects companies to address their needs sustainably, AIA's market-leading brand is founded on helping people achieve healthy, long and fulfilling lives."
+    }
+  ]
+}
+```

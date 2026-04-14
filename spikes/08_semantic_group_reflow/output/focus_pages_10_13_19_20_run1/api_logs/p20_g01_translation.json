@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 20,
+    "unit_id": "p20_g01"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是上市公司年报翻译器。\n语言方向：Traditional Chinese -> English。\n只翻译当前输入，不补充、不解释、不总结。\n如果当前输入由多个连续块组成，只允许在当前组内做跨块理解；不得引入组外内容。\n数字、百分比、货币、年份、专有名词、公司名、人名、地名必须准确。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市公司企业年报\npage_no: 20\nunit_id: p20_g01\nunit_mode: semantic_group\nblocks:\n[\n  {\n    \"block_id\": \"p20_b16\",\n    \"source_text\": \"為符合合併準備金及\\n資本要求所作調整\\n(103)\\n無意義\\n無意義\\n(87)\\n無意義\\n無意義\\n無意義\\n無意義\"\n  },\n  {\n    \"block_id\": \"p20_b17\",\n    \"source_text\": \"未分配集團總部開支的\\n稅後價值\\n(161)\\n無意義\\n無意義\\n(154)\\n無意義\\n無意義\\n無意義\\n無意義\"\n  }\n]\njoined_source_text:\n為符合合併準備金及\n資本要求所作調整\n(103)\n無意義\n無意義\n(87)\n無意義\n無意義\n無意義\n無意義\n未分配集團總部開支的\n稅後價值\n(161)\n無意義\n無意義\n(154)\n無意義\n無意義\n無意義\n無意義\n返回格式:\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p20_g01\",\n      \"translation\": \"<译文>\"\n    }\n  ]\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p20_g01\",\n      \"translation\": \"Adjustments to comply with consolidation provisions and capital requirements\\n(103)\\nNot meaningful\\nNot meaningful\\n(87)\\nNot meaningful\\nNot meaningful\\nNot meaningful\\nNot meaningful\\nAfter-tax value of unallocated group head office expenses\\n(161)\\nNot meaningful\\nNot meaningful\\n(154)\\nNot meaningful\\nNot meaningful\\nNot meaningful\\nNot meaningful\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "14a0895e-986b-49d6-9c0e-6fb8936c20be",
+    "conversation_id": "14a0895e-986b-49d6-9c0e-6fb8936c20be",
+    "id": "14a0895e-986b-49d6-9c0e-6fb8936c20be",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 565,
+      "output_tokens": 125
+    }
+  }
+}

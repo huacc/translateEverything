@@ -1,0 +1,92 @@
+文档场景：上市公司企业年报
+请优先使用背景中的标准叫法和术语。
+{
+  "document_background": {
+    "global_profile": {
+      "company_name_target": "AIA GROUP LIMITED",
+      "industry": "Life Insurance",
+      "report_type": "annual_report",
+      "report_year": 2020,
+      "style_keywords": [
+        "corporate governance",
+        "financial performance",
+        "stakeholder communication",
+        "ESG commitment"
+      ]
+    },
+    "page_sections": [
+      {
+        "target_section": "Group Chief Executive and President's Report",
+        "content_type": "ceo_report",
+        "page_range": [
+          12,
+          16
+        ]
+      },
+      {
+        "target_section": "Overview",
+        "content_type": "executive_summary",
+        "page_range": [
+          8,
+          16
+        ]
+      }
+    ],
+    "roles": [
+      {
+        "source": "李源祥",
+        "target": "Lee Yuen Cheung",
+        "role": "Group Chief Executive and President"
+      }
+    ],
+    "terms": [],
+    "style_rules": [
+      "Preserve financial terminology consistency",
+      "Use formal corporate register throughout",
+      "Maintain parallel structure in lists and tables",
+      "Use active voice where source permits",
+      "Translate corporate mission statements with care",
+      "Preserve temporal references and context",
+      "Translate market/geographic references consistently"
+    ]
+  },
+  "matched_terms": [],
+  "current_unit": {
+    "page_no": 13,
+    "unit_id": "p13_g02",
+    "unit_mode": "semantic_group",
+    "block_types": [
+      "body",
+      "body",
+      "body",
+      "label"
+    ],
+    "blocks": [
+      {
+        "block_id": "p13_b5",
+        "source_text": "自疫情大流行開始以來，本集團的各業務團隊反應迅速，積極協助紓緩對社區的影響，同時確保員工安全。本集"
+      },
+      {
+        "block_id": "p13_b6",
+        "source_text": "團為此廣泛採取多項措拖，包括財政支持、提供醫療物資、免費保障覆蓋、獲取醫療保健資源、精簡服務流程和"
+      },
+      {
+        "block_id": "p13_b7",
+        "source_text": "加快理賠支付，令我引以為榮。我們一如既往找出每一個可以作出理賠的理由，年內已支付逾160億美元的保險"
+      },
+      {
+        "block_id": "p13_b8",
+        "source_text": "給付及理賠，為客戶提供極其重要的財務保障。"
+      }
+    ],
+    "joined_source_text": "自疫情大流行開始以來，本集團的各業務團隊反應迅速，積極協助紓緩對社區的影響，同時確保員工安全。本集\n團為此廣泛採取多項措拖，包括財政支持、提供醫療物資、免費保障覆蓋、獲取醫療保健資源、精簡服務流程和\n加快理賠支付，令我引以為榮。我們一如既往找出每一個可以作出理賠的理由，年內已支付逾160億美元的保險\n給付及理賠，為客戶提供極其重要的財務保障。"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p13_g02",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

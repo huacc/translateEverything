@@ -1,0 +1,46 @@
+{
+  "schema_id": "annual_report_glossary_seed_v1",
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "exact_map": {
+    "友邦保險控股有限公司": "AIA Group Limited",
+    "概覽": "Overview",
+    "財務及營運回顧": "Financial and Operational Review",
+    "企業管治": "Corporate Governance",
+    "其他資料": "Other Information",
+    "財務報表": "Financial Statements",
+    "集團首席執行官兼總裁報告": "Group Chief Executive and President's Report",
+    "2020年業績摘要": "2020 Performance Highlights",
+    "集團首席財務總監回顧": "Group Chief Financial Officer's Review",
+    "業務回顧": "Business Review",
+    "企業管治報告": "Corporate Governance Report",
+    "薪酬報告": "Remuneration Report",
+    "董事會報告": "Report of the Directors",
+    "百萬美元": "US$ million",
+    "2020年報": "2020 Annual Report"
+  },
+  "line_map": {
+    "概覽": "Overview",
+    "財務及營運回顧": "Financial and Operational Review",
+    "企業管治": "Corporate Governance",
+    "其他資料": "Other Information",
+    "財務報表": "Financial Statements",
+    "2020年報": "2020 Annual Report",
+    "友邦保險控股有限公司": "AIA Group Limited"
+  },
+  "term_map": {
+    "友邦保險": "AIA",
+    "新業務價值": "new business value",
+    "稅後營運溢利": "operating profit after tax",
+    "內涵價值": "embedded value",
+    "有效保單組合": "in-force portfolio",
+    "代理渠道": "agency channel",
+    "夥伴分銷": "partnership distribution",
+    "銀行保險": "bancassurance",
+    "中國內地": "Mainland China",
+    "中國台灣": "Taiwan",
+    "新加坡": "Singapore",
+    "泰國": "Thailand",
+    "馬來西亞": "Malaysia"
+  }
+}

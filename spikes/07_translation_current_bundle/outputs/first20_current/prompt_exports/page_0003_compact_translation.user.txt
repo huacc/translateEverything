@@ -1,0 +1,161 @@
+﻿以下文本块版面过紧。请在不改变核心含义和正式风格的前提下，仅做最小必要压缩。
+不要摘要，不要解释，只输出严格 JSON。
+{
+  "page_no": 3,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "problem_blocks": [
+    {
+      "block_id": "p3_b3",
+      "block_type": "body",
+      "source_text": "全球唯一一家總部\n設於香港、於香港上市\n並100%\n專注於亞洲",
+      "current_translation": "The only global company\nheadquartered in Hong Kong,\nlisted in Hong Kong and\n100% focused on Asia",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.646,
+      "line_count": 4,
+      "char_count": 31,
+      "bbox": [
+        68.03,
+        108.26,
+        203.62,
+        198.55
+      ],
+      "font_size_avg": 17.14,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p3_b4",
+      "block_type": "body",
+      "source_text": "在香港聯交所上市、\n香港註冊並將\n總部設於香港\n最大的公司",
+      "current_translation": "The largest company\nlisted on the Hong Kong Stock Exchange,\nregistered in Hong Kong and\nheadquartered in Hong Kong",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.636,
+      "line_count": 4,
+      "char_count": 29,
+      "bbox": [
+        238.11,
+        108.26,
+        371.08,
+        198.55
+      ],
+      "font_size_avg": 16.86,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p3_b5",
+      "block_type": "body",
+      "source_text": "唯一連續六年\n問鼎百萬圓桌會會員\n人數之冠的跨國公司",
+      "current_translation": "The only multinational company\nto lead Million Dollar Round Table\nmembership for six consecutive years",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.477,
+      "line_count": 3,
+      "char_count": 26,
+      "bbox": [
+        416.69,
+        187.82,
+        538.96,
+        238.78
+      ],
+      "font_size_avg": 13.0,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p3_b6",
+      "block_type": "label",
+      "source_text": "的國際人壽\n保險公司",
+      "current_translation": "international life\ninsurance company",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.523,
+      "line_count": 2,
+      "char_count": 10,
+      "bbox": [
+        68.03,
+        198.52,
+        136.67,
+        233.47
+      ],
+      "font_size_avg": 13.0,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p3_b7",
+      "block_type": "label",
+      "source_text": "業務覆蓋",
+      "current_translation": "Business Coverage",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.121,
+      "line_count": 1,
+      "char_count": 4,
+      "bbox": [
+        237.17,
+        247.38,
+        327.96,
+        277.3
+      ],
+      "font_size_avg": 22.0,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p3_b8",
+      "block_type": "body",
+      "source_text": "為超過\n3,800萬份\n個人保單的持有人及逾\n1,600萬名\n團體保險計劃的參與\n成員提供服務",
+      "current_translation": "Serving over\n38 million individual\npolicyholders and more than\n16 million participants\nin group insurance plans",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.688,
+      "line_count": 6,
+      "char_count": 47,
+      "bbox": [
+        68.03,
+        248.65,
+        200.96,
+        368.6
+      ],
+      "font_size_avg": 17.83,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p3_b9",
+      "block_type": "body",
+      "source_text": "於2020年內，我們已支付\n逾160億美元\n的保險給付和理賠，\n為客戶提供必不可少的\n財務支援",
+      "current_translation": "During 2020, we paid out over USD 16 billion in insurance benefits and claims, providing essential financial support to our customers",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.646,
+      "line_count": 5,
+      "char_count": 47,
+      "bbox": [
+        416.69,
+        248.91,
+        560.45,
+        342.87
+      ],
+      "font_size_avg": 16.28,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p3_b10",
+      "block_type": "body",
+      "source_text": "為亞洲大眾提供保障，\n總保額接近\n2萬億美元\n18個市場",
+      "current_translation": "Protecting Asia's communities with total sum assured of nearly USD 2 trillion across 18 markets",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.33,
+      "line_count": 4,
+      "char_count": 28,
+      "bbox": [
+        218.03,
+        257.09,
+        547.5,
+        421.52
+      ],
+      "font_size_avg": 30.85,
+      "suggested_font": "F_ARIALNB"
+    }
+  ]
+}

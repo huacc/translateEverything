@@ -1,0 +1,80 @@
+﻿请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。
+要求高保真、正式、可出版，不要摘要，不要解释。
+术语表和动态文档背景优先于自由翻译。
+只输出严格 JSON。
+{
+  "page_no": 11,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "relevant_terms": [
+    {
+      "source": "友邦保險",
+      "target": "AIA"
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "p11_b1",
+      "block_type": "body",
+      "source_text": "在2020年第四季，我們慶祝友邦保險在香港聯交所上市10週年。回顧當年友邦保險的上市刷新多項紀錄，至今",
+      "line_count": 1,
+      "char_count": 51,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p11_b2",
+      "block_type": "body",
+      "source_text": "仍是全球保險業界規模最大的首次公開招股。能夠與董事會成員並肩合作，本人深感榮幸和欣慰。友邦保險的",
+      "line_count": 1,
+      "char_count": 48,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p11_b3",
+      "block_type": "body",
+      "source_text": "業務在此期間繼往開來，不斷擴展，成為以市值計全球最大的人壽保險公司。",
+      "line_count": 1,
+      "char_count": 34,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p11_b5",
+      "block_type": "body",
+      "source_text": "董事會的所有非執行董事均由獨立人士出任，他們在公營和私營產業擁有廣泛的管治和領導經驗。我們同心",
+      "line_count": 1,
+      "char_count": 47,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p11_b6",
+      "block_type": "body",
+      "source_text": "協力，銳意維持奉行最高國際企業管治標準的公司文化。我們深信根深蒂固的企業管治文化，加上穩健的風險",
+      "line_count": 1,
+      "char_count": 48,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p11_b7",
+      "block_type": "label",
+      "source_text": "管理架構，是每家機構可持續發展的基礎。",
+      "line_count": 1,
+      "char_count": 19,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p11_b8",
+      "block_type": "body",
+      "source_text": "董事會的重要責任之一是確保領導層人才輩出，並執行有效的繼任安排。我們歡迎李源祥先生於2020年6月1日",
+      "line_count": 1,
+      "char_count": 51,
+      "region": "middle",
+      "font_size_avg": 9.0
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p14_b4",
+      "translation": "AIA's Mainland China business made the largest contribution to the Group's new business value in 2020 and performed excellently in early 2021, with a significant increase in new business value recorded in the first two months of the year compared with the same period in 2020,"
+    },
+    {
+      "block_id": "p14_b5",
+      "translation": "very strong new business value growth. Although new business value of US$968 million in 2020 decreased by 17% compared with 2019, this was primarily"
+    },
+    {
+      "block_id": "p14_b6",
+      "translation": "due to limited new sales in the early stages of the COVID-19 outbreak in the first quarter. Operating profit after tax increased by 14% during the year, primarily due to our growing"
+    },
+    {
+      "block_id": "p14_b7",
+      "translation": "in-force portfolio and favorable claims experience."
+    },
+    {
+      "block_id": "p14_b8",
+      "translation": "In 2020, we successfully obtained regulatory approval to convert our Shanghai branch into Mainland China's first wholly foreign-owned life insurance subsidiary. In March 2021,"
+    },
+    {
+      "block_id": "p14_b9",
+      "translation": "we received approval from the China Banking and Insurance Regulatory Commission to commence operations in Sichuan Province. Sichuan Province is the sixth largest province in Mainland China by gross domestic product"
+    },
+    {
+      "block_id": "p14_b10",
+      "translation": "and the fourth largest by population, presenting AIA with significant long-term growth opportunities."
+    }
+  ]
+}
+```

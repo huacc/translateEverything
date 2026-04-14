@@ -1,0 +1,408 @@
+﻿以下文本块版面过紧。请在不改变核心含义和正式风格的前提下，仅做最小必要压缩。
+不要摘要，不要解释，只输出严格 JSON。
+{
+  "page_no": 15,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "problem_blocks": [
+    {
+      "block_id": "p15_b2",
+      "block_type": "body",
+      "source_text": "友邦保險擁有23,000名員工，是本集團的重要競爭優勢，亦是我們持續獲取佳績的關鍵。我們推廣共融和協作的",
+      "current_translation": "AIA has 23,000 employees, who represent a key competitive advantage for the Group and are critical to our continued success. We foster a culture of inclusion and collaboration,",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.755,
+      "line_count": 1,
+      "char_count": 52,
+      "bbox": [
+        68.03,
+        126.69,
+        521.54,
+        138.65
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p15_b4",
+      "block_type": "body",
+      "source_text": "學習文化，為員工提供平台，在友邦保險發展具意義和有價值的事業。因應社交距離措施和外遊限制，我們將學",
+      "current_translation": "providing our people with a platform to build meaningful and rewarding careers at AIA. In response to social distancing measures and travel restrictions, we transitioned our learning content to the online \"AIA Learning Hub\". Our world-class facility, the AIA Leadership Centre (ALC) in Bangkok, has been redesigned to deliver our",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.444,
+      "line_count": 1,
+      "char_count": 49,
+      "bbox": [
+        68.03,
+        142.7,
+        521.42,
+        154.65
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p15_b5",
+      "block_type": "body",
+      "source_text": "習內容轉至網上的「AIA Learning Hub」。位於曼谷的世界級設施AIA Leadership Centre (ALC)重新設計及推行本",
+      "current_translation": "flagship leadership development programme, featuring over 100 fully virtualised learning modules. Participants have provided highly positive feedback on these virtual learning programmes, comparable to feedback received from previous face-to-face learning sessions.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.518,
+      "line_count": 1,
+      "char_count": 72,
+      "bbox": [
+        68.03,
+        158.7,
+        521.58,
+        170.65
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p15_b6",
+      "block_type": "body",
+      "source_text": "集團的旗艦領袖發展計劃，擁有逾100個完全虛擬化的學習模組。參與者對這些虛擬學習課程作出非常正面的反",
+      "current_translation": "The Group's flagship leadership development program features over 100 fully virtualized learning modules. Participants provided highly positive feedback on these virtual learning courses.",
+      "translation_source": "model_repair_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.744,
+      "line_count": 1,
+      "char_count": 50,
+      "bbox": [
+        68.03,
+        174.7,
+        521.66,
+        186.65
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p15_b7",
+      "block_type": "label",
+      "source_text": "饋，與過往參與面對面學習的意見相若。",
+      "current_translation": "The feedback was comparable to that from previous face-to-face learning participants.",
+      "translation_source": "model_repair_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.59,
+      "line_count": 1,
+      "char_count": 18,
+      "bbox": [
+        68.03,
+        190.7,
+        233.86,
+        202.65
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p15_b9",
+      "block_type": "body",
+      "source_text": "97%的員工參與調查，本集團所得的員工敬業度評分升至歷來新高，在蓋洛普環球金融服務及保險業基準中排名",
+      "current_translation": "97% of employees participated in the survey, and the Group achieved a record high employee engagement score, ranking at the 88th percentile against the Gallup Global Financial Services and Insurance Industry benchmark.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.59,
+      "line_count": 1,
+      "char_count": 50,
+      "bbox": [
+        68.03,
+        238.71,
+        521.53,
+        250.66
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p15_b11",
+      "block_type": "body",
+      "source_text": "在2020年10月，友邦保險慶祝於香港聯交所上市10週年誌慶，特別設立「友邦獎學金」，承諾投放1億美元，在未",
+      "current_translation": "In October 2020, AIA celebrated its 10th anniversary of listing on the Hong Kong Stock Exchange and established the 'AIA Scholarship', committing USD 100 million to support over the coming decades 100 undergraduate students annually from various universities in Hong Kong to develop the next generation of business leaders.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.444,
+      "line_count": 1,
+      "char_count": 54,
+      "bbox": [
+        68.03,
+        286.71,
+        521.59,
+        298.67
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p15_b12",
+      "block_type": "body",
+      "source_text": "來數十年每年資助100名就讀於香港多間大學的本科生，培養新世代企業領袖。",
+      "current_translation": "Over the coming decades, the program will sponsor 100 undergraduate students annually from multiple universities in Hong Kong to cultivate the next generation of business leaders.",
+      "translation_source": "model_repair_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.538,
+      "line_count": 1,
+      "char_count": 36,
+      "bbox": [
+        68.04,
+        302.72,
+        386.79,
+        314.67
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p15_b13",
+      "block_type": "body",
+      "source_text": "「未來的組織」(Organisation of the Future)策略的核心組成部分，包括強化和簡化組織結構、引進靈活的工作方",
+      "current_translation": "A core component of the 'Organisation of the Future' strategy, including strengthening and simplifying the organisational structure and introducing flexible working arrangements.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.795,
+      "line_count": 1,
+      "char_count": 65,
+      "bbox": [
+        63.54,
+        334.72,
+        521.6,
+        346.67
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p15_b14",
+      "block_type": "body",
+      "source_text": "式，以及提升能力框架。這些策略性優先任務將支持員工發展事業，進一步提升友邦保險作為首選僱主的地位。",
+      "current_translation": "approach, as well as enhancing our capability framework. These strategic priorities will support employee career development and further strengthen AIA's position as a preferred employer.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.708,
+      "line_count": 1,
+      "char_count": 49,
+      "bbox": [
+        68.04,
+        350.72,
+        519.84,
+        362.67
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p15_b15",
+      "block_type": "body",
+      "source_text": "我們從2020年下半年起，透過友邦保險在新加坡和越南的業務作為兩個試點業務單位，展開塑造一個轉型機構的",
+      "current_translation": "From the second half of 2020, we embarked on a journey to shape a transformational organization through AIA's operations in Singapore and Vietnam as two pilot business units.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.781,
+      "line_count": 1,
+      "char_count": 51,
+      "bbox": [
+        68.04,
+        382.73,
+        521.57,
+        394.68
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p15_b16",
+      "block_type": "body",
+      "source_text": "旅程。初步成果已實現更簡化、更以客為本的營運模式，我們亦推行靈活的工作方式，設立多個跨職能的專家團",
+      "current_translation": "Early results have delivered a more streamlined and customer-centric operating model. We have also implemented flexible working arrangements and established multiple cross-functional expert teams.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.69,
+      "line_count": 1,
+      "char_count": 49,
+      "bbox": [
+        68.04,
+        398.73,
+        521.42,
+        410.68
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p15_b18",
+      "block_type": "label",
+      "source_text": "環境、社會及管治",
+      "current_translation": "Environmental, Social and Governance",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.582,
+      "line_count": 1,
+      "char_count": 8,
+      "bbox": [
+        68.03,
+        457.0,
+        182.48,
+        475.26
+      ],
+      "font_size_avg": 14.0,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p15_b19",
+      "block_type": "body",
+      "source_text": "過去一個多世紀以來，友邦保險為亞洲客戶的生活帶來正面和持久的影響。我們的社區存在不少環境、社會及管",
+      "current_translation": "Over more than a century, AIA has made a positive and lasting impact on the lives of our customers across Asia. Our communities face numerous environmental, social and governance",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.752,
+      "line_count": 1,
+      "char_count": 49,
+      "bbox": [
+        68.03,
+        494.69,
+        521.45,
+        506.65
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p15_b21",
+      "block_type": "body",
+      "source_text": "客戶和社區的終身夥伴，我們竭盡所能，推動社會邁向更美好、更可持續的未來。",
+      "current_translation": "A lifetime partner to our customers and communities, we are committed to driving society towards a better and more sustainable future.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.725,
+      "line_count": 1,
+      "char_count": 36,
+      "bbox": [
+        68.03,
+        526.7,
+        399.91,
+        538.65
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p15_b22",
+      "block_type": "body",
+      "source_text": "友邦保險參與氣候相關財務披露工作小組(Task Force on Climate-related Financial Disclosures)，這個全球組",
+      "current_translation": "AIA participates in the Task Force on Climate-related Financial Disclosures, a global initiative dedicated to developing a voluntary and consistent disclosure framework on the impacts of climate change.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.668,
+      "line_count": 1,
+      "char_count": 77,
+      "bbox": [
+        68.03,
+        558.7,
+        524.09,
+        570.65
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p15_b23",
+      "block_type": "body",
+      "source_text": "織致力就氣候變化影響建立一個自願和一致的披露框架。我們繼續重申對有關建議的承諾，在2020年與我們投資",
+      "current_translation": "We continue to reaffirm our commitment to its recommendations, and in 2020 engaged with over 1,400 companies in our investment portfolio and more than 30 external investment managers to influence how they manage climate-related risks and address climate issues.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.515,
+      "line_count": 1,
+      "char_count": 51,
+      "bbox": [
+        68.02,
+        574.7,
+        521.57,
+        586.66
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p15_b24",
+      "block_type": "body",
+      "source_text": "組合內逾1,400家公司，以及超過30名外部投資經理聯繫，致力影響其如何管理氣候變化風險及應對氣候問題。",
+      "current_translation": "The portfolio comprises over 1,400 companies and engages more than 30 external investment managers to influence how they manage climate change risks and address climate issues.",
+      "translation_source": "model_repair_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.738,
+      "line_count": 1,
+      "char_count": 52,
+      "bbox": [
+        68.02,
+        590.71,
+        514.58,
+        602.66
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p15_b25",
+      "block_type": "body",
+      "source_text": "根據評級機構Sustainalytics的評選，友邦保險連續第二年在保險業環境、社會及管治風險管理方面排名第二，",
+      "current_translation": "According to Sustainalytics, a rating agency, AIA ranked second in environmental, social and governance risk management within the insurance industry for the second consecutive year,",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.721,
+      "line_count": 1,
+      "char_count": 56,
+      "bbox": [
+        68.02,
+        622.71,
+        521.48,
+        634.66
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p15_b26",
+      "block_type": "body",
+      "source_text": "而在2020年，MSCI上調友邦保險的環境、社會及管治評級至A級，主要由於我們把環境、社會及管治因素融入投",
+      "current_translation": "In 2020, MSCI upgraded AIA's Environmental, Social and Governance rating to A, primarily due to our integration of environmental, social and governance factors into our invest",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.76,
+      "line_count": 1,
+      "char_count": 53,
+      "bbox": [
+        68.02,
+        638.71,
+        521.54,
+        650.66
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p15_b27",
+      "block_type": "label",
+      "source_text": "資職能。",
+      "current_translation": "ment function.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.778,
+      "line_count": 1,
+      "char_count": 4,
+      "bbox": [
+        68.02,
+        654.71,
+        104.7,
+        666.67
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    }
+  ]
+}

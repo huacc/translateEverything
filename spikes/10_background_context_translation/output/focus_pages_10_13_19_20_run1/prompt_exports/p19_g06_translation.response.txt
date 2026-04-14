@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p19_g06",
+      "translation": "As at 31 December 2020, our principal operating company AIA Co. maintained a very strong solvency ratio of 489%. As at 31 December 2020, under the new group regulatory framework, the Group's local capital aggregation method coverage ratio was 374%. Going forward, we will disclose the Group's local capital aggregation method coverage ratio as the primary measure of the Group's regulatory solvency position."
+    }
+  ]
+}
+```

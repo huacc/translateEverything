@@ -1,0 +1,34 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p19_b8",
+      "translation": "15% higher than the prior period."
+    },
+    {
+      "block_id": "p19_b9",
+      "translation": "Embedded value equity reached a new high of US$67.185 billion as at 31 December 2020, increasing by US$5.277 billion before the payment of dividends of US$1.997 billion,"
+    },
+    {
+      "block_id": "p19_b10",
+      "translation": "driven by embedded value operating profit of US$7.243 billion which offset the impact of lower government bond yields. Embedded value operating profit includes positive operating variances of US$549 million, reflecting the continued positive experience of our overall portfolio relative to our embedded value assumptions."
+    },
+    {
+      "block_id": "p19_b11",
+      "translation": ""
+    },
+    {
+      "block_id": "p19_b12",
+      "translation": "Our high-quality, recurring earnings sources and active management of our in-force portfolio drove operating profit after tax growth of 5% to US$5.942 billion,"
+    },
+    {
+      "block_id": "p19_b13",
+      "translation": "while maintaining a stable operating profit margin of 16.9%. Renewal premiums collected increased by 10%, with recurring premiums representing 90% or more of total premiums collected in 2020."
+    },
+    {
+      "block_id": "p19_b14",
+      "translation": "Operating profit after tax growth benefited from significantly positive claims experience throughout the year, which offset the impact of lower yields on new fixed income investments and the assumption of lower long-term equity returns."
+    }
+  ]
+}
+```

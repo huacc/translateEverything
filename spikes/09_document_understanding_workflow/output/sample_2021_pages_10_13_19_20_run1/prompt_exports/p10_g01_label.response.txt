@@ -1,0 +1,35 @@
+```json
+{
+  "unit_id": "p10_g01",
+  "page_no": 10,
+  "section_id": "chairman_statement",
+  "content_type": "chairman_statement",
+  "speaker_role": "chairman",
+  "topic_tags": [
+    "company_heritage",
+    "regional_presence",
+    "community_service",
+    "corporate_pride"
+  ],
+  "term_hits": [
+    {
+      "source_term": "友邦保險",
+      "target_term": "AIA",
+      "confidence": "high"
+    }
+  ],
+  "needs_context": true,
+  "context_scope": "section",
+  "risk_level": "medium",
+  "risk_flags": [
+    "executive_attribution",
+    "temporal_reference_precision"
+  ],
+  "translation_constraints": [
+    "Preserve formal corporate register in chairman's voice",
+    "Maintain temporal reference 'past century' with precision",
+    "Translate mission-aligned language with care to reflect original intent",
+    "Ensure geographic reference 'Asia' aligns with company's official market terminology"
+  ]
+}
+```

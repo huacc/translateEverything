@@ -1,0 +1,26 @@
+﻿请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。
+要求高保真、正式、可出版，不要摘要，不要解释。
+术语表和动态文档背景优先于自由翻译。
+只输出严格 JSON。
+{
+  "page_no": 9,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "relevant_terms": [
+    {
+      "source": "新業務價值",
+      "target": "new business value"
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "p9_b32",
+      "block_type": "body",
+      "source_text": "(8) 自2019年起，其他市場的年化新保費及新業務價值包括我們於\nTata AIA Life Insurance Company Limited (Tata AIA Life)所持\n49%股權的應佔業績。2018年或以前所呈報的年化新保費及新業\n務價值並無重列，並且不包括來自Tata AIA Life的任何貢獻。\n自2019年起，本集團新業務價值不包括非控股權益應佔的新業務\n價值。2018年或以前的新業務價值並無重列 ，如早前所披露，\n並未扣除非控股權益。Tata AIA Life的國際財務報告準則業績乃\n採用權益會計法計算。本集團的合併財務報表使用按滯後一個\n季度基準的Tata AIA Life財務資料。為明確起見，總加權保費\n收入不包括來自Tata AIA Life的任何貢獻。",
+      "line_count": 10,
+      "char_count": 346,
+      "region": "middle",
+      "font_size_avg": 7.0
+    }
+  ]
+}

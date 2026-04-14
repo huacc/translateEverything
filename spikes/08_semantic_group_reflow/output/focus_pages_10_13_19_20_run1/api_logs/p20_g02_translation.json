@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 20,
+    "unit_id": "p20_g02"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是上市公司年报翻译器。\n语言方向：Traditional Chinese -> English。\n只翻译当前输入，不补充、不解释、不总结。\n如果当前输入由多个连续块组成，只允许在当前组内做跨块理解；不得引入组外内容。\n数字、百分比、货币、年份、专有名词、公司名、人名、地名必须准确。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市公司企业年报\npage_no: 20\nunit_id: p20_g02\nunit_mode: semantic_group\n命中术语约束:\n[\n  {\n    \"source\": \"友邦保險\",\n    \"target\": \"AIA\"\n  },\n  {\n    \"source\": \"新業務價值\",\n    \"target\": \"new business value\"\n  }\n]\nblocks:\n[\n  {\n    \"block_id\": \"p20_b21\",\n    \"source_text\": \"儘管2020年的新業務價值27.65億美元較2019年減少了33%，我們迅速採用了新的數碼工具，並且外出限制的普\"\n  },\n  {\n    \"block_id\": \"p20_b22\",\n    \"source_text\": \"遍放寬支持了銷售勢頭的恢復。友邦保險中國業務為2020年本集團的新業務價值帶來最大貢獻，也是我們第一個\"\n  },\n  {\n    \"block_id\": \"p20_b23\",\n    \"source_text\": \"顯示銷售勢頭有所恢復的報告分部，原因在於該地區自2020年3月逐步放寬嚴格的封鎖。撇除維持低位的中國內\"\n  },\n  {\n    \"block_id\": \"p20_b24\",\n    \"source_text\": \"地訪港旅客銷售額，本集團其他分部的新業務價值在下半年強勁復甦，與上半年相比增長了23%。本集團的新業\"\n  },\n  {\n    \"block_id\": \"p20_b25\",\n    \"source_text\": \"務發展勢頭在2021年持續強勁，首兩個月新業務價值較2020年同期高出15%。\"\n  }\n]\njoined_source_text:\n儘管2020年的新業務價值27.65億美元較2019年減少了33%，我們迅速採用了新的數碼工具，並且外出限制的普\n遍放寬支持了銷售勢頭的恢復。友邦保險中國業務為2020年本集團的新業務價值帶來最大貢獻，也是我們第一個\n顯示銷售勢頭有所恢復的報告分部，原因在於該地區自2020年3月逐步放寬嚴格的封鎖。撇除維持低位的中國內\n地訪港旅客銷售額，本集團其他分部的新業務價值在下半年強勁復甦，與上半年相比增長了23%。本集團的新業\n務發展勢頭在2021年持續強勁，首兩個月新業務價值較2020年同期高出15%。\n返回格式:\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p20_g02\",\n      \"translation\": \"<译文>\"\n    }\n  ]\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p20_g02\",\n      \"translation\": \"Although new business value of USD 2.765 billion in 2020 decreased by 33% compared to 2019, we rapidly adopted new digital tools, and the widespread relaxation of movement restrictions supported the recovery of sales momentum. AIA's China business made the largest contribution to the Group's new business value in 2020 and was our first reporting segment to show recovery in sales momentum, as the region gradually relaxed strict lockdowns from March 2020 onwards. Excluding the low-level sales from mainland China visitors to Hong Kong, the new business value of the Group's other segments showed strong recovery in the second half, growing 23% compared to the first half. The Group's new business development momentum remained strong in 2021, with new business value in the first two months 15% higher than the corresponding period in 2020.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "43182b62-8f1a-4645-ab3c-e816e0ce7ad9",
+    "conversation_id": "43182b62-8f1a-4645-ab3c-e816e0ce7ad9",
+    "id": "43182b62-8f1a-4645-ab3c-e816e0ce7ad9",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1053,
+      "output_tokens": 195
+    }
+  }
+}

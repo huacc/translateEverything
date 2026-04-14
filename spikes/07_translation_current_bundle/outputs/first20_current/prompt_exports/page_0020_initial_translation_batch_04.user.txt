@@ -1,0 +1,75 @@
+﻿请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。
+要求高保真、正式、可出版，不要摘要，不要解释。
+术语表和动态文档背景优先于自由翻译。
+只输出严格 JSON。
+{
+  "page_no": 20,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "relevant_terms": [
+    {
+      "source": "友邦保險",
+      "target": "AIA"
+    },
+    {
+      "source": "新業務價值",
+      "target": "new business value"
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "p20_b23",
+      "block_type": "body",
+      "source_text": "顯示銷售勢頭有所恢復的報告分部，原因在於該地區自2020年3月逐步放寬嚴格的封鎖。撇除維持低位的中國內",
+      "line_count": 1,
+      "char_count": 51,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p20_b24",
+      "block_type": "body",
+      "source_text": "地訪港旅客銷售額，本集團其他分部的新業務價值在下半年強勁復甦，與上半年相比增長了23%。本集團的新業",
+      "line_count": 1,
+      "char_count": 50,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p20_b25",
+      "block_type": "body",
+      "source_text": "務發展勢頭在2021年持續強勁，首兩個月新業務價值較2020年同期高出15%。",
+      "line_count": 1,
+      "char_count": 39,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p20_b26",
+      "block_type": "body",
+      "source_text": "友邦保險中國業務在2021年錄得成功的勢頭，首兩個月的新業務價值與2020年同期比較，錄得非常強勁的增",
+      "line_count": 1,
+      "char_count": 51,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p20_b27",
+      "block_type": "body",
+      "source_text": "長。2020年新業務價值9.68億美元較2019年減少17%，主要由於2019冠狀病毒病在第一季爆發初期而導致銷售額",
+      "line_count": 1,
+      "char_count": 58,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p20_b28",
+      "block_type": "body",
+      "source_text": "有限。隨著外出限制放寬，新業務動力得以迅速改善。新業務價值重拾我們慣常的季節性規律，比重更側重於上",
+      "line_count": 1,
+      "char_count": 49,
+      "region": "middle",
+      "font_size_avg": 9.0
+    }
+  ]
+}

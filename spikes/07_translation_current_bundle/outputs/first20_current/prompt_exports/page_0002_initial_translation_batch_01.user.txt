@@ -1,0 +1,84 @@
+﻿请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。
+要求高保真、正式、可出版，不要摘要，不要解释。
+术语表和动态文档背景优先于自由翻译。
+只输出严格 JSON。
+{
+  "page_no": 2,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "relevant_terms": [],
+  "blocks": [
+    {
+      "block_id": "p2_b1",
+      "block_type": "heading",
+      "source_text": "我們的目標",
+      "line_count": 1,
+      "char_count": 5,
+      "region": "top",
+      "font_size_avg": 24.0
+    },
+    {
+      "block_id": "p2_b2",
+      "block_type": "heading",
+      "source_text": "目錄",
+      "line_count": 1,
+      "char_count": 2,
+      "region": "top",
+      "font_size_avg": 17.54
+    },
+    {
+      "block_id": "p2_b3",
+      "block_type": "label",
+      "source_text": "我們的目標是",
+      "line_count": 1,
+      "char_count": 6,
+      "region": "middle",
+      "font_size_avg": 14.0
+    },
+    {
+      "block_id": "p2_b5",
+      "block_type": "label",
+      "source_text": "006 財務摘要",
+      "line_count": 1,
+      "char_count": 8,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p2_b6",
+      "block_type": "label",
+      "source_text": "協助大眾實現健康、",
+      "line_count": 1,
+      "char_count": 9,
+      "region": "middle",
+      "font_size_avg": 14.0
+    },
+    {
+      "block_id": "p2_b7",
+      "block_type": "label",
+      "source_text": "008 主席報告",
+      "line_count": 1,
+      "char_count": 8,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p2_b8",
+      "block_type": "label",
+      "source_text": "長久、好生活。",
+      "line_count": 1,
+      "char_count": 7,
+      "region": "middle",
+      "font_size_avg": 14.0
+    },
+    {
+      "block_id": "p2_b9",
+      "block_type": "label",
+      "source_text": "010 集團首席執行官\n兼總裁報告",
+      "line_count": 2,
+      "char_count": 17,
+      "region": "middle",
+      "font_size_avg": 9.0
+    }
+  ]
+}

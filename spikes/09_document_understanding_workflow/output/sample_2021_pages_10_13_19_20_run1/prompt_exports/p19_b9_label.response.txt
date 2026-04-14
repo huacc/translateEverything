@@ -1,0 +1,45 @@
+```json
+{
+  "unit_id": "p19_b9",
+  "page_no": 19,
+  "section_id": "內涵價值權益",
+  "content_type": "financial_metric",
+  "speaker_role": "management",
+  "topic_tags": [
+    "embedded_value",
+    "shareholder_equity",
+    "financial_performance",
+    "dividend_distribution"
+  ],
+  "term_hits": [
+    {
+      "source_term": "內涵價值權益",
+      "target_term": "Embedded Value Equity",
+      "abbreviation": "EVE",
+      "confidence": "high"
+    },
+    {
+      "source_term": "內涵價值",
+      "target_term": "Embedded Value",
+      "abbreviation": "EV",
+      "confidence": "high"
+    }
+  ],
+  "needs_context": true,
+  "context_scope": "section",
+  "risk_level": "critical",
+  "risk_flags": [
+    "financial_metric_translation",
+    "currency_conversion_notation",
+    "percentage_and_ratio_precision",
+    "numerical_precision"
+  ],
+  "translation_constraints": [
+    "preserve_exact_decimal_places",
+    "standardize_currency_notation_to_USD",
+    "maintain_billion_unit_conversion",
+    "verify_dividend_amount_accuracy",
+    "cross_reference_with_IFRS_standards"
+  ]
+}
+```

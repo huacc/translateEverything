@@ -1,0 +1,21 @@
+{
+  "content": [
+    {
+      "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p28_b1\",\n      \"translation\": \"Financial and Operational Review\"\n    },\n    {\n      \"block_id\": \"p28_b2\",\n      \"translation\": \"Group Chief Financial Officer Review\"\n    },\n    {\n      \"block_id\": \"p28_b3\",\n      \"translation\": \"Shareholders' Distributable Equity Movement(1)\"\n    },\n    {\n      \"block_id\": \"p28_b4\",\n      \"translation\": \"USD millions, unless otherwise stated\\n2020\\n2019\"\n    },\n    {\n      \"block_id\": \"p28_b5\",\n      \"translation\": \"Opening shareholders' distributable equity\\n42,845\\n37,277\"\n    },\n    {\n      \"block_id\": \"p28_b6\",\n      \"translation\": \"Retrospective adjustment for accounting policy change\\n433\\n1,130\"\n    },\n    {\n      \"block_id\": \"p28_b7\",\n      \"translation\": \"Opening shareholders' distributable equity, as adjusted\\n43,278\\n38,407\"\n    },\n    {\n      \"block_id\": \"p28_b8\",\n      \"translation\": \"Net profit\\n5,779\\n5,979\"\n    },\n    {\n      \"block_id\": \"p28_b9\",\n      \"translation\": \"Shares contributed to employee share trust\\n(16)\\n(21)\"\n    },\n    {\n      \"block_id\": \"p28_b10\",\n      \"translation\": \"Dividends\\n(1,997)\\n(1,961)\"\n    },\n    {\n      \"block_id\": \"p28_b11\",\n      \"translation\": \"Owner-occupied property revaluation (loss)/gain\\n(46)\\n154\"\n    },\n    {\n      \"block_id\": \"p28_b12\",\n      \"translation\": \"Foreign currency translation adjustments\\n931\\n603\"\n    },\n    {\n      \"block_id\": \"p28_b13\",\n      \"translation\": \"Other capital movements\\n101\\n117\"\n    },\n    {\n      \"block_id\": \"p28_b14\",\n      \"translation\": \"Total shareholders' distributable equity movement\\n4,752\\n4,871\"\n    },\n    {\n      \"block_id\": \"p28_b15\",\n      \"translation\": \"Closing shareholders' distributable equity\\n48,030\\n43,278\"\n    },\n    {\n      \"block_id\": \"p28_b16\",\n      \"translation\": \"Average shareholders' distributable equity\\n45,654\\n40,638\"\n    },\n    {\n      \"block_id\": \"p28_b17\",\n      \"translation\": \"Note:\\n(1) Following the accounting policy change for Hong Kong insurance business. Comparative figures have been adjusted to conform to current period presentation. Details are set out in note 48 to the consolidated financial statements.\"\n    },\n    {\n      \"block_id\": \"p28_b18\",\n      \"translation\": \"Shareholders' distributable equity movement excludes changes in fair value reserves. We believe this better reflects the relevant movements in shareholders' equity during the year, excluding\"\n    },\n    {\n      \"block_id\": \"p28_b19\",\n      \"translation\": \"fair value adjustments on available-for-sale debt securities under IFRS accounting treatment.\"\n    },\n    {\n      \"block_id\": \"p28_b20\",\n      \"translation\": \"Shareholders' distributable equity increased 9% to USD 48.03 billion, driven by net profit of USD 5.779 billion and foreign currency translation gains of USD 0.931 billion as local currencies strengthened against our USD reporting currency, partially offset by dividends paid of USD 1.997 billion.\"\n    },\n    {\n      \"block_id\": \"p28_b21\",\n      \"translation\": \"Average shareholders' distributable equity grew 11% year-on-year.\"\n    },\n    {\n      \"block_id\": \"p28_b22\",\n      \"translation\": \"Sensitivity to changes in exchange rates, interest rates and equity prices is disclosed in note 38 to the consolidated financial statements.\"\n    },\n    {\n      \"block_id\": \"p28_b23\",\n      \"translation\": \"026\\nAIA Group Limited\"\n    },\n    {\n      \"block_id\": \"p28_b24\",\n      \"translation\": \"026\\nAIA Group Limited\"\n    }\n  ]\n}\n```",
+      "type": "text"
+    }
+  ],
+  "conversationId": "7dfb7705-d3f0-4dce-8416-20918d1fb96b",
+  "conversation_id": "7dfb7705-d3f0-4dce-8416-20918d1fb96b",
+  "id": "7dfb7705-d3f0-4dce-8416-20918d1fb96b",
+  "model": "claude-3-5-sonnet-20241022",
+  "role": "assistant",
+  "stop_reason": "end_turn",
+  "type": "message",
+  "usage": {
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2275,
+    "output_tokens": 983
+  }
+}

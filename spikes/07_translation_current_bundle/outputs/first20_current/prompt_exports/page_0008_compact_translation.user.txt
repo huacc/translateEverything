@@ -1,0 +1,85 @@
+﻿以下文本块版面过紧。请在不改变核心含义和正式风格的前提下，仅做最小必要压缩。
+不要摘要，不要解释，只输出严格 JSON。
+{
+  "page_no": 8,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "problem_blocks": [
+    {
+      "block_id": "p8_b3",
+      "block_type": "label",
+      "source_text": "新業務價值(2)(8)",
+      "current_translation": "New business value(2)(8)",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.701,
+      "line_count": 1,
+      "char_count": 11,
+      "bbox": [
+        73.7,
+        97.83,
+        150.74,
+        113.48
+      ],
+      "font_size_avg": 9.5,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p8_b4",
+      "block_type": "label",
+      "source_text": "年化新保費(3)(8)",
+      "current_translation": "Annualized new premiums(3)(8)",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.554,
+      "line_count": 1,
+      "char_count": 11,
+      "bbox": [
+        304.72,
+        97.83,
+        381.76,
+        113.48
+      ],
+      "font_size_avg": 9.5,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p8_b76",
+      "block_type": "label",
+      "source_text": "十億美元",
+      "current_translation": "US$ BILLIONS",
+      "translation_source": "model_initial",
+      "fit_status": "overflow",
+      "current_font_ratio": 1.0,
+      "line_count": 1,
+      "char_count": 4,
+      "bbox": [
+        304.72,
+        543.78,
+        330.72,
+        552.26
+      ],
+      "font_size_avg": 6.5,
+      "suggested_font": "F_ARIALNB"
+    },
+    {
+      "block_id": "p8_b110",
+      "block_type": "label",
+      "source_text": "總資產\n總負債",
+      "current_translation": "Total Assets\nTotal Liabilities",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.625,
+      "line_count": 2,
+      "char_count": 7,
+      "bbox": [
+        365.67,
+        717.84,
+        447.33,
+        728.27
+      ],
+      "font_size_avg": 8.0,
+      "suggested_font": "F_ARIALNB"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+﻿请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。
+要求高保真、正式、可出版，不要摘要，不要解释。
+术语表和动态文档背景优先于自由翻译。
+只输出严格 JSON。
+{
+  "page_no": 2,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "relevant_terms": [
+    {
+      "source": "友邦保險",
+      "target": "AIA"
+    },
+    {
+      "source": "中國內地",
+      "target": "Mainland China"
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "p2_b20",
+      "block_type": "label",
+      "source_text": "友邦保險提供一系列的產品及服務，",
+      "line_count": 1,
+      "char_count": 16,
+      "region": "middle",
+      "font_size_avg": 8.0
+    },
+    {
+      "block_id": "p2_b21",
+      "block_type": "label",
+      "source_text": "（統稱「友邦保險」或「本集團」）是最大",
+      "line_count": 1,
+      "char_count": 19,
+      "region": "middle",
+      "font_size_avg": 8.0
+    },
+    {
+      "block_id": "p2_b22",
+      "block_type": "label",
+      "source_text": "070 董事會",
+      "line_count": 1,
+      "char_count": 7,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p2_b23",
+      "block_type": "label",
+      "source_text": "涵蓋壽險、意外及醫療保險和儲蓄計劃，",
+      "line_count": 1,
+      "char_count": 18,
+      "region": "middle",
+      "font_size_avg": 8.0
+    },
+    {
+      "block_id": "p2_b24",
+      "block_type": "label",
+      "source_text": "的泛亞地區獨立上市人壽保險集團，",
+      "line_count": 1,
+      "char_count": 16,
+      "region": "middle",
+      "font_size_avg": 8.0
+    },
+    {
+      "block_id": "p2_b25",
+      "block_type": "label",
+      "source_text": "078 執行委員會",
+      "line_count": 1,
+      "char_count": 9,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p2_b26",
+      "block_type": "label",
+      "source_text": "以滿足個人客戶在長期儲蓄及保障方面",
+      "line_count": 1,
+      "char_count": 17,
+      "region": "middle",
+      "font_size_avg": 8.0
+    },
+    {
+      "block_id": "p2_b27",
+      "block_type": "label",
+      "source_text": "覆蓋18個市場，包括在中國內地、香港",
+      "line_count": 1,
+      "char_count": 18,
+      "region": "middle",
+      "font_size_avg": 8.2
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 13,
+    "unit_id": "p13_g08"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是上市公司年报翻译器。\n语言方向：Traditional Chinese -> English。\n只翻译当前输入，不补充、不解释、不总结。\n如果当前输入由多个连续块组成，只允许在当前组内做跨块理解；不得引入组外内容。\n数字、百分比、货币、年份、专有名词、公司名、人名、地名必须准确。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市公司企业年报\npage_no: 13\nunit_id: p13_g08\nunit_mode: semantic_group\n命中术语约束:\n[\n  {\n    \"source\": \"友邦保險\",\n    \"target\": \"AIA\"\n  }\n]\nblocks:\n[\n  {\n    \"block_id\": \"p13_b26\",\n    \"source_text\": \"儘管2020年是前所未見的一年，但我對亞洲壽險行業的前景和友邦保險的未來比以往更為樂觀。我們繼續挑戰自\"\n  },\n  {\n    \"block_id\": \"p13_b27\",\n    \"source_text\": \"己，發展我們的優先任務，以確保我們能繼續適切地迎合客戶期望和財務需求的轉變。我們的全新企業策略建基\"\n  },\n  {\n    \"block_id\": \"p13_b28\",\n    \"source_text\": \"於友邦保險的現有實力，推進轉型過程，以在未來為客戶提供最佳的服務。\"\n  }\n]\njoined_source_text:\n儘管2020年是前所未見的一年，但我對亞洲壽險行業的前景和友邦保險的未來比以往更為樂觀。我們繼續挑戰自\n己，發展我們的優先任務，以確保我們能繼續適切地迎合客戶期望和財務需求的轉變。我們的全新企業策略建基\n於友邦保險的現有實力，推進轉型過程，以在未來為客戶提供最佳的服務。\n返回格式:\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p13_g08\",\n      \"translation\": \"<译文>\"\n    }\n  ]\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p13_g08\",\n      \"translation\": \"Although 2020 was an unprecedented year, I am more optimistic than ever about the prospects of the Asian life insurance industry and the future of AIA. We continue to challenge ourselves and develop our priorities to ensure we can continue to appropriately meet the changing expectations and financial needs of our customers. Our new corporate strategy is built on AIA's existing strengths, advancing the transformation process to provide the best service to our customers in the future.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "22e9dbde-b1cb-466e-9ce9-301e2b4ec612",
+    "conversation_id": "22e9dbde-b1cb-466e-9ce9-301e2b4ec612",
+    "id": "22e9dbde-b1cb-466e-9ce9-301e2b4ec612",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 714,
+      "output_tokens": 122
+    }
+  }
+}

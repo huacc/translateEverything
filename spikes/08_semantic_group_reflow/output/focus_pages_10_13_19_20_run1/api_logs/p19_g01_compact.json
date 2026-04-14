@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "compact",
+    "page_no": 19,
+    "unit_id": "p19_g01"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是版面回填压缩器。\n语言方向：Traditional Chinese -> English。\n在不改变事实、数字、专有名词和正式语气的前提下，对当前译文做最小必要压缩。\n不得补充新信息，不得删除关键事实，不得改动数字和单位。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市公司企业年报\npage_no: 19\nunit_id: p19_g01\nunit_mode: semantic_group\nslot_count: 3\nsource_text:\n大流行病對我們2020年財務表現的主要影響是對新業務銷售的影響，原因在於我們眾多市場的遏制傳播措施限制\n了面對面的銷售活動，尤其是在2020年上半年。儘管2020年的新業務價值27.65億美元較2019年減少了33%，我\n們迅速採用了新的數碼工具，並且外出限制的普遍放寬支持了銷售勢頭的恢復。友邦保險中國業務為2020年本集\ncurrent_translation:\nThe pandemic's primary impact on our 2020 financial performance was on new business sales, as containment measures across our numerous markets restricted face-to-face sales activities, particularly in the first half of 2020. Despite new business value of USD 2.765 billion in 2020 representing a 33% decrease compared to 2019, we rapidly adopted new digital tools, and the widespread relaxation of mobility restrictions supported a recovery in sales momentum. AIA's China business in 2020 for the Group\n返回格式:\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p19_g01\",\n      \"translation\": \"<更紧凑译文>\"\n    }\n  ]\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p19_g01\",\n      \"translation\": \"The pandemic primarily impacted our 2020 financial performance through new business sales, as containment measures across our markets restricted face-to-face sales activities, particularly in H1 2020. Despite new business value of USD 2.765 billion in 2020, a 33% decrease from 2019, we rapidly adopted digital tools and widespread mobility restrictions relaxation supported sales momentum recovery. AIA's China business in 2020 for the Group\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "7dfcdf8d-af6e-4010-981e-6f3853ae8dfa",
+    "conversation_id": "7dfcdf8d-af6e-4010-981e-6f3853ae8dfa",
+    "id": "7dfcdf8d-af6e-4010-981e-6f3853ae8dfa",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 507,
+      "output_tokens": 117
+    }
+  }
+}

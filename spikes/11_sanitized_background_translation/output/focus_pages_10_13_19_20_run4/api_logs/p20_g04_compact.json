@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "compact",
+    "page_no": 20,
+    "unit_id": "p20_g04"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是年报英文压缩器，不是重译器。\n语言方向：Traditional Chinese -> English。\n你的任务只是对已有译文做最小必要压缩，以便回填原版面。\n禁止改变数字、单位、术语、专名、比较关系、主体和结论。\n标题不能改成正文，表头不能改成句子，不能输出口语化表达。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市公司企业年报\n{\n  \"document_background\": {\n    \"page_sections\": [\n      {\n        \"source_section\": \"新業務表現\",\n        \"target_section\": \"New Business Performance\",\n        \"content_type\": \"business_metrics\",\n        \"page_range\": [\n          20,\n          21\n        ]\n      },\n      {\n        \"source_section\": \"集團首席財務總監回顧\",\n        \"target_section\": \"Group Chief Financial Officer's Review\",\n        \"content_type\": \"cfo_review\",\n        \"page_range\": [\n          18,\n          30\n        ]\n      }\n    ],\n    \"roles\": [],\n    \"terms\": [\n      {\n        \"source\": \"友邦保險香港業務\",\n        \"target\": \"AIA Hong Kong\"\n      },\n      {\n        \"source\": \"友邦保險澳門分公司\",\n        \"target\": \"AIA Macau\"\n      },\n      {\n        \"source\": \"中國內地訪港客戶\",\n        \"target\": \"Mainland Chinese visitors\"\n      },\n      {\n        \"source\": \"個人遊計劃\",\n        \"target\": \"Individual Visit Scheme\"\n      },\n      {\n        \"source\": \"新業務價值利潤率\",\n        \"target\": \"VONB margin\"\n      },\n      {\n        \"source\": \"新業務價值\",\n        \"target\": \"VONB\"\n      },\n      {\n        \"source\": \"年化新保費\",\n        \"target\": \"ANP\"\n      },\n      {\n        \"source\": \"利潤率\",\n        \"target\": \"Profit Margin\"\n      }\n    ],\n    \"style_rules\": [\n      \"Use US$ for U.S. dollar amounts.\",\n      \"Keep listed-company annual report disclosure tone formal and publishable.\",\n      \"Do not change numbers, percentages, years, named entities or financial metric values.\",\n      \"Use established financial abbreviations for table labels when provided.\",\n      \"Keep row and column semantics unchanged.\",\n      \"Use n/m for 無意義.\"\n    ]\n  },\n  \"current_unit\": {\n    \"page_no\": 20,\n    \"unit_id\": \"p20_g04\",\n    \"unit_mode\": \"semantic_group\",\n    \"slot_count\": 4,\n    \"source_text\": \"在實施旅遊限制後，友邦保險香港業務來自中國內地訪港客戶的新業務銷售自2020年2月初起實際上已暫停，導\\n致其新業務價值大幅下降。新業務價值利潤率錄得跌幅，反映新業務量減少導致承保開支超支、產品組合變動及\\n利率下降的影響所致。澳門在2020年9月底恢復中國內地旅客個人遊計劃。這為澳門的中國內地訪澳客戶銷售回\\n升提供支持，使其在第四季佔友邦保險澳門分公司的年化新保費總額超過三分之一。\",\n    \"current_translation\": \"Following the implementation of travel restrictions, new business sales from Mainland Chinese visitors to AIA Hong Kong were effectively suspended from early February 2020, resulting in a significant decline in VONB. The VONB margin recorded a decrease, reflecting the impact of reduced new business volume leading to underwriting expense overruns, product mix changes and lower interest rates. Macau resumed the Individual Visit Scheme for Mainland Chinese visitors at the end of September 2020. This provided support for sales recovery from Mainland Chinese visitors in Macau, which accounted for more than one-third of AIA Macau's total ANP in the fourth quarter.\"\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p20_g04\",\n        \"translation\": \"<更紧凑译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p20_g04\",\n      \"translation\": \"Following travel restrictions, new business sales from Mainland Chinese visitors to AIA Hong Kong were effectively suspended from early February 2020, causing significant VONB decline. VONB margin decreased due to reduced new business volume, underwriting expense overruns, product mix changes and lower interest rates. Macau resumed the Individual Visit Scheme for Mainland Chinese visitors at end-September 2020, supporting sales recovery. Mainland Chinese visitors accounted for over one-third of AIA Macau's total ANP in Q4.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "ccb985df-2fec-4f9a-acb8-184c589f7383",
+    "conversation_id": "ccb985df-2fec-4f9a-acb8-184c589f7383",
+    "id": "ccb985df-2fec-4f9a-acb8-184c589f7383",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1141,
+      "output_tokens": 140
+    }
+  }
+}

@@ -1,0 +1,77 @@
+文档场景：上市公司企业年报。
+请优先复用 document_background 和 matched_terms 中提供的标准写法。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "direction": "Traditional Chinese -> English"
+  },
+  "document_background": {
+    "global_profile": {
+      "company_name_target": "AIA GROUP LIMITED",
+      "industry": "Life Insurance",
+      "report_type": "annual_report",
+      "report_year": 2020
+    },
+    "term_usage_mode": "table",
+    "page_sections": [
+      {
+        "source_section": "集團首席財務總監回顧",
+        "target_section": "Group Chief Financial Officer's Review",
+        "content_type": "cfo_review",
+        "page_range": [
+          18,
+          30
+        ]
+      }
+    ],
+    "roles": [],
+    "terms": [],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "Use established financial abbreviations for table labels when provided.",
+      "Keep row and column semantics unchanged.",
+      "Use n/m for 無意義."
+    ]
+  },
+  "matched_terms": [
+    {
+      "source": "友邦保險",
+      "target": "AIA"
+    }
+  ],
+  "current_unit": {
+    "page_no": 19,
+    "unit_id": "p19_g07",
+    "unit_mode": "semantic_group",
+    "block_types": [
+      "body",
+      "body",
+      "body"
+    ],
+    "blocks": [
+      {
+        "block_id": "p19_b24",
+        "source_text": "董事會建議末期股息增加7.5%至每股100.30港仙，並須於本公司應屆股東週年大會上獲股東批准。這使2020年的"
+      },
+      {
+        "block_id": "p19_b25",
+        "source_text": "全年股息總額為每股135.30港仙，較2019年的全年股息總額上升6.9%。這是秉承友邦保險行之已久的審慎、可持"
+      },
+      {
+        "block_id": "p19_b26",
+        "source_text": "續及漸進的派息政策，讓集團可把握未來的增長機遇，並且保持財務靈活性。"
+      }
+    ],
+    "joined_source_text": "董事會建議末期股息增加7.5%至每股100.30港仙，並須於本公司應屆股東週年大會上獲股東批准。這使2020年的\n全年股息總額為每股135.30港仙，較2019年的全年股息總額上升6.9%。這是秉承友邦保險行之已久的審慎、可持\n續及漸進的派息政策，讓集團可把握未來的增長機遇，並且保持財務靈活性。"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p19_g07",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "compact",
+    "page_no": 13,
+    "unit_id": "p13_g01"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是年报英文压缩器，不是重译器。\n语言方向：Traditional Chinese -> English。\n你的任务只是对已有译文做最小必要压缩，以便回填原版面。\n禁止改变数字、单位、术语、专名、比较关系、主体和结论。\n标题不能改成正文，表头不能改成句子，不能输出口语化表达。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市公司企业年报\n{\n  \"document_background\": {\n    \"page_sections\": [\n      {\n        \"target_section\": \"Group Chief Executive and President's Report\",\n        \"content_type\": \"ceo_report\",\n        \"page_range\": [\n          12,\n          16\n        ]\n      },\n      {\n        \"target_section\": \"Overview\",\n        \"content_type\": \"executive_summary\",\n        \"page_range\": [\n          8,\n          16\n        ]\n      }\n    ],\n    \"roles\": [\n      {\n        \"source\": \"李源祥\",\n        \"target\": \"Lee Yuen Cheung\",\n        \"role\": \"Group Chief Executive and President\"\n      }\n    ],\n    \"terms\": [\n      {\n        \"source\": \"2019冠狀病毒病\",\n        \"target\": \"COVID-19\",\n        \"abbreviation\": \"\",\n        \"context\": \"external_event\",\n        \"confidence\": \"high\"\n      }\n    ],\n    \"style_rules\": [\n      \"Preserve financial terminology consistency\",\n      \"Use formal corporate register throughout\",\n      \"Maintain parallel structure in lists and tables\",\n      \"Use active voice where source permits\",\n      \"Translate corporate mission statements with care\",\n      \"Preserve temporal references and context\",\n      \"Translate market/geographic references consistently\"\n    ]\n  },\n  \"current_unit\": {\n    \"page_no\": 13,\n    \"unit_id\": \"p13_g01\",\n    \"unit_mode\": \"semantic_group\",\n    \"slot_count\": 3,\n    \"source_text\": \"友邦保險是客戶誠可信賴的夥伴，讓客戶在關注財務安全和家庭保障時仍可安心無憂。儘管2019冠狀病毒病大\\n流行的影響深遠，但我衷心感謝我們的員工、代理和合作夥伴在適應新工作方式並確保為客戶提供無間斷的支援\\n時，展現靈活應變的能力和克盡己職的精神。\",\n    \"current_translation\": \"AIA is a trusted partner our customers can rely on, providing them with peace of mind as they focus on financial security and family protection. Despite the far-reaching impact of the COVID-19 pandemic, I am deeply grateful to our employees, agents and partners for demonstrating flexibility and dedication in adapting to new ways of working and ensuring uninterrupted support to our customers.\"\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p13_g01\",\n        \"translation\": \"<更紧凑译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p13_g01\",\n      \"translation\": \"AIA is a trusted partner providing customers with peace of mind as they focus on financial security and family protection. Despite the far-reaching impact of COVID-19, I am deeply grateful to our employees, agents and partners for demonstrating flexibility and dedication in adapting to new ways of working and ensuring uninterrupted customer support.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "6f49f815-1362-468f-817c-9d17735723ca",
+    "conversation_id": "6f49f815-1362-468f-817c-9d17735723ca",
+    "id": "6f49f815-1362-468f-817c-9d17735723ca",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 788,
+      "output_tokens": 101
+    }
+  }
+}

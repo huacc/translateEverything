@@ -1,0 +1,22 @@
+文档场景：上市公司企业年报
+page_no: 13
+unit_id: p13_g03
+unit_mode: semantic_group
+slot_count: 5
+source_text:
+儘管為遏制2019冠狀病毒病傳播的措施導致新業務價值減少至27.65億美元，但隨著外出限制放寬，銷售動力轉
+趨正面，並在2021年展開非常強勁的勢頭，首兩個月的新業務價值按年增長15%。我們規模龐大和持續增長的有
+效保單組合所帶來的高質素和經常性收入來源，帶動2020年稅後營運溢利增加5%，期內產生的基本自由盈餘則
+增長7%。截至2020年12月31日，內涵價值權益創新高，達672億美元，集團當地資本總和法覆蓋率為374%，足
+證我們雄厚的資本實力和嚴謹的財務管理。
+current_translation:
+Although measures to contain the spread of COVID-19 resulted in new business value declining to US$2.765 billion, as mobility restrictions eased, sales momentum turned positive, and in 2021 we saw very strong momentum, with new business value growing 15% year-on-year in the first two months. Our large-scale and growing portfolio of in-force policies generated high-quality and recurring revenue streams, driving a 5% increase in operating profit after tax in 2020, while basic free surplus generated during the period grew 7%. As at 31 December 2020, embedded value equity reached a record high of US$67.2 billion, with the Group's local capital aggregation method coverage ratio at 374%, demonstrating our strong capital position and prudent financial management.
+返回格式:
+{
+  "translations": [
+    {
+      "unit_id": "p13_g03",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

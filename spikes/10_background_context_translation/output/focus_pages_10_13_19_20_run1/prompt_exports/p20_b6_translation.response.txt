@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p20_b6",
+      "translation": "New Business Value\nProfit Margin\nAnnualized New Premium\nNew Business Value"
+    }
+  ]
+}
+```

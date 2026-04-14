@@ -1,0 +1,21 @@
+{
+  "content": [
+    {
+      "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p41_b1\",\n      \"translation\": \"Credit Ratings\"\n    },\n    {\n      \"block_id\": \"p41_b2\",\n      \"translation\": \"31 Dec 2020: Moody's, Fitch, S&P assigned AIA Co. Aa2 rating (very low credit risk, stable outlook)\"\n    },\n    {\n      \"block_id\": \"p41_b5\",\n      \"translation\": \"31 Dec 2020: Moody's, Fitch, S&P assigned AIA Holdings A2 issuer rating (low credit risk)\"\n    },\n    {\n      \"block_id\": \"p41_b7\",\n      \"translation\": \"Dividends\"\n    },\n    {\n      \"block_id\": \"p41_b8\",\n      \"translation\": \"Board recommends final dividend of HK$1.0030/share (+7.5%), subject to shareholder approval. Full year:\"\n    },\n    {\n      \"block_id\": \"p41_b9\",\n      \"translation\": \"HK$1.3530/share (+6.9% vs 2019). Reflects AIA's prudent, sustainable, progressive dividend policy.\"\n    },\n    {\n      \"block_id\": \"p41_b10\",\n      \"translation\": \"Enables Group to capture growth while maintaining financial flexibility.\"\n    },\n    {\n      \"block_id\": \"p41_b11\",\n      \"translation\": \"2020 Report 039\"\n    }\n  ]\n}\n```",
+      "type": "text"
+    }
+  ],
+  "conversationId": "ce686efe-e91c-45f3-bdf9-23e2af082a22",
+  "conversation_id": "ce686efe-e91c-45f3-bdf9-23e2af082a22",
+  "id": "ce686efe-e91c-45f3-bdf9-23e2af082a22",
+  "model": "claude-3-5-sonnet-20241022",
+  "role": "assistant",
+  "stop_reason": "end_turn",
+  "type": "message",
+  "usage": {
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1655,
+    "output_tokens": 331
+  }
+}

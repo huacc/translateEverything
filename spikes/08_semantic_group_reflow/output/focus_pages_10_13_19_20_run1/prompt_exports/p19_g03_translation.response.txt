@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p19_g03",
+      "translation": "This was due to embedded value operating profit of USD 7.243 billion offsetting the impact of the decline in government bond yields. Embedded value operating profit includes positive operating variances of USD 549 million, which resulted from our overall experience continuing to be favorable compared to our embedded value assumptions."
+    }
+  ]
+}
+```

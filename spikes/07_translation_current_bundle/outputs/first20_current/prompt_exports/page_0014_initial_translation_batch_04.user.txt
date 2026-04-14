@@ -1,0 +1,83 @@
+﻿请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。
+要求高保真、正式、可出版，不要摘要，不要解释。
+术语表和动态文档背景优先于自由翻译。
+只输出严格 JSON。
+{
+  "page_no": 14,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "relevant_terms": [
+    {
+      "source": "新業務價值",
+      "target": "new business value"
+    },
+    {
+      "source": "代理渠道",
+      "target": "agency channel"
+    },
+    {
+      "source": "銀行保險",
+      "target": "bancassurance"
+    },
+    {
+      "source": "中國內地",
+      "target": "Mainland China"
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "p14_b25",
+      "block_type": "body",
+      "source_text": "代理渠道方面，我們轉移使用線上招聘和入職培訓的趨勢，支持新入職代理及代理主管人數錄得雙位數字增長。",
+      "line_count": 1,
+      "char_count": 49,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p14_b26",
+      "block_type": "body",
+      "source_text": "雖然疫情大流行期間面對面會議受到限制，導致新業務價值下降28%，但隨著限制放寬，加上各業務採用新的數",
+      "line_count": 1,
+      "char_count": 50,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p14_b27",
+      "block_type": "body",
+      "source_text": "碼工具，新業務價值在下半年已強勁回升。正面銷售動力延續至2021年，與2020年同期比較，代理業務在首兩",
+      "line_count": 1,
+      "char_count": 52,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p14_b28",
+      "block_type": "label",
+      "source_text": "個月錄得非常強勁的新業務價值增長。",
+      "line_count": 1,
+      "char_count": 17,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p14_b29",
+      "block_type": "body",
+      "source_text": "中國內地訪港旅客的旅遊限制影響我們的零售獨立財務顧問業務，導致夥伴業務於2020年的新業務價值下降",
+      "line_count": 1,
+      "char_count": 49,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p14_b30",
+      "block_type": "body",
+      "source_text": "41%。我們從銀行保險帶來較為堅韌的業績，並為此渠道的新業務價值帶來大部分的貢獻。我們與印尼的Bank",
+      "line_count": 1,
+      "char_count": 51,
+      "region": "middle",
+      "font_size_avg": 9.0
+    }
+  ]
+}

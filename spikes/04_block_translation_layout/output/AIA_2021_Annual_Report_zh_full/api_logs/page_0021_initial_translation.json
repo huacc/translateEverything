@@ -1,0 +1,21 @@
+{
+  "content": [
+    {
+      "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p21_b1\",\n      \"translation\": \"AIA's Thailand business performed excellently in the second half, with new business value growing 33% compared to the first half. Although new business value declined 4% for the full year, as external\"\n    },\n    {\n      \"block_id\": \"p21_b2\",\n      \"translation\": \"restrictions eased in the second half, new business value recorded positive month-on-month growth.\"\n    },\n    {\n      \"block_id\": \"p21_b3\",\n      \"translation\": \"Overview\\nFinancial and Operational Review\\nCorporate Governance\\nOther Information\\nFinancial Statements\"\n    },\n    {\n      \"block_id\": \"p21_b4\",\n      \"translation\": \"AIA's Singapore business achieved excellent recovery in the second half. Compared to the first half, new business value in the second half of 2020 rose 56%, and increased 12% year-on-year.\"\n    },\n    {\n      \"block_id\": \"p21_b5\",\n      \"translation\": \"New business value declined 5% for the full year, as growth in new business from our agency channel was offset by a decrease in partner distribution new business, with sales to\"\n    },\n    {\n      \"block_id\": \"p21_b6\",\n      \"translation\": \"offshore customer segments particularly impacted by border control measures. Improved product mix and increased new business volume reduced underwriting expense overruns,\"\n    },\n    {\n      \"block_id\": \"p21_b7\",\n      \"translation\": \"driving a significant recovery in new business value margin in the second half.\"\n    },\n    {\n      \"block_id\": \"p21_b8\",\n      \"translation\": \"Compared to the first half, AIA's Malaysia business recorded 72% new business value growth in the second half, and double-digit new business value growth compared to the second half of 2019.\"\n    },\n    {\n      \"block_id\": \"p21_b9\",\n      \"translation\": \"New business value declined 13% for the full year, reflecting the impact of strict external restrictions related to COVID-19 in the first half of 2020.\"\n    },\n    {\n      \"block_id\": \"p21_b10\",\n      \"translation\": \"Positive product mix changes and reduced underwriting expense overruns improved new business value margin by 16.6 percentage points in the second half, with overall 2020 margin at 59.9%.\"\n    },\n    {\n      \"block_id\": \"p21_b11\",\n      \"translation\": \"Overall margin for 2020 was 59.9%.\"\n    },\n    {\n      \"block_id\": \"p21_b12\",\n      \"translation\": \"For other markets, new business value in the second half of 2020 rose 10% compared to the first half, with South Korea and Indonesia recording good recovery. Overall, new\"\n    },\n    {\n      \"block_id\": \"p21_b13\",\n      \"translation\": \"Zealand, Philippines and Indonesia recorded declines, resulting in overall new business value declining 4% for the full year. Other markets all recorded positive new business value growth. Compared to\"\n    },\n    {\n      \"block_id\": \"p21_b14\",\n      \"translation\": \"2019, Vietnam, Taiwan and India recorded double-digit new business value growth in 2020.\"\n    },\n    {\n      \"block_id\": \"p21_b15\",\n      \"translation\": \"2020 Annual Report\\n019\"\n    }\n  ]\n}\n```",
+      "type": "text"
+    }
+  ],
+  "conversationId": "446990a3-1978-4140-8a2c-e6f86e0a2c02",
+  "conversation_id": "446990a3-1978-4140-8a2c-e6f86e0a2c02",
+  "id": "446990a3-1978-4140-8a2c-e6f86e0a2c02",
+  "model": "claude-3-5-sonnet-20241022",
+  "role": "assistant",
+  "stop_reason": "end_turn",
+  "type": "message",
+  "usage": {
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1826,
+    "output_tokens": 760
+  }
+}

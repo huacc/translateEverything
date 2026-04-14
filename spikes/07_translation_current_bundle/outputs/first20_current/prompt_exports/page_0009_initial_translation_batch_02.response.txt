@@ -1,0 +1,10 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p9_b31",
+      "translation": "(1) Since 2017, financial information has been reported on a financial year ended 31 December basis. Financial information for 2016 has been reported on a financial year ended 30 November basis."
+    }
+  ]
+}
+```

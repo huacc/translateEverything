@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 10,
+    "unit_id": "p10_g02"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是上市公司年报翻译器。\n语言方向：Traditional Chinese -> English。\n只翻译当前输入，不补充、不解释、不总结。\n如果当前输入由多个连续块组成，只允许在当前组内做跨块理解；不得引入组外内容。\n数字、百分比、货币、年份、专有名词、公司名、人名、地名必须准确。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市公司企业年报\npage_no: 10\nunit_id: p10_g02\nunit_mode: semantic_group\nblocks:\n[\n  {\n    \"block_id\": \"p10_b9\",\n    \"source_text\": \"在2019冠狀病毒病大流行期間，\"\n  },\n  {\n    \"block_id\": \"p10_b10\",\n    \"source_text\": \"我們的同事關懷社群，克盡己職，\"\n  },\n  {\n    \"block_id\": \"p10_b11\",\n    \"source_text\": \"持續為數以百萬計的客戶\"\n  }\n]\njoined_source_text:\n在2019冠狀病毒病大流行期間，\n我們的同事關懷社群，克盡己職，\n持續為數以百萬計的客戶\n返回格式:\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p10_g02\",\n      \"translation\": \"<译文>\"\n    }\n  ]\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p10_g02\",\n      \"translation\": \"During the COVID-19 pandemic, our colleagues cared for the community and fulfilled their duties, continuing to serve millions of customers\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "38acb554-a212-47f6-8c0b-e26efd09e004",
+    "conversation_id": "38acb554-a212-47f6-8c0b-e26efd09e004",
+    "id": "38acb554-a212-47f6-8c0b-e26efd09e004",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 421,
+      "output_tokens": 62
+    }
+  }
+}

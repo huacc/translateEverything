@@ -1,0 +1,28 @@
+```json
+{
+  "unit_id": "p10_b27",
+  "page_no": 10,
+  "section_id": "chairman_statement",
+  "content_type": "footer",
+  "speaker_role": "management",
+  "topic_tags": [
+    "dividend_policy",
+    "capital_allocation",
+    "financial_flexibility",
+    "growth_strategy"
+  ],
+  "term_hits": [],
+  "needs_context": true,
+  "context_scope": "section",
+  "risk_level": "medium",
+  "risk_flags": [
+    "financial_metric_translation",
+    "policy_implication_accuracy"
+  ],
+  "translation_constraints": [
+    "preserve_formal_register",
+    "maintain_parallel_structure_with_preceding_sentence",
+    "ensure_policy_intent_clarity"
+  ]
+}
+```

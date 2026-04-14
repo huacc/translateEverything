@@ -1,0 +1,38 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p2_b45",
+      "translation": "132 Consolidated Income Statement"
+    },
+    {
+      "block_id": "p2_b46",
+      "translation": "AIA Group Limited is listed on the Main Board of The Stock Exchange of"
+    },
+    {
+      "block_id": "p2_b47",
+      "translation": "133 Consolidated Statement of Comprehensive Income"
+    },
+    {
+      "block_id": "p2_b48",
+      "translation": "AIA's business achievements today trace back to its origins in Shanghai"
+    },
+    {
+      "block_id": "p2_b49",
+      "translation": "Hong Kong Limited (stock code: 1299); its American Depositary Shares (Level 1) are"
+    },
+    {
+      "block_id": "p2_b50",
+      "translation": "134 Consolidated Statement of Financial Position"
+    },
+    {
+      "block_id": "p2_b51",
+      "translation": "over a century ago in 1919."
+    },
+    {
+      "block_id": "p2_b52",
+      "translation": "listed on the New York Stock Exchange."
+    }
+  ]
+}
+```

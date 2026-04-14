@@ -1,0 +1,21 @@
+{
+  "content": [
+    {
+      "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p26_b1\",\n      \"translation\": \"Financial & Operational Review\"\n    },\n    {\n      \"block_id\": \"p26_b2\",\n      \"translation\": \"Group CFO Review\"\n    },\n    {\n      \"block_id\": \"p26_b3\",\n      \"translation\": \"Weighted Premium Income by Segment\"\n    },\n    {\n      \"block_id\": \"p26_b4\",\n      \"translation\": \"USD millions\\n2020\\n2019\\nYoY Change\\n(Constant FX)\\nYoY Change\\n(Actual FX)\"\n    },\n    {\n      \"block_id\": \"p26_b5\",\n      \"translation\": \"Hong Kong\\n13,042\\n13,107\\n–\\n–\"\n    },\n    {\n      \"block_id\": \"p26_b6\",\n      \"translation\": \"Thailand\\n4,462\\n4,352\\n3%\\n3%\"\n    },\n    {\n      \"block_id\": \"p26_b7\",\n      \"translation\": \"Singapore\\n3,088\\n2,916\\n7%\\n6%\"\n    },\n    {\n      \"block_id\": \"p26_b8\",\n      \"translation\": \"Malaysia\\n2,216\\n2,142\\n5%\\n3%\"\n    },\n    {\n      \"block_id\": \"p26_b9\",\n      \"translation\": \"Mainland China\\n5,622\\n4,804\\n17%\\n17%\"\n    },\n    {\n      \"block_id\": \"p26_b10\",\n      \"translation\": \"Other Markets\\n6,978\\n6,681\\n5%\\n4%\"\n    },\n    {\n      \"block_id\": \"p26_b11\",\n      \"translation\": \"Total\\n35,408\\n34,002\\n4%\\n4%\"\n    },\n    {\n      \"block_id\": \"p26_b12\",\n      \"translation\": \"Weighted premium income rose 4% to USD 3,540.8m vs 2019. Renewal premiums up 10%, with recurring premiums exceeding 90% of 2020 total.\"\n    },\n    {\n      \"block_id\": \"p26_b15\",\n      \"translation\": \"USD millions\\n2020\\n2019\\nYoY Change\\n(Constant FX)\\nYoY Change\\n(Actual FX)\"\n    },\n    {\n      \"block_id\": \"p26_b16\",\n      \"translation\": \"Interest Income\\n7,051\\n6,624\\n7%\\n6%\"\n    },\n    {\n      \"block_id\": \"p26_b17\",\n      \"translation\": \"Expected LT Return on Equities & Real Estate\\n2,347\\n2,275\\n4%\\n3%\"\n    },\n    {\n      \"block_id\": \"p26_b18\",\n      \"translation\": \"Total\\n9,398\\n8,899\\n6%\\n6%\"\n    },\n    {\n      \"block_id\": \"p26_b19\",\n      \"translation\": \"IFRS operating profit investment return grew 6% to USD 939.8m vs 2019, driven by portfolio expansion, offset by lower fixed income yields and reduced equity return expectations.\"\n    },\n    {\n      \"block_id\": \"p26_b21\",\n      \"translation\": \"Operating Expenses\"\n    },\n    {\n      \"block_id\": \"p26_b22\",\n      \"translation\": \"USD millions\\n2020\\n2019\\nYoY Change\\n(Constant FX)\\nYoY Change\\n(Actual FX)\"\n    },\n    {\n      \"block_id\": \"p26_b23\",\n      \"translation\": \"Operating Expenses\\n2,695\\n2,468\\n9%\\n9%\"\n    },\n    {\n      \"block_id\": \"p26_b24\",\n      \"translation\": \"Expense ratio 7.6% vs 7.3% in 2019, due to lower new business and Australian acquisition from H2 2019.\"\n    },\n    {\n      \"block_id\": \"p26_b25\",\n      \"translation\": \"024\\nAIA Group Limited\"\n    }\n  ]\n}\n```",
+      "type": "text"
+    }
+  ],
+  "conversationId": "a7b7bc56-fdd7-4fd3-a50e-87bb21b380f6",
+  "conversation_id": "a7b7bc56-fdd7-4fd3-a50e-87bb21b380f6",
+  "id": "a7b7bc56-fdd7-4fd3-a50e-87bb21b380f6",
+  "model": "claude-3-5-sonnet-20241022",
+  "role": "assistant",
+  "stop_reason": "end_turn",
+  "type": "message",
+  "usage": {
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 3965,
+    "output_tokens": 931
+  }
+}

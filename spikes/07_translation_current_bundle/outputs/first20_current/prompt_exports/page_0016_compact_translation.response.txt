@@ -1,0 +1,58 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p16_b3",
+      "translation": "We recognise we still have much to accomplish in this important area. We have also recently completed a review of our Environmental, Social and Governance strategy. I am confident that our"
+    },
+    {
+      "block_id": "p16_b4",
+      "translation": "five strategic focus areas – enhancing physical and mental wellbeing, green operations, sustainable investment, talent and culture, and effective governance – will help us achieve our aspiration to be a"
+    },
+    {
+      "block_id": "p16_b6",
+      "translation": "Outlook"
+    },
+    {
+      "block_id": "p16_b8",
+      "translation": "received unprecedented public financial and monetary support, which helped mitigate some of the extreme financial impacts caused by the pandemic and accelerated recovery, which was particularly evident in"
+    },
+    {
+      "block_id": "p16_b9",
+      "translation": "countries with well-developed health policies and infrastructure. However, significant differences existed between countries, and in these challenging circumstances, Asia (excluding Japan) recorded"
+    },
+    {
+      "block_id": "p16_b10",
+      "translation": "the relatively strongest gross domestic product performance globally. Currently, the global economy is emerging from a deep recession and entering the early stages of improvement."
+    },
+    {
+      "block_id": "p16_b11",
+      "translation": "segment."
+    },
+    {
+      "block_id": "p16_b13",
+      "translation": "vaccination programmes and new therapies will help reduce infection rates and disease severity, enabling healthcare systems to respond more effectively to the pandemic and lower mortality rates. Although we"
+    },
+    {
+      "block_id": "p16_b14",
+      "translation": "do not expect consumer behaviour and spending patterns to return to pre-pandemic levels in the near term, as consumer confidence recovers, the scope of recovery is expected to gradually"
+    },
+    {
+      "block_id": "p16_b15",
+      "translation": "expand from manufacturing-led industries to consumer and service sectors. This will be particularly evident in countries with younger populations."
+    },
+    {
+      "block_id": "p16_b19",
+      "translation": "growth track record, we will build a more sustainable future for our communities and create shared value for all stakeholders."
+    },
+    {
+      "block_id": "p16_b20",
+      "translation": "Lee Yuan Siong"
+    },
+    {
+      "block_id": "p16_b21",
+      "translation": "Group Chief Executive and President"
+    }
+  ]
+}
+```

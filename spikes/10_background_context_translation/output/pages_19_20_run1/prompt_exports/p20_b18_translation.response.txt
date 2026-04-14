@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p20_b18",
+      "translation": "Total before non-controlling interests\n2,789\n52.6%\n5,219\n4,186\n62.9%\n6,585\n(33)%\n(33)%"
+    }
+  ]
+}
+```

@@ -1,0 +1,21 @@
+{
+  "content": [
+    {
+      "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p16_b3\",\n      \"translation\": \"We recognise we still have much to accomplish in this important area. We have also recently completed a review of our Environmental, Social and Governance strategy. I am confident that our\"\n    },\n    {\n      \"block_id\": \"p16_b4\",\n      \"translation\": \"five strategic focus areas: enhancing physical and mental wellbeing, green operations, sustainable investment, talent and culture, and effective governance, will help us achieve our aspiration to be a\"\n    },\n    {\n      \"block_id\": \"p16_b5\",\n      \"translation\": \"global leader in Environmental, Social and Governance.\"\n    },\n    {\n      \"block_id\": \"p16_b6\",\n      \"translation\": \"Outlook\"\n    },\n    {\n      \"block_id\": \"p16_b7\",\n      \"translation\": \"In 2020, the COVID-19 pandemic was undoubtedly the largest-scale public health emergency in our living memory. Affected businesses and households\"\n    },\n    {\n      \"block_id\": \"p16_b8\",\n      \"translation\": \"received unprecedented public financial and monetary support, which helped mitigate extreme financial impacts caused by the pandemic and accelerated recovery, which was particularly evident in\"\n    },\n    {\n      \"block_id\": \"p16_b9\",\n      \"translation\": \"countries with well-developed health policies and infrastructure. However, significant differences existed between countries, and in these challenging circumstances, Asia (excluding Japan) recorded\"\n    },\n    {\n      \"block_id\": \"p16_b10\",\n      \"translation\": \"the relatively strongest global GDP performance. Currently, the global economy is emerging from a deep recession and entering the early stages of improvement.\"\n    },\n    {\n      \"block_id\": \"p16_b12\",\n      \"translation\": \"Although the pandemic's effects have not yet ended, we believe 2021 will be a transitional year and remain cautiously optimistic. The market anticipates the rollout of\"\n    },\n    {\n      \"block_id\": \"p16_b13\",\n      \"translation\": \"vaccination programmes and new therapies to help reduce infection rates and disease severity, enabling healthcare systems to respond more effectively and reduce mortality rates. Although we\"\n    },\n    {\n      \"block_id\": \"p16_b14\",\n      \"translation\": \"do not expect travel and consumer behaviour to return to pre-pandemic levels in the short term, as consumer confidence recovers, the scope of recovery is expected to gradually\"\n    },\n    {\n      \"block_id\": \"p16_b15\",\n      \"translation\": \"expand from manufacturing-led industries to consumer and service sectors. This will be particularly evident in countries with younger populations.\"\n    },\n    {\n      \"block_id\": \"p16_b16\",\n      \"translation\": \"I am confident about AIA's long-term prospects. Despite near-term uncertainties, domestic factors driving demand remain strong, and Asia's key demographic trends continue to provide positive structural support for\"\n    },\n    {\n      \"block_id\": \"p16_b19\",\n      \"translation\": \"track record of growth to build a more sustainable future for our communities and create shared value for all stakeholders.\"\n    },\n    {\n      \"block_id\": \"p16_b20\",\n      \"translation\": \"Lee Yuan Siong\"\n    },\n    {\n      \"block_id\": \"p16_b21\",\n      \"translation\": \"Group Chief Executive Officer and President\"\n    }\n  ]\n}\n```",
+      "type": "text"
+    }
+  ],
+  "conversationId": "4c08ce01-5822-4ee9-bab0-c15e4dc060ee",
+  "conversation_id": "4c08ce01-5822-4ee9-bab0-c15e4dc060ee",
+  "id": "4c08ce01-5822-4ee9-bab0-c15e4dc060ee",
+  "model": "claude-3-5-sonnet-20241022",
+  "role": "assistant",
+  "stop_reason": "end_turn",
+  "type": "message",
+  "usage": {
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 3909,
+    "output_tokens": 759
+  }
+}

@@ -1,0 +1,36 @@
+```json
+{
+  "unit_id": "p20_b10",
+  "page_no": 20,
+  "section_id": "new_business_performance",
+  "content_type": "financial_table_data",
+  "speaker_role": null,
+  "topic_tags": [
+    "geographic_market_segment",
+    "financial_metrics",
+    "business_performance"
+  ],
+  "term_hits": [
+    {
+      "source_term": "泰國",
+      "target_term": "Thailand",
+      "context": "market_segment",
+      "confidence": "high"
+    }
+  ],
+  "needs_context": true,
+  "context_scope": "table_header",
+  "risk_level": "high",
+  "risk_flags": [
+    "percentage_and_ratio_precision",
+    "financial_metric_translation",
+    "table_structure_integrity"
+  ],
+  "translation_constraints": [
+    "preserve_exact_decimal_places",
+    "maintain_numerical_precision",
+    "verify_column_alignment_with_headers",
+    "confirm_metric_definitions_from_table_context"
+  ]
+}
+```

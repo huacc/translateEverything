@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p20_b15",
+      "translation": "Subtotal\n3,053\n57.7%\n5,219\n4,427\n66.6%\n6,585\n(31)%\n(31)%"
+    }
+  ]
+}
+```

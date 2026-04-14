@@ -1,0 +1,38 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p2_b61",
+      "translation": "Total assets of US$32.6 billion."
+    },
+    {
+      "block_id": "p2_b62",
+      "translation": "265 Independent Auditors' Report on\nEmbedded Value Supplementary Information"
+    },
+    {
+      "block_id": "p2_b63",
+      "translation": "269 Embedded Value Supplementary Information"
+    },
+    {
+      "block_id": "p2_b65",
+      "translation": "295 Shareholder Information"
+    },
+    {
+      "block_id": "p2_b66",
+      "translation": "298 Corporate Information"
+    },
+    {
+      "block_id": "p2_b67",
+      "translation": "299 Glossary"
+    },
+    {
+      "block_id": "p2_b68",
+      "translation": "Note:"
+    },
+    {
+      "block_id": "p2_b69",
+      "translation": "(1) Definitions and abbreviations of certain terms used in this report are set out in the Glossary section."
+    }
+  ]
+}
+```

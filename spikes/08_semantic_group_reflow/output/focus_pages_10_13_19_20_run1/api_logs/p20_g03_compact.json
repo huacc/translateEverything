@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "compact",
+    "page_no": 20,
+    "unit_id": "p20_g03"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是版面回填压缩器。\n语言方向：Traditional Chinese -> English。\n在不改变事实、数字、专有名词和正式语气的前提下，对当前译文做最小必要压缩。\n不得补充新信息，不得删除关键事实，不得改动数字和单位。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市公司企业年报\npage_no: 20\nunit_id: p20_g03\nunit_mode: semantic_group\nslot_count: 4\nsource_text:\n友邦保險中國業務在2021年錄得成功的勢頭，首兩個月的新業務價值與2020年同期比較，錄得非常強勁的增\n長。2020年新業務價值9.68億美元較2019年減少17%，主要由於2019冠狀病毒病在第一季爆發初期而導致銷售額\n有限。隨著外出限制放寬，新業務動力得以迅速改善。新業務價值重拾我們慣常的季節性規律，比重更側重於上\n半年。在2020年，友邦保險中國業務為集團的新業務價值帶來最大貢獻。\ncurrent_translation:\nAIA's China business achieved strong momentum in 2021, with new business value in the first two months showing very robust growth compared to the same period in 2020. In 2020, new business value of USD 968 million decreased by 17% compared to 2019, primarily due to limited sales in the early outbreak of COVID-19 in the first quarter. As travel restrictions eased, new business momentum improved rapidly. New business value resumed our customary seasonal pattern, with a greater proportion weighted towards the first half of the year. In 2020, AIA's China business made the largest contribution to the Group's new business value.\n返回格式:\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p20_g03\",\n      \"translation\": \"<更紧凑译文>\"\n    }\n  ]\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p20_g03\",\n      \"translation\": \"AIA's China business achieved strong momentum in 2021, with new business value in the first two months showing very robust growth versus 2020. In 2020, new business value of USD 968 million decreased 17% from 2019, primarily due to limited sales from COVID-19's early outbreak in Q1. As travel restrictions eased, new business momentum improved rapidly, resuming customary seasonal patterns weighted toward H1. In 2020, AIA's China business made the largest contribution to Group new business value.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "54f19332-6d76-4185-90ec-5fc51f0af4bb",
+    "conversation_id": "54f19332-6d76-4185-90ec-5fc51f0af4bb",
+    "id": "54f19332-6d76-4185-90ec-5fc51f0af4bb",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 590,
+      "output_tokens": 136
+    }
+  }
+}

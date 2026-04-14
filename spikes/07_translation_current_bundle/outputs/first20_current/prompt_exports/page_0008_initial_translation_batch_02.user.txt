@@ -1,0 +1,62 @@
+﻿请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。
+要求高保真、正式、可出版，不要摘要，不要解释。
+术语表和动态文档背景优先于自由翻译。
+只输出严格 JSON。
+{
+  "page_no": 8,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "relevant_terms": [
+    {
+      "source": "內涵價值",
+      "target": "embedded value"
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "p8_b72",
+      "block_type": "label",
+      "source_text": "內涵價值權益(6)\n總資產及總負債(9)",
+      "line_count": 2,
+      "char_count": 20,
+      "region": "middle",
+      "font_size_avg": 9.5
+    },
+    {
+      "block_id": "p8_b73",
+      "block_type": "label",
+      "source_text": "US$ MILLIONS",
+      "line_count": 1,
+      "char_count": 12,
+      "region": "middle",
+      "font_size_avg": 8.0
+    },
+    {
+      "block_id": "p8_b74",
+      "block_type": "label",
+      "source_text": "US$ BILLIONS",
+      "line_count": 1,
+      "char_count": 12,
+      "region": "middle",
+      "font_size_avg": 8.0
+    },
+    {
+      "block_id": "p8_b76",
+      "block_type": "label",
+      "source_text": "十億美元",
+      "line_count": 1,
+      "char_count": 4,
+      "region": "middle",
+      "font_size_avg": 6.5
+    },
+    {
+      "block_id": "p8_b110",
+      "block_type": "label",
+      "source_text": "總資產\n總負債",
+      "line_count": 2,
+      "char_count": 7,
+      "region": "middle",
+      "font_size_avg": 8.0
+    }
+  ]
+}

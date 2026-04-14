@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "compact",
+    "page_no": 13,
+    "unit_id": "p13_g07"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是年报英文压缩器，不是重译器。\n语言方向：Traditional Chinese -> English。\n你的任务只是对已有译文做最小必要压缩，以便回填原版面。\n禁止改变数字、单位、术语、专名、比较关系、主体和结论。\n标题不能改成正文，表头不能改成句子，不能输出口语化表达。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市公司企业年报\n{\n  \"document_background\": {\n    \"page_sections\": [\n      {\n        \"target_section\": \"Group Chief Executive and President's Report\",\n        \"content_type\": \"ceo_report\",\n        \"page_range\": [\n          12,\n          16\n        ]\n      },\n      {\n        \"target_section\": \"Overview\",\n        \"content_type\": \"executive_summary\",\n        \"page_range\": [\n          8,\n          16\n        ]\n      }\n    ],\n    \"roles\": [\n      {\n        \"source\": \"李源祥\",\n        \"target\": \"Lee Yuen Cheung\",\n        \"role\": \"Group Chief Executive and President\"\n      }\n    ],\n    \"terms\": [],\n    \"style_rules\": [\n      \"Preserve financial terminology consistency\",\n      \"Use formal corporate register throughout\",\n      \"Maintain parallel structure in lists and tables\",\n      \"Use active voice where source permits\",\n      \"Translate corporate mission statements with care\",\n      \"Preserve temporal references and context\",\n      \"Translate market/geographic references consistently\"\n    ]\n  },\n  \"current_unit\": {\n    \"page_no\": 13,\n    \"unit_id\": \"p13_g07\",\n    \"unit_mode\": \"semantic_group\",\n    \"slot_count\": 3,\n    \"source_text\": \"我們旨在使友邦保險在科技應用方面領先全球，加強互聯互通，擴大規模和提升效率。更深入瞭解數據分析有助\\n我們締造獨特和個人化的客戶體驗。切合和反映個人需求和生活方式的產品及服務，改變了大眾對人壽保險的看\\n法，為我們與客戶建立長遠關係奠定堅實的基礎。\",\n    \"current_translation\": \"We aim to position AIA as a global leader in technology application, strengthening connectivity, expanding scale and enhancing efficiency. Deeper insights from data analytics enable us to create distinctive and personalized customer experiences. Products and services that are tailored to and reflect individual needs and lifestyles have transformed public perception of life insurance, establishing a solid foundation for building long-term relationships with our customers.\"\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p13_g07\",\n        \"translation\": \"<更紧凑译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p13_g07\",\n      \"translation\": \"We aim to position AIA as a global leader in technology application, strengthening connectivity, expanding scale and enhancing efficiency. Deeper data analytics insights enable us to create distinctive, personalized customer experiences. Tailored products and services reflecting individual needs and lifestyles have transformed public perception of life insurance, establishing a solid foundation for long-term customer relationships.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "70c8b4db-5da5-4837-816a-405c2403ae3d",
+    "conversation_id": "70c8b4db-5da5-4837-816a-405c2403ae3d",
+    "id": "70c8b4db-5da5-4837-816a-405c2403ae3d",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 736,
+      "output_tokens": 106
+    }
+  }
+}

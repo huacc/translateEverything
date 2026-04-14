@@ -1,0 +1,80 @@
+﻿请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。
+要求高保真、正式、可出版，不要摘要，不要解释。
+术语表和动态文档背景优先于自由翻译。
+只输出严格 JSON。
+{
+  "page_no": 19,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "relevant_terms": [
+    {
+      "source": "友邦保險",
+      "target": "AIA"
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "p19_b22",
+      "block_type": "body",
+      "source_text": "489%。於2020年12月31日，在新的集團監管框架下，集團當地資本總和法覆蓋率為374%。日後，我們將披露集",
+      "line_count": 1,
+      "char_count": 56,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p19_b23",
+      "block_type": "body",
+      "source_text": "團當地資本總和法覆蓋率，作為衡量本集團監管償付能力的主要指標。",
+      "line_count": 1,
+      "char_count": 31,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p19_b24",
+      "block_type": "body",
+      "source_text": "董事會建議末期股息增加7.5%至每股100.30港仙，並須於本公司應屆股東週年大會上獲股東批准。這使2020年的",
+      "line_count": 1,
+      "char_count": 56,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p19_b25",
+      "block_type": "body",
+      "source_text": "全年股息總額為每股135.30港仙，較2019年的全年股息總額上升6.9%。這是秉承友邦保險行之已久的審慎、可持",
+      "line_count": 1,
+      "char_count": 56,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p19_b26",
+      "block_type": "body",
+      "source_text": "續及漸進的派息政策，讓集團可把握未來的增長機遇，並且保持財務靈活性。",
+      "line_count": 1,
+      "char_count": 34,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p19_b27",
+      "block_type": "body",
+      "source_text": "我們仍然對友邦保險在整個亞洲地區的業務機會充滿信心。我們將繼續專注於投資資本，以實現具盈利的新業務",
+      "line_count": 1,
+      "char_count": 49,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p19_b28",
+      "block_type": "body",
+      "source_text": "增長，並運用我們的競爭優勢，同時維持審慎的財務管理和實現長期股東價值。",
+      "line_count": 1,
+      "char_count": 35,
+      "region": "middle",
+      "font_size_avg": 9.0
+    }
+  ]
+}

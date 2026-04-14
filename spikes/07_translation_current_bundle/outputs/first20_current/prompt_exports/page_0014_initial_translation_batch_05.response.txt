@@ -1,0 +1,14 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p14_b31",
+      "translation": "Central Asia (BCA), Bangkok Bank Public Company Limited (Bangkok Bank) in Thailand, and Public Bank"
+    },
+    {
+      "block_id": "p14_b32",
+      "translation": "Berhad (Public Bank) in Malaysia through bancassurance partnerships, both recorded positive new business value growth in 2020."
+    }
+  ]
+}
+```

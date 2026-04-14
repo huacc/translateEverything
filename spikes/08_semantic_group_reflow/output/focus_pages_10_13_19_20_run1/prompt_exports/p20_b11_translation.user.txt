@@ -1,0 +1,37 @@
+文档场景：上市公司企业年报
+page_no: 20
+unit_id: p20_b11
+unit_mode: single_block
+命中术语约束:
+[
+  {
+    "source": "新加坡",
+    "target": "Singapore"
+  }
+]
+blocks:
+[
+  {
+    "block_id": "p20_b11",
+    "source_text": "新加坡\n330\n63.4%\n520\n352\n65.5%\n538\n(5)%\n(6)%"
+  }
+]
+joined_source_text:
+新加坡
+330
+63.4%
+520
+352
+65.5%
+538
+(5)%
+(6)%
+返回格式:
+{
+  "translations": [
+    {
+      "unit_id": "p20_b11",
+      "translation": "<译文>"
+    }
+  ]
+}

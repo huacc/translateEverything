@@ -1,0 +1,3286 @@
+[
+  {
+    "page_no": 19,
+    "unit_id": "p19_g01",
+    "mode": "semantic_group",
+    "block_ids": [
+      "p19_b1",
+      "p19_b2",
+      "p19_b3"
+    ],
+    "source_text": "大流行病對我們2020年財務表現的主要影響是對新業務銷售的影響，原因在於我們眾多市場的遏制傳播措施限制\n了面對面的銷售活動，尤其是在2020年上半年。儘管2020年的新業務價值27.65億美元較2019年減少了33%，我\n們迅速採用了新的數碼工具，並且外出限制的普遍放寬支持了銷售勢頭的恢復。友邦保險中國業務為2020年本集",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [
+        {
+          "source": "新業務價值",
+          "target": "New Business Value",
+          "abbreviation": "NBV",
+          "context": "financial_metric",
+          "confidence": "high"
+        }
+      ],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    },
+    "matched_terms": [
+      {
+        "source": "友邦保險",
+        "target": "AIA"
+      },
+      {
+        "source": "新業務價值",
+        "target": "new business value"
+      },
+      {
+        "source": "新業務價值",
+        "target": "New Business Value"
+      }
+    ],
+    "initial_translation": "The pandemic's principal impact on our 2020 financial performance was on new business sales, as containment measures across our numerous markets restricted face-to-face sales activities, particularly in the first half of 2020. Despite new business value of USD 2.765 billion in 2020 representing a 33% decrease from 2019, we rapidly adopted new digital tools, and the widespread relaxation of mobility restrictions supported a recovery in sales momentum. AIA's China business contributed significantly to the Group's",
+    "compact_translation": "The pandemic's principal impact on our 2020 financial performance was on new business sales, as containment measures across our markets restricted face-to-face sales activities, particularly in the first half of 2020. Despite new business value of USD 2.765 billion in 2020 representing a 33% decrease from 2019, we rapidly adopted digital tools, and the widespread relaxation of mobility restrictions supported a recovery in sales momentum. AIA's China business contributed significantly to the Group's",
+    "final_translation": "The pandemic's principal impact on our 2020 financial performance was on new business sales, as containment measures across our markets restricted face-to-face sales activities, particularly in the first half of 2020. Despite new business value of USD 2.765 billion in 2020 representing a 33% decrease from 2019, we rapidly adopted digital tools, and the widespread relaxation of mobility restrictions supported a recovery in sales momentum. AIA's China business contributed significantly to the Group's",
+    "translation_source": "model_initial",
+    "compact_used": true,
+    "render_result": {
+      "layout_mode": "group_slots",
+      "fit_status": "font_shrink",
+      "font_ratio": 0.591,
+      "rendered_lines": [
+        "The pandemic's principal impact on our 2020 financial performance was on new business sales, as containment measures across our",
+        "markets restricted face-to-face sales activities, particularly in the first half of 2020. Despite new business value of USD 2.765 billion in",
+        "2020 representing a 33% decrease from 2019, we rapidly adopted digital tools, and the widespread relaxation of mobility restrictions supported a recovery in sales momentum. AIA's China business contributed significantly to the Group's"
+      ],
+      "rendered_by_block": {
+        "p19_b1": "The pandemic's principal impact on our 2020 financial performance was on new business sales, as containment measures across our",
+        "p19_b2": "markets restricted face-to-face sales activities, particularly in the first half of 2020. Despite new business value of USD 2.765 billion in",
+        "p19_b3": "2020 representing a 33% decrease from 2019, we rapidly adopted digital tools, and the widespread relaxation of mobility restrictions supported a recovery in sales momentum. AIA's China business contributed significantly to the Group's"
+      },
+      "slot_count": 3,
+      "selected_scale": 1.02
+    },
+    "block_outputs": {
+      "p19_b1": "The pandemic's principal impact on our 2020 financial performance was on new business sales, as containment measures across our",
+      "p19_b2": "markets restricted face-to-face sales activities, particularly in the first half of 2020. Despite new business value of USD 2.765 billion in",
+      "p19_b3": "2020 representing a 33% decrease from 2019, we rapidly adopted digital tools, and the widespread relaxation of mobility restrictions supported a recovery in sales momentum. AIA's China business contributed significantly to the Group's"
+    }
+  },
+  {
+    "page_no": 19,
+    "unit_id": "p19_b4",
+    "mode": "single_block",
+    "block_ids": [
+      "p19_b4"
+    ],
+    "source_text": "概覽\n財務及營運回顧\n企業管治\n其他資料\n財務報表",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Use active voice where source permits",
+        "Translate corporate mission statements with care",
+        "Preserve temporal references and context",
+        "Translate market/geographic references consistently"
+      ]
+    },
+    "matched_terms": [],
+    "initial_translation": "Overview Financial and Operational Review Corporate Governance Other Information Financial Statements",
+    "compact_translation": null,
+    "final_translation": "Overview Financial and Operational Review Corporate Governance Other Information Financial Statements",
+    "translation_source": "glossary_linewise",
+    "compact_used": false,
+    "render_result": {
+      "layout_mode": "textbox",
+      "fit_status": "ok",
+      "font_ratio": 1.0,
+      "rendered_lines": [
+        "Overview Financial and Operational Review Corporate Governance Other Information Financial Statements"
+      ],
+      "rendered_by_block": {
+        "p19_b4": "Overview Financial and Operational Review Corporate Governance Other Information Financial Statements"
+      },
+      "slot_count": 5,
+      "selected_scale": 1.0
+    },
+    "block_outputs": {
+      "p19_b4": "Overview Financial and Operational Review Corporate Governance Other Information Financial Statements"
+    }
+  },
+  {
+    "page_no": 19,
+    "unit_id": "p19_g02",
+    "mode": "semantic_group",
+    "block_ids": [
+      "p19_b5",
+      "p19_b6",
+      "p19_b7",
+      "p19_b8"
+    ],
+    "source_text": "團的新業務價值帶來最大貢獻，也是我們第一個顯示銷售勢頭有所恢復的報告分部，原因在於該地區自2020年3\n月逐步放寬嚴格的封鎖。撇除維持低位的中國內地訪港旅客銷售額，本集團其他分部的新業務價值在下半年強勁\n復甦，與上半年相比增長了23%。本集團的新業務發展勢頭在2021年持續強勁，首兩個月新業務價值較2020年同\n期高出15%。",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [
+        {
+          "source": "新業務價值",
+          "target": "New Business Value",
+          "abbreviation": "NBV",
+          "context": "financial_metric",
+          "confidence": "high"
+        }
+      ],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    },
+    "matched_terms": [
+      {
+        "source": "新業務價值",
+        "target": "new business value"
+      },
+      {
+        "source": "中國內地",
+        "target": "Mainland China"
+      },
+      {
+        "source": "新業務價值",
+        "target": "New Business Value"
+      }
+    ],
+    "initial_translation": "contributed the most to the Group's New Business Value and was the first reporting segment to demonstrate a recovery in sales momentum, as the region gradually eased strict lockdown measures from March 2020 onwards. Excluding the subdued sales from Mainland China visitors to Hong Kong, the Group's other segments showed strong New Business Value recovery in the second half, growing 23% compared to the first half. The Group's new business momentum remained robust in 2021, with New Business Value in the first two months up 15% compared to the same period in 2020.",
+    "compact_translation": "contributed most to the Group's New Business Value and was the first reporting segment showing sales momentum recovery, as the region gradually eased strict lockdown measures from March 2020. Excluding subdued Mainland China visitor sales to Hong Kong, other segments showed strong New Business Value recovery in H2, growing 23% versus H1. The Group's new business momentum remained robust in 2021, with New Business Value in the first two months up 15% year-on-year.",
+    "final_translation": "contributed the most to the Group's New Business Value and was the first reporting segment to demonstrate a recovery in sales momentum, as the region gradually eased strict lockdown measures from March 2020 onwards. Excluding the subdued sales from Mainland China visitors to Hong Kong, the Group's other segments showed strong New Business Value recovery in the second half, growing 23% compared to the first half. The Group's new business momentum remained robust in 2021, with New Business Value in the first two months up 15% compared to the same period in 2020.",
+    "translation_source": "model_initial",
+    "compact_used": false,
+    "render_result": {
+      "layout_mode": "group_slots",
+      "fit_status": "font_shrink",
+      "font_ratio": 0.55,
+      "rendered_lines": [
+        "contributed the most to the Group's New Business Value and was the first reporting segment to demonstrate a recovery in sales momentum, as the region gradually eased strict",
+        "lockdown measures from March 2020 onwards. Excluding the subdued sales from Mainland China visitors to Hong Kong, the Group's other segments showed strong New Business",
+        "Value recovery in the second half, growing 23% compared to the first half. The Group's new business momentum remained robust in 2021, with New Business Value in the first two",
+        "months up 15% compared to the same period in 2020."
+      ],
+      "rendered_by_block": {
+        "p19_b5": "contributed the most to the Group's New Business Value and was the first reporting segment to demonstrate a recovery in sales momentum, as the region gradually eased strict",
+        "p19_b6": "lockdown measures from March 2020 onwards. Excluding the subdued sales from Mainland China visitors to Hong Kong, the Group's other segments showed strong New Business",
+        "p19_b7": "Value recovery in the second half, growing 23% compared to the first half. The Group's new business momentum remained robust in 2021, with New Business Value in the first two",
+        "p19_b8": "months up 15% compared to the same period in 2020."
+      },
+      "slot_count": 4,
+      "selected_scale": 0.77
+    },
+    "block_outputs": {
+      "p19_b5": "contributed the most to the Group's New Business Value and was the first reporting segment to demonstrate a recovery in sales momentum, as the region gradually eased strict",
+      "p19_b6": "lockdown measures from March 2020 onwards. Excluding the subdued sales from Mainland China visitors to Hong Kong, the Group's other segments showed strong New Business",
+      "p19_b7": "Value recovery in the second half, growing 23% compared to the first half. The Group's new business momentum remained robust in 2021, with New Business Value in the first two",
+      "p19_b8": "months up 15% compared to the same period in 2020."
+    }
+  },
+  {
+    "page_no": 19,
+    "unit_id": "p19_b9",
+    "mode": "single_block",
+    "block_ids": [
+      "p19_b9"
+    ],
+    "source_text": "截至2020年12月31日的內涵價值權益創下新高為671.85億美元，於派付股息19.97億美元之前增加52.77億美元，",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [
+        {
+          "source": "內涵價值",
+          "target": "Embedded Value",
+          "abbreviation": "EV",
+          "context": "valuation_metric",
+          "confidence": "high"
+        }
+      ],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    },
+    "matched_terms": [
+      {
+        "source": "內涵價值",
+        "target": "embedded value"
+      },
+      {
+        "source": "內涵價值",
+        "target": "Embedded Value"
+      }
+    ],
+    "initial_translation": "Embedded Value equity reached a new high of US$67.185 billion as at 31 December 2020, an increase of US$5.277 billion before the payment of dividends of US$1.997 billion,",
+    "compact_translation": "Embedded Value equity reached a new high of US$67.185 billion as at 31 December 2020, an increase of US$5.277 billion before dividend payments of US$1.997 billion,",
+    "final_translation": "Embedded Value equity reached a new high of US$67.185 billion as at 31 December 2020, an increase of US$5.277 billion before dividend payments of US$1.997 billion,",
+    "translation_source": "model_initial",
+    "compact_used": true,
+    "render_result": {
+      "layout_mode": "single_line",
+      "fit_status": "font_shrink",
+      "font_ratio": 0.79,
+      "rendered_lines": [
+        "Embedded Value equity reached a new high of US$67.185 billion as at 31 December 2020, an increase of US$5.277 billion before dividend payments of US$1.997 billion,"
+      ],
+      "rendered_by_block": {
+        "p19_b9": "Embedded Value equity reached a new high of US$67.185 billion as at 31 December 2020, an increase of US$5.277 billion before dividend payments of US$1.997 billion,"
+      },
+      "slot_count": 1,
+      "selected_scale": 0.79
+    },
+    "block_outputs": {
+      "p19_b9": "Embedded Value equity reached a new high of US$67.185 billion as at 31 December 2020, an increase of US$5.277 billion before dividend payments of US$1.997 billion,"
+    }
+  },
+  {
+    "page_no": 19,
+    "unit_id": "p19_g03",
+    "mode": "semantic_group",
+    "block_ids": [
+      "p19_b10",
+      "p19_b11"
+    ],
+    "source_text": "原因在於內涵價值營運溢利72.43億美元抵銷了政府債券收益率下降的影響。內涵價值營運溢利包括來自正面營\n運差異5.49億美元，原因在於與我們的內涵價值假設相比，我們的整體經驗持續維持正面。",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [
+        {
+          "source": "內涵價值",
+          "target": "Embedded Value",
+          "abbreviation": "EV",
+          "context": "valuation_metric",
+          "confidence": "high"
+        }
+      ],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    },
+    "matched_terms": [
+      {
+        "source": "內涵價值",
+        "target": "embedded value"
+      },
+      {
+        "source": "內涵價值",
+        "target": "Embedded Value"
+      }
+    ],
+    "initial_translation": "This was offset by Embedded Value operating profit of USD 7,243 million, which included positive operating variances of USD 549 million, reflecting the continued favorable experience relative to our Embedded Value assumptions.",
+    "compact_translation": null,
+    "final_translation": "This was offset by Embedded Value operating profit of USD 7,243 million, which included positive operating variances of USD 549 million, reflecting the continued favorable experience relative to our Embedded Value assumptions.",
+    "translation_source": "model_initial",
+    "compact_used": false,
+    "render_result": {
+      "layout_mode": "group_slots",
+      "fit_status": "ok",
+      "font_ratio": 1.0,
+      "rendered_lines": [
+        "This was offset by Embedded Value operating profit of USD 7,243 million, which included positive operating variances of USD 549",
+        "million, reflecting the continued favorable experience relative to our Embedded Value assumptions."
+      ],
+      "rendered_by_block": {
+        "p19_b10": "This was offset by Embedded Value operating profit of USD 7,243 million, which included positive operating variances of USD 549",
+        "p19_b11": "million, reflecting the continued favorable experience relative to our Embedded Value assumptions."
+      },
+      "slot_count": 2,
+      "selected_scale": 1.02
+    },
+    "block_outputs": {
+      "p19_b10": "This was offset by Embedded Value operating profit of USD 7,243 million, which included positive operating variances of USD 549",
+      "p19_b11": "million, reflecting the continued favorable experience relative to our Embedded Value assumptions."
+    }
+  },
+  {
+    "page_no": 19,
+    "unit_id": "p19_g04",
+    "mode": "semantic_group",
+    "block_ids": [
+      "p19_b12",
+      "p19_b13",
+      "p19_b14",
+      "p19_b15",
+      "p19_b16",
+      "p19_b17"
+    ],
+    "source_text": "我們的高質素、經常性盈利來源以及對有效保單組合的積極管理，帶動稅後營運溢利增長了5%至59.42億美元，\n並使營運溢利率穩定在16.9%。所收取的續保保費增加了10%，經常性保費總額佔2020年所收取保費的90%以\n上。稅後營運溢利增長受益於全年顯著正面理賠經驗，其抵銷了新固定收入投資的收益率下跌及假設長期股權投\n資回報減少的影響。一如預期，上半年所述的異常正面醫療理賠經驗並未在下半年再次發生，但我們繼續看到此\n來源對稅後營運溢利增長的正面貢獻。在友邦保險泰國業務的失效經驗恢復正常的情況下，下半年的續保率有所\n改善，而本集團的續保率為95%。",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [
+        {
+          "source": "稅後營運溢利",
+          "target": "Operating Profit After Tax",
+          "abbreviation": "OPAT",
+          "context": "financial_metric",
+          "confidence": "high"
+        },
+        {
+          "source": "有效保單",
+          "target": "In-Force Business",
+          "abbreviation": "",
+          "context": "business_metric",
+          "confidence": "high"
+        },
+        {
+          "source": "續保率",
+          "target": "Renewal Rate",
+          "abbreviation": "",
+          "context": "business_metric",
+          "confidence": "high"
+        }
+      ],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    },
+    "matched_terms": [
+      {
+        "source": "友邦保險",
+        "target": "AIA"
+      },
+      {
+        "source": "稅後營運溢利",
+        "target": "operating profit after tax"
+      },
+      {
+        "source": "有效保單組合",
+        "target": "in-force portfolio"
+      },
+      {
+        "source": "泰國",
+        "target": "Thailand"
+      },
+      {
+        "source": "稅後營運溢利",
+        "target": "Operating Profit After Tax"
+      },
+      {
+        "source": "有效保單",
+        "target": "In-Force Business"
+      },
+      {
+        "source": "續保率",
+        "target": "Renewal Rate"
+      }
+    ],
+    "initial_translation": "Our high-quality, recurring earnings sources and active management of our in-force portfolio drove Operating Profit After Tax growth of 5% to US$5.942 billion, while maintaining a stable operating profit margin of 16.9%. Renewal premiums collected increased by 10%, with recurring premiums representing 90% and above of total premiums collected in 2020. Operating Profit After Tax growth benefited from significantly favorable claims experience throughout the year, which offset the decline in yields on new fixed income investments and the impact of reduced assumed long-term equity investment returns. As expected, the exceptional favorable medical claims experience reported in the first half did not recur in the second half, but we continued to see positive contributions from this source to Operating Profit After Tax growth. With AIA's Thailand business lapse experience normalizing, the renewal rate improved in the second half, while the Group's renewal rate was 95%.",
+    "compact_translation": "Our high-quality, recurring earnings sources and active management of our in-force portfolio drove Operating Profit After Tax growth of 5% to US$5.942 billion, maintaining an operating profit margin of 16.9%. Renewal premiums collected increased by 10%, with recurring premiums representing over 90% of 2020 total premiums. Operating Profit After Tax growth benefited from significantly favorable claims experience throughout the year, offsetting declines in new fixed income investment yields and reduced assumed long-term equity investment returns. The exceptional favorable medical claims experience in the first half did not recur in the second half, though positive contributions from this source continued. With AIA's Thailand business lapse experience normalizing, the renewal rate improved in the second half, with the Group's renewal rate at 95%.",
+    "final_translation": "Our high-quality, recurring earnings sources and active management of our in-force portfolio drove Operating Profit After Tax growth of 5% to US$5.942 billion, while maintaining a stable operating profit margin of 16.9%. Renewal premiums collected increased by 10%, with recurring premiums representing 90% and above of total premiums collected in 2020. Operating Profit After Tax growth benefited from significantly favorable claims experience throughout the year, which offset the decline in yields on new fixed income investments and the impact of reduced assumed long-term equity investment returns. As expected, the exceptional favorable medical claims experience reported in the first half did not recur in the second half, but we continued to see positive contributions from this source to Operating Profit After Tax growth. With AIA's Thailand business lapse experience normalizing, the renewal rate improved in the second half, while the Group's renewal rate was 95%.",
+    "translation_source": "model_initial",
+    "compact_used": false,
+    "render_result": {
+      "layout_mode": "group_slots",
+      "fit_status": "font_shrink",
+      "font_ratio": 0.55,
+      "rendered_lines": [
+        "Our high-quality, recurring earnings sources and active management of our in-force portfolio drove Operating Profit After Tax growth of 5% to US$5.942 billion, while",
+        "maintaining a stable operating profit margin of 16.9%. Renewal premiums collected increased by 10%, with recurring premiums representing 90% and above of total",
+        "premiums collected in 2020. Operating Profit After Tax growth benefited from significantly favorable claims experience throughout the year, which offset the decline in",
+        "yields on new fixed income investments and the impact of reduced assumed long-term equity investment returns. As expected, the exceptional favorable medical claims",
+        "experience reported in the first half did not recur in the second half, but we continued to see positive contributions from this source to Operating Profit After Tax growth.",
+        "With AIA's Thailand business lapse experience normalizing, the renewal rate improved in the second half, while the Group's renewal rate was 95%."
+      ],
+      "rendered_by_block": {
+        "p19_b12": "Our high-quality, recurring earnings sources and active management of our in-force portfolio drove Operating Profit After Tax growth of 5% to US$5.942 billion, while",
+        "p19_b13": "maintaining a stable operating profit margin of 16.9%. Renewal premiums collected increased by 10%, with recurring premiums representing 90% and above of total",
+        "p19_b14": "premiums collected in 2020. Operating Profit After Tax growth benefited from significantly favorable claims experience throughout the year, which offset the decline in",
+        "p19_b15": "yields on new fixed income investments and the impact of reduced assumed long-term equity investment returns. As expected, the exceptional favorable medical claims",
+        "p19_b16": "experience reported in the first half did not recur in the second half, but we continued to see positive contributions from this source to Operating Profit After Tax growth.",
+        "p19_b17": "With AIA's Thailand business lapse experience normalizing, the renewal rate improved in the second half, while the Group's renewal rate was 95%."
+      },
+      "slot_count": 6,
+      "selected_scale": 0.82
+    },
+    "block_outputs": {
+      "p19_b12": "Our high-quality, recurring earnings sources and active management of our in-force portfolio drove Operating Profit After Tax growth of 5% to US$5.942 billion, while",
+      "p19_b13": "maintaining a stable operating profit margin of 16.9%. Renewal premiums collected increased by 10%, with recurring premiums representing 90% and above of total",
+      "p19_b14": "premiums collected in 2020. Operating Profit After Tax growth benefited from significantly favorable claims experience throughout the year, which offset the decline in",
+      "p19_b15": "yields on new fixed income investments and the impact of reduced assumed long-term equity investment returns. As expected, the exceptional favorable medical claims",
+      "p19_b16": "experience reported in the first half did not recur in the second half, but we continued to see positive contributions from this source to Operating Profit After Tax growth.",
+      "p19_b17": "With AIA's Thailand business lapse experience normalizing, the renewal rate improved in the second half, while the Group's renewal rate was 95%."
+    }
+  },
+  {
+    "page_no": 19,
+    "unit_id": "p19_g05",
+    "mode": "semantic_group",
+    "block_ids": [
+      "p19_b18",
+      "p19_b19"
+    ],
+    "source_text": "產生的基本自由盈餘為58.43億美元，增長了7%，是由我們有效保單組合的持續增長和我們對此積極管理所帶\n動，這足以抵銷預期投資回報降低的影響。於2020年12月31日，本集團的財務狀況仍然十分強勁，於派付股息",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [
+        {
+          "source": "自由盈餘",
+          "target": "Free Surplus",
+          "abbreviation": "",
+          "context": "capital_metric",
+          "confidence": "high"
+        },
+        {
+          "source": "有效保單",
+          "target": "In-Force Business",
+          "abbreviation": "",
+          "context": "business_metric",
+          "confidence": "high"
+        }
+      ],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    },
+    "matched_terms": [
+      {
+        "source": "有效保單組合",
+        "target": "in-force portfolio"
+      },
+      {
+        "source": "自由盈餘",
+        "target": "Free Surplus"
+      },
+      {
+        "source": "有效保單",
+        "target": "In-Force Business"
+      }
+    ],
+    "initial_translation": "The underlying Free Surplus generated was USD 5.843 billion, an increase of 7%, driven by the continued growth of our in-force portfolio and our active management thereof, which was sufficient to offset the impact of lower expected investment returns. As at 31 December 2020, the Group's financial position remained robust, with respect to dividend payments",
+    "compact_translation": "The underlying Free Surplus generated was USD 5.843 billion, up 7%, driven by continued growth in our in-force portfolio and active management thereof, offsetting lower expected investment returns. As at 31 December 2020, the Group's financial position remained robust regarding dividend payments",
+    "final_translation": "The underlying Free Surplus generated was USD 5.843 billion, up 7%, driven by continued growth in our in-force portfolio and active management thereof, offsetting lower expected investment returns. As at 31 December 2020, the Group's financial position remained robust regarding dividend payments",
+    "translation_source": "model_initial",
+    "compact_used": true,
+    "render_result": {
+      "layout_mode": "group_slots",
+      "fit_status": "font_shrink",
+      "font_ratio": 0.794,
+      "rendered_lines": [
+        "The underlying Free Surplus generated was USD 5.843 billion, up 7%, driven by continued growth in our in-force portfolio and active",
+        "management thereof, offsetting lower expected investment returns. As at 31 December 2020, the Group's financial position remained robust regarding dividend payments"
+      ],
+      "rendered_by_block": {
+        "p19_b18": "The underlying Free Surplus generated was USD 5.843 billion, up 7%, driven by continued growth in our in-force portfolio and active",
+        "p19_b19": "management thereof, offsetting lower expected investment returns. As at 31 December 2020, the Group's financial position remained robust regarding dividend payments"
+      },
+      "slot_count": 2,
+      "selected_scale": 1.02
+    },
+    "block_outputs": {
+      "p19_b18": "The underlying Free Surplus generated was USD 5.843 billion, up 7%, driven by continued growth in our in-force portfolio and active",
+      "p19_b19": "management thereof, offsetting lower expected investment returns. As at 31 December 2020, the Group's financial position remained robust regarding dividend payments"
+    }
+  },
+  {
+    "page_no": 19,
+    "unit_id": "p19_b20",
+    "mode": "single_block",
+    "block_ids": [
+      "p19_b20"
+    ],
+    "source_text": "19.97億美元後，自由盈餘為134.73億美元。",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [
+        {
+          "source": "自由盈餘",
+          "target": "Free Surplus",
+          "abbreviation": "",
+          "context": "capital_metric",
+          "confidence": "high"
+        }
+      ],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Section headings use Title Case",
+        "Preserve hierarchical structure of headings",
+        "Translate milestone dates literally"
+      ]
+    },
+    "matched_terms": [
+      {
+        "source": "自由盈餘",
+        "target": "Free Surplus"
+      }
+    ],
+    "initial_translation": "USD 19.97 billion, Free Surplus amounted to USD 13.473 billion.",
+    "compact_translation": null,
+    "final_translation": "USD 19.97 billion, Free Surplus amounted to USD 13.473 billion.",
+    "translation_source": "model_initial",
+    "compact_used": false,
+    "render_result": {
+      "layout_mode": "single_line",
+      "fit_status": "font_shrink",
+      "font_ratio": 0.84,
+      "rendered_lines": [
+        "USD 19.97 billion, Free Surplus amounted to USD 13.473 billion."
+      ],
+      "rendered_by_block": {
+        "p19_b20": "USD 19.97 billion, Free Surplus amounted to USD 13.473 billion."
+      },
+      "slot_count": 1,
+      "selected_scale": 0.84
+    },
+    "block_outputs": {
+      "p19_b20": "USD 19.97 billion, Free Surplus amounted to USD 13.473 billion."
+    }
+  },
+  {
+    "page_no": 19,
+    "unit_id": "p19_g06",
+    "mode": "semantic_group",
+    "block_ids": [
+      "p19_b21",
+      "p19_b22",
+      "p19_b23"
+    ],
+    "source_text": "於2020年12月31日，我們的主要營運公司友邦保險有限公司（AIA Co.）的償付能力充足率仍然非常強勁，為\n489%。於2020年12月31日，在新的集團監管框架下，集團當地資本總和法覆蓋率為374%。日後，我們將披露集\n團當地資本總和法覆蓋率，作為衡量本集團監管償付能力的主要指標。",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    },
+    "matched_terms": [
+      {
+        "source": "友邦保險",
+        "target": "AIA"
+      }
+    ],
+    "initial_translation": "As at 31 December 2020, our principal operating company AIA Co. maintained a very strong solvency ratio of 489%. As at 31 December 2020, under the new group regulatory framework, the Group's local capital aggregation method coverage ratio was 374%. Going forward, we will disclose the Group's local capital aggregation method coverage ratio as the primary measure of the Group's regulatory solvency position.",
+    "compact_translation": "As at 31 December 2020, our principal operating company AIA Co. maintained a very strong solvency ratio of 489%. Under the new group regulatory framework, the Group's local capital aggregation method coverage ratio was 374%. Going forward, we will disclose this ratio as the primary measure of the Group's regulatory solvency position.",
+    "final_translation": "As at 31 December 2020, our principal operating company AIA Co. maintained a very strong solvency ratio of 489%. Under the new group regulatory framework, the Group's local capital aggregation method coverage ratio was 374%. Going forward, we will disclose this ratio as the primary measure of the Group's regulatory solvency position.",
+    "translation_source": "model_initial",
+    "compact_used": true,
+    "render_result": {
+      "layout_mode": "group_slots",
+      "fit_status": "ok",
+      "font_ratio": 1.0,
+      "rendered_lines": [
+        "As at 31 December 2020, our principal operating company AIA Co. maintained a very strong solvency ratio of 489%. Under the new",
+        "group regulatory framework, the Group's local capital aggregation method coverage ratio was 374%. Going forward, we will disclose",
+        "this ratio as the primary measure of the Group's regulatory solvency position."
+      ],
+      "rendered_by_block": {
+        "p19_b21": "As at 31 December 2020, our principal operating company AIA Co. maintained a very strong solvency ratio of 489%. Under the new",
+        "p19_b22": "group regulatory framework, the Group's local capital aggregation method coverage ratio was 374%. Going forward, we will disclose",
+        "p19_b23": "this ratio as the primary measure of the Group's regulatory solvency position."
+      },
+      "slot_count": 3,
+      "selected_scale": 1.02
+    },
+    "block_outputs": {
+      "p19_b21": "As at 31 December 2020, our principal operating company AIA Co. maintained a very strong solvency ratio of 489%. Under the new",
+      "p19_b22": "group regulatory framework, the Group's local capital aggregation method coverage ratio was 374%. Going forward, we will disclose",
+      "p19_b23": "this ratio as the primary measure of the Group's regulatory solvency position."
+    }
+  },
+  {
+    "page_no": 19,
+    "unit_id": "p19_g07",
+    "mode": "semantic_group",
+    "block_ids": [
+      "p19_b24",
+      "p19_b25",
+      "p19_b26"
+    ],
+    "source_text": "董事會建議末期股息增加7.5%至每股100.30港仙，並須於本公司應屆股東週年大會上獲股東批准。這使2020年的\n全年股息總額為每股135.30港仙，較2019年的全年股息總額上升6.9%。這是秉承友邦保險行之已久的審慎、可持\n續及漸進的派息政策，讓集團可把握未來的增長機遇，並且保持財務靈活性。",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    },
+    "matched_terms": [
+      {
+        "source": "友邦保險",
+        "target": "AIA"
+      }
+    ],
+    "initial_translation": "The Board recommends an increase in the final dividend of 7.5% to HK$1.0030 per share, subject to approval by shareholders at the forthcoming Annual General Meeting of the Company. This brings the total dividend for 2020 to HK$1.3530 per share, representing an increase of 6.9% compared to the total dividend for 2019. This reflects AIA's long-established prudent, sustainable and progressive dividend policy, which enables the Group to capitalize on future growth opportunities while maintaining financial flexibility.",
+    "compact_translation": "The Board recommends a 7.5% increase in final dividend to HK$1.0030 per share, subject to shareholder approval at the forthcoming Annual General Meeting. Total 2020 dividend reaches HK$1.3530 per share, up 6.9% from 2019. This reflects AIA's long-established prudent, sustainable and progressive dividend policy, enabling the Group to capitalize on future growth opportunities while maintaining financial flexibility.",
+    "final_translation": "The Board recommends a 7.5% increase in final dividend to HK$1.0030 per share, subject to shareholder approval at the forthcoming Annual General Meeting. Total 2020 dividend reaches HK$1.3530 per share, up 6.9% from 2019. This reflects AIA's long-established prudent, sustainable and progressive dividend policy, enabling the Group to capitalize on future growth opportunities while maintaining financial flexibility.",
+    "translation_source": "model_initial",
+    "compact_used": true,
+    "render_result": {
+      "layout_mode": "group_slots",
+      "fit_status": "font_shrink",
+      "font_ratio": 0.602,
+      "rendered_lines": [
+        "The Board recommends a 7.5% increase in final dividend to HK$1.0030 per share, subject to shareholder approval at the forthcoming",
+        "Annual General Meeting. Total 2020 dividend reaches HK$1.3530 per share, up 6.9% from 2019. This reflects AIA's long-established",
+        "prudent, sustainable and progressive dividend policy, enabling the Group to capitalize on future growth opportunities while maintaining financial flexibility."
+      ],
+      "rendered_by_block": {
+        "p19_b24": "The Board recommends a 7.5% increase in final dividend to HK$1.0030 per share, subject to shareholder approval at the forthcoming",
+        "p19_b25": "Annual General Meeting. Total 2020 dividend reaches HK$1.3530 per share, up 6.9% from 2019. This reflects AIA's long-established",
+        "p19_b26": "prudent, sustainable and progressive dividend policy, enabling the Group to capitalize on future growth opportunities while maintaining financial flexibility."
+      },
+      "slot_count": 3,
+      "selected_scale": 1.02
+    },
+    "block_outputs": {
+      "p19_b24": "The Board recommends a 7.5% increase in final dividend to HK$1.0030 per share, subject to shareholder approval at the forthcoming",
+      "p19_b25": "Annual General Meeting. Total 2020 dividend reaches HK$1.3530 per share, up 6.9% from 2019. This reflects AIA's long-established",
+      "p19_b26": "prudent, sustainable and progressive dividend policy, enabling the Group to capitalize on future growth opportunities while maintaining financial flexibility."
+    }
+  },
+  {
+    "page_no": 19,
+    "unit_id": "p19_g08",
+    "mode": "semantic_group",
+    "block_ids": [
+      "p19_b27",
+      "p19_b28"
+    ],
+    "source_text": "我們仍然對友邦保險在整個亞洲地區的業務機會充滿信心。我們將繼續專注於投資資本，以實現具盈利的新業務\n增長，並運用我們的競爭優勢，同時維持審慎的財務管理和實現長期股東價值。",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Use active voice where source permits",
+        "Translate corporate mission statements with care",
+        "Preserve temporal references and context",
+        "Translate market/geographic references consistently"
+      ]
+    },
+    "matched_terms": [
+      {
+        "source": "友邦保險",
+        "target": "AIA"
+      }
+    ],
+    "initial_translation": "We remain confident in the business opportunities for AIA across the Asia-Pacific region. We will continue to focus on deploying capital to achieve profitable new business growth, while leveraging our competitive advantages and maintaining prudent financial management to deliver long-term shareholder value.",
+    "compact_translation": "We remain confident in AIA's business opportunities across Asia-Pacific. We will continue deploying capital for profitable new business growth, leveraging competitive advantages while maintaining prudent financial management to deliver long-term shareholder value.",
+    "final_translation": "We remain confident in AIA's business opportunities across Asia-Pacific. We will continue deploying capital for profitable new business growth, leveraging competitive advantages while maintaining prudent financial management to deliver long-term shareholder value.",
+    "translation_source": "model_initial",
+    "compact_used": true,
+    "render_result": {
+      "layout_mode": "group_slots",
+      "fit_status": "font_shrink",
+      "font_ratio": 0.756,
+      "rendered_lines": [
+        "We remain confident in AIA's business opportunities across Asia-Pacific. We will continue deploying capital for profitable new business",
+        "growth, leveraging competitive advantages while maintaining prudent financial management to deliver long-term shareholder value."
+      ],
+      "rendered_by_block": {
+        "p19_b27": "We remain confident in AIA's business opportunities across Asia-Pacific. We will continue deploying capital for profitable new business",
+        "p19_b28": "growth, leveraging competitive advantages while maintaining prudent financial management to deliver long-term shareholder value."
+      },
+      "slot_count": 2,
+      "selected_scale": 1.02
+    },
+    "block_outputs": {
+      "p19_b27": "We remain confident in AIA's business opportunities across Asia-Pacific. We will continue deploying capital for profitable new business",
+      "p19_b28": "growth, leveraging competitive advantages while maintaining prudent financial management to deliver long-term shareholder value."
+    }
+  },
+  {
+    "page_no": 19,
+    "unit_id": "p19_b29",
+    "mode": "single_block",
+    "block_ids": [
+      "p19_b29"
+    ],
+    "source_text": "2020年報\n017",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    },
+    "matched_terms": [],
+    "initial_translation": "2020 Annual Report 017",
+    "compact_translation": null,
+    "final_translation": "2020 Annual Report 017",
+    "translation_source": "glossary_linewise",
+    "compact_used": false,
+    "render_result": {
+      "layout_mode": "textbox",
+      "fit_status": "font_shrink",
+      "font_ratio": 0.833,
+      "rendered_lines": [
+        "2020 Annual Report 017"
+      ],
+      "rendered_by_block": {
+        "p19_b29": "2020 Annual Report 017"
+      },
+      "slot_count": 2,
+      "selected_scale": 0.833
+    },
+    "block_outputs": {
+      "p19_b29": "2020 Annual Report 017"
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_b1",
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b1"
+    ],
+    "source_text": "財務及營運回顧",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Section headings use Title Case",
+        "Preserve hierarchical structure of headings",
+        "Translate milestone dates literally"
+      ]
+    },
+    "matched_terms": [],
+    "initial_translation": "Financial and Operational Review",
+    "compact_translation": null,
+    "final_translation": "Financial and Operational Review",
+    "translation_source": "glossary_exact",
+    "compact_used": false,
+    "render_result": {
+      "layout_mode": "single_line",
+      "fit_status": "font_shrink",
+      "font_ratio": 0.595,
+      "rendered_lines": [
+        "Financial and Operational Review"
+      ],
+      "rendered_by_block": {
+        "p20_b1": "Financial and Operational Review"
+      },
+      "slot_count": 1,
+      "selected_scale": 0.595
+    },
+    "block_outputs": {
+      "p20_b1": "Financial and Operational Review"
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_b2",
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b2"
+    ],
+    "source_text": "集團首席財務總監回顧",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Section headings use Title Case",
+        "Preserve hierarchical structure of headings",
+        "Translate milestone dates literally"
+      ]
+    },
+    "matched_terms": [],
+    "initial_translation": "Group Chief Financial Officer's Review",
+    "compact_translation": null,
+    "final_translation": "Group Chief Financial Officer's Review",
+    "translation_source": "glossary_exact",
+    "compact_used": false,
+    "render_result": {
+      "layout_mode": "single_line",
+      "fit_status": "font_shrink",
+      "font_ratio": 0.725,
+      "rendered_lines": [
+        "Group Chief Financial Officer's Review"
+      ],
+      "rendered_by_block": {
+        "p20_b2": "Group Chief Financial Officer's Review"
+      },
+      "slot_count": 1,
+      "selected_scale": 0.725
+    },
+    "block_outputs": {
+      "p20_b2": "Group Chief Financial Officer's Review"
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_b3",
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b3"
+    ],
+    "source_text": "新業務表現",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Section headings use Title Case",
+        "Preserve hierarchical structure of headings",
+        "Translate milestone dates literally"
+      ]
+    },
+    "matched_terms": [],
+    "initial_translation": "New Business Performance",
+    "compact_translation": "New Business Performance",
+    "final_translation": "New Business Performance",
+    "translation_source": "model_initial",
+    "compact_used": false,
+    "render_result": {
+      "layout_mode": "single_line",
+      "fit_status": "font_shrink",
+      "font_ratio": 0.514,
+      "rendered_lines": [
+        "New Business Performance"
+      ],
+      "rendered_by_block": {
+        "p20_b3": "New Business Performance"
+      },
+      "slot_count": 1,
+      "selected_scale": 0.514
+    },
+    "block_outputs": {
+      "p20_b3": "New Business Performance"
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_b4",
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b4"
+    ],
+    "source_text": "按分部劃分的新業務價值、年化新保費及利潤率",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [
+        {
+          "source": "新業務價值",
+          "target": "New Business Value",
+          "abbreviation": "NBV",
+          "context": "financial_metric",
+          "confidence": "high"
+        },
+        {
+          "source": "年化新保費",
+          "target": "Annualized New Premium",
+          "abbreviation": "ANP",
+          "context": "financial_metric",
+          "confidence": "high"
+        },
+        {
+          "source": "利潤率",
+          "target": "Profit Margin",
+          "abbreviation": "",
+          "context": "financial_ratio",
+          "confidence": "high"
+        }
+      ],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Section headings use Title Case",
+        "Preserve hierarchical structure of headings",
+        "Translate milestone dates literally"
+      ]
+    },
+    "matched_terms": [
+      {
+        "source": "新業務價值",
+        "target": "new business value"
+      },
+      {
+        "source": "新業務價值",
+        "target": "New Business Value"
+      },
+      {
+        "source": "年化新保費",
+        "target": "Annualized New Premium"
+      },
+      {
+        "source": "利潤率",
+        "target": "Profit Margin"
+      }
+    ],
+    "initial_translation": "New Business Value, Annualized New Premium and Profit Margin by Segment",
+    "compact_translation": "New Business Value, Annualized New Premium and Profit Margin by Segment",
+    "final_translation": "New Business Value, Annualized New Premium and Profit Margin by Segment",
+    "translation_source": "model_initial",
+    "compact_used": false,
+    "render_result": {
+      "layout_mode": "single_line",
+      "fit_status": "font_shrink",
+      "font_ratio": 0.769,
+      "rendered_lines": [
+        "New Business Value, Annualized New Premium and Profit Margin by Segment"
+      ],
+      "rendered_by_block": {
+        "p20_b4": "New Business Value, Annualized New Premium and Profit Margin by Segment"
+      },
+      "slot_count": 1,
+      "selected_scale": 0.769
+    },
+    "block_outputs": {
+      "p20_b4": "New Business Value, Annualized New Premium and Profit Margin by Segment"
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_b5",
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b5"
+    ],
+    "source_text": "2020年\n2019年\n新業務價值變動",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [
+        {
+          "source": "新業務價值",
+          "target": "New Business Value",
+          "abbreviation": "NBV",
+          "context": "financial_metric",
+          "confidence": "high"
+        }
+      ],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    },
+    "matched_terms": [
+      {
+        "source": "新業務價值",
+        "target": "new business value"
+      },
+      {
+        "source": "新業務價值",
+        "target": "New Business Value"
+      }
+    ],
+    "initial_translation": "2020 2019 New Business Value Change",
+    "compact_translation": null,
+    "final_translation": "2020 2019 New Business Value Change",
+    "translation_source": "model_initial",
+    "compact_used": false,
+    "render_result": {
+      "layout_mode": "textbox",
+      "fit_status": "ok",
+      "font_ratio": 1.0,
+      "rendered_lines": [
+        "2020 2019 New Business Value Change"
+      ],
+      "rendered_by_block": {
+        "p20_b5": "2020 2019 New Business Value Change"
+      },
+      "slot_count": 3,
+      "selected_scale": 1.0
+    },
+    "block_outputs": {
+      "p20_b5": "2020 2019 New Business Value Change"
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_b6",
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b6"
+    ],
+    "source_text": "新業務\n價值\n利潤率\n年化\n新保費\n新業務\n價值",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [
+        {
+          "source": "利潤率",
+          "target": "Profit Margin",
+          "abbreviation": "",
+          "context": "financial_ratio",
+          "confidence": "high"
+        }
+      ],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Use active voice where source permits",
+        "Translate corporate mission statements with care",
+        "Preserve temporal references and context",
+        "Translate market/geographic references consistently"
+      ]
+    },
+    "matched_terms": [
+      {
+        "source": "利潤率",
+        "target": "Profit Margin"
+      }
+    ],
+    "initial_translation": "New Business Value Profit Margin Annualized New Premium New Business Value",
+    "compact_translation": null,
+    "final_translation": "New Business Value Profit Margin Annualized New Premium New Business Value",
+    "translation_source": "model_initial",
+    "compact_used": false,
+    "render_result": {
+      "layout_mode": "textbox",
+      "fit_status": "ok",
+      "font_ratio": 1.0,
+      "rendered_lines": [
+        "New Business Value Profit Margin Annualized New Premium New Business Value"
+      ],
+      "rendered_by_block": {
+        "p20_b6": "New Business Value Profit Margin Annualized New Premium New Business Value"
+      },
+      "slot_count": 7,
+      "selected_scale": 1.0
+    },
+    "block_outputs": {
+      "p20_b6": "New Business Value Profit Margin Annualized New Premium New Business Value"
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_b7",
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b7"
+    ],
+    "source_text": "新業務\n價值\n利潤率\n年化\n新保費\n按年變動\n（固定匯率）\n按年變動\n（實質匯率）",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [
+        {
+          "source": "利潤率",
+          "target": "Profit Margin",
+          "abbreviation": "",
+          "context": "financial_ratio",
+          "confidence": "high"
+        }
+      ],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Use active voice where source permits",
+        "Translate corporate mission statements with care",
+        "Preserve temporal references and context",
+        "Translate market/geographic references consistently"
+      ]
+    },
+    "matched_terms": [
+      {
+        "source": "利潤率",
+        "target": "Profit Margin"
+      }
+    ],
+    "initial_translation": "New Business Value Profit Margin Annualized New Premium Year-on-Year Change (Constant Exchange Rate) Year-on-Year Change (Actual Exchange Rate)",
+    "compact_translation": null,
+    "final_translation": "New Business Value Profit Margin Annualized New Premium Year-on-Year Change (Constant Exchange Rate) Year-on-Year Change (Actual Exchange Rate)",
+    "translation_source": "model_initial",
+    "compact_used": false,
+    "render_result": {
+      "layout_mode": "textbox",
+      "fit_status": "ok",
+      "font_ratio": 1.0,
+      "rendered_lines": [
+        "New Business Value Profit Margin Annualized New Premium Year-on-Year Change (Constant Exchange Rate) Year-on-Year Change (Actual Exchange Rate)"
+      ],
+      "rendered_by_block": {
+        "p20_b7": "New Business Value Profit Margin Annualized New Premium Year-on-Year Change (Constant Exchange Rate) Year-on-Year Change (Actual Exchange Rate)"
+      },
+      "slot_count": 9,
+      "selected_scale": 1.0
+    },
+    "block_outputs": {
+      "p20_b7": "New Business Value Profit Margin Annualized New Premium Year-on-Year Change (Constant Exchange Rate) Year-on-Year Change (Actual Exchange Rate)"
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_b8",
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b8"
+    ],
+    "source_text": "百萬美元，除另有說明外\n新業務\n價值",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Use active voice where source permits",
+        "Translate corporate mission statements with care",
+        "Preserve temporal references and context",
+        "Translate market/geographic references consistently"
+      ]
+    },
+    "matched_terms": [],
+    "initial_translation": "In millions of US dollars, unless otherwise stated New Business Value",
+    "compact_translation": null,
+    "final_translation": "In millions of US dollars, unless otherwise stated New Business Value",
+    "translation_source": "model_initial",
+    "compact_used": false,
+    "render_result": {
+      "layout_mode": "textbox",
+      "fit_status": "ok",
+      "font_ratio": 1.0,
+      "rendered_lines": [
+        "In millions of US dollars, unless otherwise stated New Business Value"
+      ],
+      "rendered_by_block": {
+        "p20_b8": "In millions of US dollars, unless otherwise stated New Business Value"
+      },
+      "slot_count": 3,
+      "selected_scale": 1.0
+    },
+    "block_outputs": {
+      "p20_b8": "In millions of US dollars, unless otherwise stated New Business Value"
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_b9",
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b9"
+    ],
+    "source_text": "香港\n550\n44.7%\n1,138\n1,621\n66.1%\n2,393\n(66)%\n(66)%",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    },
+    "matched_terms": [],
+    "initial_translation": "Hong Kong 550 44.7% 1,138 1,621 66.1% 2,393 (66)% (66)%",
+    "compact_translation": null,
+    "final_translation": "Hong Kong 550 44.7% 1,138 1,621 66.1% 2,393 (66)% (66)%",
+    "translation_source": "model_initial",
+    "compact_used": false,
+    "render_result": {
+      "layout_mode": "textbox",
+      "fit_status": "ok",
+      "font_ratio": 1.0,
+      "rendered_lines": [
+        "Hong Kong 550 44.7% 1,138 1,621 66.1% 2,393 (66)% (66)%"
+      ],
+      "rendered_by_block": {
+        "p20_b9": "Hong Kong 550 44.7% 1,138 1,621 66.1% 2,393 (66)% (66)%"
+      },
+      "slot_count": 9,
+      "selected_scale": 1.0
+    },
+    "block_outputs": {
+      "p20_b9": "Hong Kong 550 44.7% 1,138 1,621 66.1% 2,393 (66)% (66)%"
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_b10",
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b10"
+    ],
+    "source_text": "泰國\n469\n71.0%\n661\n494\n67.7%\n729\n(4)%\n(5)%",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    },
+    "matched_terms": [
+      {
+        "source": "泰國",
+        "target": "Thailand"
+      }
+    ],
+    "initial_translation": "Thailand 469 71.0% 661 494 67.7% 729 (4)% (5)%",
+    "compact_translation": null,
+    "final_translation": "Thailand 469 71.0% 661 494 67.7% 729 (4)% (5)%",
+    "translation_source": "model_initial",
+    "compact_used": false,
+    "render_result": {
+      "layout_mode": "textbox",
+      "fit_status": "ok",
+      "font_ratio": 1.0,
+      "rendered_lines": [
+        "Thailand 469 71.0% 661 494 67.7% 729 (4)% (5)%"
+      ],
+      "rendered_by_block": {
+        "p20_b10": "Thailand 469 71.0% 661 494 67.7% 729 (4)% (5)%"
+      },
+      "slot_count": 9,
+      "selected_scale": 1.0
+    },
+    "block_outputs": {
+      "p20_b10": "Thailand 469 71.0% 661 494 67.7% 729 (4)% (5)%"
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_b11",
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b11"
+    ],
+    "source_text": "新加坡\n330\n63.4%\n520\n352\n65.5%\n538\n(5)%\n(6)%",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    },
+    "matched_terms": [
+      {
+        "source": "新加坡",
+        "target": "Singapore"
+      }
+    ],
+    "initial_translation": "Singapore 330 63.4% 520 352 65.5% 538 (5)% (6)%",
+    "compact_translation": null,
+    "final_translation": "Singapore 330 63.4% 520 352 65.5% 538 (5)% (6)%",
+    "translation_source": "model_initial",
+    "compact_used": false,
+    "render_result": {
+      "layout_mode": "textbox",
+      "fit_status": "ok",
+      "font_ratio": 1.0,
+      "rendered_lines": [
+        "Singapore 330 63.4% 520 352 65.5% 538 (5)% (6)%"
+      ],
+      "rendered_by_block": {
+        "p20_b11": "Singapore 330 63.4% 520 352 65.5% 538 (5)% (6)%"
+      },
+      "slot_count": 9,
+      "selected_scale": 1.0
+    },
+    "block_outputs": {
+      "p20_b11": "Singapore 330 63.4% 520 352 65.5% 538 (5)% (6)%"
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_b12",
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b12"
+    ],
+    "source_text": "馬來西亞\n222\n59.9%\n369\n258\n63.1%\n406\n(13)%\n(14)%",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    },
+    "matched_terms": [
+      {
+        "source": "馬來西亞",
+        "target": "Malaysia"
+      }
+    ],
+    "initial_translation": "Malaysia 222 59.9% 369 258 63.1% 406 (13)% (14)%",
+    "compact_translation": null,
+    "final_translation": "Malaysia 222 59.9% 369 258 63.1% 406 (13)% (14)%",
+    "translation_source": "model_initial",
+    "compact_used": false,
+    "render_result": {
+      "layout_mode": "textbox",
+      "fit_status": "ok",
+      "font_ratio": 1.0,
+      "rendered_lines": [
+        "Malaysia 222 59.9% 369 258 63.1% 406 (13)% (14)%"
+      ],
+      "rendered_by_block": {
+        "p20_b12": "Malaysia 222 59.9% 369 258 63.1% 406 (13)% (14)%"
+      },
+      "slot_count": 9,
+      "selected_scale": 1.0
+    },
+    "block_outputs": {
+      "p20_b12": "Malaysia 222 59.9% 369 258 63.1% 406 (13)% (14)%"
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_b13",
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b13"
+    ],
+    "source_text": "中國內地\n968\n80.9%\n1,197\n1,167\n93.5%\n1,248\n(17)%\n(17)%",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    },
+    "matched_terms": [
+      {
+        "source": "中國內地",
+        "target": "Mainland China"
+      }
+    ],
+    "initial_translation": "Mainland China 968 80.9% 1,197 1,167 93.5% 1,248 (17)% (17)%",
+    "compact_translation": null,
+    "final_translation": "Mainland China 968 80.9% 1,197 1,167 93.5% 1,248 (17)% (17)%",
+    "translation_source": "model_initial",
+    "compact_used": false,
+    "render_result": {
+      "layout_mode": "textbox",
+      "fit_status": "ok",
+      "font_ratio": 1.0,
+      "rendered_lines": [
+        "Mainland China 968 80.9% 1,197 1,167 93.5% 1,248 (17)% (17)%"
+      ],
+      "rendered_by_block": {
+        "p20_b13": "Mainland China 968 80.9% 1,197 1,167 93.5% 1,248 (17)% (17)%"
+      },
+      "slot_count": 9,
+      "selected_scale": 1.0
+    },
+    "block_outputs": {
+      "p20_b13": "Mainland China 968 80.9% 1,197 1,167 93.5% 1,248 (17)% (17)%"
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_b14",
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b14"
+    ],
+    "source_text": "其他市場\n514\n38.4%\n1,334\n535\n41.9%\n1,271\n(4)%\n(4)%",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    },
+    "matched_terms": [],
+    "initial_translation": "Other Markets 514 38.4% 1,334 535 41.9% 1,271 (4)% (4)%",
+    "compact_translation": null,
+    "final_translation": "Other Markets 514 38.4% 1,334 535 41.9% 1,271 (4)% (4)%",
+    "translation_source": "model_initial",
+    "compact_used": false,
+    "render_result": {
+      "layout_mode": "textbox",
+      "fit_status": "ok",
+      "font_ratio": 1.0,
+      "rendered_lines": [
+        "Other Markets 514 38.4% 1,334 535 41.9% 1,271 (4)% (4)%"
+      ],
+      "rendered_by_block": {
+        "p20_b14": "Other Markets 514 38.4% 1,334 535 41.9% 1,271 (4)% (4)%"
+      },
+      "slot_count": 9,
+      "selected_scale": 1.0
+    },
+    "block_outputs": {
+      "p20_b14": "Other Markets 514 38.4% 1,334 535 41.9% 1,271 (4)% (4)%"
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_b15",
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b15"
+    ],
+    "source_text": "小計\n3,053\n57.7%\n5,219\n4,427\n66.6%\n6,585\n(31)%\n(31)%",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    },
+    "matched_terms": [],
+    "initial_translation": "Subtotal 3,053 57.7% 5,219 4,427 66.6% 6,585 (31)% (31)%",
+    "compact_translation": null,
+    "final_translation": "Subtotal 3,053 57.7% 5,219 4,427 66.6% 6,585 (31)% (31)%",
+    "translation_source": "model_initial",
+    "compact_used": false,
+    "render_result": {
+      "layout_mode": "textbox",
+      "fit_status": "ok",
+      "font_ratio": 1.0,
+      "rendered_lines": [
+        "Subtotal 3,053 57.7% 5,219 4,427 66.6% 6,585 (31)% (31)%"
+      ],
+      "rendered_by_block": {
+        "p20_b15": "Subtotal 3,053 57.7% 5,219 4,427 66.6% 6,585 (31)% (31)%"
+      },
+      "slot_count": 9,
+      "selected_scale": 1.0
+    },
+    "block_outputs": {
+      "p20_b15": "Subtotal 3,053 57.7% 5,219 4,427 66.6% 6,585 (31)% (31)%"
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_g01",
+    "mode": "semantic_group",
+    "block_ids": [
+      "p20_b16",
+      "p20_b17"
+    ],
+    "source_text": "為符合合併準備金及\n資本要求所作調整\n(103)\n無意義\n無意義\n(87)\n無意義\n無意義\n無意義\n無意義\n未分配集團總部開支的\n稅後價值\n(161)\n無意義\n無意義\n(154)\n無意義\n無意義\n無意義\n無意義",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    },
+    "matched_terms": [],
+    "initial_translation": "Adjustments for consolidation reserves and capital requirements (103) Not meaningful Not meaningful (87) Not meaningful Not meaningful Not meaningful Not meaningful After-tax value of unallocated Group head office expenses (161) Not meaningful Not meaningful (154) Not meaningful Not meaningful Not meaningful Not meaningful",
+    "compact_translation": "Adjustments for consolidation reserves and capital requirements (103) — (87) — After-tax value of unallocated Group head office expenses (161) — (154) —",
+    "final_translation": "Adjustments for consolidation reserves and capital requirements (103) — (87) — After-tax value of unallocated Group head office expenses (161) — (154) —",
+    "translation_source": "model_initial",
+    "compact_used": true,
+    "render_result": {
+      "layout_mode": "group_slots",
+      "fit_status": "ok",
+      "font_ratio": 0.991,
+      "rendered_lines": [
+        "Adjustments for consolidation",
+        "reserves",
+        "and capital",
+        "requirements",
+        "(103)",
+        "—",
+        "(87)",
+        "—",
+        "After-tax",
+        "value",
+        "of",
+        "unallocated",
+        "Group",
+        "head",
+        "office",
+        "expenses",
+        "(161)",
+        "—",
+        "(154)",
+        "—"
+      ],
+      "rendered_by_block": {
+        "p20_b16": "Adjustments for consolidation\nreserves\nand capital\nrequirements\n(103)\n—\n(87)\n—\nAfter-tax\nvalue",
+        "p20_b17": "of\nunallocated\nGroup\nhead\noffice\nexpenses\n(161)\n—\n(154)\n—"
+      },
+      "slot_count": 20,
+      "selected_scale": 1.02
+    },
+    "block_outputs": {
+      "p20_b16": "Adjustments for consolidation\nreserves\nand capital\nrequirements\n(103)\n—\n(87)\n—\nAfter-tax\nvalue",
+      "p20_b17": "of\nunallocated\nGroup\nhead\noffice\nexpenses\n(161)\n—\n(154)\n—"
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_b18",
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b18"
+    ],
+    "source_text": "扣除非控股權益前的總計\n2,789\n52.6%\n5,219\n4,186\n62.9%\n6,585\n(33)%\n(33)%",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    },
+    "matched_terms": [],
+    "initial_translation": "Total before non-controlling interests 2,789 52.6% 5,219 4,186 62.9% 6,585 (33)% (33)%",
+    "compact_translation": null,
+    "final_translation": "Total before non-controlling interests 2,789 52.6% 5,219 4,186 62.9% 6,585 (33)% (33)%",
+    "translation_source": "model_initial",
+    "compact_used": false,
+    "render_result": {
+      "layout_mode": "textbox",
+      "fit_status": "ok",
+      "font_ratio": 1.0,
+      "rendered_lines": [
+        "Total before non-controlling interests 2,789 52.6% 5,219 4,186 62.9% 6,585 (33)% (33)%"
+      ],
+      "rendered_by_block": {
+        "p20_b18": "Total before non-controlling interests 2,789 52.6% 5,219 4,186 62.9% 6,585 (33)% (33)%"
+      },
+      "slot_count": 9,
+      "selected_scale": 1.0
+    },
+    "block_outputs": {
+      "p20_b18": "Total before non-controlling interests 2,789 52.6% 5,219 4,186 62.9% 6,585 (33)% (33)%"
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_b19",
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b19"
+    ],
+    "source_text": "非控股權益\n(24)\n無意義\n無意義\n(32)\n無意義\n無意義\n無意義\n無意義",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    },
+    "matched_terms": [],
+    "initial_translation": "Non-controlling interests (24) Not meaningful Not meaningful (32) Not meaningful Not meaningful Not meaningful Not meaningful",
+    "compact_translation": null,
+    "final_translation": "Non-controlling interests (24) Not meaningful Not meaningful (32) Not meaningful Not meaningful Not meaningful Not meaningful",
+    "translation_source": "model_initial",
+    "compact_used": false,
+    "render_result": {
+      "layout_mode": "textbox",
+      "fit_status": "ok",
+      "font_ratio": 1.0,
+      "rendered_lines": [
+        "Non-controlling interests (24) Not meaningful Not meaningful (32) Not meaningful Not meaningful Not meaningful Not meaningful"
+      ],
+      "rendered_by_block": {
+        "p20_b19": "Non-controlling interests (24) Not meaningful Not meaningful (32) Not meaningful Not meaningful Not meaningful Not meaningful"
+      },
+      "slot_count": 9,
+      "selected_scale": 1.0
+    },
+    "block_outputs": {
+      "p20_b19": "Non-controlling interests (24) Not meaningful Not meaningful (32) Not meaningful Not meaningful Not meaningful Not meaningful"
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_b20",
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b20"
+    ],
+    "source_text": "總計\n2,765\n52.6%\n5,219\n4,154\n62.9%\n6,585\n(33)%\n(33)%",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    },
+    "matched_terms": [],
+    "initial_translation": "Total 2,765 52.6% 5,219 4,154 62.9% 6,585 (33)% (33)%",
+    "compact_translation": null,
+    "final_translation": "Total 2,765 52.6% 5,219 4,154 62.9% 6,585 (33)% (33)%",
+    "translation_source": "model_initial",
+    "compact_used": false,
+    "render_result": {
+      "layout_mode": "textbox",
+      "fit_status": "ok",
+      "font_ratio": 1.0,
+      "rendered_lines": [
+        "Total 2,765 52.6% 5,219 4,154 62.9% 6,585 (33)% (33)%"
+      ],
+      "rendered_by_block": {
+        "p20_b20": "Total 2,765 52.6% 5,219 4,154 62.9% 6,585 (33)% (33)%"
+      },
+      "slot_count": 9,
+      "selected_scale": 1.0
+    },
+    "block_outputs": {
+      "p20_b20": "Total 2,765 52.6% 5,219 4,154 62.9% 6,585 (33)% (33)%"
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_g02",
+    "mode": "semantic_group",
+    "block_ids": [
+      "p20_b21",
+      "p20_b22",
+      "p20_b23",
+      "p20_b24",
+      "p20_b25"
+    ],
+    "source_text": "儘管2020年的新業務價值27.65億美元較2019年減少了33%，我們迅速採用了新的數碼工具，並且外出限制的普\n遍放寬支持了銷售勢頭的恢復。友邦保險中國業務為2020年本集團的新業務價值帶來最大貢獻，也是我們第一個\n顯示銷售勢頭有所恢復的報告分部，原因在於該地區自2020年3月逐步放寬嚴格的封鎖。撇除維持低位的中國內\n地訪港旅客銷售額，本集團其他分部的新業務價值在下半年強勁復甦，與上半年相比增長了23%。本集團的新業\n務發展勢頭在2021年持續強勁，首兩個月新業務價值較2020年同期高出15%。",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [
+        {
+          "source": "新業務價值",
+          "target": "New Business Value",
+          "abbreviation": "NBV",
+          "context": "financial_metric",
+          "confidence": "high"
+        }
+      ],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    },
+    "matched_terms": [
+      {
+        "source": "友邦保險",
+        "target": "AIA"
+      },
+      {
+        "source": "新業務價值",
+        "target": "new business value"
+      },
+      {
+        "source": "新業務價值",
+        "target": "New Business Value"
+      }
+    ],
+    "initial_translation": "Although New Business Value in 2020 decreased by 33% to USD 2.765 billion compared with 2019, we rapidly adopted new digital tools, and the widespread relaxation of movement restrictions supported the recovery of sales momentum. AIA's China business made the largest contribution to the Group's New Business Value in 2020 and was the first reporting segment to demonstrate recovery in sales momentum, as the region progressively eased strict lockdowns from March 2020 onwards. Excluding the subdued sales from mainland Chinese visitors to Hong Kong, the Group's other segments achieved strong recovery in New Business Value in the second half, growing 23% compared with the first half. The Group's new business development momentum remained robust in 2021, with New Business Value in the first two months 15% higher than the corresponding period in 2020.",
+    "compact_translation": "Although New Business Value in 2020 decreased 33% to USD 2.765 billion from 2019, rapid adoption of digital tools and widespread relaxation of movement restrictions supported sales momentum recovery. AIA's China business contributed most to Group NBV in 2020 and was the first segment showing recovery, as the region eased lockdowns from March 2020. Excluding subdued mainland Chinese visitor sales to Hong Kong, other segments achieved strong NBV recovery in H2, up 23% versus H1. Group new business momentum remained robust in 2021, with NBV in the first two months 15% higher than the corresponding 2020 period.",
+    "final_translation": "Although New Business Value in 2020 decreased 33% to USD 2.765 billion from 2019, rapid adoption of digital tools and widespread relaxation of movement restrictions supported sales momentum recovery. AIA's China business contributed most to Group NBV in 2020 and was the first segment showing recovery, as the region eased lockdowns from March 2020. Excluding subdued mainland Chinese visitor sales to Hong Kong, other segments achieved strong NBV recovery in H2, up 23% versus H1. Group new business momentum remained robust in 2021, with NBV in the first two months 15% higher than the corresponding 2020 period.",
+    "translation_source": "model_initial",
+    "compact_used": true,
+    "render_result": {
+      "layout_mode": "group_slots",
+      "fit_status": "ok",
+      "font_ratio": 0.906,
+      "rendered_lines": [
+        "Although New Business Value in 2020 decreased 33% to USD 2.765 billion from 2019, rapid adoption of digital tools and widespread",
+        "relaxation of movement restrictions supported sales momentum recovery. AIA's China business contributed most to Group NBV in 2020",
+        "and was the first segment showing recovery, as the region eased lockdowns from March 2020. Excluding subdued mainland Chinese",
+        "visitor sales to Hong Kong, other segments achieved strong NBV recovery in H2, up 23% versus H1. Group new business momentum",
+        "remained robust in 2021, with NBV in the first two months 15% higher than the corresponding 2020 period."
+      ],
+      "rendered_by_block": {
+        "p20_b21": "Although New Business Value in 2020 decreased 33% to USD 2.765 billion from 2019, rapid adoption of digital tools and widespread",
+        "p20_b22": "relaxation of movement restrictions supported sales momentum recovery. AIA's China business contributed most to Group NBV in 2020",
+        "p20_b23": "and was the first segment showing recovery, as the region eased lockdowns from March 2020. Excluding subdued mainland Chinese",
+        "p20_b24": "visitor sales to Hong Kong, other segments achieved strong NBV recovery in H2, up 23% versus H1. Group new business momentum",
+        "p20_b25": "remained robust in 2021, with NBV in the first two months 15% higher than the corresponding 2020 period."
+      },
+      "slot_count": 5,
+      "selected_scale": 1.02
+    },
+    "block_outputs": {
+      "p20_b21": "Although New Business Value in 2020 decreased 33% to USD 2.765 billion from 2019, rapid adoption of digital tools and widespread",
+      "p20_b22": "relaxation of movement restrictions supported sales momentum recovery. AIA's China business contributed most to Group NBV in 2020",
+      "p20_b23": "and was the first segment showing recovery, as the region eased lockdowns from March 2020. Excluding subdued mainland Chinese",
+      "p20_b24": "visitor sales to Hong Kong, other segments achieved strong NBV recovery in H2, up 23% versus H1. Group new business momentum",
+      "p20_b25": "remained robust in 2021, with NBV in the first two months 15% higher than the corresponding 2020 period."
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_g03",
+    "mode": "semantic_group",
+    "block_ids": [
+      "p20_b26",
+      "p20_b27",
+      "p20_b28",
+      "p20_b29"
+    ],
+    "source_text": "友邦保險中國業務在2021年錄得成功的勢頭，首兩個月的新業務價值與2020年同期比較，錄得非常強勁的增\n長。2020年新業務價值9.68億美元較2019年減少17%，主要由於2019冠狀病毒病在第一季爆發初期而導致銷售額\n有限。隨著外出限制放寬，新業務動力得以迅速改善。新業務價值重拾我們慣常的季節性規律，比重更側重於上\n半年。在2020年，友邦保險中國業務為集團的新業務價值帶來最大貢獻。",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [
+        {
+          "source": "2019冠狀病毒病",
+          "target": "COVID-19",
+          "abbreviation": "",
+          "context": "external_event",
+          "confidence": "high"
+        },
+        {
+          "source": "新業務價值",
+          "target": "New Business Value",
+          "abbreviation": "NBV",
+          "context": "financial_metric",
+          "confidence": "high"
+        }
+      ],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    },
+    "matched_terms": [
+      {
+        "source": "友邦保險",
+        "target": "AIA"
+      },
+      {
+        "source": "新業務價值",
+        "target": "new business value"
+      },
+      {
+        "source": "2019冠狀病毒病",
+        "target": "COVID-19"
+      },
+      {
+        "source": "新業務價值",
+        "target": "New Business Value"
+      }
+    ],
+    "initial_translation": "AIA's China business demonstrated strong momentum in 2021, with new business value in the first two months showing very robust growth compared to the same period in 2020. In 2020, new business value of USD 968 million represented a 17% decrease from 2019, primarily due to limited sales in the early stages of the COVID-19 outbreak in the first quarter. As mobility restrictions eased, new business momentum improved rapidly. New business value resumed its customary seasonal pattern, with a greater proportion concentrated in the first half of the year. In 2020, AIA's China business made the largest contribution to the Group's new business value.",
+    "compact_translation": "AIA's China business demonstrated strong momentum in 2021, with new business value in the first two months showing robust growth versus 2020. In 2020, NBV of USD 968 million decreased 17% from 2019, primarily due to limited sales following the COVID-19 outbreak in Q1. As mobility restrictions eased, new business momentum improved rapidly, resuming customary seasonal patterns with greater concentration in H1. In 2020, AIA's China business contributed most to Group NBV.",
+    "final_translation": "AIA's China business demonstrated strong momentum in 2021, with new business value in the first two months showing robust growth versus 2020. In 2020, NBV of USD 968 million decreased 17% from 2019, primarily due to limited sales following the COVID-19 outbreak in Q1. As mobility restrictions eased, new business momentum improved rapidly, resuming customary seasonal patterns with greater concentration in H1. In 2020, AIA's China business contributed most to Group NBV.",
+    "translation_source": "model_initial",
+    "compact_used": true,
+    "render_result": {
+      "layout_mode": "group_slots",
+      "fit_status": "ok",
+      "font_ratio": 0.996,
+      "rendered_lines": [
+        "AIA's China business demonstrated strong momentum in 2021, with new business value in the first two months showing robust growth",
+        "versus 2020. In 2020, NBV of USD 968 million decreased 17% from 2019, primarily due to limited sales following the COVID-19",
+        "outbreak in Q1. As mobility restrictions eased, new business momentum improved rapidly, resuming customary seasonal patterns with",
+        "greater concentration in H1. In 2020, AIA's China business contributed most to Group NBV."
+      ],
+      "rendered_by_block": {
+        "p20_b26": "AIA's China business demonstrated strong momentum in 2021, with new business value in the first two months showing robust growth",
+        "p20_b27": "versus 2020. In 2020, NBV of USD 968 million decreased 17% from 2019, primarily due to limited sales following the COVID-19",
+        "p20_b28": "outbreak in Q1. As mobility restrictions eased, new business momentum improved rapidly, resuming customary seasonal patterns with",
+        "p20_b29": "greater concentration in H1. In 2020, AIA's China business contributed most to Group NBV."
+      },
+      "slot_count": 4,
+      "selected_scale": 1.02
+    },
+    "block_outputs": {
+      "p20_b26": "AIA's China business demonstrated strong momentum in 2021, with new business value in the first two months showing robust growth",
+      "p20_b27": "versus 2020. In 2020, NBV of USD 968 million decreased 17% from 2019, primarily due to limited sales following the COVID-19",
+      "p20_b28": "outbreak in Q1. As mobility restrictions eased, new business momentum improved rapidly, resuming customary seasonal patterns with",
+      "p20_b29": "greater concentration in H1. In 2020, AIA's China business contributed most to Group NBV."
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_g04",
+    "mode": "semantic_group",
+    "block_ids": [
+      "p20_b30",
+      "p20_b31",
+      "p20_b32",
+      "p20_b33"
+    ],
+    "source_text": "在實施旅遊限制後，友邦保險香港業務來自中國內地訪港客戶的新業務銷售自2020年2月初起實際上已暫停，導\n致其新業務價值大幅下降。新業務價值利潤率錄得跌幅，反映新業務量減少導致承保開支超支、產品組合變動及\n利率下降的影響所致。澳門在2020年9月底恢復中國內地旅客個人遊計劃。這為澳門的中國內地訪澳客戶銷售回\n升提供支持，使其在第四季佔友邦保險澳門分公司的年化新保費總額超過三分之一。",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [
+        {
+          "source": "新業務價值",
+          "target": "New Business Value",
+          "abbreviation": "NBV",
+          "context": "financial_metric",
+          "confidence": "high"
+        },
+        {
+          "source": "年化新保費",
+          "target": "Annualized New Premium",
+          "abbreviation": "ANP",
+          "context": "financial_metric",
+          "confidence": "high"
+        },
+        {
+          "source": "利潤率",
+          "target": "Profit Margin",
+          "abbreviation": "",
+          "context": "financial_ratio",
+          "confidence": "high"
+        }
+      ],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    },
+    "matched_terms": [
+      {
+        "source": "友邦保險",
+        "target": "AIA"
+      },
+      {
+        "source": "新業務價值",
+        "target": "new business value"
+      },
+      {
+        "source": "中國內地",
+        "target": "Mainland China"
+      },
+      {
+        "source": "新業務價值",
+        "target": "New Business Value"
+      },
+      {
+        "source": "年化新保費",
+        "target": "Annualized New Premium"
+      },
+      {
+        "source": "利潤率",
+        "target": "Profit Margin"
+      }
+    ],
+    "initial_translation": "Following the implementation of travel restrictions, new business sales from Mainland China visitors to AIA's Hong Kong operations were effectively suspended from early February 2020, resulting in a significant decline in New Business Value. The New Business Value Profit Margin recorded a decrease, reflecting the impact of reduced new business volume leading to underwriting expense overruns, product mix changes, and the effect of lower interest rates. Macau resumed the Individual Visit Scheme for Mainland China visitors at the end of September 2020. This supported a recovery in sales from Mainland China visitors to Macau, which accounted for more than one-third of AIA's Macau branch's total Annualized New Premium in the fourth quarter.",
+    "compact_translation": "Following travel restrictions, AIA's Hong Kong new business sales from Mainland China visitors were effectively suspended from early February 2020, causing significant New Business Value decline. New Business Value Profit Margin decreased due to reduced new business volume, underwriting expense overruns, product mix changes, and lower interest rates. Macau resumed the Individual Visit Scheme for Mainland China visitors in September 2020, supporting sales recovery from Mainland China visitors, which exceeded one-third of AIA's Macau branch's total Annualized New Premium in Q4.",
+    "final_translation": "Following the implementation of travel restrictions, new business sales from Mainland China visitors to AIA's Hong Kong operations were effectively suspended from early February 2020, resulting in a significant decline in New Business Value. The New Business Value Profit Margin recorded a decrease, reflecting the impact of reduced new business volume leading to underwriting expense overruns, product mix changes, and the effect of lower interest rates. Macau resumed the Individual Visit Scheme for Mainland China visitors at the end of September 2020. This supported a recovery in sales from Mainland China visitors to Macau, which accounted for more than one-third of AIA's Macau branch's total Annualized New Premium in the fourth quarter.",
+    "translation_source": "model_initial",
+    "compact_used": false,
+    "render_result": {
+      "layout_mode": "group_slots",
+      "fit_status": "font_shrink",
+      "font_ratio": 0.55,
+      "rendered_lines": [
+        "Following the implementation of travel restrictions, new business sales from Mainland China visitors to AIA's Hong Kong operations",
+        "were effectively suspended from early February 2020, resulting in a significant decline in New Business Value. The New Business",
+        "Value Profit Margin recorded a decrease, reflecting the impact of reduced new business volume leading to underwriting expense",
+        "overruns, product mix changes, and the effect of lower interest rates. Macau resumed the Individual Visit Scheme for Mainland China visitors at the end of September 2020. This supported a recovery in sales from Mainland China visitors to Macau, which accounted for more than one-third of AIA's Macau branch's total Annualized New Premium in the fourth quarter."
+      ],
+      "rendered_by_block": {
+        "p20_b30": "Following the implementation of travel restrictions, new business sales from Mainland China visitors to AIA's Hong Kong operations",
+        "p20_b31": "were effectively suspended from early February 2020, resulting in a significant decline in New Business Value. The New Business",
+        "p20_b32": "Value Profit Margin recorded a decrease, reflecting the impact of reduced new business volume leading to underwriting expense",
+        "p20_b33": "overruns, product mix changes, and the effect of lower interest rates. Macau resumed the Individual Visit Scheme for Mainland China visitors at the end of September 2020. This supported a recovery in sales from Mainland China visitors to Macau, which accounted for more than one-third of AIA's Macau branch's total Annualized New Premium in the fourth quarter."
+      },
+      "slot_count": 4,
+      "selected_scale": 1.02
+    },
+    "block_outputs": {
+      "p20_b30": "Following the implementation of travel restrictions, new business sales from Mainland China visitors to AIA's Hong Kong operations",
+      "p20_b31": "were effectively suspended from early February 2020, resulting in a significant decline in New Business Value. The New Business",
+      "p20_b32": "Value Profit Margin recorded a decrease, reflecting the impact of reduced new business volume leading to underwriting expense",
+      "p20_b33": "overruns, product mix changes, and the effect of lower interest rates. Macau resumed the Individual Visit Scheme for Mainland China visitors at the end of September 2020. This supported a recovery in sales from Mainland China visitors to Macau, which accounted for more than one-third of AIA's Macau branch's total Annualized New Premium in the fourth quarter."
+    }
+  },
+  {
+    "page_no": 20,
+    "unit_id": "p20_b34",
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b34"
+    ],
+    "source_text": "018\n友邦保險控股有限公司",
+    "context_pack": {
+      "global_profile": {
+        "company_name_target": "AIA GROUP LIMITED",
+        "industry": "Life Insurance",
+        "report_type": "annual_report",
+        "report_year": 2020,
+        "style_keywords": [
+          "corporate governance",
+          "financial performance",
+          "stakeholder communication",
+          "ESG commitment"
+        ]
+      },
+      "page_sections": [
+        {
+          "target_section": "New Business Performance",
+          "content_type": "business_metrics",
+          "page_range": [
+            20,
+            21
+          ]
+        },
+        {
+          "target_section": "Group Chief Financial Officer's Review",
+          "content_type": "cfo_review",
+          "page_range": [
+            18,
+            30
+          ]
+        },
+        {
+          "target_section": "Financial and Operating Review",
+          "content_type": "financial_review",
+          "page_range": [
+            17,
+            30
+          ]
+        }
+      ],
+      "roles": [],
+      "terms": [],
+      "style_rules": [
+        "Preserve financial terminology consistency",
+        "Use formal corporate register throughout",
+        "Maintain parallel structure in lists and tables",
+        "Preserve table structure and alignment",
+        "Translate table headers consistently with body text",
+        "Maintain footnote references and numbering",
+        "Convert currency units with precision"
+      ]
+    },
+    "matched_terms": [],
+    "initial_translation": "018 AIA Group Limited",
+    "compact_translation": null,
+    "final_translation": "018 AIA Group Limited",
+    "translation_source": "glossary_linewise",
+    "compact_used": false,
+    "render_result": {
+      "layout_mode": "textbox",
+      "fit_status": "ok",
+      "font_ratio": 1.0,
+      "rendered_lines": [
+        "018 AIA Group Limited"
+      ],
+      "rendered_by_block": {
+        "p20_b34": "018 AIA Group Limited"
+      },
+      "slot_count": 2,
+      "selected_scale": 1.0
+    },
+    "block_outputs": {
+      "p20_b34": "018 AIA Group Limited"
+    }
+  }
+]

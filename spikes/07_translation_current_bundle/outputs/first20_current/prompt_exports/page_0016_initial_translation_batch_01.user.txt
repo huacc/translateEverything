@@ -1,0 +1,84 @@
+﻿请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。
+要求高保真、正式、可出版，不要摘要，不要解释。
+术语表和动态文档背景优先于自由翻译。
+只输出严格 JSON。
+{
+  "page_no": 16,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "relevant_terms": [],
+  "blocks": [
+    {
+      "block_id": "p16_b3",
+      "block_type": "body",
+      "source_text": "我們瞭解我們在這重要領域仍然任重道遠。我們最近亦完成環境、社會及管治策略的檢討。本人充滿信心，我們",
+      "line_count": 1,
+      "char_count": 49,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p16_b4",
+      "block_type": "body",
+      "source_text": "的五大策略焦點領域：提升身心健康、綠色營運、可持續投資、人才與文化和有效的管治，將有助我們實現在環",
+      "line_count": 1,
+      "char_count": 49,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p16_b5",
+      "block_type": "label",
+      "source_text": "境、社會及管治方面領先全球業界的志向。",
+      "line_count": 1,
+      "char_count": 19,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p16_b6",
+      "block_type": "label",
+      "source_text": "前景",
+      "line_count": 1,
+      "char_count": 2,
+      "region": "middle",
+      "font_size_avg": 14.0
+    },
+    {
+      "block_id": "p16_b7",
+      "block_type": "body",
+      "source_text": "在2020年，2019冠狀病毒病大流行無疑是我們生活記憶中最大規模的公共衞生緊急狀態。受影響的企業和家庭",
+      "line_count": 1,
+      "char_count": 52,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p16_b8",
+      "block_type": "body",
+      "source_text": "獲得前所未見的公共財政和金融支援，有助緩解由疫情大流行造成的部分極端金融衝擊，並加快復甦步伐，這在",
+      "line_count": 1,
+      "char_count": 49,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p16_b9",
+      "block_type": "body",
+      "source_text": "具備完善衞生政策及基建的國家尤其可見。然而，各國之間存在顯著差異，在這困境下，亞洲（日本除外）地區",
+      "line_count": 1,
+      "char_count": 49,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p16_b10",
+      "block_type": "body",
+      "source_text": "錄得全球相對最強勁的國內生產總值表現。現時，環球經濟正剛剛開始擺脫一場深度衰退，並步入好轉的初步階",
+      "line_count": 1,
+      "char_count": 49,
+      "region": "middle",
+      "font_size_avg": 9.0
+    }
+  ]
+}

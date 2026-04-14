@@ -1,0 +1,26 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p16_b18",
+      "translation": "low, and with limited social welfare coverage, demand for AIA's products will continue to grow. Leveraging our substantial competitive advantages and strong"
+    },
+    {
+      "block_id": "p16_b19",
+      "translation": "growth track record, we will build a more sustainable future for our communities and create shared value for all stakeholders."
+    },
+    {
+      "block_id": "p16_b20",
+      "translation": "Lee Yuan Siong"
+    },
+    {
+      "block_id": "p16_b21",
+      "translation": "Group Chief Executive and President"
+    },
+    {
+      "block_id": "p16_b23",
+      "translation": "Growth rates are presented at constant exchange rates, which management believes provides a clearer illustration of the underlying business performance year-on-year."
+    }
+  ]
+}
+```

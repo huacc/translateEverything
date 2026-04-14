@@ -1,0 +1,89 @@
+﻿请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。
+要求高保真、正式、可出版，不要摘要，不要解释。
+术语表和动态文档背景优先于自由翻译。
+只输出严格 JSON。
+{
+  "page_no": 2,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "relevant_terms": [
+    {
+      "source": "友邦保險",
+      "target": "AIA"
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "p2_b45",
+      "block_type": "label",
+      "source_text": "132 合併收入表",
+      "line_count": 1,
+      "char_count": 9,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p2_b46",
+      "block_type": "label",
+      "source_text": "友邦保險控股有限公司於香港聯合",
+      "line_count": 1,
+      "char_count": 15,
+      "region": "middle",
+      "font_size_avg": 8.0
+    },
+    {
+      "block_id": "p2_b47",
+      "block_type": "label",
+      "source_text": "133 合併全面收入表",
+      "line_count": 1,
+      "char_count": 11,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p2_b48",
+      "block_type": "label",
+      "source_text": "友邦保險今日的業務成就可追溯至",
+      "line_count": 1,
+      "char_count": 15,
+      "region": "middle",
+      "font_size_avg": 8.0
+    },
+    {
+      "block_id": "p2_b49",
+      "block_type": "label",
+      "source_text": "交易所有限公司主板上市（股份代號為",
+      "line_count": 1,
+      "char_count": 17,
+      "region": "middle",
+      "font_size_avg": 8.0
+    },
+    {
+      "block_id": "p2_b50",
+      "block_type": "label",
+      "source_text": "134 合併財務狀況表",
+      "line_count": 1,
+      "char_count": 11,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p2_b51",
+      "block_type": "label",
+      "source_text": "1919年逾一個世紀前於上海的發源地。",
+      "line_count": 1,
+      "char_count": 19,
+      "region": "middle",
+      "font_size_avg": 8.4
+    },
+    {
+      "block_id": "p2_b52",
+      "block_type": "label",
+      "source_text": "「1299」）；其美國預託證券（一級）於",
+      "line_count": 1,
+      "char_count": 20,
+      "region": "middle",
+      "font_size_avg": 8.2
+    }
+  ]
+}

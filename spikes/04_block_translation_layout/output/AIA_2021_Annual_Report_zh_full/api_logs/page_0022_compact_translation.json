@@ -1,0 +1,21 @@
+{
+  "content": [
+    {
+      "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p22_b1\",\n      \"translation\": \"Financial & Operational Review\"\n    },\n    {\n      \"block_id\": \"p22_b2\",\n      \"translation\": \"Group CFO Review\"\n    },\n    {\n      \"block_id\": \"p22_b3\",\n      \"translation\": \"Embedded Value Equity\"\n    },\n    {\n      \"block_id\": \"p22_b4\",\n      \"translation\": \"EV Operating Profit\"\n    },\n    {\n      \"block_id\": \"p22_b5\",\n      \"translation\": \"2020 EV operating profit: USD 7,243m, down 17% vs 2019, driven by new business value, yielding 11.7% operating return.\"\n    },\n    {\n      \"block_id\": \"p22_b6\",\n      \"translation\": \"Operating variance: USD 549m, reflecting favorable experience vs EV assumptions.\"\n    },\n    {\n      \"block_id\": \"p22_b7\",\n      \"translation\": \"Cumulative operating variance since 2010 IPO: over USD 3.2bn to EV equity.\"\n    },\n    {\n      \"block_id\": \"p22_b8\",\n      \"translation\": \"EV Operating EPS – Basic\"\n    },\n    {\n      \"block_id\": \"p22_b9\",\n      \"translation\": \"2020\\n2019\\nYoY Change\\n(Constant FX)\\nYoY Change\\n(Actual FX)\"\n    },\n    {\n      \"block_id\": \"p22_b10\",\n      \"translation\": \"EV Operating Profit (USD m)\\n7,243\\n8,685\\n(17)%\\n(17)%\"\n    },\n    {\n      \"block_id\": \"p22_b11\",\n      \"translation\": \"Weighted Avg Shares (m)\\n12,060\\n12,042\\nN/A\\nN/A\"\n    },\n    {\n      \"block_id\": \"p22_b12\",\n      \"translation\": \"Basic EV Operating EPS (US¢)\\n60.06\\n72.12\\n(17)%\\n(17)%\"\n    },\n    {\n      \"block_id\": \"p22_b13\",\n      \"translation\": \"EV Operating EPS – Diluted\"\n    },\n    {\n      \"block_id\": \"p22_b14\",\n      \"translation\": \"2020\\n2019\\nYoY Change\\n(Constant FX)\\nYoY Change\\n(Actual FX)\"\n    },\n    {\n      \"block_id\": \"p22_b15\",\n      \"translation\": \"EV Operating Profit (USD m)\\n7,243\\n8,685\\n(17)%\\n(17)%\"\n    },\n    {\n      \"block_id\": \"p22_b16\",\n      \"translation\": \"Weighted Avg Shares(1) (m)\\n12,080\\n12,071\\nN/A\\nN/A\"\n    },\n    {\n      \"block_id\": \"p22_b17\",\n      \"translation\": \"Diluted EV Operating EPS(1) (US¢)\\n59.96\\n71.95\\n(17)%\\n(17)%\"\n    },\n    {\n      \"block_id\": \"p22_b19\",\n      \"translation\": \"EV Movement\"\n    },\n    {\n      \"block_id\": \"p22_b20\",\n      \"translation\": \"After USD 1,997m dividends, EV increased USD 3,262m to USD 65,247m (31 Dec 2020), driven by EV operating profit USD 7,243m and favorable FX USD 1,164m.\"\n    },\n    {\n      \"block_id\": \"p22_b21\",\n      \"translation\": \"Offset by negative investment variance USD 1,868m (bond yield declines in US, Thailand) and lower economic assumptions USD 1,013m.\"\n    },\n    {\n      \"block_id\": \"p22_b22\",\n      \"translation\": \"Non-operating variances reduced EV USD 330m (withholding taxes, uncertain tax provisions), partially offset by NZ branch conversion and Singapore RBC2 rules.\"\n    },\n    {\n      \"block_id\": \"p22_b26\",\n      \"translation\": \"2020\\nAIA Group Limited\"\n    }\n  ]\n}\n```",
+      "type": "text"
+    }
+  ],
+  "conversationId": "30ef620d-821d-4f3b-9e08-279e4990aee3",
+  "conversation_id": "30ef620d-821d-4f3b-9e08-279e4990aee3",
+  "id": "30ef620d-821d-4f3b-9e08-279e4990aee3",
+  "model": "claude-3-5-sonnet-20241022",
+  "role": "assistant",
+  "stop_reason": "end_turn",
+  "type": "message",
+  "usage": {
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 4221,
+    "output_tokens": 940
+  }
+}

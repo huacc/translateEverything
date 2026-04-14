@@ -1,0 +1,92 @@
+﻿请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。
+要求高保真、正式、可出版，不要摘要，不要解释。
+术语表和动态文档背景优先于自由翻译。
+只输出严格 JSON。
+{
+  "page_no": 19,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "relevant_terms": [
+    {
+      "source": "友邦保險",
+      "target": "AIA"
+    },
+    {
+      "source": "稅後營運溢利",
+      "target": "operating profit after tax"
+    },
+    {
+      "source": "有效保單組合",
+      "target": "in-force portfolio"
+    },
+    {
+      "source": "泰國",
+      "target": "Thailand"
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "p19_b15",
+      "block_type": "body",
+      "source_text": "資回報減少的影響。一如預期，上半年所述的異常正面醫療理賠經驗並未在下半年再次發生，但我們繼續看到此",
+      "line_count": 1,
+      "char_count": 49,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p19_b16",
+      "block_type": "body",
+      "source_text": "來源對稅後營運溢利增長的正面貢獻。在友邦保險泰國業務的失效經驗恢復正常的情況下，下半年的續保率有所",
+      "line_count": 1,
+      "char_count": 49,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p19_b17",
+      "block_type": "label",
+      "source_text": "改善，而本集團的續保率為95%。",
+      "line_count": 1,
+      "char_count": 16,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p19_b18",
+      "block_type": "body",
+      "source_text": "產生的基本自由盈餘為58.43億美元，增長了7%，是由我們有效保單組合的持續增長和我們對此積極管理所帶",
+      "line_count": 1,
+      "char_count": 51,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p19_b19",
+      "block_type": "body",
+      "source_text": "動，這足以抵銷預期投資回報降低的影響。於2020年12月31日，本集團的財務狀況仍然十分強勁，於派付股息",
+      "line_count": 1,
+      "char_count": 52,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p19_b20",
+      "block_type": "label",
+      "source_text": "19.97億美元後，自由盈餘為134.73億美元。",
+      "line_count": 1,
+      "char_count": 25,
+      "region": "middle",
+      "font_size_avg": 9.0
+    },
+    {
+      "block_id": "p19_b21",
+      "block_type": "body",
+      "source_text": "於2020年12月31日，我們的主要營運公司友邦保險有限公司（AIA Co.）的償付能力充足率仍然非常強勁，為",
+      "line_count": 1,
+      "char_count": 55,
+      "region": "middle",
+      "font_size_avg": 9.0
+    }
+  ]
+}

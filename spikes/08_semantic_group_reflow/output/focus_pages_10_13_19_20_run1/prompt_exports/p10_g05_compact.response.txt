@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p10_g05",
+      "translation": "Operating profit after tax grew 5% to USD 5.942 billion, with basic free surplus rising 7% to USD 5.843 billion, reflecting high-quality recurring earnings. Embedded value equity reached USD 67.2 billion. As at 31 December 2020, the Group's local capital ratio coverage was 374%, demonstrating strong capital strength and prudent financial management."
+    }
+  ]
+}
+```

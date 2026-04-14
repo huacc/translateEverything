@@ -1,0 +1,99 @@
+文档场景：上市公司企业年报。
+请优先复用 document_background 和 matched_terms 中提供的标准写法。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "direction": "Traditional Chinese -> English"
+  },
+  "document_background": {
+    "global_profile": {
+      "company_name_target": "AIA GROUP LIMITED",
+      "industry": "Life Insurance",
+      "report_type": "annual_report",
+      "report_year": 2020
+    },
+    "term_usage_mode": "table",
+    "page_sections": [
+      {
+        "source_section": "集團首席財務總監回顧",
+        "target_section": "Group Chief Financial Officer's Review",
+        "content_type": "cfo_review",
+        "page_range": [
+          18,
+          30
+        ]
+      }
+    ],
+    "roles": [],
+    "terms": [
+      {
+        "source": "中國內地訪港旅客",
+        "target": "Mainland Chinese visitors"
+      },
+      {
+        "source": "新業務價值",
+        "target": "VONB"
+      }
+    ],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "Use established financial abbreviations for table labels when provided.",
+      "Keep row and column semantics unchanged.",
+      "Use n/m for 無意義."
+    ]
+  },
+  "matched_terms": [
+    {
+      "source": "中國內地訪港旅客",
+      "target": "Mainland Chinese visitors"
+    },
+    {
+      "source": "新業務價值",
+      "target": "VONB"
+    },
+    {
+      "source": "中國內地",
+      "target": "Mainland China"
+    }
+  ],
+  "current_unit": {
+    "page_no": 19,
+    "unit_id": "p19_g02",
+    "unit_mode": "semantic_group",
+    "block_types": [
+      "body",
+      "body",
+      "body",
+      "label"
+    ],
+    "blocks": [
+      {
+        "block_id": "p19_b5",
+        "source_text": "團的新業務價值帶來最大貢獻，也是我們第一個顯示銷售勢頭有所恢復的報告分部，原因在於該地區自2020年3"
+      },
+      {
+        "block_id": "p19_b6",
+        "source_text": "月逐步放寬嚴格的封鎖。撇除維持低位的中國內地訪港旅客銷售額，本集團其他分部的新業務價值在下半年強勁"
+      },
+      {
+        "block_id": "p19_b7",
+        "source_text": "復甦，與上半年相比增長了23%。本集團的新業務發展勢頭在2021年持續強勁，首兩個月新業務價值較2020年同"
+      },
+      {
+        "block_id": "p19_b8",
+        "source_text": "期高出15%。"
+      }
+    ],
+    "joined_source_text": "團的新業務價值帶來最大貢獻，也是我們第一個顯示銷售勢頭有所恢復的報告分部，原因在於該地區自2020年3\n月逐步放寬嚴格的封鎖。撇除維持低位的中國內地訪港旅客銷售額，本集團其他分部的新業務價值在下半年強勁\n復甦，與上半年相比增長了23%。本集團的新業務發展勢頭在2021年持續強勁，首兩個月新業務價值較2020年同\n期高出15%。"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p19_g02",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

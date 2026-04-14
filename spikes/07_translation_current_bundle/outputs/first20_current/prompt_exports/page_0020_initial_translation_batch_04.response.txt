@@ -1,0 +1,30 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p20_b23",
+      "translation": "reporting segment showing recovery in sales momentum, reflecting the gradual easing of strict lockdowns in the region from March 2020 onwards. Excluding sales from mainland visitors to Hong Kong, which remained at low levels, the Group's new business value in other segments rebounded strongly in the second half, growing 23% compared with the first half."
+    },
+    {
+      "block_id": "p20_b24",
+      "translation": "The Group's new business development momentum remained strong in 2021, with new business value in the first two months 15% higher than the corresponding period in 2020."
+    },
+    {
+      "block_id": "p20_b25",
+      "translation": "AIA's China business recorded successful momentum in 2021, with new business value in the first two months showing very strong growth compared with the corresponding period in 2020."
+    },
+    {
+      "block_id": "p20_b26",
+      "translation": "New business value of USD 968 million in 2020 decreased 17% from 2019, primarily due to limited sales in the initial outbreak of COVID-19 in the first quarter. As travel restrictions eased, new business momentum improved rapidly."
+    },
+    {
+      "block_id": "p20_b27",
+      "translation": "New business value resumed our customary seasonal pattern, with a greater proportion weighted towards the upper half of the year."
+    },
+    {
+      "block_id": "p20_b28",
+      "translation": ""
+    }
+  ]
+}
+```

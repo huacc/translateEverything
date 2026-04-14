@@ -1,0 +1,20 @@
+文档场景：上市公司企业年报
+page_no: 19
+unit_id: p19_g06
+unit_mode: semantic_group
+slot_count: 3
+source_text:
+於2020年12月31日，我們的主要營運公司友邦保險有限公司（AIA Co.）的償付能力充足率仍然非常強勁，為
+489%。於2020年12月31日，在新的集團監管框架下，集團當地資本總和法覆蓋率為374%。日後，我們將披露集
+團當地資本總和法覆蓋率，作為衡量本集團監管償付能力的主要指標。
+current_translation:
+As at 31 December 2020, our principal operating company AIA Co.'s solvency ratio remained very strong at 489%. As at 31 December 2020, under the new group regulatory framework, the group's local capital aggregation method coverage ratio was 374%. Going forward, we will disclose the group's local capital aggregation method coverage ratio as the primary indicator for measuring the group's regulatory solvency.
+返回格式:
+{
+  "translations": [
+    {
+      "unit_id": "p19_g06",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

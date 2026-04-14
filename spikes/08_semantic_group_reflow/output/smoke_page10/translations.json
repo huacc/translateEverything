@@ -1,0 +1,478 @@
+[
+  {
+    "page_no": 10,
+    "unit_id": "p10_b1",
+    "mode": "single_block",
+    "block_ids": [
+      "p10_b1"
+    ],
+    "source_text": "概覽",
+    "initial_translation": "Overview",
+    "compact_translation": null,
+    "final_translation": "Overview",
+    "translation_source": "glossary_exact",
+    "compact_used": false,
+    "render_result": {
+      "layout_mode": "textbox",
+      "fit_status": "font_shrink",
+      "font_ratio": 0.271,
+      "rendered_lines": [
+        "Overview"
+      ],
+      "rendered_by_block": {
+        "p10_b1": "Overview"
+      },
+      "slot_count": 3,
+      "selected_scale": 0.271
+    },
+    "block_outputs": {
+      "p10_b1": "Overview"
+    }
+  },
+  {
+    "page_no": 10,
+    "unit_id": "p10_b2",
+    "mode": "single_block",
+    "block_ids": [
+      "p10_b2"
+    ],
+    "source_text": "概覽",
+    "initial_translation": "Overview",
+    "compact_translation": null,
+    "final_translation": "Overview",
+    "translation_source": "glossary_exact",
+    "compact_used": false,
+    "render_result": {
+      "layout_mode": "textbox",
+      "fit_status": "font_shrink",
+      "font_ratio": 0.271,
+      "rendered_lines": [
+        "Overview"
+      ],
+      "rendered_by_block": {
+        "p10_b2": "Overview"
+      },
+      "slot_count": 3,
+      "selected_scale": 0.271
+    },
+    "block_outputs": {
+      "p10_b2": "Overview"
+    }
+  },
+  {
+    "page_no": 10,
+    "unit_id": "p10_b3",
+    "mode": "single_block",
+    "block_ids": [
+      "p10_b3"
+    ],
+    "source_text": "主席報告",
+    "initial_translation": "Chairman's Report",
+    "compact_translation": "Chairman's Report",
+    "final_translation": "Chairman's Report",
+    "translation_source": "model_initial",
+    "compact_used": false,
+    "render_result": {
+      "layout_mode": "single_line",
+      "fit_status": "font_shrink",
+      "font_ratio": 0.594,
+      "rendered_lines": [
+        "Chairman's Report"
+      ],
+      "rendered_by_block": {
+        "p10_b3": "Chairman's Report"
+      },
+      "slot_count": 3,
+      "selected_scale": 0.594
+    },
+    "block_outputs": {
+      "p10_b3": "Chairman's Report"
+    }
+  },
+  {
+    "page_no": 10,
+    "unit_id": "p10_g01",
+    "mode": "semantic_group",
+    "block_ids": [
+      "p10_b4",
+      "p10_b5",
+      "p10_b6",
+      "p10_b7"
+    ],
+    "source_text": "在過去一個世紀，友邦保險\n於亞洲區內，為極需我們服務的\n社區大眾提供保障而備受稱譽，\n這令我們引以為榮。",
+    "initial_translation": "Over the past century, AIA has been highly regarded in the Asia region for providing protection to communities in great need of our services, which makes us proud.",
+    "compact_translation": "Over the past century, AIA has been highly regarded in Asia for providing protection to underserved communities, a source of pride for us.",
+    "final_translation": "Over the past century, AIA has been highly regarded in the Asia region for providing protection to communities in great need of our services, which makes us proud.",
+    "translation_source": "model_initial",
+    "compact_used": false,
+    "render_result": {
+      "layout_mode": "group_slots",
+      "fit_status": "font_shrink",
+      "font_ratio": 0.55,
+      "rendered_lines": [
+        "Over the past century, AIA has",
+        "been highly regarded in the Asia",
+        "region for providing protection to",
+        "communities in great need of our services, which makes us proud."
+      ],
+      "rendered_by_block": {
+        "p10_b4": "Over the past century, AIA has",
+        "p10_b5": "been highly regarded in the Asia",
+        "p10_b6": "region for providing protection to",
+        "p10_b7": "communities in great need of our services, which makes us proud."
+      },
+      "slot_count": 4,
+      "selected_scale": 1.02
+    },
+    "block_outputs": {
+      "p10_b4": "Over the past century, AIA has",
+      "p10_b5": "been highly regarded in the Asia",
+      "p10_b6": "region for providing protection to",
+      "p10_b7": "communities in great need of our services, which makes us proud."
+    }
+  },
+  {
+    "page_no": 10,
+    "unit_id": "p10_b8",
+    "mode": "single_block",
+    "block_ids": [
+      "p10_b8"
+    ],
+    "source_text": "謝仕榮先生\n獨立非執行主席",
+    "initial_translation": "Mr. Xie Shirong Independent Non-Executive Chairman",
+    "compact_translation": "Mr. Xie Shirong, Independent Non-Executive Chairman",
+    "final_translation": "Mr. Xie Shirong Independent Non-Executive Chairman",
+    "translation_source": "model_initial",
+    "compact_used": false,
+    "render_result": {
+      "layout_mode": "textbox",
+      "fit_status": "font_shrink",
+      "font_ratio": 0.688,
+      "rendered_lines": [
+        "Mr. Xie Shirong Independent Non-Executive Chairman"
+      ],
+      "rendered_by_block": {
+        "p10_b8": "Mr. Xie Shirong Independent Non-Executive Chairman"
+      },
+      "slot_count": 2,
+      "selected_scale": 0.688
+    },
+    "block_outputs": {
+      "p10_b8": "Mr. Xie Shirong Independent Non-Executive Chairman"
+    }
+  },
+  {
+    "page_no": 10,
+    "unit_id": "p10_g02",
+    "mode": "semantic_group",
+    "block_ids": [
+      "p10_b9",
+      "p10_b10",
+      "p10_b11"
+    ],
+    "source_text": "在2019冠狀病毒病大流行期間，\n我們的同事關懷社群，克盡己職，\n持續為數以百萬計的客戶",
+    "initial_translation": "During the COVID-19 pandemic, our colleagues cared for the community and fulfilled their duties, continuing to serve millions of customers",
+    "compact_translation": "During the COVID-19 pandemic, our colleagues served the community and continued supporting millions of customers",
+    "final_translation": "During the COVID-19 pandemic, our colleagues served the community and continued supporting millions of customers",
+    "translation_source": "model_initial",
+    "compact_used": true,
+    "render_result": {
+      "layout_mode": "group_slots",
+      "fit_status": "font_shrink",
+      "font_ratio": 0.732,
+      "rendered_lines": [
+        "During the COVID-19 pandemic, our",
+        "colleagues served the community and",
+        "continued supporting millions of customers"
+      ],
+      "rendered_by_block": {
+        "p10_b9": "During the COVID-19 pandemic, our",
+        "p10_b10": "colleagues served the community and",
+        "p10_b11": "continued supporting millions of customers"
+      },
+      "slot_count": 3,
+      "selected_scale": 1.02
+    },
+    "block_outputs": {
+      "p10_b9": "During the COVID-19 pandemic, our",
+      "p10_b10": "colleagues served the community and",
+      "p10_b11": "continued supporting millions of customers"
+    }
+  },
+  {
+    "page_no": 10,
+    "unit_id": "p10_b12",
+    "mode": "single_block",
+    "block_ids": [
+      "p10_b12"
+    ],
+    "source_text": "提供無間斷的支援。",
+    "initial_translation": "Provide uninterrupted support.",
+    "compact_translation": "Provide continuous support.",
+    "final_translation": "Provide continuous support.",
+    "translation_source": "model_initial",
+    "compact_used": true,
+    "render_result": {
+      "layout_mode": "single_line",
+      "fit_status": "ok",
+      "font_ratio": 0.882,
+      "rendered_lines": [
+        "Provide continuous support."
+      ],
+      "rendered_by_block": {
+        "p10_b12": "Provide continuous support."
+      },
+      "slot_count": 1,
+      "selected_scale": 0.882
+    },
+    "block_outputs": {
+      "p10_b12": "Provide continuous support."
+    }
+  },
+  {
+    "page_no": 10,
+    "unit_id": "p10_g03",
+    "mode": "semantic_group",
+    "block_ids": [
+      "p10_b13",
+      "p10_b14",
+      "p10_b15",
+      "p10_b16",
+      "p10_b17",
+      "p10_b18"
+    ],
+    "source_text": "友邦保險在亞洲歷史悠久，源遠流長，經歷各種社會動盪和不明朗時期仍能妥善管理業務，因而贏得卓著的\n聲譽，體現友邦保險誠可信賴、強韌穩健，並堅持為持分者做對的事。自2020年初以來，2019冠狀病毒病大流\n行導致營商環境不斷變化及日趨複雜，而政治、宏觀經濟及資本市場亦出現前所未見的轉移。在這樣的環境下，\n友邦保險的財務實力，以及「幫助大眾活出健康、長久、好生活」的目標，更具重大意義。本人衷心感謝友邦\n保險所有員工、代理和合作夥伴，即使面對最嚴峻的挑戰，他們仍關懷社區，克盡己職，專心致志地為客戶、\n其家庭以及我們的社區提供支援。",
+    "initial_translation": "AIA has a long and storied history in Asia. Having navigated through various social upheavals and uncertain periods while managing our business prudently, we have earned a distinguished reputation that reflects AIA's trustworthiness, resilience and strength, and our commitment to doing the right thing for our stakeholders. Since early 2020, the COVID-19 pandemic has led to continuously evolving and increasingly complex business environments, while political, macroeconomic and capital market landscapes have undergone unprecedented shifts. In such an environment, AIA's financial strength and our mission to \"help people live healthier, longer, better lives\" have become even more significant. I am deeply grateful to all AIA employees, agents and partners who, despite facing the most severe challenges, continue to care for our communities, fulfill their responsibilities diligently, and dedicate themselves to providing support to our customers, their families and our communities.",
+    "compact_translation": "AIA has a long and storied history in Asia. Having navigated various social upheavals and uncertain periods while managing our business prudently, we have earned a distinguished reputation reflecting our trustworthiness, resilience and strength, and commitment to doing right by our stakeholders. Since early 2020, the COVID-19 pandemic has created continuously evolving and increasingly complex business environments, while political, macroeconomic and capital market landscapes have undergone unprecedented shifts. In this context, AIA's financial strength and our mission to \"help people live healthier, longer, better lives\" are more significant than ever. I am deeply grateful to all AIA employees, agents and partners who, despite severe challenges, continue to care for our communities, fulfill their responsibilities diligently, and dedicate themselves to supporting our customers, their families and our communities.",
+    "final_translation": "AIA has a long and storied history in Asia. Having navigated through various social upheavals and uncertain periods while managing our business prudently, we have earned a distinguished reputation that reflects AIA's trustworthiness, resilience and strength, and our commitment to doing the right thing for our stakeholders. Since early 2020, the COVID-19 pandemic has led to continuously evolving and increasingly complex business environments, while political, macroeconomic and capital market landscapes have undergone unprecedented shifts. In such an environment, AIA's financial strength and our mission to \"help people live healthier, longer, better lives\" have become even more significant. I am deeply grateful to all AIA employees, agents and partners who, despite facing the most severe challenges, continue to care for our communities, fulfill their responsibilities diligently, and dedicate themselves to providing support to our customers, their families and our communities.",
+    "translation_source": "model_initial",
+    "compact_used": false,
+    "render_result": {
+      "layout_mode": "group_slots",
+      "fit_status": "font_shrink",
+      "font_ratio": 0.55,
+      "rendered_lines": [
+        "AIA has a long and storied history in Asia. Having navigated through various social upheavals and uncertain periods while managing our business prudently, we have earned",
+        "a distinguished reputation that reflects AIA's trustworthiness, resilience and strength, and our commitment to doing the right thing for our stakeholders. Since early 2020, the",
+        "COVID-19 pandemic has led to continuously evolving and increasingly complex business environments, while political, macroeconomic and capital market landscapes have",
+        "undergone unprecedented shifts. In such an environment, AIA's financial strength and our mission to \"help people live healthier, longer, better lives\" have become even more",
+        "significant. I am deeply grateful to all AIA employees, agents and partners who, despite facing the most severe challenges, continue to care for our communities, fulfill their",
+        "responsibilities diligently, and dedicate themselves to providing support to our customers, their families and our communities."
+      ],
+      "rendered_by_block": {
+        "p10_b13": "AIA has a long and storied history in Asia. Having navigated through various social upheavals and uncertain periods while managing our business prudently, we have earned",
+        "p10_b14": "a distinguished reputation that reflects AIA's trustworthiness, resilience and strength, and our commitment to doing the right thing for our stakeholders. Since early 2020, the",
+        "p10_b15": "COVID-19 pandemic has led to continuously evolving and increasingly complex business environments, while political, macroeconomic and capital market landscapes have",
+        "p10_b16": "undergone unprecedented shifts. In such an environment, AIA's financial strength and our mission to \"help people live healthier, longer, better lives\" have become even more",
+        "p10_b17": "significant. I am deeply grateful to all AIA employees, agents and partners who, despite facing the most severe challenges, continue to care for our communities, fulfill their",
+        "p10_b18": "responsibilities diligently, and dedicate themselves to providing support to our customers, their families and our communities."
+      },
+      "slot_count": 6,
+      "selected_scale": 0.795
+    },
+    "block_outputs": {
+      "p10_b13": "AIA has a long and storied history in Asia. Having navigated through various social upheavals and uncertain periods while managing our business prudently, we have earned",
+      "p10_b14": "a distinguished reputation that reflects AIA's trustworthiness, resilience and strength, and our commitment to doing the right thing for our stakeholders. Since early 2020, the",
+      "p10_b15": "COVID-19 pandemic has led to continuously evolving and increasingly complex business environments, while political, macroeconomic and capital market landscapes have",
+      "p10_b16": "undergone unprecedented shifts. In such an environment, AIA's financial strength and our mission to \"help people live healthier, longer, better lives\" have become even more",
+      "p10_b17": "significant. I am deeply grateful to all AIA employees, agents and partners who, despite facing the most severe challenges, continue to care for our communities, fulfill their",
+      "p10_b18": "responsibilities diligently, and dedicate themselves to providing support to our customers, their families and our communities."
+    }
+  },
+  {
+    "page_no": 10,
+    "unit_id": "p10_g04",
+    "mode": "semantic_group",
+    "block_ids": [
+      "p10_b19",
+      "p10_b20"
+    ],
+    "source_text": "由於2019冠狀病毒病相關的控制措施對新業務銷售造成影響，新業務價值下降至27.65億美元。我們迅速採用\n嶄新的數碼工具，提升業務運作效率，加上近期放寬外出限制，帶動銷售動力強勁復蘇，並延續至2021年初。",
+    "initial_translation": "Due to control measures related to COVID-19 affecting new business sales, new business value declined to USD 2.765 billion. We rapidly adopted innovative digital tools to enhance operational efficiency, and coupled with the recent relaxation of movement restrictions, this drove a strong recovery in sales momentum, which continued into early 2021.",
+    "compact_translation": "COVID-19 control measures impacted new business sales, causing new business value to decline to USD 2.765 billion. We rapidly adopted innovative digital tools to enhance operational efficiency. With the recent relaxation of movement restrictions, sales momentum recovered strongly and continued into early 2021.",
+    "final_translation": "COVID-19 control measures impacted new business sales, causing new business value to decline to USD 2.765 billion. We rapidly adopted innovative digital tools to enhance operational efficiency. With the recent relaxation of movement restrictions, sales momentum recovered strongly and continued into early 2021.",
+    "translation_source": "model_initial",
+    "compact_used": true,
+    "render_result": {
+      "layout_mode": "group_slots",
+      "fit_status": "font_shrink",
+      "font_ratio": 0.723,
+      "rendered_lines": [
+        "COVID-19 control measures impacted new business sales, causing new business value to decline to USD 2.765 billion. We rapidly",
+        "adopted innovative digital tools to enhance operational efficiency. With the recent relaxation of movement restrictions, sales momentum recovered strongly and continued into early 2021."
+      ],
+      "rendered_by_block": {
+        "p10_b19": "COVID-19 control measures impacted new business sales, causing new business value to decline to USD 2.765 billion. We rapidly",
+        "p10_b20": "adopted innovative digital tools to enhance operational efficiency. With the recent relaxation of movement restrictions, sales momentum recovered strongly and continued into early 2021."
+      },
+      "slot_count": 2,
+      "selected_scale": 1.02
+    },
+    "block_outputs": {
+      "p10_b19": "COVID-19 control measures impacted new business sales, causing new business value to decline to USD 2.765 billion. We rapidly",
+      "p10_b20": "adopted innovative digital tools to enhance operational efficiency. With the recent relaxation of movement restrictions, sales momentum recovered strongly and continued into early 2021."
+    }
+  },
+  {
+    "page_no": 10,
+    "unit_id": "p10_b21",
+    "mode": "single_block",
+    "block_ids": [
+      "p10_b21"
+    ],
+    "source_text": "與去年同期比較，2021年首兩個月的新業務價值增長15%。",
+    "initial_translation": "Compared with the same period last year, new business value grew by 15% in the first two months of 2021.",
+    "compact_translation": "New business value grew 15% in the first two months of 2021 versus the same period last year.",
+    "final_translation": "New business value grew 15% in the first two months of 2021 versus the same period last year.",
+    "translation_source": "model_initial",
+    "compact_used": true,
+    "render_result": {
+      "layout_mode": "single_line",
+      "fit_status": "font_shrink",
+      "font_ratio": 0.74,
+      "rendered_lines": [
+        "New business value grew 15% in the first two months of 2021 versus the same period last year."
+      ],
+      "rendered_by_block": {
+        "p10_b21": "New business value grew 15% in the first two months of 2021 versus the same period last year."
+      },
+      "slot_count": 1,
+      "selected_scale": 0.74
+    },
+    "block_outputs": {
+      "p10_b21": "New business value grew 15% in the first two months of 2021 versus the same period last year."
+    }
+  },
+  {
+    "page_no": 10,
+    "unit_id": "p10_g05",
+    "mode": "semantic_group",
+    "block_ids": [
+      "p10_b22",
+      "p10_b23",
+      "p10_b24"
+    ],
+    "source_text": "稅後營運溢利增長5%至59.42億美元，產生的基本自由盈餘則上升7%至58.43億美元，反映我們擁有高質素的\n經常性盈利來源。內涵價值權益創新高，達672億美元。截至2020年12月31日，集團當地資本總和法覆蓋率為\n374%，足證我們雄厚的資本實力和嚴謹的財務管理。",
+    "initial_translation": "Operating profit after tax grew 5% to USD 5.942 billion, with basic free surplus rising 7% to USD 5.843 billion, reflecting our high-quality recurring earnings sources. Embedded value equity reached a record high of USD 67.2 billion. As at 31 December 2020, the Group's local capital total ratio coverage was 374%, demonstrating our strong capital strength and prudent financial management.",
+    "compact_translation": "Operating profit after tax grew 5% to USD 5.942 billion, with basic free surplus rising 7% to USD 5.843 billion, reflecting high-quality recurring earnings. Embedded value equity reached USD 67.2 billion. As at 31 December 2020, the Group's local capital ratio coverage was 374%, demonstrating strong capital strength and prudent financial management.",
+    "final_translation": "Operating profit after tax grew 5% to USD 5.942 billion, with basic free surplus rising 7% to USD 5.843 billion, reflecting high-quality recurring earnings. Embedded value equity reached USD 67.2 billion. As at 31 December 2020, the Group's local capital ratio coverage was 374%, demonstrating strong capital strength and prudent financial management.",
+    "translation_source": "model_initial",
+    "compact_used": true,
+    "render_result": {
+      "layout_mode": "group_slots",
+      "fit_status": "font_shrink",
+      "font_ratio": 0.781,
+      "rendered_lines": [
+        "Operating profit after tax grew 5% to USD 5.942 billion, with basic free surplus rising 7% to USD 5.843 billion, reflecting high-quality",
+        "recurring earnings. Embedded value equity reached USD 67.2 billion. As at 31 December 2020, the Group's local capital ratio coverage",
+        "was 374%, demonstrating strong capital strength and prudent financial management."
+      ],
+      "rendered_by_block": {
+        "p10_b22": "Operating profit after tax grew 5% to USD 5.942 billion, with basic free surplus rising 7% to USD 5.843 billion, reflecting high-quality",
+        "p10_b23": "recurring earnings. Embedded value equity reached USD 67.2 billion. As at 31 December 2020, the Group's local capital ratio coverage",
+        "p10_b24": "was 374%, demonstrating strong capital strength and prudent financial management."
+      },
+      "slot_count": 3,
+      "selected_scale": 1.02
+    },
+    "block_outputs": {
+      "p10_b22": "Operating profit after tax grew 5% to USD 5.942 billion, with basic free surplus rising 7% to USD 5.843 billion, reflecting high-quality",
+      "p10_b23": "recurring earnings. Embedded value equity reached USD 67.2 billion. As at 31 December 2020, the Group's local capital ratio coverage",
+      "p10_b24": "was 374%, demonstrating strong capital strength and prudent financial management."
+    }
+  },
+  {
+    "page_no": 10,
+    "unit_id": "p10_g06",
+    "mode": "semantic_group",
+    "block_ids": [
+      "p10_b25",
+      "p10_b26"
+    ],
+    "source_text": "董事會建議派發末期股息每股100.30港仙，增加7.5%，反映我們的財務業績穩健強韌，同時董事會持續對本集團\n未來前景充滿信心。這使2020年的全年股息達到每股135.30港仙。董事會秉承友邦保險行之已久的審慎、可持續",
+    "initial_translation": "The Board recommends the payment of a final dividend of HK$1.0030 per share, an increase of 7.5%, reflecting the robust and resilient financial performance of our Group, while the Board remains confident in the future prospects of the Group. This brings the full year dividend for 2020 to HK$1.3530 per share. The Board adheres to the prudent and sustainable dividend policy long established by AIA.",
+    "compact_translation": "The Board recommends a final dividend of HK$1.0030 per share, up 7.5%, reflecting robust financial performance and confidence in the Group's future prospects. This brings the full year 2020 dividend to HK$1.3530 per share. The Board maintains AIA's long-established prudent and sustainable dividend policy.",
+    "final_translation": "The Board recommends a final dividend of HK$1.0030 per share, up 7.5%, reflecting robust financial performance and confidence in the Group's future prospects. This brings the full year 2020 dividend to HK$1.3530 per share. The Board maintains AIA's long-established prudent and sustainable dividend policy.",
+    "translation_source": "model_initial",
+    "compact_used": true,
+    "render_result": {
+      "layout_mode": "group_slots",
+      "fit_status": "font_shrink",
+      "font_ratio": 0.798,
+      "rendered_lines": [
+        "The Board recommends a final dividend of HK$1.0030 per share, up 7.5%, reflecting robust financial performance and confidence in the",
+        "Group's future prospects. This brings the full year 2020 dividend to HK$1.3530 per share. The Board maintains AIA's long-established prudent and sustainable dividend policy."
+      ],
+      "rendered_by_block": {
+        "p10_b25": "The Board recommends a final dividend of HK$1.0030 per share, up 7.5%, reflecting robust financial performance and confidence in the",
+        "p10_b26": "Group's future prospects. This brings the full year 2020 dividend to HK$1.3530 per share. The Board maintains AIA's long-established prudent and sustainable dividend policy."
+      },
+      "slot_count": 2,
+      "selected_scale": 1.02
+    },
+    "block_outputs": {
+      "p10_b25": "The Board recommends a final dividend of HK$1.0030 per share, up 7.5%, reflecting robust financial performance and confidence in the",
+      "p10_b26": "Group's future prospects. This brings the full year 2020 dividend to HK$1.3530 per share. The Board maintains AIA's long-established prudent and sustainable dividend policy."
+    }
+  },
+  {
+    "page_no": 10,
+    "unit_id": "p10_b27",
+    "mode": "single_block",
+    "block_ids": [
+      "p10_b27"
+    ],
+    "source_text": "及漸進的派息政策，讓本集團可把握未來的增長機遇，並保持財務靈活性。",
+    "initial_translation": "and a progressive dividend policy, which enables the Group to seize future growth opportunities while maintaining financial flexibility.",
+    "compact_translation": "and a progressive dividend policy that enables the Group to seize future growth opportunities while maintaining financial flexibility.",
+    "final_translation": "and a progressive dividend policy that enables the Group to seize future growth opportunities while maintaining financial flexibility.",
+    "translation_source": "model_initial",
+    "compact_used": true,
+    "render_result": {
+      "layout_mode": "single_line",
+      "fit_status": "font_shrink",
+      "font_ratio": 0.719,
+      "rendered_lines": [
+        "and a progressive dividend policy that enables the Group to seize future growth opportunities while maintaining financial flexibility."
+      ],
+      "rendered_by_block": {
+        "p10_b27": "and a progressive dividend policy that enables the Group to seize future growth opportunities while maintaining financial flexibility."
+      },
+      "slot_count": 1,
+      "selected_scale": 0.719
+    },
+    "block_outputs": {
+      "p10_b27": "and a progressive dividend policy that enables the Group to seize future growth opportunities while maintaining financial flexibility."
+    }
+  },
+  {
+    "page_no": 10,
+    "unit_id": "p10_b28",
+    "mode": "single_block",
+    "block_ids": [
+      "p10_b28"
+    ],
+    "source_text": "008\n友邦保險控股有限公司",
+    "initial_translation": "008 AIA Group Limited",
+    "compact_translation": null,
+    "final_translation": "008 AIA Group Limited",
+    "translation_source": "glossary_linewise",
+    "compact_used": false,
+    "render_result": {
+      "layout_mode": "textbox",
+      "fit_status": "ok",
+      "font_ratio": 1.0,
+      "rendered_lines": [
+        "008 AIA Group Limited"
+      ],
+      "rendered_by_block": {
+        "p10_b28": "008 AIA Group Limited"
+      },
+      "slot_count": 2,
+      "selected_scale": 1.0
+    },
+    "block_outputs": {
+      "p10_b28": "008 AIA Group Limited"
+    }
+  }
+]

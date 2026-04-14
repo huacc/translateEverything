@@ -1,0 +1,30 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p13_b23",
+      "translation": "We aim to position AIA as a global leader in technology application, strengthening connectivity, expanding scale and enhancing efficiency. Deeper insights from data analytics help"
+    },
+    {
+      "block_id": "p13_b24",
+      "translation": "us create unique and personalized customer experiences. Products and services tailored to and reflective of individual needs and lifestyles have transformed public perception of life insurance,"
+    },
+    {
+      "block_id": "p13_b25",
+      "translation": "laying a solid foundation for building long-term relationships with our customers."
+    },
+    {
+      "block_id": "p13_b26",
+      "translation": "Despite 2020 being an unprecedented year, I am more optimistic than ever about the prospects for the Asian life insurance industry and AIA's future. We continue to challenge ourselves,"
+    },
+    {
+      "block_id": "p13_b27",
+      "translation": "develop our strategic priorities, and ensure we can continue to appropriately address evolving customer expectations and financial needs. Our new corporate strategy builds on"
+    },
+    {
+      "block_id": "p13_b28",
+      "translation": "AIA's existing strengths to advance our transformation and deliver the best service to our customers in the future."
+    }
+  ]
+}
+```

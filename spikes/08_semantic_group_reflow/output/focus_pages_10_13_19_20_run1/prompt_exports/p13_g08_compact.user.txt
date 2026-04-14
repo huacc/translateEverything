@@ -1,0 +1,20 @@
+文档场景：上市公司企业年报
+page_no: 13
+unit_id: p13_g08
+unit_mode: semantic_group
+slot_count: 3
+source_text:
+儘管2020年是前所未見的一年，但我對亞洲壽險行業的前景和友邦保險的未來比以往更為樂觀。我們繼續挑戰自
+己，發展我們的優先任務，以確保我們能繼續適切地迎合客戶期望和財務需求的轉變。我們的全新企業策略建基
+於友邦保險的現有實力，推進轉型過程，以在未來為客戶提供最佳的服務。
+current_translation:
+Although 2020 was an unprecedented year, I am more optimistic than ever about the prospects of the Asian life insurance industry and the future of AIA. We continue to challenge ourselves and develop our priorities to ensure we can continue to appropriately meet the changing expectations and financial needs of our customers. Our new corporate strategy is built on AIA's existing strengths, advancing the transformation process to provide the best service to our customers in the future.
+返回格式:
+{
+  "translations": [
+    {
+      "unit_id": "p13_g08",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

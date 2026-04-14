@@ -1,0 +1,14 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p10_b26",
+      "translation": "We are confident about the future prospects. This resulted in a full year dividend of HK135.30 cents per share for 2020. The Board adheres to AIA's long-established prudent and sustainable"
+    },
+    {
+      "block_id": "p10_b27",
+      "translation": "and progressive dividend policy, which enables the Group to capitalize on future growth opportunities while maintaining financial flexibility."
+    }
+  ]
+}
+```

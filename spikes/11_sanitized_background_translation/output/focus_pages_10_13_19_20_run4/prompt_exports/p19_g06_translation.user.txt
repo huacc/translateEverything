@@ -1,0 +1,86 @@
+文档场景：上市公司企业年报。
+请优先复用 document_background 和 matched_terms 中提供的标准写法。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "direction": "Traditional Chinese -> English"
+  },
+  "document_background": {
+    "global_profile": {
+      "company_name_target": "AIA GROUP LIMITED",
+      "industry": "Life Insurance",
+      "report_type": "annual_report",
+      "report_year": 2020
+    },
+    "term_usage_mode": "table",
+    "page_sections": [
+      {
+        "source_section": "集團首席財務總監回顧",
+        "target_section": "Group Chief Financial Officer's Review",
+        "content_type": "cfo_review",
+        "page_range": [
+          18,
+          30
+        ]
+      }
+    ],
+    "roles": [],
+    "terms": [
+      {
+        "source": "集團當地資本總和法覆蓋率",
+        "target": "Group LCSM cover ratio"
+      }
+    ],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "Use established financial abbreviations for table labels when provided.",
+      "Keep row and column semantics unchanged.",
+      "Use n/m for 無意義."
+    ]
+  },
+  "matched_terms": [
+    {
+      "source": "集團當地資本總和法覆蓋率",
+      "target": "Group LCSM cover ratio"
+    },
+    {
+      "source": "友邦保險",
+      "target": "AIA"
+    }
+  ],
+  "current_unit": {
+    "page_no": 19,
+    "unit_id": "p19_g06",
+    "unit_mode": "semantic_group",
+    "block_types": [
+      "body",
+      "body",
+      "body"
+    ],
+    "blocks": [
+      {
+        "block_id": "p19_b21",
+        "source_text": "於2020年12月31日，我們的主要營運公司友邦保險有限公司（AIA Co.）的償付能力充足率仍然非常強勁，為"
+      },
+      {
+        "block_id": "p19_b22",
+        "source_text": "489%。於2020年12月31日，在新的集團監管框架下，集團當地資本總和法覆蓋率為374%。日後，我們將披露集"
+      },
+      {
+        "block_id": "p19_b23",
+        "source_text": "團當地資本總和法覆蓋率，作為衡量本集團監管償付能力的主要指標。"
+      }
+    ],
+    "joined_source_text": "於2020年12月31日，我們的主要營運公司友邦保險有限公司（AIA Co.）的償付能力充足率仍然非常強勁，為\n489%。於2020年12月31日，在新的集團監管框架下，集團當地資本總和法覆蓋率為374%。日後，我們將披露集\n團當地資本總和法覆蓋率，作為衡量本集團監管償付能力的主要指標。"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p19_g06",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

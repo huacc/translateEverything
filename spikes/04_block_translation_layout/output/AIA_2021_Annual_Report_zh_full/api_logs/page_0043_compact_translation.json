@@ -1,0 +1,21 @@
+{
+  "content": [
+    {
+      "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p43_b1\",\n      \"translation\": \"AIA Singapore achieved strong H2 recovery. New business value rose 56% vs H1 2020, up\"\n    },\n    {\n      \"block_id\": \"p43_b2\",\n      \"translation\": \"12% YoY. Full-year declined 5% as agent channel growth offset partner distribution declines,\"\n    },\n    {\n      \"block_id\": \"p43_b3\",\n      \"translation\": \"especially offshore sales hit by border controls. Better product mix and higher volumes reduced underwriting overruns,\"\n    },\n    {\n      \"block_id\": \"p43_b5\",\n      \"translation\": \"boosting H2 profit margin recovery.\"\n    },\n    {\n      \"block_id\": \"p43_b6\",\n      \"translation\": \"Malaysia H2 new business value up 72% vs H1, double-digit vs H2 2019.\"\n    },\n    {\n      \"block_id\": \"p43_b8\",\n      \"translation\": \"Improved mix and lower underwriting overruns lifted H2 margin 16.6pp; full-year 59.9%.\"\n    },\n    {\n      \"block_id\": \"p43_b10\",\n      \"translation\": \"Other markets H2 up 10% vs H1; South Korea and Indonesia recovered well. Overall,\"\n    },\n    {\n      \"block_id\": \"p43_b11\",\n      \"translation\": \"New Zealand, Philippines, Indonesia declined, down 4% full-year. Other markets positive. vs\"\n    },\n    {\n      \"block_id\": \"p43_b13\",\n      \"translation\": \"2020 Report\\n041\"\n    }\n  ]\n}\n```",
+      "type": "text"
+    }
+  ],
+  "conversationId": "d87912e1-e11b-499a-81d4-5162e687be48",
+  "conversation_id": "d87912e1-e11b-499a-81d4-5162e687be48",
+  "id": "d87912e1-e11b-499a-81d4-5162e687be48",
+  "model": "claude-3-5-sonnet-20241022",
+  "role": "assistant",
+  "stop_reason": "end_turn",
+  "type": "message",
+  "usage": {
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 2004,
+    "output_tokens": 379
+  }
+}

@@ -1,0 +1,100 @@
+文档场景：上市公司企业年报
+请优先使用背景中的标准叫法和术语。
+{
+  "document_background": {
+    "global_profile": {
+      "company_name_target": "AIA GROUP LIMITED",
+      "industry": "Life Insurance",
+      "report_type": "annual_report",
+      "report_year": 2020,
+      "style_keywords": [
+        "corporate governance",
+        "financial performance",
+        "stakeholder communication",
+        "ESG commitment"
+      ]
+    },
+    "page_sections": [
+      {
+        "target_section": "Chairman's Statement",
+        "content_type": "chairman_statement",
+        "page_range": [
+          10,
+          11
+        ]
+      },
+      {
+        "target_section": "Overview",
+        "content_type": "executive_summary",
+        "page_range": [
+          8,
+          16
+        ]
+      }
+    ],
+    "roles": [
+      {
+        "source": "謝仕榮先生",
+        "target": "Mr. Tse Sze-wing",
+        "role": "Independent Non-Executive Chairman"
+      }
+    ],
+    "terms": [
+      {
+        "source": "2019冠狀病毒病",
+        "target": "COVID-19",
+        "abbreviation": "",
+        "context": "external_event",
+        "confidence": "high"
+      }
+    ],
+    "style_rules": [
+      "Preserve financial terminology consistency",
+      "Use formal corporate register throughout",
+      "Maintain parallel structure in lists and tables",
+      "Use active voice where source permits",
+      "Translate corporate mission statements with care",
+      "Preserve temporal references and context",
+      "Translate market/geographic references consistently"
+    ]
+  },
+  "matched_terms": [
+    {
+      "source": "2019冠狀病毒病",
+      "target": "COVID-19"
+    }
+  ],
+  "current_unit": {
+    "page_no": 10,
+    "unit_id": "p10_g02",
+    "unit_mode": "semantic_group",
+    "block_types": [
+      "label",
+      "label",
+      "label"
+    ],
+    "blocks": [
+      {
+        "block_id": "p10_b9",
+        "source_text": "在2019冠狀病毒病大流行期間，"
+      },
+      {
+        "block_id": "p10_b10",
+        "source_text": "我們的同事關懷社群，克盡己職，"
+      },
+      {
+        "block_id": "p10_b11",
+        "source_text": "持續為數以百萬計的客戶"
+      }
+    ],
+    "joined_source_text": "在2019冠狀病毒病大流行期間，\n我們的同事關懷社群，克盡己職，\n持續為數以百萬計的客戶"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p10_g02",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

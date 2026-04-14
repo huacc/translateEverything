@@ -1,0 +1,34 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p19_b22",
+      "translation": "489%. As at 31 December 2020, under the new Group regulatory framework, the Group's local capital aggregation method coverage ratio was 374%. Going forward, we will disclose the Group's"
+    },
+    {
+      "block_id": "p19_b23",
+      "translation": "local capital aggregation method coverage ratio as the primary measure of the Group's regulatory solvency."
+    },
+    {
+      "block_id": "p19_b24",
+      "translation": "The Board recommends an increase in the final dividend of 7.5% to HK$1.0030 per share, subject to approval by shareholders at the forthcoming Annual General Meeting. This brings the total"
+    },
+    {
+      "block_id": "p19_b25",
+      "translation": "dividend for 2020 to HK$1.3530 per share, representing an increase of 6.9% compared to the total dividend for 2019. This reflects AIA's long-established prudent, sustainable"
+    },
+    {
+      "block_id": "p19_b26",
+      "translation": "and progressive dividend policy, enabling the Group to capture future growth opportunities while maintaining financial flexibility."
+    },
+    {
+      "block_id": "p19_b27",
+      "translation": "We remain confident in AIA's business opportunities across the Asia-Pacific region. We will continue to focus on capital investment to achieve profitable new business"
+    },
+    {
+      "block_id": "p19_b28",
+      "translation": "growth, while leveraging our competitive advantages, maintaining prudent financial management and delivering long-term shareholder value."
+    }
+  ]
+}
+```

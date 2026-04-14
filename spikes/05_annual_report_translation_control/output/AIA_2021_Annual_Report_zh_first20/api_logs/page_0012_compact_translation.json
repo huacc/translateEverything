@@ -1,0 +1,21 @@
+{
+  "content": [
+    {
+      "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p12_b3\",\n      \"translation\": \"AIA has delivered exceptionally strong results, reflecting our\"\n    },\n    {\n      \"block_id\": \"p12_b4\",\n      \"translation\": \"outstanding team's relentless efforts. Our employees respond swiftly\"\n    },\n    {\n      \"block_id\": \"p12_b5\",\n      \"translation\": \"and flexibly to rapidly changing business environments, which fills me with pride.\"\n    },\n    {\n      \"block_id\": \"p12_b6\",\n      \"translation\": \"With unwavering commitment, we help customers navigate uncertain\"\n    },\n    {\n      \"block_id\": \"p12_b7\",\n      \"translation\": \"environments while accelerating our strategic plans.\"\n    },\n    {\n      \"block_id\": \"p12_b8\",\n      \"translation\": \"Mr. Lee Yuen Cheung\\nGroup Chief Executive Officer\\nand President\"\n    }\n  ]\n}\n```",
+      "type": "text"
+    }
+  ],
+  "conversationId": "3c99510b-87a8-44de-ab63-c09ffaeebd81",
+  "conversation_id": "3c99510b-87a8-44de-ab63-c09ffaeebd81",
+  "id": "3c99510b-87a8-44de-ab63-c09ffaeebd81",
+  "model": "claude-3-5-sonnet-20241022",
+  "role": "assistant",
+  "stop_reason": "end_turn",
+  "type": "message",
+  "usage": {
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1585,
+    "output_tokens": 223
+  }
+}

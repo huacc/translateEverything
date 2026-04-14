@@ -1,0 +1,10 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p18_b14",
+      "translation": "Further growth."
+    }
+  ]
+}
+```

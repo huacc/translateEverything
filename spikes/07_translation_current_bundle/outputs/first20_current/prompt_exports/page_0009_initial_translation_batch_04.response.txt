@@ -1,0 +1,26 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p9_b33",
+      "translation": "(2) New business value represents the present value, calculated at the time of sale, of the anticipated after-tax statutory profits to be generated in the future from new business sold during the period, less the cost of funds required to support the new business in excess of statutory reserves."
+    },
+    {
+      "block_id": "p9_b34",
+      "translation": "(3) Annualized new premiums is a measure of the level of new business, calculated as the sum of 100% of annualized first year premiums and 10% of single premiums, before reinsurance ceded."
+    },
+    {
+      "block_id": "p9_b35",
+      "translation": "(4) The operating profit after tax presented has been stated after deducting non-controlling interests."
+    },
+    {
+      "block_id": "p9_b36",
+      "translation": "(5) Total weighted premiums written comprise 100% of renewal premiums, 100% of first year premiums and 10% of single premiums, before reinsurance ceded."
+    },
+    {
+      "block_id": "p9_b37",
+      "translation": "(9) AIA has changed its International Financial Reporting Standards accounting treatment for the recognition and measurement of insurance contract liabilities for its Hong Kong participating business to reflect expected changes in policyholder dividends. Comparative information for 2019 has been adjusted accordingly. Comparative information for 2018 and prior years has not been restated."
+    }
+  ]
+}
+```

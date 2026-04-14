@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p13_g05",
+      "translation": "AIA possesses multiple distinctive competitive advantages that set us apart in a highly competitive market. With decades of operations across Asia, we have built an unparalleled platform within the region and hold leading positions in most of the markets where we conduct business. Our unwavering and complete focus on the Asian market enables us to capture growth opportunities comprehensively across the world's most attractive life insurance region. This strategic focus, combined with our leadership team's extensive experience in Asia and our employees' exceptional capabilities, has been a key driver of our outstanding performance."
+    }
+  ]
+}
+```

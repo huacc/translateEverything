@@ -1,0 +1,34 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p13_b1",
+      "translation": "AIA is a trusted partner for our customers, enabling them to focus on financial security and family protection with peace of mind. Despite the far-reaching impact of the COVID-19 pandemic,"
+    },
+    {
+      "block_id": "p13_b2",
+      "translation": "I am deeply grateful to our employees, agents and partners for their adaptability to new ways of working and their commitment to ensuring uninterrupted support for our customers"
+    },
+    {
+      "block_id": "p13_b3",
+      "translation": "while demonstrating flexibility and dedication to their responsibilities."
+    },
+    {
+      "block_id": "p13_b5",
+      "translation": "Since the onset of the pandemic, our business teams across the Group have responded swiftly and actively worked to mitigate the impact on our communities while ensuring employee safety. The Group has"
+    },
+    {
+      "block_id": "p13_b6",
+      "translation": "implemented a comprehensive range of measures, including financial support, provision of medical supplies, complimentary coverage, access to healthcare resources, streamlined service processes and"
+    },
+    {
+      "block_id": "p13_b7",
+      "translation": "accelerated claims payments, which I am proud of. We continue to find every reason to pay claims, and during the year we paid out over USD 16 billion in insurance"
+    },
+    {
+      "block_id": "p13_b8",
+      "translation": "benefits and claims, providing our customers with critical financial protection."
+    }
+  ]
+}
+```

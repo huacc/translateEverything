@@ -1,0 +1,89 @@
+﻿请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。
+要求高保真、正式、可出版，不要摘要，不要解释。
+术语表和动态文档背景优先于自由翻译。
+只输出严格 JSON。
+{
+  "page_no": 6,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "relevant_terms": [
+    {
+      "source": "友邦保險",
+      "target": "AIA"
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "p6_b1",
+      "block_type": "label",
+      "source_text": "友邦保險今天的業務由史戴",
+      "line_count": 1,
+      "char_count": 12,
+      "region": "middle",
+      "font_size_avg": 10.0
+    },
+    {
+      "block_id": "p6_b2",
+      "block_type": "label",
+      "source_text": "長遠的關係，這種關係很多時更能跨越",
+      "line_count": 1,
+      "char_count": 17,
+      "region": "middle",
+      "font_size_avg": 10.0
+    },
+    {
+      "block_id": "p6_b3",
+      "block_type": "label",
+      "source_text": "先生 (Cornelius Vander Starr)",
+      "line_count": 1,
+      "char_count": 27,
+      "region": "middle",
+      "font_size_avg": 10.5
+    },
+    {
+      "block_id": "p6_b4",
+      "block_type": "label",
+      "source_text": "世代。",
+      "line_count": 1,
+      "char_count": 3,
+      "region": "middle",
+      "font_size_avg": 10.0
+    },
+    {
+      "block_id": "p6_b5",
+      "block_type": "label",
+      "source_text": "始創於1919年的上海。",
+      "line_count": 1,
+      "char_count": 12,
+      "region": "middle",
+      "font_size_avg": 10.25
+    },
+    {
+      "block_id": "p6_b6",
+      "block_type": "label",
+      "source_text": "秉承我們為客戶和社區帶來顯著和正面",
+      "line_count": 1,
+      "char_count": 17,
+      "region": "middle",
+      "font_size_avg": 10.0
+    },
+    {
+      "block_id": "p6_b7",
+      "block_type": "label",
+      "source_text": "自此，友邦保險發展成為全球最大的",
+      "line_count": 1,
+      "char_count": 16,
+      "region": "middle",
+      "font_size_avg": 10.0
+    },
+    {
+      "block_id": "p6_b8",
+      "block_type": "label",
+      "source_text": "影響的承諾，友邦保險的目標是協助大",
+      "line_count": 1,
+      "char_count": 17,
+      "region": "middle",
+      "font_size_avg": 10.0
+    }
+  ]
+}

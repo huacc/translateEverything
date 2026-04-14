@@ -1,0 +1,25 @@
+﻿以下文本块的上一轮译文不符合目标语言要求，请重新给出目标语言译文。
+只输出严格 JSON。
+{
+  "page_no": 19,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "problem_blocks": [
+    {
+      "block_id": "p19_b11",
+      "source_text": "運差異5.49億美元，原因在於與我們的內涵價值假設相比，我們的整體經驗持續維持正面。",
+      "current_translation": "",
+      "block_type": "body",
+      "line_count": 1,
+      "char_count": 42
+    },
+    {
+      "block_id": "p19_b17",
+      "source_text": "改善，而本集團的續保率為95%。",
+      "current_translation": "",
+      "block_type": "label",
+      "line_count": 1,
+      "char_count": 16
+    }
+  ]
+}

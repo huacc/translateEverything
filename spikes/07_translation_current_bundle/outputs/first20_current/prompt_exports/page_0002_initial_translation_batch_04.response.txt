@@ -1,0 +1,38 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p2_b28",
+      "translation": "needs. In addition, the Group also provides"
+    },
+    {
+      "block_id": "p2_b29",
+      "translation": "083 Board of Directors' Report"
+    },
+    {
+      "block_id": "p2_b30",
+      "translation": "Special Administrative Region, Thailand, Singapore, Malaysia,"
+    },
+    {
+      "block_id": "p2_b31",
+      "translation": "employee benefits, credit insurance and retirement protection"
+    },
+    {
+      "block_id": "p2_b32",
+      "translation": "096 Corporate Governance Report"
+    },
+    {
+      "block_id": "p2_b33",
+      "translation": "Australia, Cambodia, Indonesia, Myanmar, Philippines,"
+    },
+    {
+      "block_id": "p2_b34",
+      "translation": "services. The Group operates through an extensive dedicated"
+    },
+    {
+      "block_id": "p2_b35",
+      "translation": "110 Remuneration Report"
+    }
+  ]
+}
+```

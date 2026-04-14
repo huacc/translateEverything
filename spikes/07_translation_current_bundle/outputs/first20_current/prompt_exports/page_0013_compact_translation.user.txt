@@ -1,0 +1,370 @@
+﻿以下文本块版面过紧。请在不改变核心含义和正式风格的前提下，仅做最小必要压缩。
+不要摘要，不要解释，只输出严格 JSON。
+{
+  "page_no": 13,
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "problem_blocks": [
+    {
+      "block_id": "p13_b1",
+      "block_type": "body",
+      "source_text": "友邦保險是客戶誠可信賴的夥伴，讓客戶在關注財務安全和家庭保障時仍可安心無憂。儘管2019冠狀病毒病大",
+      "current_translation": "AIA is a trusted partner for our customers, enabling them to focus on financial security and family protection with peace of mind. Despite the far-reaching impact of the COVID-19 pandemic,",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.716,
+      "line_count": 1,
+      "char_count": 50,
+      "bbox": [
+        68.03,
+        94.7,
+        524.09,
+        106.65
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p13_b2",
+      "block_type": "body",
+      "source_text": "流行的影響深遠，但我衷心感謝我們的員工、代理和合作夥伴在適應新工作方式並確保為客戶提供無間斷的支援",
+      "current_translation": "I am deeply grateful to our employees, agents and partners for their adaptability to new ways of working and their commitment to ensuring uninterrupted support for our customers",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.78,
+      "line_count": 1,
+      "char_count": 49,
+      "bbox": [
+        68.03,
+        110.7,
+        521.48,
+        122.65
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p13_b5",
+      "block_type": "body",
+      "source_text": "自疫情大流行開始以來，本集團的各業務團隊反應迅速，積極協助紓緩對社區的影響，同時確保員工安全。本集",
+      "current_translation": "Since the onset of the pandemic, our business teams across the Group have responded swiftly and actively worked to mitigate the impact on our communities while ensuring employee safety. The Group has",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.673,
+      "line_count": 1,
+      "char_count": 49,
+      "bbox": [
+        68.03,
+        158.71,
+        521.41,
+        170.66
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p13_b6",
+      "block_type": "body",
+      "source_text": "團為此廣泛採取多項措拖，包括財政支持、提供醫療物資、免費保障覆蓋、獲取醫療保健資源、精簡服務流程和",
+      "current_translation": "implemented a comprehensive range of measures, including financial support, provision of medical supplies, complimentary coverage, access to healthcare resources, streamlined service processes and",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.687,
+      "line_count": 1,
+      "char_count": 49,
+      "bbox": [
+        68.03,
+        174.71,
+        521.58,
+        186.66
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p13_b8",
+      "block_type": "label",
+      "source_text": "給付及理賠，為客戶提供極其重要的財務保障。",
+      "current_translation": "benefits and claims, providing our customers with critical financial protection.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.747,
+      "line_count": 1,
+      "char_count": 21,
+      "bbox": [
+        68.03,
+        206.71,
+        261.53,
+        218.66
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p13_b9",
+      "block_type": "body",
+      "source_text": "儘管為遏制2019冠狀病毒病傳播的措施導致新業務價值減少至27.65億美元，但隨著外出限制放寬，銷售動力轉",
+      "current_translation": "Although measures to contain the spread of COVID-19 resulted in a decrease in new business value to US$2.765 billion, as lockdown restrictions eased, sales momentum turned",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.754,
+      "line_count": 1,
+      "char_count": 53,
+      "bbox": [
+        68.03,
+        238.72,
+        521.52,
+        250.67
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p13_b12",
+      "block_type": "body",
+      "source_text": "增長7%。截至2020年12月31日，內涵價值權益創新高，達672億美元，集團當地資本總和法覆蓋率為374%，足",
+      "current_translation": "the period grew 7%. As at 31 December 2020, embedded value equity reached a record high of US$67.2 billion, with the Group's local capital adequacy ratio at 374%, demonstrating",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.766,
+      "line_count": 1,
+      "char_count": 56,
+      "bbox": [
+        68.03,
+        286.72,
+        521.59,
+        298.67
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p13_b14",
+      "block_type": "body",
+      "source_text": "董事會建議2020年末期股息增加7.5%至每股100.30港仙。這秉承友邦保險行之已久的審慎、可持續及漸進的派息",
+      "current_translation": "The Board recommends a final dividend for 2020 increased by 7.5% to HK$1.0030 per share. This reflects AIA's long-standing prudent, sustainable and progressive dividend",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.775,
+      "line_count": 1,
+      "char_count": 56,
+      "bbox": [
+        68.04,
+        334.73,
+        521.51,
+        346.68
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p13_b15",
+      "block_type": "label",
+      "source_text": "政策，讓本集團可把握未來的增長機遇，並且保持財務靈活性。",
+      "current_translation": "policy, enabling the Group to capture future growth opportunities while maintaining financial flexibility.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.782,
+      "line_count": 1,
+      "char_count": 28,
+      "bbox": [
+        68.04,
+        350.73,
+        326.12,
+        362.68
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p13_b17",
+      "block_type": "body",
+      "source_text": "平台，並於我們業務所在的大部分市場雄踞領導地位。我們始終如一地百分百專注於亞洲市場，有助我們在全球",
+      "current_translation": "platform in the region and hold leading positions in most of the markets where we operate. Our consistent and exclusive focus on the Asian market enables us to capture growth opportunities across the world's",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.639,
+      "line_count": 1,
+      "char_count": 49,
+      "bbox": [
+        68.04,
+        398.74,
+        521.46,
+        410.69
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p13_b19",
+      "block_type": "label",
+      "source_text": "一直是我們表現卓越的重要動力。",
+      "current_translation": "has been a key driver of our outstanding performance.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.779,
+      "line_count": 1,
+      "char_count": 15,
+      "bbox": [
+        68.04,
+        430.74,
+        206.19,
+        442.69
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p13_b20",
+      "block_type": "body",
+      "source_text": "我們無可比擬的分銷實力能直接接觸客戶，並提供高質素的專業建議，協助滿足亞洲消費者龐大且日益增長的長",
+      "current_translation": "Our unparalleled distribution strength enables direct customer engagement and the delivery of high-quality professional advice to help meet the substantial and growing long-term",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.754,
+      "line_count": 1,
+      "char_count": 49,
+      "bbox": [
+        68.04,
+        462.74,
+        521.5,
+        474.7
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p13_b21",
+      "block_type": "body",
+      "source_text": "期保障和儲蓄需求。如今大眾比以往更期望企業能以符合長遠可持續發展的方式應對他們的需要。友邦保險擁有",
+      "current_translation": "protection and savings needs of Asian consumers. Today, the public increasingly expects companies to address their needs in ways that support long-term sustainability. AIA possesses a",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.745,
+      "line_count": 1,
+      "char_count": 49,
+      "bbox": [
+        68.04,
+        478.75,
+        521.5,
+        490.7
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p13_b23",
+      "block_type": "body",
+      "source_text": "我們旨在使友邦保險在科技應用方面領先全球，加強互聯互通，擴大規模和提升效率。更深入瞭解數據分析有助",
+      "current_translation": "We aim to position AIA as a global leader in technology application, strengthening connectivity, expanding scale and enhancing efficiency. Deeper insights from data analytics help",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.749,
+      "line_count": 1,
+      "char_count": 49,
+      "bbox": [
+        68.04,
+        526.75,
+        521.46,
+        538.7
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p13_b24",
+      "block_type": "body",
+      "source_text": "我們締造獨特和個人化的客戶體驗。切合和反映個人需求和生活方式的產品及服務，改變了大眾對人壽保險的看",
+      "current_translation": "us create unique and personalized customer experiences. Products and services tailored to and reflective of individual needs and lifestyles have transformed public perception of life insurance,",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.725,
+      "line_count": 1,
+      "char_count": 49,
+      "bbox": [
+        68.04,
+        542.75,
+        521.5,
+        554.71
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p13_b25",
+      "block_type": "label",
+      "source_text": "法，為我們與客戶建立長遠關係奠定堅實的基礎。",
+      "current_translation": "laying a solid foundation for building long-term relationships with our customers.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.752,
+      "line_count": 1,
+      "char_count": 22,
+      "bbox": [
+        68.04,
+        558.76,
+        270.77,
+        570.71
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p13_b26",
+      "block_type": "body",
+      "source_text": "儘管2020年是前所未見的一年，但我對亞洲壽險行業的前景和友邦保險的未來比以往更為樂觀。我們繼續挑戰自",
+      "current_translation": "Despite 2020 being an unprecedented year, I am more optimistic than ever about the prospects for the Asian life insurance industry and AIA's future. We continue to challenge ourselves,",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.721,
+      "line_count": 1,
+      "char_count": 51,
+      "bbox": [
+        68.04,
+        590.76,
+        521.57,
+        602.71
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p13_b27",
+      "block_type": "body",
+      "source_text": "己，發展我們的優先任務，以確保我們能繼續適切地迎合客戶期望和財務需求的轉變。我們的全新企業策略建基",
+      "current_translation": "develop our strategic priorities, and ensure we can continue to appropriately address evolving customer expectations and financial needs. Our new corporate strategy builds on",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.793,
+      "line_count": 1,
+      "char_count": 49,
+      "bbox": [
+        68.04,
+        606.76,
+        521.46,
+        618.71
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    },
+    {
+      "block_id": "p13_b28",
+      "block_type": "body",
+      "source_text": "於友邦保險的現有實力，推進轉型過程，以在未來為客戶提供最佳的服務。",
+      "current_translation": "AIA's existing strengths to advance our transformation and deliver the best service to our customers in the future.",
+      "translation_source": "model_initial",
+      "fit_status": "font_shrink",
+      "current_font_ratio": 0.797,
+      "line_count": 1,
+      "char_count": 33,
+      "bbox": [
+        68.04,
+        622.76,
+        372.24,
+        634.72
+      ],
+      "font_size_avg": 9.0,
+      "suggested_font": "F_ARIALN"
+    }
+  ]
+}

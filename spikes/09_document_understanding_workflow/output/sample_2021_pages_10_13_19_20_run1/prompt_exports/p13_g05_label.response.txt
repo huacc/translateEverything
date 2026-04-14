@@ -1,0 +1,36 @@
+```json
+{
+  "unit_id": "p13_g05",
+  "page_no": 13,
+  "section_id": "Group Chief Executive and President's Report",
+  "content_type": "competitive_positioning",
+  "speaker_role": "ceo",
+  "topic_tags": [
+    "market_leadership",
+    "regional_presence",
+    "competitive_advantage",
+    "asia_focus",
+    "business_strategy"
+  ],
+  "term_hits": [
+    {
+      "source_term": "亞洲",
+      "target_term": "Asia",
+      "context": "geographic_reference"
+    }
+  ],
+  "needs_context": true,
+  "context_scope": "section",
+  "risk_level": "medium",
+  "risk_flags": [
+    "geographic_market_names",
+    "superlative_claims"
+  ],
+  "translation_constraints": [
+    "Preserve formal corporate register in strategic positioning statement",
+    "Maintain parallel structure in enumerated advantages",
+    "Translate market leadership claims with precision; verify against company's English materials",
+    "Preserve temporal reference '數十載' with appropriate English equivalent"
+  ]
+}
+```

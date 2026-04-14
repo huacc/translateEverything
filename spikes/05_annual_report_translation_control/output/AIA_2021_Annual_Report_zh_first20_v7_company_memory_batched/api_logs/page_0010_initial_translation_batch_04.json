@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "stage": "initial_translation",
+    "page_no": 10
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 2200,
+    "temperature": 0,
+    "system": "你是一个用于 PDF 原位回填的专业翻译助手。\n你的任务不是总结，不是改写，不是润色，而是生成适合放回原始版面的高保真译文。\n只返回 JSON，不要输出任何解释。\n\n文档场景：上市公司年度报告翻译与逐页版面回填\n文档类型：Annual Report / 正式披露文件\n文档特征：混合标题、正文、图表标签、侧边导航、页眉页脚；强调术语一致性和数字准确性\n目标风格：正式、审慎、可披露、接近已发布英文年报\n目标读者：投资者、监管、审计、董事会、公开市场读者\n\n动态文档背景：\n- 章节线索：我們的目標 | 目錄 | 友邦保險一覽 | 2020 年里程碑 | 概覽 | 2020年業績一覽(1) | 2020年按市場分部劃分 | 主席報告 | 集團首席執行官兼總裁報告 | 財務及營運回顧\n- 导航线索：概覽 | 財務及營運回顧 | 企業管治 | 其他資料 | 財務報表\n- 高频术语：友邦保險 -> AIA | 新業務價值 -> new business value | 稅後營運溢利 -> operating profit after tax | 內涵價值 -> embedded value | 有效保單組合 -> in-force portfolio | 代理渠道 -> agency channel | 夥伴分銷 -> partnership distribution | 銀行保險 -> bancassurance | 中國內地 -> Mainland China | 中國台灣 -> Taiwan | 新加坡 -> Singapore | 泰國 -> Thailand\n- 这是上市公司年度报告语境，译文要保持年报/财报正式书面表达，不使用口语化或营销化措辞。\n- 文档包含财务表格、比率和金额，数字、百分比、币种、年份及缩写必须严格保留。\n- 文档包含目录或侧边导航，导航项宜使用固定、稳定、可复用的正式译法。\n- 文档存在大量章节标题，标题应优先贴近正式已发布年报的写法，并尽量避免不必要换行。\n- 公司历史语料：AIA Group\n- 历史固定标题参考（只复用译法语义，不强制大小写和换行）：主席報告 -> Chairman’s Statement\n- 优先沿用该公司历史年报中已经稳定出现的栏目标题、导航名和管理层头衔译法。\n- 若当前页面与历史年报中的页面形态接近，应优先参考该公司惯用的标题长度、表格标签写法和正式披露语气。\n- 若历史英文标题采用全大写或特殊分行展示，仅借鉴其正式措辞，不强制沿用大小写和换行样式。\n- 历史近似页面：\n-   2020 p10 [dense_narrative] 主席報告\n-   2022 p14 [showcase_narrative] 主席報告\n-   2023 p18 [showcase_narrative] 主席報告\n\n任务优先级：\n- 先保真，再适配版面；只有放不下时才做最小必要压缩\n- 标题、栏目名、导航项、图表标签优先保持正式固定表达\n- 正文保持年报语体，不改写为摘要或分析师速记\n- 数值、百分比、货币、年份、实体名必须准确\n- 术语表与模式规则优先于自由翻译\n\n禁止项：\n- 禁止摘要化、口语化、营销化、投研笔记化\n- 禁止随意缩写正式头衔、栏目名和管理层报告标题\n- 禁止改写受保护的数字、日期、币种、页码和图表标签\n- 禁止把侧边导航或页脚当作普通正文处理\n\n受保护信息：\n- 数字\n- 百分比\n- 货币\n- 年份\n- 日期\n- 专有名词\n- 公司名\n- 人名\n- 地名\n- 图表微标签\n- 页码\n\n块类型规则：\n- heading: 优先正式固定表达，不随意缩写，尽量保持单行。\n- body: 保持正式年报语体，语义完整，不压成摘要。\n- label: 保持短标签风格，简短但不丢关键信息。\n- sidebar_nav: 逐项稳定翻译，保持导航语义，不自由改写。\n- chart_label: 优先保护数字、百分比、单位和短标签颗粒度。\n- footer: 页码、公司名、年报名优先走固定译法或保护规则。\n\n硬约束：\n- 不要摘要，不要口语化，不要投研笔记化，不要营销化。\n- 不要把正式标题随意缩写成 CEO、NBV、YoY、H2 等写法，除非原文本身就是这种写法。\n- 标题、栏目名、导航项、图表标签、页眉页脚必须保持正式、稳定、可出版。\n- 数字、百分比、货币、年份、专有名词、公司名、人名、地名必须准确。\n- 如果译文用于上市公司年报，要优先贴近年报/财报正式表达，不使用聊天式表达。\n- block_id 必须原样保留。\n- 返回格式：{\"translations\": [{\"block_id\": \"...\", \"translation\": \"...\"}]}\n",
+    "messages": [
+      {
+        "role": "user",
+        "content": "请将以下文本块从源语言翻译为目标语言，用于上市公司年报 PDF 的原位回填。\n要求高保真、正式、可出版，不要摘要，不要解释。\n术语表和动态文档背景优先于自由翻译。\n只输出严格 JSON。\n{\n  \"page_no\": 10,\n  \"source_language\": \"Traditional Chinese\",\n  \"target_language\": \"English\",\n  \"relevant_terms\": [\n    {\n      \"source\": \"友邦保險\",\n      \"target\": \"AIA\"\n    }\n  ],\n  \"blocks\": [\n    {\n      \"block_id\": \"p10_b26\",\n      \"block_type\": \"body\",\n      \"source_text\": \"未來前景充滿信心。這使2020年的全年股息達到每股135.30港仙。董事會秉承友邦保險行之已久的審慎、可持續\",\n      \"line_count\": 1,\n      \"char_count\": 54,\n      \"region\": \"middle\",\n      \"font_size_avg\": 9.0\n    },\n    {\n      \"block_id\": \"p10_b27\",\n      \"block_type\": \"footer\",\n      \"source_text\": \"及漸進的派息政策，讓本集團可把握未來的增長機遇，並保持財務靈活性。\",\n      \"line_count\": 1,\n      \"char_count\": 33,\n      \"region\": \"bottom\",\n      \"font_size_avg\": 9.0\n    }\n  ]\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p10_b26\",\n      \"translation\": \"We are confident about the future prospects. This resulted in a full year dividend of HK135.30 cents per share for 2020. The Board adheres to AIA's long-established prudent and sustainable\"\n    },\n    {\n      \"block_id\": \"p10_b27\",\n      \"translation\": \"and progressive dividend policy, which enables the Group to capitalize on future growth opportunities while maintaining financial flexibility.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "a9b487fe-7316-4377-9aaa-04ac8e97e419",
+    "conversation_id": "a9b487fe-7316-4377-9aaa-04ac8e97e419",
+    "id": "a9b487fe-7316-4377-9aaa-04ac8e97e419",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 2094,
+      "output_tokens": 122
+    }
+  }
+}

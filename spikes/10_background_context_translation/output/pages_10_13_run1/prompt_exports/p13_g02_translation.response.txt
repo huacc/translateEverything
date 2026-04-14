@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p13_g02",
+      "translation": "Since the onset of the pandemic, our business teams across the Group have responded swiftly and actively assisted in mitigating the impact on our communities while ensuring employee safety. We have implemented a wide range of measures, including financial support, provision of medical supplies, complimentary coverage, access to healthcare resources, streamlined service processes and accelerated claims payments, of which I am proud. We have, as always, found every reason to pay a claim, and during the year we paid out over USD 16 billion in insurance benefits and claims, providing our customers with critically important financial protection."
+    }
+  ]
+}
+```

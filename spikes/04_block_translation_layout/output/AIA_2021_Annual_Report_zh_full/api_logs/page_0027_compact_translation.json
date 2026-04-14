@@ -1,0 +1,21 @@
+{
+  "content": [
+    {
+      "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p27_b1\",\n      \"translation\": \"Net profit(1)(3)\"\n    },\n    {\n      \"block_id\": \"p27_b2\",\n      \"translation\": \"USD millions\\n2020 | 2019\\nYoY change (constant FX)\\nYoY change (actual FX)\"\n    },\n    {\n      \"block_id\": \"p27_b4\",\n      \"translation\": \"Operating profit after tax(3)\\n5,942 | 5,689 | 5% | 4%\"\n    },\n    {\n      \"block_id\": \"p27_b5\",\n      \"translation\": \"Short-term volatility on equity & real estate, after tax(2)(3)\\n(406) | 305 | N/M | N/M\"\n    },\n    {\n      \"block_id\": \"p27_b6\",\n      \"translation\": \"Reclassification of remeasurement loss/(gain) on owner-occupied properties, after tax(2)(3)\\n52 | (153) | N/M | N/M\"\n    },\n    {\n      \"block_id\": \"p27_b7\",\n      \"translation\": \"Corporate transaction costs, after tax\\n(56) | (85) | N/M | N/M\"\n    },\n    {\n      \"block_id\": \"p27_b8\",\n      \"translation\": \"New accounting standards implementation costs, after tax\\n(30) | (39) | N/M | N/M\"\n    },\n    {\n      \"block_id\": \"p27_b9\",\n      \"translation\": \"Other non-operating investment returns & items, after tax(3)\\n277 | 262 | N/M | N/M\"\n    },\n    {\n      \"block_id\": \"p27_b10\",\n      \"translation\": \"Total\\n5,779 | 5,979 | (3)% | (3)%\"\n    },\n    {\n      \"block_id\": \"p27_b11\",\n      \"translation\": \"Notes:\\n(1) Attributable to Company shareholders only, excluding non-controlling interests.\"\n    },\n    {\n      \"block_id\": \"p27_b12\",\n      \"translation\": \"(2) Short-term volatility includes remeasurement gains/losses on owner-occupied properties, reclassified to exclude from net profit per IFRS requirements.\"\n    },\n    {\n      \"block_id\": \"p27_b13\",\n      \"translation\": \"(3) Following HK dividend business accounting policy changes. Comparative data adjusted for current period presentation. See Note 48.\"\n    },\n    {\n      \"block_id\": \"p27_b15\",\n      \"translation\": \"IFRS net profit: USD 5.779bn (2020) vs USD 5.979bn (2019). Includes fair value changes on equity and investment property portfolios.\"\n    },\n    {\n      \"block_id\": \"p27_b16\",\n      \"translation\": \"2020 includes negative short-term volatility of USD 406m on equities & real estate vs long-term assumptions; 2019 had positive USD 305m.\"\n    },\n    {\n      \"block_id\": \"p27_b17\",\n      \"translation\": \"Since 2010 IPO: cumulative net profit USD 3.94bn includes cumulative net short-term investment volatility of USD 30m.\"\n    },\n    {\n      \"block_id\": \"p27_b18\",\n      \"translation\": \"2020 other non-operating items: USD 56m corporate transaction costs, USD 30m new accounting standards costs, USD 277m other items.\"\n    },\n    {\n      \"block_id\": \"p27_b19\",\n      \"translation\": \"Primarily driven by realized gains on available-for-sale debt securities, offset by unrecognized tax position provision changes.\"\n    },\n    {\n      \"block_id\": \"p27_b20\",\n      \"translation\": \"\"\n    },\n    {\n      \"block_id\": \"p27_b21\",\n      \"translation\": \"2020 Report 025\"\n    }\n  ]\n}\n```",
+      "type": "text"
+    }
+  ],
+  "conversationId": "e6315725-7250-44ae-9297-df90fb5f7e72",
+  "conversation_id": "e6315725-7250-44ae-9297-df90fb5f7e72",
+  "id": "e6315725-7250-44ae-9297-df90fb5f7e72",
+  "model": "claude-3-5-sonnet-20241022",
+  "role": "assistant",
+  "stop_reason": "end_turn",
+  "type": "message",
+  "usage": {
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 3866,
+    "output_tokens": 875
+  }
+}

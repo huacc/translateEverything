@@ -1,0 +1,47 @@
+```json
+{
+  "unit_id": "p20_g01",
+  "page_no": 20,
+  "section_id": "financial_review",
+  "content_type": "financial_table_footnote",
+  "speaker_role": null,
+  "topic_tags": [
+    "capital_requirements",
+    "consolidated_reserves",
+    "financial_adjustments",
+    "unallocated_expenses"
+  ],
+  "term_hits": [
+    {
+      "source_term": "合併準備金",
+      "context": "capital_metric",
+      "confidence": "high"
+    },
+    {
+      "source_term": "資本要求",
+      "context": "regulatory_requirement",
+      "confidence": "high"
+    },
+    {
+      "source_term": "稅後價值",
+      "context": "financial_metric",
+      "confidence": "high"
+    }
+  ],
+  "needs_context": true,
+  "context_scope": "table",
+  "risk_level": "high",
+  "risk_flags": [
+    "financial_metric_translation",
+    "percentage_and_ratio_precision",
+    "footnote_and_reference_integrity"
+  ],
+  "translation_constraints": [
+    "preserve_numerical_precision",
+    "maintain_table_structure_alignment",
+    "preserve_footnote_numbering",
+    "use_formal_corporate_register",
+    "verify_capital_metric_terminology_against_IFRS"
+  ]
+}
+```

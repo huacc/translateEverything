@@ -1,0 +1,38 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p10_b11",
+      "translation": "Serving millions of customers with"
+    },
+    {
+      "block_id": "p10_b12",
+      "translation": "uninterrupted support."
+    },
+    {
+      "block_id": "p10_b13",
+      "translation": "AIA has a long and distinguished history in Asia. Having successfully navigated various periods of social upheaval and uncertainty, we have earned a reputation for being"
+    },
+    {
+      "block_id": "p10_b14",
+      "translation": "trustworthy, resilient and steadfast in doing the right thing for our stakeholders. Since early 2020, the COVID-19 pandemic has created a constantly evolving and increasingly complex business environment, with unprecedented shifts in political, macroeconomic and capital market conditions. In such an environment, AIA's financial strength and our purpose of"
+    },
+    {
+      "block_id": "p10_b15",
+      "translation": "helping people live healthier, longer, better lives takes on even greater significance. I am deeply grateful to all AIA employees, agents and partners who, despite facing the most severe challenges, have continued to care for our communities, fulfilled their responsibilities and remained focused on supporting our customers,"
+    },
+    {
+      "block_id": "p10_b16",
+      "translation": "their families and our communities."
+    },
+    {
+      "block_id": "p10_b17",
+      "translation": ""
+    },
+    {
+      "block_id": "p10_b18",
+      "translation": ""
+    }
+  ]
+}
+```

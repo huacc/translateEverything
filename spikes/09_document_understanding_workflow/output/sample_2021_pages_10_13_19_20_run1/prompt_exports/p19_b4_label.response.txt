@@ -1,0 +1,23 @@
+```json
+{
+  "unit_id": "p19_b4",
+  "page_no": 19,
+  "section_id": "navigation",
+  "content_type": "sidebar_nav",
+  "speaker_role": null,
+  "topic_tags": [
+    "document_structure",
+    "navigation_element"
+  ],
+  "term_hits": [],
+  "needs_context": false,
+  "context_scope": null,
+  "risk_level": "low",
+  "risk_flags": [],
+  "translation_constraints": [
+    "Preserve hierarchical structure of navigation items",
+    "Maintain consistent Title Case for section headings",
+    "Use established target section names from section_map"
+  ]
+}
+```

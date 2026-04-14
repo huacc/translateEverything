@@ -1,0 +1,78 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p19_b3",
+      "translation": "rapidly adopted new digital tools, and widespread relaxation of movement restrictions supported sales momentum recovery. AIA's China business contributed the largest share to the Group's new business value in 2020 and was our first reporting segment to"
+    },
+    {
+      "block_id": "p19_b5",
+      "translation": "demonstrate recovery in sales momentum, as the region progressively eased strict lockdowns from March 2020 onwards. Excluding subdued sales from Mainland China visitors to Hong Kong, new business value across the Group's other segments showed strong"
+    },
+    {
+      "block_id": "p19_b6",
+      "translation": "recovery in the second half, growing 23% compared to the first half. The Group's new business momentum remained robust into 2021, with new business value in the first two months of 2021 compared to the same period in 2020"
+    },
+    {
+      "block_id": "p19_b8",
+      "translation": "15% higher than the prior period."
+    },
+    {
+      "block_id": "p19_b9",
+      "translation": "Embedded value equity reached a new high of US$67.185 billion as at 31 December 2020, increasing by US$5.277 billion before payment of dividends of US$1.997 billion,"
+    },
+    {
+      "block_id": "p19_b10",
+      "translation": "driven by embedded value operating profit of US$7.243 billion which offset the impact of lower government bond yields. Embedded value operating profit includes positive operating variances of US$549 million, reflecting continued positive experience of our overall portfolio relative to our embedded value assumptions."
+    },
+    {
+      "block_id": "p19_b11",
+      "translation": "Operating variance of US$549 million, primarily due to our overall experience continuing to be favorable compared to our embedded value assumptions."
+    },
+    {
+      "block_id": "p19_b13",
+      "translation": "while maintaining a stable operating profit margin of 16.9%. Renewal premiums collected increased by 10%, with recurring premiums representing 90% or more of total premiums collected in 2020."
+    },
+    {
+      "block_id": "p19_b14",
+      "translation": "Operating profit after tax growth benefited from significantly positive claims experience throughout the year, which offset lower yields on new fixed income investments and assumed lower long-term equity returns."
+    },
+    {
+      "block_id": "p19_b16",
+      "translation": "source contribute positively to operating profit after tax growth. With normalization of lapse experience in AIA's Thailand business, the renewal rate improved in the second half, while the Group's renewal rate was 95%."
+    },
+    {
+      "block_id": "p19_b17",
+      "translation": "improvement, with the Group's renewal rate at 95%."
+    },
+    {
+      "block_id": "p19_b18",
+      "translation": "generated basic free surplus of US$5.843 billion, an increase of 7%, driven by continued growth of our in-force portfolio and our active management thereof, which was"
+    },
+    {
+      "block_id": "p19_b19",
+      "translation": "sufficient to offset the expected decline in investment returns. As at 31 December 2020, the Group's financial position remained very strong, and after payment of dividends of"
+    },
+    {
+      "block_id": "p19_b22",
+      "translation": "489%. As at 31 December 2020, under the new Group regulatory framework, the Group's local capital aggregation method coverage ratio was 374%. Going forward, we will disclose the Group's"
+    },
+    {
+      "block_id": "p19_b23",
+      "translation": "local capital aggregation method coverage ratio as the primary measure of the Group's regulatory solvency."
+    },
+    {
+      "block_id": "p19_b24",
+      "translation": "The Board recommends an increase in the final dividend of 7.5% to HK$1.0030 per share, subject to approval by shareholders at the forthcoming Annual General Meeting. This brings the total"
+    },
+    {
+      "block_id": "p19_b26",
+      "translation": "and progressive dividend policy, enabling the Group to capture future growth opportunities while maintaining financial flexibility."
+    },
+    {
+      "block_id": "p19_b28",
+      "translation": "growth, while leveraging our competitive advantages, maintaining prudent financial management and delivering long-term shareholder value."
+    }
+  ]
+}
+```

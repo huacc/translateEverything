@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p19_g05",
+      "translation": "UFSG was US$5.843 billion, up 7%, driven by continued growth of our in-force portfolio and active management, offsetting lower expected investment returns. As at 31 December 2020, the Group's financial position remained strong regarding dividend payments"
+    }
+  ]
+}
+```

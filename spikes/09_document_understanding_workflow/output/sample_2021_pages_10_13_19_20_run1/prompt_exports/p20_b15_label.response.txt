@@ -1,0 +1,37 @@
+```json
+{
+  "unit_id": "p20_b15",
+  "page_no": 20,
+  "section_id": "new_business_performance",
+  "content_type": "financial_table_row",
+  "speaker_role": null,
+  "topic_tags": [
+    "financial_metrics",
+    "new_business_performance",
+    "quantitative_data"
+  ],
+  "term_hits": [
+    {
+      "source_term": "小計",
+      "target_term": "Subtotal",
+      "context": "table_summary"
+    }
+  ],
+  "needs_context": true,
+  "context_scope": "table",
+  "risk_level": "critical",
+  "risk_flags": [
+    "percentage_precision",
+    "currency_unit_missing",
+    "table_structure_dependency",
+    "financial_metric_translation"
+  ],
+  "translation_constraints": [
+    "preserve_exact_decimal_places",
+    "maintain_table_alignment",
+    "verify_column_headers_for_metric_identity",
+    "confirm_currency_notation_from_parent_table",
+    "cross_reference_with_financial_review_section"
+  ]
+}
+```

@@ -1,0 +1,64 @@
+文档场景：上市公司企业年报
+{
+  "document_background": {
+    "page_sections": [
+      {
+        "target_section": "Chairman's Statement",
+        "content_type": "chairman_statement",
+        "page_range": [
+          10,
+          11
+        ]
+      },
+      {
+        "target_section": "Overview",
+        "content_type": "executive_summary",
+        "page_range": [
+          8,
+          16
+        ]
+      }
+    ],
+    "roles": [
+      {
+        "source": "謝仕榮先生",
+        "target": "Mr. Tse Sze-wing",
+        "role": "Independent Non-Executive Chairman"
+      }
+    ],
+    "terms": [
+      {
+        "source": "新業務價值",
+        "target": "New Business Value",
+        "abbreviation": "NBV",
+        "context": "financial_metric",
+        "confidence": "high"
+      }
+    ],
+    "style_rules": [
+      "Preserve financial terminology consistency",
+      "Use formal corporate register throughout",
+      "Maintain parallel structure in lists and tables",
+      "Preserve table structure and alignment",
+      "Translate table headers consistently with body text",
+      "Maintain footnote references and numbering",
+      "Convert currency units with precision"
+    ]
+  },
+  "current_unit": {
+    "page_no": 10,
+    "unit_id": "p10_b21",
+    "unit_mode": "single_block",
+    "slot_count": 1,
+    "source_text": "與去年同期比較，2021年首兩個月的新業務價值增長15%。",
+    "current_translation": "Compared with the same period last year, New Business Value grew by 15% in the first two months of 2021."
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p10_b21",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

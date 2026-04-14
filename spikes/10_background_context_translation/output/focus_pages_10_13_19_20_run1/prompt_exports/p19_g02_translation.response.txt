@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p19_g02",
+      "translation": "contributed the most to the Group's New Business Value and was the first reporting segment to demonstrate a recovery in sales momentum, as the region gradually eased strict lockdown measures from March 2020 onwards. Excluding the subdued sales from Mainland China visitors to Hong Kong, the Group's other segments showed strong New Business Value recovery in the second half, growing 23% compared to the first half. The Group's new business momentum remained robust in 2021, with New Business Value in the first two months up 15% compared to the same period in 2020."
+    }
+  ]
+}
+```

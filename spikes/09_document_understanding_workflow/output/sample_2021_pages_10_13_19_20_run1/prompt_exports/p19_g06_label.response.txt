@@ -1,0 +1,45 @@
+```json
+{
+  "unit_id": "p19_g06",
+  "page_no": 19,
+  "section_id": "集團首席財務總監回顧",
+  "content_type": "financial_metrics",
+  "speaker_role": "cfo",
+  "topic_tags": [
+    "solvency_ratio",
+    "regulatory_capital",
+    "capital_adequacy",
+    "group_governance"
+  ],
+  "term_hits": [
+    {
+      "source_term": "償付能力充足率",
+      "target_term": "Solvency Ratio",
+      "confidence": "high"
+    },
+    {
+      "source_term": "集團當地資本總和法覆蓋率",
+      "target_term": "Group Local Capital Aggregation Method Coverage Ratio",
+      "confidence": "high"
+    }
+  ],
+  "needs_context": true,
+  "context_scope": "section",
+  "risk_level": "critical",
+  "risk_flags": [
+    "financial_metric_translation",
+    "regulatory_terminology",
+    "percentage_precision",
+    "policy_disclosure_change"
+  ],
+  "translation_constraints": [
+    "Preserve exact percentage values (489%, 374%) without rounding",
+    "Maintain regulatory framework terminology consistency",
+    "Clarify distinction between AIA Co. solvency ratio and Group LCAM coverage ratio",
+    "Preserve temporal reference (2020年12月31日 → 31 December 2020)",
+    "Translate company name consistently (友邦保險有限公司 → AIA Co. Limited)",
+    "Maintain formal register for regulatory disclosure",
+    "Preserve forward-looking statement intent (日後披露 → future disclosure)"
+  ]
+}
+```

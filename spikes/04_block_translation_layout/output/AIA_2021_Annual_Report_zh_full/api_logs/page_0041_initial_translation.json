@@ -1,0 +1,21 @@
+{
+  "content": [
+    {
+      "text": "```json\n{\n  \"translations\": [\n    {\n      \"block_id\": \"p41_b1\",\n      \"translation\": \"Credit Ratings\"\n    },\n    {\n      \"block_id\": \"p41_b2\",\n      \"translation\": \"As at 31 December 2020, Moody's, Fitch and Standard & Poor's assigned AIA Co. financial strength ratings of Aa2 (very low credit risk) (stable outlook\"\n    },\n    {\n      \"block_id\": \"p41_b3\",\n      \"translation\": \"Overview\\nFinancial and Operational Review\\nCorporate Governance\\nOther Information\\nFinancial Statements\"\n    },\n    {\n      \"block_id\": \"p41_b4\",\n      \"translation\": \"), AA (very strong) (stable outlook) and AA- (very strong) (stable outlook).\"\n    },\n    {\n      \"block_id\": \"p41_b5\",\n      \"translation\": \"As at 31 December 2020, Moody's, Fitch and Standard & Poor's assigned AIA Holdings Limited issuer credit ratings of A2 (low credit risk)\"\n    },\n    {\n      \"block_id\": \"p41_b6\",\n      \"translation\": \"(stable outlook), AA- (very high credit quality) (stable outlook) and A (strong) (positive outlook).\"\n    },\n    {\n      \"block_id\": \"p41_b7\",\n      \"translation\": \"Dividends\"\n    },\n    {\n      \"block_id\": \"p41_b8\",\n      \"translation\": \"The Board recommends a final dividend increase of 7.5% to HK$1.0030 per share, subject to shareholder approval at the forthcoming annual general meeting. This brings the full year\"\n    },\n    {\n      \"block_id\": \"p41_b9\",\n      \"translation\": \"dividend for 2020 to HK$1.3530 per share, an increase of 6.9% from the full year dividend of 2019. This reflects AIA's long-standing prudent, sustainable and\"\n    },\n    {\n      \"block_id\": \"p41_b10\",\n      \"translation\": \"progressive dividend policy, enabling the Group to capture future growth opportunities while maintaining financial flexibility.\"\n    },\n    {\n      \"block_id\": \"p41_b11\",\n      \"translation\": \"2020 Annual Report\\n039\"\n    }\n  ]\n}\n```",
+      "type": "text"
+    }
+  ],
+  "conversationId": "61130dfa-5f7b-4a97-9300-d951d6a12b43",
+  "conversation_id": "61130dfa-5f7b-4a97-9300-d951d6a12b43",
+  "id": "61130dfa-5f7b-4a97-9300-d951d6a12b43",
+  "model": "claude-3-5-sonnet-20241022",
+  "role": "assistant",
+  "stop_reason": "end_turn",
+  "type": "message",
+  "usage": {
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "input_tokens": 1291,
+    "output_tokens": 514
+  }
+}

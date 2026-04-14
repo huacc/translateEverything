@@ -1,0 +1,10 @@
+﻿```json
+{
+  "translations": [
+    {
+      "block_id": "p9_b32",
+      "translation": "(8) From 2019 onwards, annualized new premiums and new business value for other markets include our proportionate share of results from our 49% equity interest in Tata AIA Life Insurance Company Limited (Tata AIA Life). Annualized new premiums and new business value reported in 2018 or earlier have not been restated and do not include any contribution from Tata AIA Life. From 2019 onwards, the Group's new business value excludes new business value attributable to non-controlling interests. New business value for 2018 or earlier has not been restated and, as previously disclosed, was not adjusted for non-controlling interests. Tata AIA Life's IFRS results are accounted for using the equity method. The Group's consolidated financial statements incorporate Tata AIA Life's financial information on a one-quarter lag basis. For clarity, total weighted premiums do not include any contribution from Tata AIA Life."
+    }
+  ]
+}
+```
