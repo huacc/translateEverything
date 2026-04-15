@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 20,
+    "group_id": "p20_b17"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是上市保险公司年报中的表格翻译器。\n语言方向：Traditional Chinese -> English。\n只处理当前 table unit。\n数字、百分比、括号、货币、年份和顺序必须准确。\n只翻译文本标签，不要改写数字，不要补充解释。\n不要承担版面回填职责。\n只输出 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市保险公司企业年报。\n当前输入属于表格通道。不要把表格行改写成正文句子。\n{\n  \"task\": {\n    \"scenario\": \"listed_company_annual_report\",\n    \"industry\": \"Life Insurance\",\n    \"report_type\": \"annual_report\",\n    \"company_name_target\": \"AIA GROUP LIMITED\",\n    \"direction\": \"Traditional Chinese -> English\"\n  },\n  \"page_context\": {\n    \"page_no\": 20,\n    \"page_sections\": [\n      {\n        \"source_section\": \"新業務表現\",\n        \"target_section\": \"New Business Performance\",\n        \"content_type\": \"business_metrics\",\n        \"page_range\": [\n          20,\n          21\n        ]\n      },\n      {\n        \"source_section\": \"集團首席財務總監回顧\",\n        \"target_section\": \"Group Chief Financial Officer's Review\",\n        \"content_type\": \"cfo_review\",\n        \"page_range\": [\n          18,\n          30\n        ]\n      }\n    ],\n    \"term_usage_mode\": \"table\",\n    \"neighbor_context\": {\n      \"previous_group_source_excerpt\": \"為符合合併準備金及\\n資本要求所作調整\\n(103)\\n無意義\\n無意義\\n(87)\\n無意義\\n無意義\\n無意義\\n無意義\",\n      \"next_group_source_excerpt\": \"扣除非控股權益前的總計\\n2,789\\n52.6%\\n5,219\\n4,186\\n62.9%\\n6,585\\n(33)%\\n(33)%\"\n    }\n  },\n  \"mapping_hits\": [],\n  \"fact_locks\": [],\n  \"current_unit\": {\n    \"unit_id\": \"p20_b17\",\n    \"lane\": \"table\",\n    \"table_role\": \"row\",\n    \"source_text\": \"未分配集團總部開支的\\n稅後價值\\n(161)\\n無意義\\n無意義\\n(154)\\n無意義\\n無意義\\n無意義\\n無意義\",\n    \"source_line_count\": 10\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p20_b17\",\n        \"translation\": \"<译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p20_b17\",\n      \"translation\": \"After-tax value of unallocated Group head office expenses\\n(161)\\nNot meaningful\\nNot meaningful\\n(154)\\nNot meaningful\\nNot meaningful\\nNot meaningful\\nNot meaningful\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "da026696-0814-4d38-aee5-81223c059730",
+    "conversation_id": "da026696-0814-4d38-aee5-81223c059730",
+    "id": "da026696-0814-4d38-aee5-81223c059730",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 746,
+      "output_tokens": 81
+    }
+  }
+}

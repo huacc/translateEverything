@@ -1,0 +1,146 @@
+文档场景：上市保险公司企业年报。
+先满足 fact_locks，再保证术语稳定、语义完整和年报文风。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 19,
+    "page_sections": [
+      {
+        "source_section": "集團首席財務總監回顧",
+        "target_section": "Group Chief Financial Officer's Review",
+        "content_type": "cfo_review",
+        "page_range": [
+          18,
+          30
+        ]
+      }
+    ],
+    "term_usage_mode": "table",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "原因在於內涵價值營運溢利72.43億美元抵銷了政府債券收益率下降的影響。內涵價值營運溢利包括來自正面營\n運差異5.49億美元，原因在於與我們的內涵價值假設相比，我們的整體經驗持續維持正面。",
+      "next_group_source_excerpt": "產生的基本自由盈餘為58.43億美元，增長了7%，是由我們有效保單組合的持續增長和我們對此積極管理所帶\n動，這足以抵銷預期投資回報降低的影響。於2020年12月31日，本集團的財務狀況仍然十分強勁，於派付股息\n19.97億美元後，自由..."
+    }
+  },
+  "mapping_hits": [
+    {
+      "source": "稅後營運溢利",
+      "target": "OPAT",
+      "hit_type": "context_term"
+    },
+    {
+      "source": "營運溢利率",
+      "target": "operating margin",
+      "hit_type": "context_term"
+    },
+    {
+      "source": "有效保單組合",
+      "target": "in-force portfolio",
+      "hit_type": "context_term"
+    },
+    {
+      "source": "續保率",
+      "target": "persistency",
+      "hit_type": "context_term"
+    },
+    {
+      "source": "續保保費",
+      "target": "renewal premiums",
+      "hit_type": "context_term"
+    },
+    {
+      "source": "有效保單",
+      "target": "In-Force Business",
+      "hit_type": "context_term"
+    },
+    {
+      "source": "友邦保險",
+      "target": "AIA",
+      "hit_type": "glossary_term"
+    },
+    {
+      "source": "泰國",
+      "target": "Thailand",
+      "hit_type": "glossary_term"
+    }
+  ],
+  "fact_locks": [
+    {
+      "label": "opat_usd",
+      "fact_type": "usd_scaled_amount",
+      "source_value": "59.42億美元",
+      "expected_forms": [
+        "US$5.942 billion",
+        "US$5942 million",
+        "US$5,942 million"
+      ]
+    },
+    {
+      "label": "percentage_5",
+      "fact_type": "percentage",
+      "source_value": "5%",
+      "expected_forms": [
+        "5%"
+      ]
+    },
+    {
+      "label": "percentage_16.9",
+      "fact_type": "percentage",
+      "source_value": "16.9%",
+      "expected_forms": [
+        "16.9%"
+      ]
+    },
+    {
+      "label": "percentage_10",
+      "fact_type": "percentage",
+      "source_value": "10%",
+      "expected_forms": [
+        "10%"
+      ]
+    },
+    {
+      "label": "percentage_90",
+      "fact_type": "percentage",
+      "source_value": "90%",
+      "expected_forms": [
+        "90%"
+      ]
+    },
+    {
+      "label": "percentage_95",
+      "fact_type": "percentage",
+      "source_value": "95%",
+      "expected_forms": [
+        "95%"
+      ]
+    }
+  ],
+  "current_group": {
+    "group_id": "p19_g04",
+    "lane": "body",
+    "group_text": "我們的高質素、經常性盈利來源以及對有效保單組合的積極管理，帶動稅後營運溢利增長了5%至59.42億美元，\n並使營運溢利率穩定在16.9%。所收取的續保保費增加了10%，經常性保費總額佔2020年所收取保費的90%以\n上。稅後營運溢利增長受益於全年顯著正面理賠經驗，其抵銷了新固定收入投資的收益率下跌及假設長期股權投\n資回報減少的影響。一如預期，上半年所述的異常正面醫療理賠經驗並未在下半年再次發生，但我們繼續看到此\n來源對稅後營運溢利增長的正面貢獻。在友邦保險泰國業務的失效經驗恢復正常的情況下，下半年的續保率有所\n改善，而本集團的續保率為95%。",
+    "source_block_ids": [
+      "p19_b12",
+      "p19_b13",
+      "p19_b14",
+      "p19_b15",
+      "p19_b16",
+      "p19_b17"
+    ],
+    "source_block_count": 6
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p19_g04",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

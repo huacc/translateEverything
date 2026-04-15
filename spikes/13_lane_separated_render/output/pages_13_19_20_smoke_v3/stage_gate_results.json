@@ -62,6 +62,17 @@
           "US$1,997 million"
         ]
       }
+    },
+    {
+      "stage": "4",
+      "stage_name": "按组翻译",
+      "passed": true,
+      "summary": "关键金额、股息和尾句残缺问题已在组翻译阶段受控。",
+      "details": {
+        "bad_scale_count": 0,
+        "broken_fragment_count": 0,
+        "dividend_mixup_count": 0
+      }
     }
   ]
 }

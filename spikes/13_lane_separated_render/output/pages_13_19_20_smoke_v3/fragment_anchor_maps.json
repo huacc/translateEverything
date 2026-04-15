@@ -1,0 +1,992 @@
+[
+  {
+    "fragment_id": "p13_g01_f01",
+    "group_id": "p13_g01",
+    "page_no": 13,
+    "target_anchor_ids": [
+      "p13_b1"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p13_g01_f02",
+    "group_id": "p13_g01",
+    "page_no": 13,
+    "target_anchor_ids": [
+      "p13_b2"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p13_b3_f01",
+    "group_id": "p13_b3",
+    "page_no": 13,
+    "target_anchor_ids": [
+      "p13_b3"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": false,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p13_g02_f01",
+    "group_id": "p13_g02",
+    "page_no": 13,
+    "target_anchor_ids": [
+      "p13_b5"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p13_g02_f02",
+    "group_id": "p13_g02",
+    "page_no": 13,
+    "target_anchor_ids": [
+      "p13_b6"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p13_g02_f03",
+    "group_id": "p13_g02",
+    "page_no": 13,
+    "target_anchor_ids": [
+      "p13_b7"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p13_b8_f01",
+    "group_id": "p13_b8",
+    "page_no": 13,
+    "target_anchor_ids": [
+      "p13_b8"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": false,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p13_g03_f01",
+    "group_id": "p13_g03",
+    "page_no": 13,
+    "target_anchor_ids": [
+      "p13_b9"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p13_g03_f02",
+    "group_id": "p13_g03",
+    "page_no": 13,
+    "target_anchor_ids": [
+      "p13_b10"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p13_g03_f03",
+    "group_id": "p13_g03",
+    "page_no": 13,
+    "target_anchor_ids": [
+      "p13_b11"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p13_g03_f04",
+    "group_id": "p13_g03",
+    "page_no": 13,
+    "target_anchor_ids": [
+      "p13_b12"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p13_b13_f01",
+    "group_id": "p13_b13",
+    "page_no": 13,
+    "target_anchor_ids": [
+      "p13_b13"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": false,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p13_b14_f01",
+    "group_id": "p13_b14",
+    "page_no": 13,
+    "target_anchor_ids": [
+      "p13_b14"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": false,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p13_b15_f01",
+    "group_id": "p13_b15",
+    "page_no": 13,
+    "target_anchor_ids": [
+      "p13_b15"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": false,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p13_g04_f01",
+    "group_id": "p13_g04",
+    "page_no": 13,
+    "target_anchor_ids": [
+      "p13_b16"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p13_g04_f02",
+    "group_id": "p13_g04",
+    "page_no": 13,
+    "target_anchor_ids": [
+      "p13_b17"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p13_g04_f03",
+    "group_id": "p13_g04",
+    "page_no": 13,
+    "target_anchor_ids": [
+      "p13_b18"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p13_b19_f01",
+    "group_id": "p13_b19",
+    "page_no": 13,
+    "target_anchor_ids": [
+      "p13_b19"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": false,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p13_g05_f01",
+    "group_id": "p13_g05",
+    "page_no": 13,
+    "target_anchor_ids": [
+      "p13_b20"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p13_g05_f02",
+    "group_id": "p13_g05",
+    "page_no": 13,
+    "target_anchor_ids": [
+      "p13_b21"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p13_g05_f03",
+    "group_id": "p13_g05",
+    "page_no": 13,
+    "target_anchor_ids": [
+      "p13_b22"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p13_g06_f01",
+    "group_id": "p13_g06",
+    "page_no": 13,
+    "target_anchor_ids": [
+      "p13_b23"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p13_g06_f02",
+    "group_id": "p13_g06",
+    "page_no": 13,
+    "target_anchor_ids": [
+      "p13_b24"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p13_b25_f01",
+    "group_id": "p13_b25",
+    "page_no": 13,
+    "target_anchor_ids": [
+      "p13_b25"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": false,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p13_g07_f01",
+    "group_id": "p13_g07",
+    "page_no": 13,
+    "target_anchor_ids": [
+      "p13_b26"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p13_g07_f02",
+    "group_id": "p13_g07",
+    "page_no": 13,
+    "target_anchor_ids": [
+      "p13_b27"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p13_g07_f03",
+    "group_id": "p13_g07",
+    "page_no": 13,
+    "target_anchor_ids": [
+      "p13_b28"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p13_b29_f01",
+    "group_id": "p13_b29",
+    "page_no": 13,
+    "target_anchor_ids": [
+      "p13_b29"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": false,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p19_g01_f01",
+    "group_id": "p19_g01",
+    "page_no": 19,
+    "target_anchor_ids": [
+      "p19_b1"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p19_g01_f02",
+    "group_id": "p19_g01",
+    "page_no": 19,
+    "target_anchor_ids": [
+      "p19_b2"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p19_g01_f03",
+    "group_id": "p19_g01",
+    "page_no": 19,
+    "target_anchor_ids": [
+      "p19_b3"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p19_g02_f01",
+    "group_id": "p19_g02",
+    "page_no": 19,
+    "target_anchor_ids": [
+      "p19_b5"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p19_g02_f02",
+    "group_id": "p19_g02",
+    "page_no": 19,
+    "target_anchor_ids": [
+      "p19_b6"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p19_g02_f03",
+    "group_id": "p19_g02",
+    "page_no": 19,
+    "target_anchor_ids": [
+      "p19_b7"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p19_g02_f04",
+    "group_id": "p19_g02",
+    "page_no": 19,
+    "target_anchor_ids": [
+      "p19_b8"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p19_b9_f01",
+    "group_id": "p19_b9",
+    "page_no": 19,
+    "target_anchor_ids": [
+      "p19_b9"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": false,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p19_g03_f01",
+    "group_id": "p19_g03",
+    "page_no": 19,
+    "target_anchor_ids": [
+      "p19_b10"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p19_g03_f02",
+    "group_id": "p19_g03",
+    "page_no": 19,
+    "target_anchor_ids": [
+      "p19_b11"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p19_g04_f01",
+    "group_id": "p19_g04",
+    "page_no": 19,
+    "target_anchor_ids": [
+      "p19_b12"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p19_g04_f02",
+    "group_id": "p19_g04",
+    "page_no": 19,
+    "target_anchor_ids": [
+      "p19_b13"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p19_g04_f03",
+    "group_id": "p19_g04",
+    "page_no": 19,
+    "target_anchor_ids": [
+      "p19_b14"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p19_g04_f04",
+    "group_id": "p19_g04",
+    "page_no": 19,
+    "target_anchor_ids": [
+      "p19_b15"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p19_g04_f05",
+    "group_id": "p19_g04",
+    "page_no": 19,
+    "target_anchor_ids": [
+      "p19_b16"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p19_g04_f06",
+    "group_id": "p19_g04",
+    "page_no": 19,
+    "target_anchor_ids": [
+      "p19_b17"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p19_g05_f01",
+    "group_id": "p19_g05",
+    "page_no": 19,
+    "target_anchor_ids": [
+      "p19_b18"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p19_g05_f02",
+    "group_id": "p19_g05",
+    "page_no": 19,
+    "target_anchor_ids": [
+      "p19_b19"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p19_g05_f03",
+    "group_id": "p19_g05",
+    "page_no": 19,
+    "target_anchor_ids": [
+      "p19_b20"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p19_g06_f01",
+    "group_id": "p19_g06",
+    "page_no": 19,
+    "target_anchor_ids": [
+      "p19_b21"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p19_g06_f02",
+    "group_id": "p19_g06",
+    "page_no": 19,
+    "target_anchor_ids": [
+      "p19_b22"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p19_g06_f03",
+    "group_id": "p19_g06",
+    "page_no": 19,
+    "target_anchor_ids": [
+      "p19_b23"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p19_g07_f01",
+    "group_id": "p19_g07",
+    "page_no": 19,
+    "target_anchor_ids": [
+      "p19_b24"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p19_g07_f02",
+    "group_id": "p19_g07",
+    "page_no": 19,
+    "target_anchor_ids": [
+      "p19_b25"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p19_g07_f03",
+    "group_id": "p19_g07",
+    "page_no": 19,
+    "target_anchor_ids": [
+      "p19_b26"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p19_g08_f01",
+    "group_id": "p19_g08",
+    "page_no": 19,
+    "target_anchor_ids": [
+      "p19_b27"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p19_g08_f02",
+    "group_id": "p19_g08",
+    "page_no": 19,
+    "target_anchor_ids": [
+      "p19_b28"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p19_b29_f01",
+    "group_id": "p19_b29",
+    "page_no": 19,
+    "target_anchor_ids": [
+      "p19_b29"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": false,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p20_b1_f01",
+    "group_id": "p20_b1",
+    "page_no": 20,
+    "target_anchor_ids": [
+      "p20_b1"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": false,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p20_b2_f01",
+    "group_id": "p20_b2",
+    "page_no": 20,
+    "target_anchor_ids": [
+      "p20_b2"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": false,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p20_b3_f01",
+    "group_id": "p20_b3",
+    "page_no": 20,
+    "target_anchor_ids": [
+      "p20_b3"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": false,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p20_b4_f01",
+    "group_id": "p20_b4",
+    "page_no": 20,
+    "target_anchor_ids": [
+      "p20_b4"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": false,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p20_b5_f01",
+    "group_id": "p20_b5",
+    "page_no": 20,
+    "target_anchor_ids": [
+      "p20_b5"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": false,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p20_b6_f01",
+    "group_id": "p20_b6",
+    "page_no": 20,
+    "target_anchor_ids": [
+      "p20_b6"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": false,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p20_b7_f01",
+    "group_id": "p20_b7",
+    "page_no": 20,
+    "target_anchor_ids": [
+      "p20_b7"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": false,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p20_b8_f01",
+    "group_id": "p20_b8",
+    "page_no": 20,
+    "target_anchor_ids": [
+      "p20_b8"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": false,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p20_b9_f01",
+    "group_id": "p20_b9",
+    "page_no": 20,
+    "target_anchor_ids": [
+      "p20_b9"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": false,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p20_b10_f01",
+    "group_id": "p20_b10",
+    "page_no": 20,
+    "target_anchor_ids": [
+      "p20_b10"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": false,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p20_b11_f01",
+    "group_id": "p20_b11",
+    "page_no": 20,
+    "target_anchor_ids": [
+      "p20_b11"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": false,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p20_b12_f01",
+    "group_id": "p20_b12",
+    "page_no": 20,
+    "target_anchor_ids": [
+      "p20_b12"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": false,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p20_b13_f01",
+    "group_id": "p20_b13",
+    "page_no": 20,
+    "target_anchor_ids": [
+      "p20_b13"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": false,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p20_b14_f01",
+    "group_id": "p20_b14",
+    "page_no": 20,
+    "target_anchor_ids": [
+      "p20_b14"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": false,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p20_b15_f01",
+    "group_id": "p20_b15",
+    "page_no": 20,
+    "target_anchor_ids": [
+      "p20_b15"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": false,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p20_b16_f01",
+    "group_id": "p20_b16",
+    "page_no": 20,
+    "target_anchor_ids": [
+      "p20_b16"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": false,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p20_b17_f01",
+    "group_id": "p20_b17",
+    "page_no": 20,
+    "target_anchor_ids": [
+      "p20_b17"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": false,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p20_b18_f01",
+    "group_id": "p20_b18",
+    "page_no": 20,
+    "target_anchor_ids": [
+      "p20_b18"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": false,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p20_b19_f01",
+    "group_id": "p20_b19",
+    "page_no": 20,
+    "target_anchor_ids": [
+      "p20_b19"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": false,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p20_b20_f01",
+    "group_id": "p20_b20",
+    "page_no": 20,
+    "target_anchor_ids": [
+      "p20_b20"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": false,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p20_g01_f01",
+    "group_id": "p20_g01",
+    "page_no": 20,
+    "target_anchor_ids": [
+      "p20_b21"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p20_g01_f02",
+    "group_id": "p20_g01",
+    "page_no": 20,
+    "target_anchor_ids": [
+      "p20_b22"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p20_g01_f03",
+    "group_id": "p20_g01",
+    "page_no": 20,
+    "target_anchor_ids": [
+      "p20_b23"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p20_g01_f04",
+    "group_id": "p20_g01",
+    "page_no": 20,
+    "target_anchor_ids": [
+      "p20_b24"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p20_g01_f05",
+    "group_id": "p20_g01",
+    "page_no": 20,
+    "target_anchor_ids": [
+      "p20_b25"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p20_g02_f01",
+    "group_id": "p20_g02",
+    "page_no": 20,
+    "target_anchor_ids": [
+      "p20_b26"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p20_g02_f02",
+    "group_id": "p20_g02",
+    "page_no": 20,
+    "target_anchor_ids": [
+      "p20_b27"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p20_g02_f03",
+    "group_id": "p20_g02",
+    "page_no": 20,
+    "target_anchor_ids": [
+      "p20_b28"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p20_g02_f04",
+    "group_id": "p20_g02",
+    "page_no": 20,
+    "target_anchor_ids": [
+      "p20_b29"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p20_g03_f01",
+    "group_id": "p20_g03",
+    "page_no": 20,
+    "target_anchor_ids": [
+      "p20_b30"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p20_g03_f02",
+    "group_id": "p20_g03",
+    "page_no": 20,
+    "target_anchor_ids": [
+      "p20_b31"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p20_g03_f03",
+    "group_id": "p20_g03",
+    "page_no": 20,
+    "target_anchor_ids": [
+      "p20_b32"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p20_g03_f04",
+    "group_id": "p20_g03",
+    "page_no": 20,
+    "target_anchor_ids": [
+      "p20_b33"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": true,
+    "within_group_bbox": true
+  },
+  {
+    "fragment_id": "p20_b34_f01",
+    "group_id": "p20_b34",
+    "page_no": 20,
+    "target_anchor_ids": [
+      "p20_b34"
+    ],
+    "allocation_reason": "rendered_by_block",
+    "used_reconstruction": false,
+    "within_group_bbox": true
+  }
+]

@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p20_g01",
+      "translation": "Although VONB of US$2,765 million in 2020 decreased 33% from 2019, swift adoption of digital tools and widespread relaxation of travel restrictions supported sales momentum recovery. AIA China contributed most to Group VONB in 2020 and was the first segment demonstrating recovery, as the region progressively relaxed lockdowns from March 2020. Excluding subdued mainland Chinese visitor sales to Hong Kong, other segments' VONB rebounded strongly in H2, growing 23% versus H1. Group new business momentum remained robust in 2021, with VONB in the first two months up 15% versus the same period in 2020."
+    }
+  ]
+}
+```

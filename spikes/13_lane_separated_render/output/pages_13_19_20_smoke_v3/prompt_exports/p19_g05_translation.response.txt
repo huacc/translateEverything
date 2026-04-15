@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p19_g05",
+      "translation": "UFSG of US$5.843 billion grew by 7%, driven by the continued growth of our in-force portfolio and our active management thereof, which was sufficient to offset the impact of lower expected investment returns. As at 31 December 2020, the Group's financial position remained very strong, with Free Surplus of US$13.473 billion after the payment of dividends of US$1.997 billion."
+    }
+  ]
+}
+```

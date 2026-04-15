@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "compact",
+    "page_no": 20,
+    "group_id": "p20_g02"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是年报英文压缩器，不是重译器。\n语言方向：Traditional Chinese -> English。\n你的任务只是对已有译文做最小必要压缩，以便回填原版面。\n禁止改变数字、单位、术语、专名、比较关系、主体和结论。\n标题不能改成正文，表头不能改成句子，不能输出口语化表达。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市公司企业年报\n{\n  \"document_background\": {\n    \"page_sections\": [\n      {\n        \"source_section\": \"新業務表現\",\n        \"target_section\": \"New Business Performance\",\n        \"content_type\": \"business_metrics\",\n        \"page_range\": [\n          20,\n          21\n        ]\n      },\n      {\n        \"source_section\": \"集團首席財務總監回顧\",\n        \"target_section\": \"Group Chief Financial Officer's Review\",\n        \"content_type\": \"cfo_review\",\n        \"page_range\": [\n          18,\n          30\n        ]\n      }\n    ],\n    \"roles\": [],\n    \"terms\": [],\n    \"style_rules\": [\n      \"Use US$ for U.S. dollar amounts.\",\n      \"Keep listed-company annual report disclosure tone formal and publishable.\",\n      \"Do not change numbers, percentages, years, named entities or financial metric values.\",\n      \"Use established financial abbreviations for table labels when provided.\",\n      \"Keep row and column semantics unchanged.\",\n      \"Use n/m for 無意義.\"\n    ]\n  },\n  \"current_unit\": {\n    \"page_no\": 20,\n    \"unit_id\": \"p20_g02\",\n    \"unit_mode\": \"semantic_group\",\n    \"slot_count\": 4,\n    \"source_text\": \"友邦保險中國業務在2021年錄得成功的勢頭，首兩個月的新業務價值與2020年同期比較，錄得非常強勁的增\\n長。2020年新業務價值9.68億美元較2019年減少17%，主要由於2019冠狀病毒病在第一季爆發初期而導致銷售額\\n有限。隨著外出限制放寬，新業務動力得以迅速改善。新業務價值重拾我們慣常的季節性規律，比重更側重於上\\n半年。在2020年，友邦保險中國業務為集團的新業務價值帶來最大貢獻。\",\n    \"current_translation\": \"AIA China achieved strong momentum in 2021, with VONB in the first two months recording very robust growth compared to the same period in 2020. VONB of US$968 million in 2020 decreased by 17% compared to 2019, primarily due to limited sales in the early stages of the COVID-19 outbreak in the first quarter. As travel restrictions were relaxed, new business momentum improved rapidly. VONB resumed our customary seasonal patterns, with a greater proportion concentrated in the first half of the year. In 2020, AIA China contributed the largest share to the Group's VONB.\"\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p20_g02\",\n        \"translation\": \"<更紧凑译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p20_g02\",\n      \"translation\": \"AIA China achieved strong momentum in 2021, with VONB in the first two months recording very robust growth versus 2020. VONB of US$968 million in 2020 decreased 17% from 2019, primarily due to limited sales during the early COVID-19 outbreak in Q1. As travel restrictions eased, new business momentum improved rapidly. VONB resumed customary seasonal patterns with greater concentration in H1. In 2020, AIA China contributed the largest share to Group VONB.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "e6d134b5-7c44-498e-b7cd-dad82759c98f",
+    "conversation_id": "e6d134b5-7c44-498e-b7cd-dad82759c98f",
+    "id": "e6d134b5-7c44-498e-b7cd-dad82759c98f",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 882,
+      "output_tokens": 135
+    }
+  }
+}

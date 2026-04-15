@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 20,
+    "group_id": "p20_g03"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是上市保险公司年报翻译器。\n语言方向：Traditional Chinese -> English。\n只处理当前 body semantic group。\n只可在当前组内恢复跨块断句，不得跨组补写、跨组删写或改写事实。\n必须严格满足 mapping_hits 与 fact_locks。\n版面回填、字体压缩、分块分配不是你的职责，不要为了适配版面而删词改义。\n保持正式、稳定、可出版的企业年报文风。\n只输出 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市保险公司企业年报。\n先满足 fact_locks，再保证术语稳定、语义完整和年报文风。\n{\n  \"task\": {\n    \"scenario\": \"listed_company_annual_report\",\n    \"industry\": \"Life Insurance\",\n    \"report_type\": \"annual_report\",\n    \"company_name_target\": \"AIA GROUP LIMITED\",\n    \"direction\": \"Traditional Chinese -> English\"\n  },\n  \"page_context\": {\n    \"page_no\": 20,\n    \"page_sections\": [\n      {\n        \"source_section\": \"新業務表現\",\n        \"target_section\": \"New Business Performance\",\n        \"content_type\": \"business_metrics\",\n        \"page_range\": [\n          20,\n          21\n        ]\n      },\n      {\n        \"source_section\": \"集團首席財務總監回顧\",\n        \"target_section\": \"Group Chief Financial Officer's Review\",\n        \"content_type\": \"cfo_review\",\n        \"page_range\": [\n          18,\n          30\n        ]\n      }\n    ],\n    \"term_usage_mode\": \"table\",\n    \"neighbor_context\": {\n      \"previous_group_source_excerpt\": \"友邦保險中國業務在2021年錄得成功的勢頭，首兩個月的新業務價值與2020年同期比較，錄得非常強勁的增\\n長。2020年新業務價值9.68億美元較2019年減少17%，主要由於2019冠狀病毒病在第一季爆發初期而導致銷售額\\n有限。隨著外...\",\n      \"next_group_source_excerpt\": \"018\\n友邦保險控股有限公司\"\n    }\n  },\n  \"mapping_hits\": [\n    {\n      \"source\": \"友邦保險香港業務\",\n      \"target\": \"AIA Hong Kong\",\n      \"hit_type\": \"context_term\"\n    },\n    {\n      \"source\": \"友邦保險澳門分公司\",\n      \"target\": \"AIA Macau\",\n      \"hit_type\": \"context_term\"\n    },\n    {\n      \"source\": \"中國內地訪港客戶\",\n      \"target\": \"Mainland Chinese visitors\",\n      \"hit_type\": \"context_term\"\n    },\n    {\n      \"source\": \"個人遊計劃\",\n      \"target\": \"Individual Visit Scheme\",\n      \"hit_type\": \"context_term\"\n    },\n    {\n      \"source\": \"新業務價值利潤率\",\n      \"target\": \"VONB margin\",\n      \"hit_type\": \"context_term\"\n    },\n    {\n      \"source\": \"新業務價值\",\n      \"target\": \"VONB\",\n      \"hit_type\": \"context_term\"\n    },\n    {\n      \"source\": \"年化新保費\",\n      \"target\": \"ANP\",\n      \"hit_type\": \"context_term\"\n    },\n    {\n      \"source\": \"利潤率\",\n      \"target\": \"Profit Margin\",\n      \"hit_type\": \"context_term\"\n    },\n    {\n      \"source\": \"友邦保險\",\n      \"target\": \"AIA\",\n      \"hit_type\": \"glossary_term\"\n    },\n    {\n      \"source\": \"中國內地\",\n      \"target\": \"Mainland China\",\n      \"hit_type\": \"glossary_term\"\n    },\n    {\n      \"source\": \"中國內地訪澳客戶\",\n      \"target\": \"Mainland Chinese visitors\",\n      \"hit_type\": \"glossary_term\"\n    }\n  ],\n  \"fact_locks\": [],\n  \"current_group\": {\n    \"group_id\": \"p20_g03\",\n    \"lane\": \"body\",\n    \"group_text\": \"在實施旅遊限制後，友邦保險香港業務來自中國內地訪港客戶的新業務銷售自2020年2月初起實際上已暫停，導\\n致其新業務價值大幅下降。新業務價值利潤率錄得跌幅，反映新業務量減少導致承保開支超支、產品組合變動及\\n利率下降的影響所致。澳門在2020年9月底恢復中國內地旅客個人遊計劃。這為澳門的中國內地訪澳客戶銷售回\\n升提供支持，使其在第四季佔友邦保險澳門分公司的年化新保費總額超過三分之一。\",\n    \"source_block_ids\": [\n      \"p20_b30\",\n      \"p20_b31\",\n      \"p20_b32\",\n      \"p20_b33\"\n    ],\n    \"source_block_count\": 4\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p20_g03\",\n        \"translation\": \"<译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p20_g03\",\n      \"translation\": \"Following the implementation of travel restrictions, new business sales from Mainland Chinese visitors to AIA Hong Kong were effectively suspended from early February 2020, resulting in a significant decline in VONB. The VONB margin recorded a decrease, reflecting the impact of reduced new business volume leading to underwriting expense overruns, changes in product mix, and the effect of lower interest rates. Macau resumed the Individual Visit Scheme for Mainland Chinese visitors in late September 2020. This provided support for the recovery of new business sales from Mainland Chinese visitors in Macau, which accounted for more than one-third of the annualized new premiums of AIA Macau in the fourth quarter.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "4adcd78b-08fa-41ba-984b-c9ecafb7952b",
+    "conversation_id": "4adcd78b-08fa-41ba-984b-c9ecafb7952b",
+    "id": "4adcd78b-08fa-41ba-984b-c9ecafb7952b",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1501,
+      "output_tokens": 174
+    }
+  }
+}

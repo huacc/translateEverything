@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 19,
+    "group_id": "p19_g06"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是上市保险公司年报翻译器。\n语言方向：Traditional Chinese -> English。\n只处理当前 body semantic group。\n只可在当前组内恢复跨块断句，不得跨组补写、跨组删写或改写事实。\n必须严格满足 mapping_hits 与 fact_locks。\n版面回填、字体压缩、分块分配不是你的职责，不要为了适配版面而删词改义。\n保持正式、稳定、可出版的企业年报文风。\n只输出 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市保险公司企业年报。\n先满足 fact_locks，再保证术语稳定、语义完整和年报文风。\n{\n  \"task\": {\n    \"scenario\": \"listed_company_annual_report\",\n    \"industry\": \"Life Insurance\",\n    \"report_type\": \"annual_report\",\n    \"company_name_target\": \"AIA GROUP LIMITED\",\n    \"direction\": \"Traditional Chinese -> English\"\n  },\n  \"page_context\": {\n    \"page_no\": 19,\n    \"page_sections\": [\n      {\n        \"source_section\": \"集團首席財務總監回顧\",\n        \"target_section\": \"Group Chief Financial Officer's Review\",\n        \"content_type\": \"cfo_review\",\n        \"page_range\": [\n          18,\n          30\n        ]\n      }\n    ],\n    \"term_usage_mode\": \"table\",\n    \"neighbor_context\": {\n      \"previous_group_source_excerpt\": \"產生的基本自由盈餘為58.43億美元，增長了7%，是由我們有效保單組合的持續增長和我們對此積極管理所帶\\n動，這足以抵銷預期投資回報降低的影響。於2020年12月31日，本集團的財務狀況仍然十分強勁，於派付股息\\n19.97億美元後，自由...\",\n      \"next_group_source_excerpt\": \"董事會建議末期股息增加7.5%至每股100.30港仙，並須於本公司應屆股東週年大會上獲股東批准。這使2020年的\\n全年股息總額為每股135.30港仙，較2019年的全年股息總額上升6.9%。這是秉承友邦保險行之已久的審慎、可持\\n續及漸...\"\n    }\n  },\n  \"mapping_hits\": [\n    {\n      \"source\": \"集團當地資本總和法覆蓋率\",\n      \"target\": \"Group LCSM cover ratio\",\n      \"hit_type\": \"context_term\"\n    },\n    {\n      \"source\": \"友邦保險\",\n      \"target\": \"AIA\",\n      \"hit_type\": \"glossary_term\"\n    }\n  ],\n  \"fact_locks\": [\n    {\n      \"label\": \"date_2020\",\n      \"fact_type\": \"date\",\n      \"source_value\": \"2020年12月31日\",\n      \"expected_forms\": [\n        \"31 12 2020\"\n      ]\n    },\n    {\n      \"label\": \"solvency_ratio_pct\",\n      \"fact_type\": \"percentage\",\n      \"source_value\": \"489%\",\n      \"expected_forms\": [\n        \"489%\"\n      ]\n    },\n    {\n      \"label\": \"group_lcsm_cover_ratio_pct\",\n      \"fact_type\": \"percentage\",\n      \"source_value\": \"374%\",\n      \"expected_forms\": [\n        \"374%\"\n      ]\n    }\n  ],\n  \"current_group\": {\n    \"group_id\": \"p19_g06\",\n    \"lane\": \"body\",\n    \"group_text\": \"於2020年12月31日，我們的主要營運公司友邦保險有限公司（AIA Co.）的償付能力充足率仍然非常強勁，為\\n489%。於2020年12月31日，在新的集團監管框架下，集團當地資本總和法覆蓋率為374%。日後，我們將披露集\\n團當地資本總和法覆蓋率，作為衡量本集團監管償付能力的主要指標。\",\n    \"source_block_ids\": [\n      \"p19_b21\",\n      \"p19_b22\",\n      \"p19_b23\"\n    ],\n    \"source_block_count\": 3\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p19_g06\",\n        \"translation\": \"<译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p19_g06\",\n      \"translation\": \"As at 31 December 2020, our principal operating company AIA Co.'s solvency ratio remained very strong at 489%. As at 31 December 2020, under the new Group regulatory framework, the Group LCSM cover ratio was 374%. Going forward, we will disclose the Group LCSM cover ratio as the primary measure of the Group's regulatory solvency position.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "7c9a9d31-e2e0-4e7b-ab68-d7f05b9cad01",
+    "conversation_id": "7c9a9d31-e2e0-4e7b-ab68-d7f05b9cad01",
+    "id": "7c9a9d31-e2e0-4e7b-ab68-d7f05b9cad01",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1263,
+      "output_tokens": 113
+    }
+  }
+}
