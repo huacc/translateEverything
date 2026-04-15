@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "compact",
+    "page_no": 13,
+    "group_id": "p13_b25"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是版面压缩器。\n语言方向：Traditional Chinese -> English。\n只做最小必要压缩。\n不得改动数字、百分比、年份、金额、专有名词。\n只输出 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市保险公司企业年报。\n{\n  \"current_unit\": {\n    \"unit_id\": \"p13_b25\",\n    \"lane\": \"caption_label\",\n    \"source_text\": \"法，為我們與客戶建立長遠關係奠定堅實的基礎。\",\n    \"current_translation\": \"approach, laying a solid foundation for building long-term relationships with our customers.\"\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p13_b25\",\n        \"translation\": \"<更紧凑译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p13_b25\",\n      \"translation\": \"approach, laying a solid foundation for long-term customer relationships.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "aa6ea299-4b19-43b1-b19a-6673d6672117",
+    "conversation_id": "aa6ea299-4b19-43b1-b19a-6673d6672117",
+    "id": "aa6ea299-4b19-43b1-b19a-6673d6672117",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 251,
+      "output_tokens": 50
+    }
+  }
+}

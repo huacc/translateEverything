@@ -1,0 +1,95 @@
+文档场景：上市保险公司企业年报。
+先满足 fact_locks，再保证术语稳定、语义完整和年报文风。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 19,
+    "page_sections": [
+      {
+        "source_section": "集團首席財務總監回顧",
+        "target_section": "Group Chief Financial Officer's Review",
+        "content_type": "cfo_review",
+        "page_range": [
+          18,
+          30
+        ]
+      }
+    ],
+    "term_usage_mode": "table",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "大流行病對我們2020年財務表現的主要影響是對新業務銷售的影響，原因在於我們眾多市場的遏制傳播措施限制\n了面對面的銷售活動，尤其是在2020年上半年。儘管2020年的新業務價值27.65億美元較2019年減少了33%，我\n們迅速採用了...",
+      "next_group_source_excerpt": "截至2020年12月31日的內涵價值權益創下新高為671.85億美元，於派付股息19.97億美元之前增加52.77億美元，"
+    }
+  },
+  "mapping_hits": [
+    {
+      "source": "中國內地訪港旅客",
+      "target": "Mainland Chinese visitors",
+      "hit_type": "context_term"
+    },
+    {
+      "source": "新業務價值",
+      "target": "VONB",
+      "hit_type": "context_term"
+    },
+    {
+      "source": "中國內地",
+      "target": "Mainland China",
+      "hit_type": "glossary_term"
+    }
+  ],
+  "fact_locks": [],
+  "current_group": {
+    "group_id": "p19_g02",
+    "mode": "semantic_group",
+    "block_ids": [
+      "p19_b5",
+      "p19_b6",
+      "p19_b7",
+      "p19_b8"
+    ],
+    "block_types": [
+      "body",
+      "body",
+      "body",
+      "label"
+    ],
+    "blocks": [
+      {
+        "block_id": "p19_b5",
+        "block_type": "body",
+        "source_text": "團的新業務價值帶來最大貢獻，也是我們第一個顯示銷售勢頭有所恢復的報告分部，原因在於該地區自2020年3"
+      },
+      {
+        "block_id": "p19_b6",
+        "block_type": "body",
+        "source_text": "月逐步放寬嚴格的封鎖。撇除維持低位的中國內地訪港旅客銷售額，本集團其他分部的新業務價值在下半年強勁"
+      },
+      {
+        "block_id": "p19_b7",
+        "block_type": "body",
+        "source_text": "復甦，與上半年相比增長了23%。本集團的新業務發展勢頭在2021年持續強勁，首兩個月新業務價值較2020年同"
+      },
+      {
+        "block_id": "p19_b8",
+        "block_type": "label",
+        "source_text": "期高出15%。"
+      }
+    ],
+    "joined_source_text": "團的新業務價值帶來最大貢獻，也是我們第一個顯示銷售勢頭有所恢復的報告分部，原因在於該地區自2020年3\n月逐步放寬嚴格的封鎖。撇除維持低位的中國內地訪港旅客銷售額，本集團其他分部的新業務價值在下半年強勁\n復甦，與上半年相比增長了23%。本集團的新業務發展勢頭在2021年持續強勁，首兩個月新業務價值較2020年同\n期高出15%。"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p19_g02",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

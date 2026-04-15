@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p19_g02",
+      "translation": "contributed the most to the Group's VONB and was the first reporting segment to demonstrate a recovery in sales momentum, as the region gradually relaxed strict lockdown measures from March 2020 onwards. Excluding Mainland Chinese visitors sales, which remained subdued, the Group's other segments showed strong VONB recovery in the second half, growing 23% compared to the first half. The Group's new business momentum remained robust into 2021, with VONB in the first two months up 15% compared to the same period in 2020."
+    }
+  ]
+}
+```

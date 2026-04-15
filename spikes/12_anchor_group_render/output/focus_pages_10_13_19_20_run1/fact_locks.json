@@ -1,0 +1,1726 @@
+[
+  {
+    "group_id": "p10_g04",
+    "page_no": 10,
+    "label": "usd_amount_27.65",
+    "fact_type": "usd_scaled_amount",
+    "source_value": "27.65億美元",
+    "expected_forms": [
+      "US$2.765 billion",
+      "US$2765 million",
+      "US$2,765 million"
+    ],
+    "expected_numbers": [
+      "2.765",
+      "2765"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p10_b19",
+      "p10_b20"
+    ],
+    "source_evidence_text": "由於2019冠狀病毒病相關的控制措施對新業務銷售造成影響，新業務價值下降至27.65億美元",
+    "importance": "medium",
+    "validate": false
+  },
+  {
+    "group_id": "p10_b21",
+    "page_no": 10,
+    "label": "percentage_15",
+    "fact_type": "percentage",
+    "source_value": "15%",
+    "expected_forms": [
+      "15%"
+    ],
+    "expected_numbers": [
+      "15"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p10_b21"
+    ],
+    "source_evidence_text": "與去年同期比較，2021年首兩個月的新業務價值增長15%",
+    "importance": "low",
+    "validate": false
+  },
+  {
+    "group_id": "p10_g05",
+    "page_no": 10,
+    "label": "date_2020",
+    "fact_type": "date",
+    "source_value": "截至2020年12月31日",
+    "expected_forms": [
+      "31 12 2020"
+    ],
+    "expected_numbers": [
+      "2020",
+      "12",
+      "31"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p10_b22",
+      "p10_b23",
+      "p10_b24"
+    ],
+    "source_evidence_text": "截至2020年12月31日，集團當地資本總和法覆蓋率為374%，足證我們雄厚的資本實力和嚴謹的財務管理",
+    "importance": "medium",
+    "validate": false
+  },
+  {
+    "group_id": "p10_g05",
+    "page_no": 10,
+    "label": "ufsg_usd",
+    "fact_type": "usd_scaled_amount",
+    "source_value": "59.42億美元",
+    "expected_forms": [
+      "US$5.942 billion",
+      "US$5942 million",
+      "US$5,942 million"
+    ],
+    "expected_numbers": [
+      "5.942",
+      "5942"
+    ],
+    "required_keywords": [
+      "ufsg",
+      "underlying free surplus generation"
+    ],
+    "source_block_ids": [
+      "p10_b22",
+      "p10_b23",
+      "p10_b24"
+    ],
+    "source_evidence_text": "稅後營運溢利增長5%至59.42億美元，產生的基本自由盈餘則上升7%至58.43億美元，反映我們擁有高質素的經常性盈利來源",
+    "importance": "high",
+    "validate": true
+  },
+  {
+    "group_id": "p10_g05",
+    "page_no": 10,
+    "label": "ufsg_usd",
+    "fact_type": "usd_scaled_amount",
+    "source_value": "58.43億美元",
+    "expected_forms": [
+      "US$5.843 billion",
+      "US$5843 million",
+      "US$5,843 million"
+    ],
+    "expected_numbers": [
+      "5.843",
+      "5843"
+    ],
+    "required_keywords": [
+      "ufsg",
+      "underlying free surplus generation"
+    ],
+    "source_block_ids": [
+      "p10_b22",
+      "p10_b23",
+      "p10_b24"
+    ],
+    "source_evidence_text": "稅後營運溢利增長5%至59.42億美元，產生的基本自由盈餘則上升7%至58.43億美元，反映我們擁有高質素的經常性盈利來源",
+    "importance": "high",
+    "validate": true
+  },
+  {
+    "group_id": "p10_g05",
+    "page_no": 10,
+    "label": "ev_equity_usd",
+    "fact_type": "usd_scaled_amount",
+    "source_value": "672億美元",
+    "expected_forms": [
+      "US$67.2 billion",
+      "US$67200 million",
+      "US$67,200 million"
+    ],
+    "expected_numbers": [
+      "67.2",
+      "67200"
+    ],
+    "required_keywords": [
+      "embedded value",
+      "ev equity"
+    ],
+    "source_block_ids": [
+      "p10_b22",
+      "p10_b23",
+      "p10_b24"
+    ],
+    "source_evidence_text": "內涵價值權益創新高，達672億美元",
+    "importance": "high",
+    "validate": true
+  },
+  {
+    "group_id": "p10_g05",
+    "page_no": 10,
+    "label": "percentage_5",
+    "fact_type": "percentage",
+    "source_value": "5%",
+    "expected_forms": [
+      "5%"
+    ],
+    "expected_numbers": [
+      "5"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p10_b22",
+      "p10_b23",
+      "p10_b24"
+    ],
+    "source_evidence_text": "稅後營運溢利增長5%至59.42億美元，產生的基本自由盈餘則上升7%至58.43億美元，反映我們擁有高質素的經常性盈利來源",
+    "importance": "low",
+    "validate": false
+  },
+  {
+    "group_id": "p10_g05",
+    "page_no": 10,
+    "label": "percentage_7",
+    "fact_type": "percentage",
+    "source_value": "7%",
+    "expected_forms": [
+      "7%"
+    ],
+    "expected_numbers": [
+      "7"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p10_b22",
+      "p10_b23",
+      "p10_b24"
+    ],
+    "source_evidence_text": "稅後營運溢利增長5%至59.42億美元，產生的基本自由盈餘則上升7%至58.43億美元，反映我們擁有高質素的經常性盈利來源",
+    "importance": "low",
+    "validate": false
+  },
+  {
+    "group_id": "p10_g05",
+    "page_no": 10,
+    "label": "group_lcsm_cover_ratio_pct",
+    "fact_type": "percentage",
+    "source_value": "374%",
+    "expected_forms": [
+      "374%"
+    ],
+    "expected_numbers": [
+      "374"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p10_b22",
+      "p10_b23",
+      "p10_b24"
+    ],
+    "source_evidence_text": "截至2020年12月31日，集團當地資本總和法覆蓋率為374%，足證我們雄厚的資本實力和嚴謹的財務管理",
+    "importance": "medium",
+    "validate": true
+  },
+  {
+    "group_id": "p10_g06",
+    "page_no": 10,
+    "label": "final_dividend_per_share",
+    "fact_type": "hk_cents_per_share",
+    "source_value": "100.30港仙",
+    "expected_forms": [
+      "100.30 Hong Kong cents per share"
+    ],
+    "expected_numbers": [
+      "100.30"
+    ],
+    "required_keywords": [
+      "final dividend"
+    ],
+    "source_block_ids": [
+      "p10_b25",
+      "p10_b26"
+    ],
+    "source_evidence_text": "董事會建議派發末期股息每股100.30港仙，增加7.5%，反映我們的財務業績穩健強韌，同時董事會持續對本集團未來前景充滿信心",
+    "importance": "high",
+    "validate": true
+  },
+  {
+    "group_id": "p10_g06",
+    "page_no": 10,
+    "label": "total_dividend_per_share",
+    "fact_type": "hk_cents_per_share",
+    "source_value": "135.30港仙",
+    "expected_forms": [
+      "135.30 Hong Kong cents per share"
+    ],
+    "expected_numbers": [
+      "135.30"
+    ],
+    "required_keywords": [
+      "total dividend"
+    ],
+    "source_block_ids": [
+      "p10_b25",
+      "p10_b26"
+    ],
+    "source_evidence_text": "這使2020年的全年股息達到每股135.30港仙",
+    "importance": "high",
+    "validate": true
+  },
+  {
+    "group_id": "p10_g06",
+    "page_no": 10,
+    "label": "percentage_7.5",
+    "fact_type": "percentage",
+    "source_value": "7.5%",
+    "expected_forms": [
+      "7.5%"
+    ],
+    "expected_numbers": [
+      "7.5"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p10_b25",
+      "p10_b26"
+    ],
+    "source_evidence_text": "董事會建議派發末期股息每股100.30港仙，增加7.5%，反映我們的財務業績穩健強韌，同時董事會持續對本集團未來前景充滿信心",
+    "importance": "low",
+    "validate": false
+  },
+  {
+    "group_id": "p13_g02",
+    "page_no": 13,
+    "label": "usd_amount_160",
+    "fact_type": "usd_scaled_amount",
+    "source_value": "160億美元",
+    "expected_forms": [
+      "US$16 billion",
+      "US$16000 million",
+      "US$16,000 million"
+    ],
+    "expected_numbers": [
+      "16",
+      "16000"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p13_b5",
+      "p13_b6",
+      "p13_b7",
+      "p13_b8"
+    ],
+    "source_evidence_text": "我們一如既往找出每一個可以作出理賠的理由，年內已支付逾160億美元的保險給付及理賠，為客戶提供極其重要的財務保障",
+    "importance": "medium",
+    "validate": false
+  },
+  {
+    "group_id": "p13_g03",
+    "page_no": 13,
+    "label": "date_2020",
+    "fact_type": "date",
+    "source_value": "截至2020年12月31日",
+    "expected_forms": [
+      "31 12 2020"
+    ],
+    "expected_numbers": [
+      "2020",
+      "12",
+      "31"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p13_b9",
+      "p13_b10",
+      "p13_b11",
+      "p13_b12",
+      "p13_b13"
+    ],
+    "source_evidence_text": "截至2020年12月31日，內涵價值權益創新高，達672億美元，集團當地資本總和法覆蓋率為374%，足證我們雄厚的資本實力和嚴謹的財務管理",
+    "importance": "medium",
+    "validate": false
+  },
+  {
+    "group_id": "p13_g03",
+    "page_no": 13,
+    "label": "usd_amount_27.65",
+    "fact_type": "usd_scaled_amount",
+    "source_value": "27.65億美元",
+    "expected_forms": [
+      "US$2.765 billion",
+      "US$2765 million",
+      "US$2,765 million"
+    ],
+    "expected_numbers": [
+      "2.765",
+      "2765"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p13_b9",
+      "p13_b10",
+      "p13_b11",
+      "p13_b12",
+      "p13_b13"
+    ],
+    "source_evidence_text": "儘管為遏制2019冠狀病毒病傳播的措施導致新業務價值減少至27.65億美元，但隨著外出限制放寬，銷售動力轉趨正面，並在2021年展開非常強勁的勢頭，首兩個月的新業務價值按年增長15%",
+    "importance": "medium",
+    "validate": false
+  },
+  {
+    "group_id": "p13_g03",
+    "page_no": 13,
+    "label": "ev_equity_usd",
+    "fact_type": "usd_scaled_amount",
+    "source_value": "672億美元",
+    "expected_forms": [
+      "US$67.2 billion",
+      "US$67200 million",
+      "US$67,200 million"
+    ],
+    "expected_numbers": [
+      "67.2",
+      "67200"
+    ],
+    "required_keywords": [
+      "embedded value",
+      "ev equity"
+    ],
+    "source_block_ids": [
+      "p13_b9",
+      "p13_b10",
+      "p13_b11",
+      "p13_b12",
+      "p13_b13"
+    ],
+    "source_evidence_text": "截至2020年12月31日，內涵價值權益創新高，達672億美元，集團當地資本總和法覆蓋率為374%，足證我們雄厚的資本實力和嚴謹的財務管理",
+    "importance": "high",
+    "validate": true
+  },
+  {
+    "group_id": "p13_g03",
+    "page_no": 13,
+    "label": "percentage_15",
+    "fact_type": "percentage",
+    "source_value": "15%",
+    "expected_forms": [
+      "15%"
+    ],
+    "expected_numbers": [
+      "15"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p13_b9",
+      "p13_b10",
+      "p13_b11",
+      "p13_b12",
+      "p13_b13"
+    ],
+    "source_evidence_text": "儘管為遏制2019冠狀病毒病傳播的措施導致新業務價值減少至27.65億美元，但隨著外出限制放寬，銷售動力轉趨正面，並在2021年展開非常強勁的勢頭，首兩個月的新業務價值按年增長15%",
+    "importance": "low",
+    "validate": false
+  },
+  {
+    "group_id": "p13_g03",
+    "page_no": 13,
+    "label": "percentage_5",
+    "fact_type": "percentage",
+    "source_value": "5%",
+    "expected_forms": [
+      "5%"
+    ],
+    "expected_numbers": [
+      "5"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p13_b9",
+      "p13_b10",
+      "p13_b11",
+      "p13_b12",
+      "p13_b13"
+    ],
+    "source_evidence_text": "我們規模龐大和持續增長的有效保單組合所帶來的高質素和經常性收入來源，帶動2020年稅後營運溢利增加5%，期內產生的基本自由盈餘則增長7%",
+    "importance": "low",
+    "validate": false
+  },
+  {
+    "group_id": "p13_g03",
+    "page_no": 13,
+    "label": "percentage_7",
+    "fact_type": "percentage",
+    "source_value": "7%",
+    "expected_forms": [
+      "7%"
+    ],
+    "expected_numbers": [
+      "7"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p13_b9",
+      "p13_b10",
+      "p13_b11",
+      "p13_b12",
+      "p13_b13"
+    ],
+    "source_evidence_text": "我們規模龐大和持續增長的有效保單組合所帶來的高質素和經常性收入來源，帶動2020年稅後營運溢利增加5%，期內產生的基本自由盈餘則增長7%",
+    "importance": "low",
+    "validate": false
+  },
+  {
+    "group_id": "p13_g03",
+    "page_no": 13,
+    "label": "group_lcsm_cover_ratio_pct",
+    "fact_type": "percentage",
+    "source_value": "374%",
+    "expected_forms": [
+      "374%"
+    ],
+    "expected_numbers": [
+      "374"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p13_b9",
+      "p13_b10",
+      "p13_b11",
+      "p13_b12",
+      "p13_b13"
+    ],
+    "source_evidence_text": "截至2020年12月31日，內涵價值權益創新高，達672億美元，集團當地資本總和法覆蓋率為374%，足證我們雄厚的資本實力和嚴謹的財務管理",
+    "importance": "medium",
+    "validate": true
+  },
+  {
+    "group_id": "p13_g04",
+    "page_no": 13,
+    "label": "final_dividend_per_share",
+    "fact_type": "hk_cents_per_share",
+    "source_value": "100.30港仙",
+    "expected_forms": [
+      "100.30 Hong Kong cents per share"
+    ],
+    "expected_numbers": [
+      "100.30"
+    ],
+    "required_keywords": [
+      "final dividend"
+    ],
+    "source_block_ids": [
+      "p13_b14",
+      "p13_b15"
+    ],
+    "source_evidence_text": "董事會建議2020年末期股息增加7.5%至每股100.30港仙",
+    "importance": "high",
+    "validate": true
+  },
+  {
+    "group_id": "p13_g04",
+    "page_no": 13,
+    "label": "percentage_7.5",
+    "fact_type": "percentage",
+    "source_value": "7.5%",
+    "expected_forms": [
+      "7.5%"
+    ],
+    "expected_numbers": [
+      "7.5"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p13_b14",
+      "p13_b15"
+    ],
+    "source_evidence_text": "董事會建議2020年末期股息增加7.5%至每股100.30港仙",
+    "importance": "low",
+    "validate": false
+  },
+  {
+    "group_id": "p19_g01",
+    "page_no": 19,
+    "label": "usd_amount_27.65",
+    "fact_type": "usd_scaled_amount",
+    "source_value": "27.65億美元",
+    "expected_forms": [
+      "US$2.765 billion",
+      "US$2765 million",
+      "US$2,765 million"
+    ],
+    "expected_numbers": [
+      "2.765",
+      "2765"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p19_b1",
+      "p19_b2",
+      "p19_b3"
+    ],
+    "source_evidence_text": "儘管2020年的新業務價值27.65億美元較2019年減少了33%，我們迅速採用了新的數碼工具，並且外出限制的普遍放寬支持了銷售勢頭的恢復",
+    "importance": "medium",
+    "validate": false
+  },
+  {
+    "group_id": "p19_g01",
+    "page_no": 19,
+    "label": "percentage_33",
+    "fact_type": "percentage",
+    "source_value": "33%",
+    "expected_forms": [
+      "33%"
+    ],
+    "expected_numbers": [
+      "33"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p19_b1",
+      "p19_b2",
+      "p19_b3"
+    ],
+    "source_evidence_text": "儘管2020年的新業務價值27.65億美元較2019年減少了33%，我們迅速採用了新的數碼工具，並且外出限制的普遍放寬支持了銷售勢頭的恢復",
+    "importance": "low",
+    "validate": false
+  },
+  {
+    "group_id": "p19_g02",
+    "page_no": 19,
+    "label": "percentage_23",
+    "fact_type": "percentage",
+    "source_value": "23%",
+    "expected_forms": [
+      "23%"
+    ],
+    "expected_numbers": [
+      "23"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p19_b5",
+      "p19_b6",
+      "p19_b7",
+      "p19_b8"
+    ],
+    "source_evidence_text": "撇除維持低位的中國內地訪港旅客銷售額，本集團其他分部的新業務價值在下半年強勁復甦，與上半年相比增長了23%",
+    "importance": "low",
+    "validate": false
+  },
+  {
+    "group_id": "p19_g02",
+    "page_no": 19,
+    "label": "percentage_15",
+    "fact_type": "percentage",
+    "source_value": "15%",
+    "expected_forms": [
+      "15%"
+    ],
+    "expected_numbers": [
+      "15"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p19_b5",
+      "p19_b6",
+      "p19_b7",
+      "p19_b8"
+    ],
+    "source_evidence_text": "本集團的新業務發展勢頭在2021年持續強勁，首兩個月新業務價值較2020年同期高出15%",
+    "importance": "low",
+    "validate": false
+  },
+  {
+    "group_id": "p19_b9",
+    "page_no": 19,
+    "label": "date_2020",
+    "fact_type": "date",
+    "source_value": "截至2020年12月31日",
+    "expected_forms": [
+      "31 12 2020"
+    ],
+    "expected_numbers": [
+      "2020",
+      "12",
+      "31"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p19_b9"
+    ],
+    "source_evidence_text": "截至2020年12月31日的內涵價值權益創下新高為671.85億美元，於派付股息19.97億美元之前增加52.77億美元，",
+    "importance": "medium",
+    "validate": false
+  },
+  {
+    "group_id": "p19_b9",
+    "page_no": 19,
+    "label": "dividend_paid_usd",
+    "fact_type": "usd_scaled_amount",
+    "source_value": "671.85億美元",
+    "expected_forms": [
+      "US$67.185 billion",
+      "US$67185 million",
+      "US$67,185 million"
+    ],
+    "expected_numbers": [
+      "67.185",
+      "67185"
+    ],
+    "required_keywords": [
+      "dividend"
+    ],
+    "source_block_ids": [
+      "p19_b9"
+    ],
+    "source_evidence_text": "截至2020年12月31日的內涵價值權益創下新高為671.85億美元，於派付股息19.97億美元之前增加52.77億美元，",
+    "importance": "high",
+    "validate": true
+  },
+  {
+    "group_id": "p19_b9",
+    "page_no": 19,
+    "label": "dividend_paid_usd",
+    "fact_type": "usd_scaled_amount",
+    "source_value": "19.97億美元",
+    "expected_forms": [
+      "US$1.997 billion",
+      "US$1997 million",
+      "US$1,997 million"
+    ],
+    "expected_numbers": [
+      "1.997",
+      "1997"
+    ],
+    "required_keywords": [
+      "dividend"
+    ],
+    "source_block_ids": [
+      "p19_b9"
+    ],
+    "source_evidence_text": "截至2020年12月31日的內涵價值權益創下新高為671.85億美元，於派付股息19.97億美元之前增加52.77億美元，",
+    "importance": "high",
+    "validate": true
+  },
+  {
+    "group_id": "p19_b9",
+    "page_no": 19,
+    "label": "dividend_paid_usd",
+    "fact_type": "usd_scaled_amount",
+    "source_value": "52.77億美元",
+    "expected_forms": [
+      "US$5.277 billion",
+      "US$5277 million",
+      "US$5,277 million"
+    ],
+    "expected_numbers": [
+      "5.277",
+      "5277"
+    ],
+    "required_keywords": [
+      "dividend"
+    ],
+    "source_block_ids": [
+      "p19_b9"
+    ],
+    "source_evidence_text": "截至2020年12月31日的內涵價值權益創下新高為671.85億美元，於派付股息19.97億美元之前增加52.77億美元，",
+    "importance": "high",
+    "validate": true
+  },
+  {
+    "group_id": "p19_g03",
+    "page_no": 19,
+    "label": "ev_operating_profit_usd",
+    "fact_type": "usd_scaled_amount",
+    "source_value": "72.43億美元",
+    "expected_forms": [
+      "US$7.243 billion",
+      "US$7243 million",
+      "US$7,243 million"
+    ],
+    "expected_numbers": [
+      "7.243",
+      "7243"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p19_b10",
+      "p19_b11"
+    ],
+    "source_evidence_text": "原因在於內涵價值營運溢利72.43億美元抵銷了政府債券收益率下降的影響",
+    "importance": "medium",
+    "validate": false
+  },
+  {
+    "group_id": "p19_g03",
+    "page_no": 19,
+    "label": "ev_operating_profit_usd",
+    "fact_type": "usd_scaled_amount",
+    "source_value": "5.49億美元",
+    "expected_forms": [
+      "US$0.549 billion",
+      "US$549 million",
+      "US$549 million"
+    ],
+    "expected_numbers": [
+      "0.549",
+      "549"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p19_b10",
+      "p19_b11"
+    ],
+    "source_evidence_text": "內涵價值營運溢利包括來自正面營運差異5.49億美元，原因在於與我們的內涵價值假設相比，我們的整體經驗持續維持正面",
+    "importance": "medium",
+    "validate": false
+  },
+  {
+    "group_id": "p19_g04",
+    "page_no": 19,
+    "label": "opat_usd",
+    "fact_type": "usd_scaled_amount",
+    "source_value": "59.42億美元",
+    "expected_forms": [
+      "US$5.942 billion",
+      "US$5942 million",
+      "US$5,942 million"
+    ],
+    "expected_numbers": [
+      "5.942",
+      "5942"
+    ],
+    "required_keywords": [
+      "opat",
+      "operating profit after tax"
+    ],
+    "source_block_ids": [
+      "p19_b12",
+      "p19_b13",
+      "p19_b14",
+      "p19_b15",
+      "p19_b16",
+      "p19_b17"
+    ],
+    "source_evidence_text": "我們的高質素、經常性盈利來源以及對有效保單組合的積極管理，帶動稅後營運溢利增長了5%至59.42億美元，並使營運溢利率穩定在16.9%",
+    "importance": "high",
+    "validate": true
+  },
+  {
+    "group_id": "p19_g04",
+    "page_no": 19,
+    "label": "percentage_5",
+    "fact_type": "percentage",
+    "source_value": "5%",
+    "expected_forms": [
+      "5%"
+    ],
+    "expected_numbers": [
+      "5"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p19_b12",
+      "p19_b13",
+      "p19_b14",
+      "p19_b15",
+      "p19_b16",
+      "p19_b17"
+    ],
+    "source_evidence_text": "我們的高質素、經常性盈利來源以及對有效保單組合的積極管理，帶動稅後營運溢利增長了5%至59.42億美元，並使營運溢利率穩定在16.9%",
+    "importance": "low",
+    "validate": false
+  },
+  {
+    "group_id": "p19_g04",
+    "page_no": 19,
+    "label": "percentage_16.9",
+    "fact_type": "percentage",
+    "source_value": "16.9%",
+    "expected_forms": [
+      "16.9%"
+    ],
+    "expected_numbers": [
+      "16.9"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p19_b12",
+      "p19_b13",
+      "p19_b14",
+      "p19_b15",
+      "p19_b16",
+      "p19_b17"
+    ],
+    "source_evidence_text": "我們的高質素、經常性盈利來源以及對有效保單組合的積極管理，帶動稅後營運溢利增長了5%至59.42億美元，並使營運溢利率穩定在16.9%",
+    "importance": "low",
+    "validate": false
+  },
+  {
+    "group_id": "p19_g04",
+    "page_no": 19,
+    "label": "percentage_10",
+    "fact_type": "percentage",
+    "source_value": "10%",
+    "expected_forms": [
+      "10%"
+    ],
+    "expected_numbers": [
+      "10"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p19_b12",
+      "p19_b13",
+      "p19_b14",
+      "p19_b15",
+      "p19_b16",
+      "p19_b17"
+    ],
+    "source_evidence_text": "所收取的續保保費增加了10%，經常性保費總額佔2020年所收取保費的90%以上",
+    "importance": "low",
+    "validate": false
+  },
+  {
+    "group_id": "p19_g04",
+    "page_no": 19,
+    "label": "percentage_90",
+    "fact_type": "percentage",
+    "source_value": "90%",
+    "expected_forms": [
+      "90%"
+    ],
+    "expected_numbers": [
+      "90"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p19_b12",
+      "p19_b13",
+      "p19_b14",
+      "p19_b15",
+      "p19_b16",
+      "p19_b17"
+    ],
+    "source_evidence_text": "所收取的續保保費增加了10%，經常性保費總額佔2020年所收取保費的90%以上",
+    "importance": "low",
+    "validate": false
+  },
+  {
+    "group_id": "p19_g04",
+    "page_no": 19,
+    "label": "percentage_95",
+    "fact_type": "percentage",
+    "source_value": "95%",
+    "expected_forms": [
+      "95%"
+    ],
+    "expected_numbers": [
+      "95"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p19_b12",
+      "p19_b13",
+      "p19_b14",
+      "p19_b15",
+      "p19_b16",
+      "p19_b17"
+    ],
+    "source_evidence_text": "在友邦保險泰國業務的失效經驗恢復正常的情況下，下半年的續保率有所改善，而本集團的續保率為95%",
+    "importance": "low",
+    "validate": false
+  },
+  {
+    "group_id": "p19_g05",
+    "page_no": 19,
+    "label": "date_2020",
+    "fact_type": "date",
+    "source_value": "2020年12月31日",
+    "expected_forms": [
+      "31 12 2020"
+    ],
+    "expected_numbers": [
+      "2020",
+      "12",
+      "31"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p19_b18",
+      "p19_b19",
+      "p19_b20"
+    ],
+    "source_evidence_text": "於2020年12月31日，本集團的財務狀況仍然十分強勁，於派付股息19.97億美元後，自由盈餘為134.73億美元",
+    "importance": "medium",
+    "validate": false
+  },
+  {
+    "group_id": "p19_g05",
+    "page_no": 19,
+    "label": "ufsg_usd",
+    "fact_type": "usd_scaled_amount",
+    "source_value": "58.43億美元",
+    "expected_forms": [
+      "US$5.843 billion",
+      "US$5843 million",
+      "US$5,843 million"
+    ],
+    "expected_numbers": [
+      "5.843",
+      "5843"
+    ],
+    "required_keywords": [
+      "ufsg",
+      "underlying free surplus generation"
+    ],
+    "source_block_ids": [
+      "p19_b18",
+      "p19_b19",
+      "p19_b20"
+    ],
+    "source_evidence_text": "產生的基本自由盈餘為58.43億美元，增長了7%，是由我們有效保單組合的持續增長和我們對此積極管理所帶動，這足以抵銷預期投資回報降低的影響",
+    "importance": "high",
+    "validate": true
+  },
+  {
+    "group_id": "p19_g05",
+    "page_no": 19,
+    "label": "dividend_paid_usd",
+    "fact_type": "usd_scaled_amount",
+    "source_value": "19.97億美元",
+    "expected_forms": [
+      "US$1.997 billion",
+      "US$1997 million",
+      "US$1,997 million"
+    ],
+    "expected_numbers": [
+      "1.997",
+      "1997"
+    ],
+    "required_keywords": [
+      "dividend"
+    ],
+    "source_block_ids": [
+      "p19_b18",
+      "p19_b19",
+      "p19_b20"
+    ],
+    "source_evidence_text": "於2020年12月31日，本集團的財務狀況仍然十分強勁，於派付股息19.97億美元後，自由盈餘為134.73億美元",
+    "importance": "high",
+    "validate": true
+  },
+  {
+    "group_id": "p19_g05",
+    "page_no": 19,
+    "label": "free_surplus_usd",
+    "fact_type": "usd_scaled_amount",
+    "source_value": "134.73億美元",
+    "expected_forms": [
+      "US$13.473 billion",
+      "US$13473 million",
+      "US$13,473 million"
+    ],
+    "expected_numbers": [
+      "13.473",
+      "13473"
+    ],
+    "required_keywords": [
+      "free surplus"
+    ],
+    "source_block_ids": [
+      "p19_b18",
+      "p19_b19",
+      "p19_b20"
+    ],
+    "source_evidence_text": "於2020年12月31日，本集團的財務狀況仍然十分強勁，於派付股息19.97億美元後，自由盈餘為134.73億美元",
+    "importance": "high",
+    "validate": true
+  },
+  {
+    "group_id": "p19_g05",
+    "page_no": 19,
+    "label": "percentage_7",
+    "fact_type": "percentage",
+    "source_value": "7%",
+    "expected_forms": [
+      "7%"
+    ],
+    "expected_numbers": [
+      "7"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p19_b18",
+      "p19_b19",
+      "p19_b20"
+    ],
+    "source_evidence_text": "產生的基本自由盈餘為58.43億美元，增長了7%，是由我們有效保單組合的持續增長和我們對此積極管理所帶動，這足以抵銷預期投資回報降低的影響",
+    "importance": "low",
+    "validate": false
+  },
+  {
+    "group_id": "p19_g06",
+    "page_no": 19,
+    "label": "date_2020",
+    "fact_type": "date",
+    "source_value": "2020年12月31日",
+    "expected_forms": [
+      "31 12 2020"
+    ],
+    "expected_numbers": [
+      "2020",
+      "12",
+      "31"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p19_b21",
+      "p19_b22",
+      "p19_b23"
+    ],
+    "source_evidence_text": "於2020年12月31日，我們的主要營運公司友邦保險有限公司（AIA Co.）的償付能力充足率仍然非常強勁，為489%",
+    "importance": "medium",
+    "validate": false
+  },
+  {
+    "group_id": "p19_g06",
+    "page_no": 19,
+    "label": "solvency_ratio_pct",
+    "fact_type": "percentage",
+    "source_value": "489%",
+    "expected_forms": [
+      "489%"
+    ],
+    "expected_numbers": [
+      "489"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p19_b21",
+      "p19_b22",
+      "p19_b23"
+    ],
+    "source_evidence_text": "於2020年12月31日，我們的主要營運公司友邦保險有限公司（AIA Co.）的償付能力充足率仍然非常強勁，為489%",
+    "importance": "medium",
+    "validate": true
+  },
+  {
+    "group_id": "p19_g06",
+    "page_no": 19,
+    "label": "group_lcsm_cover_ratio_pct",
+    "fact_type": "percentage",
+    "source_value": "374%",
+    "expected_forms": [
+      "374%"
+    ],
+    "expected_numbers": [
+      "374"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p19_b21",
+      "p19_b22",
+      "p19_b23"
+    ],
+    "source_evidence_text": "於2020年12月31日，在新的集團監管框架下，集團當地資本總和法覆蓋率為374%",
+    "importance": "medium",
+    "validate": true
+  },
+  {
+    "group_id": "p19_g07",
+    "page_no": 19,
+    "label": "final_dividend_per_share",
+    "fact_type": "hk_cents_per_share",
+    "source_value": "100.30港仙",
+    "expected_forms": [
+      "100.30 Hong Kong cents per share"
+    ],
+    "expected_numbers": [
+      "100.30"
+    ],
+    "required_keywords": [
+      "final dividend"
+    ],
+    "source_block_ids": [
+      "p19_b24",
+      "p19_b25",
+      "p19_b26"
+    ],
+    "source_evidence_text": "董事會建議末期股息增加7.5%至每股100.30港仙，並須於本公司應屆股東週年大會上獲股東批准",
+    "importance": "high",
+    "validate": true
+  },
+  {
+    "group_id": "p19_g07",
+    "page_no": 19,
+    "label": "total_dividend_per_share",
+    "fact_type": "hk_cents_per_share",
+    "source_value": "135.30港仙",
+    "expected_forms": [
+      "135.30 Hong Kong cents per share"
+    ],
+    "expected_numbers": [
+      "135.30"
+    ],
+    "required_keywords": [
+      "total dividend"
+    ],
+    "source_block_ids": [
+      "p19_b24",
+      "p19_b25",
+      "p19_b26"
+    ],
+    "source_evidence_text": "這使2020年的全年股息總額為每股135.30港仙，較2019年的全年股息總額上升6.9%",
+    "importance": "high",
+    "validate": true
+  },
+  {
+    "group_id": "p19_g07",
+    "page_no": 19,
+    "label": "percentage_7.5",
+    "fact_type": "percentage",
+    "source_value": "7.5%",
+    "expected_forms": [
+      "7.5%"
+    ],
+    "expected_numbers": [
+      "7.5"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p19_b24",
+      "p19_b25",
+      "p19_b26"
+    ],
+    "source_evidence_text": "董事會建議末期股息增加7.5%至每股100.30港仙，並須於本公司應屆股東週年大會上獲股東批准",
+    "importance": "low",
+    "validate": false
+  },
+  {
+    "group_id": "p19_g07",
+    "page_no": 19,
+    "label": "percentage_6.9",
+    "fact_type": "percentage",
+    "source_value": "6.9%",
+    "expected_forms": [
+      "6.9%"
+    ],
+    "expected_numbers": [
+      "6.9"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p19_b24",
+      "p19_b25",
+      "p19_b26"
+    ],
+    "source_evidence_text": "這使2020年的全年股息總額為每股135.30港仙，較2019年的全年股息總額上升6.9%",
+    "importance": "low",
+    "validate": false
+  },
+  {
+    "group_id": "p20_b9",
+    "page_no": 20,
+    "label": "percentage_55044.7",
+    "fact_type": "percentage",
+    "source_value": "55044.7%",
+    "expected_forms": [
+      "55044.7%"
+    ],
+    "expected_numbers": [
+      "55044.7"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p20_b9"
+    ],
+    "source_evidence_text": "香港55044.7%1,1381,62166.1%2,393(66)%(66)%",
+    "importance": "low",
+    "validate": false
+  },
+  {
+    "group_id": "p20_b9",
+    "page_no": 20,
+    "label": "percentage_62166.1",
+    "fact_type": "percentage",
+    "source_value": "62166.1%",
+    "expected_forms": [
+      "62166.1%"
+    ],
+    "expected_numbers": [
+      "62166.1"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p20_b9"
+    ],
+    "source_evidence_text": "香港55044.7%1,1381,62166.1%2,393(66)%(66)%",
+    "importance": "low",
+    "validate": false
+  },
+  {
+    "group_id": "p20_b10",
+    "page_no": 20,
+    "label": "percentage_46971.0",
+    "fact_type": "percentage",
+    "source_value": "46971.0%",
+    "expected_forms": [
+      "46971.0%"
+    ],
+    "expected_numbers": [
+      "46971.0"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p20_b10"
+    ],
+    "source_evidence_text": "泰國46971.0%66149467.7%729(4)%(5)%",
+    "importance": "low",
+    "validate": false
+  },
+  {
+    "group_id": "p20_b10",
+    "page_no": 20,
+    "label": "percentage_66149467.7",
+    "fact_type": "percentage",
+    "source_value": "66149467.7%",
+    "expected_forms": [
+      "66149467.7%"
+    ],
+    "expected_numbers": [
+      "66149467.7"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p20_b10"
+    ],
+    "source_evidence_text": "泰國46971.0%66149467.7%729(4)%(5)%",
+    "importance": "low",
+    "validate": false
+  },
+  {
+    "group_id": "p20_b11",
+    "page_no": 20,
+    "label": "percentage_33063.4",
+    "fact_type": "percentage",
+    "source_value": "33063.4%",
+    "expected_forms": [
+      "33063.4%"
+    ],
+    "expected_numbers": [
+      "33063.4"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p20_b11"
+    ],
+    "source_evidence_text": "新加坡33063.4%52035265.5%538(5)%(6)%",
+    "importance": "low",
+    "validate": false
+  },
+  {
+    "group_id": "p20_b11",
+    "page_no": 20,
+    "label": "percentage_52035265.5",
+    "fact_type": "percentage",
+    "source_value": "52035265.5%",
+    "expected_forms": [
+      "52035265.5%"
+    ],
+    "expected_numbers": [
+      "52035265.5"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p20_b11"
+    ],
+    "source_evidence_text": "新加坡33063.4%52035265.5%538(5)%(6)%",
+    "importance": "low",
+    "validate": false
+  },
+  {
+    "group_id": "p20_b12",
+    "page_no": 20,
+    "label": "percentage_22259.9",
+    "fact_type": "percentage",
+    "source_value": "22259.9%",
+    "expected_forms": [
+      "22259.9%"
+    ],
+    "expected_numbers": [
+      "22259.9"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p20_b12"
+    ],
+    "source_evidence_text": "馬來西亞22259.9%36925863.1%406(13)%(14)%",
+    "importance": "low",
+    "validate": false
+  },
+  {
+    "group_id": "p20_b12",
+    "page_no": 20,
+    "label": "percentage_36925863.1",
+    "fact_type": "percentage",
+    "source_value": "36925863.1%",
+    "expected_forms": [
+      "36925863.1%"
+    ],
+    "expected_numbers": [
+      "36925863.1"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p20_b12"
+    ],
+    "source_evidence_text": "馬來西亞22259.9%36925863.1%406(13)%(14)%",
+    "importance": "low",
+    "validate": false
+  },
+  {
+    "group_id": "p20_b13",
+    "page_no": 20,
+    "label": "percentage_96880.9",
+    "fact_type": "percentage",
+    "source_value": "96880.9%",
+    "expected_forms": [
+      "96880.9%"
+    ],
+    "expected_numbers": [
+      "96880.9"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p20_b13"
+    ],
+    "source_evidence_text": "中國內地96880.9%1,1971,16793.5%1,248(17)%(17)%",
+    "importance": "low",
+    "validate": false
+  },
+  {
+    "group_id": "p20_b13",
+    "page_no": 20,
+    "label": "percentage_16793.5",
+    "fact_type": "percentage",
+    "source_value": "16793.5%",
+    "expected_forms": [
+      "16793.5%"
+    ],
+    "expected_numbers": [
+      "16793.5"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p20_b13"
+    ],
+    "source_evidence_text": "中國內地96880.9%1,1971,16793.5%1,248(17)%(17)%",
+    "importance": "low",
+    "validate": false
+  },
+  {
+    "group_id": "p20_b14",
+    "page_no": 20,
+    "label": "percentage_51438.4",
+    "fact_type": "percentage",
+    "source_value": "51438.4%",
+    "expected_forms": [
+      "51438.4%"
+    ],
+    "expected_numbers": [
+      "51438.4"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p20_b14"
+    ],
+    "source_evidence_text": "其他市場51438.4%1,33453541.9%1,271(4)%(4)%",
+    "importance": "low",
+    "validate": false
+  },
+  {
+    "group_id": "p20_b14",
+    "page_no": 20,
+    "label": "percentage_33453541.9",
+    "fact_type": "percentage",
+    "source_value": "33453541.9%",
+    "expected_forms": [
+      "33453541.9%"
+    ],
+    "expected_numbers": [
+      "33453541.9"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p20_b14"
+    ],
+    "source_evidence_text": "其他市場51438.4%1,33453541.9%1,271(4)%(4)%",
+    "importance": "low",
+    "validate": false
+  },
+  {
+    "group_id": "p20_b15",
+    "page_no": 20,
+    "label": "percentage_05357.7",
+    "fact_type": "percentage",
+    "source_value": "05357.7%",
+    "expected_forms": [
+      "05357.7%"
+    ],
+    "expected_numbers": [
+      "05357.7"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p20_b15"
+    ],
+    "source_evidence_text": "小計3,05357.7%5,2194,42766.6%6,585(31)%(31)%",
+    "importance": "low",
+    "validate": false
+  },
+  {
+    "group_id": "p20_b15",
+    "page_no": 20,
+    "label": "percentage_42766.6",
+    "fact_type": "percentage",
+    "source_value": "42766.6%",
+    "expected_forms": [
+      "42766.6%"
+    ],
+    "expected_numbers": [
+      "42766.6"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p20_b15"
+    ],
+    "source_evidence_text": "小計3,05357.7%5,2194,42766.6%6,585(31)%(31)%",
+    "importance": "low",
+    "validate": false
+  },
+  {
+    "group_id": "p20_b18",
+    "page_no": 20,
+    "label": "percentage_78952.6",
+    "fact_type": "percentage",
+    "source_value": "78952.6%",
+    "expected_forms": [
+      "78952.6%"
+    ],
+    "expected_numbers": [
+      "78952.6"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p20_b18"
+    ],
+    "source_evidence_text": "扣除非控股權益前的總計2,78952.6%5,2194,18662.9%6,585(33)%(33)%",
+    "importance": "low",
+    "validate": false
+  },
+  {
+    "group_id": "p20_b18",
+    "page_no": 20,
+    "label": "percentage_18662.9",
+    "fact_type": "percentage",
+    "source_value": "18662.9%",
+    "expected_forms": [
+      "18662.9%"
+    ],
+    "expected_numbers": [
+      "18662.9"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p20_b18"
+    ],
+    "source_evidence_text": "扣除非控股權益前的總計2,78952.6%5,2194,18662.9%6,585(33)%(33)%",
+    "importance": "low",
+    "validate": false
+  },
+  {
+    "group_id": "p20_b20",
+    "page_no": 20,
+    "label": "percentage_76552.6",
+    "fact_type": "percentage",
+    "source_value": "76552.6%",
+    "expected_forms": [
+      "76552.6%"
+    ],
+    "expected_numbers": [
+      "76552.6"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p20_b20"
+    ],
+    "source_evidence_text": "總計2,76552.6%5,2194,15462.9%6,585(33)%(33)%",
+    "importance": "low",
+    "validate": false
+  },
+  {
+    "group_id": "p20_b20",
+    "page_no": 20,
+    "label": "percentage_15462.9",
+    "fact_type": "percentage",
+    "source_value": "15462.9%",
+    "expected_forms": [
+      "15462.9%"
+    ],
+    "expected_numbers": [
+      "15462.9"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p20_b20"
+    ],
+    "source_evidence_text": "總計2,76552.6%5,2194,15462.9%6,585(33)%(33)%",
+    "importance": "low",
+    "validate": false
+  },
+  {
+    "group_id": "p20_g02",
+    "page_no": 20,
+    "label": "usd_amount_27.65",
+    "fact_type": "usd_scaled_amount",
+    "source_value": "27.65億美元",
+    "expected_forms": [
+      "US$2.765 billion",
+      "US$2765 million",
+      "US$2,765 million"
+    ],
+    "expected_numbers": [
+      "2.765",
+      "2765"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p20_b21",
+      "p20_b22",
+      "p20_b23",
+      "p20_b24",
+      "p20_b25"
+    ],
+    "source_evidence_text": "儘管2020年的新業務價值27.65億美元較2019年減少了33%，我們迅速採用了新的數碼工具，並且外出限制的普遍放寬支持了銷售勢頭的恢復",
+    "importance": "medium",
+    "validate": false
+  },
+  {
+    "group_id": "p20_g02",
+    "page_no": 20,
+    "label": "percentage_33",
+    "fact_type": "percentage",
+    "source_value": "33%",
+    "expected_forms": [
+      "33%"
+    ],
+    "expected_numbers": [
+      "33"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p20_b21",
+      "p20_b22",
+      "p20_b23",
+      "p20_b24",
+      "p20_b25"
+    ],
+    "source_evidence_text": "儘管2020年的新業務價值27.65億美元較2019年減少了33%，我們迅速採用了新的數碼工具，並且外出限制的普遍放寬支持了銷售勢頭的恢復",
+    "importance": "low",
+    "validate": false
+  },
+  {
+    "group_id": "p20_g02",
+    "page_no": 20,
+    "label": "percentage_23",
+    "fact_type": "percentage",
+    "source_value": "23%",
+    "expected_forms": [
+      "23%"
+    ],
+    "expected_numbers": [
+      "23"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p20_b21",
+      "p20_b22",
+      "p20_b23",
+      "p20_b24",
+      "p20_b25"
+    ],
+    "source_evidence_text": "撇除維持低位的中國內地訪港旅客銷售額，本集團其他分部的新業務價值在下半年強勁復甦，與上半年相比增長了23%",
+    "importance": "low",
+    "validate": false
+  },
+  {
+    "group_id": "p20_g02",
+    "page_no": 20,
+    "label": "percentage_15",
+    "fact_type": "percentage",
+    "source_value": "15%",
+    "expected_forms": [
+      "15%"
+    ],
+    "expected_numbers": [
+      "15"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p20_b21",
+      "p20_b22",
+      "p20_b23",
+      "p20_b24",
+      "p20_b25"
+    ],
+    "source_evidence_text": "本集團的新業務發展勢頭在2021年持續強勁，首兩個月新業務價值較2020年同期高出15%",
+    "importance": "low",
+    "validate": false
+  },
+  {
+    "group_id": "p20_g03",
+    "page_no": 20,
+    "label": "usd_amount_9.68",
+    "fact_type": "usd_scaled_amount",
+    "source_value": "9.68億美元",
+    "expected_forms": [
+      "US$0.968 billion",
+      "US$968 million",
+      "US$968 million"
+    ],
+    "expected_numbers": [
+      "0.968",
+      "968"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p20_b26",
+      "p20_b27",
+      "p20_b28",
+      "p20_b29"
+    ],
+    "source_evidence_text": "2020年新業務價值9.68億美元較2019年減少17%，主要由於2019冠狀病毒病在第一季爆發初期而導致銷售額有限",
+    "importance": "medium",
+    "validate": false
+  },
+  {
+    "group_id": "p20_g03",
+    "page_no": 20,
+    "label": "percentage_17",
+    "fact_type": "percentage",
+    "source_value": "17%",
+    "expected_forms": [
+      "17%"
+    ],
+    "expected_numbers": [
+      "17"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p20_b26",
+      "p20_b27",
+      "p20_b28",
+      "p20_b29"
+    ],
+    "source_evidence_text": "2020年新業務價值9.68億美元較2019年減少17%，主要由於2019冠狀病毒病在第一季爆發初期而導致銷售額有限",
+    "importance": "low",
+    "validate": false
+  }
+]

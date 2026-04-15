@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p13_g07",
+      "translation": "We aim to position AIA as a global leader in technology application, strengthening connectivity, expanding scale and enhancing efficiency. Deeper insights from data analytics help us create distinctive and personalized customer experiences. Products and services that are tailored to and reflect individual needs and lifestyles have transformed public perceptions of life insurance, establishing a solid foundation for building long-term relationships with our customers."
+    }
+  ]
+}
+```

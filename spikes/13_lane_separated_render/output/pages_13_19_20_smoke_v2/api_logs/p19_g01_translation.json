@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 19,
+    "group_id": "p19_g01"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是上市保险公司年报翻译器。\n语言方向：Traditional Chinese -> English。\n只处理当前 body semantic group。\n只可在当前组内恢复跨块断句，不得跨组补写、跨组删写或改写事实。\n必须严格满足 mapping_hits 与 fact_locks。\n版面回填、字体压缩、分块分配不是你的职责，不要为了适配版面而删词改义。\n保持正式、稳定、可出版的企业年报文风。\n只输出 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市保险公司企业年报。\n先满足 fact_locks，再保证术语稳定、语义完整和年报文风。\n{\n  \"task\": {\n    \"scenario\": \"listed_company_annual_report\",\n    \"industry\": \"Life Insurance\",\n    \"report_type\": \"annual_report\",\n    \"company_name_target\": \"AIA GROUP LIMITED\",\n    \"direction\": \"Traditional Chinese -> English\"\n  },\n  \"page_context\": {\n    \"page_no\": 19,\n    \"page_sections\": [\n      {\n        \"source_section\": \"集團首席財務總監回顧\",\n        \"target_section\": \"Group Chief Financial Officer's Review\",\n        \"content_type\": \"cfo_review\",\n        \"page_range\": [\n          18,\n          30\n        ]\n      }\n    ],\n    \"term_usage_mode\": \"table\",\n    \"neighbor_context\": {\n      \"previous_group_source_excerpt\": \"\",\n      \"next_group_source_excerpt\": \"團的新業務價值帶來最大貢獻，也是我們第一個顯示銷售勢頭有所恢復的報告分部，原因在於該地區自2020年3\\n月逐步放寬嚴格的封鎖。撇除維持低位的中國內地訪港旅客銷售額，本集團其他分部的新業務價值在下半年強勁\\n復甦，與上半年相比增長了23%...\"\n    }\n  },\n  \"mapping_hits\": [\n    {\n      \"source\": \"友邦保險中國業務\",\n      \"target\": \"AIA China\",\n      \"hit_type\": \"context_term\"\n    },\n    {\n      \"source\": \"新業務價值\",\n      \"target\": \"VONB\",\n      \"hit_type\": \"context_term\"\n    },\n    {\n      \"source\": \"友邦保險\",\n      \"target\": \"AIA\",\n      \"hit_type\": \"glossary_term\"\n    }\n  ],\n  \"fact_locks\": [\n    {\n      \"label\": \"usd_amount_27.65\",\n      \"fact_type\": \"usd_scaled_amount\",\n      \"source_value\": \"27.65億美元\",\n      \"expected_forms\": [\n        \"US$2.765 billion\",\n        \"US$2765 million\",\n        \"US$2,765 million\"\n      ]\n    },\n    {\n      \"label\": \"percentage_33\",\n      \"fact_type\": \"percentage\",\n      \"source_value\": \"33%\",\n      \"expected_forms\": [\n        \"33%\"\n      ]\n    }\n  ],\n  \"current_group\": {\n    \"group_id\": \"p19_g01\",\n    \"lane\": \"body\",\n    \"group_text\": \"大流行病對我們2020年財務表現的主要影響是對新業務銷售的影響，原因在於我們眾多市場的遏制傳播措施限制\\n了面對面的銷售活動，尤其是在2020年上半年。儘管2020年的新業務價值27.65億美元較2019年減少了33%，我\\n們迅速採用了新的數碼工具，並且外出限制的普遍放寬支持了銷售勢頭的恢復。友邦保險中國業務為2020年本集\",\n    \"source_block_ids\": [\n      \"p19_b1\",\n      \"p19_b2\",\n      \"p19_b3\"\n    ],\n    \"source_block_count\": 3\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p19_g01\",\n        \"translation\": \"<译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p19_g01\",\n      \"translation\": \"The pandemic's principal impact on our 2020 financial performance was on new business sales, as containment measures across many of our markets restricted face-to-face sales activities, particularly in the first half of 2020. Although VONB of US$2.765 billion in 2020 decreased by 33% compared to 2019, we rapidly adopted new digital tools, and the widespread relaxation of movement restrictions supported a recovery in sales momentum. AIA China\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "5f16debc-8123-4791-b919-8c1777c8200e",
+    "conversation_id": "5f16debc-8123-4791-b919-8c1777c8200e",
+    "id": "5f16debc-8123-4791-b919-8c1777c8200e",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1178,
+      "output_tokens": 124
+    }
+  }
+}

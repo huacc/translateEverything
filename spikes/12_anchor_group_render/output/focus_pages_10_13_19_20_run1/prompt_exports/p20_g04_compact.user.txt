@@ -1,0 +1,51 @@
+文档场景：上市公司企业年报
+{
+  "document_background": {
+    "page_sections": [
+      {
+        "source_section": "新業務表現",
+        "target_section": "New Business Performance",
+        "content_type": "business_metrics",
+        "page_range": [
+          20,
+          21
+        ]
+      },
+      {
+        "source_section": "集團首席財務總監回顧",
+        "target_section": "Group Chief Financial Officer's Review",
+        "content_type": "cfo_review",
+        "page_range": [
+          18,
+          30
+        ]
+      }
+    ],
+    "roles": [],
+    "terms": [],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "Use established financial abbreviations for table labels when provided.",
+      "Keep row and column semantics unchanged.",
+      "Use n/m for 無意義."
+    ]
+  },
+  "current_unit": {
+    "page_no": 20,
+    "unit_id": "p20_g04",
+    "unit_mode": "semantic_group",
+    "slot_count": 4,
+    "source_text": "在實施旅遊限制後，友邦保險香港業務來自中國內地訪港客戶的新業務銷售自2020年2月初起實際上已暫停，導\n致其新業務價值大幅下降。新業務價值利潤率錄得跌幅，反映新業務量減少導致承保開支超支、產品組合變動及\n利率下降的影響所致。澳門在2020年9月底恢復中國內地旅客個人遊計劃。這為澳門的中國內地訪澳客戶銷售回\n升提供支持，使其在第四季佔友邦保險澳門分公司的年化新保費總額超過三分之一。",
+    "current_translation": "Following the implementation of travel restrictions, new business sales from Mainland Chinese visitors to AIA Hong Kong were effectively suspended from early February 2020, resulting in a significant decline in VONB. The VONB margin recorded a decrease, reflecting the impact of reduced new business volume leading to underwriting expense overruns, changes in product mix, and the effect of lower interest rates. Macau resumed the Individual Visit Scheme for Mainland Chinese visitors at the end of September 2020. This provided support for the recovery in sales from Mainland Chinese visitors to AIA Macau, which accounted for more than one-third of the ANP total for AIA Macau in the fourth quarter."
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p20_g04",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

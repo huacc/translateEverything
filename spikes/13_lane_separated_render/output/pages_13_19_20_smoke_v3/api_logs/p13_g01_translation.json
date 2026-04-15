@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 13,
+    "group_id": "p13_g01"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是上市保险公司年报翻译器。\n语言方向：Traditional Chinese -> English。\n只处理当前 body semantic group。\n只可在当前组内恢复跨块断句，不得跨组补写、跨组删写或改写事实。\n必须严格满足 mapping_hits 与 fact_locks。\n版面回填、字体压缩、分块分配不是你的职责，不要为了适配版面而删词改义。\n保持正式、稳定、可出版的企业年报文风。\n只输出 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市保险公司企业年报。\n先满足 fact_locks，再保证术语稳定、语义完整和年报文风。\n{\n  \"task\": {\n    \"scenario\": \"listed_company_annual_report\",\n    \"industry\": \"Life Insurance\",\n    \"report_type\": \"annual_report\",\n    \"company_name_target\": \"AIA GROUP LIMITED\",\n    \"direction\": \"Traditional Chinese -> English\"\n  },\n  \"page_context\": {\n    \"page_no\": 13,\n    \"page_sections\": [\n      {\n        \"source_section\": \"集團首席執行官兼總裁報告\",\n        \"target_section\": \"Group Chief Executive and President's Report\",\n        \"content_type\": \"ceo_report\",\n        \"page_range\": [\n          12,\n          16\n        ]\n      }\n    ],\n    \"term_usage_mode\": \"overview_narrative\",\n    \"neighbor_context\": {\n      \"previous_group_source_excerpt\": \"\",\n      \"next_group_source_excerpt\": \"時，展現靈活應變的能力和克盡己職的精神。\"\n    }\n  },\n  \"mapping_hits\": [\n    {\n      \"source\": \"2019冠狀病毒病\",\n      \"target\": \"COVID-19\",\n      \"hit_type\": \"context_term\"\n    },\n    {\n      \"source\": \"友邦保險\",\n      \"target\": \"AIA\",\n      \"hit_type\": \"glossary_term\"\n    }\n  ],\n  \"fact_locks\": [],\n  \"current_group\": {\n    \"group_id\": \"p13_g01\",\n    \"lane\": \"body\",\n    \"group_text\": \"友邦保險是客戶誠可信賴的夥伴，讓客戶在關注財務安全和家庭保障時仍可安心無憂。儘管2019冠狀病毒病大\\n流行的影響深遠，但我衷心感謝我們的員工、代理和合作夥伴在適應新工作方式並確保為客戶提供無間斷的支援\",\n    \"source_block_ids\": [\n      \"p13_b1\",\n      \"p13_b2\"\n    ],\n    \"source_block_count\": 2\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p13_g01\",\n        \"translation\": \"<译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p13_g01\",\n      \"translation\": \"AIA is a trusted partner for our customers, enabling them to focus on financial security and family protection with peace of mind. Despite the far-reaching impact of the COVID-19 pandemic, I am deeply grateful to our employees, agents and partners for adapting to new ways of working and ensuring uninterrupted support to our customers\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "0eb18586-5ff3-4cf9-afbd-34fbdb7fddcd",
+    "conversation_id": "0eb18586-5ff3-4cf9-afbd-34fbdb7fddcd",
+    "id": "0eb18586-5ff3-4cf9-afbd-34fbdb7fddcd",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 814,
+      "output_tokens": 103
+    }
+  }
+}

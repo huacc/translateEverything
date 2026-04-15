@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 10,
+    "group_id": "p10_b3"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是上市保险公司年报翻译器。\n语言方向：Traditional Chinese -> English。\n只处理当前 semantic group。\n可以在当前组内恢复跨块断句，但不得跨组补写、跨组删写或改写事实。\n必须严格满足 mapping_hits 与 fact_locks。\n版面回填、字体压缩、分块分配不是你的职责，不要为了适配版面而删词改义。\n保持正式、稳定、可出版的企业年报文风。\n只输出 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市保险公司企业年报。\n先满足 fact_locks，再保证术语稳定、语义完整和年报文风。\n{\n  \"task\": {\n    \"scenario\": \"listed_company_annual_report\",\n    \"industry\": \"Life Insurance\",\n    \"report_type\": \"annual_report\",\n    \"company_name_target\": \"AIA GROUP LIMITED\",\n    \"direction\": \"Traditional Chinese -> English\"\n  },\n  \"page_context\": {\n    \"page_no\": 10,\n    \"page_sections\": [\n      {\n        \"source_section\": \"主席報告\",\n        \"target_section\": \"Chairman's Statement\",\n        \"content_type\": \"chairman_statement\",\n        \"page_range\": [\n          10,\n          11\n        ]\n      }\n    ],\n    \"term_usage_mode\": \"heading\",\n    \"neighbor_context\": {\n      \"previous_group_source_excerpt\": \"概覽\",\n      \"next_group_source_excerpt\": \"在過去一個世紀，友邦保險\\n於亞洲區內，為極需我們服務的\\n社區大眾提供保障而備受稱譽，\\n這令我們引以為榮。\"\n    }\n  },\n  \"mapping_hits\": [],\n  \"fact_locks\": [],\n  \"current_group\": {\n    \"group_id\": \"p10_b3\",\n    \"mode\": \"single_block\",\n    \"block_ids\": [\n      \"p10_b3\"\n    ],\n    \"block_types\": [\n      \"heading\"\n    ],\n    \"blocks\": [\n      {\n        \"block_id\": \"p10_b3\",\n        \"block_type\": \"heading\",\n        \"source_text\": \"主席報告\"\n      }\n    ],\n    \"joined_source_text\": \"主席報告\"\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p10_b3\",\n        \"translation\": \"<译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p10_b3\",\n      \"translation\": \"Chairman's Statement\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "8305162f-3199-4f55-8c9f-e229cc9da7db",
+    "conversation_id": "8305162f-3199-4f55-8c9f-e229cc9da7db",
+    "id": "8305162f-3199-4f55-8c9f-e229cc9da7db",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 680,
+      "output_tokens": 42
+    }
+  }
+}

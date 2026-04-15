@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p10_g04",
+      "translation": "Due to control measures related to COVID-19 impacting new business sales, VONB declined to US$2.765 billion. We swiftly adopted innovative digital tools to enhance operational efficiency, and coupled with the recent relaxation of movement restrictions, this drove a strong recovery in sales momentum, which has continued into early 2021."
+    }
+  ]
+}
+```

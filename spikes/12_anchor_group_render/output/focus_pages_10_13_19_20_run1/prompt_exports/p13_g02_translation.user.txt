@@ -1,0 +1,91 @@
+文档场景：上市保险公司企业年报。
+先满足 fact_locks，再保证术语稳定、语义完整和年报文风。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 13,
+    "page_sections": [
+      {
+        "source_section": "集團首席執行官兼總裁報告",
+        "target_section": "Group Chief Executive and President's Report",
+        "content_type": "ceo_report",
+        "page_range": [
+          12,
+          16
+        ]
+      }
+    ],
+    "term_usage_mode": "overview_narrative",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "友邦保險是客戶誠可信賴的夥伴，讓客戶在關注財務安全和家庭保障時仍可安心無憂。儘管2019冠狀病毒病大\n流行的影響深遠，但我衷心感謝我們的員工、代理和合作夥伴在適應新工作方式並確保為客戶提供無間斷的支援\n時，展現靈活應變的能力和克盡己職...",
+      "next_group_source_excerpt": "儘管為遏制2019冠狀病毒病傳播的措施導致新業務價值減少至27.65億美元，但隨著外出限制放寬，銷售動力轉\n趨正面，並在2021年展開非常強勁的勢頭，首兩個月的新業務價值按年增長15%。我們規模龐大和持續增長的有\n效保單組合所帶來的高..."
+    }
+  },
+  "mapping_hits": [],
+  "fact_locks": [
+    {
+      "label": "usd_amount_160",
+      "fact_type": "usd_scaled_amount",
+      "source_value": "160億美元",
+      "expected_forms": [
+        "US$16 billion",
+        "US$16000 million",
+        "US$16,000 million"
+      ],
+      "required_keywords": []
+    }
+  ],
+  "current_group": {
+    "group_id": "p13_g02",
+    "mode": "semantic_group",
+    "block_ids": [
+      "p13_b5",
+      "p13_b6",
+      "p13_b7",
+      "p13_b8"
+    ],
+    "block_types": [
+      "body",
+      "body",
+      "body",
+      "label"
+    ],
+    "blocks": [
+      {
+        "block_id": "p13_b5",
+        "block_type": "body",
+        "source_text": "自疫情大流行開始以來，本集團的各業務團隊反應迅速，積極協助紓緩對社區的影響，同時確保員工安全。本集"
+      },
+      {
+        "block_id": "p13_b6",
+        "block_type": "body",
+        "source_text": "團為此廣泛採取多項措拖，包括財政支持、提供醫療物資、免費保障覆蓋、獲取醫療保健資源、精簡服務流程和"
+      },
+      {
+        "block_id": "p13_b7",
+        "block_type": "body",
+        "source_text": "加快理賠支付，令我引以為榮。我們一如既往找出每一個可以作出理賠的理由，年內已支付逾160億美元的保險"
+      },
+      {
+        "block_id": "p13_b8",
+        "block_type": "label",
+        "source_text": "給付及理賠，為客戶提供極其重要的財務保障。"
+      }
+    ],
+    "joined_source_text": "自疫情大流行開始以來，本集團的各業務團隊反應迅速，積極協助紓緩對社區的影響，同時確保員工安全。本集\n團為此廣泛採取多項措拖，包括財政支持、提供醫療物資、免費保障覆蓋、獲取醫療保健資源、精簡服務流程和\n加快理賠支付，令我引以為榮。我們一如既往找出每一個可以作出理賠的理由，年內已支付逾160億美元的保險\n給付及理賠，為客戶提供極其重要的財務保障。"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p13_g02",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

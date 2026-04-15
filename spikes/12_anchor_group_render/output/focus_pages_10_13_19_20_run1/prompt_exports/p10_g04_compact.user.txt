@@ -1,0 +1,48 @@
+文档场景：上市公司企业年报
+{
+  "document_background": {
+    "page_sections": [
+      {
+        "source_section": "主席報告",
+        "target_section": "Chairman's Statement",
+        "content_type": "chairman_statement",
+        "page_range": [
+          10,
+          11
+        ]
+      }
+    ],
+    "roles": [
+      {
+        "source": "謝仕榮先生",
+        "target": "Mr. Tse Sze-wing",
+        "role": "Independent Non-Executive Chairman"
+      }
+    ],
+    "terms": [],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "Use established financial abbreviations for table labels when provided.",
+      "Keep row and column semantics unchanged.",
+      "Use n/m for 無意義."
+    ]
+  },
+  "current_unit": {
+    "page_no": 10,
+    "unit_id": "p10_g04",
+    "unit_mode": "semantic_group",
+    "slot_count": 2,
+    "source_text": "由於2019冠狀病毒病相關的控制措施對新業務銷售造成影響，新業務價值下降至27.65億美元。我們迅速採用\n嶄新的數碼工具，提升業務運作效率，加上近期放寬外出限制，帶動銷售動力強勁復蘇，並延續至2021年初。",
+    "current_translation": "Due to control measures related to COVID-19 impacting new business sales, VONB declined to US$2.765 billion. We swiftly adopted innovative digital tools to enhance operational efficiency, and coupled with the recent relaxation of movement restrictions, this drove a strong recovery in sales momentum, which has continued into early 2021."
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p10_g04",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

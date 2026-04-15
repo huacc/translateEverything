@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p13_b25",
+    "lane": "caption_label",
+    "source_text": "法，為我們與客戶建立長遠關係奠定堅實的基礎。",
+    "current_translation": "approach, laying a solid foundation for building long-term relationships with our customers."
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p13_b25",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

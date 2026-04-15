@@ -1,0 +1,2741 @@
+[
+  {
+    "group_id": "p1_b1",
+    "page_no": 1,
+    "mode": "single_block",
+    "block_ids": [
+      "p1_b1"
+    ],
+    "block_types": [
+      "body"
+    ],
+    "source_text_joined": "HEALTHIER\nLONGER\nBETTER\nLIVES",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "single_non_narrative",
+        "reason": "body"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      75.68,
+      236.31,
+      526.05,
+      655.59
+    ],
+    "group_text": "HEALTHIER\nLONGER\nBETTER\nLIVES",
+    "table_role": null
+  },
+  {
+    "group_id": "p2_b44",
+    "page_no": 2,
+    "mode": "single_block",
+    "block_ids": [
+      "p2_b44"
+    ],
+    "block_types": [
+      "label"
+    ],
+    "source_text_joined": "合資公司的49%權益。",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "single_non_narrative",
+        "reason": "label"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      51.02,
+      442.06,
+      130.81,
+      452.57
+    ],
+    "group_text": "合資公司的49%權益。",
+    "table_role": null
+  },
+  {
+    "group_id": "p2_b53",
+    "page_no": 2,
+    "mode": "single_block",
+    "block_ids": [
+      "p2_b53"
+    ],
+    "block_types": [
+      "label"
+    ],
+    "source_text_joined": "136 合併權益變動表",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "single_non_narrative",
+        "reason": "label"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      384.0,
+      493.88,
+      465.36,
+      505.61
+    ],
+    "group_text": "136 合併權益變動表",
+    "table_role": null
+  },
+  {
+    "group_id": "p2_b61",
+    "page_no": 2,
+    "mode": "single_block",
+    "block_ids": [
+      "p2_b61"
+    ],
+    "block_types": [
+      "label"
+    ],
+    "source_text_joined": "總資產值為3,260億美元。",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "single_non_narrative",
+        "reason": "label"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      51.02,
+      540.06,
+      142.25,
+      550.57
+    ],
+    "group_text": "總資產值為3,260億美元。",
+    "table_role": null
+  },
+  {
+    "group_id": "p3_b2",
+    "page_no": 3,
+    "mode": "single_block",
+    "block_ids": [
+      "p3_b2"
+    ],
+    "block_types": [
+      "body"
+    ],
+    "source_text_joined": "百萬圓桌會\n註冊會員人數\n全球之冠",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "single_non_narrative",
+        "reason": "body"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      416.68,
+      105.93,
+      547.91,
+      187.86
+    ],
+    "group_text": "百萬圓桌會\n註冊會員人數\n全球之冠",
+    "table_role": null
+  },
+  {
+    "group_id": "p3_b3",
+    "page_no": 3,
+    "mode": "single_block",
+    "block_ids": [
+      "p3_b3"
+    ],
+    "block_types": [
+      "body"
+    ],
+    "source_text_joined": "全球唯一一家總部\n設於香港、於香港上市\n並100%\n專注於亞洲",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "single_non_narrative",
+        "reason": "body"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      68.03,
+      108.26,
+      203.62,
+      198.55
+    ],
+    "group_text": "全球唯一一家總部\n設於香港、於香港上市\n並100%\n專注於亞洲",
+    "table_role": null
+  },
+  {
+    "group_id": "p3_b4",
+    "page_no": 3,
+    "mode": "single_block",
+    "block_ids": [
+      "p3_b4"
+    ],
+    "block_types": [
+      "body"
+    ],
+    "source_text_joined": "在香港聯交所上市、\n香港註冊並將\n總部設於香港\n最大的公司",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "single_non_narrative",
+        "reason": "body"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      238.11,
+      108.26,
+      371.08,
+      198.55
+    ],
+    "group_text": "在香港聯交所上市、\n香港註冊並將\n總部設於香港\n最大的公司",
+    "table_role": null
+  },
+  {
+    "group_id": "p3_b5",
+    "page_no": 3,
+    "mode": "single_block",
+    "block_ids": [
+      "p3_b5"
+    ],
+    "block_types": [
+      "body"
+    ],
+    "source_text_joined": "唯一連續六年\n問鼎百萬圓桌會會員\n人數之冠的跨國公司",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "single_non_narrative",
+        "reason": "body"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      416.69,
+      187.82,
+      538.96,
+      238.78
+    ],
+    "group_text": "唯一連續六年\n問鼎百萬圓桌會會員\n人數之冠的跨國公司",
+    "table_role": null
+  },
+  {
+    "group_id": "p3_b8",
+    "page_no": 3,
+    "mode": "single_block",
+    "block_ids": [
+      "p3_b8"
+    ],
+    "block_types": [
+      "body"
+    ],
+    "source_text_joined": "為超過\n3,800萬份\n個人保單的持有人及逾\n1,600萬名\n團體保險計劃的參與\n成員提供服務",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "single_non_narrative",
+        "reason": "body"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      68.03,
+      248.65,
+      200.96,
+      368.6
+    ],
+    "group_text": "為超過\n3,800萬份\n個人保單的持有人及逾\n1,600萬名\n團體保險計劃的參與\n成員提供服務",
+    "table_role": null
+  },
+  {
+    "group_id": "p3_b9",
+    "page_no": 3,
+    "mode": "single_block",
+    "block_ids": [
+      "p3_b9"
+    ],
+    "block_types": [
+      "body"
+    ],
+    "source_text_joined": "於2020年內，我們已支付\n逾160億美元\n的保險給付和理賠，\n為客戶提供必不可少的\n財務支援",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "single_non_narrative",
+        "reason": "body"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      416.69,
+      248.91,
+      560.45,
+      342.87
+    ],
+    "group_text": "於2020年內，我們已支付\n逾160億美元\n的保險給付和理賠，\n為客戶提供必不可少的\n財務支援",
+    "table_role": null
+  },
+  {
+    "group_id": "p5_b2",
+    "page_no": 5,
+    "mode": "single_block",
+    "block_ids": [
+      "p5_b2"
+    ],
+    "block_types": [
+      "body"
+    ],
+    "source_text_joined": "於2020年，2019冠狀病毒病為我們的社區帶來前所未見的",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "single_non_narrative",
+        "reason": "body"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      261.73,
+      366.03,
+      514.85,
+      379.07
+    ],
+    "group_text": "於2020年，2019冠狀病毒病為我們的社區帶來前所未見的",
+    "table_role": null
+  },
+  {
+    "group_id": "p5_g01",
+    "page_no": 5,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p5_b6",
+      "p5_b7",
+      "p5_b8"
+    ],
+    "block_types": [
+      "body",
+      "label",
+      "label"
+    ],
+    "source_text_joined": "憂慮。我們為超過2,500萬份保單提供免費的2019冠狀病毒\n病相關保障覆蓋，並於12個市場提供10億美元的保費支\n援。年內，我們已支付逾160億美元的保險給付和理賠，",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p5_b6",
+        "to": "p5_b7"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p5_b7",
+        "to": "p5_b8"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      261.73,
+      438.03,
+      515.03,
+      487.07
+    ],
+    "group_text": "憂慮。我們為超過2,500萬份保單提供免費的2019冠狀病毒\n病相關保障覆蓋，並於12個市場提供10億美元的保費支\n援。年內，我們已支付逾160億美元的保險給付和理賠，",
+    "table_role": null
+  },
+  {
+    "group_id": "p8_b72",
+    "page_no": 8,
+    "mode": "single_block",
+    "block_ids": [
+      "p8_b72"
+    ],
+    "block_types": [
+      "label"
+    ],
+    "source_text_joined": "內涵價值權益(6)\n總資產及總負債(9)",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "single_non_narrative",
+        "reason": "label"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      73.7,
+      517.36,
+      398.51,
+      533.01
+    ],
+    "group_text": "內涵價值權益(6)\n總資產及總負債(9)",
+    "table_role": null
+  },
+  {
+    "group_id": "p9_b28",
+    "page_no": 9,
+    "mode": "single_block",
+    "block_ids": [
+      "p9_b28"
+    ],
+    "block_types": [
+      "body"
+    ],
+    "source_text_joined": "中國內地\n泰國\n新加坡\n馬來西亞\n其他市場\n香港",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "single_non_narrative",
+        "reason": "body"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      77.39,
+      506.14,
+      354.9,
+      516.57
+    ],
+    "group_text": "中國內地\n泰國\n新加坡\n馬來西亞\n其他市場\n香港",
+    "table_role": null
+  },
+  {
+    "group_id": "p9_b30",
+    "page_no": 9,
+    "mode": "single_block",
+    "block_ids": [
+      "p9_b30"
+    ],
+    "block_types": [
+      "body"
+    ],
+    "source_text_joined": "(7) 各分部新業務價值包括退休金業務，按當地法定基準列示、未計\n入未分配集團總部開支、並且未扣除非控股權益。",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "single_non_narrative",
+        "reason": "body"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      300.47,
+      570.23,
+      515.37,
+      589.53
+    ],
+    "group_text": "(7) 各分部新業務價值包括退休金業務，按當地法定基準列示、未計\n入未分配集團總部開支、並且未扣除非控股權益。",
+    "table_role": null
+  },
+  {
+    "group_id": "p9_b34",
+    "page_no": 9,
+    "mode": "single_block",
+    "block_ids": [
+      "p9_b34"
+    ],
+    "block_types": [
+      "body"
+    ],
+    "source_text_joined": "(3) 年化新保費是一項衡量新業務水平的指標，以再保險分出前年化\n首年保費100%及整付保費10%之總和計算。",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "single_non_narrative",
+        "reason": "body"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      68.03,
+      641.94,
+      284.89,
+      661.23
+    ],
+    "group_text": "(3) 年化新保費是一項衡量新業務水平的指標，以再保險分出前年化\n首年保費100%及整付保費10%之總和計算。",
+    "table_role": null
+  },
+  {
+    "group_id": "p9_b35",
+    "page_no": 9,
+    "mode": "single_block",
+    "block_ids": [
+      "p9_b35"
+    ],
+    "block_types": [
+      "label"
+    ],
+    "source_text_joined": "(4) 所列示的稅後營運溢利已扣除非控股權益。",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "single_non_narrative",
+        "reason": "label"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      68.03,
+      667.6,
+      218.36,
+      676.9
+    ],
+    "group_text": "(4) 所列示的稅後營運溢利已扣除非控股權益。",
+    "table_role": null
+  },
+  {
+    "group_id": "p9_b36",
+    "page_no": 9,
+    "mode": "single_block",
+    "block_ids": [
+      "p9_b36"
+    ],
+    "block_types": [
+      "body"
+    ],
+    "source_text_joined": "(5) 總加權保費收入包括再保險分出前的續保保費100%，首年保費\n100%，以及整付保費10%。",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "single_non_narrative",
+        "reason": "body"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      68.03,
+      683.27,
+      278.7,
+      702.57
+    ],
+    "group_text": "(5) 總加權保費收入包括再保險分出前的續保保費100%，首年保費\n100%，以及整付保費10%。",
+    "table_role": null
+  },
+  {
+    "group_id": "p10_g01",
+    "page_no": 10,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p10_b13",
+      "p10_b14",
+      "p10_b15",
+      "p10_b16",
+      "p10_b17"
+    ],
+    "block_types": [
+      "body",
+      "body",
+      "body",
+      "body",
+      "body"
+    ],
+    "source_text_joined": "友邦保險在亞洲歷史悠久，源遠流長，經歷各種社會動盪和不明朗時期仍能妥善管理業務，因而贏得卓著的\n聲譽，體現友邦保險誠可信賴、強韌穩健，並堅持為持分者做對的事。自2020年初以來，2019冠狀病毒病大流\n行導致營商環境不斷變化及日趨複雜，而政治、宏觀經濟及資本市場亦出現前所未見的轉移。在這樣的環境下，\n友邦保險的財務實力，以及「幫助大眾活出健康、長久、好生活」的目標，更具重大意義。本人衷心感謝友邦\n保險所有員工、代理和合作夥伴，即使面對最嚴峻的挑戰，他們仍關懷社區，克盡己職，專心致志地為客戶、",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p10_b13",
+        "to": "p10_b14"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p10_b14",
+        "to": "p10_b15"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p10_b15",
+        "to": "p10_b16"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p10_b16",
+        "to": "p10_b17"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      73.7,
+      470.69,
+      529.77,
+      546.65
+    ],
+    "group_text": "友邦保險在亞洲歷史悠久，源遠流長，經歷各種社會動盪和不明朗時期仍能妥善管理業務，因而贏得卓著的\n聲譽，體現友邦保險誠可信賴、強韌穩健，並堅持為持分者做對的事。自2020年初以來，2019冠狀病毒病大流\n行導致營商環境不斷變化及日趨複雜，而政治、宏觀經濟及資本市場亦出現前所未見的轉移。在這樣的環境下，\n友邦保險的財務實力，以及「幫助大眾活出健康、長久、好生活」的目標，更具重大意義。本人衷心感謝友邦\n保險所有員工、代理和合作夥伴，即使面對最嚴峻的挑戰，他們仍關懷社區，克盡己職，專心致志地為客戶、",
+    "table_role": null
+  },
+  {
+    "group_id": "p10_g02",
+    "page_no": 10,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p10_b19",
+      "p10_b20"
+    ],
+    "block_types": [
+      "body",
+      "body"
+    ],
+    "source_text_joined": "由於2019冠狀病毒病相關的控制措施對新業務銷售造成影響，新業務價值下降至27.65億美元。我們迅速採用\n嶄新的數碼工具，提升業務運作效率，加上近期放寬外出限制，帶動銷售動力強勁復蘇，並延續至2021年初。",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p10_b19",
+        "to": "p10_b20"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      73.7,
+      582.71,
+      529.77,
+      610.66
+    ],
+    "group_text": "由於2019冠狀病毒病相關的控制措施對新業務銷售造成影響，新業務價值下降至27.65億美元。我們迅速採用\n嶄新的數碼工具，提升業務運作效率，加上近期放寬外出限制，帶動銷售動力強勁復蘇，並延續至2021年初。",
+    "table_role": null
+  },
+  {
+    "group_id": "p10_b21",
+    "page_no": 10,
+    "mode": "single_block",
+    "block_ids": [
+      "p10_b21"
+    ],
+    "block_types": [
+      "body"
+    ],
+    "source_text_joined": "與去年同期比較，2021年首兩個月的新業務價值增長15%。",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "single_non_narrative",
+        "reason": "body"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      73.7,
+      614.71,
+      313.21,
+      626.66
+    ],
+    "group_text": "與去年同期比較，2021年首兩個月的新業務價值增長15%。",
+    "table_role": null
+  },
+  {
+    "group_id": "p10_g03",
+    "page_no": 10,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p10_b22",
+      "p10_b23",
+      "p10_b24"
+    ],
+    "block_types": [
+      "body",
+      "body",
+      "label"
+    ],
+    "source_text_joined": "稅後營運溢利增長5%至59.42億美元，產生的基本自由盈餘則上升7%至58.43億美元，反映我們擁有高質素的\n經常性盈利來源。內涵價值權益創新高，達672億美元。截至2020年12月31日，集團當地資本總和法覆蓋率為\n374%，足證我們雄厚的資本實力和嚴謹的財務管理。",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p10_b22",
+        "to": "p10_b23"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p10_b23",
+        "to": "p10_b24"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      73.68,
+      646.72,
+      529.76,
+      690.67
+    ],
+    "group_text": "稅後營運溢利增長5%至59.42億美元，產生的基本自由盈餘則上升7%至58.43億美元，反映我們擁有高質素的\n經常性盈利來源。內涵價值權益創新高，達672億美元。截至2020年12月31日，集團當地資本總和法覆蓋率為\n374%，足證我們雄厚的資本實力和嚴謹的財務管理。",
+    "table_role": null
+  },
+  {
+    "group_id": "p10_g04",
+    "page_no": 10,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p10_b25",
+      "p10_b26"
+    ],
+    "block_types": [
+      "body",
+      "body"
+    ],
+    "source_text_joined": "董事會建議派發末期股息每股100.30港仙，增加7.5%，反映我們的財務業績穩健強韌，同時董事會持續對本集團\n未來前景充滿信心。這使2020年的全年股息達到每股135.30港仙。董事會秉承友邦保險行之已久的審慎、可持續",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p10_b25",
+        "to": "p10_b26"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      73.68,
+      710.72,
+      527.27,
+      738.68
+    ],
+    "group_text": "董事會建議派發末期股息每股100.30港仙，增加7.5%，反映我們的財務業績穩健強韌，同時董事會持續對本集團\n未來前景充滿信心。這使2020年的全年股息達到每股135.30港仙。董事會秉承友邦保險行之已久的審慎、可持續",
+    "table_role": null
+  },
+  {
+    "group_id": "p11_g01",
+    "page_no": 11,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p11_b1",
+      "p11_b2",
+      "p11_b3"
+    ],
+    "block_types": [
+      "body",
+      "body",
+      "body"
+    ],
+    "source_text_joined": "在2020年第四季，我們慶祝友邦保險在香港聯交所上市10週年。回顧當年友邦保險的上市刷新多項紀錄，至今\n仍是全球保險業界規模最大的首次公開招股。能夠與董事會成員並肩合作，本人深感榮幸和欣慰。友邦保險的\n業務在此期間繼往開來，不斷擴展，成為以市值計全球最大的人壽保險公司。",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p11_b1",
+        "to": "p11_b2"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p11_b2",
+        "to": "p11_b3"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      68.03,
+      94.7,
+      524.09,
+      138.65
+    ],
+    "group_text": "在2020年第四季，我們慶祝友邦保險在香港聯交所上市10週年。回顧當年友邦保險的上市刷新多項紀錄，至今\n仍是全球保險業界規模最大的首次公開招股。能夠與董事會成員並肩合作，本人深感榮幸和欣慰。友邦保險的\n業務在此期間繼往開來，不斷擴展，成為以市值計全球最大的人壽保險公司。",
+    "table_role": null
+  },
+  {
+    "group_id": "p11_g02",
+    "page_no": 11,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p11_b5",
+      "p11_b6"
+    ],
+    "block_types": [
+      "body",
+      "body"
+    ],
+    "source_text_joined": "董事會的所有非執行董事均由獨立人士出任，他們在公營和私營產業擁有廣泛的管治和領導經驗。我們同心\n協力，銳意維持奉行最高國際企業管治標準的公司文化。我們深信根深蒂固的企業管治文化，加上穩健的風險",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p11_b5",
+        "to": "p11_b6"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      68.03,
+      158.71,
+      524.09,
+      186.66
+    ],
+    "group_text": "董事會的所有非執行董事均由獨立人士出任，他們在公營和私營產業擁有廣泛的管治和領導經驗。我們同心\n協力，銳意維持奉行最高國際企業管治標準的公司文化。我們深信根深蒂固的企業管治文化，加上穩健的風險",
+    "table_role": null
+  },
+  {
+    "group_id": "p11_g03",
+    "page_no": 11,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p11_b8",
+      "p11_b9",
+      "p11_b10"
+    ],
+    "block_types": [
+      "body",
+      "body",
+      "body"
+    ],
+    "source_text_joined": "董事會的重要責任之一是確保領導層人才輩出，並執行有效的繼任安排。我們歡迎李源祥先生於2020年6月1日\n接替榮休的黃經輝先生，擔任集團首席執行官兼總裁。本人謹代表董事會向李源祥先生及其管理層團隊深表\n謝意，他們在這段前所未見的環境發揮優秀的管理才能，帶領我們的業務向前邁進。我們也衷心感謝黃經輝先生",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p11_b8",
+        "to": "p11_b9"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p11_b9",
+        "to": "p11_b10"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      68.03,
+      222.71,
+      524.09,
+      266.67
+    ],
+    "group_text": "董事會的重要責任之一是確保領導層人才輩出，並執行有效的繼任安排。我們歡迎李源祥先生於2020年6月1日\n接替榮休的黃經輝先生，擔任集團首席執行官兼總裁。本人謹代表董事會向李源祥先生及其管理層團隊深表\n謝意，他們在這段前所未見的環境發揮優秀的管理才能，帶領我們的業務向前邁進。我們也衷心感謝黃經輝先生",
+    "table_role": null
+  },
+  {
+    "group_id": "p11_g04",
+    "page_no": 11,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p11_b12",
+      "p11_b13",
+      "p11_b14",
+      "p11_b15",
+      "p11_b16"
+    ],
+    "block_types": [
+      "body",
+      "body",
+      "body",
+      "body",
+      "body"
+    ],
+    "source_text_joined": "環境、社會及管治議題對全球的影響日形重要。我們當竭盡所能，協助推動社會邁向更美好的未來，而我們的環\n境、社會及管治措施在2020年再度備受肯定。根據評級機構Sustainalytics的評選，友邦保險在超過270家保險公\n司中排名第二，足證我們卓越的企業管治實力和質素。此外，我們繼續榮獲Institutional Shareholder Services\nInc.(ISS)頒發「Prime」環境、社會及管治企業評級(ESG Corporate Rating)，認同我們為業界可持續發展表現\n最佳的公司之一。我們相信我們在這方面仍需採取更多措施，為社區實現更美好的成果。這仍是我個人與董事會",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p11_b12",
+        "to": "p11_b13"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p11_b13",
+        "to": "p11_b14"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p11_b14",
+        "to": "p11_b15"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p11_b15",
+        "to": "p11_b16"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      68.03,
+      302.72,
+      524.09,
+      378.68
+    ],
+    "group_text": "環境、社會及管治議題對全球的影響日形重要。我們當竭盡所能，協助推動社會邁向更美好的未來，而我們的環\n境、社會及管治措施在2020年再度備受肯定。根據評級機構Sustainalytics的評選，友邦保險在超過270家保險公\n司中排名第二，足證我們卓越的企業管治實力和質素。此外，我們繼續榮獲Institutional Shareholder Services\nInc.(ISS)頒發「Prime」環境、社會及管治企業評級(ESG Corporate Rating)，認同我們為業界可持續發展表現\n最佳的公司之一。我們相信我們在這方面仍需採取更多措施，為社區實現更美好的成果。這仍是我個人與董事會",
+    "table_role": null
+  },
+  {
+    "group_id": "p11_g05",
+    "page_no": 11,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p11_b18",
+      "p11_b19",
+      "p11_b20",
+      "p11_b21"
+    ],
+    "block_types": [
+      "body",
+      "body",
+      "body",
+      "body"
+    ],
+    "source_text_joined": "今天，客戶對友邦保險產品、服務及高質素建議日益增長的需求從未如此殷切。我們的策略建基於亞洲強勁的\n結構性增長動力，並獲多項因素支持，包括前所未見的財富創造、保障缺口迅速擴大、消費者取向持續轉變、\n數碼技術普及，以及市場聚焦於長遠的可持續發展。董事會充滿信心，友邦保險具備優越條件，把握區內展現的\n龐大機遇，在客戶及其家庭最需要的時刻提供財務保障，使其安心無憂，並同時為所有持分者創造共享價值。",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p11_b18",
+        "to": "p11_b19"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p11_b19",
+        "to": "p11_b20"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p11_b20",
+        "to": "p11_b21"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      68.03,
+      414.74,
+      524.09,
+      474.7
+    ],
+    "group_text": "今天，客戶對友邦保險產品、服務及高質素建議日益增長的需求從未如此殷切。我們的策略建基於亞洲強勁的\n結構性增長動力，並獲多項因素支持，包括前所未見的財富創造、保障缺口迅速擴大、消費者取向持續轉變、\n數碼技術普及，以及市場聚焦於長遠的可持續發展。董事會充滿信心，友邦保險具備優越條件，把握區內展現的\n龐大機遇，在客戶及其家庭最需要的時刻提供財務保障，使其安心無憂，並同時為所有持分者創造共享價值。",
+    "table_role": null
+  },
+  {
+    "group_id": "p11_b22",
+    "page_no": 11,
+    "mode": "single_block",
+    "block_ids": [
+      "p11_b22"
+    ],
+    "block_types": [
+      "body"
+    ],
+    "source_text_joined": "最後，全賴客戶及股東的信任，友邦保險才能自上市以來表現強勁和持續增長。本人謹代表董事會全體成員，",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "single_non_narrative",
+        "reason": "body"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      68.03,
+      494.75,
+      524.09,
+      506.7
+    ],
+    "group_text": "最後，全賴客戶及股東的信任，友邦保險才能自上市以來表現強勁和持續增長。本人謹代表董事會全體成員，",
+    "table_role": null
+  },
+  {
+    "group_id": "p13_g01",
+    "page_no": 13,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p13_b1",
+      "p13_b2"
+    ],
+    "block_types": [
+      "body",
+      "body"
+    ],
+    "source_text_joined": "友邦保險是客戶誠可信賴的夥伴，讓客戶在關注財務安全和家庭保障時仍可安心無憂。儘管2019冠狀病毒病大\n流行的影響深遠，但我衷心感謝我們的員工、代理和合作夥伴在適應新工作方式並確保為客戶提供無間斷的支援",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p13_b1",
+        "to": "p13_b2"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      68.03,
+      94.7,
+      524.09,
+      122.65
+    ],
+    "group_text": "友邦保險是客戶誠可信賴的夥伴，讓客戶在關注財務安全和家庭保障時仍可安心無憂。儘管2019冠狀病毒病大\n流行的影響深遠，但我衷心感謝我們的員工、代理和合作夥伴在適應新工作方式並確保為客戶提供無間斷的支援",
+    "table_role": null
+  },
+  {
+    "group_id": "p13_g02",
+    "page_no": 13,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p13_b5",
+      "p13_b6",
+      "p13_b7"
+    ],
+    "block_types": [
+      "body",
+      "body",
+      "body"
+    ],
+    "source_text_joined": "自疫情大流行開始以來，本集團的各業務團隊反應迅速，積極協助紓緩對社區的影響，同時確保員工安全。本集\n團為此廣泛採取多項措拖，包括財政支持、提供醫療物資、免費保障覆蓋、獲取醫療保健資源、精簡服務流程和\n加快理賠支付，令我引以為榮。我們一如既往找出每一個可以作出理賠的理由，年內已支付逾160億美元的保險",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p13_b5",
+        "to": "p13_b6"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p13_b6",
+        "to": "p13_b7"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      68.03,
+      158.71,
+      521.58,
+      202.66
+    ],
+    "group_text": "自疫情大流行開始以來，本集團的各業務團隊反應迅速，積極協助紓緩對社區的影響，同時確保員工安全。本集\n團為此廣泛採取多項措拖，包括財政支持、提供醫療物資、免費保障覆蓋、獲取醫療保健資源、精簡服務流程和\n加快理賠支付，令我引以為榮。我們一如既往找出每一個可以作出理賠的理由，年內已支付逾160億美元的保險",
+    "table_role": null
+  },
+  {
+    "group_id": "p13_g03",
+    "page_no": 13,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p13_b9",
+      "p13_b10",
+      "p13_b11",
+      "p13_b12"
+    ],
+    "block_types": [
+      "body",
+      "body",
+      "body",
+      "body"
+    ],
+    "source_text_joined": "儘管為遏制2019冠狀病毒病傳播的措施導致新業務價值減少至27.65億美元，但隨著外出限制放寬，銷售動力轉\n趨正面，並在2021年展開非常強勁的勢頭，首兩個月的新業務價值按年增長15%。我們規模龐大和持續增長的有\n效保單組合所帶來的高質素和經常性收入來源，帶動2020年稅後營運溢利增加5%，期內產生的基本自由盈餘則\n增長7%。截至2020年12月31日，內涵價值權益創新高，達672億美元，集團當地資本總和法覆蓋率為374%，足",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p13_b9",
+        "to": "p13_b10"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p13_b10",
+        "to": "p13_b11"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p13_b11",
+        "to": "p13_b12"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      68.03,
+      238.72,
+      521.59,
+      298.67
+    ],
+    "group_text": "儘管為遏制2019冠狀病毒病傳播的措施導致新業務價值減少至27.65億美元，但隨著外出限制放寬，銷售動力轉\n趨正面，並在2021年展開非常強勁的勢頭，首兩個月的新業務價值按年增長15%。我們規模龐大和持續增長的有\n效保單組合所帶來的高質素和經常性收入來源，帶動2020年稅後營運溢利增加5%，期內產生的基本自由盈餘則\n增長7%。截至2020年12月31日，內涵價值權益創新高，達672億美元，集團當地資本總和法覆蓋率為374%，足",
+    "table_role": null
+  },
+  {
+    "group_id": "p13_b14",
+    "page_no": 13,
+    "mode": "single_block",
+    "block_ids": [
+      "p13_b14"
+    ],
+    "block_types": [
+      "body"
+    ],
+    "source_text_joined": "董事會建議2020年末期股息增加7.5%至每股100.30港仙。這秉承友邦保險行之已久的審慎、可持續及漸進的派息",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "single_non_narrative",
+        "reason": "body"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      68.04,
+      334.73,
+      521.51,
+      346.68
+    ],
+    "group_text": "董事會建議2020年末期股息增加7.5%至每股100.30港仙。這秉承友邦保險行之已久的審慎、可持續及漸進的派息",
+    "table_role": null
+  },
+  {
+    "group_id": "p13_g04",
+    "page_no": 13,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p13_b16",
+      "p13_b17",
+      "p13_b18"
+    ],
+    "block_types": [
+      "body",
+      "body",
+      "body"
+    ],
+    "source_text_joined": "友邦保險具有多項顯著優勢，讓我們在競爭激烈的市場別樹一幟。我們在亞洲經營數十載，擁有區內無可比擬的\n平台，並於我們業務所在的大部分市場雄踞領導地位。我們始終如一地百分百專注於亞洲市場，有助我們在全球\n最具吸引力的壽險業地區全面把握增長機遇。這份專注結合我們領導團隊在亞洲的豐富經驗及員工的優秀質素，",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p13_b16",
+        "to": "p13_b17"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p13_b17",
+        "to": "p13_b18"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      68.04,
+      382.73,
+      521.5,
+      426.69
+    ],
+    "group_text": "友邦保險具有多項顯著優勢，讓我們在競爭激烈的市場別樹一幟。我們在亞洲經營數十載，擁有區內無可比擬的\n平台，並於我們業務所在的大部分市場雄踞領導地位。我們始終如一地百分百專注於亞洲市場，有助我們在全球\n最具吸引力的壽險業地區全面把握增長機遇。這份專注結合我們領導團隊在亞洲的豐富經驗及員工的優秀質素，",
+    "table_role": null
+  },
+  {
+    "group_id": "p13_g05",
+    "page_no": 13,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p13_b20",
+      "p13_b21",
+      "p13_b22"
+    ],
+    "block_types": [
+      "body",
+      "body",
+      "body"
+    ],
+    "source_text_joined": "我們無可比擬的分銷實力能直接接觸客戶，並提供高質素的專業建議，協助滿足亞洲消費者龐大且日益增長的長\n期保障和儲蓄需求。如今大眾比以往更期望企業能以符合長遠可持續發展的方式應對他們的需要。友邦保險擁有\n市場領先的品牌，以幫助大眾實踐健康、長久、好生活的目標為基礎。",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p13_b20",
+        "to": "p13_b21"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p13_b21",
+        "to": "p13_b22"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      68.04,
+      462.74,
+      521.5,
+      506.7
+    ],
+    "group_text": "我們無可比擬的分銷實力能直接接觸客戶，並提供高質素的專業建議，協助滿足亞洲消費者龐大且日益增長的長\n期保障和儲蓄需求。如今大眾比以往更期望企業能以符合長遠可持續發展的方式應對他們的需要。友邦保險擁有\n市場領先的品牌，以幫助大眾實踐健康、長久、好生活的目標為基礎。",
+    "table_role": null
+  },
+  {
+    "group_id": "p13_g06",
+    "page_no": 13,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p13_b23",
+      "p13_b24"
+    ],
+    "block_types": [
+      "body",
+      "body"
+    ],
+    "source_text_joined": "我們旨在使友邦保險在科技應用方面領先全球，加強互聯互通，擴大規模和提升效率。更深入瞭解數據分析有助\n我們締造獨特和個人化的客戶體驗。切合和反映個人需求和生活方式的產品及服務，改變了大眾對人壽保險的看",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p13_b23",
+        "to": "p13_b24"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      68.04,
+      526.75,
+      521.5,
+      554.71
+    ],
+    "group_text": "我們旨在使友邦保險在科技應用方面領先全球，加強互聯互通，擴大規模和提升效率。更深入瞭解數據分析有助\n我們締造獨特和個人化的客戶體驗。切合和反映個人需求和生活方式的產品及服務，改變了大眾對人壽保險的看",
+    "table_role": null
+  },
+  {
+    "group_id": "p13_g07",
+    "page_no": 13,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p13_b26",
+      "p13_b27",
+      "p13_b28"
+    ],
+    "block_types": [
+      "body",
+      "body",
+      "body"
+    ],
+    "source_text_joined": "儘管2020年是前所未見的一年，但我對亞洲壽險行業的前景和友邦保險的未來比以往更為樂觀。我們繼續挑戰自\n己，發展我們的優先任務，以確保我們能繼續適切地迎合客戶期望和財務需求的轉變。我們的全新企業策略建基\n於友邦保險的現有實力，推進轉型過程，以在未來為客戶提供最佳的服務。",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p13_b26",
+        "to": "p13_b27"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p13_b27",
+        "to": "p13_b28"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      68.04,
+      590.76,
+      521.57,
+      634.72
+    ],
+    "group_text": "儘管2020年是前所未見的一年，但我對亞洲壽險行業的前景和友邦保險的未來比以往更為樂觀。我們繼續挑戰自\n己，發展我們的優先任務，以確保我們能繼續適切地迎合客戶期望和財務需求的轉變。我們的全新企業策略建基\n於友邦保險的現有實力，推進轉型過程，以在未來為客戶提供最佳的服務。",
+    "table_role": null
+  },
+  {
+    "group_id": "p14_g01",
+    "page_no": 14,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p14_b4",
+      "p14_b5",
+      "p14_b6"
+    ],
+    "block_types": [
+      "body",
+      "body",
+      "body"
+    ],
+    "source_text_joined": "友邦保險中國業務在2020年為本集團新業務價值帶來最大貢獻，並在2021年初表現卓越，與2020年同期比較，\n今年首兩個月錄得非常強勁的新業務價值增長。儘管2020年的9.68億美元新業務價值較2019年下降17%，但這主\n要由於2019冠狀病毒病在首季爆發初期新銷售有限所致。年內稅後營運溢利增長14%，主要是由於我們日益增長",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p14_b4",
+        "to": "p14_b5"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p14_b5",
+        "to": "p14_b6"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      73.7,
+      126.47,
+      527.26,
+      170.65
+    ],
+    "group_text": "友邦保險中國業務在2020年為本集團新業務價值帶來最大貢獻，並在2021年初表現卓越，與2020年同期比較，\n今年首兩個月錄得非常強勁的新業務價值增長。儘管2020年的9.68億美元新業務價值較2019年下降17%，但這主\n要由於2019冠狀病毒病在首季爆發初期新銷售有限所致。年內稅後營運溢利增長14%，主要是由於我們日益增長",
+    "table_role": null
+  },
+  {
+    "group_id": "p14_g02",
+    "page_no": 14,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p14_b8",
+      "p14_b9",
+      "p14_b10"
+    ],
+    "block_types": [
+      "body",
+      "body",
+      "body"
+    ],
+    "source_text_joined": "在2020年，我們成功獲得監管機搆批復，將上海分公司改建為中國內地首家外資獨資人身保險子公司。於2021年\n3月，我們已獲得中國銀行保險監督委員會批復，准予在四川省開業。四川省是中國內地以國內生產總值計的\n第六大省份，以人口計為第四大省，為友邦保險帶來重大的長期增長機遇。",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p14_b8",
+        "to": "p14_b9"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p14_b9",
+        "to": "p14_b10"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      73.7,
+      206.7,
+      529.77,
+      250.66
+    ],
+    "group_text": "在2020年，我們成功獲得監管機搆批復，將上海分公司改建為中國內地首家外資獨資人身保險子公司。於2021年\n3月，我們已獲得中國銀行保險監督委員會批復，准予在四川省開業。四川省是中國內地以國內生產總值計的\n第六大省份，以人口計為第四大省，為友邦保險帶來重大的長期增長機遇。",
+    "table_role": null
+  },
+  {
+    "group_id": "p14_g03",
+    "page_no": 14,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p14_b11",
+      "p14_b12",
+      "p14_b13",
+      "p14_b14"
+    ],
+    "block_types": [
+      "body",
+      "body",
+      "body",
+      "body"
+    ],
+    "source_text_joined": "香港在2020年2月初實施旅遊限制，來自中國內地訪港旅客的新業務銷售實際上已經停頓，導致新業務價值大幅\n下降。與上半年比較，我們的代理分銷來自本地客戶的業務於下半年錄得雙位數字的銷售增長，維持顯著的市場\n領導地位。夥伴分銷渠道的新業務價值顯著低於2019年，乃由於透過零售獨立財務顧問渠道的中國內地訪港旅客\n過往銷售比重較高。稅後營運溢利增長10%，受惠於續保保費強勁的增長及有利的理賠經驗。",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p14_b11",
+        "to": "p14_b12"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p14_b12",
+        "to": "p14_b13"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p14_b13",
+        "to": "p14_b14"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      73.7,
+      270.49,
+      527.25,
+      330.67
+    ],
+    "group_text": "香港在2020年2月初實施旅遊限制，來自中國內地訪港旅客的新業務銷售實際上已經停頓，導致新業務價值大幅\n下降。與上半年比較，我們的代理分銷來自本地客戶的業務於下半年錄得雙位數字的銷售增長，維持顯著的市場\n領導地位。夥伴分銷渠道的新業務價值顯著低於2019年，乃由於透過零售獨立財務顧問渠道的中國內地訪港旅客\n過往銷售比重較高。稅後營運溢利增長10%，受惠於續保保費強勁的增長及有利的理賠經驗。",
+    "table_role": null
+  },
+  {
+    "group_id": "p14_g04",
+    "page_no": 14,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p14_b15",
+      "p14_b16"
+    ],
+    "block_types": [
+      "body",
+      "body"
+    ],
+    "source_text_joined": "友邦保險泰國業務在下半年錄得非常強勁的表現。儘管新業務價值全年下降4%，但隨著外出限制放寬，按月表\n現已展現正面動力，而下半年新業務價值較上半年錄得33%的增長。",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p14_b15",
+        "to": "p14_b16"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      73.7,
+      350.5,
+      527.26,
+      378.68
+    ],
+    "group_text": "友邦保險泰國業務在下半年錄得非常強勁的表現。儘管新業務價值全年下降4%，但隨著外出限制放寬，按月表\n現已展現正面動力，而下半年新業務價值較上半年錄得33%的增長。",
+    "table_role": null
+  },
+  {
+    "group_id": "p14_g05",
+    "page_no": 14,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p14_b17",
+      "p14_b18",
+      "p14_b19"
+    ],
+    "block_types": [
+      "body",
+      "body",
+      "label"
+    ],
+    "source_text_joined": "新加坡業務下半年亦有卓越的好轉，與上半年比較，新業務價值上升56%，按年則上升12%。新業務價值全年\n下降5%，由於我們的境外夥伴業務受到嚴格的邊境管制措施所影響，抵銷代理渠道的增長。稅後營運溢利上升\n8%。",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p14_b17",
+        "to": "p14_b18"
+      },
+      {
+        "kind": "tail_numeric_clause",
+        "from": "p14_b18",
+        "to": "p14_b19"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      73.7,
+      398.5,
+      529.77,
+      442.68
+    ],
+    "group_text": "新加坡業務下半年亦有卓越的好轉，與上半年比較，新業務價值上升56%，按年則上升12%。新業務價值全年\n下降5%，由於我們的境外夥伴業務受到嚴格的邊境管制措施所影響，抵銷代理渠道的增長。稅後營運溢利上升\n8%。",
+    "table_role": null
+  },
+  {
+    "group_id": "p14_g06",
+    "page_no": 14,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p14_b20",
+      "p14_b21"
+    ],
+    "block_types": [
+      "body",
+      "label"
+    ],
+    "source_text_joined": "馬來西亞方面，新業務價值全年下降13%，特別反映在上半年嚴格執行的外出限制。下半年新業務價值回升，較\n上半年增長72%。",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p14_b20",
+        "to": "p14_b21"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      73.7,
+      462.51,
+      527.13,
+      490.69
+    ],
+    "group_text": "馬來西亞方面，新業務價值全年下降13%，特別反映在上半年嚴格執行的外出限制。下半年新業務價值回升，較\n上半年增長72%。",
+    "table_role": null
+  },
+  {
+    "group_id": "p14_g07",
+    "page_no": 14,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p14_b22",
+      "p14_b23"
+    ],
+    "block_types": [
+      "body",
+      "body"
+    ],
+    "source_text_joined": "其他市場方面，下半年的新業務價值較上半年上升10%，其中南韓和印尼的回升幅度正面。整體來說，新業務價\n值全年下降4%，主要由於新西蘭、菲律賓及印尼錄得跌幅。其餘的市場均錄得新業務價值正增長，其中越南、",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p14_b22",
+        "to": "p14_b23"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      73.7,
+      510.52,
+      527.32,
+      538.7
+    ],
+    "group_text": "其他市場方面，下半年的新業務價值較上半年上升10%，其中南韓和印尼的回升幅度正面。整體來說，新業務價\n值全年下降4%，主要由於新西蘭、菲律賓及印尼錄得跌幅。其餘的市場均錄得新業務價值正增長，其中越南、",
+    "table_role": null
+  },
+  {
+    "group_id": "p14_b25",
+    "page_no": 14,
+    "mode": "single_block",
+    "block_ids": [
+      "p14_b25"
+    ],
+    "block_types": [
+      "body"
+    ],
+    "source_text_joined": "代理渠道方面，我們轉移使用線上招聘和入職培訓的趨勢，支持新入職代理及代理主管人數錄得雙位數字增長。",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "single_non_narrative",
+        "reason": "body"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      73.7,
+      574.53,
+      527.12,
+      586.7
+    ],
+    "group_text": "代理渠道方面，我們轉移使用線上招聘和入職培訓的趨勢，支持新入職代理及代理主管人數錄得雙位數字增長。",
+    "table_role": null
+  },
+  {
+    "group_id": "p14_g08",
+    "page_no": 14,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p14_b26",
+      "p14_b27"
+    ],
+    "block_types": [
+      "body",
+      "body"
+    ],
+    "source_text_joined": "雖然疫情大流行期間面對面會議受到限制，導致新業務價值下降28%，但隨著限制放寬，加上各業務採用新的數\n碼工具，新業務價值在下半年已強勁回升。正面銷售動力延續至2021年，與2020年同期比較，代理業務在首兩",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p14_b26",
+        "to": "p14_b27"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      73.7,
+      590.75,
+      527.22,
+      618.71
+    ],
+    "group_text": "雖然疫情大流行期間面對面會議受到限制，導致新業務價值下降28%，但隨著限制放寬，加上各業務採用新的數\n碼工具，新業務價值在下半年已強勁回升。正面銷售動力延續至2021年，與2020年同期比較，代理業務在首兩",
+    "table_role": null
+  },
+  {
+    "group_id": "p14_g09",
+    "page_no": 14,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p14_b29",
+      "p14_b30",
+      "p14_b31",
+      "p14_b32"
+    ],
+    "block_types": [
+      "body",
+      "body",
+      "body",
+      "body"
+    ],
+    "source_text_joined": "中國內地訪港旅客的旅遊限制影響我們的零售獨立財務顧問業務，導致夥伴業務於2020年的新業務價值下降\n41%。我們從銀行保險帶來較為堅韌的業績，並為此渠道的新業務價值帶來大部分的貢獻。我們與印尼的Bank\nCentral Asia (BCA)、泰國的Bangkok Bank Public Company Limited（盤谷銀行）及馬來西亞的Public Bank\nBerhad（大眾銀行）的銀行保險夥伴合作，在2020年均錄得新業務價值正增長。",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p14_b29",
+        "to": "p14_b30"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p14_b30",
+        "to": "p14_b31"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p14_b31",
+        "to": "p14_b32"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      73.69,
+      654.54,
+      529.77,
+      714.72
+    ],
+    "group_text": "中國內地訪港旅客的旅遊限制影響我們的零售獨立財務顧問業務，導致夥伴業務於2020年的新業務價值下降\n41%。我們從銀行保險帶來較為堅韌的業績，並為此渠道的新業務價值帶來大部分的貢獻。我們與印尼的Bank\nCentral Asia (BCA)、泰國的Bangkok Bank Public Company Limited（盤谷銀行）及馬來西亞的Public Bank\nBerhad（大眾銀行）的銀行保險夥伴合作，在2020年均錄得新業務價值正增長。",
+    "table_role": null
+  },
+  {
+    "group_id": "p15_b2",
+    "page_no": 15,
+    "mode": "single_block",
+    "block_ids": [
+      "p15_b2"
+    ],
+    "block_types": [
+      "body"
+    ],
+    "source_text_joined": "友邦保險擁有23,000名員工，是本集團的重要競爭優勢，亦是我們持續獲取佳績的關鍵。我們推廣共融和協作的",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "single_non_narrative",
+        "reason": "body"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      68.03,
+      126.69,
+      521.54,
+      138.65
+    ],
+    "group_text": "友邦保險擁有23,000名員工，是本集團的重要競爭優勢，亦是我們持續獲取佳績的關鍵。我們推廣共融和協作的",
+    "table_role": null
+  },
+  {
+    "group_id": "p15_g01",
+    "page_no": 15,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p15_b4",
+      "p15_b5",
+      "p15_b6"
+    ],
+    "block_types": [
+      "body",
+      "body",
+      "body"
+    ],
+    "source_text_joined": "學習文化，為員工提供平台，在友邦保險發展具意義和有價值的事業。因應社交距離措施和外遊限制，我們將學\n習內容轉至網上的「AIA Learning Hub」。位於曼谷的世界級設施AIA Leadership Centre (ALC)重新設計及推行本\n集團的旗艦領袖發展計劃，擁有逾100個完全虛擬化的學習模組。參與者對這些虛擬學習課程作出非常正面的反",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p15_b4",
+        "to": "p15_b5"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p15_b5",
+        "to": "p15_b6"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      68.03,
+      142.7,
+      521.66,
+      186.65
+    ],
+    "group_text": "學習文化，為員工提供平台，在友邦保險發展具意義和有價值的事業。因應社交距離措施和外遊限制，我們將學\n習內容轉至網上的「AIA Learning Hub」。位於曼谷的世界級設施AIA Leadership Centre (ALC)重新設計及推行本\n集團的旗艦領袖發展計劃，擁有逾100個完全虛擬化的學習模組。參與者對這些虛擬學習課程作出非常正面的反",
+    "table_role": null
+  },
+  {
+    "group_id": "p15_g02",
+    "page_no": 15,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p15_b8",
+      "p15_b9",
+      "p15_b10"
+    ],
+    "block_types": [
+      "body",
+      "body",
+      "body"
+    ],
+    "source_text_joined": "年度員工敬業度指標調查是我們在各市場共同努力所得成果的重要指標，藉此更瞭解和支援員工。在2020年，\n97%的員工參與調查，本集團所得的員工敬業度評分升至歷來新高，在蓋洛普環球金融服務及保險業基準中排名\n88分位。此外，友邦保險獲列入《福布斯》\n「2020年世界最佳僱主榜單」(‘World’s Best Employers 2020’ list)。",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p15_b8",
+        "to": "p15_b9"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p15_b9",
+        "to": "p15_b10"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      68.03,
+      222.71,
+      521.58,
+      266.66
+    ],
+    "group_text": "年度員工敬業度指標調查是我們在各市場共同努力所得成果的重要指標，藉此更瞭解和支援員工。在2020年，\n97%的員工參與調查，本集團所得的員工敬業度評分升至歷來新高，在蓋洛普環球金融服務及保險業基準中排名\n88分位。此外，友邦保險獲列入《福布斯》\n「2020年世界最佳僱主榜單」(‘World’s Best Employers 2020’ list)。",
+    "table_role": null
+  },
+  {
+    "group_id": "p15_g03",
+    "page_no": 15,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p15_b11",
+      "p15_b12"
+    ],
+    "block_types": [
+      "body",
+      "body"
+    ],
+    "source_text_joined": "在2020年10月，友邦保險慶祝於香港聯交所上市10週年誌慶，特別設立「友邦獎學金」，承諾投放1億美元，在未\n來數十年每年資助100名就讀於香港多間大學的本科生，培養新世代企業領袖。",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p15_b11",
+        "to": "p15_b12"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      68.03,
+      286.71,
+      521.59,
+      314.67
+    ],
+    "group_text": "在2020年10月，友邦保險慶祝於香港聯交所上市10週年誌慶，特別設立「友邦獎學金」，承諾投放1億美元，在未\n來數十年每年資助100名就讀於香港多間大學的本科生，培養新世代企業領袖。",
+    "table_role": null
+  },
+  {
+    "group_id": "p15_g04",
+    "page_no": 15,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p15_b13",
+      "p15_b14"
+    ],
+    "block_types": [
+      "body",
+      "body"
+    ],
+    "source_text_joined": "「未來的組織」(Organisation of the Future)策略的核心組成部分，包括強化和簡化組織結構、引進靈活的工作方\n式，以及提升能力框架。這些策略性優先任務將支持員工發展事業，進一步提升友邦保險作為首選僱主的地位。",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p15_b13",
+        "to": "p15_b14"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      63.54,
+      334.72,
+      521.6,
+      362.67
+    ],
+    "group_text": "「未來的組織」(Organisation of the Future)策略的核心組成部分，包括強化和簡化組織結構、引進靈活的工作方\n式，以及提升能力框架。這些策略性優先任務將支持員工發展事業，進一步提升友邦保險作為首選僱主的地位。",
+    "table_role": null
+  },
+  {
+    "group_id": "p15_g05",
+    "page_no": 15,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p15_b15",
+      "p15_b16",
+      "p15_b17"
+    ],
+    "block_types": [
+      "body",
+      "body",
+      "body"
+    ],
+    "source_text_joined": "我們從2020年下半年起，透過友邦保險在新加坡和越南的業務作為兩個試點業務單位，展開塑造一個轉型機構的\n旅程。初步成果已實現更簡化、更以客為本的營運模式，我們亦推行靈活的工作方式，設立多個跨職能的專家團\n隊。我們計劃在這些試點業務內進行試驗和學習，然後將「未來的組織」項目擴展至其他業務。",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p15_b15",
+        "to": "p15_b16"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p15_b16",
+        "to": "p15_b17"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      68.04,
+      382.73,
+      521.57,
+      426.68
+    ],
+    "group_text": "我們從2020年下半年起，透過友邦保險在新加坡和越南的業務作為兩個試點業務單位，展開塑造一個轉型機構的\n旅程。初步成果已實現更簡化、更以客為本的營運模式，我們亦推行靈活的工作方式，設立多個跨職能的專家團\n隊。我們計劃在這些試點業務內進行試驗和學習，然後將「未來的組織」項目擴展至其他業務。",
+    "table_role": null
+  },
+  {
+    "group_id": "p15_g06",
+    "page_no": 15,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p15_b19",
+      "p15_b20",
+      "p15_b21"
+    ],
+    "block_types": [
+      "body",
+      "body",
+      "body"
+    ],
+    "source_text_joined": "過去一個多世紀以來，友邦保險為亞洲客戶的生活帶來正面和持久的影響。我們的社區存在不少環境、社會及管\n治議題，包括氣候變化、環境污染及生活模式相關疾病。隨著疫情大流行持續，突顯了這些問題的複雜性。作為\n客戶和社區的終身夥伴，我們竭盡所能，推動社會邁向更美好、更可持續的未來。",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p15_b19",
+        "to": "p15_b20"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p15_b20",
+        "to": "p15_b21"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      68.03,
+      494.69,
+      521.58,
+      538.65
+    ],
+    "group_text": "過去一個多世紀以來，友邦保險為亞洲客戶的生活帶來正面和持久的影響。我們的社區存在不少環境、社會及管\n治議題，包括氣候變化、環境污染及生活模式相關疾病。隨著疫情大流行持續，突顯了這些問題的複雜性。作為\n客戶和社區的終身夥伴，我們竭盡所能，推動社會邁向更美好、更可持續的未來。",
+    "table_role": null
+  },
+  {
+    "group_id": "p15_g07",
+    "page_no": 15,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p15_b22",
+      "p15_b23",
+      "p15_b24"
+    ],
+    "block_types": [
+      "body",
+      "body",
+      "body"
+    ],
+    "source_text_joined": "友邦保險參與氣候相關財務披露工作小組(Task Force on Climate-related Financial Disclosures)，這個全球組\n織致力就氣候變化影響建立一個自願和一致的披露框架。我們繼續重申對有關建議的承諾，在2020年與我們投資\n組合內逾1,400家公司，以及超過30名外部投資經理聯繫，致力影響其如何管理氣候變化風險及應對氣候問題。",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p15_b22",
+        "to": "p15_b23"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p15_b23",
+        "to": "p15_b24"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      68.02,
+      558.7,
+      524.09,
+      602.66
+    ],
+    "group_text": "友邦保險參與氣候相關財務披露工作小組(Task Force on Climate-related Financial Disclosures)，這個全球組\n織致力就氣候變化影響建立一個自願和一致的披露框架。我們繼續重申對有關建議的承諾，在2020年與我們投資\n組合內逾1,400家公司，以及超過30名外部投資經理聯繫，致力影響其如何管理氣候變化風險及應對氣候問題。",
+    "table_role": null
+  },
+  {
+    "group_id": "p15_g08",
+    "page_no": 15,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p15_b25",
+      "p15_b26"
+    ],
+    "block_types": [
+      "body",
+      "body"
+    ],
+    "source_text_joined": "根據評級機構Sustainalytics的評選，友邦保險連續第二年在保險業環境、社會及管治風險管理方面排名第二，\n而在2020年，MSCI上調友邦保險的環境、社會及管治評級至A級，主要由於我們把環境、社會及管治因素融入投",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p15_b25",
+        "to": "p15_b26"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      68.02,
+      622.71,
+      521.54,
+      650.66
+    ],
+    "group_text": "根據評級機構Sustainalytics的評選，友邦保險連續第二年在保險業環境、社會及管治風險管理方面排名第二，\n而在2020年，MSCI上調友邦保險的環境、社會及管治評級至A級，主要由於我們把環境、社會及管治因素融入投",
+    "table_role": null
+  },
+  {
+    "group_id": "p16_g01",
+    "page_no": 16,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p16_b3",
+      "p16_b4"
+    ],
+    "block_types": [
+      "body",
+      "body"
+    ],
+    "source_text_joined": "我們瞭解我們在這重要領域仍然任重道遠。我們最近亦完成環境、社會及管治策略的檢討。本人充滿信心，我們\n的五大策略焦點領域：提升身心健康、綠色營運、可持續投資、人才與文化和有效的管治，將有助我們實現在環",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p16_b3",
+        "to": "p16_b4"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      73.7,
+      94.69,
+      527.26,
+      122.65
+    ],
+    "group_text": "我們瞭解我們在這重要領域仍然任重道遠。我們最近亦完成環境、社會及管治策略的檢討。本人充滿信心，我們\n的五大策略焦點領域：提升身心健康、綠色營運、可持續投資、人才與文化和有效的管治，將有助我們實現在環",
+    "table_role": null
+  },
+  {
+    "group_id": "p16_g02",
+    "page_no": 16,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p16_b7",
+      "p16_b8",
+      "p16_b9",
+      "p16_b10"
+    ],
+    "block_types": [
+      "body",
+      "body",
+      "body",
+      "body"
+    ],
+    "source_text_joined": "在2020年，2019冠狀病毒病大流行無疑是我們生活記憶中最大規模的公共衞生緊急狀態。受影響的企業和家庭\n獲得前所未見的公共財政和金融支援，有助緩解由疫情大流行造成的部分極端金融衝擊，並加快復甦步伐，這在\n具備完善衞生政策及基建的國家尤其可見。然而，各國之間存在顯著差異，在這困境下，亞洲（日本除外）地區\n錄得全球相對最強勁的國內生產總值表現。現時，環球經濟正剛剛開始擺脫一場深度衰退，並步入好轉的初步階",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p16_b7",
+        "to": "p16_b8"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p16_b8",
+        "to": "p16_b9"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p16_b9",
+        "to": "p16_b10"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      73.7,
+      206.69,
+      527.31,
+      266.65
+    ],
+    "group_text": "在2020年，2019冠狀病毒病大流行無疑是我們生活記憶中最大規模的公共衞生緊急狀態。受影響的企業和家庭\n獲得前所未見的公共財政和金融支援，有助緩解由疫情大流行造成的部分極端金融衝擊，並加快復甦步伐，這在\n具備完善衞生政策及基建的國家尤其可見。然而，各國之間存在顯著差異，在這困境下，亞洲（日本除外）地區\n錄得全球相對最強勁的國內生產總值表現。現時，環球經濟正剛剛開始擺脫一場深度衰退，並步入好轉的初步階",
+    "table_role": null
+  },
+  {
+    "group_id": "p16_g03",
+    "page_no": 16,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p16_b12",
+      "p16_b13",
+      "p16_b14",
+      "p16_b15"
+    ],
+    "block_types": [
+      "body",
+      "body",
+      "body",
+      "body"
+    ],
+    "source_text_joined": "儘管疫情大流行的影響依然沒有結束，但相信2021年將是過渡性的一年，我們對此保持審慎樂觀。市場憧憬推出\n疫苗接種計劃和新療法有助降低疫症的感染率和嚴重性，使醫療系統能更有效應對疫情，並降低死亡率。儘管我\n們並不預計外出或消費行為於短期內能回復疫情大流行前的水平，但隨著消費者信心恢復，預期復甦範疇將逐步\n由製造主導的產業擴展到消費和服務業。這在人口較年輕的國家將尤其可見。",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p16_b12",
+        "to": "p16_b13"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p16_b13",
+        "to": "p16_b14"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p16_b14",
+        "to": "p16_b15"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      73.7,
+      302.71,
+      527.23,
+      362.66
+    ],
+    "group_text": "儘管疫情大流行的影響依然沒有結束，但相信2021年將是過渡性的一年，我們對此保持審慎樂觀。市場憧憬推出\n疫苗接種計劃和新療法有助降低疫症的感染率和嚴重性，使醫療系統能更有效應對疫情，並降低死亡率。儘管我\n們並不預計外出或消費行為於短期內能回復疫情大流行前的水平，但隨著消費者信心恢復，預期復甦範疇將逐步\n由製造主導的產業擴展到消費和服務業。這在人口較年輕的國家將尤其可見。",
+    "table_role": null
+  },
+  {
+    "group_id": "p16_g04",
+    "page_no": 16,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p16_b16",
+      "p16_b17",
+      "p16_b18",
+      "p16_b19"
+    ],
+    "block_types": [
+      "body",
+      "body",
+      "body",
+      "body"
+    ],
+    "source_text_joined": "我對友邦保險的長遠未來前景充滿信心。儘管面對短期不明朗因素，但帶動需求的本土因素強勁，加上亞洲的主\n要人口結構趨勢，仍為友邦保險業務的長遠前景提供正面的結構性支持。在大眾收入增加、私人保險滲透率偏\n低，以及社會福利覆蓋有限的情況下，市場對友邦保險產品的需求將繼續增長。我們將憑藉龐大的競爭優勢和強\n勁的增長往績，為社區創建更可持續的未來，並為所有持分者創造共享價值。",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p16_b16",
+        "to": "p16_b17"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p16_b17",
+        "to": "p16_b18"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p16_b18",
+        "to": "p16_b19"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      73.7,
+      382.72,
+      527.36,
+      442.67
+    ],
+    "group_text": "我對友邦保險的長遠未來前景充滿信心。儘管面對短期不明朗因素，但帶動需求的本土因素強勁，加上亞洲的主\n要人口結構趨勢，仍為友邦保險業務的長遠前景提供正面的結構性支持。在大眾收入增加、私人保險滲透率偏\n低，以及社會福利覆蓋有限的情況下，市場對友邦保險產品的需求將繼續增長。我們將憑藉龐大的競爭優勢和強\n勁的增長往績，為社區創建更可持續的未來，並為所有持分者創造共享價值。",
+    "table_role": null
+  },
+  {
+    "group_id": "p18_g01",
+    "page_no": 18,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p18_b10",
+      "p18_b11",
+      "p18_b12",
+      "p18_b13"
+    ],
+    "block_types": [
+      "body",
+      "body",
+      "body",
+      "body"
+    ],
+    "source_text_joined": "在2020年，友邦保險在全球大流行病帶來的空前商業和宏觀經濟狀況下錄得強勁的財務表現。儘管外出限制導致\n2020年新業務價值下降，但隨著業務的調整和限制的有所放寬，我們看到了銷售勢頭的恢復。這種勢頭一直持續\n到2021年，首兩個月新業務價值與2020年同期相比增長15%。多年來，我們審慎的財務管理和貫徹對高質素業務\n的策略性重點，體現了稅後營運溢利和產生的基本自由盈餘的持續增長、穩健而強韌的資本狀況以及每股股息的",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p18_b10",
+        "to": "p18_b11"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p18_b11",
+        "to": "p18_b12"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p18_b12",
+        "to": "p18_b13"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      73.69,
+      310.21,
+      527.29,
+      370.16
+    ],
+    "group_text": "在2020年，友邦保險在全球大流行病帶來的空前商業和宏觀經濟狀況下錄得強勁的財務表現。儘管外出限制導致\n2020年新業務價值下降，但隨著業務的調整和限制的有所放寬，我們看到了銷售勢頭的恢復。這種勢頭一直持續\n到2021年，首兩個月新業務價值與2020年同期相比增長15%。多年來，我們審慎的財務管理和貫徹對高質素業務\n的策略性重點，體現了稅後營運溢利和產生的基本自由盈餘的持續增長、穩健而強韌的資本狀況以及每股股息的",
+    "table_role": null
+  },
+  {
+    "group_id": "p19_g01",
+    "page_no": 19,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p19_b1",
+      "p19_b2",
+      "p19_b3"
+    ],
+    "block_types": [
+      "body",
+      "body",
+      "body"
+    ],
+    "source_text_joined": "大流行病對我們2020年財務表現的主要影響是對新業務銷售的影響，原因在於我們眾多市場的遏制傳播措施限制\n了面對面的銷售活動，尤其是在2020年上半年。儘管2020年的新業務價值27.65億美元較2019年減少了33%，我\n們迅速採用了新的數碼工具，並且外出限制的普遍放寬支持了銷售勢頭的恢復。友邦保險中國業務為2020年本集",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p19_b1",
+        "to": "p19_b2"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p19_b2",
+        "to": "p19_b3"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      68.03,
+      93.17,
+      521.58,
+      137.12
+    ],
+    "group_text": "大流行病對我們2020年財務表現的主要影響是對新業務銷售的影響，原因在於我們眾多市場的遏制傳播措施限制\n了面對面的銷售活動，尤其是在2020年上半年。儘管2020年的新業務價值27.65億美元較2019年減少了33%，我\n們迅速採用了新的數碼工具，並且外出限制的普遍放寬支持了銷售勢頭的恢復。友邦保險中國業務為2020年本集",
+    "table_role": null
+  },
+  {
+    "group_id": "p19_g02",
+    "page_no": 19,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p19_b5",
+      "p19_b6",
+      "p19_b7",
+      "p19_b8"
+    ],
+    "block_types": [
+      "body",
+      "body",
+      "body",
+      "label"
+    ],
+    "source_text_joined": "團的新業務價值帶來最大貢獻，也是我們第一個顯示銷售勢頭有所恢復的報告分部，原因在於該地區自2020年3\n月逐步放寬嚴格的封鎖。撇除維持低位的中國內地訪港旅客銷售額，本集團其他分部的新業務價值在下半年強勁\n復甦，與上半年相比增長了23%。本集團的新業務發展勢頭在2021年持續強勁，首兩個月新業務價值較2020年同\n期高出15%。",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p19_b5",
+        "to": "p19_b6"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p19_b6",
+        "to": "p19_b7"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p19_b7",
+        "to": "p19_b8"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      68.03,
+      141.17,
+      521.57,
+      201.13
+    ],
+    "group_text": "團的新業務價值帶來最大貢獻，也是我們第一個顯示銷售勢頭有所恢復的報告分部，原因在於該地區自2020年3\n月逐步放寬嚴格的封鎖。撇除維持低位的中國內地訪港旅客銷售額，本集團其他分部的新業務價值在下半年強勁\n復甦，與上半年相比增長了23%。本集團的新業務發展勢頭在2021年持續強勁，首兩個月新業務價值較2020年同\n期高出15%。",
+    "table_role": null
+  },
+  {
+    "group_id": "p19_b9",
+    "page_no": 19,
+    "mode": "single_block",
+    "block_ids": [
+      "p19_b9"
+    ],
+    "block_types": [
+      "body"
+    ],
+    "source_text_joined": "截至2020年12月31日的內涵價值權益創下新高為671.85億美元，於派付股息19.97億美元之前增加52.77億美元，",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "single_non_narrative",
+        "reason": "body"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      68.03,
+      221.18,
+      521.57,
+      233.14
+    ],
+    "group_text": "截至2020年12月31日的內涵價值權益創下新高為671.85億美元，於派付股息19.97億美元之前增加52.77億美元，",
+    "table_role": null
+  },
+  {
+    "group_id": "p19_g03",
+    "page_no": 19,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p19_b10",
+      "p19_b11"
+    ],
+    "block_types": [
+      "body",
+      "body"
+    ],
+    "source_text_joined": "原因在於內涵價值營運溢利72.43億美元抵銷了政府債券收益率下降的影響。內涵價值營運溢利包括來自正面營\n運差異5.49億美元，原因在於與我們的內涵價值假設相比，我們的整體經驗持續維持正面。",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p19_b10",
+        "to": "p19_b11"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      68.03,
+      237.19,
+      521.53,
+      265.14
+    ],
+    "group_text": "原因在於內涵價值營運溢利72.43億美元抵銷了政府債券收益率下降的影響。內涵價值營運溢利包括來自正面營\n運差異5.49億美元，原因在於與我們的內涵價值假設相比，我們的整體經驗持續維持正面。",
+    "table_role": null
+  },
+  {
+    "group_id": "p19_g04",
+    "page_no": 19,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p19_b12",
+      "p19_b13",
+      "p19_b14",
+      "p19_b15",
+      "p19_b16",
+      "p19_b17"
+    ],
+    "block_types": [
+      "body",
+      "body",
+      "body",
+      "body",
+      "body",
+      "label"
+    ],
+    "source_text_joined": "我們的高質素、經常性盈利來源以及對有效保單組合的積極管理，帶動稅後營運溢利增長了5%至59.42億美元，\n並使營運溢利率穩定在16.9%。所收取的續保保費增加了10%，經常性保費總額佔2020年所收取保費的90%以\n上。稅後營運溢利增長受益於全年顯著正面理賠經驗，其抵銷了新固定收入投資的收益率下跌及假設長期股權投\n資回報減少的影響。一如預期，上半年所述的異常正面醫療理賠經驗並未在下半年再次發生，但我們繼續看到此\n來源對稅後營運溢利增長的正面貢獻。在友邦保險泰國業務的失效經驗恢復正常的情況下，下半年的續保率有所\n改善，而本集團的續保率為95%。",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p19_b12",
+        "to": "p19_b13"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p19_b13",
+        "to": "p19_b14"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p19_b14",
+        "to": "p19_b15"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p19_b15",
+        "to": "p19_b16"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p19_b16",
+        "to": "p19_b17"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      68.02,
+      285.19,
+      521.57,
+      377.15
+    ],
+    "group_text": "我們的高質素、經常性盈利來源以及對有效保單組合的積極管理，帶動稅後營運溢利增長了5%至59.42億美元，\n並使營運溢利率穩定在16.9%。所收取的續保保費增加了10%，經常性保費總額佔2020年所收取保費的90%以\n上。稅後營運溢利增長受益於全年顯著正面理賠經驗，其抵銷了新固定收入投資的收益率下跌及假設長期股權投\n資回報減少的影響。一如預期，上半年所述的異常正面醫療理賠經驗並未在下半年再次發生，但我們繼續看到此\n來源對稅後營運溢利增長的正面貢獻。在友邦保險泰國業務的失效經驗恢復正常的情況下，下半年的續保率有所\n改善，而本集團的續保率為95%。",
+    "table_role": null
+  },
+  {
+    "group_id": "p19_g05",
+    "page_no": 19,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p19_b18",
+      "p19_b19",
+      "p19_b20"
+    ],
+    "block_types": [
+      "body",
+      "body",
+      "label"
+    ],
+    "source_text_joined": "產生的基本自由盈餘為58.43億美元，增長了7%，是由我們有效保單組合的持續增長和我們對此積極管理所帶\n動，這足以抵銷預期投資回報降低的影響。於2020年12月31日，本集團的財務狀況仍然十分強勁，於派付股息\n19.97億美元後，自由盈餘為134.73億美元。",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p19_b18",
+        "to": "p19_b19"
+      },
+      {
+        "kind": "tail_numeric_clause",
+        "from": "p19_b19",
+        "to": "p19_b20"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      68.01,
+      397.21,
+      521.55,
+      441.16
+    ],
+    "group_text": "產生的基本自由盈餘為58.43億美元，增長了7%，是由我們有效保單組合的持續增長和我們對此積極管理所帶\n動，這足以抵銷預期投資回報降低的影響。於2020年12月31日，本集團的財務狀況仍然十分強勁，於派付股息\n19.97億美元後，自由盈餘為134.73億美元。",
+    "table_role": null
+  },
+  {
+    "group_id": "p19_g06",
+    "page_no": 19,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p19_b21",
+      "p19_b22",
+      "p19_b23"
+    ],
+    "block_types": [
+      "body",
+      "body",
+      "body"
+    ],
+    "source_text_joined": "於2020年12月31日，我們的主要營運公司友邦保險有限公司（AIA Co.）的償付能力充足率仍然非常強勁，為\n489%。於2020年12月31日，在新的集團監管框架下，集團當地資本總和法覆蓋率為374%。日後，我們將披露集\n團當地資本總和法覆蓋率，作為衡量本集團監管償付能力的主要指標。",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p19_b21",
+        "to": "p19_b22"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p19_b22",
+        "to": "p19_b23"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      68.01,
+      461.21,
+      521.54,
+      505.17
+    ],
+    "group_text": "於2020年12月31日，我們的主要營運公司友邦保險有限公司（AIA Co.）的償付能力充足率仍然非常強勁，為\n489%。於2020年12月31日，在新的集團監管框架下，集團當地資本總和法覆蓋率為374%。日後，我們將披露集\n團當地資本總和法覆蓋率，作為衡量本集團監管償付能力的主要指標。",
+    "table_role": null
+  },
+  {
+    "group_id": "p19_g07",
+    "page_no": 19,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p19_b24",
+      "p19_b25",
+      "p19_b26"
+    ],
+    "block_types": [
+      "body",
+      "body",
+      "body"
+    ],
+    "source_text_joined": "董事會建議末期股息增加7.5%至每股100.30港仙，並須於本公司應屆股東週年大會上獲股東批准。這使2020年的\n全年股息總額為每股135.30港仙，較2019年的全年股息總額上升6.9%。這是秉承友邦保險行之已久的審慎、可持\n續及漸進的派息政策，讓集團可把握未來的增長機遇，並且保持財務靈活性。",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p19_b24",
+        "to": "p19_b25"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p19_b25",
+        "to": "p19_b26"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      68.01,
+      525.22,
+      521.47,
+      569.18
+    ],
+    "group_text": "董事會建議末期股息增加7.5%至每股100.30港仙，並須於本公司應屆股東週年大會上獲股東批准。這使2020年的\n全年股息總額為每股135.30港仙，較2019年的全年股息總額上升6.9%。這是秉承友邦保險行之已久的審慎、可持\n續及漸進的派息政策，讓集團可把握未來的增長機遇，並且保持財務靈活性。",
+    "table_role": null
+  },
+  {
+    "group_id": "p19_g08",
+    "page_no": 19,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p19_b27",
+      "p19_b28"
+    ],
+    "block_types": [
+      "body",
+      "body"
+    ],
+    "source_text_joined": "我們仍然對友邦保險在整個亞洲地區的業務機會充滿信心。我們將繼續專注於投資資本，以實現具盈利的新業務\n增長，並運用我們的競爭優勢，同時維持審慎的財務管理和實現長期股東價值。",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p19_b27",
+        "to": "p19_b28"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      68.01,
+      589.23,
+      521.46,
+      617.18
+    ],
+    "group_text": "我們仍然對友邦保險在整個亞洲地區的業務機會充滿信心。我們將繼續專注於投資資本，以實現具盈利的新業務\n增長，並運用我們的競爭優勢，同時維持審慎的財務管理和實現長期股東價值。",
+    "table_role": null
+  },
+  {
+    "group_id": "p20_b6",
+    "page_no": 20,
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b6"
+    ],
+    "block_types": [
+      "body"
+    ],
+    "source_text_joined": "新業務\n價值\n利潤率\n年化\n新保費\n新業務\n價值",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "single_non_narrative",
+        "reason": "body"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      229.2,
+      167.28,
+      334.87,
+      199.78
+    ],
+    "group_text": "新業務\n價值\n利潤率\n年化\n新保費\n新業務\n價值",
+    "table_role": null
+  },
+  {
+    "group_id": "p20_b7",
+    "page_no": 20,
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b7"
+    ],
+    "block_types": [
+      "body"
+    ],
+    "source_text_joined": "新業務\n價值\n利潤率\n年化\n新保費\n按年變動\n（固定匯率）\n按年變動\n（實質匯率）",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "single_non_narrative",
+        "reason": "body"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      348.26,
+      167.48,
+      525.84,
+      199.77
+    ],
+    "group_text": "新業務\n價值\n利潤率\n年化\n新保費\n按年變動\n（固定匯率）\n按年變動\n（實質匯率）",
+    "table_role": null
+  },
+  {
+    "group_id": "p20_b8",
+    "page_no": 20,
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b8"
+    ],
+    "block_types": [
+      "body"
+    ],
+    "source_text_joined": "百萬美元，除另有說明外\n新業務\n價值",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "single_non_narrative",
+        "reason": "body"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      79.37,
+      177.79,
+      215.81,
+      199.37
+    ],
+    "group_text": "百萬美元，除另有說明外\n新業務\n價值",
+    "table_role": null
+  },
+  {
+    "group_id": "p20_g01",
+    "page_no": 20,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p20_b21",
+      "p20_b22",
+      "p20_b23",
+      "p20_b24",
+      "p20_b25"
+    ],
+    "block_types": [
+      "body",
+      "body",
+      "body",
+      "body",
+      "body"
+    ],
+    "source_text_joined": "儘管2020年的新業務價值27.65億美元較2019年減少了33%，我們迅速採用了新的數碼工具，並且外出限制的普\n遍放寬支持了銷售勢頭的恢復。友邦保險中國業務為2020年本集團的新業務價值帶來最大貢獻，也是我們第一個\n顯示銷售勢頭有所恢復的報告分部，原因在於該地區自2020年3月逐步放寬嚴格的封鎖。撇除維持低位的中國內\n地訪港旅客銷售額，本集團其他分部的新業務價值在下半年強勁復甦，與上半年相比增長了23%。本集團的新業\n務發展勢頭在2021年持續強勁，首兩個月新業務價值較2020年同期高出15%。",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p20_b21",
+        "to": "p20_b22"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p20_b22",
+        "to": "p20_b23"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p20_b23",
+        "to": "p20_b24"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p20_b24",
+        "to": "p20_b25"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      73.7,
+      432.05,
+      527.25,
+      508.01
+    ],
+    "group_text": "儘管2020年的新業務價值27.65億美元較2019年減少了33%，我們迅速採用了新的數碼工具，並且外出限制的普\n遍放寬支持了銷售勢頭的恢復。友邦保險中國業務為2020年本集團的新業務價值帶來最大貢獻，也是我們第一個\n顯示銷售勢頭有所恢復的報告分部，原因在於該地區自2020年3月逐步放寬嚴格的封鎖。撇除維持低位的中國內\n地訪港旅客銷售額，本集團其他分部的新業務價值在下半年強勁復甦，與上半年相比增長了23%。本集團的新業\n務發展勢頭在2021年持續強勁，首兩個月新業務價值較2020年同期高出15%。",
+    "table_role": null
+  },
+  {
+    "group_id": "p20_g02",
+    "page_no": 20,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p20_b26",
+      "p20_b27",
+      "p20_b28",
+      "p20_b29"
+    ],
+    "block_types": [
+      "body",
+      "body",
+      "body",
+      "body"
+    ],
+    "source_text_joined": "友邦保險中國業務在2021年錄得成功的勢頭，首兩個月的新業務價值與2020年同期比較，錄得非常強勁的增\n長。2020年新業務價值9.68億美元較2019年減少17%，主要由於2019冠狀病毒病在第一季爆發初期而導致銷售額\n有限。隨著外出限制放寬，新業務動力得以迅速改善。新業務價值重拾我們慣常的季節性規律，比重更側重於上\n半年。在2020年，友邦保險中國業務為集團的新業務價值帶來最大貢獻。",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p20_b26",
+        "to": "p20_b27"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p20_b27",
+        "to": "p20_b28"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p20_b28",
+        "to": "p20_b29"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      73.7,
+      528.06,
+      527.24,
+      588.02
+    ],
+    "group_text": "友邦保險中國業務在2021年錄得成功的勢頭，首兩個月的新業務價值與2020年同期比較，錄得非常強勁的增\n長。2020年新業務價值9.68億美元較2019年減少17%，主要由於2019冠狀病毒病在第一季爆發初期而導致銷售額\n有限。隨著外出限制放寬，新業務動力得以迅速改善。新業務價值重拾我們慣常的季節性規律，比重更側重於上\n半年。在2020年，友邦保險中國業務為集團的新業務價值帶來最大貢獻。",
+    "table_role": null
+  },
+  {
+    "group_id": "p20_g03",
+    "page_no": 20,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p20_b30",
+      "p20_b31",
+      "p20_b32",
+      "p20_b33"
+    ],
+    "block_types": [
+      "body",
+      "body",
+      "body",
+      "body"
+    ],
+    "source_text_joined": "在實施旅遊限制後，友邦保險香港業務來自中國內地訪港客戶的新業務銷售自2020年2月初起實際上已暫停，導\n致其新業務價值大幅下降。新業務價值利潤率錄得跌幅，反映新業務量減少導致承保開支超支、產品組合變動及\n利率下降的影響所致。澳門在2020年9月底恢復中國內地旅客個人遊計劃。這為澳門的中國內地訪澳客戶銷售回\n升提供支持，使其在第四季佔友邦保險澳門分公司的年化新保費總額超過三分之一。",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p20_b30",
+        "to": "p20_b31"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p20_b31",
+        "to": "p20_b32"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p20_b32",
+        "to": "p20_b33"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      73.7,
+      608.07,
+      527.25,
+      668.03
+    ],
+    "group_text": "在實施旅遊限制後，友邦保險香港業務來自中國內地訪港客戶的新業務銷售自2020年2月初起實際上已暫停，導\n致其新業務價值大幅下降。新業務價值利潤率錄得跌幅，反映新業務量減少導致承保開支超支、產品組合變動及\n利率下降的影響所致。澳門在2020年9月底恢復中國內地旅客個人遊計劃。這為澳門的中國內地訪澳客戶銷售回\n升提供支持，使其在第四季佔友邦保險澳門分公司的年化新保費總額超過三分之一。",
+    "table_role": null
+  }
+]

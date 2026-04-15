@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p20_g01",
+      "translation": "Adjustments for consolidation reserves and capital requirements\n(103)\nNot meaningful\nNot meaningful\n(87)\nNot meaningful\nNot meaningful\nNot meaningful\nNot meaningful\nAfter-tax value of unallocated Group head office expenses\n(161)\nNot meaningful\nNot meaningful\nNot meaningful\n(154)\nNot meaningful\nNot meaningful\nNot meaningful\nNot meaningful"
+    }
+  ]
+}
+```

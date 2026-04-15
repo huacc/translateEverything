@@ -1,0 +1,99 @@
+文档场景：上市保险公司企业年报。
+先满足 fact_locks，再保证术语稳定、语义完整和年报文风。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 19,
+    "page_sections": [
+      {
+        "source_section": "集團首席財務總監回顧",
+        "target_section": "Group Chief Financial Officer's Review",
+        "content_type": "cfo_review",
+        "page_range": [
+          18,
+          30
+        ]
+      }
+    ],
+    "term_usage_mode": "table",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "截至2020年12月31日的內涵價值權益創下新高為671.85億美元，於派付股息19.97億美元之前增加52.77億美元，",
+      "next_group_source_excerpt": "我們的高質素、經常性盈利來源以及對有效保單組合的積極管理，帶動稅後營運溢利增長了5%至59.42億美元，\n並使營運溢利率穩定在16.9%。所收取的續保保費增加了10%，經常性保費總額佔2020年所收取保費的90%以\n上。稅後營運溢利增..."
+    }
+  },
+  "mapping_hits": [
+    {
+      "source": "內涵價值營運溢利",
+      "target": "EV operating profit",
+      "hit_type": "context_term"
+    },
+    {
+      "source": "內涵價值",
+      "target": "EV",
+      "hit_type": "context_term"
+    }
+  ],
+  "fact_locks": [
+    {
+      "label": "ev_operating_profit_usd",
+      "fact_type": "usd_scaled_amount",
+      "source_value": "72.43億美元",
+      "expected_forms": [
+        "US$7.243 billion",
+        "US$7243 million",
+        "US$7,243 million"
+      ],
+      "required_keywords": []
+    },
+    {
+      "label": "ev_operating_profit_usd",
+      "fact_type": "usd_scaled_amount",
+      "source_value": "5.49億美元",
+      "expected_forms": [
+        "US$0.549 billion",
+        "US$549 million",
+        "US$549 million"
+      ],
+      "required_keywords": []
+    }
+  ],
+  "current_group": {
+    "group_id": "p19_g03",
+    "mode": "semantic_group",
+    "block_ids": [
+      "p19_b10",
+      "p19_b11"
+    ],
+    "block_types": [
+      "body",
+      "body"
+    ],
+    "blocks": [
+      {
+        "block_id": "p19_b10",
+        "block_type": "body",
+        "source_text": "原因在於內涵價值營運溢利72.43億美元抵銷了政府債券收益率下降的影響。內涵價值營運溢利包括來自正面營"
+      },
+      {
+        "block_id": "p19_b11",
+        "block_type": "body",
+        "source_text": "運差異5.49億美元，原因在於與我們的內涵價值假設相比，我們的整體經驗持續維持正面。"
+      }
+    ],
+    "joined_source_text": "原因在於內涵價值營運溢利72.43億美元抵銷了政府債券收益率下降的影響。內涵價值營運溢利包括來自正面營\n運差異5.49億美元，原因在於與我們的內涵價值假設相比，我們的整體經驗持續維持正面。"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p19_g03",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

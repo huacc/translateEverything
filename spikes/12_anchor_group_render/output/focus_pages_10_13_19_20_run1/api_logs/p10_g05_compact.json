@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "compact",
+    "page_no": 10,
+    "group_id": "p10_g05"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是年报英文压缩器，不是重译器。\n语言方向：Traditional Chinese -> English。\n你的任务只是对已有译文做最小必要压缩，以便回填原版面。\n禁止改变数字、单位、术语、专名、比较关系、主体和结论。\n标题不能改成正文，表头不能改成句子，不能输出口语化表达。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市公司企业年报\n{\n  \"document_background\": {\n    \"page_sections\": [\n      {\n        \"source_section\": \"主席報告\",\n        \"target_section\": \"Chairman's Statement\",\n        \"content_type\": \"chairman_statement\",\n        \"page_range\": [\n          10,\n          11\n        ]\n      }\n    ],\n    \"roles\": [\n      {\n        \"source\": \"謝仕榮先生\",\n        \"target\": \"Mr. Tse Sze-wing\",\n        \"role\": \"Independent Non-Executive Chairman\"\n      }\n    ],\n    \"terms\": [],\n    \"style_rules\": [\n      \"Use US$ for U.S. dollar amounts.\",\n      \"Keep listed-company annual report disclosure tone formal and publishable.\",\n      \"Do not change numbers, percentages, years, named entities or financial metric values.\",\n      \"Use established financial abbreviations for table labels when provided.\",\n      \"Keep row and column semantics unchanged.\",\n      \"Use n/m for 無意義.\"\n    ]\n  },\n  \"current_unit\": {\n    \"page_no\": 10,\n    \"unit_id\": \"p10_g05\",\n    \"unit_mode\": \"semantic_group\",\n    \"slot_count\": 3,\n    \"source_text\": \"稅後營運溢利增長5%至59.42億美元，產生的基本自由盈餘則上升7%至58.43億美元，反映我們擁有高質素的\\n經常性盈利來源。內涵價值權益創新高，達672億美元。截至2020年12月31日，集團當地資本總和法覆蓋率為\\n374%，足證我們雄厚的資本實力和嚴謹的財務管理。\",\n    \"current_translation\": \"OPAT increased by 5% to US$5.942 billion, with underlying free surplus generation (UFSG) rising by 7% to US$5.843 billion, reflecting our high-quality recurring earnings sources. EV Equity reached a record high of US$67.2 billion. As at 31 December 2020, the Group LCSM cover ratio stood at 374%, demonstrating our strong capital position and prudent financial management.\"\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p10_g05\",\n        \"translation\": \"<更紧凑译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p10_g05\",\n      \"translation\": \"OPAT increased 5% to US$5.942 billion, with UFSG rising 7% to US$5.843 billion, reflecting high-quality recurring earnings sources. EV Equity reached US$67.2 billion. As at 31 December 2020, the Group LCSM cover ratio stood at 374%, demonstrating strong capital position and prudent financial management.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "32739fa6-4ac7-4aa6-977e-679c87772bbe",
+    "conversation_id": "32739fa6-4ac7-4aa6-977e-679c87772bbe",
+    "id": "32739fa6-4ac7-4aa6-977e-679c87772bbe",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 747,
+      "output_tokens": 110
+    }
+  }
+}

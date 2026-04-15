@@ -1,0 +1,48 @@
+文档场景：上市公司企业年报
+{
+  "document_background": {
+    "page_sections": [
+      {
+        "source_section": "主席報告",
+        "target_section": "Chairman's Statement",
+        "content_type": "chairman_statement",
+        "page_range": [
+          10,
+          11
+        ]
+      }
+    ],
+    "roles": [
+      {
+        "source": "謝仕榮先生",
+        "target": "Mr. Tse Sze-wing",
+        "role": "Independent Non-Executive Chairman"
+      }
+    ],
+    "terms": [],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "For overview narrative, use full financial metric name plus abbreviation when provided.",
+      "For financial review and business metrics narrative, use established abbreviations when provided.",
+      "Prefer AIA China / AIA Hong Kong / AIA Macau over loose paraphrases when matched."
+    ]
+  },
+  "current_unit": {
+    "page_no": 10,
+    "unit_id": "p10_g02",
+    "unit_mode": "semantic_group",
+    "slot_count": 3,
+    "source_text": "在2019冠狀病毒病大流行期間，\n我們的同事關懷社群，克盡己職，\n持續為數以百萬計的客戶",
+    "current_translation": "During the COVID-19 pandemic, our colleagues cared for the community and fulfilled their duties, continuing to serve millions of customers"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p10_g02",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

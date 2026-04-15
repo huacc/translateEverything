@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "compact",
+    "page_no": 13,
+    "group_id": "p13_g07"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是年报英文压缩器，不是重译器。\n语言方向：Traditional Chinese -> English。\n你的任务只是对已有译文做最小必要压缩，以便回填原版面。\n禁止改变数字、单位、术语、专名、比较关系、主体和结论。\n标题不能改成正文，表头不能改成句子，不能输出口语化表达。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市公司企业年报\n{\n  \"document_background\": {\n    \"page_sections\": [\n      {\n        \"source_section\": \"集團首席執行官兼總裁報告\",\n        \"target_section\": \"Group Chief Executive and President's Report\",\n        \"content_type\": \"ceo_report\",\n        \"page_range\": [\n          12,\n          16\n        ]\n      }\n    ],\n    \"roles\": [\n      {\n        \"source\": \"李源祥\",\n        \"target\": \"Lee Yuen Cheung\",\n        \"role\": \"Group Chief Executive and President\"\n      }\n    ],\n    \"terms\": [],\n    \"style_rules\": [\n      \"Use US$ for U.S. dollar amounts.\",\n      \"Keep listed-company annual report disclosure tone formal and publishable.\",\n      \"Do not change numbers, percentages, years, named entities or financial metric values.\",\n      \"For overview narrative, use full financial metric name plus abbreviation when provided.\",\n      \"For financial review and business metrics narrative, use established abbreviations when provided.\",\n      \"Prefer AIA China / AIA Hong Kong / AIA Macau over loose paraphrases when matched.\"\n    ]\n  },\n  \"current_unit\": {\n    \"page_no\": 13,\n    \"unit_id\": \"p13_g07\",\n    \"unit_mode\": \"semantic_group\",\n    \"slot_count\": 3,\n    \"source_text\": \"儘管2020年是前所未見的一年，但我對亞洲壽險行業的前景和友邦保險的未來比以往更為樂觀。我們繼續挑戰自\\n己，發展我們的優先任務，以確保我們能繼續適切地迎合客戶期望和財務需求的轉變。我們的全新企業策略建基\\n於友邦保險的現有實力，推進轉型過程，以在未來為客戶提供最佳的服務。\",\n    \"current_translation\": \"Despite 2020 being an unprecedented year, I am more optimistic than ever about the prospects for the life insurance industry in Asia and the future of AIA. We continue to challenge ourselves and develop our strategic priorities to ensure we can continue to appropriately meet the evolving expectations and financial needs of our customers. Our new corporate strategy builds on AIA's existing strengths and advances our transformation journey to deliver the best service to our customers in the future.\"\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p13_g07\",\n        \"translation\": \"<更紧凑译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p13_g07\",\n      \"translation\": \"Despite 2020 being unprecedented, I am more optimistic than ever about the life insurance industry prospects in Asia and AIA's future. We continue to challenge ourselves and develop strategic priorities to meet evolving customer expectations and financial needs. Our new corporate strategy builds on AIA's existing strengths and advances our transformation to deliver superior service to customers.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "3173b32e-7adc-4541-81d5-06c57beaa441",
+    "conversation_id": "3173b32e-7adc-4541-81d5-06c57beaa441",
+    "id": "3173b32e-7adc-4541-81d5-06c57beaa441",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 792,
+      "output_tokens": 102
+    }
+  }
+}

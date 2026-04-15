@@ -1,0 +1,48 @@
+文档场景：上市公司企业年报
+{
+  "document_background": {
+    "page_sections": [
+      {
+        "source_section": "主席報告",
+        "target_section": "Chairman's Statement",
+        "content_type": "chairman_statement",
+        "page_range": [
+          10,
+          11
+        ]
+      }
+    ],
+    "roles": [
+      {
+        "source": "謝仕榮先生",
+        "target": "Mr. Tse Sze-wing",
+        "role": "Independent Non-Executive Chairman"
+      }
+    ],
+    "terms": [],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "Use established financial abbreviations for table labels when provided.",
+      "Keep row and column semantics unchanged.",
+      "Use n/m for 無意義."
+    ]
+  },
+  "current_unit": {
+    "page_no": 10,
+    "unit_id": "p10_g03",
+    "unit_mode": "semantic_group",
+    "slot_count": 6,
+    "source_text": "友邦保險在亞洲歷史悠久，源遠流長，經歷各種社會動盪和不明朗時期仍能妥善管理業務，因而贏得卓著的\n聲譽，體現友邦保險誠可信賴、強韌穩健，並堅持為持分者做對的事。自2020年初以來，2019冠狀病毒病大流\n行導致營商環境不斷變化及日趨複雜，而政治、宏觀經濟及資本市場亦出現前所未見的轉移。在這樣的環境下，\n友邦保險的財務實力，以及「幫助大眾活出健康、長久、好生活」的目標，更具重大意義。本人衷心感謝友邦\n保險所有員工、代理和合作夥伴，即使面對最嚴峻的挑戰，他們仍關懷社區，克盡己職，專心致志地為客戶、\n其家庭以及我們的社區提供支援。",
+    "current_translation": "AIA has a long and storied history in Asia. Having navigated various social upheavals and periods of uncertainty while managing our business prudently, we have earned a distinguished reputation that reflects our trustworthiness, resilience and steadfast commitment to doing the right thing for our stakeholders. Since early 2020, the COVID-19 pandemic has created a constantly evolving and increasingly complex business environment, with unprecedented shifts in the political, macroeconomic and capital markets landscape. In such circumstances, AIA's financial strength and our purpose of helping people live healthier, longer, better lives take on even greater significance. I am deeply grateful to all our employees, agents and partners at AIA who, despite facing the most severe challenges, have continued to care for our communities, fulfilled their responsibilities with dedication, and remained focused on providing support to our customers, their families and our communities."
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p10_g03",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

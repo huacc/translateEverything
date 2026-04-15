@@ -1,0 +1,42 @@
+文档场景：上市公司企业年报
+{
+  "document_background": {
+    "page_sections": [
+      {
+        "source_section": "集團首席財務總監回顧",
+        "target_section": "Group Chief Financial Officer's Review",
+        "content_type": "cfo_review",
+        "page_range": [
+          18,
+          30
+        ]
+      }
+    ],
+    "roles": [],
+    "terms": [],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "Use established financial abbreviations for table labels when provided.",
+      "Keep row and column semantics unchanged.",
+      "Use n/m for 無意義."
+    ]
+  },
+  "current_unit": {
+    "page_no": 19,
+    "unit_id": "p19_g04",
+    "unit_mode": "semantic_group",
+    "slot_count": 6,
+    "source_text": "我們的高質素、經常性盈利來源以及對有效保單組合的積極管理，帶動稅後營運溢利增長了5%至59.42億美元，\n並使營運溢利率穩定在16.9%。所收取的續保保費增加了10%，經常性保費總額佔2020年所收取保費的90%以\n上。稅後營運溢利增長受益於全年顯著正面理賠經驗，其抵銷了新固定收入投資的收益率下跌及假設長期股權投\n資回報減少的影響。一如預期，上半年所述的異常正面醫療理賠經驗並未在下半年再次發生，但我們繼續看到此\n來源對稅後營運溢利增長的正面貢獻。在友邦保險泰國業務的失效經驗恢復正常的情況下，下半年的續保率有所\n改善，而本集團的續保率為95%。",
+    "current_translation": "Our high-quality, recurring earnings sources and active management of our in-force portfolio drove OPAT growth of 5% to US$5.942 billion, while maintaining a stable operating margin of 16.9%. Renewal premiums collected increased by 10%, with recurring premiums representing 90% or more of total premiums collected in 2020. OPAT growth benefited from significantly favorable claims experience throughout the year, which offset the impact of lower yields on new fixed income investments and the assumption of reduced long-term equity investment returns. As expected, the exceptional favorable medical claims experience reported in the first half did not recur in the second half, but we continued to see positive contributions from this source to OPAT growth. With AIA's Thailand business lapse experience normalizing, persistency improved in the second half, with the Group's persistency rate at 95%."
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p19_g04",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

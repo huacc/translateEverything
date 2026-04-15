@@ -1,0 +1,48 @@
+文档场景：上市公司企业年报
+{
+  "document_background": {
+    "page_sections": [
+      {
+        "source_section": "集團首席執行官兼總裁報告",
+        "target_section": "Group Chief Executive and President's Report",
+        "content_type": "ceo_report",
+        "page_range": [
+          12,
+          16
+        ]
+      }
+    ],
+    "roles": [
+      {
+        "source": "李源祥",
+        "target": "Lee Yuen Cheung",
+        "role": "Group Chief Executive and President"
+      }
+    ],
+    "terms": [],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "Use established financial abbreviations for table labels when provided.",
+      "Keep row and column semantics unchanged.",
+      "Use n/m for 無意義."
+    ]
+  },
+  "current_unit": {
+    "page_no": 13,
+    "unit_id": "p13_g04",
+    "unit_mode": "semantic_group",
+    "slot_count": 2,
+    "source_text": "董事會建議2020年末期股息增加7.5%至每股100.30港仙。這秉承友邦保險行之已久的審慎、可持續及漸進的派息\n政策，讓本集團可把握未來的增長機遇，並且保持財務靈活性。",
+    "current_translation": "The Board recommends an increase of 7.5% in the final dividend for 2020 to 100.30 Hong Kong cents per share. This reflects AIA's long-standing prudent, sustainable and progressive dividend policy, which enables the Group to capture future growth opportunities while maintaining financial flexibility."
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p13_g04",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

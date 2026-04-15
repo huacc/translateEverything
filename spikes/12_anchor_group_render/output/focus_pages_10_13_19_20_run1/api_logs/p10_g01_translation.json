@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 10,
+    "group_id": "p10_g01"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是上市保险公司年报翻译器。\n语言方向：Traditional Chinese -> English。\n只处理当前 semantic group。\n可以在当前组内恢复跨块断句，但不得跨组补写、跨组删写或改写事实。\n必须严格满足 mapping_hits 与 fact_locks。\n版面回填、字体压缩、分块分配不是你的职责，不要为了适配版面而删词改义。\n保持正式、稳定、可出版的企业年报文风。\n只输出 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市保险公司企业年报。\n先满足 fact_locks，再保证术语稳定、语义完整和年报文风。\n{\n  \"task\": {\n    \"scenario\": \"listed_company_annual_report\",\n    \"industry\": \"Life Insurance\",\n    \"report_type\": \"annual_report\",\n    \"company_name_target\": \"AIA GROUP LIMITED\",\n    \"direction\": \"Traditional Chinese -> English\"\n  },\n  \"page_context\": {\n    \"page_no\": 10,\n    \"page_sections\": [\n      {\n        \"source_section\": \"主席報告\",\n        \"target_section\": \"Chairman's Statement\",\n        \"content_type\": \"chairman_statement\",\n        \"page_range\": [\n          10,\n          11\n        ]\n      }\n    ],\n    \"term_usage_mode\": \"overview_narrative\",\n    \"neighbor_context\": {\n      \"previous_group_source_excerpt\": \"主席報告\",\n      \"next_group_source_excerpt\": \"謝仕榮先生\\n獨立非執行主席\"\n    }\n  },\n  \"mapping_hits\": [\n    {\n      \"source\": \"友邦保險\",\n      \"target\": \"AIA\",\n      \"hit_type\": \"glossary_term\"\n    }\n  ],\n  \"fact_locks\": [],\n  \"current_group\": {\n    \"group_id\": \"p10_g01\",\n    \"mode\": \"semantic_group\",\n    \"block_ids\": [\n      \"p10_b4\",\n      \"p10_b5\",\n      \"p10_b6\",\n      \"p10_b7\"\n    ],\n    \"block_types\": [\n      \"label\",\n      \"label\",\n      \"label\",\n      \"label\"\n    ],\n    \"blocks\": [\n      {\n        \"block_id\": \"p10_b4\",\n        \"block_type\": \"label\",\n        \"source_text\": \"在過去一個世紀，友邦保險\"\n      },\n      {\n        \"block_id\": \"p10_b5\",\n        \"block_type\": \"label\",\n        \"source_text\": \"於亞洲區內，為極需我們服務的\"\n      },\n      {\n        \"block_id\": \"p10_b6\",\n        \"block_type\": \"label\",\n        \"source_text\": \"社區大眾提供保障而備受稱譽，\"\n      },\n      {\n        \"block_id\": \"p10_b7\",\n        \"block_type\": \"label\",\n        \"source_text\": \"這令我們引以為榮。\"\n      }\n    ],\n    \"joined_source_text\": \"在過去一個世紀，友邦保險\\n於亞洲區內，為極需我們服務的\\n社區大眾提供保障而備受稱譽，\\n這令我們引以為榮。\"\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p10_g01\",\n        \"translation\": \"<译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p10_g01\",\n      \"translation\": \"Over the past century, AIA has earned widespread recognition across Asia for providing protection to communities that greatly need our services, and this is a source of pride for us.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "11f6b2b1-5044-4316-9263-502fc5e8afbe",
+    "conversation_id": "11f6b2b1-5044-4316-9263-502fc5e8afbe",
+    "id": "11f6b2b1-5044-4316-9263-502fc5e8afbe",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 944,
+      "output_tokens": 71
+    }
+  }
+}

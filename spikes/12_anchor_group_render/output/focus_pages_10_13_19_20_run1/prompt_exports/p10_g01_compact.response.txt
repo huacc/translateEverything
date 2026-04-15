@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p10_g01",
+      "translation": "Over the past century, AIA has earned widespread recognition across Asia for providing protection to communities in need, a source of pride for us."
+    }
+  ]
+}
+```

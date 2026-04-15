@@ -1,0 +1,85 @@
+文档场景：上市保险公司企业年报。
+先满足 fact_locks，再保证术语稳定、语义完整和年报文风。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 13,
+    "page_sections": [
+      {
+        "source_section": "集團首席執行官兼總裁報告",
+        "target_section": "Group Chief Executive and President's Report",
+        "content_type": "ceo_report",
+        "page_range": [
+          12,
+          16
+        ]
+      }
+    ],
+    "term_usage_mode": "overview_narrative",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "董事會建議2020年末期股息增加7.5%至每股100.30港仙。這秉承友邦保險行之已久的審慎、可持續及漸進的派息\n政策，讓本集團可把握未來的增長機遇，並且保持財務靈活性。",
+      "next_group_source_excerpt": "我們無可比擬的分銷實力能直接接觸客戶，並提供高質素的專業建議，協助滿足亞洲消費者龐大且日益增長的長\n期保障和儲蓄需求。如今大眾比以往更期望企業能以符合長遠可持續發展的方式應對他們的需要。友邦保險擁有\n市場領先的品牌，以幫助大眾實踐健康..."
+    }
+  },
+  "mapping_hits": [
+    {
+      "source": "友邦保險",
+      "target": "AIA",
+      "hit_type": "glossary_term"
+    }
+  ],
+  "fact_locks": [],
+  "current_group": {
+    "group_id": "p13_g05",
+    "mode": "semantic_group",
+    "block_ids": [
+      "p13_b16",
+      "p13_b17",
+      "p13_b18",
+      "p13_b19"
+    ],
+    "block_types": [
+      "body",
+      "body",
+      "body",
+      "label"
+    ],
+    "blocks": [
+      {
+        "block_id": "p13_b16",
+        "block_type": "body",
+        "source_text": "友邦保險具有多項顯著優勢，讓我們在競爭激烈的市場別樹一幟。我們在亞洲經營數十載，擁有區內無可比擬的"
+      },
+      {
+        "block_id": "p13_b17",
+        "block_type": "body",
+        "source_text": "平台，並於我們業務所在的大部分市場雄踞領導地位。我們始終如一地百分百專注於亞洲市場，有助我們在全球"
+      },
+      {
+        "block_id": "p13_b18",
+        "block_type": "body",
+        "source_text": "最具吸引力的壽險業地區全面把握增長機遇。這份專注結合我們領導團隊在亞洲的豐富經驗及員工的優秀質素，"
+      },
+      {
+        "block_id": "p13_b19",
+        "block_type": "label",
+        "source_text": "一直是我們表現卓越的重要動力。"
+      }
+    ],
+    "joined_source_text": "友邦保險具有多項顯著優勢，讓我們在競爭激烈的市場別樹一幟。我們在亞洲經營數十載，擁有區內無可比擬的\n平台，並於我們業務所在的大部分市場雄踞領導地位。我們始終如一地百分百專注於亞洲市場，有助我們在全球\n最具吸引力的壽險業地區全面把握增長機遇。這份專注結合我們領導團隊在亞洲的豐富經驗及員工的優秀質素，\n一直是我們表現卓越的重要動力。"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p13_g05",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+文档场景：上市保险公司企业年报。
+先满足 fact_locks，再保证术语稳定、语义完整和年报文风。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 20,
+    "page_sections": [
+      {
+        "source_section": "新業務表現",
+        "target_section": "New Business Performance",
+        "content_type": "business_metrics",
+        "page_range": [
+          20,
+          21
+        ]
+      },
+      {
+        "source_section": "集團首席財務總監回顧",
+        "target_section": "Group Chief Financial Officer's Review",
+        "content_type": "cfo_review",
+        "page_range": [
+          18,
+          30
+        ]
+      }
+    ],
+    "term_usage_mode": "heading",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "集團首席財務總監回顧",
+      "next_group_source_excerpt": "按分部劃分的新業務價值、年化新保費及利潤率"
+    }
+  },
+  "mapping_hits": [],
+  "fact_locks": [],
+  "current_group": {
+    "group_id": "p20_b3",
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b3"
+    ],
+    "block_types": [
+      "label"
+    ],
+    "blocks": [
+      {
+        "block_id": "p20_b3",
+        "block_type": "label",
+        "source_text": "新業務表現"
+      }
+    ],
+    "joined_source_text": "新業務表現"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p20_b3",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+文档场景：上市公司企业年报
+{
+  "document_background": {
+    "page_sections": [
+      {
+        "source_section": "主席報告",
+        "target_section": "Chairman's Statement",
+        "content_type": "chairman_statement",
+        "page_range": [
+          10,
+          11
+        ]
+      }
+    ],
+    "roles": [
+      {
+        "source": "謝仕榮先生",
+        "target": "Mr. Tse Sze-wing",
+        "role": "Independent Non-Executive Chairman"
+      }
+    ],
+    "terms": [],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "Keep headings short, stable and standard.",
+      "Prefer established annual report section names over free paraphrase."
+    ]
+  },
+  "current_unit": {
+    "page_no": 10,
+    "unit_id": "p10_b12",
+    "unit_mode": "single_block",
+    "slot_count": 1,
+    "source_text": "提供無間斷的支援。",
+    "current_translation": "Providing uninterrupted support."
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p10_b12",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

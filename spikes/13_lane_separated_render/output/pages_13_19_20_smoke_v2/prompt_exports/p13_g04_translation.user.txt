@@ -1,0 +1,57 @@
+文档场景：上市保险公司企业年报。
+先满足 fact_locks，再保证术语稳定、语义完整和年报文风。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 13,
+    "page_sections": [
+      {
+        "source_section": "集團首席執行官兼總裁報告",
+        "target_section": "Group Chief Executive and President's Report",
+        "content_type": "ceo_report",
+        "page_range": [
+          12,
+          16
+        ]
+      }
+    ],
+    "term_usage_mode": "overview_narrative",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "政策，讓本集團可把握未來的增長機遇，並且保持財務靈活性。",
+      "next_group_source_excerpt": "一直是我們表現卓越的重要動力。"
+    }
+  },
+  "mapping_hits": [
+    {
+      "source": "友邦保險",
+      "target": "AIA",
+      "hit_type": "glossary_term"
+    }
+  ],
+  "fact_locks": [],
+  "current_group": {
+    "group_id": "p13_g04",
+    "lane": "body",
+    "group_text": "友邦保險具有多項顯著優勢，讓我們在競爭激烈的市場別樹一幟。我們在亞洲經營數十載，擁有區內無可比擬的\n平台，並於我們業務所在的大部分市場雄踞領導地位。我們始終如一地百分百專注於亞洲市場，有助我們在全球\n最具吸引力的壽險業地區全面把握增長機遇。這份專注結合我們領導團隊在亞洲的豐富經驗及員工的優秀質素，",
+    "source_block_ids": [
+      "p13_b16",
+      "p13_b17",
+      "p13_b18"
+    ],
+    "source_block_count": 3
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p13_g04",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,602 @@
+[
+  {
+    "group_id": "p3_b10",
+    "page_no": 3,
+    "mode": "single_block",
+    "block_ids": [
+      "p3_b10"
+    ],
+    "block_types": [
+      "body"
+    ],
+    "source_text_joined": "為亞洲大眾提供保障，\n總保額接近\n2萬億美元\n18個市場",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "table_unit",
+        "table_role": "row",
+        "reason": "table_layout_signals"
+      }
+    ],
+    "lane": "table",
+    "group_bbox": [
+      218.03,
+      257.09,
+      547.5,
+      421.52
+    ],
+    "group_text": "為亞洲大眾提供保障，\n總保額接近\n2萬億美元\n18個市場",
+    "table_role": "row"
+  },
+  {
+    "group_id": "p8_b39",
+    "page_no": 8,
+    "mode": "single_block",
+    "block_ids": [
+      "p8_b39"
+    ],
+    "block_types": [
+      "label"
+    ],
+    "source_text_joined": "稅後營運溢利(4)(9)\n總加權保費收入(5)",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "table_unit",
+        "table_role": "row",
+        "reason": "table_layout_signals"
+      }
+    ],
+    "lane": "table",
+    "group_bbox": [
+      73.7,
+      307.59,
+      398.51,
+      323.24
+    ],
+    "group_text": "稅後營運溢利(4)(9)\n總加權保費收入(5)",
+    "table_role": "row"
+  },
+  {
+    "group_id": "p9_b31",
+    "page_no": 9,
+    "mode": "single_block",
+    "block_ids": [
+      "p9_b31"
+    ],
+    "block_types": [
+      "body"
+    ],
+    "source_text_joined": "(1) 自2017年起，財務資料按12月31日的財政年度結算基準\n列報。於2016年的財務資料按11月30日的財政年度結算\n基準列報。",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "table_unit",
+        "table_role": "row",
+        "reason": "table_layout_signals"
+      }
+    ],
+    "lane": "table",
+    "group_bbox": [
+      68.03,
+      570.59,
+      257.68,
+      599.89
+    ],
+    "group_text": "(1) 自2017年起，財務資料按12月31日的財政年度結算基準\n列報。於2016年的財務資料按11月30日的財政年度結算\n基準列報。",
+    "table_role": "row"
+  },
+  {
+    "group_id": "p9_b32",
+    "page_no": 9,
+    "mode": "single_block",
+    "block_ids": [
+      "p9_b32"
+    ],
+    "block_types": [
+      "body"
+    ],
+    "source_text_joined": "(8) 自2019年起，其他市場的年化新保費及新業務價值包括我們於\nTata AIA Life Insurance Company Limited (Tata AIA Life)所持\n49%股權的應佔業績。2018年或以前所呈報的年化新保費及新業\n務價值並無重列，並且不包括來自Tata AIA Life的任何貢獻。\n自2019年起，本集團新業務價值不包括非控股權益應佔的新業務\n價值。2018年或以前的新業務價值並無重列 ，如早前所披露，\n並未扣除非控股權益。Tata AIA Life的國際財務報告準則業績乃\n採用權益會計法計算。本集團的合併財務報表使用按滯後一個\n季度基準的Tata AIA Life財務資料。為明確起見，總加權保費\n收入不包括來自Tata AIA Life的任何貢獻。",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "table_unit",
+        "table_role": "header",
+        "reason": "table_layout_signals"
+      }
+    ],
+    "lane": "table",
+    "group_bbox": [
+      300.47,
+      595.9,
+      518.08,
+      695.23
+    ],
+    "group_text": "(8) 自2019年起，其他市場的年化新保費及新業務價值包括我們於\nTata AIA Life Insurance Company Limited (Tata AIA Life)所持\n49%股權的應佔業績。2018年或以前所呈報的年化新保費及新業\n務價值並無重列，並且不包括來自Tata AIA Life的任何貢獻。\n自2019年起，本集團新業務價值不包括非控股權益應佔的新業務\n價值。2018年或以前的新業務價值並無重列 ，如早前所披露，\n並未扣除非控股權益。Tata AIA Life的國際財務報告準則業績乃\n採用權益會計法計算。本集團的合併財務報表使用按滯後一個\n季度基準的Tata AIA Life財務資料。為明確起見，總加權保費\n收入不包括來自Tata AIA Life的任何貢獻。",
+    "table_role": "header"
+  },
+  {
+    "group_id": "p9_b33",
+    "page_no": 9,
+    "mode": "single_block",
+    "block_ids": [
+      "p9_b33"
+    ],
+    "block_types": [
+      "body"
+    ],
+    "source_text_joined": "(2) 新業務價值是期間內所售新業務在未來產生的預計稅後法定溢利\n按銷售當時計算的現值扣除用作支持新業務而持有超過法定準備\n金所需資金的成本。",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "table_unit",
+        "table_role": "header",
+        "reason": "table_layout_signals"
+      }
+    ],
+    "lane": "table",
+    "group_bbox": [
+      68.03,
+      606.26,
+      284.89,
+      635.57
+    ],
+    "group_text": "(2) 新業務價值是期間內所售新業務在未來產生的預計稅後法定溢利\n按銷售當時計算的現值扣除用作支持新業務而持有超過法定準備\n金所需資金的成本。",
+    "table_role": "header"
+  },
+  {
+    "group_id": "p9_b37",
+    "page_no": 9,
+    "mode": "single_block",
+    "block_ids": [
+      "p9_b37"
+    ],
+    "block_types": [
+      "body"
+    ],
+    "source_text_joined": "(9) 友邦保險就確認及計量香港分紅業務的保險合約負債的國際財務\n報告準則之會計處理有所變更，以反映保單持有人花紅的預期\n變動。2019年之比較資料已作出調整。2018年或以前之比較資料\n並無重列。",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "table_unit",
+        "table_role": "row",
+        "reason": "table_layout_signals"
+      }
+    ],
+    "lane": "table",
+    "group_bbox": [
+      300.47,
+      701.6,
+      516.86,
+      740.9
+    ],
+    "group_text": "(9) 友邦保險就確認及計量香港分紅業務的保險合約負債的國際財務\n報告準則之會計處理有所變更，以反映保單持有人花紅的預期\n變動。2019年之比較資料已作出調整。2018年或以前之比較資料\n並無重列。",
+    "table_role": "row"
+  },
+  {
+    "group_id": "p9_b38",
+    "page_no": 9,
+    "mode": "single_block",
+    "block_ids": [
+      "p9_b38"
+    ],
+    "block_types": [
+      "body"
+    ],
+    "source_text_joined": "(6) 內涵價值是根據對未來經驗的一系列特定假設，以精算方法釐定\n壽險業務的估計經濟價值，但不包括任何未來新業務的經濟價\n值。內涵價值權益為內涵價值、商譽及其他無形資產的總和。",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "table_unit",
+        "table_role": "row",
+        "reason": "table_layout_signals"
+      }
+    ],
+    "lane": "table",
+    "group_bbox": [
+      68.03,
+      708.94,
+      284.89,
+      738.24
+    ],
+    "group_text": "(6) 內涵價值是根據對未來經驗的一系列特定假設，以精算方法釐定\n壽險業務的估計經濟價值，但不包括任何未來新業務的經濟價\n值。內涵價值權益為內涵價值、商譽及其他無形資產的總和。",
+    "table_role": "row"
+  },
+  {
+    "group_id": "p20_b5",
+    "page_no": 20,
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b5"
+    ],
+    "block_types": [
+      "body"
+    ],
+    "source_text_joined": "2020年\n2019年\n新業務價值變動",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "table_unit",
+        "table_role": "header",
+        "reason": "table_layout_signals"
+      }
+    ],
+    "lane": "table",
+    "group_bbox": [
+      227.46,
+      151.81,
+      503.2,
+      163.03
+    ],
+    "group_text": "2020年\n2019年\n新業務價值變動",
+    "table_role": "header"
+  },
+  {
+    "group_id": "p20_b9",
+    "page_no": 20,
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b9"
+    ],
+    "block_types": [
+      "body"
+    ],
+    "source_text_joined": "香港\n550\n44.7%\n1,138\n1,621\n66.1%\n2,393\n(66)%\n(66)%",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "table_unit",
+        "table_role": "row",
+        "reason": "table_layout_signals"
+      }
+    ],
+    "lane": "table",
+    "group_bbox": [
+      79.38,
+      203.95,
+      521.6,
+      215.24
+    ],
+    "group_text": "香港\n550\n44.7%\n1,138\n1,621\n66.1%\n2,393\n(66)%\n(66)%",
+    "table_role": "row"
+  },
+  {
+    "group_id": "p20_b10",
+    "page_no": 20,
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b10"
+    ],
+    "block_types": [
+      "body"
+    ],
+    "source_text_joined": "泰國\n469\n71.0%\n661\n494\n67.7%\n729\n(4)%\n(5)%",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "table_unit",
+        "table_role": "row",
+        "reason": "table_layout_signals"
+      }
+    ],
+    "lane": "table",
+    "group_bbox": [
+      79.4,
+      219.42,
+      521.62,
+      230.71
+    ],
+    "group_text": "泰國\n469\n71.0%\n661\n494\n67.7%\n729\n(4)%\n(5)%",
+    "table_role": "row"
+  },
+  {
+    "group_id": "p20_b11",
+    "page_no": 20,
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b11"
+    ],
+    "block_types": [
+      "body"
+    ],
+    "source_text_joined": "新加坡\n330\n63.4%\n520\n352\n65.5%\n538\n(5)%\n(6)%",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "table_unit",
+        "table_role": "row",
+        "reason": "table_layout_signals"
+      }
+    ],
+    "lane": "table",
+    "group_bbox": [
+      79.42,
+      234.89,
+      521.64,
+      246.18
+    ],
+    "group_text": "新加坡\n330\n63.4%\n520\n352\n65.5%\n538\n(5)%\n(6)%",
+    "table_role": "row"
+  },
+  {
+    "group_id": "p20_b12",
+    "page_no": 20,
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b12"
+    ],
+    "block_types": [
+      "body"
+    ],
+    "source_text_joined": "馬來西亞\n222\n59.9%\n369\n258\n63.1%\n406\n(13)%\n(14)%",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "table_unit",
+        "table_role": "row",
+        "reason": "table_layout_signals"
+      }
+    ],
+    "lane": "table",
+    "group_bbox": [
+      79.43,
+      250.36,
+      521.66,
+      261.65
+    ],
+    "group_text": "馬來西亞\n222\n59.9%\n369\n258\n63.1%\n406\n(13)%\n(14)%",
+    "table_role": "row"
+  },
+  {
+    "group_id": "p20_b13",
+    "page_no": 20,
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b13"
+    ],
+    "block_types": [
+      "body"
+    ],
+    "source_text_joined": "中國內地\n968\n80.9%\n1,197\n1,167\n93.5%\n1,248\n(17)%\n(17)%",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "table_unit",
+        "table_role": "row",
+        "reason": "table_layout_signals"
+      }
+    ],
+    "lane": "table",
+    "group_bbox": [
+      79.45,
+      265.83,
+      521.67,
+      277.12
+    ],
+    "group_text": "中國內地\n968\n80.9%\n1,197\n1,167\n93.5%\n1,248\n(17)%\n(17)%",
+    "table_role": "row"
+  },
+  {
+    "group_id": "p20_b14",
+    "page_no": 20,
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b14"
+    ],
+    "block_types": [
+      "body"
+    ],
+    "source_text_joined": "其他市場\n514\n38.4%\n1,334\n535\n41.9%\n1,271\n(4)%\n(4)%",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "table_unit",
+        "table_role": "row",
+        "reason": "table_layout_signals"
+      }
+    ],
+    "lane": "table",
+    "group_bbox": [
+      79.47,
+      281.3,
+      521.69,
+      292.59
+    ],
+    "group_text": "其他市場\n514\n38.4%\n1,334\n535\n41.9%\n1,271\n(4)%\n(4)%",
+    "table_role": "row"
+  },
+  {
+    "group_id": "p20_b15",
+    "page_no": 20,
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b15"
+    ],
+    "block_types": [
+      "body"
+    ],
+    "source_text_joined": "小計\n3,053\n57.7%\n5,219\n4,427\n66.6%\n6,585\n(31)%\n(31)%",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "table_unit",
+        "table_role": "row",
+        "reason": "table_layout_signals"
+      }
+    ],
+    "lane": "table",
+    "group_bbox": [
+      79.49,
+      296.56,
+      521.71,
+      307.86
+    ],
+    "group_text": "小計\n3,053\n57.7%\n5,219\n4,427\n66.6%\n6,585\n(31)%\n(31)%",
+    "table_role": "row"
+  },
+  {
+    "group_id": "p20_b16",
+    "page_no": 20,
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b16"
+    ],
+    "block_types": [
+      "body"
+    ],
+    "source_text_joined": "為符合合併準備金及\n資本要求所作調整\n(103)\n無意義\n無意義\n(87)\n無意義\n無意義\n無意義\n無意義",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "table_unit",
+        "table_role": "row",
+        "reason": "table_layout_signals"
+      }
+    ],
+    "lane": "table",
+    "group_bbox": [
+      79.5,
+      312.24,
+      521.71,
+      334.02
+    ],
+    "group_text": "為符合合併準備金及\n資本要求所作調整\n(103)\n無意義\n無意義\n(87)\n無意義\n無意義\n無意義\n無意義",
+    "table_role": "row"
+  },
+  {
+    "group_id": "p20_b17",
+    "page_no": 20,
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b17"
+    ],
+    "block_types": [
+      "body"
+    ],
+    "source_text_joined": "未分配集團總部開支的\n稅後價值\n(161)\n無意義\n無意義\n(154)\n無意義\n無意義\n無意義\n無意義",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "table_unit",
+        "table_role": "row",
+        "reason": "table_layout_signals"
+      }
+    ],
+    "lane": "table",
+    "group_bbox": [
+      79.51,
+      338.21,
+      521.72,
+      359.99
+    ],
+    "group_text": "未分配集團總部開支的\n稅後價值\n(161)\n無意義\n無意義\n(154)\n無意義\n無意義\n無意義\n無意義",
+    "table_role": "row"
+  },
+  {
+    "group_id": "p20_b18",
+    "page_no": 20,
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b18"
+    ],
+    "block_types": [
+      "body"
+    ],
+    "source_text_joined": "扣除非控股權益前的總計\n2,789\n52.6%\n5,219\n4,186\n62.9%\n6,585\n(33)%\n(33)%",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "table_unit",
+        "table_role": "row",
+        "reason": "table_layout_signals"
+      }
+    ],
+    "lane": "table",
+    "group_bbox": [
+      79.52,
+      363.96,
+      521.74,
+      375.27
+    ],
+    "group_text": "扣除非控股權益前的總計\n2,789\n52.6%\n5,219\n4,186\n62.9%\n6,585\n(33)%\n(33)%",
+    "table_role": "row"
+  },
+  {
+    "group_id": "p20_b19",
+    "page_no": 20,
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b19"
+    ],
+    "block_types": [
+      "body"
+    ],
+    "source_text_joined": "非控股權益\n(24)\n無意義\n無意義\n(32)\n無意義\n無意義\n無意義\n無意義",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "table_unit",
+        "table_role": "row",
+        "reason": "table_layout_signals"
+      }
+    ],
+    "lane": "table",
+    "group_bbox": [
+      79.54,
+      379.43,
+      521.76,
+      390.93
+    ],
+    "group_text": "非控股權益\n(24)\n無意義\n無意義\n(32)\n無意義\n無意義\n無意義\n無意義",
+    "table_role": "row"
+  },
+  {
+    "group_id": "p20_b20",
+    "page_no": 20,
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b20"
+    ],
+    "block_types": [
+      "body"
+    ],
+    "source_text_joined": "總計\n2,765\n52.6%\n5,219\n4,154\n62.9%\n6,585\n(33)%\n(33)%",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "table_unit",
+        "table_role": "row",
+        "reason": "table_layout_signals"
+      }
+    ],
+    "lane": "table",
+    "group_bbox": [
+      79.55,
+      394.9,
+      521.77,
+      406.21
+    ],
+    "group_text": "總計\n2,765\n52.6%\n5,219\n4,154\n62.9%\n6,585\n(33)%\n(33)%",
+    "table_role": "row"
+  }
+]

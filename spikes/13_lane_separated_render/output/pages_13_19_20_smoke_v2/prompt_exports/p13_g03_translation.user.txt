@@ -1,0 +1,154 @@
+文档场景：上市保险公司企业年报。
+先满足 fact_locks，再保证术语稳定、语义完整和年报文风。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 13,
+    "page_sections": [
+      {
+        "source_section": "集團首席執行官兼總裁報告",
+        "target_section": "Group Chief Executive and President's Report",
+        "content_type": "ceo_report",
+        "page_range": [
+          12,
+          16
+        ]
+      }
+    ],
+    "term_usage_mode": "table",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "給付及理賠，為客戶提供極其重要的財務保障。",
+      "next_group_source_excerpt": "證我們雄厚的資本實力和嚴謹的財務管理。"
+    }
+  },
+  "mapping_hits": [
+    {
+      "source": "新業務價值",
+      "target": "VONB",
+      "hit_type": "context_term"
+    },
+    {
+      "source": "稅後營運溢利",
+      "target": "OPAT",
+      "hit_type": "context_term"
+    },
+    {
+      "source": "產生的基本自由盈餘",
+      "target": "UFSG",
+      "hit_type": "context_term"
+    },
+    {
+      "source": "自由盈餘",
+      "target": "Free Surplus",
+      "hit_type": "context_term"
+    },
+    {
+      "source": "內涵價值權益",
+      "target": "EV Equity",
+      "hit_type": "context_term"
+    },
+    {
+      "source": "內涵價值",
+      "target": "EV",
+      "hit_type": "context_term"
+    },
+    {
+      "source": "集團當地資本總和法覆蓋率",
+      "target": "Group LCSM cover ratio",
+      "hit_type": "context_term"
+    },
+    {
+      "source": "2019冠狀病毒病",
+      "target": "COVID-19",
+      "hit_type": "context_term"
+    }
+  ],
+  "fact_locks": [
+    {
+      "label": "date_2020",
+      "fact_type": "date",
+      "source_value": "截至2020年12月31日",
+      "expected_forms": [
+        "31 12 2020"
+      ]
+    },
+    {
+      "label": "usd_amount_27.65",
+      "fact_type": "usd_scaled_amount",
+      "source_value": "27.65億美元",
+      "expected_forms": [
+        "US$2.765 billion",
+        "US$2765 million",
+        "US$2,765 million"
+      ]
+    },
+    {
+      "label": "ev_equity_usd",
+      "fact_type": "usd_scaled_amount",
+      "source_value": "672億美元",
+      "expected_forms": [
+        "US$67.2 billion",
+        "US$67200 million",
+        "US$67,200 million"
+      ]
+    },
+    {
+      "label": "percentage_15",
+      "fact_type": "percentage",
+      "source_value": "15%",
+      "expected_forms": [
+        "15%"
+      ]
+    },
+    {
+      "label": "percentage_5",
+      "fact_type": "percentage",
+      "source_value": "5%",
+      "expected_forms": [
+        "5%"
+      ]
+    },
+    {
+      "label": "percentage_7",
+      "fact_type": "percentage",
+      "source_value": "7%",
+      "expected_forms": [
+        "7%"
+      ]
+    },
+    {
+      "label": "group_lcsm_cover_ratio_pct",
+      "fact_type": "percentage",
+      "source_value": "374%",
+      "expected_forms": [
+        "374%"
+      ]
+    }
+  ],
+  "current_group": {
+    "group_id": "p13_g03",
+    "lane": "body",
+    "group_text": "儘管為遏制2019冠狀病毒病傳播的措施導致新業務價值減少至27.65億美元，但隨著外出限制放寬，銷售動力轉\n趨正面，並在2021年展開非常強勁的勢頭，首兩個月的新業務價值按年增長15%。我們規模龐大和持續增長的有\n效保單組合所帶來的高質素和經常性收入來源，帶動2020年稅後營運溢利增加5%，期內產生的基本自由盈餘則\n增長7%。截至2020年12月31日，內涵價值權益創新高，達672億美元，集團當地資本總和法覆蓋率為374%，足",
+    "source_block_ids": [
+      "p13_b9",
+      "p13_b10",
+      "p13_b11",
+      "p13_b12"
+    ],
+    "source_block_count": 4
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p13_g03",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

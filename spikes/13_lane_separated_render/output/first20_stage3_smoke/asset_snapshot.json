@@ -1,0 +1,33 @@
+{
+  "mapping_library_version": {
+    "path": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\07_translation_current_bundle\\configs\\glossary_zh_en_seed.json",
+    "sha256": "4dc2e5637c0ae5bdfc02d5cbe59c462e451a945513c69709544bc90b8cb4fc2c",
+    "size": 1774,
+    "mtime": 1776132572.8207977
+  },
+  "company_memory_version": {
+    "path": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\06_company_memory_learning\\output\\AIA_excl_2021_v4\\company_memory.json",
+    "sha256": "5db46a324b1a144283c5a0d35c2ee6d6526c182b8a36707d26912811307b764f",
+    "size": 181221,
+    "mtime": 1776142775.2449358
+  },
+  "financial_metric_map_version": {
+    "path": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\07_translation_current_bundle\\configs\\glossary_zh_en_seed.json",
+    "sha256": "4dc2e5637c0ae5bdfc02d5cbe59c462e451a945513c69709544bc90b8cb4fc2c",
+    "size": 1774,
+    "mtime": 1776132572.8207977
+  },
+  "style_policy_version": {
+    "path": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\09_document_understanding_workflow\\output\\sample_2021_pages_10_13_19_20_run1\\document_background.json",
+    "sha256": "8fc68beafb4d13c9c7a4b0bbcd485926ae7ea5ddd811f8367f2138219dbf8582",
+    "size": 14231,
+    "mtime": 1776156927.1937425
+  },
+  "document_background_schema_version": {
+    "path": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\09_document_understanding_workflow\\output\\sample_2021_pages_10_13_19_20_run1\\document_background.json",
+    "sha256": "8fc68beafb4d13c9c7a4b0bbcd485926ae7ea5ddd811f8367f2138219dbf8582",
+    "size": 14231,
+    "mtime": 1776156927.1937425
+  },
+  "prompt_bundle_subset_version": "spike12_v1"
+}

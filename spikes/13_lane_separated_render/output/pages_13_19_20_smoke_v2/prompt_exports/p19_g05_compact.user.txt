@@ -1,0 +1,42 @@
+文档场景：上市公司企业年报
+{
+  "document_background": {
+    "page_sections": [
+      {
+        "source_section": "集團首席財務總監回顧",
+        "target_section": "Group Chief Financial Officer's Review",
+        "content_type": "cfo_review",
+        "page_range": [
+          18,
+          30
+        ]
+      }
+    ],
+    "roles": [],
+    "terms": [],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "Use established financial abbreviations for table labels when provided.",
+      "Keep row and column semantics unchanged.",
+      "Use n/m for 無意義."
+    ]
+  },
+  "current_unit": {
+    "page_no": 19,
+    "unit_id": "p19_g05",
+    "unit_mode": "semantic_group",
+    "slot_count": 3,
+    "source_text": "產生的基本自由盈餘為58.43億美元，增長了7%，是由我們有效保單組合的持續增長和我們對此積極管理所帶\n動，這足以抵銷預期投資回報降低的影響。於2020年12月31日，本集團的財務狀況仍然十分強勁，於派付股息\n19.97億美元後，自由盈餘為134.73億美元。",
+    "current_translation": "UFSG of US$5.843 billion grew by 7%, driven by the continued growth of our in-force portfolio and our active management thereof, which was sufficient to offset the impact of lower expected investment returns. As at 31 December 2020, the Group's financial position remained very strong, with Free Surplus of US$13.473 billion after the payment of dividends of US$1.997 billion."
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p19_g05",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

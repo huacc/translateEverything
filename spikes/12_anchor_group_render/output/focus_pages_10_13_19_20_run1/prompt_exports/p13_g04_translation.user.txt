@@ -1,0 +1,83 @@
+文档场景：上市保险公司企业年报。
+先满足 fact_locks，再保证术语稳定、语义完整和年报文风。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 13,
+    "page_sections": [
+      {
+        "source_section": "集團首席執行官兼總裁報告",
+        "target_section": "Group Chief Executive and President's Report",
+        "content_type": "ceo_report",
+        "page_range": [
+          12,
+          16
+        ]
+      }
+    ],
+    "term_usage_mode": "table",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "儘管為遏制2019冠狀病毒病傳播的措施導致新業務價值減少至27.65億美元，但隨著外出限制放寬，銷售動力轉\n趨正面，並在2021年展開非常強勁的勢頭，首兩個月的新業務價值按年增長15%。我們規模龐大和持續增長的有\n效保單組合所帶來的高...",
+      "next_group_source_excerpt": "友邦保險具有多項顯著優勢，讓我們在競爭激烈的市場別樹一幟。我們在亞洲經營數十載，擁有區內無可比擬的\n平台，並於我們業務所在的大部分市場雄踞領導地位。我們始終如一地百分百專注於亞洲市場，有助我們在全球\n最具吸引力的壽險業地區全面把握增長..."
+    }
+  },
+  "mapping_hits": [
+    {
+      "source": "友邦保險",
+      "target": "AIA",
+      "hit_type": "glossary_term"
+    }
+  ],
+  "fact_locks": [
+    {
+      "label": "final_dividend_per_share",
+      "fact_type": "hk_cents_per_share",
+      "source_value": "100.30港仙",
+      "expected_forms": [
+        "100.30 Hong Kong cents per share"
+      ],
+      "required_keywords": [
+        "final dividend"
+      ]
+    }
+  ],
+  "current_group": {
+    "group_id": "p13_g04",
+    "mode": "semantic_group",
+    "block_ids": [
+      "p13_b14",
+      "p13_b15"
+    ],
+    "block_types": [
+      "body",
+      "label"
+    ],
+    "blocks": [
+      {
+        "block_id": "p13_b14",
+        "block_type": "body",
+        "source_text": "董事會建議2020年末期股息增加7.5%至每股100.30港仙。這秉承友邦保險行之已久的審慎、可持續及漸進的派息"
+      },
+      {
+        "block_id": "p13_b15",
+        "block_type": "label",
+        "source_text": "政策，讓本集團可把握未來的增長機遇，並且保持財務靈活性。"
+      }
+    ],
+    "joined_source_text": "董事會建議2020年末期股息增加7.5%至每股100.30港仙。這秉承友邦保險行之已久的審慎、可持續及漸進的派息\n政策，讓本集團可把握未來的增長機遇，並且保持財務靈活性。"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p13_g04",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

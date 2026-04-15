@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 13,
+    "group_id": "p13_g05"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是上市保险公司年报翻译器。\n语言方向：Traditional Chinese -> English。\n只处理当前 semantic group。\n可以在当前组内恢复跨块断句，但不得跨组补写、跨组删写或改写事实。\n必须严格满足 mapping_hits 与 fact_locks。\n版面回填、字体压缩、分块分配不是你的职责，不要为了适配版面而删词改义。\n保持正式、稳定、可出版的企业年报文风。\n只输出 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市保险公司企业年报。\n先满足 fact_locks，再保证术语稳定、语义完整和年报文风。\n{\n  \"task\": {\n    \"scenario\": \"listed_company_annual_report\",\n    \"industry\": \"Life Insurance\",\n    \"report_type\": \"annual_report\",\n    \"company_name_target\": \"AIA GROUP LIMITED\",\n    \"direction\": \"Traditional Chinese -> English\"\n  },\n  \"page_context\": {\n    \"page_no\": 13,\n    \"page_sections\": [\n      {\n        \"source_section\": \"集團首席執行官兼總裁報告\",\n        \"target_section\": \"Group Chief Executive and President's Report\",\n        \"content_type\": \"ceo_report\",\n        \"page_range\": [\n          12,\n          16\n        ]\n      }\n    ],\n    \"term_usage_mode\": \"overview_narrative\",\n    \"neighbor_context\": {\n      \"previous_group_source_excerpt\": \"董事會建議2020年末期股息增加7.5%至每股100.30港仙。這秉承友邦保險行之已久的審慎、可持續及漸進的派息\\n政策，讓本集團可把握未來的增長機遇，並且保持財務靈活性。\",\n      \"next_group_source_excerpt\": \"我們無可比擬的分銷實力能直接接觸客戶，並提供高質素的專業建議，協助滿足亞洲消費者龐大且日益增長的長\\n期保障和儲蓄需求。如今大眾比以往更期望企業能以符合長遠可持續發展的方式應對他們的需要。友邦保險擁有\\n市場領先的品牌，以幫助大眾實踐健康...\"\n    }\n  },\n  \"mapping_hits\": [\n    {\n      \"source\": \"友邦保險\",\n      \"target\": \"AIA\",\n      \"hit_type\": \"glossary_term\"\n    }\n  ],\n  \"fact_locks\": [],\n  \"current_group\": {\n    \"group_id\": \"p13_g05\",\n    \"mode\": \"semantic_group\",\n    \"block_ids\": [\n      \"p13_b16\",\n      \"p13_b17\",\n      \"p13_b18\",\n      \"p13_b19\"\n    ],\n    \"block_types\": [\n      \"body\",\n      \"body\",\n      \"body\",\n      \"label\"\n    ],\n    \"blocks\": [\n      {\n        \"block_id\": \"p13_b16\",\n        \"block_type\": \"body\",\n        \"source_text\": \"友邦保險具有多項顯著優勢，讓我們在競爭激烈的市場別樹一幟。我們在亞洲經營數十載，擁有區內無可比擬的\"\n      },\n      {\n        \"block_id\": \"p13_b17\",\n        \"block_type\": \"body\",\n        \"source_text\": \"平台，並於我們業務所在的大部分市場雄踞領導地位。我們始終如一地百分百專注於亞洲市場，有助我們在全球\"\n      },\n      {\n        \"block_id\": \"p13_b18\",\n        \"block_type\": \"body\",\n        \"source_text\": \"最具吸引力的壽險業地區全面把握增長機遇。這份專注結合我們領導團隊在亞洲的豐富經驗及員工的優秀質素，\"\n      },\n      {\n        \"block_id\": \"p13_b19\",\n        \"block_type\": \"label\",\n        \"source_text\": \"一直是我們表現卓越的重要動力。\"\n      }\n    ],\n    \"joined_source_text\": \"友邦保險具有多項顯著優勢，讓我們在競爭激烈的市場別樹一幟。我們在亞洲經營數十載，擁有區內無可比擬的\\n平台，並於我們業務所在的大部分市場雄踞領導地位。我們始終如一地百分百專注於亞洲市場，有助我們在全球\\n最具吸引力的壽險業地區全面把握增長機遇。這份專注結合我們領導團隊在亞洲的豐富經驗及員工的優秀質素，\\n一直是我們表現卓越的重要動力。\"\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p13_g05\",\n        \"translation\": \"<译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p13_g05\",\n      \"translation\": \"AIA possesses multiple distinctive advantages that set us apart in a highly competitive market. With decades of operations across Asia, we have an unparalleled platform in the region and hold leading positions in most of the markets where we conduct business. Our unwavering and complete focus on the Asian market enables us to fully capitalize on growth opportunities in the world's most attractive life insurance regions. This focus, combined with the extensive Asian experience of our leadership team and the exceptional quality of our workforce, has been a key driver of our outstanding performance.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "665d9581-2053-48a1-83d6-6a37ea71a051",
+    "conversation_id": "665d9581-2053-48a1-83d6-6a37ea71a051",
+    "id": "665d9581-2053-48a1-83d6-6a37ea71a051",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1534,
+      "output_tokens": 146
+    }
+  }
+}

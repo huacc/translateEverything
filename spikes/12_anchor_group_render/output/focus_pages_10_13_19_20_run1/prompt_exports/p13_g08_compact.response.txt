@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p13_g08",
+      "translation": "Despite 2020 being an unprecedented year, I am more optimistic than ever about the life insurance industry's prospects in Asia and AIA's future. We continue to challenge ourselves and develop our priorities to ensure we appropriately meet our customers' evolving expectations and financial needs. Our new corporate strategy builds on AIA's existing strengths and advances our transformation to deliver superior service to customers in the future."
+    }
+  ]
+}
+```
