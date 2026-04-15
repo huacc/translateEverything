@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 19,
+    "group_id": "p19_g08"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是上市保险公司年报翻译器。\n语言方向：Traditional Chinese -> English。\n只处理当前 body semantic group。\n只可在当前组内恢复跨块断句，不得跨组补写、跨组删写或改写事实。\n必须严格满足 mapping_hits 与 fact_locks。\n版面回填、字体压缩、分块分配不是你的职责，不要为了适配版面而删词改义。\n保持正式、稳定、可出版的企业年报文风。\n只输出 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市保险公司企业年报。\n先满足 fact_locks，再保证术语稳定、语义完整和年报文风。\n{\n  \"task\": {\n    \"scenario\": \"listed_company_annual_report\",\n    \"industry\": \"Life Insurance\",\n    \"report_type\": \"annual_report\",\n    \"company_name_target\": \"AIA GROUP LIMITED\",\n    \"direction\": \"Traditional Chinese -> English\"\n  },\n  \"page_context\": {\n    \"page_no\": 19,\n    \"page_sections\": [\n      {\n        \"source_section\": \"集團首席財務總監回顧\",\n        \"target_section\": \"Group Chief Financial Officer's Review\",\n        \"content_type\": \"cfo_review\",\n        \"page_range\": [\n          18,\n          30\n        ]\n      }\n    ],\n    \"term_usage_mode\": \"financial_narrative\",\n    \"neighbor_context\": {\n      \"previous_group_source_excerpt\": \"董事會建議末期股息增加7.5%至每股100.30港仙，並須於本公司應屆股東週年大會上獲股東批准。這使2020年的\\n全年股息總額為每股135.30港仙，較2019年的全年股息總額上升6.9%。這是秉承友邦保險行之已久的審慎、可持\\n續及漸...\",\n      \"next_group_source_excerpt\": \"2020年報\\n017\"\n    }\n  },\n  \"mapping_hits\": [\n    {\n      \"source\": \"友邦保險\",\n      \"target\": \"AIA\",\n      \"hit_type\": \"glossary_term\"\n    }\n  ],\n  \"fact_locks\": [],\n  \"current_group\": {\n    \"group_id\": \"p19_g08\",\n    \"lane\": \"body\",\n    \"group_text\": \"我們仍然對友邦保險在整個亞洲地區的業務機會充滿信心。我們將繼續專注於投資資本，以實現具盈利的新業務\\n增長，並運用我們的競爭優勢，同時維持審慎的財務管理和實現長期股東價值。\",\n    \"source_block_ids\": [\n      \"p19_b27\",\n      \"p19_b28\"\n    ],\n    \"source_block_count\": 2\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p19_g08\",\n        \"translation\": \"<译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p19_g08\",\n      \"translation\": \"We remain confident in AIA's business opportunities across the Asia region. We will continue to focus on deploying capital to achieve profitable new business growth, leveraging our competitive advantages, while maintaining prudent financial management and delivering long-term shareholder value.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "e10a177e-9525-478e-89e6-6c88cb539a04",
+    "conversation_id": "e10a177e-9525-478e-89e6-6c88cb539a04",
+    "id": "e10a177e-9525-478e-89e6-6c88cb539a04",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 882,
+      "output_tokens": 87
+    }
+  }
+}

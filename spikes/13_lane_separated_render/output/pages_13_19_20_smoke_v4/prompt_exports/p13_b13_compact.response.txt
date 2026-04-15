@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p13_b13",
+      "translation": "testify to our strong capital and prudent financial management."
+    }
+  ]
+}
+```

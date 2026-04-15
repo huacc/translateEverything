@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p13_b8",
+      "translation": "Benefits and claims, providing customers with essential financial protection."
+    }
+  ]
+}
+```

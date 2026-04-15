@@ -592,6 +592,13 @@ def per_page_deltas(evaluation_payload: dict[str, Any]) -> list[dict[str, Any]]:
     return rows
 
 
+def average_layout_from_report(report_path: Path) -> dict[int, dict[str, Any]]:
+    payload = json.loads(report_path.read_text(encoding="utf-8"))
+    if isinstance(payload, list):
+        return {int(item["page_no"]): {"avg_font_ratio": 0.0, "compact_used": 0, "overflow_count": 0, "unit_count": int(item.get("text_block_count", 0))} for item in payload if "page_no" in item}
+    return sp12.average_layout_from_report(report_path)
+
+
 def build_stage_markdown(stage_results: list[dict[str, Any]]) -> str:
     lines = ["# Spike 13 阶段状态", ""]
     for stage in stage_results:
@@ -765,6 +772,7 @@ sp12.build_translation_prompts = build_translation_prompts
 sp12.build_compact_prompts = build_compact_prompts
 sp12.post_normalize_translation = post_normalize_translation
 sp12.render_unit = render_unit
+sp12.average_layout_from_report = average_layout_from_report
 sp12.build_stage_markdown = build_stage_markdown
 sp12.build_acceptance_report = build_acceptance_report
 sp12.build_summary_report = build_summary_report
