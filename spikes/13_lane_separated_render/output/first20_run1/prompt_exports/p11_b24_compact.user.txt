@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p11_b24",
+    "lane": "caption_label",
+    "source_text": "謝仕榮",
+    "current_translation": "Xie Shi-rong"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p11_b24",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

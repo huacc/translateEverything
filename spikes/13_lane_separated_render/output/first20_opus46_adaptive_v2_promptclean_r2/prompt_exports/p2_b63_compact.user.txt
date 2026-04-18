@@ -1,0 +1,19 @@
+任务
+- unit_id：p2_b63
+- 输入单元：短标签 / 小标题
+
+原文
+269 內涵價值補充資料
+
+当前译文
+269 Embedded Value Supplementary Information
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p2_b63",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

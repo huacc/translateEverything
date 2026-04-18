@@ -1,0 +1,19 @@
+任务
+- unit_id：p12_b4
+- 输入单元：短标签 / 小标题
+
+原文
+卓越的團隊努力不懈的成果。我們的員工能迅速
+
+当前译文
+The result of our exceptional team's relentless efforts. Our employees were able to respond swiftly
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p12_b4",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+任务
+- unit_id：p14_b28
+- 输入单元：短标签 / 小标题
+
+原文
+個月錄得非常強勁的新業務價值增長。
+
+当前译文
+recorded very strong New Business Value growth in the first two months.
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p14_b28",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

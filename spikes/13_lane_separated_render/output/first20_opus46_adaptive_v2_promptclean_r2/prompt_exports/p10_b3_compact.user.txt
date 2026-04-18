@@ -1,0 +1,19 @@
+任务
+- unit_id：p10_b3
+- 输入单元：短标签 / 小标题
+
+原文
+主席報告
+
+当前译文
+Chairman's Statement
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p10_b3",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

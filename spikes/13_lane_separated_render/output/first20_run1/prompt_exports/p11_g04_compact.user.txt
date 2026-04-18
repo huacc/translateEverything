@@ -1,0 +1,48 @@
+文档场景：上市公司企业年报
+{
+  "document_background": {
+    "page_sections": [
+      {
+        "source_section": "主席報告",
+        "target_section": "Chairman's Statement",
+        "content_type": "chairman_statement",
+        "page_range": [
+          10,
+          11
+        ]
+      }
+    ],
+    "roles": [
+      {
+        "source": "謝仕榮先生",
+        "target": "Mr. Tse Sze-wing",
+        "role": "Independent Non-Executive Chairman"
+      }
+    ],
+    "terms": [],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "Use established financial abbreviations for table labels when provided.",
+      "Keep row and column semantics unchanged.",
+      "Use n/m for 無意義."
+    ]
+  },
+  "current_unit": {
+    "page_no": 11,
+    "unit_id": "p11_g04",
+    "unit_mode": "semantic_group",
+    "slot_count": 5,
+    "source_text": "環境、社會及管治議題對全球的影響日形重要。我們當竭盡所能，協助推動社會邁向更美好的未來，而我們的環\n境、社會及管治措施在2020年再度備受肯定。根據評級機構Sustainalytics的評選，友邦保險在超過270家保險公\n司中排名第二，足證我們卓越的企業管治實力和質素。此外，我們繼續榮獲Institutional Shareholder Services\nInc.(ISS)頒發「Prime」環境、社會及管治企業評級(ESG Corporate Rating)，認同我們為業界可持續發展表現\n最佳的公司之一。我們相信我們在這方面仍需採取更多措施，為社區實現更美好的成果。這仍是我個人與董事會",
+    "current_translation": "Environmental, Social and Governance issues are becoming increasingly important to the world. We will do our utmost to help drive society towards a better future, and our Environmental, Social and Governance initiatives were once again recognized in 2020. According to the selection by rating agency Sustainalytics, AIA ranked second among over 270 insurance companies, demonstrating our excellent corporate governance strength and quality. In addition, we continued to receive the \"Prime\" Environmental, Social and Governance Corporate Rating (ESG Corporate Rating) from Institutional Shareholder Services Inc. (ISS), recognizing us as one of the best-performing companies in the industry for sustainable development. We believe we still need to take more measures in this regard to achieve better outcomes for the community. This remains a personal priority for me and the Board."
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p11_g04",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

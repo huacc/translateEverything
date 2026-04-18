@@ -1,0 +1,49 @@
+任务
+- 语言方向：Traditional Chinese -> English
+- 文档场景：上市公司企业年报
+- 公司：AIA GROUP LIMITED
+- 行业：Life Insurance
+- 报告类型：annual_report
+- 当前页面：5
+- 当前输入单元：正文语义组（group）
+
+翻译要求
+- 只翻译当前正文组，不要承担排版、压缩、分块、回填职责。
+- 可以在当前 group 内恢复断句和段落语义，但不得跨 group 补写或删写。
+- 保持上市公司年报文风：正式、稳定、可出版。
+- 数字、百分比、货币、年份、专有名词必须准确。
+- 如术语锁定与原有表达冲突，优先遵守术语锁定和事实锁定。
+
+页面上下文
+- 术语使用模式：table
+- 上一组摘要：保障，讓他們冒著生命危險執行抗疫工作時能減輕一份
+- 下一组摘要：提供必不可少的的財務支援。儘管疫情大流行的影響依
+
+文体与偏好
+- Use US$ for U.S. dollar amounts.
+- Keep listed-company annual report disclosure tone formal and publishable.
+- Do not change numbers, percentages, years, named entities or financial metric values.
+- Use established financial abbreviations for table labels when provided.
+- Keep row and column semantics unchanged.
+
+事实锁定
+- usd_amount_10: 10億美元 -> US$1 billion / US$1000 million / US$1,000 million
+- usd_amount_160: 160億美元 -> US$16 billion / US$16000 million / US$16,000 million
+
+当前正文组
+- group_id：p5_g01
+- group_bbox：[261.73, 438.03, 515.03, 487.07]
+- 原文：
+憂慮。我們為超過2,500萬份保單提供免費的2019冠狀病毒
+病相關保障覆蓋，並於12個市場提供10億美元的保費支
+援。年內，我們已支付逾160億美元的保險給付和理賠，
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p5_g01",
+      "translation": "<译文>"
+    }
+  ]
+}

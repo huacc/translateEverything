@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p14_g07",
+      "translation": "In other markets, VONB in H2 increased 10% versus H1, with positive recoveries in South Korea and Indonesia. Overall, full-year VONB declined 4%, primarily due to declines in New Zealand, the Philippines and Indonesia. Remaining markets recorded positive VONB growth, with Vietnam,"
+    }
+  ]
+}
+```

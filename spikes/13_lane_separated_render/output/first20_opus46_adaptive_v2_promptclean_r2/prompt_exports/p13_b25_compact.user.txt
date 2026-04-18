@@ -1,0 +1,19 @@
+任务
+- unit_id：p13_b25
+- 输入单元：短标签 / 小标题
+
+原文
+法，為我們與客戶建立長遠關係奠定堅實的基礎。
+
+当前译文
+laying a solid foundation for building long-term relationships with our customers.
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p13_b25",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p18_b7",
+      "translation": "This enables us to continue investing amid numerous growth opportunities."
+    }
+  ]
+}
+```

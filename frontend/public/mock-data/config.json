@@ -1,0 +1,49 @@
+{
+  "languages": [
+    {
+      "code": "zh",
+      "name": "中文",
+      "native_name": "中文"
+    },
+    {
+      "code": "en",
+      "name": "英文",
+      "native_name": "English"
+    }
+  ],
+  "glossaries": [
+    {
+      "id": 1,
+      "name": "默认术语库",
+      "description": "通用技术与产品术语",
+      "term_count": 1250,
+      "source_lang": "en",
+      "target_lang": "zh"
+    },
+    {
+      "id": 2,
+      "name": "金融年报术语库",
+      "description": "适用于年报与财务披露场景",
+      "term_count": 680,
+      "source_lang": "zh",
+      "target_lang": "en"
+    }
+  ],
+  "translation_styles": [
+    {
+      "id": "professional",
+      "name": "专业技术",
+      "description": "适用于技术文档、产品手册等专业内容"
+    },
+    {
+      "id": "formal",
+      "name": "正式商务",
+      "description": "适用于合同、协议、商务文件等正式场景"
+    },
+    {
+      "id": "academic",
+      "name": "学术论文",
+      "description": "适用于论文、研究报告等学术内容"
+    }
+  ]
+}

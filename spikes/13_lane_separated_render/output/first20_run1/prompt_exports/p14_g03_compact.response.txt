@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p14_g03",
+      "translation": "Hong Kong implemented travel restrictions in early February 2020, effectively halting new business sales from Mainland Chinese visitors and causing significant VONB decline. Agency distribution achieved double-digit sales growth from local customers in H2, maintaining significant market leadership. Partnership distribution VONB was materially lower than 2019 due to historically higher Mainland visitor sales through retail independent financial adviser channels. OPAT grew 10%, driven by strong renewal premium growth and favorable claims experience."
+    }
+  ]
+}
+```

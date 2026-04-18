@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p19_g01",
+      "translation": "The pandemic's primary impact on our 2020 financial performance was on new business sales, as containment measures in many markets restricted face-to-face sales activities, particularly in H1 2020. Although VONB of US$2,765 million in 2020 was 33% lower than 2019, we rapidly adopted new digital tools and easing of movement restrictions supported sales momentum recovery. AIA China was the largest contributor to Group VONB in 2020 and our first segment showing sales momentum recovery as the region progressively eased strict lockdowns from March 2020. Excluding Mainland Chinese visitor sales to Hong Kong, which remained low, VONB across other segments recovered strongly in H2, growing 23% vs H1..."
+    }
+  ]
+}
+```

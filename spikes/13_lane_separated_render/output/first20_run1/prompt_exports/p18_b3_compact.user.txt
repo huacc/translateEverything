@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p18_b3",
+    "lane": "caption_label",
+    "source_text": "儘管2020年的營商及宏觀經濟環境前所未見，友邦保險仍實現",
+    "current_translation": "Despite an unprecedented business and macroeconomic environment in 2020, AIA achieved"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p18_b3",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

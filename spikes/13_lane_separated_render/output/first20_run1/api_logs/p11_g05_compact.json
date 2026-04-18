@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "compact",
+    "page_no": 11,
+    "group_id": "p11_g05"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是年报英文压缩器，不是重译器。\n语言方向：Traditional Chinese -> English。\n你的任务只是对已有译文做最小必要压缩，以便回填原版面。\n禁止改变数字、单位、术语、专名、比较关系、主体和结论。\n标题不能改成正文，表头不能改成句子，不能输出口语化表达。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市公司企业年报\n{\n  \"document_background\": {\n    \"page_sections\": [\n      {\n        \"source_section\": \"主席報告\",\n        \"target_section\": \"Chairman's Statement\",\n        \"content_type\": \"chairman_statement\",\n        \"page_range\": [\n          10,\n          11\n        ]\n      }\n    ],\n    \"roles\": [\n      {\n        \"source\": \"謝仕榮先生\",\n        \"target\": \"Mr. Tse Sze-wing\",\n        \"role\": \"Independent Non-Executive Chairman\"\n      }\n    ],\n    \"terms\": [],\n    \"style_rules\": [\n      \"Use US$ for U.S. dollar amounts.\",\n      \"Keep listed-company annual report disclosure tone formal and publishable.\",\n      \"Do not change numbers, percentages, years, named entities or financial metric values.\",\n      \"For overview narrative, use full financial metric name plus abbreviation when provided.\",\n      \"For financial review and business metrics narrative, use established abbreviations when provided.\",\n      \"Prefer AIA China / AIA Hong Kong / AIA Macau over loose paraphrases when matched.\"\n    ]\n  },\n  \"current_unit\": {\n    \"page_no\": 11,\n    \"unit_id\": \"p11_g05\",\n    \"unit_mode\": \"semantic_group\",\n    \"slot_count\": 4,\n    \"source_text\": \"今天，客戶對友邦保險產品、服務及高質素建議日益增長的需求從未如此殷切。我們的策略建基於亞洲強勁的\\n結構性增長動力，並獲多項因素支持，包括前所未見的財富創造、保障缺口迅速擴大、消費者取向持續轉變、\\n數碼技術普及，以及市場聚焦於長遠的可持續發展。董事會充滿信心，友邦保險具備優越條件，把握區內展現的\\n龐大機遇，在客戶及其家庭最需要的時刻提供財務保障，使其安心無憂，並同時為所有持分者創造共享價值。\",\n    \"current_translation\": \"Today, customer demand for AIA's products, services and high-quality advice has never been more pressing. Our strategy is built on Asia's strong structural growth drivers and is supported by multiple factors, including unprecedented wealth creation, rapidly widening protection gaps, evolving consumer preferences, widespread digital technology adoption, and market focus on long-term sustainable development. The Board is confident that AIA is well-positioned to seize the significant opportunities presented across the region, providing financial protection to customers and their families when they need it most, giving them peace of mind, while creating shared value for all stakeholders.\"\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p11_g05\",\n        \"translation\": \"<更紧凑译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p11_g05\",\n      \"translation\": \"Today, customer demand for AIA's products, services and high-quality advice has never been more pressing. Our strategy is built on Asia's strong structural growth drivers supported by unprecedented wealth creation, rapidly widening protection gaps, evolving consumer preferences, widespread digital technology adoption, and market focus on long-term sustainable development. The Board is confident AIA is well-positioned to seize significant opportunities across the region, providing financial protection to customers and their families when needed most, while creating shared value for all stakeholders.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "d2eebdc9-cc89-49c8-ac7c-90b49a987dc7",
+    "conversation_id": "d2eebdc9-cc89-49c8-ac7c-90b49a987dc7",
+    "id": "d2eebdc9-cc89-49c8-ac7c-90b49a987dc7",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 903,
+      "output_tokens": 140
+    }
+  }
+}

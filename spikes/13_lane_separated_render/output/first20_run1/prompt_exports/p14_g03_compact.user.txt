@@ -1,0 +1,48 @@
+文档场景：上市公司企业年报
+{
+  "document_background": {
+    "page_sections": [
+      {
+        "source_section": "集團首席執行官兼總裁報告",
+        "target_section": "Group Chief Executive and President's Report",
+        "content_type": "ceo_report",
+        "page_range": [
+          12,
+          16
+        ]
+      }
+    ],
+    "roles": [
+      {
+        "source": "李源祥",
+        "target": "Lee Yuen Cheung",
+        "role": "Group Chief Executive and President"
+      }
+    ],
+    "terms": [],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "Use established financial abbreviations for table labels when provided.",
+      "Keep row and column semantics unchanged.",
+      "Use n/m for 無意義."
+    ]
+  },
+  "current_unit": {
+    "page_no": 14,
+    "unit_id": "p14_g03",
+    "unit_mode": "semantic_group",
+    "slot_count": 4,
+    "source_text": "香港在2020年2月初實施旅遊限制，來自中國內地訪港旅客的新業務銷售實際上已經停頓，導致新業務價值大幅\n下降。與上半年比較，我們的代理分銷來自本地客戶的業務於下半年錄得雙位數字的銷售增長，維持顯著的市場\n領導地位。夥伴分銷渠道的新業務價值顯著低於2019年，乃由於透過零售獨立財務顧問渠道的中國內地訪港旅客\n過往銷售比重較高。稅後營運溢利增長10%，受惠於續保保費強勁的增長及有利的理賠經驗。",
+    "current_translation": "Hong Kong implemented travel restrictions in early February 2020, which effectively halted new business sales from Mainland Chinese visitors, resulting in a significant decline in VONB. Compared with the first half, our agency distribution channel achieved double-digit sales growth from local customers in the second half, maintaining a significant market leadership position. The VONB from partnership distribution channels was materially lower than 2019, primarily due to the historically higher proportion of sales from Mainland Chinese visitors through the retail independent financial adviser channel. OPAT grew by 10%, benefiting from strong growth in renewal premiums and favorable claims experience."
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p14_g03",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

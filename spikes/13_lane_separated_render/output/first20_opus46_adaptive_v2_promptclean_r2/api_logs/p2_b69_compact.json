@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "stage": "compact",
+    "page_no": 2,
+    "group_id": "p2_b69"
+  },
+  "request": {
+    "model": "claude-opus-4-6",
+    "max_tokens": 4096,
+    "system": "你是上市公司年报短标签压缩助手。\n语言方向：Traditional Chinese -> English。\n只做最小必要压缩，不改变核心语义，不扩写。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "任务\n- unit_id：p2_b69\n- 输入单元：短标签 / 小标题\n\n原文\n(1) 本報告所使用的若干詞彙的解釋和縮寫已列明於詞彙章節。\n\n当前译文\n(1) Definitions and abbreviations of certain terms used in this report are set out in the Glossary section.\n\n输出格式\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p2_b69\",\n      \"translation\": \"<更紧凑译文>\"\n    }\n  ]\n}"
+      }
+    ],
+    "thinking": {
+      "type": "adaptive"
+    },
+    "output_config": {
+      "effort": "max"
+    }
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p2_b69\",\n      \"translation\": \"(1) Terms and abbreviations are defined in the Glossary.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "2a72d51a-5173-4594-86d9-29b543ee6344",
+    "conversation_id": "2a72d51a-5173-4594-86d9-29b543ee6344",
+    "id": "2a72d51a-5173-4594-86d9-29b543ee6344",
+    "model": "claude-opus-4-6",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 233,
+      "output_tokens": 51
+    }
+  }
+}

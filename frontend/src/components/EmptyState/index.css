@@ -1,0 +1,19 @@
+.empty-state {
+  padding: var(--spacing-xxl) var(--spacing-lg);
+  text-align: center;
+}
+
+.empty-state-content {
+  margin-top: var(--spacing-md);
+}
+
+.empty-state-title {
+  font-size: var(--font-size-h3);
+  color: var(--color-text-secondary);
+  margin-bottom: var(--spacing-sm);
+}
+
+.empty-state-description {
+  font-size: var(--font-size-body);
+  color: var(--color-text-tertiary);
+}

@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p5_b5",
+      "translation": "protection, allowing them to reduce one concern as they risk their lives in pandemic response work"
+    }
+  ]
+}
+```

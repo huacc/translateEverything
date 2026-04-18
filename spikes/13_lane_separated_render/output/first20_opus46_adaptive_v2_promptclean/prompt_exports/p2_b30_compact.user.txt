@@ -1,0 +1,19 @@
+任务
+- unit_id：p2_b30
+- 输入单元：短标签 / 小标题
+
+原文
+特別行政區、泰國、新加坡、馬來西亞、
+
+当前译文
+Special Administrative Region, Thailand, Singapore, Malaysia,
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p2_b30",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

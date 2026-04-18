@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "compact",
+    "page_no": 7,
+    "group_id": "p7_b3"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是版面压缩器。\n语言方向：Traditional Chinese -> English。\n只做最小必要压缩。\n不得改动数字、百分比、年份、金额、专有名词。\n只输出 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市保险公司企业年报。\n{\n  \"current_unit\": {\n    \"unit_id\": \"p7_b3\",\n    \"lane\": \"caption_label\",\n    \"source_text\": \"友邦保險宣佈設立「友邦獎學金」，並承諾\",\n    \"current_translation\": \"AIA announces the establishment of the AIA Scholarship and commits to\"\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p7_b3\",\n        \"translation\": \"<更紧凑译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p7_b3\",\n      \"translation\": \"AIA announces establishment of the AIA Scholarship and commits to\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "c19e13e9-1334-4b0f-bcaf-5b8a1439e929",
+    "conversation_id": "c19e13e9-1334-4b0f-bcaf-5b8a1439e929",
+    "id": "c19e13e9-1334-4b0f-bcaf-5b8a1439e929",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 248,
+      "output_tokens": 51
+    }
+  }
+}

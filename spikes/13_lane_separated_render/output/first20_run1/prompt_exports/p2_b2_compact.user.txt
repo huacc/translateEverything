@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p2_b2",
+    "lane": "caption_label",
+    "source_text": "目錄",
+    "current_translation": "Contents"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p2_b2",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

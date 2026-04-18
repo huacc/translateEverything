@@ -1,0 +1,72 @@
+文档场景：上市保险公司企业年报。
+先满足 fact_locks，再保证术语稳定、语义完整和年报文风。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 13,
+    "page_sections": [
+      {
+        "source_section": "集團首席執行官兼總裁報告",
+        "target_section": "Group Chief Executive and President's Report",
+        "content_type": "ceo_report",
+        "page_range": [
+          12,
+          16
+        ]
+      }
+    ],
+    "term_usage_mode": "table",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "證我們雄厚的資本實力和嚴謹的財務管理。",
+      "next_group_source_excerpt": "政策，讓本集團可把握未來的增長機遇，並且保持財務靈活性。"
+    }
+  },
+  "mapping_hits": [
+    {
+      "source": "友邦保險",
+      "target": "AIA",
+      "hit_type": "glossary_term"
+    }
+  ],
+  "fact_locks": [
+    {
+      "label": "final_dividend_per_share",
+      "fact_type": "hk_cents_per_share",
+      "source_value": "100.30港仙",
+      "expected_forms": [
+        "100.30 Hong Kong cents per share"
+      ]
+    },
+    {
+      "label": "percentage_7.5",
+      "fact_type": "percentage",
+      "source_value": "7.5%",
+      "expected_forms": [
+        "7.5%"
+      ]
+    }
+  ],
+  "current_group": {
+    "group_id": "p13_b14",
+    "lane": "body",
+    "group_text": "董事會建議2020年末期股息增加7.5%至每股100.30港仙。這秉承友邦保險行之已久的審慎、可持續及漸進的派息",
+    "source_block_ids": [
+      "p13_b14"
+    ],
+    "source_block_count": 1
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p13_b14",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

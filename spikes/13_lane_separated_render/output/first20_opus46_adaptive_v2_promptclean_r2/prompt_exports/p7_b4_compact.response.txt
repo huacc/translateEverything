@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p7_b4",
+      "translation": "AIA Scholarship for Academic Excellence and Service"
+    }
+  ]
+}
+```

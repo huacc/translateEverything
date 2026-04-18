@@ -1,0 +1,19 @@
+任务
+- unit_id：p2_b45
+- 输入单元：短标签 / 小标题
+
+原文
+132 合併收入表
+
+当前译文
+132 Consolidated Income Statement
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p2_b45",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

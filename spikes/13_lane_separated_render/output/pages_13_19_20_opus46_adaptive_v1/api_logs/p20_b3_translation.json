@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 20,
+    "group_id": "p20_b3"
+  },
+  "request": {
+    "model": "claude-opus-4-6",
+    "max_tokens": 4096,
+    "system": "你是上市公司年报中的标签翻译器。\n语言方向：Traditional Chinese -> English。\n只处理当前 caption/label unit。\n保持短、稳、正式，不自由改写。\n只输出 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市保险公司企业年报。\n当前输入属于短标签通道。优先使用标准年报表达。\n{\n  \"task\": {\n    \"scenario\": \"listed_company_annual_report\",\n    \"industry\": \"Life Insurance\",\n    \"report_type\": \"annual_report\",\n    \"company_name_target\": \"AIA GROUP LIMITED\",\n    \"direction\": \"Traditional Chinese -> English\"\n  },\n  \"page_context\": {\n    \"page_no\": 20,\n    \"page_sections\": [\n      {\n        \"source_section\": \"新業務表現\",\n        \"target_section\": \"New Business Performance\",\n        \"content_type\": \"business_metrics\",\n        \"page_range\": [\n          20,\n          21\n        ]\n      },\n      {\n        \"source_section\": \"集團首席財務總監回顧\",\n        \"target_section\": \"Group Chief Financial Officer's Review\",\n        \"content_type\": \"cfo_review\",\n        \"page_range\": [\n          18,\n          30\n        ]\n      }\n    ],\n    \"term_usage_mode\": \"heading\",\n    \"neighbor_context\": {\n      \"previous_group_source_excerpt\": \"集團首席財務總監回顧\",\n      \"next_group_source_excerpt\": \"按分部劃分的新業務價值、年化新保費及利潤率\"\n    }\n  },\n  \"mapping_hits\": [],\n  \"fact_locks\": [],\n  \"current_unit\": {\n    \"unit_id\": \"p20_b3\",\n    \"lane\": \"caption_label\",\n    \"source_text\": \"新業務表現\"\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p20_b3\",\n        \"translation\": \"<译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ],
+    "thinking": {
+      "type": "adaptive"
+    },
+    "output_config": {
+      "effort": "max"
+    }
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p20_b3\",\n      \"translation\": \"New Business Performance\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "1106967c-1f73-48fe-abe0-f6202a090039",
+    "conversation_id": "1106967c-1f73-48fe-abe0-f6202a090039",
+    "id": "1106967c-1f73-48fe-abe0-f6202a090039",
+    "model": "claude-opus-4-6",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 533,
+      "output_tokens": 41
+    }
+  }
+}

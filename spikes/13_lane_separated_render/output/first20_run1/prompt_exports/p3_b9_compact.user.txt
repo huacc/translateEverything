@@ -1,0 +1,41 @@
+文档场景：上市公司企业年报
+{
+  "document_background": {
+    "page_sections": [
+      {
+        "source_section": "友邦保險一覽",
+        "target_section": "AIA At-A-Glance",
+        "content_type": "company_overview",
+        "page_range": [
+          3
+        ]
+      }
+    ],
+    "roles": [],
+    "terms": [],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "Use established financial abbreviations for table labels when provided.",
+      "Keep row and column semantics unchanged.",
+      "Use n/m for 無意義."
+    ]
+  },
+  "current_unit": {
+    "page_no": 3,
+    "unit_id": "p3_b9",
+    "unit_mode": "single_block",
+    "slot_count": 9,
+    "source_text": "於2020年內，我們已支付\n逾160億美元\n的保險給付和理賠，\n為客戶提供必不可少的\n財務支援",
+    "current_translation": "During 2020, we paid out over US$16 billion in insurance benefits and claims, providing essential financial support to our customers."
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p3_b9",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

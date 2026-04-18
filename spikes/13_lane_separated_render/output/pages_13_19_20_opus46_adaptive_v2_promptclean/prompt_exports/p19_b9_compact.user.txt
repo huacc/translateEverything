@@ -1,0 +1,24 @@
+任务
+- unit_id：p19_b9
+- 输入单元：正文语义组（group）
+
+压缩要求
+- 只删除冗余表达，不改变事实和数字。
+- 保持年报文风正式稳定。
+- 不要跨组补写，也不要为了版面改义。
+
+原文
+截至2020年12月31日的內涵價值權益創下新高為671.85億美元，於派付股息19.97億美元之前增加52.77億美元，
+
+当前译文
+Embedded value (EV) equity as at 31 December 2020 reached a record high of US$67.185 billion, an increase of US$5.277 billion before payment of dividends of US$1.997 billion,
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p19_b9",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

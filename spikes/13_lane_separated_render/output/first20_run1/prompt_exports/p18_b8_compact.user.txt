@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p18_b8",
+    "lane": "caption_label",
+    "source_text": "按固定匯率基準提供增長率及作出評述。",
+    "current_translation": "Growth rates and commentary provided on a constant exchange rate basis."
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p18_b8",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

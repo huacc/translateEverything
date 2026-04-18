@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p7_b14",
+    "lane": "caption_label",
+    "source_text": "批復，准予在四川省開業。",
+    "current_translation": "Approval granted to commence operations in Sichuan Province."
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p7_b14",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

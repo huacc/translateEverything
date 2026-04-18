@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p8_b4",
+    "lane": "caption_label",
+    "source_text": "年化新保費(3)(8)",
+    "current_translation": "Annualized New Premium(3)(8)"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p8_b4",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

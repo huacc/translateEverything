@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p16_g02",
+      "translation": "In 2020, the COVID-19 pandemic was undoubtedly the largest-scale public health emergency in our living memory. Affected businesses and households received unprecedented public financial support, which helped mitigate some extreme financial impacts caused by the pandemic and accelerated recovery, particularly evident in countries with well-established health policies and infrastructure. However, significant differences existed between countries. Under these challenging circumstances, Asia (excluding Japan) recorded the relatively strongest gross domestic product performance globally. Currently, the global economy is just beginning to emerge from deep recession and entering initial stages of improvement."
+    }
+  ]
+}
+```

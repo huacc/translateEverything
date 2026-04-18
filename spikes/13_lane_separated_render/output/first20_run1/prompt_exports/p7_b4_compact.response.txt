@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p7_b4",
+      "translation": "The AIA Scholarship supports outstanding academic achievers committed to service"
+    }
+  ]
+}
+```

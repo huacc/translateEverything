@@ -1,0 +1,53 @@
+文档场景：上市公司企业年报
+{
+  "document_background": {
+    "page_sections": [
+      {
+        "source_section": "主席報告",
+        "target_section": "Chairman's Statement",
+        "content_type": "chairman_statement",
+        "page_range": [
+          10,
+          11
+        ]
+      }
+    ],
+    "roles": [
+      {
+        "source": "謝仕榮先生",
+        "target": "Mr. Tse Sze-wing",
+        "role": "Independent Non-Executive Chairman"
+      },
+      {
+        "source": "李源祥",
+        "target": "Lee Yuen Cheung",
+        "role": "Group Chief Executive and President"
+      }
+    ],
+    "terms": [],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "Use established financial abbreviations for table labels when provided.",
+      "Keep row and column semantics unchanged.",
+      "Use n/m for 無意義."
+    ]
+  },
+  "current_unit": {
+    "page_no": 11,
+    "unit_id": "p11_g03",
+    "unit_mode": "semantic_group",
+    "slot_count": 3,
+    "source_text": "董事會的重要責任之一是確保領導層人才輩出，並執行有效的繼任安排。我們歡迎李源祥先生於2020年6月1日\n接替榮休的黃經輝先生，擔任集團首席執行官兼總裁。本人謹代表董事會向李源祥先生及其管理層團隊深表\n謝意，他們在這段前所未見的環境發揮優秀的管理才能，帶領我們的業務向前邁進。我們也衷心感謝黃經輝先生",
+    "current_translation": "One of the Board's key responsibilities is to ensure a strong pipeline of leadership talent and to execute effective succession planning. We are pleased to welcome Mr. Lee Yuen Cheung as Group Chief Executive Officer and President, succeeding Mr. Wong King Fai upon his retirement on 1 June 2020. On behalf of the Board, I would like to express our deep appreciation to Mr. Lee Yuen Cheung and his management team for their outstanding leadership during this unprecedented environment, as they continue to drive our business forward. We also wish to extend our heartfelt thanks to Mr. Wong King Fai"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p11_g03",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

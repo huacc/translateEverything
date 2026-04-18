@@ -1,0 +1,19 @@
+任务
+- unit_id：p8_b76
+- 输入单元：短标签 / 小标题
+
+原文
+十億美元
+
+当前译文
+US$ billion
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p8_b76",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

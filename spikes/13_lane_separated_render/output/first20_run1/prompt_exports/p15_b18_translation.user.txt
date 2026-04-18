@@ -1,0 +1,51 @@
+文档场景：上市保险公司企业年报。
+当前输入属于短标签通道。优先使用标准年报表达。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 15,
+    "page_sections": [
+      {
+        "source_section": "集團首席執行官兼總裁報告",
+        "target_section": "Group Chief Executive and President's Report",
+        "content_type": "ceo_report",
+        "page_range": [
+          12,
+          16
+        ]
+      }
+    ],
+    "term_usage_mode": "heading",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "我們從2020年下半年起，透過友邦保險在新加坡和越南的業務作為兩個試點業務單位，展開塑造一個轉型機構的\n旅程。初步成果已實現更簡化、更以客為本的營運模式，我們亦推行靈活的工作方式，設立多個跨職能的專家團\n隊。我們計劃在這些試點業務內進...",
+      "next_group_source_excerpt": "過去一個多世紀以來，友邦保險為亞洲客戶的生活帶來正面和持久的影響。我們的社區存在不少環境、社會及管\n治議題，包括氣候變化、環境污染及生活模式相關疾病。隨著疫情大流行持續，突顯了這些問題的複雜性。作為\n客戶和社區的終身夥伴，我們竭盡所能..."
+    }
+  },
+  "mapping_hits": [
+    {
+      "source": "環境、社會及管治",
+      "target": "Environmental, Social and Governance",
+      "hit_type": "context_term"
+    }
+  ],
+  "fact_locks": [],
+  "current_unit": {
+    "unit_id": "p15_b18",
+    "lane": "caption_label",
+    "source_text": "環境、社會及管治"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p15_b18",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

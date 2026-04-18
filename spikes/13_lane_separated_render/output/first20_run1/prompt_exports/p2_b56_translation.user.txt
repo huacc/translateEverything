@@ -1,0 +1,44 @@
+文档场景：上市保险公司企业年报。
+当前输入属于短标签通道。优先使用标准年报表达。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 2,
+    "page_sections": [
+      {
+        "source_section": "目錄",
+        "target_section": "Contents",
+        "content_type": "navigation",
+        "page_range": [
+          2
+        ]
+      }
+    ],
+    "term_usage_mode": "heading",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "場外交易市場進行買賣（交易編號為",
+      "next_group_source_excerpt": "除外）領先同業，並於大部分市場穩佔"
+    }
+  },
+  "mapping_hits": [],
+  "fact_locks": [],
+  "current_unit": {
+    "unit_id": "p2_b56",
+    "lane": "caption_label",
+    "source_text": "138 合併現金流量表"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p2_b56",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

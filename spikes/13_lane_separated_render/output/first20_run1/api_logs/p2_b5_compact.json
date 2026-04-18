@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "compact",
+    "page_no": 2,
+    "group_id": "p2_b5"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是版面压缩器。\n语言方向：Traditional Chinese -> English。\n只做最小必要压缩。\n不得改动数字、百分比、年份、金额、专有名词。\n只输出 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市保险公司企业年报。\n{\n  \"current_unit\": {\n    \"unit_id\": \"p2_b5\",\n    \"lane\": \"caption_label\",\n    \"source_text\": \"006 財務摘要\",\n    \"current_translation\": \"006 Financial Summary\"\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p2_b5\",\n        \"translation\": \"<更紧凑译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p2_b5\",\n      \"translation\": \"006 Financial Summary\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "ece50330-1f50-4823-9c9a-39ed50526c32",
+    "conversation_id": "ece50330-1f50-4823-9c9a-39ed50526c32",
+    "id": "ece50330-1f50-4823-9c9a-39ed50526c32",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 215,
+      "output_tokens": 41
+    }
+  }
+}

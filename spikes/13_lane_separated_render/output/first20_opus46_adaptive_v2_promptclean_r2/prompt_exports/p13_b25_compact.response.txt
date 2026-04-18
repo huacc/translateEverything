@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p13_b25",
+      "translation": "building lasting customer relationships."
+    }
+  ]
+}
+```

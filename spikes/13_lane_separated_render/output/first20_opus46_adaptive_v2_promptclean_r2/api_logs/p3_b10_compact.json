@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "stage": "compact",
+    "page_no": 3,
+    "group_id": "p3_b10"
+  },
+  "request": {
+    "model": "claude-opus-4-6",
+    "max_tokens": 4096,
+    "system": "你是上市公司年报表格译文压缩助手。\n语言方向：Traditional Chinese -> English。\n只做最小必要压缩，不改变数字、顺序、单位和表格语义。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "任务\n- unit_id：p3_b10\n- 输入单元：表格单元 / 表格行\n- table_role：row\n\n压缩要求\n- 只做最小必要压缩。\n- 保持逐行表格语义。\n- 不改变数字、百分比、货币、括号、缩写和顺序。\n\n原文\n為亞洲大眾提供保障，\n總保額接近\n2萬億美元\n18個市場\n\n当前译文\nProviding protection to the Asian population, with total sum assured approaching US$2 trillion across 18 markets\n\n输出格式\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p3_b10\",\n      \"translation\": \"<更紧凑译文>\"\n    }\n  ]\n}"
+      }
+    ],
+    "thinking": {
+      "type": "adaptive"
+    },
+    "output_config": {
+      "effort": "max"
+    }
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p3_b10\",\n      \"translation\": \"Protection for Asian population, total sum assured approaching US$2 trillion across 18 markets\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "09b2c131-264a-492a-90ac-c210f3e1d2cd",
+    "conversation_id": "09b2c131-264a-492a-90ac-c210f3e1d2cd",
+    "id": "09b2c131-264a-492a-90ac-c210f3e1d2cd",
+    "model": "claude-opus-4-6",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 296,
+      "output_tokens": 54
+    }
+  }
+}

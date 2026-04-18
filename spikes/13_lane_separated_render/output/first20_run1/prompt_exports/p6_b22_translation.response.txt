@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p6_b22",
+      "translation": "Enhancing life insurance coverage and impact. We are also"
+    }
+  ]
+}
+```

@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "stage": "compact",
+    "page_no": 13,
+    "group_id": "p13_b19"
+  },
+  "request": {
+    "model": "claude-opus-4-6",
+    "max_tokens": 4096,
+    "system": "你是版面压缩器。\n语言方向：Traditional Chinese -> English。\n只做最小必要压缩。\n不得改动数字、百分比、年份、金额、专有名词。\n只输出 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市保险公司企业年报。\n{\n  \"current_unit\": {\n    \"unit_id\": \"p13_b19\",\n    \"lane\": \"caption_label\",\n    \"source_text\": \"一直是我們表現卓越的重要動力。\",\n    \"current_translation\": \"has been a key driver of our outstanding performance.\"\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p13_b19\",\n        \"translation\": \"<更紧凑译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ],
+    "thinking": {
+      "type": "adaptive"
+    },
+    "output_config": {
+      "effort": "max"
+    }
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p13_b19\",\n      \"translation\": \"has been key to our strong performance.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "b4cd22ea-1e25-41c0-8dde-519b40edb659",
+    "conversation_id": "b4cd22ea-1e25-41c0-8dde-519b40edb659",
+    "id": "b4cd22ea-1e25-41c0-8dde-519b40edb659",
+    "model": "claude-opus-4-6",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 230,
+      "output_tokens": 45
+    }
+  }
+}

@@ -1,0 +1,62 @@
+文档场景：上市保险公司企业年报。
+先满足 fact_locks，再保证术语稳定、语义完整和年报文风。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 5,
+    "page_sections": [],
+    "term_usage_mode": "table",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "保障，讓他們冒著生命危險執行抗疫工作時能減輕一份",
+      "next_group_source_excerpt": "提供必不可少的的財務支援。儘管疫情大流行的影響依"
+    }
+  },
+  "mapping_hits": [],
+  "fact_locks": [
+    {
+      "label": "usd_amount_10",
+      "fact_type": "usd_scaled_amount",
+      "source_value": "10億美元",
+      "expected_forms": [
+        "US$1 billion",
+        "US$1000 million",
+        "US$1,000 million"
+      ]
+    },
+    {
+      "label": "usd_amount_160",
+      "fact_type": "usd_scaled_amount",
+      "source_value": "160億美元",
+      "expected_forms": [
+        "US$16 billion",
+        "US$16000 million",
+        "US$16,000 million"
+      ]
+    }
+  ],
+  "current_group": {
+    "group_id": "p5_g01",
+    "lane": "body",
+    "group_text": "憂慮。我們為超過2,500萬份保單提供免費的2019冠狀病毒\n病相關保障覆蓋，並於12個市場提供10億美元的保費支\n援。年內，我們已支付逾160億美元的保險給付和理賠，",
+    "source_block_ids": [
+      "p5_b6",
+      "p5_b7",
+      "p5_b8"
+    ],
+    "source_block_count": 3
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p5_g01",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

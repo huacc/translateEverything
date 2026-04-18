@@ -1,0 +1,19 @@
+任务
+- unit_id：p2_b22
+- 输入单元：短标签 / 小标题
+
+原文
+070 董事會
+
+当前译文
+070 Board of Directors
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p2_b22",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

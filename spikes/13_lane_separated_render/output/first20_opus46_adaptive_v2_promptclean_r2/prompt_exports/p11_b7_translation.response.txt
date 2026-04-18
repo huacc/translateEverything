@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p11_b7",
+      "translation": "management framework, are the foundation for the sustainable development of every institution."
+    }
+  ]
+}
+```

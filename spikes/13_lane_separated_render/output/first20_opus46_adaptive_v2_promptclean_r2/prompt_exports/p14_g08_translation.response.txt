@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p14_g08",
+      "translation": "Although face-to-face meetings were restricted during the pandemic, resulting in a 28% decline in VONB, VONB rebounded strongly in the second half of the year as restrictions eased and businesses adopted new digital tools. The positive sales momentum continued into 2021, with the agency business in the first two"
+    }
+  ]
+}
+```

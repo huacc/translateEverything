@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p5_b1",
+      "translation": "AIA's purpose is to help people live Healthier, Longer, Better Lives."
+    }
+  ]
+}
+```

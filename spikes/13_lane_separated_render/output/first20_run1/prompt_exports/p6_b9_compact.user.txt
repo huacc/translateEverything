@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p6_b9",
+    "lane": "caption_label",
+    "source_text": "泛亞地區獨立上市人壽保險集團，業務",
+    "current_translation": "Pan-Asia independent listed life insurance group, operations"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p6_b9",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+任务
+- unit_id：p10_b8
+- 输入单元：短标签 / 小标题
+
+原文
+謝仕榮先生
+獨立非執行主席
+
+当前译文
+Mr. Edmund Sze-Wing Tse Independent Non-executive Chairman
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p10_b8",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

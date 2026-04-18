@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p10_b7",
+      "translation": "We take great pride in this."
+    }
+  ]
+}
+```

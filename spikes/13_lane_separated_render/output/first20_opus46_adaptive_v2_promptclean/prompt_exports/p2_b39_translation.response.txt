@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p2_b39",
+      "translation": "individual policyholders and over 16 million group"
+    }
+  ]
+}
+```

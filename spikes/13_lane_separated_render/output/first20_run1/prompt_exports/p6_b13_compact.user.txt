@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p6_b13",
+    "lane": "caption_label",
+    "source_text": "保單的持有人及逾1,600萬名團體保險",
+    "current_translation": "Policyholders and over 16 million members of group insurance schemes"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p6_b13",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

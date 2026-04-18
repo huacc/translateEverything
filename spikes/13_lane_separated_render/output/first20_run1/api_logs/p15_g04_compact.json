@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "compact",
+    "page_no": 15,
+    "group_id": "p15_g04"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是年报英文压缩器，不是重译器。\n语言方向：Traditional Chinese -> English。\n你的任务只是对已有译文做最小必要压缩，以便回填原版面。\n禁止改变数字、单位、术语、专名、比较关系、主体和结论。\n标题不能改成正文，表头不能改成句子，不能输出口语化表达。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市公司企业年报\n{\n  \"document_background\": {\n    \"page_sections\": [\n      {\n        \"source_section\": \"集團首席執行官兼總裁報告\",\n        \"target_section\": \"Group Chief Executive and President's Report\",\n        \"content_type\": \"ceo_report\",\n        \"page_range\": [\n          12,\n          16\n        ]\n      }\n    ],\n    \"roles\": [\n      {\n        \"source\": \"李源祥\",\n        \"target\": \"Lee Yuen Cheung\",\n        \"role\": \"Group Chief Executive and President\"\n      }\n    ],\n    \"terms\": [],\n    \"style_rules\": [\n      \"Use US$ for U.S. dollar amounts.\",\n      \"Keep listed-company annual report disclosure tone formal and publishable.\",\n      \"Do not change numbers, percentages, years, named entities or financial metric values.\",\n      \"For overview narrative, use full financial metric name plus abbreviation when provided.\",\n      \"For financial review and business metrics narrative, use established abbreviations when provided.\",\n      \"Prefer AIA China / AIA Hong Kong / AIA Macau over loose paraphrases when matched.\"\n    ]\n  },\n  \"current_unit\": {\n    \"page_no\": 15,\n    \"unit_id\": \"p15_g04\",\n    \"unit_mode\": \"semantic_group\",\n    \"slot_count\": 2,\n    \"source_text\": \"「未來的組織」(Organisation of the Future)策略的核心組成部分，包括強化和簡化組織結構、引進靈活的工作方\\n式，以及提升能力框架。這些策略性優先任務將支持員工發展事業，進一步提升友邦保險作為首選僱主的地位。\",\n    \"current_translation\": \"Core components of the 'Organisation of the Future' strategy include strengthening and streamlining the organisational structure, introducing flexible working arrangements, and enhancing the capability framework. These strategic priorities will support employee career development and further strengthen AIA's position as an employer of choice.\"\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p15_g04\",\n        \"translation\": \"<更紧凑译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p15_g04\",\n      \"translation\": \"Core components of the 'Organisation of the Future' strategy include strengthening and streamlining organisational structure, introducing flexible working arrangements, and enhancing the capability framework. These strategic priorities support employee career development and strengthen AIA's position as an employer of choice.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "f6fe0a64-4005-4e26-b339-9b7810a6efbe",
+    "conversation_id": "f6fe0a64-4005-4e26-b339-9b7810a6efbe",
+    "id": "f6fe0a64-4005-4e26-b339-9b7810a6efbe",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 696,
+      "output_tokens": 88
+    }
+  }
+}

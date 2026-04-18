@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p5_b9",
+      "translation": "providing essential financial support. Although the impact of the pandemic"
+    }
+  ]
+}
+```

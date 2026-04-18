@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p9_b16",
+    "lane": "caption_label",
+    "source_text": "稅後營運溢利(4)",
+    "current_translation": "Operating Profit After Tax(4)"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p9_b16",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

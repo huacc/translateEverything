@@ -1,0 +1,19 @@
+任务
+- unit_id：p6_b17
+- 输入单元：短标签 / 小标题
+
+原文
+相信無論是現在或未來，最重要和最
+
+当前译文
+We believe that both now and in the future, the most important and most
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p6_b17",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

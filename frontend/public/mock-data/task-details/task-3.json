@@ -1,0 +1,57 @@
+{
+  "id": 3,
+  "source_file_name": "合同协议.pdf",
+  "source_file_path": "/uploads/contract.pdf",
+  "target_file_path": null,
+  "source_lang": "en",
+  "target_lang": "zh",
+  "source_format": "pdf",
+  "session_id": "session_20260416_090000",
+  "task_run_id": "run_20260416_090100",
+  "current_prompt_bundle_id": 3,
+  "status": "failed",
+  "stage": "failed",
+  "page_count": 8,
+  "total_segments": 50,
+  "completed_segments": 20,
+  "failed_segments": 5,
+  "progress_percent": 40.0,
+  "document_summary": {
+    "title": "合同协议",
+    "page_count": 8,
+    "word_count": 2000,
+    "estimated_time": 600,
+    "file_size": 1024000
+  },
+  "translation_notes": [
+    {
+      "page": 4,
+      "note": "法律条款翻译遇到困难"
+    }
+  ],
+  "task_prompt_text": "请将此合同协议从英文翻译为中文，确保法律术语准确。",
+  "options": {
+    "enable_quality_check": true,
+    "translation_style": "formal",
+    "glossary_id": 2,
+    "preserve_formatting": true,
+    "enable_context_learning": false
+  },
+  "quality_issue_counts": {
+    "critical": 5,
+    "warning": 0,
+    "info": 0
+  },
+  "critical_issue_count": 5,
+  "warning_issue_count": 0,
+  "info_issue_count": 0,
+  "export_blocked": true,
+  "export_status": "blocked",
+  "artifact_available": false,
+  "error_message": "Translation service timeout after 3 retries",
+  "created_at": "2026-04-16T09:00:00Z",
+  "updated_at": "2026-04-16T09:15:00Z",
+  "started_at": "2026-04-16T09:01:00Z",
+  "completed_at": null,
+  "estimated_completion_at": null
+}

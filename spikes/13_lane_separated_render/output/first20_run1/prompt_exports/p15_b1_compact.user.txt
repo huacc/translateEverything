@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p15_b1",
+    "lane": "caption_label",
+    "source_text": "以人為本",
+    "current_translation": "People-Centric"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p15_b1",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

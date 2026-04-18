@@ -1,0 +1,41 @@
+文档场景：上市公司企业年报
+{
+  "document_background": {
+    "page_sections": [
+      {
+        "source_section": "友邦保險一覽",
+        "target_section": "AIA At-A-Glance",
+        "content_type": "company_overview",
+        "page_range": [
+          3
+        ]
+      }
+    ],
+    "roles": [],
+    "terms": [],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "Use established financial abbreviations for table labels when provided.",
+      "Keep row and column semantics unchanged.",
+      "Use n/m for 無意義."
+    ]
+  },
+  "current_unit": {
+    "page_no": 3,
+    "unit_id": "p3_b8",
+    "unit_mode": "single_block",
+    "slot_count": 6,
+    "source_text": "為超過\n3,800萬份\n個人保單的持有人及逾\n1,600萬名\n團體保險計劃的參與\n成員提供服務",
+    "current_translation": "Serving over 38 million individual policyholders and more than 16 million group insurance plan participants"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p3_b8",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

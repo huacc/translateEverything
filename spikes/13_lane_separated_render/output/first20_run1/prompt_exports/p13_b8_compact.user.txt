@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p13_b8",
+    "lane": "caption_label",
+    "source_text": "給付及理賠，為客戶提供極其重要的財務保障。",
+    "current_translation": "Benefits and claims, providing customers with essential financial protection."
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p13_b8",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

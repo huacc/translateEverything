@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "stage": "compact",
+    "page_no": 14,
+    "group_id": "p14_b25"
+  },
+  "request": {
+    "model": "claude-opus-4-6",
+    "max_tokens": 4096,
+    "system": "你是上市公司年报正文译文压缩助手。\n语言方向：Traditional Chinese -> English。\n只做最小必要压缩，不改变事实、数字、术语和句间逻辑。\n不要承担排版、分块、回填职责。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "任务\n- unit_id：p14_b25\n- 输入单元：正文语义组（group）\n\n压缩要求\n- 只删除冗余表达，不改变事实和数字。\n- 保持年报文风正式稳定。\n- 不要跨组补写，也不要为了版面改义。\n\n原文\n代理渠道方面，我們轉移使用線上招聘和入職培訓的趨勢，支持新入職代理及代理主管人數錄得雙位數字增長。\n\n当前译文\nIn the agency channel, our shift to online recruitment and onboarding supported double-digit growth in the number of newly recruited agents and agency leaders.\n\n输出格式\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p14_b25\",\n      \"translation\": \"<更紧凑译文>\"\n    }\n  ]\n}"
+      }
+    ],
+    "thinking": {
+      "type": "adaptive"
+    },
+    "output_config": {
+      "effort": "max"
+    }
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p14_b25\",\n      \"translation\": \"In the agency channel, our shift to online recruitment and onboarding drove double-digit growth in newly recruited agents and agency leaders.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "d16c7c22-132e-4d18-beae-e4018bf3e9e0",
+    "conversation_id": "d16c7c22-132e-4d18-beae-e4018bf3e9e0",
+    "id": "d16c7c22-132e-4d18-beae-e4018bf3e9e0",
+    "model": "claude-opus-4-6",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 349,
+      "output_tokens": 63
+    }
+  }
+}

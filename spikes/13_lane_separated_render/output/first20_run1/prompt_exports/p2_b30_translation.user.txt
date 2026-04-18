@@ -1,0 +1,60 @@
+文档场景：上市保险公司企业年报。
+当前输入属于短标签通道。优先使用标准年报表达。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 2,
+    "page_sections": [
+      {
+        "source_section": "目錄",
+        "target_section": "Contents",
+        "content_type": "navigation",
+        "page_range": [
+          2
+        ]
+      }
+    ],
+    "term_usage_mode": "heading",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "083 董事會報告",
+      "next_group_source_excerpt": "提供僱員福利、信貸保險和退休保障"
+    }
+  },
+  "mapping_hits": [
+    {
+      "source": "新加坡",
+      "target": "Singapore",
+      "hit_type": "glossary_term"
+    },
+    {
+      "source": "泰國",
+      "target": "Thailand",
+      "hit_type": "glossary_term"
+    },
+    {
+      "source": "馬來西亞",
+      "target": "Malaysia",
+      "hit_type": "glossary_term"
+    }
+  ],
+  "fact_locks": [],
+  "current_unit": {
+    "unit_id": "p2_b30",
+    "lane": "caption_label",
+    "source_text": "特別行政區、泰國、新加坡、馬來西亞、"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p2_b30",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "stage": "compact",
+    "page_no": 7,
+    "group_id": "p7_b6"
+  },
+  "request": {
+    "model": "claude-opus-4-6",
+    "max_tokens": 4096,
+    "system": "你是上市公司年报短标签压缩助手。\n语言方向：Traditional Chinese -> English。\n只做最小必要压缩，不改变核心语义，不扩写。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "任务\n- unit_id：p7_b6\n- 输入单元：短标签 / 小标题\n\n原文\n社會的學生、以及那些需要經濟資助以\n\n当前译文\nstudents in society and those requiring financial assistance to\n\n输出格式\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p7_b6\",\n      \"translation\": \"<更紧凑译文>\"\n    }\n  ]\n}"
+      }
+    ],
+    "thinking": {
+      "type": "adaptive"
+    },
+    "output_config": {
+      "effort": "max"
+    }
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p7_b6\",\n      \"translation\": \"students and those needing financial aid to\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "23360a17-b235-4632-9076-c7c471439a8a",
+    "conversation_id": "23360a17-b235-4632-9076-c7c471439a8a",
+    "id": "23360a17-b235-4632-9076-c7c471439a8a",
+    "model": "claude-opus-4-6",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 198,
+      "output_tokens": 45
+    }
+  }
+}

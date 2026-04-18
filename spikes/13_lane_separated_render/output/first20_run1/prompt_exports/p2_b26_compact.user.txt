@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p2_b26",
+    "lane": "caption_label",
+    "source_text": "以滿足個人客戶在長期儲蓄及保障方面",
+    "current_translation": "to meet individual customers' long-term savings and protection needs"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p2_b26",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

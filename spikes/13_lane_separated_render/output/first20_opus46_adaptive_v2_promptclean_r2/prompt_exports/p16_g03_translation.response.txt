@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p16_g03",
+      "translation": "While the impact of the pandemic is not yet over, we remain cautiously optimistic that 2021 will be a transitional year. Markets are encouraged by the rollout of vaccination programmes and new therapies that are expected to help reduce infection rates and severity, enabling healthcare systems to respond more effectively to the pandemic and lower mortality rates. Although we do not expect travel or consumer behaviour to return to pre-pandemic levels in the near term, as consumer confidence recovers, we expect the scope of recovery to gradually expand from manufacturing-led industries to consumption and services sectors. This will be particularly evident in countries with younger populations."
+    }
+  ]
+}
+```

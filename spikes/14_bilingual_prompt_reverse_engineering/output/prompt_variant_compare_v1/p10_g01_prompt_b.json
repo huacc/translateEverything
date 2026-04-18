@@ -1,0 +1,44 @@
+{
+  "sample_id": "p10_g01",
+  "page_no": 10,
+  "section": "Chairman's Statement",
+  "variant": "prompt_b",
+  "source_text": "友邦保險在亞洲歷史悠久，源遠流長，經歷各種社會動盪和不明朗時期仍能妥善管理業務，因而贏得卓著的\n聲譽，體現友邦保險誠可信賴、強韌穩健，並堅持為持分者做對的事。自2020年初以來，2019冠狀病毒病大流\n行導致營商環境不斷變化及日趨複雜，而政治、宏觀經濟及資本市場亦出現前所未見的轉移。在這樣的環境下，\n友邦保險的財務實力，以及「幫助大眾活出健康、長久、好生活」的目標，更具重大意義。本人衷心感謝友邦\n保險所有員工、代理和合作夥伴，即使面對最嚴峻的挑戰，他們仍關懷社區，克盡己職，專心致志地為客戶、",
+  "human_reference": "Throughout AIA’s long history in the region we have managed our businesses through many periods of change and uncertainty, earning our company a reputation which is synonymous with trust, resilience and doing the right thing for our stakeholders. From early 2020, the COVID-19 pandemic presented an ever-changing and complex operating environment and we witnessed unprecedented shifts in politics, macroeconomics and capital markets. AIA’s financial strength and Purpose of “helping people live Healthier, Longer, Better Lives” has never been more relevant. I am immensely grateful to all of our employees, agents and partners for their care and dedication, remaining steadfast in supporting our customers, their families, and our communities, through this most challenging time.",
+  "translation": "AIA has built a distinguished reputation across Asia through its long-standing history and proven ability to navigate periods of social disruption and uncertainty, demonstrating that AIA is trustworthy, resilient, and committed to doing the right thing for its stakeholders. Since early 2020, the COVID-19 pandemic has resulted in a constantly evolving and increasingly complex operating environment, accompanied by unprecedented shifts in the political, macroeconomic and capital markets landscape. Against this backdrop, AIA's financial strength and purpose of helping people live Healthier, Longer, Better Lives have taken on even greater significance. I am deeply grateful to all of AIA's employees, agents and partners who, even in the face of the most severe challenges, have remained dedicated to serving our customers and communities with care and commitment.",
+  "sequence_ratio": 0.1106,
+  "token_f1": 0.55,
+  "request": {
+    "model": "claude-opus-4-6",
+    "max_tokens": 1800,
+    "system": "# Role: 全球顶级金融与保险行业专业翻译官\n\n## 1. 专家背景\n你是一位拥有 20 年行业经验的资深金融翻译专家，曾供职于四大跨国会计师事务所或国际顶级咨询公司。你不仅精通中英双语，更深刻理解《国际财务报告准则》(IFRS)、精算科学、以及全球保险市场的运作逻辑。\n\n## 2. 翻译原则\n请在翻译时严格遵循以下原则：\n- 术语优先：必须识别并使用行业公认术语，如 Value of New Business、Embedded Value、Operating Profit After Tax。\n- 句式重构：可在不增删事实的前提下，将中文长句重组为符合英文年报写作习惯的正式句式。\n- 语气庄重：保持上市企业年报的严谨、客观、专业感。\n- 逻辑对齐：若原文存在因果、转折、并列关系，应以地道英文年报表达清晰呈现。\n\n## 3. 实体处理协议\n- 人名、机构名、委员会名称如有国际资本市场通用或官方写法，应优先采用正式英文写法。\n- 专业缩写仅在自然且必要时使用，不得影响正式年报风格。\n\n## 4. 执行要求\n- 忠实原文，不增加、不删减、不解释。\n- 数字、百分比、货币单位、年份必须准确。\n- 只输出最终英文译文，不输出术语清单、分析过程、自检过程或任何额外说明。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "现在，请以最高专业水准，直接翻译以下中文段落：\n\n友邦保險在亞洲歷史悠久，源遠流長，經歷各種社會動盪和不明朗時期仍能妥善管理業務，因而贏得卓著的\n聲譽，體現友邦保險誠可信賴、強韌穩健，並堅持為持分者做對的事。自2020年初以來，2019冠狀病毒病大流\n行導致營商環境不斷變化及日趨複雜，而政治、宏觀經濟及資本市場亦出現前所未見的轉移。在這樣的環境下，\n友邦保險的財務實力，以及「幫助大眾活出健康、長久、好生活」的目標，更具重大意義。本人衷心感謝友邦\n保險所有員工、代理和合作夥伴，即使面對最嚴峻的挑戰，他們仍關懷社區，克盡己職，專心致志地為客戶、"
+      }
+    ],
+    "temperature": 0
+  },
+  "response": {
+    "content": [
+      {
+        "text": "AIA has built a distinguished reputation across Asia through its long-standing history and proven ability to navigate periods of social disruption and uncertainty, demonstrating that AIA is trustworthy, resilient, and committed to doing the right thing for its stakeholders. Since early 2020, the COVID-19 pandemic has resulted in a constantly evolving and increasingly complex operating environment, accompanied by unprecedented shifts in the political, macroeconomic and capital markets landscape. Against this backdrop, AIA's financial strength and purpose of helping people live Healthier, Longer, Better Lives have taken on even greater significance. I am deeply grateful to all of AIA's employees, agents and partners who, even in the face of the most severe challenges, have remained dedicated to serving our customers and communities with care and commitment.",
+        "type": "text"
+      }
+    ],
+    "conversationId": "22ced62e-9963-457e-ba2c-40764bcaaaca",
+    "conversation_id": "22ced62e-9963-457e-ba2c-40764bcaaaca",
+    "id": "22ced62e-9963-457e-ba2c-40764bcaaaca",
+    "model": "claude-opus-4-6",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 901,
+      "output_tokens": 155
+    }
+  }
+}

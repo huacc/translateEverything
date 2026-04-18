@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p13_g02",
+      "translation": "Since the pandemic onset, our business teams responded swiftly and actively assisted in mitigating community impact while ensuring employee safety. The Group implemented a wide range of measures including financial support, medical supplies provision, complimentary coverage, healthcare resource access, streamlined service processes and accelerated claims payments. We identified every possible reason to make claim payments, paying out over US$16 billion in insurance"
+    }
+  ]
+}
+```

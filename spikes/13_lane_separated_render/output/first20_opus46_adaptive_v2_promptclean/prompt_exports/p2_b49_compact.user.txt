@@ -1,0 +1,19 @@
+任务
+- unit_id：p2_b49
+- 输入单元：短标签 / 小标题
+
+原文
+交易所有限公司主板上市（股份代號為
+
+当前译文
+Listed on the Main Board of The Stock Exchange of Hong Kong Limited (Stock Code:
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p2_b49",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

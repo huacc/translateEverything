@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 11,
+    "group_id": "p11_g02"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是上市保险公司年报翻译器。\n语言方向：Traditional Chinese -> English。\n只处理当前 body semantic group。\n只可在当前组内恢复跨块断句，不得跨组补写、跨组删写或改写事实。\n必须严格满足 mapping_hits 与 fact_locks。\n版面回填、字体压缩、分块分配不是你的职责，不要为了适配版面而删词改义。\n保持正式、稳定、可出版的企业年报文风。\n只输出 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市保险公司企业年报。\n先满足 fact_locks，再保证术语稳定、语义完整和年报文风。\n{\n  \"task\": {\n    \"scenario\": \"listed_company_annual_report\",\n    \"industry\": \"Life Insurance\",\n    \"report_type\": \"annual_report\",\n    \"company_name_target\": \"AIA GROUP LIMITED\",\n    \"direction\": \"Traditional Chinese -> English\"\n  },\n  \"page_context\": {\n    \"page_no\": 11,\n    \"page_sections\": [\n      {\n        \"source_section\": \"主席報告\",\n        \"target_section\": \"Chairman's Statement\",\n        \"content_type\": \"chairman_statement\",\n        \"page_range\": [\n          10,\n          11\n        ]\n      }\n    ],\n    \"term_usage_mode\": \"overview_narrative\",\n    \"neighbor_context\": {\n      \"previous_group_source_excerpt\": \"在2020年第四季，我們慶祝友邦保險在香港聯交所上市10週年。回顧當年友邦保險的上市刷新多項紀錄，至今\\n仍是全球保險業界規模最大的首次公開招股。能夠與董事會成員並肩合作，本人深感榮幸和欣慰。友邦保險的\\n業務在此期間繼往開來，不斷擴展，...\",\n      \"next_group_source_excerpt\": \"管理架構，是每家機構可持續發展的基礎。\"\n    }\n  },\n  \"mapping_hits\": [],\n  \"fact_locks\": [],\n  \"current_group\": {\n    \"group_id\": \"p11_g02\",\n    \"lane\": \"body\",\n    \"group_text\": \"董事會的所有非執行董事均由獨立人士出任，他們在公營和私營產業擁有廣泛的管治和領導經驗。我們同心\\n協力，銳意維持奉行最高國際企業管治標準的公司文化。我們深信根深蒂固的企業管治文化，加上穩健的風險\",\n    \"source_block_ids\": [\n      \"p11_b5\",\n      \"p11_b6\"\n    ],\n    \"source_block_count\": 2\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p11_g02\",\n        \"translation\": \"<译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p11_g02\",\n      \"translation\": \"All non-executive Directors of the Board are independent individuals with extensive governance and leadership experience in both public and private sectors. We work in unison to maintain a corporate culture that adheres to the highest international corporate governance standards. We firmly believe that a deeply rooted corporate governance culture, combined with sound risk\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "6d8333ce-c96b-4310-96d0-c8b9c6489b2d",
+    "conversation_id": "6d8333ce-c96b-4310-96d0-c8b9c6489b2d",
+    "id": "6d8333ce-c96b-4310-96d0-c8b9c6489b2d",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 877,
+      "output_tokens": 99
+    }
+  }
+}

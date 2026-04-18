@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p2_b35",
+    "lane": "caption_label",
+    "source_text": "110 薪酬報告",
+    "current_translation": "110 Remuneration Report"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p2_b35",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "compact",
+    "page_no": 11,
+    "group_id": "p11_g04"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是年报英文压缩器，不是重译器。\n语言方向：Traditional Chinese -> English。\n你的任务只是对已有译文做最小必要压缩，以便回填原版面。\n禁止改变数字、单位、术语、专名、比较关系、主体和结论。\n标题不能改成正文，表头不能改成句子，不能输出口语化表达。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市公司企业年报\n{\n  \"document_background\": {\n    \"page_sections\": [\n      {\n        \"source_section\": \"主席報告\",\n        \"target_section\": \"Chairman's Statement\",\n        \"content_type\": \"chairman_statement\",\n        \"page_range\": [\n          10,\n          11\n        ]\n      }\n    ],\n    \"roles\": [\n      {\n        \"source\": \"謝仕榮先生\",\n        \"target\": \"Mr. Tse Sze-wing\",\n        \"role\": \"Independent Non-Executive Chairman\"\n      }\n    ],\n    \"terms\": [],\n    \"style_rules\": [\n      \"Use US$ for U.S. dollar amounts.\",\n      \"Keep listed-company annual report disclosure tone formal and publishable.\",\n      \"Do not change numbers, percentages, years, named entities or financial metric values.\",\n      \"Use established financial abbreviations for table labels when provided.\",\n      \"Keep row and column semantics unchanged.\",\n      \"Use n/m for 無意義.\"\n    ]\n  },\n  \"current_unit\": {\n    \"page_no\": 11,\n    \"unit_id\": \"p11_g04\",\n    \"unit_mode\": \"semantic_group\",\n    \"slot_count\": 5,\n    \"source_text\": \"環境、社會及管治議題對全球的影響日形重要。我們當竭盡所能，協助推動社會邁向更美好的未來，而我們的環\\n境、社會及管治措施在2020年再度備受肯定。根據評級機構Sustainalytics的評選，友邦保險在超過270家保險公\\n司中排名第二，足證我們卓越的企業管治實力和質素。此外，我們繼續榮獲Institutional Shareholder Services\\nInc.(ISS)頒發「Prime」環境、社會及管治企業評級(ESG Corporate Rating)，認同我們為業界可持續發展表現\\n最佳的公司之一。我們相信我們在這方面仍需採取更多措施，為社區實現更美好的成果。這仍是我個人與董事會\",\n    \"current_translation\": \"Environmental, Social and Governance issues are becoming increasingly important to the world. We will do our utmost to help drive society towards a better future, and our Environmental, Social and Governance initiatives were once again recognized in 2020. According to the selection by rating agency Sustainalytics, AIA ranked second among over 270 insurance companies, demonstrating our excellent corporate governance strength and quality. In addition, we continued to receive the \\\"Prime\\\" Environmental, Social and Governance Corporate Rating (ESG Corporate Rating) from Institutional Shareholder Services Inc. (ISS), recognizing us as one of the best-performing companies in the industry for sustainable development. We believe we still need to take more measures in this regard to achieve better outcomes for the community. This remains a personal priority for me and the Board.\"\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p11_g04\",\n        \"translation\": \"<更紧凑译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p11_g04\",\n      \"translation\": \"Environmental, Social and Governance issues are increasingly important globally. We are committed to driving society towards a better future, and our ESG initiatives were recognized again in 2020. According to Sustainalytics, AIA ranked second among over 270 insurance companies, demonstrating our excellent corporate governance. Additionally, we continued to receive the \\\"Prime\\\" ESG Corporate Rating from Institutional Shareholder Services Inc. (ISS), recognizing us as one of the industry's best-performing companies for sustainable development. We believe further measures are needed to achieve better outcomes for the community. This remains a priority for me and the Board.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "45515662-21a9-4649-b256-76808f845e2a",
+    "conversation_id": "45515662-21a9-4649-b256-76808f845e2a",
+    "id": "45515662-21a9-4649-b256-76808f845e2a",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 962,
+      "output_tokens": 160
+    }
+  }
+}

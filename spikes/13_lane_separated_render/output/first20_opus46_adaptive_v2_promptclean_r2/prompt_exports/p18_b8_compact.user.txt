@@ -1,0 +1,19 @@
+任务
+- unit_id：p18_b8
+- 输入单元：短标签 / 小标题
+
+原文
+按固定匯率基準提供增長率及作出評述。
+
+当前译文
+Growth rates and commentary provided on a constant exchange rate basis.
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p18_b8",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

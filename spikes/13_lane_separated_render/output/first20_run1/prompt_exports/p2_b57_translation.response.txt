@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p2_b57",
+      "translation": "excluding) leading the industry and maintaining a strong position in most markets"
+    }
+  ]
+}
+```

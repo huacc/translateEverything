@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p14_g09",
+      "translation": "Travel restrictions on Mainland Chinese visitors to Hong Kong impacted our retail independent financial adviser business, causing a 41% decline in VONB for our partner business in 2020. Bancassurance delivered more resilient performance, contributing the majority of VONB for this channel. Our bancassurance partnerships with Bank Central Asia (BCA) in Indonesia, Bangkok Bank Public Company Limited in Thailand, and Public Bank Berhad in Malaysia all recorded positive VONB growth in 2020."
+    }
+  ]
+}
+```

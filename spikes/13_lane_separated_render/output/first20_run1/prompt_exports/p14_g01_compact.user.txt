@@ -1,0 +1,48 @@
+文档场景：上市公司企业年报
+{
+  "document_background": {
+    "page_sections": [
+      {
+        "source_section": "集團首席執行官兼總裁報告",
+        "target_section": "Group Chief Executive and President's Report",
+        "content_type": "ceo_report",
+        "page_range": [
+          12,
+          16
+        ]
+      }
+    ],
+    "roles": [
+      {
+        "source": "李源祥",
+        "target": "Lee Yuen Cheung",
+        "role": "Group Chief Executive and President"
+      }
+    ],
+    "terms": [],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "Use established financial abbreviations for table labels when provided.",
+      "Keep row and column semantics unchanged.",
+      "Use n/m for 無意義."
+    ]
+  },
+  "current_unit": {
+    "page_no": 14,
+    "unit_id": "p14_g01",
+    "unit_mode": "semantic_group",
+    "slot_count": 3,
+    "source_text": "友邦保險中國業務在2020年為本集團新業務價值帶來最大貢獻，並在2021年初表現卓越，與2020年同期比較，\n今年首兩個月錄得非常強勁的新業務價值增長。儘管2020年的9.68億美元新業務價值較2019年下降17%，但這主\n要由於2019冠狀病毒病在首季爆發初期新銷售有限所致。年內稅後營運溢利增長14%，主要是由於我們日益增長",
+    "current_translation": "AIA China delivered the largest contribution to the Group's VONB in 2020 and performed exceptionally in early 2021, recording very strong VONB growth in the first two months of this year compared with the same period in 2020. Although VONB of US$968 million in 2020 decreased by 17% compared with 2019, this was primarily due to limited new sales in the early stages of the COVID-19 outbreak in the first quarter. OPAT growth of 14% during the year was mainly attributable to our increasingly growing"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p14_g01",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

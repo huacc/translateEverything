@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 11,
+    "group_id": "p11_b17"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是上市保险公司年报中的标签翻译器。\n语言方向：Traditional Chinese -> English。\n只处理当前 caption/label unit。\n保持短、稳、正式，不自由改写。\n只输出 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市保险公司企业年报。\n当前输入属于短标签通道。优先使用标准年报表达。\n{\n  \"task\": {\n    \"scenario\": \"listed_company_annual_report\",\n    \"industry\": \"Life Insurance\",\n    \"report_type\": \"annual_report\",\n    \"company_name_target\": \"AIA GROUP LIMITED\",\n    \"direction\": \"Traditional Chinese -> English\"\n  },\n  \"page_context\": {\n    \"page_no\": 11,\n    \"page_sections\": [\n      {\n        \"source_section\": \"主席報告\",\n        \"target_section\": \"Chairman's Statement\",\n        \"content_type\": \"chairman_statement\",\n        \"page_range\": [\n          10,\n          11\n        ]\n      }\n    ],\n    \"term_usage_mode\": \"heading\",\n    \"neighbor_context\": {\n      \"previous_group_source_excerpt\": \"環境、社會及管治議題對全球的影響日形重要。我們當竭盡所能，協助推動社會邁向更美好的未來，而我們的環\\n境、社會及管治措施在2020年再度備受肯定。根據評級機構Sustainalytics的評選，友邦保險在超過270家保險公\\n司中排名第二...\",\n      \"next_group_source_excerpt\": \"今天，客戶對友邦保險產品、服務及高質素建議日益增長的需求從未如此殷切。我們的策略建基於亞洲強勁的\\n結構性增長動力，並獲多項因素支持，包括前所未見的財富創造、保障缺口迅速擴大、消費者取向持續轉變、\\n數碼技術普及，以及市場聚焦於長遠的可持...\"\n    }\n  },\n  \"mapping_hits\": [],\n  \"fact_locks\": [],\n  \"current_unit\": {\n    \"unit_id\": \"p11_b17\",\n    \"lane\": \"caption_label\",\n    \"source_text\": \"成員、高級管理層團隊以及全體員工共同秉持的優先指標。\"\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p11_b17\",\n        \"translation\": \"<译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p11_b17\",\n      \"translation\": \"A key priority shared by our Board, senior management team and all employees.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "d98a5a6d-a529-4301-8e33-c1e2fa0391d5",
+    "conversation_id": "d98a5a6d-a529-4301-8e33-c1e2fa0391d5",
+    "id": "d98a5a6d-a529-4301-8e33-c1e2fa0391d5",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 751,
+      "output_tokens": 52
+    }
+  }
+}

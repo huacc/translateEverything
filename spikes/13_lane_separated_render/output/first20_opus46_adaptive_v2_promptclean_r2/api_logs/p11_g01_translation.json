@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 11,
+    "group_id": "p11_g01"
+  },
+  "request": {
+    "model": "claude-opus-4-6",
+    "max_tokens": 4096,
+    "system": "你是上市公司年报正文翻译助手。\n语言方向：Traditional Chinese -> English。\n只负责翻译当前正文语义组，不负责排版、回填、压缩、分块。\n允许在当前 group 内恢复断句和语义连接，但禁止跨 group 补写、删写或改写事实。\n必须遵守术语锁定和事实锁定。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "任务\n- 语言方向：Traditional Chinese -> English\n- 文档场景：上市公司企业年报\n- 公司：AIA GROUP LIMITED\n- 行业：Life Insurance\n- 报告类型：annual_report\n- 当前页面：11\n- 当前输入单元：正文语义组（group）\n\n翻译要求\n- 只翻译当前正文组，不要承担排版、压缩、分块、回填职责。\n- 可以在当前 group 内恢复断句和段落语义，但不得跨 group 补写或删写。\n- 保持上市公司年报文风：正式、稳定、可出版。\n- 数字、百分比、货币、年份、专有名词必须准确。\n- 如术语锁定与原有表达冲突，优先遵守术语锁定和事实锁定。\n\n页面上下文\n- 当前章节：Chairman's Statement，类型：chairman_statement（页码 10-11）\n- 术语使用模式：table\n- 下一组摘要：董事會的所有非執行董事均由獨立人士出任，他們在公營和私營產業擁有廣泛的管治和領導經驗。我們同心\n協力，銳意維持奉行最高國際企業管治標準的公司文化。我們深信根深蒂固的企業管治文化，加上穩健的風險\n\n文体与偏好\n- Use US$ for U.S. dollar amounts.\n- Keep listed-company annual report disclosure tone formal and publishable.\n- Do not change numbers, percentages, years, named entities or financial metric values.\n- Use established financial abbreviations for table labels when provided.\n- Keep row and column semantics unchanged.\n\n术语锁定\n- 友邦保險 => AIA [glossary_term]\n\n当前正文组\n- group_id：p11_g01\n- group_bbox：[68.03, 94.7, 524.09, 138.65]\n- 原文：\n在2020年第四季，我們慶祝友邦保險在香港聯交所上市10週年。回顧當年友邦保險的上市刷新多項紀錄，至今\n仍是全球保險業界規模最大的首次公開招股。能夠與董事會成員並肩合作，本人深感榮幸和欣慰。友邦保險的\n業務在此期間繼往開來，不斷擴展，成為以市值計全球最大的人壽保險公司。\n\n输出格式\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p11_g01\",\n      \"translation\": \"<译文>\"\n    }\n  ]\n}"
+      }
+    ],
+    "thinking": {
+      "type": "adaptive"
+    },
+    "output_config": {
+      "effort": "max"
+    }
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p11_g01\",\n      \"translation\": \"In the fourth quarter of 2020, we celebrated the 10th anniversary of AIA's listing on the Hong Kong Stock Exchange. Looking back, AIA's listing set multiple records and remains the largest initial public offering in the global insurance industry to date. It has been my privilege and pleasure to work alongside the members of the Board. During this period, AIA's business has continued to grow and expand, becoming the largest life insurance company in the world by market capitalisation.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "05b2c219-3f3c-455a-9a60-ac3227a0b971",
+    "conversation_id": "05b2c219-3f3c-455a-9a60-ac3227a0b971",
+    "id": "05b2c219-3f3c-455a-9a60-ac3227a0b971",
+    "model": "claude-opus-4-6",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 942,
+      "output_tokens": 132
+    }
+  }
+}

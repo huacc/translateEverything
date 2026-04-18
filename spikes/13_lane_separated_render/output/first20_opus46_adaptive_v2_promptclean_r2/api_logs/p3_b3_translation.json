@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 3,
+    "group_id": "p3_b3"
+  },
+  "request": {
+    "model": "claude-opus-4-6",
+    "max_tokens": 4096,
+    "system": "你是上市公司年报正文翻译助手。\n语言方向：Traditional Chinese -> English。\n只负责翻译当前正文语义组，不负责排版、回填、压缩、分块。\n允许在当前 group 内恢复断句和语义连接，但禁止跨 group 补写、删写或改写事实。\n必须遵守术语锁定和事实锁定。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "任务\n- 语言方向：Traditional Chinese -> English\n- 文档场景：上市公司企业年报\n- 公司：AIA GROUP LIMITED\n- 行业：Life Insurance\n- 报告类型：annual_report\n- 当前页面：3\n- 当前输入单元：正文语义组（group）\n\n翻译要求\n- 只翻译当前正文组，不要承担排版、压缩、分块、回填职责。\n- 可以在当前 group 内恢复断句和段落语义，但不得跨 group 补写或删写。\n- 保持上市公司年报文风：正式、稳定、可出版。\n- 数字、百分比、货币、年份、专有名词必须准确。\n- 如术语锁定与原有表达冲突，优先遵守术语锁定和事实锁定。\n\n页面上下文\n- 当前章节：AIA At-A-Glance，类型：company_overview\n- 术语使用模式：table\n- 上一组摘要：百萬圓桌會\n註冊會員人數\n全球之冠\n- 下一组摘要：在香港聯交所上市、\n香港註冊並將\n總部設於香港\n最大的公司\n\n文体与偏好\n- Use US$ for U.S. dollar amounts.\n- Keep listed-company annual report disclosure tone formal and publishable.\n- Do not change numbers, percentages, years, named entities or financial metric values.\n- Use established financial abbreviations for table labels when provided.\n- Keep row and column semantics unchanged.\n\n事实锁定\n- percentage_100: 100% -> 100%\n\n当前正文组\n- group_id：p3_b3\n- group_bbox：[68.03, 108.26, 203.62, 198.55]\n- 原文：\n全球唯一一家總部\n設於香港、於香港上市\n並100%\n專注於亞洲\n\n输出格式\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p3_b3\",\n      \"translation\": \"<译文>\"\n    }\n  ]\n}"
+      }
+    ],
+    "thinking": {
+      "type": "adaptive"
+    },
+    "output_config": {
+      "effort": "max"
+    }
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p3_b3\",\n      \"translation\": \"The only company in the world headquartered in Hong Kong, listed in Hong Kong and 100% focused on Asia\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "910e097f-febf-456e-a38a-eb5ec34a9c11",
+    "conversation_id": "910e097f-febf-456e-a38a-eb5ec34a9c11",
+    "id": "910e097f-febf-456e-a38a-eb5ec34a9c11",
+    "model": "claude-opus-4-6",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 737,
+      "output_tokens": 61
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 14,
+    "group_id": "p14_g07"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是上市保险公司年报翻译器。\n语言方向：Traditional Chinese -> English。\n只处理当前 body semantic group。\n只可在当前组内恢复跨块断句，不得跨组补写、跨组删写或改写事实。\n必须严格满足 mapping_hits 与 fact_locks。\n版面回填、字体压缩、分块分配不是你的职责，不要为了适配版面而删词改义。\n保持正式、稳定、可出版的企业年报文风。\n只输出 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市保险公司企业年报。\n先满足 fact_locks，再保证术语稳定、语义完整和年报文风。\n{\n  \"task\": {\n    \"scenario\": \"listed_company_annual_report\",\n    \"industry\": \"Life Insurance\",\n    \"report_type\": \"annual_report\",\n    \"company_name_target\": \"AIA GROUP LIMITED\",\n    \"direction\": \"Traditional Chinese -> English\"\n  },\n  \"page_context\": {\n    \"page_no\": 14,\n    \"page_sections\": [\n      {\n        \"source_section\": \"集團首席執行官兼總裁報告\",\n        \"target_section\": \"Group Chief Executive and President's Report\",\n        \"content_type\": \"ceo_report\",\n        \"page_range\": [\n          12,\n          16\n        ]\n      }\n    ],\n    \"term_usage_mode\": \"table\",\n    \"neighbor_context\": {\n      \"previous_group_source_excerpt\": \"馬來西亞方面，新業務價值全年下降13%，特別反映在上半年嚴格執行的外出限制。下半年新業務價值回升，較\\n上半年增長72%。\",\n      \"next_group_source_excerpt\": \"中國台灣及印度在2020年較2019年錄得雙位數字增長。\"\n    }\n  },\n  \"mapping_hits\": [\n    {\n      \"source\": \"新業務價值\",\n      \"target\": \"VONB\",\n      \"hit_type\": \"context_term\"\n    }\n  ],\n  \"fact_locks\": [\n    {\n      \"label\": \"percentage_10\",\n      \"fact_type\": \"percentage\",\n      \"source_value\": \"10%\",\n      \"expected_forms\": [\n        \"10%\"\n      ]\n    },\n    {\n      \"label\": \"percentage_4\",\n      \"fact_type\": \"percentage\",\n      \"source_value\": \"4%\",\n      \"expected_forms\": [\n        \"4%\"\n      ]\n    }\n  ],\n  \"current_group\": {\n    \"group_id\": \"p14_g07\",\n    \"lane\": \"body\",\n    \"group_text\": \"其他市場方面，下半年的新業務價值較上半年上升10%，其中南韓和印尼的回升幅度正面。整體來說，新業務價\\n值全年下降4%，主要由於新西蘭、菲律賓及印尼錄得跌幅。其餘的市場均錄得新業務價值正增長，其中越南、\",\n    \"source_block_ids\": [\n      \"p14_b22\",\n      \"p14_b23\"\n    ],\n    \"source_block_count\": 2\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p14_g07\",\n        \"translation\": \"<译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p14_g07\",\n      \"translation\": \"In other markets, VONB in the second half increased by 10% compared to the first half, with positive recoveries in South Korea and Indonesia. Overall, VONB for the full year declined by 4%, primarily due to declines recorded in New Zealand, the Philippines and Indonesia. The remaining markets all recorded positive VONB growth, with Vietnam,\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "f10f3958-5694-4e4c-bada-41c679e4116b",
+    "conversation_id": "f10f3958-5694-4e4c-bada-41c679e4116b",
+    "id": "f10f3958-5694-4e4c-bada-41c679e4116b",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 934,
+      "output_tokens": 109
+    }
+  }
+}

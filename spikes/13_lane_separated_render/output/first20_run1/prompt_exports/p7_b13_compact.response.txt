@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p7_b13",
+      "translation": "We obtained approval from the China Banking and Insurance Regulatory Commission"
+    }
+  ]
+}
+```

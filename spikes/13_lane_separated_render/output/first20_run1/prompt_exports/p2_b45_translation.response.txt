@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p2_b45",
+      "translation": "132 Consolidated Statement of Income"
+    }
+  ]
+}
+```

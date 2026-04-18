@@ -1,0 +1,19 @@
+任务
+- unit_id：p2_b47
+- 输入单元：短标签 / 小标题
+
+原文
+133 合併全面收入表
+
+当前译文
+133 Consolidated Statement of Comprehensive Income
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p2_b47",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

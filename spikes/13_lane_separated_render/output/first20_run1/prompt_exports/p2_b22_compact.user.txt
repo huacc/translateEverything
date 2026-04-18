@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p2_b22",
+    "lane": "caption_label",
+    "source_text": "070 董事會",
+    "current_translation": "070 Board of Directors"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p2_b22",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

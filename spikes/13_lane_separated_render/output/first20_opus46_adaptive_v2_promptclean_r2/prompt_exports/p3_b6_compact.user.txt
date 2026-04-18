@@ -1,0 +1,20 @@
+任务
+- unit_id：p3_b6
+- 输入单元：短标签 / 小标题
+
+原文
+的國際人壽
+保險公司
+
+当前译文
+International Life Insurance Company
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p3_b6",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

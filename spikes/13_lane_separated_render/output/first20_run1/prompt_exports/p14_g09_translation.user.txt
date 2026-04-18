@@ -1,0 +1,92 @@
+文档场景：上市保险公司企业年报。
+先满足 fact_locks，再保证术语稳定、语义完整和年报文风。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 14,
+    "page_sections": [
+      {
+        "source_section": "集團首席執行官兼總裁報告",
+        "target_section": "Group Chief Executive and President's Report",
+        "content_type": "ceo_report",
+        "page_range": [
+          12,
+          16
+        ]
+      }
+    ],
+    "term_usage_mode": "table",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "個月錄得非常強勁的新業務價值增長。",
+      "next_group_source_excerpt": "012\n友邦保險控股有限公司"
+    }
+  },
+  "mapping_hits": [
+    {
+      "source": "中國內地訪港旅客",
+      "target": "Mainland Chinese visitors",
+      "hit_type": "context_term"
+    },
+    {
+      "source": "新業務價值",
+      "target": "VONB",
+      "hit_type": "context_term"
+    },
+    {
+      "source": "銀行保險",
+      "target": "bancassurance",
+      "hit_type": "glossary_term"
+    },
+    {
+      "source": "中國內地",
+      "target": "Mainland China",
+      "hit_type": "glossary_term"
+    },
+    {
+      "source": "泰國",
+      "target": "Thailand",
+      "hit_type": "glossary_term"
+    },
+    {
+      "source": "馬來西亞",
+      "target": "Malaysia",
+      "hit_type": "glossary_term"
+    }
+  ],
+  "fact_locks": [
+    {
+      "label": "percentage_41",
+      "fact_type": "percentage",
+      "source_value": "41%",
+      "expected_forms": [
+        "41%"
+      ]
+    }
+  ],
+  "current_group": {
+    "group_id": "p14_g09",
+    "lane": "body",
+    "group_text": "中國內地訪港旅客的旅遊限制影響我們的零售獨立財務顧問業務，導致夥伴業務於2020年的新業務價值下降\n41%。我們從銀行保險帶來較為堅韌的業績，並為此渠道的新業務價值帶來大部分的貢獻。我們與印尼的Bank\nCentral Asia (BCA)、泰國的Bangkok Bank Public Company Limited（盤谷銀行）及馬來西亞的Public Bank\nBerhad（大眾銀行）的銀行保險夥伴合作，在2020年均錄得新業務價值正增長。",
+    "source_block_ids": [
+      "p14_b29",
+      "p14_b30",
+      "p14_b31",
+      "p14_b32"
+    ],
+    "source_block_count": 4
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p14_g09",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

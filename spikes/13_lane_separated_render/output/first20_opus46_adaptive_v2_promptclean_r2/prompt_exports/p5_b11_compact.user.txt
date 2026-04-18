@@ -1,0 +1,19 @@
+任务
+- unit_id：p5_b11
+- 输入单元：短标签 / 小标题
+
+原文
+重拾活力。
+
+当前译文
+Regaining Vitality.
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p5_b11",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

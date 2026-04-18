@@ -1,0 +1,19 @@
+任务
+- unit_id：p13_b8
+- 输入单元：短标签 / 小标题
+
+原文
+給付及理賠，為客戶提供極其重要的財務保障。
+
+当前译文
+Benefits and claims, providing critical financial protection to customers.
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p13_b8",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

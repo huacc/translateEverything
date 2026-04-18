@@ -1,0 +1,19 @@
+任务
+- unit_id：p2_b28
+- 输入单元：短标签 / 小标题
+
+原文
+的需要。此外，本集團亦為企業客戶
+
+当前译文
+needs. In addition, the Group also provides corporate clients
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p2_b28",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 19,
+    "group_id": "p19_g07"
+  },
+  "request": {
+    "model": "claude-opus-4-6",
+    "max_tokens": 4096,
+    "system": "你是上市公司年报翻译器。\n语言方向：Traditional Chinese -> English。\n只处理当前 body semantic group。\n只可在当前组内恢复跨块断句，不得跨组补写、跨组删写或改写事实。\n必须严格满足 mapping_hits 与 fact_locks。\n版面回填、字体压缩、分块分配不是你的职责，不要为了适配版面删词改义。\n保持正式、稳定、可出版的企业年报文风。\n只输出 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市保险公司企业年报。\n先满足 fact_locks，再保证术语稳定、语义完整和年报文风。\n{\n  \"task\": {\n    \"scenario\": \"listed_company_annual_report\",\n    \"industry\": \"Life Insurance\",\n    \"report_type\": \"annual_report\",\n    \"company_name_target\": \"AIA GROUP LIMITED\",\n    \"direction\": \"Traditional Chinese -> English\"\n  },\n  \"page_context\": {\n    \"page_no\": 19,\n    \"page_sections\": [\n      {\n        \"source_section\": \"集團首席財務總監回顧\",\n        \"target_section\": \"Group Chief Financial Officer's Review\",\n        \"content_type\": \"cfo_review\",\n        \"page_range\": [\n          18,\n          30\n        ]\n      }\n    ],\n    \"term_usage_mode\": \"table\",\n    \"neighbor_context\": {\n      \"previous_group_source_excerpt\": \"於2020年12月31日，我們的主要營運公司友邦保險有限公司（AIA Co.）的償付能力充足率仍然非常強勁，為\\n489%。於2020年12月31日，在新的集團監管框架下，集團當地資本總和法覆蓋率為374%。日後，我們將披露集\\n團當地資...\",\n      \"next_group_source_excerpt\": \"我們仍然對友邦保險在整個亞洲地區的業務機會充滿信心。我們將繼續專注於投資資本，以實現具盈利的新業務\\n增長，並運用我們的競爭優勢，同時維持審慎的財務管理和實現長期股東價值。\"\n    }\n  },\n  \"mapping_hits\": [\n    {\n      \"source\": \"友邦保險\",\n      \"target\": \"AIA\",\n      \"hit_type\": \"glossary_term\"\n    }\n  ],\n  \"fact_locks\": [\n    {\n      \"label\": \"final_dividend_per_share\",\n      \"fact_type\": \"hk_cents_per_share\",\n      \"source_value\": \"100.30港仙\",\n      \"expected_forms\": [\n        \"100.30 Hong Kong cents per share\"\n      ]\n    },\n    {\n      \"label\": \"total_dividend_per_share\",\n      \"fact_type\": \"hk_cents_per_share\",\n      \"source_value\": \"135.30港仙\",\n      \"expected_forms\": [\n        \"135.30 Hong Kong cents per share\"\n      ]\n    },\n    {\n      \"label\": \"percentage_7.5\",\n      \"fact_type\": \"percentage\",\n      \"source_value\": \"7.5%\",\n      \"expected_forms\": [\n        \"7.5%\"\n      ]\n    },\n    {\n      \"label\": \"percentage_6.9\",\n      \"fact_type\": \"percentage\",\n      \"source_value\": \"6.9%\",\n      \"expected_forms\": [\n        \"6.9%\"\n      ]\n    }\n  ],\n  \"current_group\": {\n    \"group_id\": \"p19_g07\",\n    \"lane\": \"body\",\n    \"group_text\": \"董事會建議末期股息增加7.5%至每股100.30港仙，並須於本公司應屆股東週年大會上獲股東批准。這使2020年的\\n全年股息總額為每股135.30港仙，較2019年的全年股息總額上升6.9%。這是秉承友邦保險行之已久的審慎、可持\\n續及漸進的派息政策，讓集團可把握未來的增長機遇，並且保持財務靈活性。\",\n    \"source_block_ids\": [\n      \"p19_b24\",\n      \"p19_b25\",\n      \"p19_b26\"\n    ],\n    \"source_block_count\": 3\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p19_g07\",\n        \"translation\": \"<译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ],
+    "thinking": {
+      "type": "adaptive"
+    },
+    "output_config": {
+      "effort": "max"
+    }
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p19_g07\",\n      \"translation\": \"The Board has proposed a final dividend of 100.30 Hong Kong cents per share, an increase of 7.5%, subject to shareholders' approval at the Company's forthcoming Annual General Meeting. This brings the total dividend for 2020 to 135.30 Hong Kong cents per share, an increase of 6.9% over the total dividend for 2019. This is in line with AIA's long-standing prudent, sustainable and progressive dividend policy, which allows the Group to capture future growth opportunities while maintaining financial flexibility.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "45486f94-8bf6-4184-8eae-a9cd9d3e9c21",
+    "conversation_id": "45486f94-8bf6-4184-8eae-a9cd9d3e9c21",
+    "id": "45486f94-8bf6-4184-8eae-a9cd9d3e9c21",
+    "model": "claude-opus-4-6",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1288,
+      "output_tokens": 139
+    }
+  }
+}

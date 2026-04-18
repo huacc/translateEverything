@@ -1,0 +1,45 @@
+文档场景：上市保险公司企业年报。
+当前输入属于短标签通道。优先使用标准年报表达。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 16,
+    "page_sections": [
+      {
+        "source_section": "集團首席執行官兼總裁報告",
+        "target_section": "Group Chief Executive and President's Report",
+        "content_type": "ceo_report",
+        "page_range": [
+          12,
+          16
+        ]
+      }
+    ],
+    "term_usage_mode": "heading",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "在2020年，2019冠狀病毒病大流行無疑是我們生活記憶中最大規模的公共衞生緊急狀態。受影響的企業和家庭\n獲得前所未見的公共財政和金融支援，有助緩解由疫情大流行造成的部分極端金融衝擊，並加快復甦步伐，這在\n具備完善衞生政策及基建的國家...",
+      "next_group_source_excerpt": "儘管疫情大流行的影響依然沒有結束，但相信2021年將是過渡性的一年，我們對此保持審慎樂觀。市場憧憬推出\n疫苗接種計劃和新療法有助降低疫症的感染率和嚴重性，使醫療系統能更有效應對疫情，並降低死亡率。儘管我\n們並不預計外出或消費行為於短期..."
+    }
+  },
+  "mapping_hits": [],
+  "fact_locks": [],
+  "current_unit": {
+    "unit_id": "p16_b11",
+    "lane": "caption_label",
+    "source_text": "段。"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p16_b11",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

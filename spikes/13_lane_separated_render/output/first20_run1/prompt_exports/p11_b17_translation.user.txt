@@ -1,0 +1,45 @@
+文档场景：上市保险公司企业年报。
+当前输入属于短标签通道。优先使用标准年报表达。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 11,
+    "page_sections": [
+      {
+        "source_section": "主席報告",
+        "target_section": "Chairman's Statement",
+        "content_type": "chairman_statement",
+        "page_range": [
+          10,
+          11
+        ]
+      }
+    ],
+    "term_usage_mode": "heading",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "環境、社會及管治議題對全球的影響日形重要。我們當竭盡所能，協助推動社會邁向更美好的未來，而我們的環\n境、社會及管治措施在2020年再度備受肯定。根據評級機構Sustainalytics的評選，友邦保險在超過270家保險公\n司中排名第二...",
+      "next_group_source_excerpt": "今天，客戶對友邦保險產品、服務及高質素建議日益增長的需求從未如此殷切。我們的策略建基於亞洲強勁的\n結構性增長動力，並獲多項因素支持，包括前所未見的財富創造、保障缺口迅速擴大、消費者取向持續轉變、\n數碼技術普及，以及市場聚焦於長遠的可持..."
+    }
+  },
+  "mapping_hits": [],
+  "fact_locks": [],
+  "current_unit": {
+    "unit_id": "p11_b17",
+    "lane": "caption_label",
+    "source_text": "成員、高級管理層團隊以及全體員工共同秉持的優先指標。"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p11_b17",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

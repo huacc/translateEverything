@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 16,
+    "group_id": "p16_g02"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是上市保险公司年报翻译器。\n语言方向：Traditional Chinese -> English。\n只处理当前 body semantic group。\n只可在当前组内恢复跨块断句，不得跨组补写、跨组删写或改写事实。\n必须严格满足 mapping_hits 与 fact_locks。\n版面回填、字体压缩、分块分配不是你的职责，不要为了适配版面而删词改义。\n保持正式、稳定、可出版的企业年报文风。\n只输出 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市保险公司企业年报。\n先满足 fact_locks，再保证术语稳定、语义完整和年报文风。\n{\n  \"task\": {\n    \"scenario\": \"listed_company_annual_report\",\n    \"industry\": \"Life Insurance\",\n    \"report_type\": \"annual_report\",\n    \"company_name_target\": \"AIA GROUP LIMITED\",\n    \"direction\": \"Traditional Chinese -> English\"\n  },\n  \"page_context\": {\n    \"page_no\": 16,\n    \"page_sections\": [\n      {\n        \"source_section\": \"集團首席執行官兼總裁報告\",\n        \"target_section\": \"Group Chief Executive and President's Report\",\n        \"content_type\": \"ceo_report\",\n        \"page_range\": [\n          12,\n          16\n        ]\n      }\n    ],\n    \"term_usage_mode\": \"table\",\n    \"neighbor_context\": {\n      \"previous_group_source_excerpt\": \"前景\",\n      \"next_group_source_excerpt\": \"段。\"\n    }\n  },\n  \"mapping_hits\": [\n    {\n      \"source\": \"2019冠狀病毒病\",\n      \"target\": \"COVID-19\",\n      \"hit_type\": \"context_term\"\n    }\n  ],\n  \"fact_locks\": [],\n  \"current_group\": {\n    \"group_id\": \"p16_g02\",\n    \"lane\": \"body\",\n    \"group_text\": \"在2020年，2019冠狀病毒病大流行無疑是我們生活記憶中最大規模的公共衞生緊急狀態。受影響的企業和家庭\\n獲得前所未見的公共財政和金融支援，有助緩解由疫情大流行造成的部分極端金融衝擊，並加快復甦步伐，這在\\n具備完善衞生政策及基建的國家尤其可見。然而，各國之間存在顯著差異，在這困境下，亞洲（日本除外）地區\\n錄得全球相對最強勁的國內生產總值表現。現時，環球經濟正剛剛開始擺脫一場深度衰退，並步入好轉的初步階\",\n    \"source_block_ids\": [\n      \"p16_b7\",\n      \"p16_b8\",\n      \"p16_b9\",\n      \"p16_b10\"\n    ],\n    \"source_block_count\": 4\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p16_g02\",\n        \"translation\": \"<译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p16_g02\",\n      \"translation\": \"In 2020, the COVID-19 pandemic was undoubtedly the largest-scale public health emergency in our living memory. Affected businesses and households received unprecedented public financial and financial support, which helped mitigate some of the extreme financial impacts caused by the pandemic and accelerated the pace of recovery, which was particularly evident in countries with well-established health policies and infrastructure. However, there were significant differences between countries, and under these challenging circumstances, Asia (excluding Japan) recorded the relatively strongest gross domestic product performance globally. Currently, the global economy is just beginning to emerge from a deep recession and entering the initial stages of improvement.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "41994325-37b8-4137-8430-e0e00e6bc1cb",
+    "conversation_id": "41994325-37b8-4137-8430-e0e00e6bc1cb",
+    "id": "41994325-37b8-4137-8430-e0e00e6bc1cb",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 904,
+      "output_tokens": 159
+    }
+  }
+}

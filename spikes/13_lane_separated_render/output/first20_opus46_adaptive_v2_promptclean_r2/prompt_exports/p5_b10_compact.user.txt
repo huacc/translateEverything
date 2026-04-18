@@ -1,0 +1,19 @@
+任务
+- unit_id：p5_b10
+- 输入单元：短标签 / 小标题
+
+原文
+然沒有結束，我們將繼續擔當支援的角色使我們的社區
+
+当前译文
+has not ended, we will continue to play a supportive role to enable our communities to
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p5_b10",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

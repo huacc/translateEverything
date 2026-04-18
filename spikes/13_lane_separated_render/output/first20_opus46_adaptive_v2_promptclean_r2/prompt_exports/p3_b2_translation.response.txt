@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p3_b2",
+      "translation": "Largest number of Million Dollar Round Table registered members globally"
+    }
+  ]
+}
+```

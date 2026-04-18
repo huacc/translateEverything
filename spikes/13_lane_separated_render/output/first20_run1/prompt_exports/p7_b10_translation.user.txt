@@ -1,0 +1,55 @@
+文档场景：上市保险公司企业年报。
+当前输入属于短标签通道。优先使用标准年报表达。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 7,
+    "page_sections": [
+      {
+        "source_section": "2020年里程碑",
+        "target_section": "2020 Milestones",
+        "content_type": "highlights",
+        "page_range": [
+          7
+        ]
+      }
+    ],
+    "term_usage_mode": "heading",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "友邦保險在中國內地成立\n獨資人身保險子公司",
+      "next_group_source_excerpt": "業務改建為首家人身保險子公司，而有關"
+    }
+  },
+  "mapping_hits": [
+    {
+      "source": "友邦保險",
+      "target": "AIA",
+      "hit_type": "glossary_term"
+    },
+    {
+      "source": "中國內地",
+      "target": "Mainland China",
+      "hit_type": "glossary_term"
+    }
+  ],
+  "fact_locks": [],
+  "current_unit": {
+    "unit_id": "p7_b10",
+    "lane": "caption_label",
+    "source_text": "友邦保險成功於2020年10月將其中國內地"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p7_b10",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

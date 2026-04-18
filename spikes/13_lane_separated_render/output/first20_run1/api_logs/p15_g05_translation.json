@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 15,
+    "group_id": "p15_g05"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是上市保险公司年报翻译器。\n语言方向：Traditional Chinese -> English。\n只处理当前 body semantic group。\n只可在当前组内恢复跨块断句，不得跨组补写、跨组删写或改写事实。\n必须严格满足 mapping_hits 与 fact_locks。\n版面回填、字体压缩、分块分配不是你的职责，不要为了适配版面而删词改义。\n保持正式、稳定、可出版的企业年报文风。\n只输出 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市保险公司企业年报。\n先满足 fact_locks，再保证术语稳定、语义完整和年报文风。\n{\n  \"task\": {\n    \"scenario\": \"listed_company_annual_report\",\n    \"industry\": \"Life Insurance\",\n    \"report_type\": \"annual_report\",\n    \"company_name_target\": \"AIA GROUP LIMITED\",\n    \"direction\": \"Traditional Chinese -> English\"\n  },\n  \"page_context\": {\n    \"page_no\": 15,\n    \"page_sections\": [\n      {\n        \"source_section\": \"集團首席執行官兼總裁報告\",\n        \"target_section\": \"Group Chief Executive and President's Report\",\n        \"content_type\": \"ceo_report\",\n        \"page_range\": [\n          12,\n          16\n        ]\n      }\n    ],\n    \"term_usage_mode\": \"overview_narrative\",\n    \"neighbor_context\": {\n      \"previous_group_source_excerpt\": \"「未來的組織」(Organisation of the Future)策略的核心組成部分，包括強化和簡化組織結構、引進靈活的工作方\\n式，以及提升能力框架。這些策略性優先任務將支持員工發展事業，進一步提升友邦保險作為首選僱主的地位。\",\n      \"next_group_source_excerpt\": \"環境、社會及管治\"\n    }\n  },\n  \"mapping_hits\": [\n    {\n      \"source\": \"友邦保險\",\n      \"target\": \"AIA\",\n      \"hit_type\": \"glossary_term\"\n    },\n    {\n      \"source\": \"新加坡\",\n      \"target\": \"Singapore\",\n      \"hit_type\": \"glossary_term\"\n    }\n  ],\n  \"fact_locks\": [],\n  \"current_group\": {\n    \"group_id\": \"p15_g05\",\n    \"lane\": \"body\",\n    \"group_text\": \"我們從2020年下半年起，透過友邦保險在新加坡和越南的業務作為兩個試點業務單位，展開塑造一個轉型機構的\\n旅程。初步成果已實現更簡化、更以客為本的營運模式，我們亦推行靈活的工作方式，設立多個跨職能的專家團\\n隊。我們計劃在這些試點業務內進行試驗和學習，然後將「未來的組織」項目擴展至其他業務。\",\n    \"source_block_ids\": [\n      \"p15_b15\",\n      \"p15_b16\",\n      \"p15_b17\"\n    ],\n    \"source_block_count\": 3\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p15_g05\",\n        \"translation\": \"<译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p15_g05\",\n      \"translation\": \"Since the second half of 2020, we have embarked on a journey to shape a transformational organization through AIA's businesses in Singapore and Vietnam as two pilot business units. Initial results have delivered a more streamlined and customer-centric operating model, and we have implemented flexible working arrangements and established multiple cross-functional expert teams. We plan to experiment and learn within these pilot businesses before expanding the \\\"Organisation of the Future\\\" programme to other operations.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "39eec3e0-e012-439c-8a0b-e80257aaa6db",
+    "conversation_id": "39eec3e0-e012-439c-8a0b-e80257aaa6db",
+    "id": "39eec3e0-e012-439c-8a0b-e80257aaa6db",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 980,
+      "output_tokens": 126
+    }
+  }
+}

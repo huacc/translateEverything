@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p8_b2",
+    "lane": "caption_label",
+    "source_text": "2020年業績一覽(1)",
+    "current_translation": "2020 Performance Highlights(1)"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p8_b2",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

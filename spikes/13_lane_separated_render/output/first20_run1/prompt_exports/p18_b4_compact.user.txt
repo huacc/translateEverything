@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p18_b4",
+    "lane": "caption_label",
+    "source_text": "強勁的財務業績。在新業務價值受到全球疫情導致的外出限制",
+    "current_translation": "Strong financial performance. Despite New Business Value being impacted by global travel restrictions caused by the pandemic"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p18_b4",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

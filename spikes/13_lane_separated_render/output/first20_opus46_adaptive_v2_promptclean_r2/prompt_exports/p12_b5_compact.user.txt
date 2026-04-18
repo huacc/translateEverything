@@ -1,0 +1,19 @@
+任务
+- unit_id：p12_b5
+- 输入单元：短标签 / 小标题
+
+原文
+和靈活應對瞬息萬變的經營環境，令我深感自豪。
+
+当前译文
+and respond flexibly to the rapidly changing business environment, which makes me deeply proud.
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p12_b5",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

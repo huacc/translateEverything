@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p2_b26",
+      "translation": "to meet individual customers' long-term savings and protection"
+    }
+  ]
+}
+```

@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p13_b3",
+      "translation": "demonstrated agility and a strong sense of responsibility."
+    }
+  ]
+}
+```

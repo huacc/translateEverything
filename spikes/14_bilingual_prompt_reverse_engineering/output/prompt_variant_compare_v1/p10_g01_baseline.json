@@ -1,0 +1,44 @@
+{
+  "sample_id": "p10_g01",
+  "page_no": 10,
+  "section": "Chairman's Statement",
+  "variant": "baseline",
+  "source_text": "友邦保險在亞洲歷史悠久，源遠流長，經歷各種社會動盪和不明朗時期仍能妥善管理業務，因而贏得卓著的\n聲譽，體現友邦保險誠可信賴、強韌穩健，並堅持為持分者做對的事。自2020年初以來，2019冠狀病毒病大流\n行導致營商環境不斷變化及日趨複雜，而政治、宏觀經濟及資本市場亦出現前所未見的轉移。在這樣的環境下，\n友邦保險的財務實力，以及「幫助大眾活出健康、長久、好生活」的目標，更具重大意義。本人衷心感謝友邦\n保險所有員工、代理和合作夥伴，即使面對最嚴峻的挑戰，他們仍關懷社區，克盡己職，專心致志地為客戶、",
+  "human_reference": "Throughout AIA’s long history in the region we have managed our businesses through many periods of change and uncertainty, earning our company a reputation which is synonymous with trust, resilience and doing the right thing for our stakeholders. From early 2020, the COVID-19 pandemic presented an ever-changing and complex operating environment and we witnessed unprecedented shifts in politics, macroeconomics and capital markets. AIA’s financial strength and Purpose of “helping people live Healthier, Longer, Better Lives” has never been more relevant. I am immensely grateful to all of our employees, agents and partners for their care and dedication, remaining steadfast in supporting our customers, their families, and our communities, through this most challenging time.",
+  "translation": "AIA has a long and distinguished history in Asia, having successfully navigated various periods of social upheaval and uncertainty, earning an outstanding reputation that reflects AIA's trustworthiness, resilience and strength, and our commitment to doing the right thing for our stakeholders. Since early 2020, the COVID-19 pandemic has resulted in a constantly evolving and increasingly complex business environment, with unprecedented shifts in the political, macroeconomic and capital markets landscape. In such an environment, AIA's financial strength and our purpose of helping people live Healthier, Longer, Better Lives have taken on even greater significance. I am deeply grateful to all of AIA's employees, agents and partners who, even in the face of the most severe challenges, have remained dedicated to caring for our communities and fulfilling their duties with unwavering focus on serving our customers,",
+  "sequence_ratio": 0.2874,
+  "token_f1": 0.5703,
+  "request": {
+    "model": "claude-opus-4-6",
+    "max_tokens": 1800,
+    "system": "你是上市保险公司年报正文翻译助手。\n语言方向：Traditional Chinese -> English。\n请将以下中文正文翻译为正式、稳定、可出版的英文年报语言。\n必须准确保留数字、货币、百分比、年份和专有名词。\n优先使用标准保险与金融术语。\n只输出译文。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "现在，请以最高专业水准，直接翻译以下中文段落：\n\n友邦保險在亞洲歷史悠久，源遠流長，經歷各種社會動盪和不明朗時期仍能妥善管理業務，因而贏得卓著的\n聲譽，體現友邦保險誠可信賴、強韌穩健，並堅持為持分者做對的事。自2020年初以來，2019冠狀病毒病大流\n行導致營商環境不斷變化及日趨複雜，而政治、宏觀經濟及資本市場亦出現前所未見的轉移。在這樣的環境下，\n友邦保險的財務實力，以及「幫助大眾活出健康、長久、好生活」的目標，更具重大意義。本人衷心感謝友邦\n保險所有員工、代理和合作夥伴，即使面對最嚴峻的挑戰，他們仍關懷社區，克盡己職，專心致志地為客戶、"
+      }
+    ],
+    "temperature": 0
+  },
+  "response": {
+    "content": [
+      {
+        "text": "AIA has a long and distinguished history in Asia, having successfully navigated various periods of social upheaval and uncertainty, earning an outstanding reputation that reflects AIA's trustworthiness, resilience and strength, and our commitment to doing the right thing for our stakeholders. Since early 2020, the COVID-19 pandemic has resulted in a constantly evolving and increasingly complex business environment, with unprecedented shifts in the political, macroeconomic and capital markets landscape. In such an environment, AIA's financial strength and our purpose of helping people live Healthier, Longer, Better Lives have taken on even greater significance. I am deeply grateful to all of AIA's employees, agents and partners who, even in the face of the most severe challenges, have remained dedicated to caring for our communities and fulfilling their duties with unwavering focus on serving our customers,",
+        "type": "text"
+      }
+    ],
+    "conversationId": "dea466fe-047c-4f4e-b5e6-6c8043a93529",
+    "conversation_id": "dea466fe-047c-4f4e-b5e6-6c8043a93529",
+    "id": "dea466fe-047c-4f4e-b5e6-6c8043a93529",
+    "model": "claude-opus-4-6",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 505,
+      "output_tokens": 170
+    }
+  }
+}

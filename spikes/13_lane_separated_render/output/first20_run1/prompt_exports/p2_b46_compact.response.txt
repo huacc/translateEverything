@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p2_b46",
+      "translation": "AIA Group Limited is listed on Hong Kong Stock Exchange"
+    }
+  ]
+}
+```

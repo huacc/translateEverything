@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p15_g05",
+      "translation": "Since the second half of 2020, we have embarked on a transformational journey through AIA's businesses in Singapore and Vietnam as two pilot units. Initial results have delivered a more streamlined, customer-centric operating model with flexible working arrangements and cross-functional expert teams. We plan to experiment and learn within these pilots before expanding the \"Organisation of the Future\" programme to other operations."
+    }
+  ]
+}
+```

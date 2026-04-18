@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p18_b5",
+      "translation": "Despite the impact of global pandemic-related travel restrictions, we recorded Operating Profit After Tax and Underlying Free Surplus Generation"
+    }
+  ]
+}
+```

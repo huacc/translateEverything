@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p10_b5",
+    "lane": "caption_label",
+    "source_text": "於亞洲區內，為極需我們服務的",
+    "current_translation": "Within Asia, for those who greatly need our services"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p10_b5",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p18_b4",
+      "translation": "Strong financial performance. Despite New Business Value being impacted by global travel restrictions caused by the pandemic"
+    }
+  ]
+}
+```

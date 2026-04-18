@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p6_b10",
+    "lane": "caption_label",
+    "source_text": "眾實現健康、長久、好生活。我們的目標",
+    "current_translation": "to help people realize health, longevity and a better life. Our objective"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p6_b10",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

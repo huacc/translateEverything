@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p6_b14",
+    "lane": "caption_label",
+    "source_text": "宗旨，即讓大眾明白和管理其健康、並",
+    "current_translation": "purpose, namely to help the public understand and manage their health, and"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p6_b14",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

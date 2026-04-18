@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 18,
+    "group_id": "p18_b4"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是上市保险公司年报中的标签翻译器。\n语言方向：Traditional Chinese -> English。\n只处理当前 caption/label unit。\n保持短、稳、正式，不自由改写。\n只输出 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市保险公司企业年报。\n当前输入属于短标签通道。优先使用标准年报表达。\n{\n  \"task\": {\n    \"scenario\": \"listed_company_annual_report\",\n    \"industry\": \"Life Insurance\",\n    \"report_type\": \"annual_report\",\n    \"company_name_target\": \"AIA GROUP LIMITED\",\n    \"direction\": \"Traditional Chinese -> English\"\n  },\n  \"page_context\": {\n    \"page_no\": 18,\n    \"page_sections\": [\n      {\n        \"source_section\": \"集團首席財務總監回顧\",\n        \"target_section\": \"Group Chief Financial Officer's Review\",\n        \"content_type\": \"cfo_review\",\n        \"page_range\": [\n          18,\n          30\n        ]\n      }\n    ],\n    \"term_usage_mode\": \"heading\",\n    \"neighbor_context\": {\n      \"previous_group_source_excerpt\": \"儘管2020年的營商及宏觀經濟環境前所未見，友邦保險仍實現\",\n      \"next_group_source_excerpt\": \"影響的情況下，我們錄得了稅後營運溢利、產生的基本自由盈餘\"\n    }\n  },\n  \"mapping_hits\": [\n    {\n      \"source\": \"新業務價值\",\n      \"target\": \"New Business Value\",\n      \"hit_type\": \"context_term\"\n    }\n  ],\n  \"fact_locks\": [],\n  \"current_unit\": {\n    \"unit_id\": \"p18_b4\",\n    \"lane\": \"caption_label\",\n    \"source_text\": \"強勁的財務業績。在新業務價值受到全球疫情導致的外出限制\"\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p18_b4\",\n        \"translation\": \"<译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p18_b4\",\n      \"translation\": \"Strong financial performance. Despite New Business Value being impacted by global travel restrictions caused by the pandemic\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "7f3a0f0a-4518-4073-94f9-3af0942a25c8",
+    "conversation_id": "7f3a0f0a-4518-4073-94f9-3af0942a25c8",
+    "id": "7f3a0f0a-4518-4073-94f9-3af0942a25c8",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 591,
+      "output_tokens": 56
+    }
+  }
+}

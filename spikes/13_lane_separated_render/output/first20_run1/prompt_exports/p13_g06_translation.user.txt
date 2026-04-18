@@ -1,0 +1,56 @@
+文档场景：上市保险公司企业年报。
+先满足 fact_locks，再保证术语稳定、语义完整和年报文风。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 13,
+    "page_sections": [
+      {
+        "source_section": "集團首席執行官兼總裁報告",
+        "target_section": "Group Chief Executive and President's Report",
+        "content_type": "ceo_report",
+        "page_range": [
+          12,
+          16
+        ]
+      }
+    ],
+    "term_usage_mode": "overview_narrative",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "我們無可比擬的分銷實力能直接接觸客戶，並提供高質素的專業建議，協助滿足亞洲消費者龐大且日益增長的長\n期保障和儲蓄需求。如今大眾比以往更期望企業能以符合長遠可持續發展的方式應對他們的需要。友邦保險擁有\n市場領先的品牌，以幫助大眾實踐健康...",
+      "next_group_source_excerpt": "法，為我們與客戶建立長遠關係奠定堅實的基礎。"
+    }
+  },
+  "mapping_hits": [
+    {
+      "source": "友邦保險",
+      "target": "AIA",
+      "hit_type": "glossary_term"
+    }
+  ],
+  "fact_locks": [],
+  "current_group": {
+    "group_id": "p13_g06",
+    "lane": "body",
+    "group_text": "我們旨在使友邦保險在科技應用方面領先全球，加強互聯互通，擴大規模和提升效率。更深入瞭解數據分析有助\n我們締造獨特和個人化的客戶體驗。切合和反映個人需求和生活方式的產品及服務，改變了大眾對人壽保險的看",
+    "source_block_ids": [
+      "p13_b23",
+      "p13_b24"
+    ],
+    "source_block_count": 2
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p13_g06",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

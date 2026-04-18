@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p7_b6",
+      "translation": "students in society and those requiring financial assistance to"
+    }
+  ]
+}
+```

@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p15_b7",
+      "translation": "feedback, similar to in-person learning."
+    }
+  ]
+}
+```

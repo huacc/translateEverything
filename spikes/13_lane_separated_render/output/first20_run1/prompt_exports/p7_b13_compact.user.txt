@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p7_b13",
+    "lane": "caption_label",
+    "source_text": "我們已獲得中國銀行保險監督委員會",
+    "current_translation": "We obtained approval from the China Banking and Insurance Regulatory Commission"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p7_b13",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

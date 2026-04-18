@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p6_b19",
+    "lane": "caption_label",
+    "source_text": "值得我們為社區付出的工作之一，就是",
+    "current_translation": "One of the worthwhile contributions we make to the communities we serve is"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p6_b19",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

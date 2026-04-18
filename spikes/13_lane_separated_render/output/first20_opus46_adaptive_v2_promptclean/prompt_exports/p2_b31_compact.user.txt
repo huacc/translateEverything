@@ -1,0 +1,19 @@
+任务
+- unit_id：p2_b31
+- 输入单元：短标签 / 小标题
+
+原文
+提供僱員福利、信貸保險和退休保障
+
+当前译文
+Employee Benefits, Credit Insurance and Retirement Protection
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p2_b31",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

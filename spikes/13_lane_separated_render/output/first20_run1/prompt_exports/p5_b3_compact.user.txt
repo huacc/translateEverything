@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p5_b3",
+    "lane": "caption_label",
+    "source_text": "風險。我們作出迅速和全面的應對，包括為我們的社區",
+    "current_translation": "risks. We responded swiftly and comprehensively, including providing support to our community"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p5_b3",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

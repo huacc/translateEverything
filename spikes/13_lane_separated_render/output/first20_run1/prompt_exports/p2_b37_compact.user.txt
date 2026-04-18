@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p2_b37",
+    "lane": "caption_label",
+    "source_text": "代理、夥伴及員工網絡，為超過3,800萬",
+    "current_translation": "Agent, partner and employee network serving over 38 million"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p2_b37",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

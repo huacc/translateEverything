@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p2_b49",
+    "lane": "caption_label",
+    "source_text": "交易所有限公司主板上市（股份代號為",
+    "current_translation": "Main Board listing on the Stock Exchange Limited (stock code:"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p2_b49",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

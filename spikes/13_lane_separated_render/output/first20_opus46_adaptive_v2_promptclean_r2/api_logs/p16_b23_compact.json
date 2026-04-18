@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "stage": "compact",
+    "page_no": 16,
+    "group_id": "p16_b23"
+  },
+  "request": {
+    "model": "claude-opus-4-6",
+    "max_tokens": 4096,
+    "system": "你是上市公司年报短标签压缩助手。\n语言方向：Traditional Chinese -> English。\n只做最小必要压缩，不改变核心语义，不扩写。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "任务\n- unit_id：p16_b23\n- 输入单元：短标签 / 小标题\n\n原文\n增長率乃按固定匯率列示，管理層相信這可更清晰地說明相關業務按年的表現。\n\n当前译文\nGrowth rates are presented on a constant exchange rate basis, which management believes provides a clearer illustration of the underlying business performance year-on-year.\n\n输出格式\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p16_b23\",\n      \"translation\": \"<更紧凑译文>\"\n    }\n  ]\n}"
+      }
+    ],
+    "thinking": {
+      "type": "adaptive"
+    },
+    "output_config": {
+      "effort": "max"
+    }
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p16_b23\",\n      \"translation\": \"Growth rates are on a constant currency basis, which management believes better illustrates underlying year-on-year performance.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "f4922933-c3c3-4af1-9696-15b0cbf3173e",
+    "conversation_id": "f4922933-c3c3-4af1-9696-15b0cbf3173e",
+    "id": "f4922933-c3c3-4af1-9696-15b0cbf3173e",
+    "model": "claude-opus-4-6",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 243,
+      "output_tokens": 59
+    }
+  }
+}

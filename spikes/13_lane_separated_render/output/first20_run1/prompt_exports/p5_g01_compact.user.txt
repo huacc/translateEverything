@@ -1,0 +1,32 @@
+文档场景：上市公司企业年报
+{
+  "document_background": {
+    "page_sections": [],
+    "roles": [],
+    "terms": [],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "Use established financial abbreviations for table labels when provided.",
+      "Keep row and column semantics unchanged.",
+      "Use n/m for 無意義."
+    ]
+  },
+  "current_unit": {
+    "page_no": 5,
+    "unit_id": "p5_g01",
+    "unit_mode": "semantic_group",
+    "slot_count": 3,
+    "source_text": "憂慮。我們為超過2,500萬份保單提供免費的2019冠狀病毒\n病相關保障覆蓋，並於12個市場提供10億美元的保費支\n援。年內，我們已支付逾160億美元的保險給付和理賠，",
+    "current_translation": "concerns. We provided free COVID-19 related coverage to over 25 million policies and offered US$1 billion in premium support across 12 markets. During the year, we paid out over US$16 billion in insurance benefits and claims,"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p5_g01",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

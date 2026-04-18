@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p2_b69",
+      "translation": "(1) Definitions and abbreviations of certain terms used in this report are set out in the Glossary section."
+    }
+  ]
+}
+```

@@ -1,0 +1,48 @@
+文档场景：上市公司企业年报
+{
+  "document_background": {
+    "page_sections": [
+      {
+        "source_section": "主席報告",
+        "target_section": "Chairman's Statement",
+        "content_type": "chairman_statement",
+        "page_range": [
+          10,
+          11
+        ]
+      }
+    ],
+    "roles": [
+      {
+        "source": "謝仕榮先生",
+        "target": "Mr. Tse Sze-wing",
+        "role": "Independent Non-Executive Chairman"
+      }
+    ],
+    "terms": [],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "Use established financial abbreviations for table labels when provided.",
+      "Keep row and column semantics unchanged.",
+      "Use n/m for 無意義."
+    ]
+  },
+  "current_unit": {
+    "page_no": 11,
+    "unit_id": "p11_g01",
+    "unit_mode": "semantic_group",
+    "slot_count": 3,
+    "source_text": "在2020年第四季，我們慶祝友邦保險在香港聯交所上市10週年。回顧當年友邦保險的上市刷新多項紀錄，至今\n仍是全球保險業界規模最大的首次公開招股。能夠與董事會成員並肩合作，本人深感榮幸和欣慰。友邦保險的\n業務在此期間繼往開來，不斷擴展，成為以市值計全球最大的人壽保險公司。",
+    "current_translation": "In the fourth quarter of 2020, we celebrated AIA's tenth anniversary of listing on the Hong Kong Stock Exchange. Looking back, AIA's listing set multiple records at the time and remains the largest initial public offering in the global insurance industry to date. I feel privileged and gratified to work alongside the Board members. AIA's business has continued to grow and expand during this period, becoming the world's largest life insurance company by market capitalisation."
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p11_g01",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p14_g05",
+      "translation": "Singapore also saw an excellent turnaround in the second half, with VONB up 56% compared to the first half and up 12% year on year. VONB for the full year declined 5%, as growth in the agency channel was offset by the impact of strict border control measures on our offshore partner business. OPAT increased 8%."
+    }
+  ]
+}
+```

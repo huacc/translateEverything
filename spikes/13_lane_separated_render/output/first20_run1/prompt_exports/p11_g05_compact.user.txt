@@ -1,0 +1,48 @@
+文档场景：上市公司企业年报
+{
+  "document_background": {
+    "page_sections": [
+      {
+        "source_section": "主席報告",
+        "target_section": "Chairman's Statement",
+        "content_type": "chairman_statement",
+        "page_range": [
+          10,
+          11
+        ]
+      }
+    ],
+    "roles": [
+      {
+        "source": "謝仕榮先生",
+        "target": "Mr. Tse Sze-wing",
+        "role": "Independent Non-Executive Chairman"
+      }
+    ],
+    "terms": [],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "For overview narrative, use full financial metric name plus abbreviation when provided.",
+      "For financial review and business metrics narrative, use established abbreviations when provided.",
+      "Prefer AIA China / AIA Hong Kong / AIA Macau over loose paraphrases when matched."
+    ]
+  },
+  "current_unit": {
+    "page_no": 11,
+    "unit_id": "p11_g05",
+    "unit_mode": "semantic_group",
+    "slot_count": 4,
+    "source_text": "今天，客戶對友邦保險產品、服務及高質素建議日益增長的需求從未如此殷切。我們的策略建基於亞洲強勁的\n結構性增長動力，並獲多項因素支持，包括前所未見的財富創造、保障缺口迅速擴大、消費者取向持續轉變、\n數碼技術普及，以及市場聚焦於長遠的可持續發展。董事會充滿信心，友邦保險具備優越條件，把握區內展現的\n龐大機遇，在客戶及其家庭最需要的時刻提供財務保障，使其安心無憂，並同時為所有持分者創造共享價值。",
+    "current_translation": "Today, customer demand for AIA's products, services and high-quality advice has never been more pressing. Our strategy is built on Asia's strong structural growth drivers and is supported by multiple factors, including unprecedented wealth creation, rapidly widening protection gaps, evolving consumer preferences, widespread digital technology adoption, and market focus on long-term sustainable development. The Board is confident that AIA is well-positioned to seize the significant opportunities presented across the region, providing financial protection to customers and their families when they need it most, giving them peace of mind, while creating shared value for all stakeholders."
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p11_g05",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

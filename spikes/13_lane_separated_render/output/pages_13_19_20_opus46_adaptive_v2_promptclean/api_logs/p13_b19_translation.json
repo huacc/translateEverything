@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 13,
+    "group_id": "p13_b19"
+  },
+  "request": {
+    "model": "claude-opus-4-6",
+    "max_tokens": 4096,
+    "system": "你是上市公司年报标签翻译助手。\n语言方向：Traditional Chinese -> English。\n只负责翻译当前短标签或小标题，不负责排版、回填、压缩。\n保持短、稳、正式，不要扩写成解释句。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "任务\n- 语言方向：Traditional Chinese -> English\n- 文档场景：上市公司企业年报\n- 公司：AIA GROUP LIMITED\n- 当前页面：13\n- 当前输入单元：短标签 / 小标题\n\n翻译要求\n- 保持短、稳、正式，不要自由改写。\n- 不要把短标签扩写成解释性句子。\n- 不负责排版和回填。\n\n页面上下文\n- 当前章节：Group Chief Executive and President's Report，类型：ceo_report（页码 12-16）\n- 术语使用模式：heading\n- 上一组摘要：友邦保險具有多項顯著優勢，讓我們在競爭激烈的市場別樹一幟。我們在亞洲經營數十載，擁有區內無可比擬的\n平台，並於我們業務所在的大部分市場雄踞領導地位。我們始終如一地百分百專注於亞洲市場，有助我們在全球\n最具吸引力的壽險業地區全面把握增長...\n- 下一组摘要：我們無可比擬的分銷實力能直接接觸客戶，並提供高質素的專業建議，協助滿足亞洲消費者龐大且日益增長的長\n期保障和儲蓄需求。如今大眾比以往更期望企業能以符合長遠可持續發展的方式應對他們的需要。友邦保險擁有\n市場領先的品牌，以幫助大眾實踐健康...\n\n当前标签\n- unit_id：p13_b19\n- 原文：\n一直是我們表現卓越的重要動力。\n\n输出格式\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p13_b19\",\n      \"translation\": \"<译文>\"\n    }\n  ]\n}"
+      }
+    ],
+    "thinking": {
+      "type": "adaptive"
+    },
+    "output_config": {
+      "effort": "max"
+    }
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p13_b19\",\n      \"translation\": \"has been a key driver of our outstanding performance.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "99f63001-886e-42b1-9b1c-5eef5f52183f",
+    "conversation_id": "99f63001-886e-42b1-9b1c-5eef5f52183f",
+    "id": "99f63001-886e-42b1-9b1c-5eef5f52183f",
+    "model": "claude-opus-4-6",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 695,
+      "output_tokens": 47
+    }
+  }
+}

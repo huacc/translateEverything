@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p9_b36",
+      "translation": "(5) Total Weighted Premium Income includes 100% of renewal premiums, 100% of first year premiums, and 10% of single premiums, before reinsurance ceded."
+    }
+  ]
+}
+```

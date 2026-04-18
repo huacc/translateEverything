@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p2_b50",
+    "lane": "caption_label",
+    "source_text": "134 合併財務狀況表",
+    "current_translation": "134 Consolidated Statement of Financial Position"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p2_b50",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+文档场景：上市保险公司企业年报。
+当前输入属于短标签通道。优先使用标准年报表达。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 10,
+    "page_sections": [
+      {
+        "source_section": "主席報告",
+        "target_section": "Chairman's Statement",
+        "content_type": "chairman_statement",
+        "page_range": [
+          10,
+          11
+        ]
+      }
+    ],
+    "term_usage_mode": "heading",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "在2019冠狀病毒病大流行期間，",
+      "next_group_source_excerpt": "持續為數以百萬計的客戶"
+    }
+  },
+  "mapping_hits": [],
+  "fact_locks": [],
+  "current_unit": {
+    "unit_id": "p10_b10",
+    "lane": "caption_label",
+    "source_text": "我們的同事關懷社群，克盡己職，"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p10_b10",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

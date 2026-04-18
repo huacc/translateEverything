@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p8_b76",
+    "lane": "caption_label",
+    "source_text": "十億美元",
+    "current_translation": "Billion US Dollars"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p8_b76",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

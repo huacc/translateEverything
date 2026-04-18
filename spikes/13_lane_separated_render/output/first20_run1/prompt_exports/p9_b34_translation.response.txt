@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p9_b34",
+      "translation": "(3) ANP is a measure of the level of new business, calculated as the sum of 100% of annualized first-year premiums and 10% of single premiums, before reinsurance ceded."
+    }
+  ]
+}
+```

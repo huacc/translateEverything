@@ -1,0 +1,29 @@
+任务
+- unit_id：p3_b8
+- 输入单元：正文语义组（group）
+
+压缩要求
+- 只删除冗余表达，不改变事实和数字。
+- 保持年报文风正式稳定。
+- 不要跨组补写，也不要为了版面改义。
+
+原文
+為超過
+3,800萬份
+個人保單的持有人及逾
+1,600萬名
+團體保險計劃的參與
+成員提供服務
+
+当前译文
+Serving holders of over 38 million individual policies and over 16 million members of group insurance schemes
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p3_b8",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

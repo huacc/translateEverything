@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p3_b6",
+    "lane": "caption_label",
+    "source_text": "的國際人壽\n保險公司",
+    "current_translation": "international life insurance company"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p3_b6",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

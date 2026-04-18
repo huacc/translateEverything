@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "stage": "compact",
+    "page_no": 6,
+    "group_id": "p6_b17"
+  },
+  "request": {
+    "model": "claude-opus-4-6",
+    "max_tokens": 4096,
+    "system": "你是上市公司年报短标签压缩助手。\n语言方向：Traditional Chinese -> English。\n只做最小必要压缩，不改变核心语义，不扩写。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "任务\n- unit_id：p6_b17\n- 输入单元：短标签 / 小标题\n\n原文\n相信無論是現在或未來，最重要和最\n\n当前译文\nWe believe that both now and in the future, the most important and most\n\n输出格式\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p6_b17\",\n      \"translation\": \"<更紧凑译文>\"\n    }\n  ]\n}"
+      }
+    ],
+    "thinking": {
+      "type": "adaptive"
+    },
+    "output_config": {
+      "effort": "max"
+    }
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p6_b17\",\n      \"translation\": \"We believe the most important and most\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "5ce6b056-b1da-4b65-a634-8947a6b8c6c3",
+    "conversation_id": "5ce6b056-b1da-4b65-a634-8947a6b8c6c3",
+    "id": "5ce6b056-b1da-4b65-a634-8947a6b8c6c3",
+    "model": "claude-opus-4-6",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 203,
+      "output_tokens": 45
+    }
+  }
+}

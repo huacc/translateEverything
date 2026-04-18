@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 6,
+    "group_id": "p6_b8"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是上市保险公司年报中的标签翻译器。\n语言方向：Traditional Chinese -> English。\n只处理当前 caption/label unit。\n保持短、稳、正式，不自由改写。\n只输出 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市保险公司企业年报。\n当前输入属于短标签通道。优先使用标准年报表达。\n{\n  \"task\": {\n    \"scenario\": \"listed_company_annual_report\",\n    \"industry\": \"Life Insurance\",\n    \"report_type\": \"annual_report\",\n    \"company_name_target\": \"AIA GROUP LIMITED\",\n    \"direction\": \"Traditional Chinese -> English\"\n  },\n  \"page_context\": {\n    \"page_no\": 6,\n    \"page_sections\": [],\n    \"term_usage_mode\": \"heading\",\n    \"neighbor_context\": {\n      \"previous_group_source_excerpt\": \"自此，友邦保險發展成為全球最大的\",\n      \"next_group_source_excerpt\": \"泛亞地區獨立上市人壽保險集團，業務\"\n    }\n  },\n  \"mapping_hits\": [\n    {\n      \"source\": \"友邦保險\",\n      \"target\": \"AIA\",\n      \"hit_type\": \"glossary_term\"\n    }\n  ],\n  \"fact_locks\": [],\n  \"current_unit\": {\n    \"unit_id\": \"p6_b8\",\n    \"lane\": \"caption_label\",\n    \"source_text\": \"影響的承諾，友邦保險的目標是協助大\"\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p6_b8\",\n        \"translation\": \"<译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p6_b8\",\n      \"translation\": \"commitment to impact, AIA's objective is to help large\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "e4b43ca3-e5e5-43cd-9733-5a347833c56d",
+    "conversation_id": "e4b43ca3-e5e5-43cd-9733-5a347833c56d",
+    "id": "e4b43ca3-e5e5-43cd-9733-5a347833c56d",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 468,
+      "output_tokens": 51
+    }
+  }
+}

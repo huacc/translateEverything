@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 15,
+    "group_id": "p15_b18"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是上市保险公司年报中的标签翻译器。\n语言方向：Traditional Chinese -> English。\n只处理当前 caption/label unit。\n保持短、稳、正式，不自由改写。\n只输出 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市保险公司企业年报。\n当前输入属于短标签通道。优先使用标准年报表达。\n{\n  \"task\": {\n    \"scenario\": \"listed_company_annual_report\",\n    \"industry\": \"Life Insurance\",\n    \"report_type\": \"annual_report\",\n    \"company_name_target\": \"AIA GROUP LIMITED\",\n    \"direction\": \"Traditional Chinese -> English\"\n  },\n  \"page_context\": {\n    \"page_no\": 15,\n    \"page_sections\": [\n      {\n        \"source_section\": \"集團首席執行官兼總裁報告\",\n        \"target_section\": \"Group Chief Executive and President's Report\",\n        \"content_type\": \"ceo_report\",\n        \"page_range\": [\n          12,\n          16\n        ]\n      }\n    ],\n    \"term_usage_mode\": \"heading\",\n    \"neighbor_context\": {\n      \"previous_group_source_excerpt\": \"我們從2020年下半年起，透過友邦保險在新加坡和越南的業務作為兩個試點業務單位，展開塑造一個轉型機構的\\n旅程。初步成果已實現更簡化、更以客為本的營運模式，我們亦推行靈活的工作方式，設立多個跨職能的專家團\\n隊。我們計劃在這些試點業務內進...\",\n      \"next_group_source_excerpt\": \"過去一個多世紀以來，友邦保險為亞洲客戶的生活帶來正面和持久的影響。我們的社區存在不少環境、社會及管\\n治議題，包括氣候變化、環境污染及生活模式相關疾病。隨著疫情大流行持續，突顯了這些問題的複雜性。作為\\n客戶和社區的終身夥伴，我們竭盡所能...\"\n    }\n  },\n  \"mapping_hits\": [\n    {\n      \"source\": \"環境、社會及管治\",\n      \"target\": \"Environmental, Social and Governance\",\n      \"hit_type\": \"context_term\"\n    }\n  ],\n  \"fact_locks\": [],\n  \"current_unit\": {\n    \"unit_id\": \"p15_b18\",\n    \"lane\": \"caption_label\",\n    \"source_text\": \"環境、社會及管治\"\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p15_b18\",\n        \"translation\": \"<译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p15_b18\",\n      \"translation\": \"Environmental, Social and Governance\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "d05d75bd-6aef-41bd-b43b-3093965ec778",
+    "conversation_id": "d05d75bd-6aef-41bd-b43b-3093965ec778",
+    "id": "d05d75bd-6aef-41bd-b43b-3093965ec778",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 815,
+      "output_tokens": 45
+    }
+  }
+}

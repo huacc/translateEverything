@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 19,
+    "group_id": "p19_g03"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是上市保险公司年报翻译器。\n语言方向：Traditional Chinese -> English。\n只处理当前 body semantic group。\n只可在当前组内恢复跨块断句，不得跨组补写、跨组删写或改写事实。\n必须严格满足 mapping_hits 与 fact_locks。\n版面回填、字体压缩、分块分配不是你的职责，不要为了适配版面而删词改义。\n保持正式、稳定、可出版的企业年报文风。\n只输出 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市保险公司企业年报。\n先满足 fact_locks，再保证术语稳定、语义完整和年报文风。\n{\n  \"task\": {\n    \"scenario\": \"listed_company_annual_report\",\n    \"industry\": \"Life Insurance\",\n    \"report_type\": \"annual_report\",\n    \"company_name_target\": \"AIA GROUP LIMITED\",\n    \"direction\": \"Traditional Chinese -> English\"\n  },\n  \"page_context\": {\n    \"page_no\": 19,\n    \"page_sections\": [\n      {\n        \"source_section\": \"集團首席財務總監回顧\",\n        \"target_section\": \"Group Chief Financial Officer's Review\",\n        \"content_type\": \"cfo_review\",\n        \"page_range\": [\n          18,\n          30\n        ]\n      }\n    ],\n    \"term_usage_mode\": \"table\",\n    \"neighbor_context\": {\n      \"previous_group_source_excerpt\": \"截至2020年12月31日的內涵價值權益創下新高為671.85億美元，於派付股息19.97億美元之前增加52.77億美元，\",\n      \"next_group_source_excerpt\": \"我們的高質素、經常性盈利來源以及對有效保單組合的積極管理，帶動稅後營運溢利增長了5%至59.42億美元，\\n並使營運溢利率穩定在16.9%。所收取的續保保費增加了10%，經常性保費總額佔2020年所收取保費的90%以\\n上。稅後營運溢利增...\"\n    }\n  },\n  \"mapping_hits\": [\n    {\n      \"source\": \"內涵價值營運溢利\",\n      \"target\": \"EV operating profit\",\n      \"hit_type\": \"context_term\"\n    },\n    {\n      \"source\": \"內涵價值\",\n      \"target\": \"EV\",\n      \"hit_type\": \"context_term\"\n    }\n  ],\n  \"fact_locks\": [\n    {\n      \"label\": \"ev_operating_profit_usd\",\n      \"fact_type\": \"usd_scaled_amount\",\n      \"source_value\": \"72.43億美元\",\n      \"expected_forms\": [\n        \"US$7.243 billion\",\n        \"US$7243 million\",\n        \"US$7,243 million\"\n      ]\n    },\n    {\n      \"label\": \"ev_operating_profit_usd\",\n      \"fact_type\": \"usd_scaled_amount\",\n      \"source_value\": \"5.49億美元\",\n      \"expected_forms\": [\n        \"US$0.549 billion\",\n        \"US$549 million\",\n        \"US$549 million\"\n      ]\n    }\n  ],\n  \"current_group\": {\n    \"group_id\": \"p19_g03\",\n    \"lane\": \"body\",\n    \"group_text\": \"原因在於內涵價值營運溢利72.43億美元抵銷了政府債券收益率下降的影響。內涵價值營運溢利包括來自正面營\\n運差異5.49億美元，原因在於與我們的內涵價值假設相比，我們的整體經驗持續維持正面。\",\n    \"source_block_ids\": [\n      \"p19_b10\",\n      \"p19_b11\"\n    ],\n    \"source_block_count\": 2\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p19_g03\",\n        \"translation\": \"<译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p19_g03\",\n      \"translation\": \"This was due to EV operating profit of US$7.243 billion offsetting the impact of lower government bond yields. EV operating profit included positive operating variances of US$549 million, reflecting the continued favorable experience of our overall results compared to our EV assumptions.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "b6a8fb46-f9aa-4a23-b7c3-25347890fbf5",
+    "conversation_id": "b6a8fb46-f9aa-4a23-b7c3-25347890fbf5",
+    "id": "b6a8fb46-f9aa-4a23-b7c3-25347890fbf5",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1153,
+      "output_tokens": 90
+    }
+  }
+}

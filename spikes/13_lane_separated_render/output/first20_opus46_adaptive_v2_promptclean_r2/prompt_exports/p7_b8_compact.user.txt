@@ -1,0 +1,19 @@
+任务
+- unit_id：p7_b8
+- 输入单元：短标签 / 小标题
+
+原文
+繼續其學業的學生。
+
+当前译文
+Students continuing their studies.
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p7_b8",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

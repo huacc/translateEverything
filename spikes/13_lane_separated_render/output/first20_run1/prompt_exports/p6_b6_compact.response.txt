@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p6_b6",
+      "translation": "Committed to delivering significant and positive value to customers and communities"
+    }
+  ]
+}
+```

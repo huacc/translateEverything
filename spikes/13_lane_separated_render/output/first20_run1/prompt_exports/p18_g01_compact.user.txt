@@ -1,0 +1,42 @@
+文档场景：上市公司企业年报
+{
+  "document_background": {
+    "page_sections": [
+      {
+        "source_section": "集團首席財務總監回顧",
+        "target_section": "Group Chief Financial Officer's Review",
+        "content_type": "cfo_review",
+        "page_range": [
+          18,
+          30
+        ]
+      }
+    ],
+    "roles": [],
+    "terms": [],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "Use established financial abbreviations for table labels when provided.",
+      "Keep row and column semantics unchanged.",
+      "Use n/m for 無意義."
+    ]
+  },
+  "current_unit": {
+    "page_no": 18,
+    "unit_id": "p18_g01",
+    "unit_mode": "semantic_group",
+    "slot_count": 4,
+    "source_text": "在2020年，友邦保險在全球大流行病帶來的空前商業和宏觀經濟狀況下錄得強勁的財務表現。儘管外出限制導致\n2020年新業務價值下降，但隨著業務的調整和限制的有所放寬，我們看到了銷售勢頭的恢復。這種勢頭一直持續\n到2021年，首兩個月新業務價值與2020年同期相比增長15%。多年來，我們審慎的財務管理和貫徹對高質素業務\n的策略性重點，體現了稅後營運溢利和產生的基本自由盈餘的持續增長、穩健而強韌的資本狀況以及每股股息的",
+    "current_translation": "In 2020, AIA recorded strong financial performance amid the unprecedented business and macroeconomic conditions brought about by the global pandemic. Although external mobility restrictions led to a decline in VONB in 2020, as business adjusted and restrictions eased, we saw a recovery in sales momentum. This momentum continued into 2021, with VONB in the first two months growing 15% compared to the same period in 2020. Over the years, our prudent financial management and consistent strategic focus on high-quality business have been reflected in continued growth in OPAT and UFSG, a robust and resilient capital position, and dividend per share"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p18_g01",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+/**
+ * 对比审校页样式
+ */
+
+.comparison-review-page {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  background-color: #f5f5f5;
+}
+
+/* 顶部工具栏 */
+.toolbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 24px;
+  background: #ffffff;
+  border-bottom: 1px solid #f0f0f0;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.toolbar-left {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.toolbar-left .file-name {
+  font-size: 16px;
+  font-weight: 500;
+  color: #262626;
+}
+
+.file-summary {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.file-meta {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 13px;
+  color: #595959;
+}
+
+.toolbar-right {
+  display: flex;
+  align-items: center;
+}
+
+/* 对比容器 */
+.comparison-container {
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  gap: 1px;
+  background-color: #d9d9d9;
+}
+
+/* PDF面板 */
+.pdf-panel {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  background: #ffffff;
+  overflow: hidden;
+}
+
+.panel-header {
+  padding: 12px 16px;
+  background: #fafafa;
+  border-bottom: 1px solid #f0f0f0;
+  font-size: 14px;
+  font-weight: 500;
+  color: #595959;
+  text-align: center;
+}
+
+.pdf-content {
+  flex: 1;
+  overflow: auto;
+  padding: 24px;
+  background: #f5f7fb;
+}
+
+/* PDF占位符（开发阶段使用） */
+.pdf-placeholder {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 800px;
+  background: #fafafa;
+  border: 2px dashed #d9d9d9;
+  border-radius: 8px;
+  color: #8c8c8c;
+}
+
+.pdf-placeholder p {
+  margin: 8px 0;
+}
+
+/* 加载状态 */
+.loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-size: 16px;
+  color: #8c8c8c;
+}
+
+/* 滚动条样式 */
+.pdf-content::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+.pdf-content::-webkit-scrollbar-track {
+  background: #f0f0f0;
+}
+
+.pdf-content::-webkit-scrollbar-thumb {
+  background: #bfbfbf;
+  border-radius: 4px;
+}
+
+.pdf-content::-webkit-scrollbar-thumb:hover {
+  background: #8c8c8c;
+}
+
+/* 响应式设计 */
+@media (max-width: 1200px) {
+  .toolbar {
+    flex-direction: column;
+    gap: 12px;
+    align-items: flex-start;
+  }
+
+  .toolbar-left,
+  .toolbar-right {
+    width: 100%;
+    justify-content: space-between;
+  }
+}
+
+@media (max-width: 768px) {
+  .comparison-container {
+    flex-direction: column;
+  }
+
+  .pdf-panel {
+    min-height: 400px;
+  }
+}

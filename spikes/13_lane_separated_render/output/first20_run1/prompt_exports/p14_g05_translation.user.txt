@@ -1,0 +1,105 @@
+文档场景：上市保险公司企业年报。
+先满足 fact_locks，再保证术语稳定、语义完整和年报文风。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 14,
+    "page_sections": [
+      {
+        "source_section": "集團首席執行官兼總裁報告",
+        "target_section": "Group Chief Executive and President's Report",
+        "content_type": "ceo_report",
+        "page_range": [
+          12,
+          16
+        ]
+      }
+    ],
+    "term_usage_mode": "table",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "友邦保險泰國業務在下半年錄得非常強勁的表現。儘管新業務價值全年下降4%，但隨著外出限制放寬，按月表\n現已展現正面動力，而下半年新業務價值較上半年錄得33%的增長。",
+      "next_group_source_excerpt": "馬來西亞方面，新業務價值全年下降13%，特別反映在上半年嚴格執行的外出限制。下半年新業務價值回升，較\n上半年增長72%。"
+    }
+  },
+  "mapping_hits": [
+    {
+      "source": "新業務價值",
+      "target": "VONB",
+      "hit_type": "context_term"
+    },
+    {
+      "source": "稅後營運溢利",
+      "target": "OPAT",
+      "hit_type": "context_term"
+    },
+    {
+      "source": "代理渠道",
+      "target": "agency channel",
+      "hit_type": "glossary_term"
+    },
+    {
+      "source": "新加坡",
+      "target": "Singapore",
+      "hit_type": "glossary_term"
+    }
+  ],
+  "fact_locks": [
+    {
+      "label": "percentage_56",
+      "fact_type": "percentage",
+      "source_value": "56%",
+      "expected_forms": [
+        "56%"
+      ]
+    },
+    {
+      "label": "percentage_12",
+      "fact_type": "percentage",
+      "source_value": "12%",
+      "expected_forms": [
+        "12%"
+      ]
+    },
+    {
+      "label": "percentage_5",
+      "fact_type": "percentage",
+      "source_value": "5%",
+      "expected_forms": [
+        "5%"
+      ]
+    },
+    {
+      "label": "percentage_8",
+      "fact_type": "percentage",
+      "source_value": "8%",
+      "expected_forms": [
+        "8%"
+      ]
+    }
+  ],
+  "current_group": {
+    "group_id": "p14_g05",
+    "lane": "body",
+    "group_text": "新加坡業務下半年亦有卓越的好轉，與上半年比較，新業務價值上升56%，按年則上升12%。新業務價值全年\n下降5%，由於我們的境外夥伴業務受到嚴格的邊境管制措施所影響，抵銷代理渠道的增長。稅後營運溢利上升\n8%。",
+    "source_block_ids": [
+      "p14_b17",
+      "p14_b18",
+      "p14_b19"
+    ],
+    "source_block_count": 3
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p14_g05",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

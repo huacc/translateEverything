@@ -1,0 +1,32 @@
+任务
+- 语言方向：Traditional Chinese -> English
+- 文档场景：上市公司企业年报
+- 公司：AIA GROUP LIMITED
+- 当前页面：17
+- 当前输入单元：短标签 / 小标题
+
+翻译要求
+- 保持短、稳、正式，不要自由改写。
+- 不要把短标签扩写成解释性句子。
+- 不负责排版和回填。
+
+页面上下文
+- 当前章节：Financial and Operating Review，类型：financial_review（页码 17-30）
+- 术语使用模式：heading
+- 上一组摘要：財務及營運回顧
+- 下一组摘要：040 業務回顧
+
+当前标签
+- unit_id：p17_b2
+- 原文：
+016 集團首席財務總監回顧
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p17_b2",
+      "translation": "<译文>"
+    }
+  ]
+}

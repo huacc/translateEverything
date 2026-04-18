@@ -1,0 +1,331 @@
+[
+  {
+    "group_id": "p20_b4",
+    "page_no": 20,
+    "source": "新業務價值",
+    "target": "New Business Value",
+    "hit_type": "context_term",
+    "source_block_ids": [
+      "p20_b4"
+    ],
+    "evidence": "按分部劃分的新業務價值、年化新保費及利潤率"
+  },
+  {
+    "group_id": "p20_b4",
+    "page_no": 20,
+    "source": "年化新保費",
+    "target": "Annualized New Premium",
+    "hit_type": "context_term",
+    "source_block_ids": [
+      "p20_b4"
+    ],
+    "evidence": "按分部劃分的新業務價值、年化新保費及利潤率"
+  },
+  {
+    "group_id": "p20_b4",
+    "page_no": 20,
+    "source": "利潤率",
+    "target": "Profit Margin",
+    "hit_type": "context_term",
+    "source_block_ids": [
+      "p20_b4"
+    ],
+    "evidence": "按分部劃分的新業務價值、年化新保費及利潤率"
+  },
+  {
+    "group_id": "p20_b5",
+    "page_no": 20,
+    "source": "新業務價值",
+    "target": "VONB",
+    "hit_type": "context_term",
+    "source_block_ids": [
+      "p20_b5"
+    ],
+    "evidence": "2020年\n2019年\n新業務價值變動"
+  },
+  {
+    "group_id": "p20_b6",
+    "page_no": 20,
+    "source": "利潤率",
+    "target": "Profit Margin",
+    "hit_type": "context_term",
+    "source_block_ids": [
+      "p20_b6"
+    ],
+    "evidence": "新業務\n價值\n利潤率\n年化\n新保費\n新業務\n價值"
+  },
+  {
+    "group_id": "p20_b7",
+    "page_no": 20,
+    "source": "利潤率",
+    "target": "Profit Margin",
+    "hit_type": "context_term",
+    "source_block_ids": [
+      "p20_b7"
+    ],
+    "evidence": "新業務\n價值\n利潤率\n年化\n新保費\n按年變動\n（固定匯率）\n按年變動\n（實質匯率）"
+  },
+  {
+    "group_id": "p20_b10",
+    "page_no": 20,
+    "source": "泰國",
+    "target": "Thailand",
+    "hit_type": "glossary_term",
+    "source_block_ids": [
+      "p20_b10"
+    ],
+    "evidence": "泰國\n469\n71.0%\n661\n494\n67.7%\n729\n(4)%\n(5)%"
+  },
+  {
+    "group_id": "p20_b11",
+    "page_no": 20,
+    "source": "新加坡",
+    "target": "Singapore",
+    "hit_type": "glossary_term",
+    "source_block_ids": [
+      "p20_b11"
+    ],
+    "evidence": "新加坡\n330\n63.4%\n520\n352\n65.5%\n538\n(5)%\n(6)%"
+  },
+  {
+    "group_id": "p20_b12",
+    "page_no": 20,
+    "source": "馬來西亞",
+    "target": "Malaysia",
+    "hit_type": "glossary_term",
+    "source_block_ids": [
+      "p20_b12"
+    ],
+    "evidence": "馬來西亞\n222\n59.9%\n369\n258\n63.1%\n406\n(13)%\n(14)%"
+  },
+  {
+    "group_id": "p20_b13",
+    "page_no": 20,
+    "source": "中國內地",
+    "target": "Mainland China",
+    "hit_type": "glossary_term",
+    "source_block_ids": [
+      "p20_b13"
+    ],
+    "evidence": "中國內地\n968\n80.9%\n1,197\n1,167\n93.5%\n1,248\n(17)%\n(17)%"
+  },
+  {
+    "group_id": "p20_g01",
+    "page_no": 20,
+    "source": "友邦保險中國業務",
+    "target": "AIA China",
+    "hit_type": "context_term",
+    "source_block_ids": [
+      "p20_b22"
+    ],
+    "evidence": "儘管2020年的新業務價值27.65億美元較2019年減少了33%，我們迅速採用了新的數碼工具，並且外出限制的普\n遍放寬支持了銷售勢頭的恢復。友邦保險中國業務為2020年本集團的新業務價值帶來最大貢獻，也是我們第一個\n顯示銷售勢頭有所恢復的報告分部，原因在於該地區自2020年3月逐步放寬嚴格的封鎖。撇除維持低位的中國內"
+  },
+  {
+    "group_id": "p20_g01",
+    "page_no": 20,
+    "source": "新業務價值",
+    "target": "VONB",
+    "hit_type": "context_term",
+    "source_block_ids": [
+      "p20_b21",
+      "p20_b22",
+      "p20_b24",
+      "p20_b25"
+    ],
+    "evidence": "儘管2020年的新業務價值27.65億美元較2019年減少了33%，我們迅速採用了新的數碼工具，並且外出限制的普\n遍放寬支持了銷售勢頭的恢復。友邦保險中國業務為2020年本集團的新業務價值帶來最大貢獻，也是我們第一個\n顯示銷售勢頭有所恢復的報告分部，原因在於該地區自2020年3月逐步放寬嚴格的封鎖。撇除維持低位的中國內"
+  },
+  {
+    "group_id": "p20_g01",
+    "page_no": 20,
+    "source": "友邦保險",
+    "target": "AIA",
+    "hit_type": "glossary_term",
+    "source_block_ids": [
+      "p20_b22"
+    ],
+    "evidence": "儘管2020年的新業務價值27.65億美元較2019年減少了33%，我們迅速採用了新的數碼工具，並且外出限制的普\n遍放寬支持了銷售勢頭的恢復。友邦保險中國業務為2020年本集團的新業務價值帶來最大貢獻，也是我們第一個\n顯示銷售勢頭有所恢復的報告分部，原因在於該地區自2020年3月逐步放寬嚴格的封鎖。撇除維持低位的中國內"
+  },
+  {
+    "group_id": "p20_g02",
+    "page_no": 20,
+    "source": "友邦保險中國業務",
+    "target": "AIA China",
+    "hit_type": "context_term",
+    "source_block_ids": [
+      "p20_b26",
+      "p20_b29"
+    ],
+    "evidence": "友邦保險中國業務在2021年錄得成功的勢頭，首兩個月的新業務價值與2020年同期比較，錄得非常強勁的增\n長。2020年新業務價值9.68億美元較2019年減少17%，主要由於2019冠狀病毒病在第一季爆發初期而導致銷售額\n有限。隨著外出限制放寬，新業務動力得以迅速改善。新業務價值重拾我們慣常的季節性規律，比重更側重於上"
+  },
+  {
+    "group_id": "p20_g02",
+    "page_no": 20,
+    "source": "新業務價值",
+    "target": "VONB",
+    "hit_type": "context_term",
+    "source_block_ids": [
+      "p20_b26",
+      "p20_b27",
+      "p20_b28",
+      "p20_b29"
+    ],
+    "evidence": "友邦保險中國業務在2021年錄得成功的勢頭，首兩個月的新業務價值與2020年同期比較，錄得非常強勁的增\n長。2020年新業務價值9.68億美元較2019年減少17%，主要由於2019冠狀病毒病在第一季爆發初期而導致銷售額\n有限。隨著外出限制放寬，新業務動力得以迅速改善。新業務價值重拾我們慣常的季節性規律，比重更側重於上"
+  },
+  {
+    "group_id": "p20_g02",
+    "page_no": 20,
+    "source": "2019冠狀病毒病",
+    "target": "COVID-19",
+    "hit_type": "context_term",
+    "source_block_ids": [
+      "p20_b27"
+    ],
+    "evidence": "友邦保險中國業務在2021年錄得成功的勢頭，首兩個月的新業務價值與2020年同期比較，錄得非常強勁的增\n長。2020年新業務價值9.68億美元較2019年減少17%，主要由於2019冠狀病毒病在第一季爆發初期而導致銷售額\n有限。隨著外出限制放寬，新業務動力得以迅速改善。新業務價值重拾我們慣常的季節性規律，比重更側重於上"
+  },
+  {
+    "group_id": "p20_g02",
+    "page_no": 20,
+    "source": "友邦保險",
+    "target": "AIA",
+    "hit_type": "glossary_term",
+    "source_block_ids": [
+      "p20_b26",
+      "p20_b29"
+    ],
+    "evidence": "友邦保險中國業務在2021年錄得成功的勢頭，首兩個月的新業務價值與2020年同期比較，錄得非常強勁的增\n長。2020年新業務價值9.68億美元較2019年減少17%，主要由於2019冠狀病毒病在第一季爆發初期而導致銷售額\n有限。隨著外出限制放寬，新業務動力得以迅速改善。新業務價值重拾我們慣常的季節性規律，比重更側重於上"
+  },
+  {
+    "group_id": "p20_g03",
+    "page_no": 20,
+    "source": "友邦保險香港業務",
+    "target": "AIA Hong Kong",
+    "hit_type": "context_term",
+    "source_block_ids": [
+      "p20_b30"
+    ],
+    "evidence": "在實施旅遊限制後，友邦保險香港業務來自中國內地訪港客戶的新業務銷售自2020年2月初起實際上已暫停，導\n致其新業務價值大幅下降。新業務價值利潤率錄得跌幅，反映新業務量減少導致承保開支超支、產品組合變動及\n利率下降的影響所致。澳門在2020年9月底恢復中國內地旅客個人遊計劃。這為澳門的中國內地訪澳客戶銷售回\n升提供支持，"
+  },
+  {
+    "group_id": "p20_g03",
+    "page_no": 20,
+    "source": "友邦保險澳門分公司",
+    "target": "AIA Macau",
+    "hit_type": "context_term",
+    "source_block_ids": [
+      "p20_b33"
+    ],
+    "evidence": "在實施旅遊限制後，友邦保險香港業務來自中國內地訪港客戶的新業務銷售自2020年2月初起實際上已暫停，導\n致其新業務價值大幅下降。新業務價值利潤率錄得跌幅，反映新業務量減少導致承保開支超支、產品組合變動及\n利率下降的影響所致。澳門在2020年9月底恢復中國內地旅客個人遊計劃。這為澳門的中國內地訪澳客戶銷售回\n升提供支持，"
+  },
+  {
+    "group_id": "p20_g03",
+    "page_no": 20,
+    "source": "中國內地訪港客戶",
+    "target": "Mainland Chinese visitors",
+    "hit_type": "context_term",
+    "source_block_ids": [
+      "p20_b30"
+    ],
+    "evidence": "在實施旅遊限制後，友邦保險香港業務來自中國內地訪港客戶的新業務銷售自2020年2月初起實際上已暫停，導\n致其新業務價值大幅下降。新業務價值利潤率錄得跌幅，反映新業務量減少導致承保開支超支、產品組合變動及\n利率下降的影響所致。澳門在2020年9月底恢復中國內地旅客個人遊計劃。這為澳門的中國內地訪澳客戶銷售回\n升提供支持，"
+  },
+  {
+    "group_id": "p20_g03",
+    "page_no": 20,
+    "source": "個人遊計劃",
+    "target": "Individual Visit Scheme",
+    "hit_type": "context_term",
+    "source_block_ids": [
+      "p20_b32"
+    ],
+    "evidence": "在實施旅遊限制後，友邦保險香港業務來自中國內地訪港客戶的新業務銷售自2020年2月初起實際上已暫停，導\n致其新業務價值大幅下降。新業務價值利潤率錄得跌幅，反映新業務量減少導致承保開支超支、產品組合變動及\n利率下降的影響所致。澳門在2020年9月底恢復中國內地旅客個人遊計劃。這為澳門的中國內地訪澳客戶銷售回\n升提供支持，"
+  },
+  {
+    "group_id": "p20_g03",
+    "page_no": 20,
+    "source": "新業務價值利潤率",
+    "target": "VONB margin",
+    "hit_type": "context_term",
+    "source_block_ids": [
+      "p20_b31"
+    ],
+    "evidence": "在實施旅遊限制後，友邦保險香港業務來自中國內地訪港客戶的新業務銷售自2020年2月初起實際上已暫停，導\n致其新業務價值大幅下降。新業務價值利潤率錄得跌幅，反映新業務量減少導致承保開支超支、產品組合變動及\n利率下降的影響所致。澳門在2020年9月底恢復中國內地旅客個人遊計劃。這為澳門的中國內地訪澳客戶銷售回\n升提供支持，"
+  },
+  {
+    "group_id": "p20_g03",
+    "page_no": 20,
+    "source": "新業務價值",
+    "target": "VONB",
+    "hit_type": "context_term",
+    "source_block_ids": [
+      "p20_b31"
+    ],
+    "evidence": "在實施旅遊限制後，友邦保險香港業務來自中國內地訪港客戶的新業務銷售自2020年2月初起實際上已暫停，導\n致其新業務價值大幅下降。新業務價值利潤率錄得跌幅，反映新業務量減少導致承保開支超支、產品組合變動及\n利率下降的影響所致。澳門在2020年9月底恢復中國內地旅客個人遊計劃。這為澳門的中國內地訪澳客戶銷售回\n升提供支持，"
+  },
+  {
+    "group_id": "p20_g03",
+    "page_no": 20,
+    "source": "年化新保費",
+    "target": "ANP",
+    "hit_type": "context_term",
+    "source_block_ids": [
+      "p20_b33"
+    ],
+    "evidence": "在實施旅遊限制後，友邦保險香港業務來自中國內地訪港客戶的新業務銷售自2020年2月初起實際上已暫停，導\n致其新業務價值大幅下降。新業務價值利潤率錄得跌幅，反映新業務量減少導致承保開支超支、產品組合變動及\n利率下降的影響所致。澳門在2020年9月底恢復中國內地旅客個人遊計劃。這為澳門的中國內地訪澳客戶銷售回\n升提供支持，"
+  },
+  {
+    "group_id": "p20_g03",
+    "page_no": 20,
+    "source": "利潤率",
+    "target": "Profit Margin",
+    "hit_type": "context_term",
+    "source_block_ids": [
+      "p20_b31"
+    ],
+    "evidence": "在實施旅遊限制後，友邦保險香港業務來自中國內地訪港客戶的新業務銷售自2020年2月初起實際上已暫停，導\n致其新業務價值大幅下降。新業務價值利潤率錄得跌幅，反映新業務量減少導致承保開支超支、產品組合變動及\n利率下降的影響所致。澳門在2020年9月底恢復中國內地旅客個人遊計劃。這為澳門的中國內地訪澳客戶銷售回\n升提供支持，"
+  },
+  {
+    "group_id": "p20_g03",
+    "page_no": 20,
+    "source": "友邦保險",
+    "target": "AIA",
+    "hit_type": "glossary_term",
+    "source_block_ids": [
+      "p20_b30",
+      "p20_b33"
+    ],
+    "evidence": "在實施旅遊限制後，友邦保險香港業務來自中國內地訪港客戶的新業務銷售自2020年2月初起實際上已暫停，導\n致其新業務價值大幅下降。新業務價值利潤率錄得跌幅，反映新業務量減少導致承保開支超支、產品組合變動及\n利率下降的影響所致。澳門在2020年9月底恢復中國內地旅客個人遊計劃。這為澳門的中國內地訪澳客戶銷售回\n升提供支持，"
+  },
+  {
+    "group_id": "p20_g03",
+    "page_no": 20,
+    "source": "中國內地",
+    "target": "Mainland China",
+    "hit_type": "glossary_term",
+    "source_block_ids": [
+      "p20_b30",
+      "p20_b32"
+    ],
+    "evidence": "在實施旅遊限制後，友邦保險香港業務來自中國內地訪港客戶的新業務銷售自2020年2月初起實際上已暫停，導\n致其新業務價值大幅下降。新業務價值利潤率錄得跌幅，反映新業務量減少導致承保開支超支、產品組合變動及\n利率下降的影響所致。澳門在2020年9月底恢復中國內地旅客個人遊計劃。這為澳門的中國內地訪澳客戶銷售回\n升提供支持，"
+  },
+  {
+    "group_id": "p20_g03",
+    "page_no": 20,
+    "source": "中國內地訪澳客戶",
+    "target": "Mainland Chinese visitors",
+    "hit_type": "glossary_term",
+    "source_block_ids": [
+      "p20_b32"
+    ],
+    "evidence": "在實施旅遊限制後，友邦保險香港業務來自中國內地訪港客戶的新業務銷售自2020年2月初起實際上已暫停，導\n致其新業務價值大幅下降。新業務價值利潤率錄得跌幅，反映新業務量減少導致承保開支超支、產品組合變動及\n利率下降的影響所致。澳門在2020年9月底恢復中國內地旅客個人遊計劃。這為澳門的中國內地訪澳客戶銷售回\n升提供支持，"
+  },
+  {
+    "group_id": "p20_b34",
+    "page_no": 20,
+    "source": "友邦保險",
+    "target": "AIA",
+    "hit_type": "glossary_term",
+    "source_block_ids": [
+      "p20_b34"
+    ],
+    "evidence": "018\n友邦保險控股有限公司"
+  }
+]

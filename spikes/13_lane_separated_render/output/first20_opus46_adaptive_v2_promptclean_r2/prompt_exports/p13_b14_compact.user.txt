@@ -1,0 +1,24 @@
+任务
+- unit_id：p13_b14
+- 输入单元：正文语义组（group）
+
+压缩要求
+- 只删除冗余表达，不改变事实和数字。
+- 保持年报文风正式稳定。
+- 不要跨组补写，也不要为了版面改义。
+
+原文
+董事會建議2020年末期股息增加7.5%至每股100.30港仙。這秉承友邦保險行之已久的審慎、可持續及漸進的派息
+
+当前译文
+The Board has proposed a 7.5% increase in the 2020 final dividend to 100.30 Hong Kong cents per share. This is in line with AIA's long-standing prudent, sustainable and progressive dividend
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p13_b14",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

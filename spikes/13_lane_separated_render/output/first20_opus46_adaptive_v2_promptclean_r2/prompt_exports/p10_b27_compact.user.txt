@@ -1,0 +1,19 @@
+任务
+- unit_id：p10_b27
+- 输入单元：短标签 / 小标题
+
+原文
+及漸進的派息政策，讓本集團可把握未來的增長機遇，並保持財務靈活性。
+
+当前译文
+and progressive dividend policy, enabling the Group to capture future growth opportunities while maintaining financial flexibility.
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p10_b27",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

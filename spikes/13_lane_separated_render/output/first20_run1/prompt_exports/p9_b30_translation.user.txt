@@ -1,0 +1,55 @@
+文档场景：上市保险公司企业年报。
+先满足 fact_locks，再保证术语稳定、语义完整和年报文风。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 9,
+    "page_sections": [
+      {
+        "source_section": "概覽",
+        "target_section": "Overview",
+        "content_type": "executive_summary",
+        "page_range": [
+          8,
+          16
+        ]
+      }
+    ],
+    "term_usage_mode": "table",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "附註：",
+      "next_group_source_excerpt": "(1) 自2017年起，財務資料按12月31日的財政年度結算基準\n列報。於2016年的財務資料按11月30日的財政年度結算\n基準列報。"
+    }
+  },
+  "mapping_hits": [
+    {
+      "source": "新業務價值",
+      "target": "VONB",
+      "hit_type": "context_term"
+    }
+  ],
+  "fact_locks": [],
+  "current_group": {
+    "group_id": "p9_b30",
+    "lane": "body",
+    "group_text": "(7) 各分部新業務價值包括退休金業務，按當地法定基準列示、未計\n入未分配集團總部開支、並且未扣除非控股權益。",
+    "source_block_ids": [
+      "p9_b30"
+    ],
+    "source_block_count": 1
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p9_b30",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

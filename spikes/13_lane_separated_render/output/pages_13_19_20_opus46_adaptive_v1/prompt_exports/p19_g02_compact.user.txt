@@ -1,0 +1,42 @@
+文档场景：上市公司企业年报
+{
+  "document_background": {
+    "page_sections": [
+      {
+        "source_section": "集團首席財務總監回顧",
+        "target_section": "Group Chief Financial Officer's Review",
+        "content_type": "cfo_review",
+        "page_range": [
+          18,
+          30
+        ]
+      }
+    ],
+    "roles": [],
+    "terms": [],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "Use established financial abbreviations for table labels when provided.",
+      "Keep row and column semantics unchanged.",
+      "Use n/m for 無意義."
+    ]
+  },
+  "current_unit": {
+    "page_no": 19,
+    "unit_id": "p19_g02",
+    "unit_mode": "semantic_group",
+    "slot_count": 4,
+    "source_text": "團的新業務價值帶來最大貢獻，也是我們第一個顯示銷售勢頭有所恢復的報告分部，原因在於該地區自2020年3\n月逐步放寬嚴格的封鎖。撇除維持低位的中國內地訪港旅客銷售額，本集團其他分部的新業務價值在下半年強勁\n復甦，與上半年相比增長了23%。本集團的新業務發展勢頭在2021年持續強勁，首兩個月新業務價值較2020年同\n期高出15%。",
+    "current_translation": "contributed the most to the Group's VONB and was our first reporting segment to show a recovery in sales momentum as the region progressively eased strict lockdowns from March 2020. Excluding sales to Mainland Chinese visitors which remained low, VONB across the rest of the Group's segments rebounded strongly in the second half, growing 23% compared to the first half. The Group's new business momentum continued to be strong into 2021, with VONB in the first two months 15% higher than the same period in 2020."
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p19_g02",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

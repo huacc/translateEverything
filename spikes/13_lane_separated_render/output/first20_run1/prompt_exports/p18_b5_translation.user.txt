@@ -1,0 +1,61 @@
+文档场景：上市保险公司企业年报。
+当前输入属于短标签通道。优先使用标准年报表达。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 18,
+    "page_sections": [
+      {
+        "source_section": "集團首席財務總監回顧",
+        "target_section": "Group Chief Financial Officer's Review",
+        "content_type": "cfo_review",
+        "page_range": [
+          18,
+          30
+        ]
+      }
+    ],
+    "term_usage_mode": "heading",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "強勁的財務業績。在新業務價值受到全球疫情導致的外出限制",
+      "next_group_source_excerpt": "及內涵價值權益的穩健增長。我們的財務狀況仍然非常穩健，"
+    }
+  },
+  "mapping_hits": [
+    {
+      "source": "稅後營運溢利",
+      "target": "Operating Profit After Tax",
+      "hit_type": "context_term"
+    },
+    {
+      "source": "產生的基本自由盈餘",
+      "target": "Underlying Free Surplus Generation",
+      "hit_type": "context_term"
+    },
+    {
+      "source": "自由盈餘",
+      "target": "Free Surplus",
+      "hit_type": "context_term"
+    }
+  ],
+  "fact_locks": [],
+  "current_unit": {
+    "unit_id": "p18_b5",
+    "lane": "caption_label",
+    "source_text": "影響的情況下，我們錄得了稅後營運溢利、產生的基本自由盈餘"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p18_b5",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

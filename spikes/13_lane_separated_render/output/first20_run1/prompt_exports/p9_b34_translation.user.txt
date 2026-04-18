@@ -1,0 +1,72 @@
+文档场景：上市保险公司企业年报。
+先满足 fact_locks，再保证术语稳定、语义完整和年报文风。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 9,
+    "page_sections": [
+      {
+        "source_section": "概覽",
+        "target_section": "Overview",
+        "content_type": "executive_summary",
+        "page_range": [
+          8,
+          16
+        ]
+      }
+    ],
+    "term_usage_mode": "table",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "(2) 新業務價值是期間內所售新業務在未來產生的預計稅後法定溢利\n按銷售當時計算的現值扣除用作支持新業務而持有超過法定準備\n金所需資金的成本。",
+      "next_group_source_excerpt": "(4) 所列示的稅後營運溢利已扣除非控股權益。"
+    }
+  },
+  "mapping_hits": [
+    {
+      "source": "年化新保費",
+      "target": "ANP",
+      "hit_type": "context_term"
+    }
+  ],
+  "fact_locks": [
+    {
+      "label": "percentage_100",
+      "fact_type": "percentage",
+      "source_value": "100%",
+      "expected_forms": [
+        "100%"
+      ]
+    },
+    {
+      "label": "percentage_10",
+      "fact_type": "percentage",
+      "source_value": "10%",
+      "expected_forms": [
+        "10%"
+      ]
+    }
+  ],
+  "current_group": {
+    "group_id": "p9_b34",
+    "lane": "body",
+    "group_text": "(3) 年化新保費是一項衡量新業務水平的指標，以再保險分出前年化\n首年保費100%及整付保費10%之總和計算。",
+    "source_block_ids": [
+      "p9_b34"
+    ],
+    "source_block_count": 1
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p9_b34",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

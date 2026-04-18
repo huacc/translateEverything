@@ -1,0 +1,45 @@
+文档场景：上市保险公司企业年报。
+先满足 fact_locks，再保证术语稳定、语义完整和年报文风。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 5,
+    "page_sections": [],
+    "term_usage_mode": "table",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "友邦保險的目標是協助大眾實現健康、長久、好生活。",
+      "next_group_source_excerpt": "風險。我們作出迅速和全面的應對，包括為我們的社區"
+    }
+  },
+  "mapping_hits": [
+    {
+      "source": "2019冠狀病毒病",
+      "target": "COVID-19",
+      "hit_type": "context_term"
+    }
+  ],
+  "fact_locks": [],
+  "current_group": {
+    "group_id": "p5_b2",
+    "lane": "body",
+    "group_text": "於2020年，2019冠狀病毒病為我們的社區帶來前所未見的",
+    "source_block_ids": [
+      "p5_b2"
+    ],
+    "source_block_count": 1
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p5_b2",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

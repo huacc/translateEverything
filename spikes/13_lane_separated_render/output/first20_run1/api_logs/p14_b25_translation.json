@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 14,
+    "group_id": "p14_b25"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是上市保险公司年报翻译器。\n语言方向：Traditional Chinese -> English。\n只处理当前 body semantic group。\n只可在当前组内恢复跨块断句，不得跨组补写、跨组删写或改写事实。\n必须严格满足 mapping_hits 与 fact_locks。\n版面回填、字体压缩、分块分配不是你的职责，不要为了适配版面而删词改义。\n保持正式、稳定、可出版的企业年报文风。\n只输出 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市保险公司企业年报。\n先满足 fact_locks，再保证术语稳定、语义完整和年报文风。\n{\n  \"task\": {\n    \"scenario\": \"listed_company_annual_report\",\n    \"industry\": \"Life Insurance\",\n    \"report_type\": \"annual_report\",\n    \"company_name_target\": \"AIA GROUP LIMITED\",\n    \"direction\": \"Traditional Chinese -> English\"\n  },\n  \"page_context\": {\n    \"page_no\": 14,\n    \"page_sections\": [\n      {\n        \"source_section\": \"集團首席執行官兼總裁報告\",\n        \"target_section\": \"Group Chief Executive and President's Report\",\n        \"content_type\": \"ceo_report\",\n        \"page_range\": [\n          12,\n          16\n        ]\n      }\n    ],\n    \"term_usage_mode\": \"overview_narrative\",\n    \"neighbor_context\": {\n      \"previous_group_source_excerpt\": \"中國台灣及印度在2020年較2019年錄得雙位數字增長。\",\n      \"next_group_source_excerpt\": \"雖然疫情大流行期間面對面會議受到限制，導致新業務價值下降28%，但隨著限制放寬，加上各業務採用新的數\\n碼工具，新業務價值在下半年已強勁回升。正面銷售動力延續至2021年，與2020年同期比較，代理業務在首兩\"\n    }\n  },\n  \"mapping_hits\": [\n    {\n      \"source\": \"代理渠道\",\n      \"target\": \"agency channel\",\n      \"hit_type\": \"glossary_term\"\n    }\n  ],\n  \"fact_locks\": [],\n  \"current_group\": {\n    \"group_id\": \"p14_b25\",\n    \"lane\": \"body\",\n    \"group_text\": \"代理渠道方面，我們轉移使用線上招聘和入職培訓的趨勢，支持新入職代理及代理主管人數錄得雙位數字增長。\",\n    \"source_block_ids\": [\n      \"p14_b25\"\n    ],\n    \"source_block_count\": 1\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p14_b25\",\n        \"translation\": \"<译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p14_b25\",\n      \"translation\": \"On the agency channel front, we shifted towards online recruitment and onboarding practices, which supported double-digit growth in the number of new recruits and agency managers.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "d7b068cc-b254-47a2-a32b-fa24ed3d1d7c",
+    "conversation_id": "d7b068cc-b254-47a2-a32b-fa24ed3d1d7c",
+    "id": "d7b068cc-b254-47a2-a32b-fa24ed3d1d7c",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 819,
+      "output_tokens": 69
+    }
+  }
+}

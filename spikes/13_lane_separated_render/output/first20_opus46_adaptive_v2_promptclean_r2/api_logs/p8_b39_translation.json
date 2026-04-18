@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 8,
+    "group_id": "p8_b39"
+  },
+  "request": {
+    "model": "claude-opus-4-6",
+    "max_tokens": 4096,
+    "system": "你是上市公司年报表格翻译助手。\n语言方向：Traditional Chinese -> English。\n只负责翻译当前表格单元，不负责排版、回填、压缩。\n保持表格语义和顺序，不要改写成正文。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "任务\n- 语言方向：Traditional Chinese -> English\n- 文档场景：上市公司企业年报\n- 公司：AIA GROUP LIMITED\n- 当前页面：8\n- 当前输入单元：表格单元 / 表格行\n- table_role：row\n\n翻译要求\n- 保持表格语义，不要改写成正文句子。\n- 尽量保持原有行结构和顺序。\n- 数字、百分比、货币、缩写、括号位置必须准确。\n- 不负责排版和回填。\n\n页面上下文\n- 当前章节：Overview，类型：executive_summary（页码 8-16）\n- 上一组摘要：2017\n2018\n2019\n2016\n- 下一组摘要：US$ MILLIONS\n\n术语锁定\n- 稅後營運溢利 => Operating Profit After Tax [context_term]\n- 總加權保費收入 => Total Weighted Premium Income [context_term]\n\n当前表格输入\n- unit_id：p8_b39\n- 原文行数：2\n- 原文：\n稅後營運溢利(4)(9)\n總加權保費收入(5)\n\n输出格式\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p8_b39\",\n      \"translation\": \"<译文>\"\n    }\n  ]\n}"
+      }
+    ],
+    "thinking": {
+      "type": "adaptive"
+    },
+    "output_config": {
+      "effort": "max"
+    }
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p8_b39\",\n      \"translation\": \"Operating Profit After Tax(4)(9)\\nTotal Weighted Premium Income(5)\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "565c08b1-3186-47e5-86b2-6bbb07080c04",
+    "conversation_id": "565c08b1-3186-47e5-86b2-6bbb07080c04",
+    "id": "565c08b1-3186-47e5-86b2-6bbb07080c04",
+    "model": "claude-opus-4-6",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 473,
+      "output_tokens": 56
+    }
+  }
+}

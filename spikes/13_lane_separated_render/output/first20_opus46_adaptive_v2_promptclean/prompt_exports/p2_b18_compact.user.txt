@@ -1,0 +1,19 @@
+任务
+- unit_id：p2_b18
+- 输入单元：短标签 / 小标题
+
+原文
+069 董事責任聲明
+
+当前译文
+069 Directors' Responsibility Statement
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p2_b18",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

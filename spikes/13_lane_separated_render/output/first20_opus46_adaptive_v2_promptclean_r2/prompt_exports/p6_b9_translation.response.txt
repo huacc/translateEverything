@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p6_b9",
+      "translation": "Pan-Asian independent listed life insurance group with operations"
+    }
+  ]
+}
+```

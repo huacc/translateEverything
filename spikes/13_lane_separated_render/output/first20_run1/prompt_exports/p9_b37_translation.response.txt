@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p9_b37",
+      "translation": "(9) AIA has changed its accounting treatment under International Financial Reporting Standards for the recognition and measurement of insurance contract liabilities for its Hong Kong participating business to reflect expected changes in policyholder dividends. Comparative data for 2019 has been adjusted. Comparative data for 2018 and prior years have not been restated."
+    }
+  ]
+}
+```

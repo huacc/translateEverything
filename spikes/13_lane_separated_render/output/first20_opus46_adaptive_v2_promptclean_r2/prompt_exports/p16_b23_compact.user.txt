@@ -1,0 +1,19 @@
+任务
+- unit_id：p16_b23
+- 输入单元：短标签 / 小标题
+
+原文
+增長率乃按固定匯率列示，管理層相信這可更清晰地說明相關業務按年的表現。
+
+当前译文
+Growth rates are presented on a constant exchange rate basis, which management believes provides a clearer illustration of the underlying business performance year-on-year.
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p16_b23",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

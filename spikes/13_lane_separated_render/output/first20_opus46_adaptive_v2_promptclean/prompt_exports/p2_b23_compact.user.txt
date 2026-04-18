@@ -1,0 +1,19 @@
+任务
+- unit_id：p2_b23
+- 输入单元：短标签 / 小标题
+
+原文
+涵蓋壽險、意外及醫療保險和儲蓄計劃，
+
+当前译文
+covering life, accident and health insurance and savings plans,
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p2_b23",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

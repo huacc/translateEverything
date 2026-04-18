@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p19_b9",
+      "translation": "EV equity as at 31 December 2020 reached a record high of US$67.185 billion, up US$5.277 billion before dividends of US$1.997 billion,"
+    }
+  ]
+}
+```

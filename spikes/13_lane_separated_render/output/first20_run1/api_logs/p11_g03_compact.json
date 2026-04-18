@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "compact",
+    "page_no": 11,
+    "group_id": "p11_g03"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是年报英文压缩器，不是重译器。\n语言方向：Traditional Chinese -> English。\n你的任务只是对已有译文做最小必要压缩，以便回填原版面。\n禁止改变数字、单位、术语、专名、比较关系、主体和结论。\n标题不能改成正文，表头不能改成句子，不能输出口语化表达。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市公司企业年报\n{\n  \"document_background\": {\n    \"page_sections\": [\n      {\n        \"source_section\": \"主席報告\",\n        \"target_section\": \"Chairman's Statement\",\n        \"content_type\": \"chairman_statement\",\n        \"page_range\": [\n          10,\n          11\n        ]\n      }\n    ],\n    \"roles\": [\n      {\n        \"source\": \"謝仕榮先生\",\n        \"target\": \"Mr. Tse Sze-wing\",\n        \"role\": \"Independent Non-Executive Chairman\"\n      },\n      {\n        \"source\": \"李源祥\",\n        \"target\": \"Lee Yuen Cheung\",\n        \"role\": \"Group Chief Executive and President\"\n      }\n    ],\n    \"terms\": [],\n    \"style_rules\": [\n      \"Use US$ for U.S. dollar amounts.\",\n      \"Keep listed-company annual report disclosure tone formal and publishable.\",\n      \"Do not change numbers, percentages, years, named entities or financial metric values.\",\n      \"Use established financial abbreviations for table labels when provided.\",\n      \"Keep row and column semantics unchanged.\",\n      \"Use n/m for 無意義.\"\n    ]\n  },\n  \"current_unit\": {\n    \"page_no\": 11,\n    \"unit_id\": \"p11_g03\",\n    \"unit_mode\": \"semantic_group\",\n    \"slot_count\": 3,\n    \"source_text\": \"董事會的重要責任之一是確保領導層人才輩出，並執行有效的繼任安排。我們歡迎李源祥先生於2020年6月1日\\n接替榮休的黃經輝先生，擔任集團首席執行官兼總裁。本人謹代表董事會向李源祥先生及其管理層團隊深表\\n謝意，他們在這段前所未見的環境發揮優秀的管理才能，帶領我們的業務向前邁進。我們也衷心感謝黃經輝先生\",\n    \"current_translation\": \"One of the Board's key responsibilities is to ensure a strong pipeline of leadership talent and to execute effective succession planning. We are pleased to welcome Mr. Lee Yuen Cheung as Group Chief Executive Officer and President, succeeding Mr. Wong King Fai upon his retirement on 1 June 2020. On behalf of the Board, I would like to express our deep appreciation to Mr. Lee Yuen Cheung and his management team for their outstanding leadership during this unprecedented environment, as they continue to drive our business forward. We also wish to extend our heartfelt thanks to Mr. Wong King Fai\"\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p11_g03\",\n        \"translation\": \"<更紧凑译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p11_g03\",\n      \"translation\": \"One of the Board's key responsibilities is ensuring a strong pipeline of leadership talent and executing effective succession planning. We are pleased to welcome Mr. Lee Yuen Cheung as Group Chief Executive Officer and President, succeeding Mr. Wong King Fai upon his retirement on 1 June 2020. On behalf of the Board, I express our deep appreciation to Mr. Lee Yuen Cheung and his management team for their outstanding leadership during this unprecedented environment as they drive our business forward. We also extend our heartfelt thanks to Mr. Wong King Fai\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "57a177f9-3f0e-4778-bf1d-e81e9bc2d703",
+    "conversation_id": "57a177f9-3f0e-4778-bf1d-e81e9bc2d703",
+    "id": "57a177f9-3f0e-4778-bf1d-e81e9bc2d703",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 857,
+      "output_tokens": 146
+    }
+  }
+}

@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p2_b28",
+      "translation": "needs. The Group also provides corporate clients"
+    }
+  ]
+}
+```

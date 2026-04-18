@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p6_b11",
+    "lane": "caption_label",
+    "source_text": "覆蓋18個市場，為超過3,800萬份個人",
+    "current_translation": "Covering 18 markets, serving over 38 million individual customers"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p6_b11",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

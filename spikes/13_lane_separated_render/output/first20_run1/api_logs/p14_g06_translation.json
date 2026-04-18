@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 14,
+    "group_id": "p14_g06"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是上市保险公司年报翻译器。\n语言方向：Traditional Chinese -> English。\n只处理当前 body semantic group。\n只可在当前组内恢复跨块断句，不得跨组补写、跨组删写或改写事实。\n必须严格满足 mapping_hits 与 fact_locks。\n版面回填、字体压缩、分块分配不是你的职责，不要为了适配版面而删词改义。\n保持正式、稳定、可出版的企业年报文风。\n只输出 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市保险公司企业年报。\n先满足 fact_locks，再保证术语稳定、语义完整和年报文风。\n{\n  \"task\": {\n    \"scenario\": \"listed_company_annual_report\",\n    \"industry\": \"Life Insurance\",\n    \"report_type\": \"annual_report\",\n    \"company_name_target\": \"AIA GROUP LIMITED\",\n    \"direction\": \"Traditional Chinese -> English\"\n  },\n  \"page_context\": {\n    \"page_no\": 14,\n    \"page_sections\": [\n      {\n        \"source_section\": \"集團首席執行官兼總裁報告\",\n        \"target_section\": \"Group Chief Executive and President's Report\",\n        \"content_type\": \"ceo_report\",\n        \"page_range\": [\n          12,\n          16\n        ]\n      }\n    ],\n    \"term_usage_mode\": \"table\",\n    \"neighbor_context\": {\n      \"previous_group_source_excerpt\": \"新加坡業務下半年亦有卓越的好轉，與上半年比較，新業務價值上升56%，按年則上升12%。新業務價值全年\\n下降5%，由於我們的境外夥伴業務受到嚴格的邊境管制措施所影響，抵銷代理渠道的增長。稅後營運溢利上升\\n8%。\",\n      \"next_group_source_excerpt\": \"其他市場方面，下半年的新業務價值較上半年上升10%，其中南韓和印尼的回升幅度正面。整體來說，新業務價\\n值全年下降4%，主要由於新西蘭、菲律賓及印尼錄得跌幅。其餘的市場均錄得新業務價值正增長，其中越南、\"\n    }\n  },\n  \"mapping_hits\": [\n    {\n      \"source\": \"新業務價值\",\n      \"target\": \"VONB\",\n      \"hit_type\": \"context_term\"\n    },\n    {\n      \"source\": \"馬來西亞\",\n      \"target\": \"Malaysia\",\n      \"hit_type\": \"glossary_term\"\n    }\n  ],\n  \"fact_locks\": [\n    {\n      \"label\": \"percentage_13\",\n      \"fact_type\": \"percentage\",\n      \"source_value\": \"13%\",\n      \"expected_forms\": [\n        \"13%\"\n      ]\n    },\n    {\n      \"label\": \"percentage_72\",\n      \"fact_type\": \"percentage\",\n      \"source_value\": \"72%\",\n      \"expected_forms\": [\n        \"72%\"\n      ]\n    }\n  ],\n  \"current_group\": {\n    \"group_id\": \"p14_g06\",\n    \"lane\": \"body\",\n    \"group_text\": \"馬來西亞方面，新業務價值全年下降13%，特別反映在上半年嚴格執行的外出限制。下半年新業務價值回升，較\\n上半年增長72%。\",\n    \"source_block_ids\": [\n      \"p14_b20\",\n      \"p14_b21\"\n    ],\n    \"source_block_count\": 2\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p14_g06\",\n        \"translation\": \"<译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p14_g06\",\n      \"translation\": \"In Malaysia, VONB declined by 13% for the full year, particularly reflecting the strict movement restrictions implemented in the first half. VONB recovered in the second half, growing 72% compared to the first half.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "21bee160-a39a-42b6-bb51-a67a37bef2ec",
+    "conversation_id": "21bee160-a39a-42b6-bb51-a67a37bef2ec",
+    "id": "21bee160-a39a-42b6-bb51-a67a37bef2ec",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1088,
+      "output_tokens": 82
+    }
+  }
+}

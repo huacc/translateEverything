@@ -1,0 +1,8034 @@
+[
+  {
+    "page_no": 20,
+    "block_id": "p20_b1",
+    "reading_order": 1,
+    "bbox": [
+      73.7,
+      24.53,
+      146.7,
+      37.57
+    ],
+    "region": "top",
+    "role": "header",
+    "char_count": 7,
+    "source_text": "財務及營運回顧",
+    "block_type": "heading",
+    "style": {
+      "color_rgb255": [
+        212,
+        0,
+        59
+      ],
+      "font_size": 10.0,
+      "font_name": "F_ARIALNB",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALNB",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+        },
+        {
+          "fontname": "F_FRAMDCN",
+          "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+        },
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "Helvetica-Bold",
+          "fontfile": null
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "MHeiHK-Bold"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p20_b1_s01",
+        "block_id": "p20_b1",
+        "bbox": [
+          73.70079803466797,
+          24.526737213134766,
+          146.7008056640625,
+          37.566734313964844
+        ],
+        "font_size": 10.0,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          212,
+          0,
+          59
+        ]
+      }
+    ],
+    "font_size_avg": 10.0,
+    "font_size_max": 10.0,
+    "segment_count": 1,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": false,
+    "lane": "caption_label",
+    "lane_reason": "heading",
+    "lane_signals": [
+      "heading"
+    ]
+  },
+  {
+    "page_no": 20,
+    "block_id": "p20_b2",
+    "reading_order": 2,
+    "bbox": [
+      73.7,
+      37.85,
+      178.2,
+      50.89
+    ],
+    "region": "top",
+    "role": "header",
+    "char_count": 10,
+    "source_text": "集團首席財務總監回顧",
+    "block_type": "heading",
+    "style": {
+      "color_rgb255": [
+        62,
+        58,
+        57
+      ],
+      "font_size": 10.0,
+      "font_name": "F_ARIALNB",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALNB",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+        },
+        {
+          "fontname": "F_FRAMDCN",
+          "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+        },
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "Helvetica-Bold",
+          "fontfile": null
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "MHeiHK-Bold"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p20_b2_s01",
+        "block_id": "p20_b2",
+        "bbox": [
+          73.70079803466797,
+          37.849430084228516,
+          178.2008056640625,
+          50.889427185058594
+        ],
+        "font_size": 10.0,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          62,
+          58,
+          57
+        ]
+      }
+    ],
+    "font_size_avg": 10.0,
+    "font_size_max": 10.0,
+    "segment_count": 1,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": false,
+    "lane": "caption_label",
+    "lane_reason": "heading",
+    "lane_signals": [
+      "heading"
+    ]
+  },
+  {
+    "page_no": 20,
+    "block_id": "p20_b3",
+    "reading_order": 3,
+    "bbox": [
+      73.7,
+      91.03,
+      145.1,
+      109.29
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 5,
+    "source_text": "新業務表現",
+    "block_type": "label",
+    "style": {
+      "color_rgb255": [
+        212,
+        0,
+        59
+      ],
+      "font_size": 14.0,
+      "font_name": "F_ARIALNB",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALNB",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+        },
+        {
+          "fontname": "F_FRAMDCN",
+          "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+        },
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "Helvetica-Bold",
+          "fontfile": null
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "MHeiHK-Bold"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p20_b3_s01",
+        "block_id": "p20_b3",
+        "bbox": [
+          73.70069885253906,
+          91.0301284790039,
+          145.10069274902344,
+          109.2861328125
+        ],
+        "font_size": 14.0,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          212,
+          0,
+          59
+        ]
+      }
+    ],
+    "font_size_avg": 14.0,
+    "font_size_max": 14.0,
+    "segment_count": 1,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": false,
+    "lane": "caption_label",
+    "lane_reason": "label_block",
+    "lane_signals": [
+      "label_block"
+    ]
+  },
+  {
+    "page_no": 20,
+    "block_id": "p20_b4",
+    "reading_order": 4,
+    "bbox": [
+      73.7,
+      127.41,
+      288.7,
+      140.45
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 21,
+    "source_text": "按分部劃分的新業務價值、年化新保費及利潤率",
+    "block_type": "label",
+    "style": {
+      "color_rgb255": [
+        62,
+        58,
+        57
+      ],
+      "font_size": 10.0,
+      "font_name": "F_ARIALNB",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALNB",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+        },
+        {
+          "fontname": "F_FRAMDCN",
+          "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+        },
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "Helvetica-Bold",
+          "fontfile": null
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "MHeiHK-Medium"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p20_b4_s01",
+        "block_id": "p20_b4",
+        "bbox": [
+          73.70069885253906,
+          127.4061279296875,
+          288.70068359375,
+          140.44613647460938
+        ],
+        "font_size": 10.0,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          62,
+          58,
+          57
+        ]
+      }
+    ],
+    "font_size_avg": 10.0,
+    "font_size_max": 10.0,
+    "segment_count": 1,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": false,
+    "lane": "caption_label",
+    "lane_reason": "label_block",
+    "lane_signals": [
+      "label_block"
+    ]
+  },
+  {
+    "page_no": 20,
+    "block_id": "p20_b5",
+    "reading_order": 5,
+    "bbox": [
+      227.46,
+      151.81,
+      503.2,
+      163.03
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 19,
+    "source_text": "2020年\n2019年\n新業務價值變動",
+    "block_type": "body",
+    "style": {
+      "color_rgb255": [
+        255,
+        255,
+        255
+      ],
+      "font_size": 8.5,
+      "font_name": "F_ARIALNB",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALNB",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+        },
+        {
+          "fontname": "F_FRAMDCN",
+          "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+        },
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "Helvetica-Bold",
+          "fontfile": null
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "DIN-Bold",
+        "DIN-Regular",
+        "MHeiHK-Bold",
+        "MHeiHK-Medium"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p20_b5_s01",
+        "block_id": "p20_b5",
+        "bbox": [
+          227.46389770507812,
+          151.81300354003906,
+          254.42587280273438,
+          162.89700317382812
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          255,
+          255,
+          255
+        ]
+      },
+      {
+        "slot_id": "p20_b5_s02",
+        "block_id": "p20_b5",
+        "bbox": [
+          346.9993896484375,
+          151.81300354003906,
+          373.2474365234375,
+          163.0330047607422
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          255,
+          255,
+          255
+        ]
+      },
+      {
+        "slot_id": "p20_b5_s03",
+        "block_id": "p20_b5",
+        "bbox": [
+          443.6954040527344,
+          151.81300354003906,
+          503.1954040527344,
+          162.89700317382812
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          255,
+          255,
+          255
+        ]
+      }
+    ],
+    "font_size_avg": 8.5,
+    "font_size_max": 8.5,
+    "segment_count": 3,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": false,
+    "lane": "table",
+    "lane_reason": "table_layout_signals",
+    "lane_signals": [
+      "numeric_dense",
+      "wide_block",
+      "small_font",
+      "multi_line",
+      "numeric_lines",
+      "table_keywords"
+    ]
+  },
+  {
+    "page_no": 20,
+    "block_id": "p20_b6",
+    "reading_order": 6,
+    "bbox": [
+      229.2,
+      167.28,
+      334.87,
+      199.78
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 24,
+    "source_text": "新業務\n價值\n利潤率\n年化\n新保費\n新業務\n價值",
+    "block_type": "body",
+    "style": {
+      "color_rgb255": [
+        0,
+        0,
+        0
+      ],
+      "font_size": 8.5,
+      "font_name": "F_ARIALNB",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALNB",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+        },
+        {
+          "fontname": "F_FRAMDCN",
+          "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+        },
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "Helvetica-Bold",
+          "fontfile": null
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "MHeiHK-Bold",
+        "MHeiHK-Light"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p20_b6_s01",
+        "block_id": "p20_b6",
+        "bbox": [
+          229.1955108642578,
+          167.2802276611328,
+          255.12049865722656,
+          178.36422729492188
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b6_s02",
+        "block_id": "p20_b6",
+        "bbox": [
+          237.9080047607422,
+          177.77772521972656,
+          255.12049865722656,
+          188.86172485351562
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b6_s03",
+        "block_id": "p20_b6",
+        "bbox": [
+          277.5945129394531,
+          177.77772521972656,
+          294.8070068359375,
+          188.86172485351562
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b6_s04",
+        "block_id": "p20_b6",
+        "bbox": [
+          308.9425048828125,
+          177.99021911621094,
+          334.86749267578125,
+          189.27822875976562
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b6_s05",
+        "block_id": "p20_b6",
+        "bbox": [
+          229.1955108642578,
+          188.2752227783203,
+          255.12049865722656,
+          199.35922241210938
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b6_s06",
+        "block_id": "p20_b6",
+        "bbox": [
+          268.88201904296875,
+          188.2752227783203,
+          294.8070068359375,
+          199.35922241210938
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b6_s07",
+        "block_id": "p20_b6",
+        "bbox": [
+          317.6549987792969,
+          188.4877166748047,
+          334.86749267578125,
+          199.77572631835938
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "font_size_avg": 8.5,
+    "font_size_max": 8.5,
+    "segment_count": 7,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": false,
+    "lane": "table",
+    "lane_reason": "table_layout_signals",
+    "lane_signals": [
+      "small_font",
+      "multi_line",
+      "table_keywords"
+    ]
+  },
+  {
+    "page_no": 20,
+    "block_id": "p20_b7",
+    "reading_order": 7,
+    "bbox": [
+      348.26,
+      167.48,
+      525.84,
+      199.77
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 41,
+    "source_text": "新業務\n價值\n利潤率\n年化\n新保費\n按年變動\n（固定匯率）\n按年變動\n（實質匯率）",
+    "block_type": "body",
+    "style": {
+      "color_rgb255": [
+        0,
+        0,
+        0
+      ],
+      "font_size": 8.5,
+      "font_name": "F_ARIALNB",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALNB",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+        },
+        {
+          "fontname": "F_FRAMDCN",
+          "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+        },
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "Helvetica-Bold",
+          "fontfile": null
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "MHeiHK-Bold",
+        "MHeiHK-Light"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p20_b7_s01",
+        "block_id": "p20_b7",
+        "bbox": [
+          348.2550048828125,
+          167.48423767089844,
+          374.17999267578125,
+          178.77224731445312
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b7_s02",
+        "block_id": "p20_b7",
+        "bbox": [
+          433.2124938964844,
+          177.7692413330078,
+          467.8499755859375,
+          188.85324096679688
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b7_s03",
+        "block_id": "p20_b7",
+        "bbox": [
+          356.9674987792969,
+          177.9817352294922,
+          374.17999267578125,
+          189.26974487304688
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b7_s04",
+        "block_id": "p20_b7",
+        "bbox": [
+          396.65399169921875,
+          177.9817352294922,
+          413.8664855957031,
+          189.26974487304688
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b7_s05",
+        "block_id": "p20_b7",
+        "bbox": [
+          486.94952392578125,
+          177.9817352294922,
+          521.5870361328125,
+          189.26974487304688
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b7_s06",
+        "block_id": "p20_b7",
+        "bbox": [
+          420.0375061035156,
+          188.26673889160156,
+          472.0999755859375,
+          199.35073852539062
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b7_s07",
+        "block_id": "p20_b7",
+        "bbox": [
+          348.2550048828125,
+          188.47923278808594,
+          374.17999267578125,
+          199.76724243164062
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b7_s08",
+        "block_id": "p20_b7",
+        "bbox": [
+          387.9414978027344,
+          188.47923278808594,
+          413.8664855957031,
+          199.76724243164062
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b7_s09",
+        "block_id": "p20_b7",
+        "bbox": [
+          473.7745361328125,
+          188.47923278808594,
+          525.8370361328125,
+          199.76724243164062
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "font_size_avg": 8.5,
+    "font_size_max": 8.5,
+    "segment_count": 9,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": false,
+    "lane": "table",
+    "lane_reason": "table_layout_signals",
+    "lane_signals": [
+      "small_font",
+      "multi_line",
+      "table_keywords"
+    ]
+  },
+  {
+    "page_no": 20,
+    "block_id": "p20_b8",
+    "reading_order": 8,
+    "bbox": [
+      79.37,
+      177.79,
+      215.81,
+      199.37
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 18,
+    "source_text": "百萬美元，除另有說明外\n新業務\n價值",
+    "block_type": "body",
+    "style": {
+      "color_rgb255": [
+        0,
+        0,
+        0
+      ],
+      "font_size": 8.5,
+      "font_name": "F_ARIALNB",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALNB",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+        },
+        {
+          "fontname": "F_FRAMDCN",
+          "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+        },
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "Helvetica-Bold",
+          "fontfile": null
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "MHeiHK-Bold",
+        "MHeiHK-Medium"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p20_b8_s01",
+        "block_id": "p20_b8",
+        "bbox": [
+          189.54299926757812,
+          177.7862091064453,
+          215.80801391601562,
+          188.87020874023438
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b8_s02",
+        "block_id": "p20_b8",
+        "bbox": [
+          198.42550659179688,
+          188.28370666503906,
+          215.80801391601562,
+          199.36770629882812
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b8_s03",
+        "block_id": "p20_b8",
+        "bbox": [
+          79.37000274658203,
+          191.33871459960938,
+          146.8699951171875,
+          199.16270446777344
+        ],
+        "font_size": 6.0,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "font_size_avg": 7.67,
+    "font_size_max": 8.5,
+    "segment_count": 3,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": false,
+    "lane": "table",
+    "lane_reason": "table_layout_signals",
+    "lane_signals": [
+      "small_font",
+      "multi_line",
+      "table_keywords"
+    ]
+  },
+  {
+    "page_no": 20,
+    "block_id": "p20_b9",
+    "reading_order": 9,
+    "bbox": [
+      79.38,
+      203.95,
+      521.6,
+      215.24
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 48,
+    "source_text": "香港\n550\n44.7%\n1,138\n1,621\n66.1%\n2,393\n(66)%\n(66)%",
+    "block_type": "body",
+    "style": {
+      "color_rgb255": [
+        0,
+        0,
+        0
+      ],
+      "font_size": 8.5,
+      "font_name": "F_ARIALNB",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALNB",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+        },
+        {
+          "fontname": "F_FRAMDCN",
+          "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+        },
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "Helvetica-Bold",
+          "fontfile": null
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "DIN-Light",
+        "DIN-Medium",
+        "DINNextLTPro-Light",
+        "DINNextLTPro-Medium",
+        "MHeiHK-Light"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p20_b9_s01",
+        "block_id": "p20_b9",
+        "bbox": [
+          79.38,
+          203.94920349121094,
+          149.7020606994629,
+          215.23721313476562
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b9_s02",
+        "block_id": "p20_b9",
+        "bbox": [
+          148.7020606994629,
+          204.53570556640625,
+          224.00055694580078,
+          214.82920837402344
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b9_s03",
+        "block_id": "p20_b9",
+        "bbox": [
+          223.00055694580078,
+          204.53570556640625,
+          264.83880615234375,
+          214.82920837402344
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b9_s04",
+        "block_id": "p20_b9",
+        "bbox": [
+          263.83880615234375,
+          204.53570556640625,
+          305.09483337402344,
+          214.82920837402344
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b9_s05",
+        "block_id": "p20_b9",
+        "bbox": [
+          429.35081481933594,
+          204.53570556640625,
+          484.57655334472656,
+          214.9737091064453
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b9_s06",
+        "block_id": "p20_b9",
+        "bbox": [
+          304.09483337402344,
+          204.74819946289062,
+          343.42132568359375,
+          215.0417022705078
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b9_s07",
+        "block_id": "p20_b9",
+        "bbox": [
+          342.42132568359375,
+          204.74819946289062,
+          384.2808380126953,
+          215.0417022705078
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b9_s08",
+        "block_id": "p20_b9",
+        "bbox": [
+          383.2808380126953,
+          204.74819946289062,
+          430.35081481933594,
+          215.0417022705078
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b9_s09",
+        "block_id": "p20_b9",
+        "bbox": [
+          483.57655334472656,
+          204.74819946289062,
+          521.6,
+          215.0417022705078
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "font_size_avg": 8.5,
+    "font_size_max": 8.5,
+    "segment_count": 9,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": false,
+    "lane": "table",
+    "lane_reason": "table_layout_signals",
+    "lane_signals": [
+      "numeric_dense",
+      "wide_block",
+      "small_font",
+      "multi_line",
+      "numeric_lines"
+    ]
+  },
+  {
+    "page_no": 20,
+    "block_id": "p20_b10",
+    "reading_order": 10,
+    "bbox": [
+      79.4,
+      219.42,
+      521.62,
+      230.71
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 40,
+    "source_text": "泰國\n469\n71.0%\n661\n494\n67.7%\n729\n(4)%\n(5)%",
+    "block_type": "body",
+    "style": {
+      "color_rgb255": [
+        0,
+        0,
+        0
+      ],
+      "font_size": 8.5,
+      "font_name": "F_ARIALNB",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALNB",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+        },
+        {
+          "fontname": "F_FRAMDCN",
+          "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+        },
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "Helvetica-Bold",
+          "fontfile": null
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "DIN-Light",
+        "DIN-Medium",
+        "DINNextLTPro-Light",
+        "DINNextLTPro-Medium",
+        "MHeiHK-Light"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p20_b10_s01",
+        "block_id": "p20_b10",
+        "bbox": [
+          79.4,
+          219.41917419433594,
+          149.71905899047852,
+          230.70718383789062
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b10_s02",
+        "block_id": "p20_b10",
+        "bbox": [
+          148.71905899047852,
+          220.00567626953125,
+          224.0175552368164,
+          230.29917907714844
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b10_s03",
+        "block_id": "p20_b10",
+        "bbox": [
+          223.0175552368164,
+          220.00567626953125,
+          268.4895477294922,
+          230.29917907714844
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b10_s04",
+        "block_id": "p20_b10",
+        "bbox": [
+          267.4895477294922,
+          220.00567626953125,
+          308.6053161621094,
+          230.29917907714844
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b10_s05",
+        "block_id": "p20_b10",
+        "bbox": [
+          431.73931884765625,
+          220.00567626953125,
+          486.88433837890625,
+          230.4436798095703
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b10_s06",
+        "block_id": "p20_b10",
+        "bbox": [
+          307.6053161621094,
+          220.21817016601562,
+          343.4383239746094,
+          230.5116729736328
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b10_s07",
+        "block_id": "p20_b10",
+        "bbox": [
+          342.4383239746094,
+          220.21817016601562,
+          387.7913360595703,
+          230.5116729736328
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b10_s08",
+        "block_id": "p20_b10",
+        "bbox": [
+          386.7913360595703,
+          220.21817016601562,
+          432.73931884765625,
+          230.5116729736328
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b10_s09",
+        "block_id": "p20_b10",
+        "bbox": [
+          485.88433837890625,
+          220.21817016601562,
+          521.62,
+          230.5116729736328
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "font_size_avg": 8.5,
+    "font_size_max": 8.5,
+    "segment_count": 9,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": false,
+    "lane": "table",
+    "lane_reason": "table_layout_signals",
+    "lane_signals": [
+      "numeric_dense",
+      "wide_block",
+      "small_font",
+      "multi_line",
+      "numeric_lines"
+    ]
+  },
+  {
+    "page_no": 20,
+    "block_id": "p20_b11",
+    "reading_order": 11,
+    "bbox": [
+      79.42,
+      234.89,
+      521.64,
+      246.18
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 41,
+    "source_text": "新加坡\n330\n63.4%\n520\n352\n65.5%\n538\n(5)%\n(6)%",
+    "block_type": "body",
+    "style": {
+      "color_rgb255": [
+        0,
+        0,
+        0
+      ],
+      "font_size": 8.5,
+      "font_name": "F_ARIALNB",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALNB",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+        },
+        {
+          "fontname": "F_FRAMDCN",
+          "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+        },
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "Helvetica-Bold",
+          "fontfile": null
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "DIN-Light",
+        "DIN-Medium",
+        "DINNextLTPro-Light",
+        "DINNextLTPro-Medium",
+        "MHeiHK-Light"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p20_b11_s01",
+        "block_id": "p20_b11",
+        "bbox": [
+          79.42,
+          234.88914489746094,
+          154.09233856201172,
+          246.17715454101562
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b11_s02",
+        "block_id": "p20_b11",
+        "bbox": [
+          153.09233856201172,
+          235.47564697265625,
+          224.03458404541016,
+          245.76914978027344
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b11_s03",
+        "block_id": "p20_b11",
+        "bbox": [
+          223.03458404541016,
+          235.47564697265625,
+          268.50657653808594,
+          245.76914978027344
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b11_s04",
+        "block_id": "p20_b11",
+        "bbox": [
+          267.50657653808594,
+          235.47564697265625,
+          308.6223449707031,
+          245.76914978027344
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b11_s05",
+        "block_id": "p20_b11",
+        "bbox": [
+          431.75634765625,
+          235.47564697265625,
+          486.9013671875,
+          245.9136505126953
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b11_s06",
+        "block_id": "p20_b11",
+        "bbox": [
+          307.6223449707031,
+          235.68814086914062,
+          343.4553527832031,
+          245.9816436767578
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b11_s07",
+        "block_id": "p20_b11",
+        "bbox": [
+          342.4553527832031,
+          235.68814086914062,
+          387.80836486816406,
+          245.9816436767578
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b11_s08",
+        "block_id": "p20_b11",
+        "bbox": [
+          386.80836486816406,
+          235.68814086914062,
+          432.75634765625,
+          245.9816436767578
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b11_s09",
+        "block_id": "p20_b11",
+        "bbox": [
+          485.9013671875,
+          235.68814086914062,
+          521.64,
+          245.9816436767578
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "font_size_avg": 8.5,
+    "font_size_max": 8.5,
+    "segment_count": 9,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": false,
+    "lane": "table",
+    "lane_reason": "table_layout_signals",
+    "lane_signals": [
+      "numeric_dense",
+      "wide_block",
+      "small_font",
+      "multi_line",
+      "numeric_lines"
+    ]
+  },
+  {
+    "page_no": 20,
+    "block_id": "p20_b12",
+    "reading_order": 12,
+    "bbox": [
+      79.43,
+      250.36,
+      521.66,
+      261.65
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 44,
+    "source_text": "馬來西亞\n222\n59.9%\n369\n258\n63.1%\n406\n(13)%\n(14)%",
+    "block_type": "body",
+    "style": {
+      "color_rgb255": [
+        0,
+        0,
+        0
+      ],
+      "font_size": 8.5,
+      "font_name": "F_ARIALNB",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALNB",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+        },
+        {
+          "fontname": "F_FRAMDCN",
+          "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+        },
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "Helvetica-Bold",
+          "fontfile": null
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "DIN-Light",
+        "DIN-Medium",
+        "DINNextLTPro-Light",
+        "DINNextLTPro-Medium",
+        "MHeiHK-Light"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p20_b12_s01",
+        "block_id": "p20_b12",
+        "bbox": [
+          79.43,
+          250.35911560058594,
+          158.46561813354492,
+          261.6471252441406
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b12_s02",
+        "block_id": "p20_b12",
+        "bbox": [
+          157.46561813354492,
+          250.94561767578125,
+          224.0516128540039,
+          261.2391052246094
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b12_s03",
+        "block_id": "p20_b12",
+        "bbox": [
+          223.0516128540039,
+          250.94561767578125,
+          268.5236053466797,
+          261.2391052246094
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b12_s04",
+        "block_id": "p20_b12",
+        "bbox": [
+          267.5236053466797,
+          250.94561767578125,
+          308.6393737792969,
+          261.2391052246094
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b12_s05",
+        "block_id": "p20_b12",
+        "bbox": [
+          429.40187072753906,
+          250.94561767578125,
+          484.6276092529297,
+          261.38360595703125
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b12_s06",
+        "block_id": "p20_b12",
+        "bbox": [
+          307.6393737792969,
+          251.15811157226562,
+          343.4723815917969,
+          261.4516296386719
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b12_s07",
+        "block_id": "p20_b12",
+        "bbox": [
+          342.4723815917969,
+          251.15811157226562,
+          387.8253936767578,
+          261.4516296386719
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b12_s08",
+        "block_id": "p20_b12",
+        "bbox": [
+          386.8253936767578,
+          251.15811157226562,
+          430.40187072753906,
+          261.4516296386719
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b12_s09",
+        "block_id": "p20_b12",
+        "bbox": [
+          483.6276092529297,
+          251.15811157226562,
+          521.66,
+          261.4516296386719
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "font_size_avg": 8.5,
+    "font_size_max": 8.5,
+    "segment_count": 9,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": false,
+    "lane": "table",
+    "lane_reason": "table_layout_signals",
+    "lane_signals": [
+      "numeric_dense",
+      "wide_block",
+      "small_font",
+      "multi_line",
+      "numeric_lines"
+    ]
+  },
+  {
+    "page_no": 20,
+    "block_id": "p20_b13",
+    "reading_order": 13,
+    "bbox": [
+      79.45,
+      265.83,
+      521.67,
+      277.12
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 50,
+    "source_text": "中國內地\n968\n80.9%\n1,197\n1,167\n93.5%\n1,248\n(17)%\n(17)%",
+    "block_type": "body",
+    "style": {
+      "color_rgb255": [
+        0,
+        0,
+        0
+      ],
+      "font_size": 8.5,
+      "font_name": "F_ARIALNB",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALNB",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+        },
+        {
+          "fontname": "F_FRAMDCN",
+          "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+        },
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "Helvetica-Bold",
+          "fontfile": null
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "DIN-Light",
+        "DIN-Medium",
+        "DINNextLTPro-Light",
+        "DINNextLTPro-Medium",
+        "MHeiHK-Light"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p20_b13_s01",
+        "block_id": "p20_b13",
+        "bbox": [
+          79.45,
+          265.8291015625,
+          158.48264694213867,
+          277.1170959472656
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b13_s02",
+        "block_id": "p20_b13",
+        "bbox": [
+          157.48264694213867,
+          266.41558837890625,
+          224.06864166259766,
+          276.7090759277344
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b13_s03",
+        "block_id": "p20_b13",
+        "bbox": [
+          223.06864166259766,
+          266.41558837890625,
+          264.9068908691406,
+          276.7090759277344
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b13_s04",
+        "block_id": "p20_b13",
+        "bbox": [
+          263.9068908691406,
+          266.41558837890625,
+          305.1629180908203,
+          276.7090759277344
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b13_s05",
+        "block_id": "p20_b13",
+        "bbox": [
+          429.4188995361328,
+          266.41558837890625,
+          484.64463806152344,
+          276.85357666015625
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b13_s06",
+        "block_id": "p20_b13",
+        "bbox": [
+          304.1629180908203,
+          266.6280822753906,
+          343.4894104003906,
+          276.9216003417969
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b13_s07",
+        "block_id": "p20_b13",
+        "bbox": [
+          342.4894104003906,
+          266.6280822753906,
+          384.3489227294922,
+          276.9216003417969
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b13_s08",
+        "block_id": "p20_b13",
+        "bbox": [
+          383.3489227294922,
+          266.6280822753906,
+          430.4188995361328,
+          276.9216003417969
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b13_s09",
+        "block_id": "p20_b13",
+        "bbox": [
+          483.64463806152344,
+          266.6280822753906,
+          521.67,
+          276.9216003417969
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "font_size_avg": 8.5,
+    "font_size_max": 8.5,
+    "segment_count": 9,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": false,
+    "lane": "table",
+    "lane_reason": "table_layout_signals",
+    "lane_signals": [
+      "numeric_dense",
+      "wide_block",
+      "small_font",
+      "multi_line",
+      "numeric_lines"
+    ]
+  },
+  {
+    "page_no": 20,
+    "block_id": "p20_b14",
+    "reading_order": 14,
+    "bbox": [
+      79.47,
+      281.3,
+      521.69,
+      292.59
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 46,
+    "source_text": "其他市場\n514\n38.4%\n1,334\n535\n41.9%\n1,271\n(4)%\n(4)%",
+    "block_type": "body",
+    "style": {
+      "color_rgb255": [
+        0,
+        0,
+        0
+      ],
+      "font_size": 8.5,
+      "font_name": "F_ARIALNB",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALNB",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+        },
+        {
+          "fontname": "F_FRAMDCN",
+          "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+        },
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "Helvetica-Bold",
+          "fontfile": null
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "DIN-Light",
+        "DIN-Medium",
+        "DINNextLTPro-Light",
+        "DINNextLTPro-Medium",
+        "MHeiHK-Light"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p20_b14_s01",
+        "block_id": "p20_b14",
+        "bbox": [
+          79.47,
+          281.299072265625,
+          158.49967575073242,
+          292.5870666503906
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b14_s02",
+        "block_id": "p20_b14",
+        "bbox": [
+          157.49967575073242,
+          281.88555908203125,
+          224.0856704711914,
+          292.1790466308594
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b14_s03",
+        "block_id": "p20_b14",
+        "bbox": [
+          223.0856704711914,
+          281.88555908203125,
+          264.9239196777344,
+          292.1790466308594
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b14_s04",
+        "block_id": "p20_b14",
+        "bbox": [
+          263.9239196777344,
+          281.88555908203125,
+          308.67344665527344,
+          292.1790466308594
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b14_s05",
+        "block_id": "p20_b14",
+        "bbox": [
+          431.80743408203125,
+          281.88555908203125,
+          486.95245361328125,
+          292.32354736328125
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b14_s06",
+        "block_id": "p20_b14",
+        "bbox": [
+          307.67344665527344,
+          282.0980529785156,
+          343.5064392089844,
+          292.3915710449219
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b14_s07",
+        "block_id": "p20_b14",
+        "bbox": [
+          342.5064392089844,
+          282.0980529785156,
+          384.36595153808594,
+          292.3915710449219
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b14_s08",
+        "block_id": "p20_b14",
+        "bbox": [
+          383.36595153808594,
+          282.0980529785156,
+          432.80743408203125,
+          292.3915710449219
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b14_s09",
+        "block_id": "p20_b14",
+        "bbox": [
+          485.95245361328125,
+          282.0980529785156,
+          521.69,
+          292.3915710449219
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "font_size_avg": 8.5,
+    "font_size_max": 8.5,
+    "segment_count": 9,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": false,
+    "lane": "table",
+    "lane_reason": "table_layout_signals",
+    "lane_signals": [
+      "numeric_dense",
+      "wide_block",
+      "small_font",
+      "multi_line",
+      "numeric_lines"
+    ]
+  },
+  {
+    "page_no": 20,
+    "block_id": "p20_b15",
+    "reading_order": 15,
+    "bbox": [
+      79.49,
+      296.56,
+      521.71,
+      307.86
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 50,
+    "source_text": "小計\n3,053\n57.7%\n5,219\n4,427\n66.6%\n6,585\n(31)%\n(31)%",
+    "block_type": "body",
+    "style": {
+      "color_rgb255": [
+        0,
+        0,
+        0
+      ],
+      "font_size": 8.5,
+      "font_name": "F_ARIALNB",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALNB",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+        },
+        {
+          "fontname": "F_FRAMDCN",
+          "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+        },
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "Helvetica-Bold",
+          "fontfile": null
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "DIN-Light",
+        "DIN-Medium",
+        "DINNextLTPro-Light",
+        "DINNextLTPro-Medium",
+        "MHeiHK-Bold"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p20_b15_s01",
+        "block_id": "p20_b15",
+        "bbox": [
+          79.49,
+          296.5565185546875,
+          146.17045211791992,
+          307.6405334472656
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b15_s02",
+        "block_id": "p20_b15",
+        "bbox": [
+          145.17045211791992,
+          297.35552978515625,
+          224.10269927978516,
+          307.6490173339844
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b15_s03",
+        "block_id": "p20_b15",
+        "bbox": [
+          223.10269927978516,
+          297.35552978515625,
+          264.9409484863281,
+          307.6490173339844
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b15_s04",
+        "block_id": "p20_b15",
+        "bbox": [
+          263.9409484863281,
+          297.35552978515625,
+          305.1969757080078,
+          307.6490173339844
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b15_s05",
+        "block_id": "p20_b15",
+        "bbox": [
+          429.4529571533203,
+          297.35552978515625,
+          484.67869567871094,
+          307.79351806640625
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b15_s06",
+        "block_id": "p20_b15",
+        "bbox": [
+          304.1969757080078,
+          297.5680236816406,
+          343.5234680175781,
+          307.8615417480469
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b15_s07",
+        "block_id": "p20_b15",
+        "bbox": [
+          342.5234680175781,
+          297.5680236816406,
+          384.3829803466797,
+          307.8615417480469
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b15_s08",
+        "block_id": "p20_b15",
+        "bbox": [
+          383.3829803466797,
+          297.5680236816406,
+          430.4529571533203,
+          307.8615417480469
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b15_s09",
+        "block_id": "p20_b15",
+        "bbox": [
+          483.67869567871094,
+          297.5680236816406,
+          521.71,
+          307.8615417480469
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "font_size_avg": 8.5,
+    "font_size_max": 8.5,
+    "segment_count": 9,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": false,
+    "lane": "table",
+    "lane_reason": "table_layout_signals",
+    "lane_signals": [
+      "numeric_dense",
+      "wide_block",
+      "small_font",
+      "multi_line",
+      "numeric_lines",
+      "table_keywords"
+    ]
+  },
+  {
+    "page_no": 20,
+    "block_id": "p20_b16",
+    "reading_order": 16,
+    "bbox": [
+      79.5,
+      312.24,
+      521.71,
+      334.02
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 53,
+    "source_text": "為符合合併準備金及\n資本要求所作調整\n(103)\n無意義\n無意義\n(87)\n無意義\n無意義\n無意義\n無意義",
+    "block_type": "body",
+    "style": {
+      "color_rgb255": [
+        0,
+        0,
+        0
+      ],
+      "font_size": 8.5,
+      "font_name": "F_ARIALNB",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALNB",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+        },
+        {
+          "fontname": "F_FRAMDCN",
+          "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+        },
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "Helvetica-Bold",
+          "fontfile": null
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "DIN-Light",
+        "DIN-Medium",
+        "DINNextLTPro-Light",
+        "DINNextLTPro-Medium",
+        "MHeiHK-Bold",
+        "MHeiHK-Light"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p20_b16_s01",
+        "block_id": "p20_b16",
+        "bbox": [
+          79.5,
+          312.239013671875,
+          178.85297393798828,
+          323.5270080566406
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b16_s02",
+        "block_id": "p20_b16",
+        "bbox": [
+          223.37471771240234,
+          322.52398681640625,
+          262.6289749145508,
+          333.6080017089844
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b16_s03",
+        "block_id": "p20_b16",
+        "bbox": [
+          261.6289749145508,
+          322.52398681640625,
+          309.60423278808594,
+          333.6080017089844
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b16_s04",
+        "block_id": "p20_b16",
+        "bbox": [
+          427.5234832763672,
+          322.52398681640625,
+          482.38372802734375,
+          333.6080017089844
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b16_s05",
+        "block_id": "p20_b16",
+        "bbox": [
+          79.5,
+          322.73651123046875,
+          178.85297393798828,
+          334.0245056152344
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b16_s06",
+        "block_id": "p20_b16",
+        "bbox": [
+          342.3620147705078,
+          322.73651123046875,
+          381.68849182128906,
+          334.0245056152344
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b16_s07",
+        "block_id": "p20_b16",
+        "bbox": [
+          380.68849182128906,
+          322.73651123046875,
+          428.5234832763672,
+          334.0245056152344
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b16_s08",
+        "block_id": "p20_b16",
+        "bbox": [
+          481.38372802734375,
+          322.73651123046875,
+          521.71,
+          334.0245056152344
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b16_s09",
+        "block_id": "p20_b16",
+        "bbox": [
+          177.85297393798828,
+          323.322998046875,
+          224.37471771240234,
+          333.760986328125
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b16_s10",
+        "block_id": "p20_b16",
+        "bbox": [
+          308.60423278808594,
+          323.5354919433594,
+          343.3620147705078,
+          333.8290100097656
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "font_size_avg": 8.5,
+    "font_size_max": 8.5,
+    "segment_count": 10,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": false,
+    "lane": "table",
+    "lane_reason": "table_layout_signals",
+    "lane_signals": [
+      "wide_block",
+      "small_font",
+      "multi_line",
+      "numeric_lines",
+      "table_keywords"
+    ]
+  },
+  {
+    "page_no": 20,
+    "block_id": "p20_b17",
+    "reading_order": 17,
+    "bbox": [
+      79.51,
+      338.21,
+      521.72,
+      359.99
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 51,
+    "source_text": "未分配集團總部開支的\n稅後價值\n(161)\n無意義\n無意義\n(154)\n無意義\n無意義\n無意義\n無意義",
+    "block_type": "body",
+    "style": {
+      "color_rgb255": [
+        0,
+        0,
+        0
+      ],
+      "font_size": 8.5,
+      "font_name": "F_ARIALNB",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALNB",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+        },
+        {
+          "fontname": "F_FRAMDCN",
+          "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+        },
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "Helvetica-Bold",
+          "fontfile": null
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "DIN-Light",
+        "DIN-Medium",
+        "DINNextLTPro-Light",
+        "DINNextLTPro-Medium",
+        "MHeiHK-Bold",
+        "MHeiHK-Light"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p20_b17_s01",
+        "block_id": "p20_b17",
+        "bbox": [
+          79.51,
+          338.2065124511719,
+          183.21773529052734,
+          349.4945068359375
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b17_s02",
+        "block_id": "p20_b17",
+        "bbox": [
+          223.38323211669922,
+          348.4914855957031,
+          262.63748931884766,
+          359.57550048828125
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b17_s03",
+        "block_id": "p20_b17",
+        "bbox": [
+          261.63748931884766,
+          348.4914855957031,
+          307.3219909667969,
+          359.57550048828125
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b17_s04",
+        "block_id": "p20_b17",
+        "bbox": [
+          427.53196716308594,
+          348.4914855957031,
+          482.3922119140625,
+          359.57550048828125
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b17_s05",
+        "block_id": "p20_b17",
+        "bbox": [
+          79.51,
+          348.7040100097656,
+          183.21773529052734,
+          359.99200439453125
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b17_s06",
+        "block_id": "p20_b17",
+        "bbox": [
+          342.3705139160156,
+          348.7040100097656,
+          381.6969757080078,
+          359.99200439453125
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b17_s07",
+        "block_id": "p20_b17",
+        "bbox": [
+          380.6969757080078,
+          348.7040100097656,
+          428.53196716308594,
+          359.99200439453125
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b17_s08",
+        "block_id": "p20_b17",
+        "bbox": [
+          481.3922119140625,
+          348.7040100097656,
+          521.72,
+          359.99200439453125
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b17_s09",
+        "block_id": "p20_b17",
+        "bbox": [
+          182.21773529052734,
+          349.2904968261719,
+          224.38323211669922,
+          359.7284851074219
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b17_s10",
+        "block_id": "p20_b17",
+        "bbox": [
+          306.3219909667969,
+          349.50299072265625,
+          343.3705139160156,
+          359.7965087890625
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "font_size_avg": 8.5,
+    "font_size_max": 8.5,
+    "segment_count": 10,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": false,
+    "lane": "table",
+    "lane_reason": "table_layout_signals",
+    "lane_signals": [
+      "wide_block",
+      "small_font",
+      "multi_line",
+      "numeric_lines",
+      "table_keywords"
+    ]
+  },
+  {
+    "page_no": 20,
+    "block_id": "p20_b18",
+    "reading_order": 18,
+    "bbox": [
+      79.52,
+      363.96,
+      521.74,
+      375.27
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 59,
+    "source_text": "扣除非控股權益前的總計\n2,789\n52.6%\n5,219\n4,186\n62.9%\n6,585\n(33)%\n(33)%",
+    "block_type": "body",
+    "style": {
+      "color_rgb255": [
+        0,
+        0,
+        0
+      ],
+      "font_size": 8.5,
+      "font_name": "F_ARIALNB",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALNB",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+        },
+        {
+          "fontname": "F_FRAMDCN",
+          "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+        },
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "Helvetica-Bold",
+          "fontfile": null
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "DIN-Light",
+        "DIN-Medium",
+        "DINNextLTPro-Light",
+        "DINNextLTPro-Medium",
+        "MHeiHK-Bold"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p20_b18_s01",
+        "block_id": "p20_b18",
+        "bbox": [
+          79.52,
+          363.96148681640625,
+          185.4107208251953,
+          375.0455017089844
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b18_s02",
+        "block_id": "p20_b18",
+        "bbox": [
+          184.4107208251953,
+          364.760498046875,
+          224.13672637939453,
+          375.0539855957031
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b18_s03",
+        "block_id": "p20_b18",
+        "bbox": [
+          223.13672637939453,
+          364.760498046875,
+          264.9749755859375,
+          375.0539855957031
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b18_s04",
+        "block_id": "p20_b18",
+        "bbox": [
+          263.9749755859375,
+          364.760498046875,
+          305.2310028076172,
+          375.0539855957031
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b18_s05",
+        "block_id": "p20_b18",
+        "bbox": [
+          429.4869842529297,
+          364.760498046875,
+          484.7127227783203,
+          375.198486328125
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b18_s06",
+        "block_id": "p20_b18",
+        "bbox": [
+          304.2310028076172,
+          364.9729919433594,
+          343.5574951171875,
+          375.2665100097656
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b18_s07",
+        "block_id": "p20_b18",
+        "bbox": [
+          342.5574951171875,
+          364.9729919433594,
+          384.41700744628906,
+          375.2665100097656
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b18_s08",
+        "block_id": "p20_b18",
+        "bbox": [
+          383.41700744628906,
+          364.9729919433594,
+          430.4869842529297,
+          375.2665100097656
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b18_s09",
+        "block_id": "p20_b18",
+        "bbox": [
+          483.7127227783203,
+          364.9729919433594,
+          521.74,
+          375.2665100097656
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "font_size_avg": 8.5,
+    "font_size_max": 8.5,
+    "segment_count": 9,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": false,
+    "lane": "table",
+    "lane_reason": "table_layout_signals",
+    "lane_signals": [
+      "numeric_dense",
+      "wide_block",
+      "small_font",
+      "multi_line",
+      "numeric_lines",
+      "table_keywords"
+    ]
+  },
+  {
+    "page_no": 20,
+    "block_id": "p20_b19",
+    "reading_order": 19,
+    "bbox": [
+      79.54,
+      379.43,
+      521.76,
+      390.93
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 39,
+    "source_text": "非控股權益\n(24)\n無意義\n無意義\n(32)\n無意義\n無意義\n無意義\n無意義",
+    "block_type": "body",
+    "style": {
+      "color_rgb255": [
+        0,
+        0,
+        0
+      ],
+      "font_size": 8.5,
+      "font_name": "F_ARIALNB",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALNB",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+        },
+        {
+          "fontname": "F_FRAMDCN",
+          "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+        },
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "Helvetica-Bold",
+          "fontfile": null
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "DIN-Light",
+        "DIN-Medium",
+        "DINNextLTPro-Light",
+        "DINNextLTPro-Medium",
+        "MHeiHK-Bold",
+        "MHeiHK-Light"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p20_b19_s01",
+        "block_id": "p20_b19",
+        "bbox": [
+          223.4172134399414,
+          379.4314880371094,
+          262.6714630126953,
+          390.5155029296875
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b19_s02",
+        "block_id": "p20_b19",
+        "bbox": [
+          261.6714630126953,
+          379.4314880371094,
+          309.64671325683594,
+          390.5155029296875
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b19_s03",
+        "block_id": "p20_b19",
+        "bbox": [
+          427.5659637451172,
+          379.4314880371094,
+          482.42620849609375,
+          390.5155029296875
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b19_s04",
+        "block_id": "p20_b19",
+        "bbox": [
+          79.54,
+          379.6440124511719,
+          163.8377227783203,
+          390.9320068359375
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b19_s05",
+        "block_id": "p20_b19",
+        "bbox": [
+          342.4044952392578,
+          379.6440124511719,
+          381.73097229003906,
+          390.9320068359375
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b19_s06",
+        "block_id": "p20_b19",
+        "bbox": [
+          380.73097229003906,
+          379.6440124511719,
+          428.5659637451172,
+          390.9320068359375
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b19_s07",
+        "block_id": "p20_b19",
+        "bbox": [
+          481.42620849609375,
+          379.6440124511719,
+          521.76,
+          390.9320068359375
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b19_s08",
+        "block_id": "p20_b19",
+        "bbox": [
+          162.8377227783203,
+          380.2304992675781,
+          224.4172134399414,
+          390.6684875488281
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b19_s09",
+        "block_id": "p20_b19",
+        "bbox": [
+          308.64671325683594,
+          380.4429931640625,
+          343.4044952392578,
+          390.73651123046875
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "font_size_avg": 8.5,
+    "font_size_max": 8.5,
+    "segment_count": 9,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": false,
+    "lane": "table",
+    "lane_reason": "table_layout_signals",
+    "lane_signals": [
+      "wide_block",
+      "small_font",
+      "multi_line",
+      "numeric_lines",
+      "table_keywords"
+    ]
+  },
+  {
+    "page_no": 20,
+    "block_id": "p20_b20",
+    "reading_order": 20,
+    "bbox": [
+      79.55,
+      394.9,
+      521.77,
+      406.21
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 50,
+    "source_text": "總計\n2,765\n52.6%\n5,219\n4,154\n62.9%\n6,585\n(33)%\n(33)%",
+    "block_type": "body",
+    "style": {
+      "color_rgb255": [
+        0,
+        0,
+        0
+      ],
+      "font_size": 8.5,
+      "font_name": "F_ARIALNB",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALNB",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+        },
+        {
+          "fontname": "F_FRAMDCN",
+          "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+        },
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "Helvetica-Bold",
+          "fontfile": null
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "DIN-Light",
+        "DIN-Medium",
+        "DINNextLTPro-Light",
+        "DINNextLTPro-Medium",
+        "MHeiHK-Bold"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p20_b20_s01",
+        "block_id": "p20_b20",
+        "bbox": [
+          79.55,
+          394.9014892578125,
+          146.23847579956055,
+          405.9855041503906
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b20_s02",
+        "block_id": "p20_b20",
+        "bbox": [
+          145.23847579956055,
+          395.70050048828125,
+          224.17072296142578,
+          405.9939880371094
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b20_s03",
+        "block_id": "p20_b20",
+        "bbox": [
+          223.17072296142578,
+          395.70050048828125,
+          265.00897216796875,
+          405.9939880371094
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b20_s04",
+        "block_id": "p20_b20",
+        "bbox": [
+          264.00897216796875,
+          395.70050048828125,
+          305.26499938964844,
+          405.9939880371094
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b20_s05",
+        "block_id": "p20_b20",
+        "bbox": [
+          429.52098083496094,
+          395.70050048828125,
+          484.74671936035156,
+          406.13848876953125
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b20_s06",
+        "block_id": "p20_b20",
+        "bbox": [
+          304.26499938964844,
+          395.9129943847656,
+          343.59149169921875,
+          406.2065124511719
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b20_s07",
+        "block_id": "p20_b20",
+        "bbox": [
+          342.59149169921875,
+          395.9129943847656,
+          384.4510040283203,
+          406.2065124511719
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b20_s08",
+        "block_id": "p20_b20",
+        "bbox": [
+          383.4510040283203,
+          395.9129943847656,
+          430.52098083496094,
+          406.2065124511719
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot_id": "p20_b20_s09",
+        "block_id": "p20_b20",
+        "bbox": [
+          483.74671936035156,
+          395.9129943847656,
+          521.77,
+          406.2065124511719
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "font_size_avg": 8.5,
+    "font_size_max": 8.5,
+    "segment_count": 9,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": false,
+    "lane": "table",
+    "lane_reason": "table_layout_signals",
+    "lane_signals": [
+      "numeric_dense",
+      "wide_block",
+      "small_font",
+      "multi_line",
+      "numeric_lines",
+      "table_keywords"
+    ]
+  },
+  {
+    "page_no": 20,
+    "block_id": "p20_b21",
+    "reading_order": 21,
+    "bbox": [
+      73.7,
+      432.05,
+      527.25,
+      444.0
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 56,
+    "source_text": "儘管2020年的新業務價值27.65億美元較2019年減少了33%，我們迅速採用了新的數碼工具，並且外出限制的普",
+    "block_type": "body",
+    "style": {
+      "color_rgb255": [
+        0,
+        0,
+        0
+      ],
+      "font_size": 9.0,
+      "font_name": "F_ARIALN",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "F_BAHN",
+          "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "DIN-Light",
+        "MHeiHK-Light"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p20_b21_s01",
+        "block_id": "p20_b21",
+        "bbox": [
+          73.70089721679688,
+          432.047119140625,
+          527.2454833984375,
+          443.9991149902344
+        ],
+        "font_size": 9.0,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "font_size_avg": 9.0,
+    "font_size_max": 9.0,
+    "segment_count": 1,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": true,
+    "lane": "body",
+    "lane_reason": "default_body",
+    "lane_signals": [
+      "body_fallback"
+    ]
+  },
+  {
+    "page_no": 20,
+    "block_id": "p20_b22",
+    "reading_order": 22,
+    "bbox": [
+      73.7,
+      448.05,
+      527.24,
+      460.0
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 51,
+    "source_text": "遍放寬支持了銷售勢頭的恢復。友邦保險中國業務為2020年本集團的新業務價值帶來最大貢獻，也是我們第一個",
+    "block_type": "body",
+    "style": {
+      "color_rgb255": [
+        0,
+        0,
+        0
+      ],
+      "font_size": 9.0,
+      "font_name": "F_ARIALN",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "F_BAHN",
+          "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "DIN-Light",
+        "MHeiHK-Light"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p20_b22_s01",
+        "block_id": "p20_b22",
+        "bbox": [
+          73.70088195800781,
+          448.04913330078125,
+          527.2381591796875,
+          460.0011291503906
+        ],
+        "font_size": 9.0,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "font_size_avg": 9.0,
+    "font_size_max": 9.0,
+    "segment_count": 1,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": true,
+    "lane": "body",
+    "lane_reason": "default_body",
+    "lane_signals": [
+      "body_fallback"
+    ]
+  },
+  {
+    "page_no": 20,
+    "block_id": "p20_b23",
+    "reading_order": 23,
+    "bbox": [
+      73.7,
+      464.05,
+      527.25,
+      476.0
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 51,
+    "source_text": "顯示銷售勢頭有所恢復的報告分部，原因在於該地區自2020年3月逐步放寬嚴格的封鎖。撇除維持低位的中國內",
+    "block_type": "body",
+    "style": {
+      "color_rgb255": [
+        0,
+        0,
+        0
+      ],
+      "font_size": 9.0,
+      "font_name": "F_ARIALN",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "F_BAHN",
+          "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "DIN-Light",
+        "MHeiHK-Light"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p20_b23_s01",
+        "block_id": "p20_b23",
+        "bbox": [
+          73.70088195800781,
+          464.0511474609375,
+          527.2471313476562,
+          476.0031433105469
+        ],
+        "font_size": 9.0,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "font_size_avg": 9.0,
+    "font_size_max": 9.0,
+    "segment_count": 1,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": true,
+    "lane": "body",
+    "lane_reason": "default_body",
+    "lane_signals": [
+      "body_fallback"
+    ]
+  },
+  {
+    "page_no": 20,
+    "block_id": "p20_b24",
+    "reading_order": 24,
+    "bbox": [
+      73.7,
+      480.05,
+      527.23,
+      492.01
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 50,
+    "source_text": "地訪港旅客銷售額，本集團其他分部的新業務價值在下半年強勁復甦，與上半年相比增長了23%。本集團的新業",
+    "block_type": "body",
+    "style": {
+      "color_rgb255": [
+        0,
+        0,
+        0
+      ],
+      "font_size": 9.0,
+      "font_name": "F_ARIALN",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "F_BAHN",
+          "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "DIN-Light",
+        "MHeiHK-Light"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p20_b24_s01",
+        "block_id": "p20_b24",
+        "bbox": [
+          73.70089721679688,
+          480.05316162109375,
+          527.2289428710938,
+          492.0051574707031
+        ],
+        "font_size": 9.0,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "font_size_avg": 9.0,
+    "font_size_max": 9.0,
+    "segment_count": 1,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": true,
+    "lane": "body",
+    "lane_reason": "default_body",
+    "lane_signals": [
+      "body_fallback"
+    ]
+  },
+  {
+    "page_no": 20,
+    "block_id": "p20_b25",
+    "reading_order": 25,
+    "bbox": [
+      73.7,
+      496.06,
+      387.96,
+      508.01
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 39,
+    "source_text": "務發展勢頭在2021年持續強勁，首兩個月新業務價值較2020年同期高出15%。",
+    "block_type": "body",
+    "style": {
+      "color_rgb255": [
+        0,
+        0,
+        0
+      ],
+      "font_size": 9.0,
+      "font_name": "F_ARIALN",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "F_BAHN",
+          "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "DIN-Light",
+        "MHeiHK-Light"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p20_b25_s01",
+        "block_id": "p20_b25",
+        "bbox": [
+          73.70089721679688,
+          496.05517578125,
+          387.96307373046875,
+          508.0071716308594
+        ],
+        "font_size": 9.0,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "font_size_avg": 9.0,
+    "font_size_max": 9.0,
+    "segment_count": 1,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": true,
+    "lane": "body",
+    "lane_reason": "default_body",
+    "lane_signals": [
+      "body_fallback"
+    ]
+  },
+  {
+    "page_no": 20,
+    "block_id": "p20_b26",
+    "reading_order": 26,
+    "bbox": [
+      73.7,
+      528.06,
+      527.24,
+      540.01
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 51,
+    "source_text": "友邦保險中國業務在2021年錄得成功的勢頭，首兩個月的新業務價值與2020年同期比較，錄得非常強勁的增",
+    "block_type": "body",
+    "style": {
+      "color_rgb255": [
+        0,
+        0,
+        0
+      ],
+      "font_size": 9.0,
+      "font_name": "F_ARIALN",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "F_BAHN",
+          "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "DIN-Light",
+        "MHeiHK-Light"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p20_b26_s01",
+        "block_id": "p20_b26",
+        "bbox": [
+          73.70089721679688,
+          528.0592041015625,
+          527.2443237304688,
+          540.0111694335938
+        ],
+        "font_size": 9.0,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "font_size_avg": 9.0,
+    "font_size_max": 9.0,
+    "segment_count": 1,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": true,
+    "lane": "body",
+    "lane_reason": "default_body",
+    "lane_signals": [
+      "body_fallback"
+    ]
+  },
+  {
+    "page_no": 20,
+    "block_id": "p20_b27",
+    "reading_order": 27,
+    "bbox": [
+      73.7,
+      544.06,
+      527.19,
+      556.01
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 58,
+    "source_text": "長。2020年新業務價值9.68億美元較2019年減少17%，主要由於2019冠狀病毒病在第一季爆發初期而導致銷售額",
+    "block_type": "body",
+    "style": {
+      "color_rgb255": [
+        0,
+        0,
+        0
+      ],
+      "font_size": 9.0,
+      "font_name": "F_ARIALN",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "F_BAHN",
+          "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "DIN-Light",
+        "MHeiHK-Light"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p20_b27_s01",
+        "block_id": "p20_b27",
+        "bbox": [
+          73.70089721679688,
+          544.0612182617188,
+          527.1926879882812,
+          556.01318359375
+        ],
+        "font_size": 9.0,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "font_size_avg": 9.0,
+    "font_size_max": 9.0,
+    "segment_count": 1,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": true,
+    "lane": "body",
+    "lane_reason": "default_body",
+    "lane_signals": [
+      "body_fallback"
+    ]
+  },
+  {
+    "page_no": 20,
+    "block_id": "p20_b28",
+    "reading_order": 28,
+    "bbox": [
+      73.7,
+      560.06,
+      527.08,
+      572.02
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 49,
+    "source_text": "有限。隨著外出限制放寬，新業務動力得以迅速改善。新業務價值重拾我們慣常的季節性規律，比重更側重於上",
+    "block_type": "body",
+    "style": {
+      "color_rgb255": [
+        0,
+        0,
+        0
+      ],
+      "font_size": 9.0,
+      "font_name": "F_ARIALN",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "F_BAHN",
+          "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "MHeiHK-Light"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p20_b28_s01",
+        "block_id": "p20_b28",
+        "bbox": [
+          73.70089721679688,
+          560.063232421875,
+          527.0845336914062,
+          572.0151977539062
+        ],
+        "font_size": 9.0,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "font_size_avg": 9.0,
+    "font_size_max": 9.0,
+    "segment_count": 1,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": true,
+    "lane": "body",
+    "lane_reason": "default_body",
+    "lane_signals": [
+      "body_fallback"
+    ]
+  },
+  {
+    "page_no": 20,
+    "block_id": "p20_b29",
+    "reading_order": 29,
+    "bbox": [
+      73.7,
+      576.07,
+      369.63,
+      588.02
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 34,
+    "source_text": "半年。在2020年，友邦保險中國業務為集團的新業務價值帶來最大貢獻。",
+    "block_type": "body",
+    "style": {
+      "color_rgb255": [
+        0,
+        0,
+        0
+      ],
+      "font_size": 9.0,
+      "font_name": "F_ARIALN",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "F_BAHN",
+          "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "DIN-Light",
+        "MHeiHK-Light"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p20_b29_s01",
+        "block_id": "p20_b29",
+        "bbox": [
+          73.70089721679688,
+          576.0652465820312,
+          369.6300354003906,
+          588.0172119140625
+        ],
+        "font_size": 9.0,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "font_size_avg": 9.0,
+    "font_size_max": 9.0,
+    "segment_count": 1,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": true,
+    "lane": "body",
+    "lane_reason": "default_body",
+    "lane_signals": [
+      "body_fallback"
+    ]
+  },
+  {
+    "page_no": 20,
+    "block_id": "p20_b30",
+    "reading_order": 30,
+    "bbox": [
+      73.7,
+      608.07,
+      527.25,
+      620.02
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 51,
+    "source_text": "在實施旅遊限制後，友邦保險香港業務來自中國內地訪港客戶的新業務銷售自2020年2月初起實際上已暫停，導",
+    "block_type": "body",
+    "style": {
+      "color_rgb255": [
+        0,
+        0,
+        0
+      ],
+      "font_size": 9.0,
+      "font_name": "F_ARIALN",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "F_BAHN",
+          "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "DIN-Light",
+        "MHeiHK-Light"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p20_b30_s01",
+        "block_id": "p20_b30",
+        "bbox": [
+          73.70089721679688,
+          608.0692138671875,
+          527.2470092773438,
+          620.0211791992188
+        ],
+        "font_size": 9.0,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "font_size_avg": 9.0,
+    "font_size_max": 9.0,
+    "segment_count": 1,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": true,
+    "lane": "body",
+    "lane_reason": "default_body",
+    "lane_signals": [
+      "body_fallback"
+    ]
+  },
+  {
+    "page_no": 20,
+    "block_id": "p20_b31",
+    "reading_order": 31,
+    "bbox": [
+      73.7,
+      624.07,
+      527.12,
+      636.02
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 49,
+    "source_text": "致其新業務價值大幅下降。新業務價值利潤率錄得跌幅，反映新業務量減少導致承保開支超支、產品組合變動及",
+    "block_type": "body",
+    "style": {
+      "color_rgb255": [
+        0,
+        0,
+        0
+      ],
+      "font_size": 9.0,
+      "font_name": "F_ARIALN",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "F_BAHN",
+          "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "MHeiHK-Light"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p20_b31_s01",
+        "block_id": "p20_b31",
+        "bbox": [
+          73.70089721679688,
+          624.0712280273438,
+          527.1205444335938,
+          636.023193359375
+        ],
+        "font_size": 9.0,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "font_size_avg": 9.0,
+    "font_size_max": 9.0,
+    "segment_count": 1,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": true,
+    "lane": "body",
+    "lane_reason": "default_body",
+    "lane_signals": [
+      "body_fallback"
+    ]
+  },
+  {
+    "page_no": 20,
+    "block_id": "p20_b32",
+    "reading_order": 32,
+    "bbox": [
+      73.7,
+      640.07,
+      527.25,
+      652.03
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 51,
+    "source_text": "利率下降的影響所致。澳門在2020年9月底恢復中國內地旅客個人遊計劃。這為澳門的中國內地訪澳客戶銷售回",
+    "block_type": "body",
+    "style": {
+      "color_rgb255": [
+        0,
+        0,
+        0
+      ],
+      "font_size": 9.0,
+      "font_name": "F_ARIALN",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "F_BAHN",
+          "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "DIN-Light",
+        "MHeiHK-Light"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p20_b32_s01",
+        "block_id": "p20_b32",
+        "bbox": [
+          73.70089721679688,
+          640.0732421875,
+          527.2472534179688,
+          652.0252075195312
+        ],
+        "font_size": 9.0,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "font_size_avg": 9.0,
+    "font_size_max": 9.0,
+    "segment_count": 1,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": true,
+    "lane": "body",
+    "lane_reason": "default_body",
+    "lane_signals": [
+      "body_fallback"
+    ]
+  },
+  {
+    "page_no": 20,
+    "block_id": "p20_b33",
+    "reading_order": 33,
+    "bbox": [
+      73.7,
+      656.08,
+      414.8,
+      668.03
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 37,
+    "source_text": "升提供支持，使其在第四季佔友邦保險澳門分公司的年化新保費總額超過三分之一。",
+    "block_type": "body",
+    "style": {
+      "color_rgb255": [
+        0,
+        0,
+        0
+      ],
+      "font_size": 9.0,
+      "font_name": "F_ARIALN",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "F_BAHN",
+          "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "MHeiHK-Light"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p20_b33_s01",
+        "block_id": "p20_b33",
+        "bbox": [
+          73.70089721679688,
+          656.0752563476562,
+          414.8010559082031,
+          668.0272216796875
+        ],
+        "font_size": 9.0,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "font_size_avg": 9.0,
+    "font_size_max": 9.0,
+    "segment_count": 1,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": true,
+    "lane": "body",
+    "lane_reason": "default_body",
+    "lane_signals": [
+      "body_fallback"
+    ]
+  },
+  {
+    "page_no": 20,
+    "block_id": "p20_b34",
+    "reading_order": 34,
+    "bbox": [
+      34.02,
+      811.43,
+      141.63,
+      821.38
+    ],
+    "region": "bottom",
+    "role": "footer",
+    "char_count": 14,
+    "source_text": "018\n友邦保險控股有限公司",
+    "block_type": "footer",
+    "style": {
+      "color_rgb255": [
+        62,
+        58,
+        57
+      ],
+      "font_size": 9.0,
+      "font_name": "F_ARIALNB",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALNB",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+        },
+        {
+          "fontname": "F_FRAMDCN",
+          "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+        },
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "Helvetica-Bold",
+          "fontfile": null
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "AIAEverest-CondensedMedi",
+        "MHeiHK-Bold"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p20_b34_s01",
+        "block_id": "p20_b34",
+        "bbox": [
+          34.01570129394531,
+          811.430908203125,
+          45.2666015625,
+          821.3848876953125
+        ],
+        "font_size": 9.0,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          212,
+          0,
+          59
+        ]
+      },
+      {
+        "slot_id": "p20_b34_s02",
+        "block_id": "p20_b34",
+        "bbox": [
+          73.70079803466797,
+          811.9935913085938,
+          141.6257781982422,
+          820.4696044921875
+        ],
+        "font_size": 6.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          62,
+          58,
+          57
+        ]
+      }
+    ],
+    "font_size_avg": 7.75,
+    "font_size_max": 9.0,
+    "segment_count": 2,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": false,
+    "lane": "caption_label",
+    "lane_reason": "footer",
+    "lane_signals": [
+      "footer"
+    ]
+  }
+]

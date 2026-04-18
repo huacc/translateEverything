@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p9_b34",
+      "translation": "(3) ANP is a measure of new business volume, calculated as 100% of annualised first year premiums and 10% of single premiums, before reinsurance ceded."
+    }
+  ]
+}
+```

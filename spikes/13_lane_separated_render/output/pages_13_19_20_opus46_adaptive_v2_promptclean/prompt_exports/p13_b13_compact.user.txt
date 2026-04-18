@@ -1,0 +1,19 @@
+任务
+- unit_id：p13_b13
+- 输入单元：短标签 / 小标题
+
+原文
+證我們雄厚的資本實力和嚴謹的財務管理。
+
+当前译文
+demonstrating our strong capital position and rigorous financial management.
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p13_b13",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

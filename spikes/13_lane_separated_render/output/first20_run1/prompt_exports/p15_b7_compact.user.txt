@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p15_b7",
+    "lane": "caption_label",
+    "source_text": "饋，與過往參與面對面學習的意見相若。",
+    "current_translation": "feedback, which was comparable to previous in-person learning feedback."
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p15_b7",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

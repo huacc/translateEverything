@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p14_g04",
+      "translation": "AIA Thailand delivered a very strong performance in the second half of the year. Although VONB declined 4% for the full year, monthly performance demonstrated positive momentum as movement restrictions eased, with VONB in the second half increasing 33% compared to the first half."
+    }
+  ]
+}
+```

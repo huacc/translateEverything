@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p7_b3",
+      "translation": "AIA establishes AIA Scholarship and commits"
+    }
+  ]
+}
+```

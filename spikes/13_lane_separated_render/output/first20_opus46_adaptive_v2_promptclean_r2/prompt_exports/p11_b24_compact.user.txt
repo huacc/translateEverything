@@ -1,0 +1,19 @@
+任务
+- unit_id：p11_b24
+- 输入单元：短标签 / 小标题
+
+原文
+謝仕榮
+
+当前译文
+Edmund Sze-Wing Tse
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p11_b24",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

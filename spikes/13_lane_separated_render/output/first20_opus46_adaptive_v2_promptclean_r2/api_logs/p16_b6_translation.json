@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 16,
+    "group_id": "p16_b6"
+  },
+  "request": {
+    "model": "claude-opus-4-6",
+    "max_tokens": 4096,
+    "system": "你是上市公司年报标签翻译助手。\n语言方向：Traditional Chinese -> English。\n只负责翻译当前短标签或小标题，不负责排版、回填、压缩。\n保持短、稳、正式，不要扩写成解释句。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "任务\n- 语言方向：Traditional Chinese -> English\n- 文档场景：上市公司企业年报\n- 公司：AIA GROUP LIMITED\n- 当前页面：16\n- 当前输入单元：短标签 / 小标题\n\n翻译要求\n- 保持短、稳、正式，不要自由改写。\n- 不要把短标签扩写成解释性句子。\n- 不负责排版和回填。\n\n页面上下文\n- 当前章节：Group Chief Executive and President's Report，类型：ceo_report（页码 12-16）\n- 术语使用模式：heading\n- 上一组摘要：境、社會及管治方面領先全球業界的志向。\n- 下一组摘要：在2020年，2019冠狀病毒病大流行無疑是我們生活記憶中最大規模的公共衞生緊急狀態。受影響的企業和家庭\n獲得前所未見的公共財政和金融支援，有助緩解由疫情大流行造成的部分極端金融衝擊，並加快復甦步伐，這在\n具備完善衞生政策及基建的國家...\n\n当前标签\n- unit_id：p16_b6\n- 原文：\n前景\n\n输出格式\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p16_b6\",\n      \"translation\": \"<译文>\"\n    }\n  ]\n}"
+      }
+    ],
+    "thinking": {
+      "type": "adaptive"
+    },
+    "output_config": {
+      "effort": "max"
+    }
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p16_b6\",\n      \"translation\": \"Outlook\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "c25c24f4-a825-4d28-a134-f976354ccb7f",
+    "conversation_id": "c25c24f4-a825-4d28-a134-f976354ccb7f",
+    "id": "c25c24f4-a825-4d28-a134-f976354ccb7f",
+    "model": "claude-opus-4-6",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 523,
+      "output_tokens": 40
+    }
+  }
+}

@@ -62,6 +62,44 @@
           "US$1,997 million"
         ]
       }
+    },
+    {
+      "stage": "4",
+      "stage_name": "按组翻译",
+      "passed": true,
+      "summary": "关键金额、股息和尾句残缺问题已在组翻译阶段受控。",
+      "details": {
+        "bad_scale_count": 0,
+        "broken_fragment_count": 0,
+        "dividend_mixup_count": 0
+      }
+    },
+    {
+      "stage": "5",
+      "stage_name": "生成 RenderPlan 并回填",
+      "passed": true,
+      "summary": "RenderPlan 已生成，未出现侧边栏回填，且版面指标未明显差于 v11。",
+      "details": {
+        "overflow_count": 0,
+        "sidebar_render_count": 0,
+        "layout_not_worse": true
+      }
+    },
+    {
+      "stage": "6",
+      "stage_name": "页级质量验收",
+      "passed": true,
+      "summary": "相对 v11 的内容指标已对比完成，硬错误与侧边栏污染已复核。",
+      "details": {
+        "delta_spike12_minus_v11": {
+          "token_f1": 0.6979,
+          "content_f1": 0.6722,
+          "sequence_ratio": 0.5267,
+          "number_recall": 0.6583
+        },
+        "hard_error_count": 0,
+        "sidebar_intrusion_count": 0
+      }
     }
   ]
 }

@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p9_b38",
+      "translation": "(6) EV is determined using actuarial methods based on a series of specific assumptions about future experience to estimate the economic value of life insurance business, but excludes the economic value of any future new business. EV Equity is the sum of EV, goodwill and other intangible assets."
+    }
+  ]
+}
+```

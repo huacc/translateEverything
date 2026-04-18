@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p2_b67",
+    "lane": "caption_label",
+    "source_text": "299 詞彙",
+    "current_translation": "299 Glossary"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p2_b67",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

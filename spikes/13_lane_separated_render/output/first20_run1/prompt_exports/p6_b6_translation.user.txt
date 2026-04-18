@@ -1,0 +1,35 @@
+文档场景：上市保险公司企业年报。
+当前输入属于短标签通道。优先使用标准年报表达。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 6,
+    "page_sections": [],
+    "term_usage_mode": "heading",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "始創於1919年的上海。",
+      "next_group_source_excerpt": "自此，友邦保險發展成為全球最大的"
+    }
+  },
+  "mapping_hits": [],
+  "fact_locks": [],
+  "current_unit": {
+    "unit_id": "p6_b6",
+    "lane": "caption_label",
+    "source_text": "秉承我們為客戶和社區帶來顯著和正面"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p6_b6",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

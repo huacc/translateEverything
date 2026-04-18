@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p5_b4",
+      "translation": "Providing medical supplies and free insurance coverage for frontline healthcare workers and cleaning staff"
+    }
+  ]
+}
+```

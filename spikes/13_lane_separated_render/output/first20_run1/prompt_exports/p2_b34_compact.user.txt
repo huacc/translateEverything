@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p2_b34",
+    "lane": "caption_label",
+    "source_text": "服務。集團透過遍佈亞洲的龐大專屬",
+    "current_translation": "services. The Group operates through an extensive network of dedicated"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p2_b34",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

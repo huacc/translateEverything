@@ -1,0 +1,24 @@
+任务
+- unit_id：p11_b22
+- 输入单元：正文语义组（group）
+
+压缩要求
+- 只删除冗余表达，不改变事实和数字。
+- 保持年报文风正式稳定。
+- 不要跨组补写，也不要为了版面改义。
+
+原文
+最後，全賴客戶及股東的信任，友邦保險才能自上市以來表現強勁和持續增長。本人謹代表董事會全體成員，
+
+当前译文
+Finally, it is the trust of our customers and shareholders that has enabled AIA to deliver strong performance and sustained growth since our listing. On behalf of the entire Board,
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p11_b22",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

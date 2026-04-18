@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p12_b3",
+      "translation": "AIA delivered exceptionally strong performance, reflecting our results"
+    }
+  ]
+}
+```

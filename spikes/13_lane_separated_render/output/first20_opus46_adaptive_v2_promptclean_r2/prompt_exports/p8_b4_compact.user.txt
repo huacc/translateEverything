@@ -1,0 +1,19 @@
+任务
+- unit_id：p8_b4
+- 输入单元：短标签 / 小标题
+
+原文
+年化新保費(3)(8)
+
+当前译文
+Annualized New Premium(3)(8)
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p8_b4",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

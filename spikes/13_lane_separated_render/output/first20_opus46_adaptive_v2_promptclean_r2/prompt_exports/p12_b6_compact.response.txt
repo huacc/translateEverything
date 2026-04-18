@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p12_b6",
+      "translation": "With unwavering commitment, we help customers navigate uncertainty"
+    }
+  ]
+}
+```

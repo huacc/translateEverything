@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p10_b11",
+    "lane": "caption_label",
+    "source_text": "持續為數以百萬計的客戶",
+    "current_translation": "Continuing to serve millions of customers"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p10_b11",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

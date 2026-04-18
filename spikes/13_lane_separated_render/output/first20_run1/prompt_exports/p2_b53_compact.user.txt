@@ -1,0 +1,40 @@
+文档场景：上市公司企业年报
+{
+  "document_background": {
+    "page_sections": [
+      {
+        "source_section": "目錄",
+        "target_section": "Contents",
+        "content_type": "navigation",
+        "page_range": [
+          2
+        ]
+      }
+    ],
+    "roles": [],
+    "terms": [],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "Keep headings short, stable and standard.",
+      "Prefer established annual report section names over free paraphrase."
+    ]
+  },
+  "current_unit": {
+    "page_no": 2,
+    "unit_id": "p2_b53",
+    "unit_mode": "single_block",
+    "slot_count": 1,
+    "source_text": "136 合併權益變動表",
+    "current_translation": "136 Consolidated Statement of Changes in Equity"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p2_b53",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

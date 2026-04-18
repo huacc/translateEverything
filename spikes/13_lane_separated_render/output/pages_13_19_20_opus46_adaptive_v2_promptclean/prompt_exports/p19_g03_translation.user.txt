@@ -1,0 +1,55 @@
+任务
+- 语言方向：Traditional Chinese -> English
+- 文档场景：上市公司企业年报
+- 公司：AIA GROUP LIMITED
+- 行业：Life Insurance
+- 报告类型：annual_report
+- 当前页面：19
+- 当前输入单元：正文语义组（group）
+
+翻译要求
+- 只翻译当前正文组，不要承担排版、压缩、分块、回填职责。
+- 可以在当前 group 内恢复断句和段落语义，但不得跨 group 补写或删写。
+- 保持上市公司年报文风：正式、稳定、可出版。
+- 数字、百分比、货币、年份、专有名词必须准确。
+- 如术语锁定与原有表达冲突，优先遵守术语锁定和事实锁定。
+
+页面上下文
+- 当前章节：Group Chief Financial Officer's Review，类型：cfo_review（页码 18-30）
+- 术语使用模式：table
+- 上一组摘要：截至2020年12月31日的內涵價值權益創下新高為671.85億美元，於派付股息19.97億美元之前增加52.77億美元，
+- 下一组摘要：我們的高質素、經常性盈利來源以及對有效保單組合的積極管理，帶動稅後營運溢利增長了5%至59.42億美元，
+並使營運溢利率穩定在16.9%。所收取的續保保費增加了10%，經常性保費總額佔2020年所收取保費的90%以
+上。稅後營運溢利增...
+
+文体与偏好
+- Use US$ for U.S. dollar amounts.
+- Keep listed-company annual report disclosure tone formal and publishable.
+- Do not change numbers, percentages, years, named entities or financial metric values.
+- Use established financial abbreviations for table labels when provided.
+- Keep row and column semantics unchanged.
+
+术语锁定
+- 內涵價值營運溢利 => EV operating profit [context_term]
+- 內涵價值 => EV [context_term]
+
+事实锁定
+- ev_operating_profit_usd: 72.43億美元 -> US$7.243 billion / US$7243 million / US$7,243 million
+- ev_operating_profit_usd: 5.49億美元 -> US$0.549 billion / US$549 million / US$549 million
+
+当前正文组
+- group_id：p19_g03
+- group_bbox：[68.03, 237.19, 521.53, 265.14]
+- 原文：
+原因在於內涵價值營運溢利72.43億美元抵銷了政府債券收益率下降的影響。內涵價值營運溢利包括來自正面營
+運差異5.49億美元，原因在於與我們的內涵價值假設相比，我們的整體經驗持續維持正面。
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p19_g03",
+      "translation": "<译文>"
+    }
+  ]
+}

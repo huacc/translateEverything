@@ -1,0 +1,19 @@
+任务
+- unit_id：p10_b6
+- 输入单元：短标签 / 小标题
+
+原文
+社區大眾提供保障而備受稱譽，
+
+当前译文
+recognised for providing protection to communities,
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p10_b6",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

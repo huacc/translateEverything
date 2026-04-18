@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p7_b5",
+      "translation": "Deployed USD 100 million to provide annual funding over the next decades"
+    }
+  ]
+}
+```

@@ -1,0 +1,22 @@
+[
+  {
+    "variant": "baseline",
+    "avg_token_f1": 0.5705,
+    "avg_sequence_ratio": 0.2122
+  },
+  {
+    "variant": "prompt_b",
+    "avg_token_f1": 0.5703,
+    "avg_sequence_ratio": 0.2042
+  },
+  {
+    "variant": "prompt_c",
+    "avg_token_f1": 0.5627,
+    "avg_sequence_ratio": 0.208
+  },
+  {
+    "variant": "prompt_a",
+    "avg_token_f1": 0.5625,
+    "avg_sequence_ratio": 0.1975
+  }
+]

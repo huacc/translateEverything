@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p10_g04",
+      "translation": "The Board recommends a final dividend of 100.30 Hong Kong cents per share, up 7.5%, reflecting AIA's robust and resilient financial performance and the Board's confidence in the Group's future prospects. This brings the 2020 total dividend to 135.30 Hong Kong cents per share. The Board adheres to AIA's long-established prudent and sustainable"
+    }
+  ]
+}
+```

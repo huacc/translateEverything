@@ -1,0 +1,36 @@
+任务
+- 语言方向：Traditional Chinese -> English
+- 文档场景：上市公司企业年报
+- 公司：AIA GROUP LIMITED
+- 当前页面：1
+- 当前输入单元：短标签 / 小标题
+
+翻译要求
+- 保持短、稳、正式，不要自由改写。
+- 不要把短标签扩写成解释性句子。
+- 不负责排版和回填。
+
+页面上下文
+- 当前章节：Our Objective，类型：mission_statement（页码 1-2）
+- 术语使用模式：overview_narrative
+- 上一组摘要：健康、長久、好生活
+- 下一组摘要：股份代號 1299
+
+术语锁定
+- 友邦保險 => AIA [glossary_term]
+
+当前标签
+- unit_id：p1_b3
+- 原文：
+友邦保險控股有限公司 AIA GROUP LIMITED
+2020 年報
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p1_b3",
+      "translation": "<译文>"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p11_g05",
+      "translation": "Today, customer demand for AIA's products, services and high-quality advice has never been more pressing. Our strategy is built on Asia's strong structural growth drivers supported by unprecedented wealth creation, rapidly widening protection gaps, evolving consumer preferences, widespread digital technology adoption, and market focus on long-term sustainable development. The Board is confident AIA is well-positioned to seize significant opportunities across the region, providing financial protection to customers and their families when needed most, while creating shared value for all stakeholders."
+    }
+  ]
+}
+```

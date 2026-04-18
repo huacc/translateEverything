@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p15_b27",
+    "lane": "caption_label",
+    "source_text": "資職能。",
+    "current_translation": "responsibilities."
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p15_b27",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

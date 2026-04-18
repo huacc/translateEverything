@@ -1,0 +1,19 @@
+任务
+- unit_id：p15_b1
+- 输入单元：短标签 / 小标题
+
+原文
+以人為本
+
+当前译文
+People-Centric
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p15_b1",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

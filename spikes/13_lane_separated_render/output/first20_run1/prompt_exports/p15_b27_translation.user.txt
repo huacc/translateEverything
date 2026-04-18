@@ -1,0 +1,45 @@
+文档场景：上市保险公司企业年报。
+当前输入属于短标签通道。优先使用标准年报表达。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 15,
+    "page_sections": [
+      {
+        "source_section": "集團首席執行官兼總裁報告",
+        "target_section": "Group Chief Executive and President's Report",
+        "content_type": "ceo_report",
+        "page_range": [
+          12,
+          16
+        ]
+      }
+    ],
+    "term_usage_mode": "heading",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "根據評級機構Sustainalytics的評選，友邦保險連續第二年在保險業環境、社會及管治風險管理方面排名第二，\n而在2020年，MSCI上調友邦保險的環境、社會及管治評級至A級，主要由於我們把環境、社會及管治因素融入投",
+      "next_group_source_excerpt": "2020年報\n013"
+    }
+  },
+  "mapping_hits": [],
+  "fact_locks": [],
+  "current_unit": {
+    "unit_id": "p15_b27",
+    "lane": "caption_label",
+    "source_text": "資職能。"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p15_b27",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+任务
+- unit_id：p18_b4
+- 输入单元：短标签 / 小标题
+
+原文
+強勁的財務業績。在新業務價值受到全球疫情導致的外出限制
+
+当前译文
+Strong Financial Performance. Despite New Business Value being affected by mobility restrictions resulting from the global pandemic
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p18_b4",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p14_b24",
+      "translation": "Taiwan and India recorded double-digit growth in 2020 compared to 2019."
+    }
+  ]
+}
+```

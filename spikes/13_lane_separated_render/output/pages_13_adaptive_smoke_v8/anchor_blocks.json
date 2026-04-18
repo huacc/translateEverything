@@ -1,0 +1,2979 @@
+[
+  {
+    "page_no": 13,
+    "block_id": "p13_b1",
+    "reading_order": 1,
+    "bbox": [
+      68.03,
+      94.7,
+      524.09,
+      106.65
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 50,
+    "source_text": "友邦保險是客戶誠可信賴的夥伴，讓客戶在關注財務安全和家庭保障時仍可安心無憂。儘管2019冠狀病毒病大",
+    "block_type": "body",
+    "style": {
+      "color_rgb255": [
+        0,
+        0,
+        0
+      ],
+      "font_size": 9.0,
+      "font_name": "F_ARIALN",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "F_BAHN",
+          "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "DIN-Light",
+        "MHeiHK-Light"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p13_b1_s01",
+        "block_id": "p13_b1",
+        "bbox": [
+          68.03466796875,
+          94.69790649414062,
+          521.5753784179688,
+          106.64990997314453
+        ],
+        "font_size": 9.0,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "font_size_avg": 9.0,
+    "font_size_max": 9.0,
+    "segment_count": 1,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": true,
+    "lane": "body",
+    "lane_reason": "default_body",
+    "lane_signals": [
+      "body_fallback"
+    ]
+  },
+  {
+    "page_no": 13,
+    "block_id": "p13_b2",
+    "reading_order": 2,
+    "bbox": [
+      68.03,
+      110.7,
+      521.48,
+      122.65
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 49,
+    "source_text": "流行的影響深遠，但我衷心感謝我們的員工、代理和合作夥伴在適應新工作方式並確保為客戶提供無間斷的支援",
+    "block_type": "body",
+    "style": {
+      "color_rgb255": [
+        0,
+        0,
+        0
+      ],
+      "font_size": 9.0,
+      "font_name": "F_ARIALN",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "F_BAHN",
+          "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "MHeiHK-Light"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p13_b2_s01",
+        "block_id": "p13_b2",
+        "bbox": [
+          68.02569580078125,
+          110.69992065429688,
+          521.48046875,
+          122.65192413330078
+        ],
+        "font_size": 9.0,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "font_size_avg": 9.0,
+    "font_size_max": 9.0,
+    "segment_count": 1,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": true,
+    "lane": "body",
+    "lane_reason": "default_body",
+    "lane_signals": [
+      "body_fallback"
+    ]
+  },
+  {
+    "page_no": 13,
+    "block_id": "p13_b3",
+    "reading_order": 3,
+    "bbox": [
+      68.03,
+      126.7,
+      252.3,
+      138.65
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 20,
+    "source_text": "時，展現靈活應變的能力和克盡己職的精神。",
+    "block_type": "label",
+    "style": {
+      "color_rgb255": [
+        0,
+        0,
+        0
+      ],
+      "font_size": 9.0,
+      "font_name": "F_ARIALN",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "F_BAHN",
+          "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "MHeiHK-Light"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p13_b3_s01",
+        "block_id": "p13_b3",
+        "bbox": [
+          68.02569580078125,
+          126.70193481445312,
+          252.30076599121094,
+          138.6539306640625
+        ],
+        "font_size": 9.0,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "font_size_avg": 9.0,
+    "font_size_max": 9.0,
+    "segment_count": 1,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": false,
+    "lane": "caption_label",
+    "lane_reason": "label_block",
+    "lane_signals": [
+      "label_block"
+    ]
+  },
+  {
+    "page_no": 13,
+    "block_id": "p13_b4",
+    "reading_order": 4,
+    "bbox": [
+      574.29,
+      134.93,
+      585.38,
+      715.59
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 25,
+    "source_text": "概覽\n財務及營運回顧\n企業管治\n其他資料\n財務報表",
+    "block_type": "sidebar_nav",
+    "style": {
+      "color_rgb255": [
+        255,
+        255,
+        255
+      ],
+      "font_size": 8.5,
+      "font_name": "F_ARIALNB",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALNB",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+        },
+        {
+          "fontname": "F_FRAMDCN",
+          "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+        },
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "Helvetica-Bold",
+          "fontfile": null
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "MHeiHK-Bold"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p13_b4_s01",
+        "block_id": "p13_b4",
+        "bbox": [
+          574.2915649414062,
+          134.93353271484375,
+          585.3755493164062,
+          152.78350830078125
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          255,
+          255,
+          255
+        ]
+      },
+      {
+        "slot_id": "p13_b4_s02",
+        "block_id": "p13_b4",
+        "bbox": [
+          574.2915649414062,
+          229.9041748046875,
+          585.3755493164062,
+          294.5040283203125
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          255,
+          255,
+          255
+        ]
+      },
+      {
+        "slot_id": "p13_b4_s03",
+        "block_id": "p13_b4",
+        "bbox": [
+          574.2915649414062,
+          379.28302001953125,
+          585.3755493164062,
+          415.8330383300781
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          255,
+          255,
+          255
+        ]
+      },
+      {
+        "slot_id": "p13_b4_s04",
+        "block_id": "p13_b4",
+        "bbox": [
+          574.2915649414062,
+          525.9760131835938,
+          585.3755493164062,
+          562.5260009765625
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          255,
+          255,
+          255
+        ]
+      },
+      {
+        "slot_id": "p13_b4_s05",
+        "block_id": "p13_b4",
+        "bbox": [
+          574.2915649414062,
+          679.0440063476562,
+          585.3755493164062,
+          715.593994140625
+        ],
+        "font_size": 8.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          255,
+          255,
+          255
+        ]
+      }
+    ],
+    "font_size_avg": 8.5,
+    "font_size_max": 8.5,
+    "segment_count": 5,
+    "is_sidebar_excluded": true,
+    "exclude_reason": "sidebar_nav",
+    "translation_target": false,
+    "narrative_candidate": false,
+    "lane": "sidebar_excluded",
+    "lane_reason": "sidebar_nav",
+    "lane_signals": [
+      "sidebar_boundary"
+    ]
+  },
+  {
+    "page_no": 13,
+    "block_id": "p13_b5",
+    "reading_order": 5,
+    "bbox": [
+      68.03,
+      158.71,
+      521.41,
+      170.66
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 49,
+    "source_text": "自疫情大流行開始以來，本集團的各業務團隊反應迅速，積極協助紓緩對社區的影響，同時確保員工安全。本集",
+    "block_type": "body",
+    "style": {
+      "color_rgb255": [
+        0,
+        0,
+        0
+      ],
+      "font_size": 9.0,
+      "font_name": "F_ARIALN",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "F_BAHN",
+          "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "MHeiHK-Light"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p13_b5_s01",
+        "block_id": "p13_b5",
+        "bbox": [
+          68.02569580078125,
+          158.70596313476562,
+          521.408447265625,
+          170.657958984375
+        ],
+        "font_size": 9.0,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "font_size_avg": 9.0,
+    "font_size_max": 9.0,
+    "segment_count": 1,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": true,
+    "lane": "body",
+    "lane_reason": "default_body",
+    "lane_signals": [
+      "body_fallback"
+    ]
+  },
+  {
+    "page_no": 13,
+    "block_id": "p13_b6",
+    "reading_order": 6,
+    "bbox": [
+      68.03,
+      174.71,
+      521.58,
+      186.66
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 49,
+    "source_text": "團為此廣泛採取多項措拖，包括財政支持、提供醫療物資、免費保障覆蓋、獲取醫療保健資源、精簡服務流程和",
+    "block_type": "body",
+    "style": {
+      "color_rgb255": [
+        0,
+        0,
+        0
+      ],
+      "font_size": 9.0,
+      "font_name": "F_ARIALN",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "F_BAHN",
+          "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "MHeiHK-Light"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p13_b6_s01",
+        "block_id": "p13_b6",
+        "bbox": [
+          68.02569580078125,
+          174.70797729492188,
+          521.5806884765625,
+          186.65997314453125
+        ],
+        "font_size": 9.0,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "font_size_avg": 9.0,
+    "font_size_max": 9.0,
+    "segment_count": 1,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": true,
+    "lane": "body",
+    "lane_reason": "default_body",
+    "lane_signals": [
+      "body_fallback"
+    ]
+  },
+  {
+    "page_no": 13,
+    "block_id": "p13_b7",
+    "reading_order": 7,
+    "bbox": [
+      68.03,
+      190.71,
+      521.57,
+      202.66
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 50,
+    "source_text": "加快理賠支付，令我引以為榮。我們一如既往找出每一個可以作出理賠的理由，年內已支付逾160億美元的保險",
+    "block_type": "body",
+    "style": {
+      "color_rgb255": [
+        0,
+        0,
+        0
+      ],
+      "font_size": 9.0,
+      "font_name": "F_ARIALN",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "F_BAHN",
+          "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "DIN-Light",
+        "MHeiHK-Light"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p13_b7_s01",
+        "block_id": "p13_b7",
+        "bbox": [
+          68.02569580078125,
+          190.70999145507812,
+          521.5716552734375,
+          202.6619873046875
+        ],
+        "font_size": 9.0,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "font_size_avg": 9.0,
+    "font_size_max": 9.0,
+    "segment_count": 1,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": true,
+    "lane": "body",
+    "lane_reason": "default_body",
+    "lane_signals": [
+      "body_fallback"
+    ]
+  },
+  {
+    "page_no": 13,
+    "block_id": "p13_b8",
+    "reading_order": 8,
+    "bbox": [
+      68.03,
+      206.71,
+      261.53,
+      218.66
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 21,
+    "source_text": "給付及理賠，為客戶提供極其重要的財務保障。",
+    "block_type": "label",
+    "style": {
+      "color_rgb255": [
+        0,
+        0,
+        0
+      ],
+      "font_size": 9.0,
+      "font_name": "F_ARIALN",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "F_BAHN",
+          "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "MHeiHK-Light"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p13_b8_s01",
+        "block_id": "p13_b8",
+        "bbox": [
+          68.02569580078125,
+          206.71200561523438,
+          261.5257568359375,
+          218.66400146484375
+        ],
+        "font_size": 9.0,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "font_size_avg": 9.0,
+    "font_size_max": 9.0,
+    "segment_count": 1,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": false,
+    "lane": "caption_label",
+    "lane_reason": "label_block",
+    "lane_signals": [
+      "label_block"
+    ]
+  },
+  {
+    "page_no": 13,
+    "block_id": "p13_b9",
+    "reading_order": 9,
+    "bbox": [
+      68.03,
+      238.72,
+      521.52,
+      250.67
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 53,
+    "source_text": "儘管為遏制2019冠狀病毒病傳播的措施導致新業務價值減少至27.65億美元，但隨著外出限制放寬，銷售動力轉",
+    "block_type": "body",
+    "style": {
+      "color_rgb255": [
+        0,
+        0,
+        0
+      ],
+      "font_size": 9.0,
+      "font_name": "F_ARIALN",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "F_BAHN",
+          "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "DIN-Light",
+        "MHeiHK-Light"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p13_b9_s01",
+        "block_id": "p13_b9",
+        "bbox": [
+          68.02569580078125,
+          238.71603393554688,
+          521.5177001953125,
+          250.66802978515625
+        ],
+        "font_size": 9.0,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "font_size_avg": 9.0,
+    "font_size_max": 9.0,
+    "segment_count": 1,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": true,
+    "lane": "body",
+    "lane_reason": "default_body",
+    "lane_signals": [
+      "body_fallback"
+    ]
+  },
+  {
+    "page_no": 13,
+    "block_id": "p13_b10",
+    "reading_order": 10,
+    "bbox": [
+      68.03,
+      254.72,
+      521.56,
+      266.67
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 52,
+    "source_text": "趨正面，並在2021年展開非常強勁的勢頭，首兩個月的新業務價值按年增長15%。我們規模龐大和持續增長的有",
+    "block_type": "body",
+    "style": {
+      "color_rgb255": [
+        0,
+        0,
+        0
+      ],
+      "font_size": 9.0,
+      "font_name": "F_ARIALN",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "F_BAHN",
+          "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "DIN-Light",
+        "MHeiHK-Light"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p13_b10_s01",
+        "block_id": "p13_b10",
+        "bbox": [
+          68.03469848632812,
+          254.71804809570312,
+          521.5626220703125,
+          266.6700439453125
+        ],
+        "font_size": 9.0,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "font_size_avg": 9.0,
+    "font_size_max": 9.0,
+    "segment_count": 1,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": true,
+    "lane": "body",
+    "lane_reason": "default_body",
+    "lane_signals": [
+      "body_fallback"
+    ]
+  },
+  {
+    "page_no": 13,
+    "block_id": "p13_b11",
+    "reading_order": 11,
+    "bbox": [
+      68.03,
+      270.72,
+      521.55,
+      282.67
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 51,
+    "source_text": "效保單組合所帶來的高質素和經常性收入來源，帶動2020年稅後營運溢利增加5%，期內產生的基本自由盈餘則",
+    "block_type": "body",
+    "style": {
+      "color_rgb255": [
+        0,
+        0,
+        0
+      ],
+      "font_size": 9.0,
+      "font_name": "F_ARIALN",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "F_BAHN",
+          "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "DIN-Light",
+        "MHeiHK-Light"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p13_b11_s01",
+        "block_id": "p13_b11",
+        "bbox": [
+          68.03472900390625,
+          270.7200622558594,
+          521.5537109375,
+          282.67205810546875
+        ],
+        "font_size": 9.0,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "font_size_avg": 9.0,
+    "font_size_max": 9.0,
+    "segment_count": 1,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": true,
+    "lane": "body",
+    "lane_reason": "default_body",
+    "lane_signals": [
+      "body_fallback"
+    ]
+  },
+  {
+    "page_no": 13,
+    "block_id": "p13_b12",
+    "reading_order": 12,
+    "bbox": [
+      68.03,
+      286.72,
+      521.59,
+      298.67
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 56,
+    "source_text": "增長7%。截至2020年12月31日，內涵價值權益創新高，達672億美元，集團當地資本總和法覆蓋率為374%，足",
+    "block_type": "body",
+    "style": {
+      "color_rgb255": [
+        0,
+        0,
+        0
+      ],
+      "font_size": 9.0,
+      "font_name": "F_ARIALN",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "F_BAHN",
+          "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "DIN-Light",
+        "MHeiHK-Light"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p13_b12_s01",
+        "block_id": "p13_b12",
+        "bbox": [
+          68.03472900390625,
+          286.7220764160156,
+          521.5852661132812,
+          298.674072265625
+        ],
+        "font_size": 9.0,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "font_size_avg": 9.0,
+    "font_size_max": 9.0,
+    "segment_count": 1,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": true,
+    "lane": "body",
+    "lane_reason": "default_body",
+    "lane_signals": [
+      "body_fallback"
+    ]
+  },
+  {
+    "page_no": 13,
+    "block_id": "p13_b13",
+    "reading_order": 13,
+    "bbox": [
+      68.04,
+      302.72,
+      243.09,
+      314.68
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 19,
+    "source_text": "證我們雄厚的資本實力和嚴謹的財務管理。",
+    "block_type": "label",
+    "style": {
+      "color_rgb255": [
+        0,
+        0,
+        0
+      ],
+      "font_size": 9.0,
+      "font_name": "F_ARIALN",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "F_BAHN",
+          "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "MHeiHK-Light"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p13_b13_s01",
+        "block_id": "p13_b13",
+        "bbox": [
+          68.04373168945312,
+          302.7240905761719,
+          243.0937957763672,
+          314.67608642578125
+        ],
+        "font_size": 9.0,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "font_size_avg": 9.0,
+    "font_size_max": 9.0,
+    "segment_count": 1,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": false,
+    "lane": "caption_label",
+    "lane_reason": "label_block",
+    "lane_signals": [
+      "label_block"
+    ]
+  },
+  {
+    "page_no": 13,
+    "block_id": "p13_b14",
+    "reading_order": 14,
+    "bbox": [
+      68.04,
+      334.73,
+      521.51,
+      346.68
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 56,
+    "source_text": "董事會建議2020年末期股息增加7.5%至每股100.30港仙。這秉承友邦保險行之已久的審慎、可持續及漸進的派息",
+    "block_type": "body",
+    "style": {
+      "color_rgb255": [
+        0,
+        0,
+        0
+      ],
+      "font_size": 9.0,
+      "font_name": "F_ARIALN",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "F_BAHN",
+          "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "DIN-Light",
+        "MHeiHK-Light"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p13_b14_s01",
+        "block_id": "p13_b14",
+        "bbox": [
+          68.04373168945312,
+          334.72808837890625,
+          521.5089721679688,
+          346.6800842285156
+        ],
+        "font_size": 9.0,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "font_size_avg": 9.0,
+    "font_size_max": 9.0,
+    "segment_count": 1,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": true,
+    "lane": "body",
+    "lane_reason": "default_body",
+    "lane_signals": [
+      "body_fallback"
+    ]
+  },
+  {
+    "page_no": 13,
+    "block_id": "p13_b15",
+    "reading_order": 15,
+    "bbox": [
+      68.04,
+      350.73,
+      326.12,
+      362.68
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 28,
+    "source_text": "政策，讓本集團可把握未來的增長機遇，並且保持財務靈活性。",
+    "block_type": "label",
+    "style": {
+      "color_rgb255": [
+        0,
+        0,
+        0
+      ],
+      "font_size": 9.0,
+      "font_name": "F_ARIALN",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "F_BAHN",
+          "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "MHeiHK-Light"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p13_b15_s01",
+        "block_id": "p13_b15",
+        "bbox": [
+          68.04373168945312,
+          350.7301025390625,
+          326.11883544921875,
+          362.6820983886719
+        ],
+        "font_size": 9.0,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "font_size_avg": 9.0,
+    "font_size_max": 9.0,
+    "segment_count": 1,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": false,
+    "lane": "caption_label",
+    "lane_reason": "label_block",
+    "lane_signals": [
+      "label_block"
+    ]
+  },
+  {
+    "page_no": 13,
+    "block_id": "p13_b16",
+    "reading_order": 16,
+    "bbox": [
+      68.04,
+      382.73,
+      521.46,
+      394.69
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 49,
+    "source_text": "友邦保險具有多項顯著優勢，讓我們在競爭激烈的市場別樹一幟。我們在亞洲經營數十載，擁有區內無可比擬的",
+    "block_type": "body",
+    "style": {
+      "color_rgb255": [
+        0,
+        0,
+        0
+      ],
+      "font_size": 9.0,
+      "font_name": "F_ARIALN",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "F_BAHN",
+          "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "MHeiHK-Light"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p13_b16_s01",
+        "block_id": "p13_b16",
+        "bbox": [
+          68.04373168945312,
+          382.7341003417969,
+          521.46337890625,
+          394.68609619140625
+        ],
+        "font_size": 9.0,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "font_size_avg": 9.0,
+    "font_size_max": 9.0,
+    "segment_count": 1,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": true,
+    "lane": "body",
+    "lane_reason": "default_body",
+    "lane_signals": [
+      "body_fallback"
+    ]
+  },
+  {
+    "page_no": 13,
+    "block_id": "p13_b17",
+    "reading_order": 17,
+    "bbox": [
+      68.04,
+      398.74,
+      521.46,
+      410.69
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 49,
+    "source_text": "平台，並於我們業務所在的大部分市場雄踞領導地位。我們始終如一地百分百專注於亞洲市場，有助我們在全球",
+    "block_type": "body",
+    "style": {
+      "color_rgb255": [
+        0,
+        0,
+        0
+      ],
+      "font_size": 9.0,
+      "font_name": "F_ARIALN",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "F_BAHN",
+          "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "MHeiHK-Light"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p13_b17_s01",
+        "block_id": "p13_b17",
+        "bbox": [
+          68.04373168945312,
+          398.7361145019531,
+          521.46337890625,
+          410.6881103515625
+        ],
+        "font_size": 9.0,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "font_size_avg": 9.0,
+    "font_size_max": 9.0,
+    "segment_count": 1,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": true,
+    "lane": "body",
+    "lane_reason": "default_body",
+    "lane_signals": [
+      "body_fallback"
+    ]
+  },
+  {
+    "page_no": 13,
+    "block_id": "p13_b18",
+    "reading_order": 18,
+    "bbox": [
+      68.04,
+      414.74,
+      521.5,
+      426.69
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 49,
+    "source_text": "最具吸引力的壽險業地區全面把握增長機遇。這份專注結合我們領導團隊在亞洲的豐富經驗及員工的優秀質素，",
+    "block_type": "body",
+    "style": {
+      "color_rgb255": [
+        0,
+        0,
+        0
+      ],
+      "font_size": 9.0,
+      "font_name": "F_ARIALN",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "F_BAHN",
+          "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "MHeiHK-Light"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p13_b18_s01",
+        "block_id": "p13_b18",
+        "bbox": [
+          68.04373168945312,
+          414.7381286621094,
+          521.4993896484375,
+          426.69012451171875
+        ],
+        "font_size": 9.0,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "font_size_avg": 9.0,
+    "font_size_max": 9.0,
+    "segment_count": 1,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": true,
+    "lane": "body",
+    "lane_reason": "default_body",
+    "lane_signals": [
+      "body_fallback"
+    ]
+  },
+  {
+    "page_no": 13,
+    "block_id": "p13_b19",
+    "reading_order": 19,
+    "bbox": [
+      68.04,
+      430.74,
+      206.19,
+      442.69
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 15,
+    "source_text": "一直是我們表現卓越的重要動力。",
+    "block_type": "label",
+    "style": {
+      "color_rgb255": [
+        0,
+        0,
+        0
+      ],
+      "font_size": 9.0,
+      "font_name": "F_ARIALN",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "F_BAHN",
+          "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "MHeiHK-Light"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p13_b19_s01",
+        "block_id": "p13_b19",
+        "bbox": [
+          68.04373168945312,
+          430.7401428222656,
+          206.1937713623047,
+          442.692138671875
+        ],
+        "font_size": 9.0,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "font_size_avg": 9.0,
+    "font_size_max": 9.0,
+    "segment_count": 1,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": false,
+    "lane": "caption_label",
+    "lane_reason": "label_block",
+    "lane_signals": [
+      "label_block"
+    ]
+  },
+  {
+    "page_no": 13,
+    "block_id": "p13_b20",
+    "reading_order": 20,
+    "bbox": [
+      68.04,
+      462.74,
+      521.5,
+      474.7
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 49,
+    "source_text": "我們無可比擬的分銷實力能直接接觸客戶，並提供高質素的專業建議，協助滿足亞洲消費者龐大且日益增長的長",
+    "block_type": "body",
+    "style": {
+      "color_rgb255": [
+        0,
+        0,
+        0
+      ],
+      "font_size": 9.0,
+      "font_name": "F_ARIALN",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "F_BAHN",
+          "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "MHeiHK-Light"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p13_b20_s01",
+        "block_id": "p13_b20",
+        "bbox": [
+          68.04373168945312,
+          462.744140625,
+          521.4993896484375,
+          474.6961364746094
+        ],
+        "font_size": 9.0,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "font_size_avg": 9.0,
+    "font_size_max": 9.0,
+    "segment_count": 1,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": true,
+    "lane": "body",
+    "lane_reason": "default_body",
+    "lane_signals": [
+      "body_fallback"
+    ]
+  },
+  {
+    "page_no": 13,
+    "block_id": "p13_b21",
+    "reading_order": 21,
+    "bbox": [
+      68.04,
+      478.75,
+      521.5,
+      490.7
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 49,
+    "source_text": "期保障和儲蓄需求。如今大眾比以往更期望企業能以符合長遠可持續發展的方式應對他們的需要。友邦保險擁有",
+    "block_type": "body",
+    "style": {
+      "color_rgb255": [
+        0,
+        0,
+        0
+      ],
+      "font_size": 9.0,
+      "font_name": "F_ARIALN",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "F_BAHN",
+          "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "MHeiHK-Light"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p13_b21_s01",
+        "block_id": "p13_b21",
+        "bbox": [
+          68.04373168945312,
+          478.74615478515625,
+          521.4993896484375,
+          490.6981506347656
+        ],
+        "font_size": 9.0,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "font_size_avg": 9.0,
+    "font_size_max": 9.0,
+    "segment_count": 1,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": true,
+    "lane": "body",
+    "lane_reason": "default_body",
+    "lane_signals": [
+      "body_fallback"
+    ]
+  },
+  {
+    "page_no": 13,
+    "block_id": "p13_b22",
+    "reading_order": 22,
+    "bbox": [
+      68.04,
+      494.75,
+      353.79,
+      506.7
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 31,
+    "source_text": "市場領先的品牌，以幫助大眾實踐健康、長久、好生活的目標為基礎。",
+    "block_type": "body",
+    "style": {
+      "color_rgb255": [
+        0,
+        0,
+        0
+      ],
+      "font_size": 9.0,
+      "font_name": "F_ARIALN",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "F_BAHN",
+          "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "MHeiHK-Light"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p13_b22_s01",
+        "block_id": "p13_b22",
+        "bbox": [
+          68.04373168945312,
+          494.7481689453125,
+          353.7938537597656,
+          506.7001647949219
+        ],
+        "font_size": 9.0,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "font_size_avg": 9.0,
+    "font_size_max": 9.0,
+    "segment_count": 1,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": true,
+    "lane": "body",
+    "lane_reason": "default_body",
+    "lane_signals": [
+      "body_fallback"
+    ]
+  },
+  {
+    "page_no": 13,
+    "block_id": "p13_b23",
+    "reading_order": 23,
+    "bbox": [
+      68.04,
+      526.75,
+      521.46,
+      538.7
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 49,
+    "source_text": "我們旨在使友邦保險在科技應用方面領先全球，加強互聯互通，擴大規模和提升效率。更深入瞭解數據分析有助",
+    "block_type": "body",
+    "style": {
+      "color_rgb255": [
+        0,
+        0,
+        0
+      ],
+      "font_size": 9.0,
+      "font_name": "F_ARIALN",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "F_BAHN",
+          "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "MHeiHK-Light"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p13_b23_s01",
+        "block_id": "p13_b23",
+        "bbox": [
+          68.04373168945312,
+          526.752197265625,
+          521.4624633789062,
+          538.7041625976562
+        ],
+        "font_size": 9.0,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "font_size_avg": 9.0,
+    "font_size_max": 9.0,
+    "segment_count": 1,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": true,
+    "lane": "body",
+    "lane_reason": "default_body",
+    "lane_signals": [
+      "body_fallback"
+    ]
+  },
+  {
+    "page_no": 13,
+    "block_id": "p13_b24",
+    "reading_order": 24,
+    "bbox": [
+      68.04,
+      542.75,
+      521.5,
+      554.71
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 49,
+    "source_text": "我們締造獨特和個人化的客戶體驗。切合和反映個人需求和生活方式的產品及服務，改變了大眾對人壽保險的看",
+    "block_type": "body",
+    "style": {
+      "color_rgb255": [
+        0,
+        0,
+        0
+      ],
+      "font_size": 9.0,
+      "font_name": "F_ARIALN",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "F_BAHN",
+          "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "MHeiHK-Light"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p13_b24_s01",
+        "block_id": "p13_b24",
+        "bbox": [
+          68.04373168945312,
+          542.7542114257812,
+          521.4984741210938,
+          554.7061767578125
+        ],
+        "font_size": 9.0,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "font_size_avg": 9.0,
+    "font_size_max": 9.0,
+    "segment_count": 1,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": true,
+    "lane": "body",
+    "lane_reason": "default_body",
+    "lane_signals": [
+      "body_fallback"
+    ]
+  },
+  {
+    "page_no": 13,
+    "block_id": "p13_b25",
+    "reading_order": 25,
+    "bbox": [
+      68.04,
+      558.76,
+      270.77,
+      570.71
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 22,
+    "source_text": "法，為我們與客戶建立長遠關係奠定堅實的基礎。",
+    "block_type": "label",
+    "style": {
+      "color_rgb255": [
+        0,
+        0,
+        0
+      ],
+      "font_size": 9.0,
+      "font_name": "F_ARIALN",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "F_BAHN",
+          "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "MHeiHK-Light"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p13_b25_s01",
+        "block_id": "p13_b25",
+        "bbox": [
+          68.04373168945312,
+          558.7562255859375,
+          270.768798828125,
+          570.7081909179688
+        ],
+        "font_size": 9.0,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "font_size_avg": 9.0,
+    "font_size_max": 9.0,
+    "segment_count": 1,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": false,
+    "lane": "caption_label",
+    "lane_reason": "label_block",
+    "lane_signals": [
+      "label_block"
+    ]
+  },
+  {
+    "page_no": 13,
+    "block_id": "p13_b26",
+    "reading_order": 26,
+    "bbox": [
+      68.04,
+      590.76,
+      521.57,
+      602.71
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 51,
+    "source_text": "儘管2020年是前所未見的一年，但我對亞洲壽險行業的前景和友邦保險的未來比以往更為樂觀。我們繼續挑戰自",
+    "block_type": "body",
+    "style": {
+      "color_rgb255": [
+        0,
+        0,
+        0
+      ],
+      "font_size": 9.0,
+      "font_name": "F_ARIALN",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "F_BAHN",
+          "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "DIN-Light",
+        "MHeiHK-Light"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p13_b26_s01",
+        "block_id": "p13_b26",
+        "bbox": [
+          68.04373168945312,
+          590.76025390625,
+          521.5719604492188,
+          602.7122192382812
+        ],
+        "font_size": 9.0,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "font_size_avg": 9.0,
+    "font_size_max": 9.0,
+    "segment_count": 1,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": true,
+    "lane": "body",
+    "lane_reason": "default_body",
+    "lane_signals": [
+      "body_fallback"
+    ]
+  },
+  {
+    "page_no": 13,
+    "block_id": "p13_b27",
+    "reading_order": 27,
+    "bbox": [
+      68.04,
+      606.76,
+      521.46,
+      618.71
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 49,
+    "source_text": "己，發展我們的優先任務，以確保我們能繼續適切地迎合客戶期望和財務需求的轉變。我們的全新企業策略建基",
+    "block_type": "body",
+    "style": {
+      "color_rgb255": [
+        0,
+        0,
+        0
+      ],
+      "font_size": 9.0,
+      "font_name": "F_ARIALN",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "F_BAHN",
+          "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "MHeiHK-Light"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p13_b27_s01",
+        "block_id": "p13_b27",
+        "bbox": [
+          68.04373168945312,
+          606.76220703125,
+          521.46337890625,
+          618.7141723632812
+        ],
+        "font_size": 9.0,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "font_size_avg": 9.0,
+    "font_size_max": 9.0,
+    "segment_count": 1,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": true,
+    "lane": "body",
+    "lane_reason": "default_body",
+    "lane_signals": [
+      "body_fallback"
+    ]
+  },
+  {
+    "page_no": 13,
+    "block_id": "p13_b28",
+    "reading_order": 28,
+    "bbox": [
+      68.04,
+      622.76,
+      372.24,
+      634.72
+    ],
+    "region": "middle",
+    "role": "body",
+    "char_count": 33,
+    "source_text": "於友邦保險的現有實力，推進轉型過程，以在未來為客戶提供最佳的服務。",
+    "block_type": "body",
+    "style": {
+      "color_rgb255": [
+        0,
+        0,
+        0
+      ],
+      "font_size": 9.0,
+      "font_name": "F_ARIALN",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "F_BAHN",
+          "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "MHeiHK-Light"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p13_b28_s01",
+        "block_id": "p13_b28",
+        "bbox": [
+          68.04373168945312,
+          622.7642211914062,
+          372.2438659667969,
+          634.7161865234375
+        ],
+        "font_size": 9.0,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "F_BAHN",
+            "fontfile": "C:\\Windows\\Fonts\\bahnschrift.ttf"
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "font_size_avg": 9.0,
+    "font_size_max": 9.0,
+    "segment_count": 1,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": true,
+    "lane": "body",
+    "lane_reason": "default_body",
+    "lane_signals": [
+      "body_fallback"
+    ]
+  },
+  {
+    "page_no": 13,
+    "block_id": "p13_b29",
+    "reading_order": 29,
+    "bbox": [
+      490.6,
+      811.43,
+      561.26,
+      821.38
+    ],
+    "region": "bottom",
+    "role": "footer",
+    "char_count": 10,
+    "source_text": "2020年報\n011",
+    "block_type": "footer",
+    "style": {
+      "color_rgb255": [
+        62,
+        58,
+        57
+      ],
+      "font_size": 9.0,
+      "font_name": "F_ARIALNB",
+      "font_specs": [
+        {
+          "fontname": "F_ARIALNB",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+        },
+        {
+          "fontname": "F_FRAMDCN",
+          "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+        },
+        {
+          "fontname": "F_ARIALN",
+          "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+        },
+        {
+          "fontname": "Helvetica-Bold",
+          "fontfile": null
+        },
+        {
+          "fontname": "Helvetica",
+          "fontfile": null
+        },
+        {
+          "fontname": "Times-Roman",
+          "fontfile": null
+        }
+      ],
+      "font_names": [
+        "AIAEverest-CondensedMedi",
+        "MHeiHK-Bold"
+      ]
+    },
+    "slots": [
+      {
+        "slot_id": "p13_b29_s01",
+        "block_id": "p13_b29",
+        "bbox": [
+          550.20068359375,
+          811.430908203125,
+          561.2626342773438,
+          821.3848876953125
+        ],
+        "font_size": 9.0,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          212,
+          0,
+          59
+        ]
+      },
+      {
+        "slot_id": "p13_b29_s02",
+        "block_id": "p13_b29",
+        "bbox": [
+          490.5986022949219,
+          811.4644165039062,
+          521.5747680664062,
+          820.5924072265625
+        ],
+        "font_size": 6.5,
+        "font_specs": [
+          {
+            "fontname": "F_ARIALNB",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+          },
+          {
+            "fontname": "F_FRAMDCN",
+            "fontfile": "C:\\Windows\\Fonts\\FRAMDCN.TTF"
+          },
+          {
+            "fontname": "F_ARIALN",
+            "fontfile": "C:\\Windows\\Fonts\\ARIALN.TTF"
+          },
+          {
+            "fontname": "Helvetica-Bold",
+            "fontfile": null
+          },
+          {
+            "fontname": "Helvetica",
+            "fontfile": null
+          },
+          {
+            "fontname": "Times-Roman",
+            "fontfile": null
+          }
+        ],
+        "color_rgb255": [
+          62,
+          58,
+          57
+        ]
+      }
+    ],
+    "font_size_avg": 7.5,
+    "font_size_max": 9.0,
+    "segment_count": 2,
+    "is_sidebar_excluded": false,
+    "exclude_reason": null,
+    "translation_target": true,
+    "narrative_candidate": false,
+    "lane": "caption_label",
+    "lane_reason": "footer",
+    "lane_signals": [
+      "footer"
+    ]
+  }
+]

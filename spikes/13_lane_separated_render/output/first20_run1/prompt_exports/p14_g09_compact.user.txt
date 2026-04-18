@@ -1,0 +1,48 @@
+文档场景：上市公司企业年报
+{
+  "document_background": {
+    "page_sections": [
+      {
+        "source_section": "集團首席執行官兼總裁報告",
+        "target_section": "Group Chief Executive and President's Report",
+        "content_type": "ceo_report",
+        "page_range": [
+          12,
+          16
+        ]
+      }
+    ],
+    "roles": [
+      {
+        "source": "李源祥",
+        "target": "Lee Yuen Cheung",
+        "role": "Group Chief Executive and President"
+      }
+    ],
+    "terms": [],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "Use established financial abbreviations for table labels when provided.",
+      "Keep row and column semantics unchanged.",
+      "Use n/m for 無意義."
+    ]
+  },
+  "current_unit": {
+    "page_no": 14,
+    "unit_id": "p14_g09",
+    "unit_mode": "semantic_group",
+    "slot_count": 4,
+    "source_text": "中國內地訪港旅客的旅遊限制影響我們的零售獨立財務顧問業務，導致夥伴業務於2020年的新業務價值下降\n41%。我們從銀行保險帶來較為堅韌的業績，並為此渠道的新業務價值帶來大部分的貢獻。我們與印尼的Bank\nCentral Asia (BCA)、泰國的Bangkok Bank Public Company Limited（盤谷銀行）及馬來西亞的Public Bank\nBerhad（大眾銀行）的銀行保險夥伴合作，在2020年均錄得新業務價值正增長。",
+    "current_translation": "Travel restrictions on Mainland Chinese visitors to Hong Kong impacted our retail independent financial adviser business, resulting in a 41% decline in VONB for our partner business in 2020. We benefited from more resilient performance from bancassurance, which contributed the majority of VONB for this channel. Our bancassurance partnerships with Bank Central Asia (BCA) in Indonesia, Bangkok Bank Public Company Limited in Thailand, and Public Bank Berhad in Malaysia all recorded positive VONB growth in 2020."
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p14_g09",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

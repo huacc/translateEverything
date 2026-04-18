@@ -1,0 +1,29 @@
+{
+  "mode_used": "text_fallback",
+  "model": "claude-opus-4-6",
+  "focus_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "zh_subset_pdf": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\14_bilingual_prompt_reverse_engineering\\output\\aia_2021_prompt_consultation_first20\\consultation\\zh_first20.pdf",
+  "en_subset_pdf": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\14_bilingual_prompt_reverse_engineering\\output\\aia_2021_prompt_consultation_first20\\consultation\\en_first20.pdf",
+  "response_text_path": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\14_bilingual_prompt_reverse_engineering\\output\\aia_2021_prompt_consultation_first20\\consultation\\claude_prompt_advice.md"
+}

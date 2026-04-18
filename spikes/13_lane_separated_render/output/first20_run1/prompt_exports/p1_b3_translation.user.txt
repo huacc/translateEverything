@@ -1,0 +1,51 @@
+文档场景：上市保险公司企业年报。
+当前输入属于短标签通道。优先使用标准年报表达。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 1,
+    "page_sections": [
+      {
+        "source_section": "我們的目標",
+        "target_section": "Our Objective",
+        "content_type": "mission_statement",
+        "page_range": [
+          1,
+          2
+        ]
+      }
+    ],
+    "term_usage_mode": "overview_narrative",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "健康、長久、好生活",
+      "next_group_source_excerpt": "股份代號 1299"
+    }
+  },
+  "mapping_hits": [
+    {
+      "source": "友邦保險",
+      "target": "AIA",
+      "hit_type": "glossary_term"
+    }
+  ],
+  "fact_locks": [],
+  "current_unit": {
+    "unit_id": "p1_b3",
+    "lane": "caption_label",
+    "source_text": "友邦保險控股有限公司 AIA GROUP LIMITED\n2020 年報"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p1_b3",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

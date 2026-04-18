@@ -1,0 +1,50 @@
+文档场景：上市保险公司企业年报。
+当前输入属于短标签通道。优先使用标准年报表达。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 7,
+    "page_sections": [
+      {
+        "source_section": "2020年里程碑",
+        "target_section": "2020 Milestones",
+        "content_type": "highlights",
+        "page_range": [
+          7
+        ]
+      }
+    ],
+    "term_usage_mode": "heading",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "批復已於2020年6月取得。於2021年3月，",
+      "next_group_source_excerpt": "批復，准予在四川省開業。"
+    }
+  },
+  "mapping_hits": [
+    {
+      "source": "銀行保險",
+      "target": "bancassurance",
+      "hit_type": "glossary_term"
+    }
+  ],
+  "fact_locks": [],
+  "current_unit": {
+    "unit_id": "p7_b13",
+    "lane": "caption_label",
+    "source_text": "我們已獲得中國銀行保險監督委員會"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p7_b13",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

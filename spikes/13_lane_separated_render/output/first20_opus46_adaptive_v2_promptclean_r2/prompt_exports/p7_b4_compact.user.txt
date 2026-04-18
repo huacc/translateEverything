@@ -1,0 +1,19 @@
+任务
+- unit_id：p7_b4
+- 输入单元：短标签 / 小标题
+
+原文
+友邦獎學金旨在資助學業成績傑出並服務
+
+当前译文
+The AIA Scholarship aims to support students with outstanding academic performance and service
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p7_b4",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

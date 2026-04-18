@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p7_b7",
+      "translation": "100 undergraduate students studying at various universities in Hong Kong."
+    }
+  ]
+}
+```

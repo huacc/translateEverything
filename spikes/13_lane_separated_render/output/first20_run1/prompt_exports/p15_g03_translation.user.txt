@@ -1,0 +1,67 @@
+文档场景：上市保险公司企业年报。
+先满足 fact_locks，再保证术语稳定、语义完整和年报文风。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 15,
+    "page_sections": [
+      {
+        "source_section": "集團首席執行官兼總裁報告",
+        "target_section": "Group Chief Executive and President's Report",
+        "content_type": "ceo_report",
+        "page_range": [
+          12,
+          16
+        ]
+      }
+    ],
+    "term_usage_mode": "table",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "年度員工敬業度指標調查是我們在各市場共同努力所得成果的重要指標，藉此更瞭解和支援員工。在2020年，\n97%的員工參與調查，本集團所得的員工敬業度評分升至歷來新高，在蓋洛普環球金融服務及保險業基準中排名\n88分位。此外，友邦保險獲列入...",
+      "next_group_source_excerpt": "「未來的組織」(Organisation of the Future)策略的核心組成部分，包括強化和簡化組織結構、引進靈活的工作方\n式，以及提升能力框架。這些策略性優先任務將支持員工發展事業，進一步提升友邦保險作為首選僱主的地位。"
+    }
+  },
+  "mapping_hits": [
+    {
+      "source": "友邦保險",
+      "target": "AIA",
+      "hit_type": "glossary_term"
+    }
+  ],
+  "fact_locks": [
+    {
+      "label": "usd_amount_1",
+      "fact_type": "usd_scaled_amount",
+      "source_value": "1億美元",
+      "expected_forms": [
+        "US$0.1 billion",
+        "US$100 million",
+        "US$100 million"
+      ]
+    }
+  ],
+  "current_group": {
+    "group_id": "p15_g03",
+    "lane": "body",
+    "group_text": "在2020年10月，友邦保險慶祝於香港聯交所上市10週年誌慶，特別設立「友邦獎學金」，承諾投放1億美元，在未\n來數十年每年資助100名就讀於香港多間大學的本科生，培養新世代企業領袖。",
+    "source_block_ids": [
+      "p15_b11",
+      "p15_b12"
+    ],
+    "source_block_count": 2
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p15_g03",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

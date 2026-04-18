@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p11_b27",
+      "translation": "Growth rates at constant exchange rates for clearer year-on-year performance comparison."
+    }
+  ]
+}
+```

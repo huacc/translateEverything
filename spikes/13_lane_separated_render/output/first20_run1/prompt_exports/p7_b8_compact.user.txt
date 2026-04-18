@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p7_b8",
+    "lane": "caption_label",
+    "source_text": "繼續其學業的學生。",
+    "current_translation": "Students continuing their studies."
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p7_b8",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

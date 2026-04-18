@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p16_b21",
+    "lane": "caption_label",
+    "source_text": "集團首席執行官兼總裁",
+    "current_translation": "Group Chief Executive and President"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p16_b21",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

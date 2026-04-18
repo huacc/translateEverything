@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p12_b5",
+    "lane": "caption_label",
+    "source_text": "和靈活應對瞬息萬變的經營環境，令我深感自豪。",
+    "current_translation": "and adapt swiftly to the rapidly changing business environment, which fills me with pride."
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p12_b5",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

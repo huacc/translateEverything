@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p2_b21",
+      "translation": "(collectively \"AIA\" or \"the Group\") is the largest"
+    }
+  ]
+}
+```

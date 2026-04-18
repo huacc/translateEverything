@@ -1,0 +1,83 @@
+文档场景：上市保险公司企业年报。
+先满足 fact_locks，再保证术语稳定、语义完整和年报文风。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 14,
+    "page_sections": [
+      {
+        "source_section": "集團首席執行官兼總裁報告",
+        "target_section": "Group Chief Executive and President's Report",
+        "content_type": "ceo_report",
+        "page_range": [
+          12,
+          16
+        ]
+      }
+    ],
+    "term_usage_mode": "table",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "香港在2020年2月初實施旅遊限制，來自中國內地訪港旅客的新業務銷售實際上已經停頓，導致新業務價值大幅\n下降。與上半年比較，我們的代理分銷來自本地客戶的業務於下半年錄得雙位數字的銷售增長，維持顯著的市場\n領導地位。夥伴分銷渠道的新業務...",
+      "next_group_source_excerpt": "新加坡業務下半年亦有卓越的好轉，與上半年比較，新業務價值上升56%，按年則上升12%。新業務價值全年\n下降5%，由於我們的境外夥伴業務受到嚴格的邊境管制措施所影響，抵銷代理渠道的增長。稅後營運溢利上升\n8%。"
+    }
+  },
+  "mapping_hits": [
+    {
+      "source": "新業務價值",
+      "target": "VONB",
+      "hit_type": "context_term"
+    },
+    {
+      "source": "友邦保險",
+      "target": "AIA",
+      "hit_type": "glossary_term"
+    },
+    {
+      "source": "泰國",
+      "target": "Thailand",
+      "hit_type": "glossary_term"
+    }
+  ],
+  "fact_locks": [
+    {
+      "label": "percentage_4",
+      "fact_type": "percentage",
+      "source_value": "4%",
+      "expected_forms": [
+        "4%"
+      ]
+    },
+    {
+      "label": "percentage_33",
+      "fact_type": "percentage",
+      "source_value": "33%",
+      "expected_forms": [
+        "33%"
+      ]
+    }
+  ],
+  "current_group": {
+    "group_id": "p14_g04",
+    "lane": "body",
+    "group_text": "友邦保險泰國業務在下半年錄得非常強勁的表現。儘管新業務價值全年下降4%，但隨著外出限制放寬，按月表\n現已展現正面動力，而下半年新業務價值較上半年錄得33%的增長。",
+    "source_block_ids": [
+      "p14_b15",
+      "p14_b16"
+    ],
+    "source_block_count": 2
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p14_g04",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

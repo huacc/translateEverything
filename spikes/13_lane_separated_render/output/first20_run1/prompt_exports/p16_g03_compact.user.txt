@@ -1,0 +1,48 @@
+文档场景：上市公司企业年报
+{
+  "document_background": {
+    "page_sections": [
+      {
+        "source_section": "集團首席執行官兼總裁報告",
+        "target_section": "Group Chief Executive and President's Report",
+        "content_type": "ceo_report",
+        "page_range": [
+          12,
+          16
+        ]
+      }
+    ],
+    "roles": [
+      {
+        "source": "李源祥",
+        "target": "Lee Yuen Cheung",
+        "role": "Group Chief Executive and President"
+      }
+    ],
+    "terms": [],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "For overview narrative, use full financial metric name plus abbreviation when provided.",
+      "For financial review and business metrics narrative, use established abbreviations when provided.",
+      "Prefer AIA China / AIA Hong Kong / AIA Macau over loose paraphrases when matched."
+    ]
+  },
+  "current_unit": {
+    "page_no": 16,
+    "unit_id": "p16_g03",
+    "unit_mode": "semantic_group",
+    "slot_count": 4,
+    "source_text": "儘管疫情大流行的影響依然沒有結束，但相信2021年將是過渡性的一年，我們對此保持審慎樂觀。市場憧憬推出\n疫苗接種計劃和新療法有助降低疫症的感染率和嚴重性，使醫療系統能更有效應對疫情，並降低死亡率。儘管我\n們並不預計外出或消費行為於短期內能回復疫情大流行前的水平，但隨著消費者信心恢復，預期復甦範疇將逐步\n由製造主導的產業擴展到消費和服務業。這在人口較年輕的國家將尤其可見。",
+    "current_translation": "Although the impact of the pandemic has not yet ended, we believe 2021 will be a transitional year and we remain cautiously optimistic. Market expectations for the rollout of vaccination programmes and new therapies are expected to help reduce infection rates and severity of the disease, enabling healthcare systems to respond to the pandemic more effectively and reduce mortality rates. While we do not anticipate that travel and consumer behaviour will return to pre-pandemic levels in the near term, as consumer confidence recovers, the recovery is expected to gradually broaden from manufacturing-led industries to consumption and service sectors. This will be particularly evident in countries with younger populations."
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p16_g03",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

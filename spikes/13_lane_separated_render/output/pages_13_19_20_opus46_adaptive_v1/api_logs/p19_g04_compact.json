@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "stage": "compact",
+    "page_no": 19,
+    "group_id": "p19_g04"
+  },
+  "request": {
+    "model": "claude-opus-4-6",
+    "max_tokens": 4096,
+    "system": "你是年报英文压缩器，不是重译器。\n语言方向：Traditional Chinese -> English。\n你的任务只是对已有译文做最小必要压缩，以便回填原版面。\n禁止改变数字、单位、术语、专名、比较关系、主体和结论。\n标题不能改成正文，表头不能改成句子，不能输出口语化表达。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市公司企业年报\n{\n  \"document_background\": {\n    \"page_sections\": [\n      {\n        \"source_section\": \"集團首席財務總監回顧\",\n        \"target_section\": \"Group Chief Financial Officer's Review\",\n        \"content_type\": \"cfo_review\",\n        \"page_range\": [\n          18,\n          30\n        ]\n      }\n    ],\n    \"roles\": [],\n    \"terms\": [],\n    \"style_rules\": [\n      \"Use US$ for U.S. dollar amounts.\",\n      \"Keep listed-company annual report disclosure tone formal and publishable.\",\n      \"Do not change numbers, percentages, years, named entities or financial metric values.\",\n      \"Use established financial abbreviations for table labels when provided.\",\n      \"Keep row and column semantics unchanged.\",\n      \"Use n/m for 無意義.\"\n    ]\n  },\n  \"current_unit\": {\n    \"page_no\": 19,\n    \"unit_id\": \"p19_g04\",\n    \"unit_mode\": \"semantic_group\",\n    \"slot_count\": 6,\n    \"source_text\": \"我們的高質素、經常性盈利來源以及對有效保單組合的積極管理，帶動稅後營運溢利增長了5%至59.42億美元，\\n並使營運溢利率穩定在16.9%。所收取的續保保費增加了10%，經常性保費總額佔2020年所收取保費的90%以\\n上。稅後營運溢利增長受益於全年顯著正面理賠經驗，其抵銷了新固定收入投資的收益率下跌及假設長期股權投\\n資回報減少的影響。一如預期，上半年所述的異常正面醫療理賠經驗並未在下半年再次發生，但我們繼續看到此\\n來源對稅後營運溢利增長的正面貢獻。在友邦保險泰國業務的失效經驗恢復正常的情況下，下半年的續保率有所\\n改善，而本集團的續保率為95%。\",\n    \"current_translation\": \"Our high-quality, recurring earnings stream and active management of our in-force portfolio drove OPAT growth of 5% to US$5,942 million and maintained a stable operating margin of 16.9%. Renewal premiums received increased by 10%, with recurring premiums representing over 90% of total premiums received in 2020. OPAT growth benefited from significantly positive claims experience throughout the year, which offset the impact of lower yields on new fixed income investments and the assumed reduction in long-term equity investment returns. As expected, the exceptionally positive medical claims experience noted in the first half did not recur in the second half, but we continued to see a positive contribution from this source to OPAT growth. Persistency improved in the second half as lapse experience in AIA Thailand normalised, with Group persistency at 95%.\"\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p19_g04\",\n        \"translation\": \"<更紧凑译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ],
+    "thinking": {
+      "type": "adaptive"
+    },
+    "output_config": {
+      "effort": "max"
+    }
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p19_g04\",\n      \"translation\": \"Our high-quality, recurring earnings and active in-force portfolio management drove 5% OPAT growth to US$5,942 million, maintaining a stable 16.9% operating margin. Renewal premiums received rose 10%, with recurring premiums exceeding 90% of total 2020 premiums received. OPAT growth benefited from significantly positive claims experience throughout the year, offsetting lower yields on new fixed income investments and assumed reduction in long-term equity investment returns. As expected, the exceptionally positive medical claims experience in the first half did not recur in the second half, but continued contributing positively to OPAT growth. Persistency improved in the second half as lapse experience in AIA Thailand normalised, with Group persistency at 95%.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "041196a0-9262-47bd-9b56-d67deb6712e7",
+    "conversation_id": "041196a0-9262-47bd-9b56-d67deb6712e7",
+    "id": "041196a0-9262-47bd-9b56-d67deb6712e7",
+    "model": "claude-opus-4-6",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 987,
+      "output_tokens": 185
+    }
+  }
+}

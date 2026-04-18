@@ -1,0 +1,50 @@
+文档场景：上市保险公司企业年报。
+当前输入属于短标签通道。优先使用标准年报表达。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 7,
+    "page_sections": [
+      {
+        "source_section": "2020年里程碑",
+        "target_section": "2020 Milestones",
+        "content_type": "highlights",
+        "page_range": [
+          7
+        ]
+      }
+    ],
+    "term_usage_mode": "heading",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "友邦保險承諾投放一億美元設立「友邦獎學金」",
+      "next_group_source_excerpt": "友邦獎學金旨在資助學業成績傑出並服務"
+    }
+  },
+  "mapping_hits": [
+    {
+      "source": "友邦保險",
+      "target": "AIA",
+      "hit_type": "glossary_term"
+    }
+  ],
+  "fact_locks": [],
+  "current_unit": {
+    "unit_id": "p7_b3",
+    "lane": "caption_label",
+    "source_text": "友邦保險宣佈設立「友邦獎學金」，並承諾"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p7_b3",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

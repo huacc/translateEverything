@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "stage": "compact",
+    "page_no": 12,
+    "group_id": "p12_b7"
+  },
+  "request": {
+    "model": "claude-opus-4-6",
+    "max_tokens": 4096,
+    "system": "你是上市公司年报短标签压缩助手。\n语言方向：Traditional Chinese -> English。\n只做最小必要压缩，不改变核心语义，不扩写。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "任务\n- unit_id：p12_b7\n- 输入单元：短标签 / 小标题\n\n原文\n環境，同時加快落實我們的策略計劃。\n\n当前译文\nenvironment, while accelerating the implementation of our strategic plan.\n\n输出格式\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p12_b7\",\n      \"translation\": \"<更紧凑译文>\"\n    }\n  ]\n}"
+      }
+    ],
+    "thinking": {
+      "type": "adaptive"
+    },
+    "output_config": {
+      "effort": "max"
+    }
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p12_b7\",\n      \"translation\": \"environment while accelerating our strategic plan implementation.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "33343d32-2faf-40b1-a263-5bca2dc976ec",
+    "conversation_id": "33343d32-2faf-40b1-a263-5bca2dc976ec",
+    "id": "33343d32-2faf-40b1-a263-5bca2dc976ec",
+    "model": "claude-opus-4-6",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 205,
+      "output_tokens": 46
+    }
+  }
+}

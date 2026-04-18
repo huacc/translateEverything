@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "compact",
+    "page_no": 16,
+    "group_id": "p16_g03"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是年报英文压缩器，不是重译器。\n语言方向：Traditional Chinese -> English。\n你的任务只是对已有译文做最小必要压缩，以便回填原版面。\n禁止改变数字、单位、术语、专名、比较关系、主体和结论。\n标题不能改成正文，表头不能改成句子，不能输出口语化表达。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市公司企业年报\n{\n  \"document_background\": {\n    \"page_sections\": [\n      {\n        \"source_section\": \"集團首席執行官兼總裁報告\",\n        \"target_section\": \"Group Chief Executive and President's Report\",\n        \"content_type\": \"ceo_report\",\n        \"page_range\": [\n          12,\n          16\n        ]\n      }\n    ],\n    \"roles\": [\n      {\n        \"source\": \"李源祥\",\n        \"target\": \"Lee Yuen Cheung\",\n        \"role\": \"Group Chief Executive and President\"\n      }\n    ],\n    \"terms\": [],\n    \"style_rules\": [\n      \"Use US$ for U.S. dollar amounts.\",\n      \"Keep listed-company annual report disclosure tone formal and publishable.\",\n      \"Do not change numbers, percentages, years, named entities or financial metric values.\",\n      \"For overview narrative, use full financial metric name plus abbreviation when provided.\",\n      \"For financial review and business metrics narrative, use established abbreviations when provided.\",\n      \"Prefer AIA China / AIA Hong Kong / AIA Macau over loose paraphrases when matched.\"\n    ]\n  },\n  \"current_unit\": {\n    \"page_no\": 16,\n    \"unit_id\": \"p16_g03\",\n    \"unit_mode\": \"semantic_group\",\n    \"slot_count\": 4,\n    \"source_text\": \"儘管疫情大流行的影響依然沒有結束，但相信2021年將是過渡性的一年，我們對此保持審慎樂觀。市場憧憬推出\\n疫苗接種計劃和新療法有助降低疫症的感染率和嚴重性，使醫療系統能更有效應對疫情，並降低死亡率。儘管我\\n們並不預計外出或消費行為於短期內能回復疫情大流行前的水平，但隨著消費者信心恢復，預期復甦範疇將逐步\\n由製造主導的產業擴展到消費和服務業。這在人口較年輕的國家將尤其可見。\",\n    \"current_translation\": \"Although the impact of the pandemic has not yet ended, we believe 2021 will be a transitional year and we remain cautiously optimistic. Market expectations for the rollout of vaccination programmes and new therapies are expected to help reduce infection rates and severity of the disease, enabling healthcare systems to respond to the pandemic more effectively and reduce mortality rates. While we do not anticipate that travel and consumer behaviour will return to pre-pandemic levels in the near term, as consumer confidence recovers, the recovery is expected to gradually broaden from manufacturing-led industries to consumption and service sectors. This will be particularly evident in countries with younger populations.\"\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p16_g03\",\n        \"translation\": \"<更紧凑译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p16_g03\",\n      \"translation\": \"Although the pandemic's impact persists, we believe 2021 will be transitional and remain cautiously optimistic. Market expectations for vaccination programmes and new therapies should reduce infection rates and disease severity, enabling healthcare systems to respond more effectively and lower mortality. While near-term travel and consumer behaviour are unlikely to return to pre-pandemic levels, recovery is expected to broaden from manufacturing-led to consumption and service sectors as consumer confidence recovers. This will be particularly evident in younger-population countries.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "3456f3a8-fc8d-4a4c-aaa6-0a1dfa571f6a",
+    "conversation_id": "3456f3a8-fc8d-4a4c-aaa6-0a1dfa571f6a",
+    "id": "3456f3a8-fc8d-4a4c-aaa6-0a1dfa571f6a",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 909,
+      "output_tokens": 133
+    }
+  }
+}

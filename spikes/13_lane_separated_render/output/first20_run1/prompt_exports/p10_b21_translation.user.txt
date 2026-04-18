@@ -1,0 +1,64 @@
+文档场景：上市保险公司企业年报。
+先满足 fact_locks，再保证术语稳定、语义完整和年报文风。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 10,
+    "page_sections": [
+      {
+        "source_section": "主席報告",
+        "target_section": "Chairman's Statement",
+        "content_type": "chairman_statement",
+        "page_range": [
+          10,
+          11
+        ]
+      }
+    ],
+    "term_usage_mode": "table",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "由於2019冠狀病毒病相關的控制措施對新業務銷售造成影響，新業務價值下降至27.65億美元。我們迅速採用\n嶄新的數碼工具，提升業務運作效率，加上近期放寬外出限制，帶動銷售動力強勁復蘇，並延續至2021年初。",
+      "next_group_source_excerpt": "稅後營運溢利增長5%至59.42億美元，產生的基本自由盈餘則上升7%至58.43億美元，反映我們擁有高質素的\n經常性盈利來源。內涵價值權益創新高，達672億美元。截至2020年12月31日，集團當地資本總和法覆蓋率為\n374%，足證我..."
+    }
+  },
+  "mapping_hits": [
+    {
+      "source": "新業務價值",
+      "target": "VONB",
+      "hit_type": "context_term"
+    }
+  ],
+  "fact_locks": [
+    {
+      "label": "percentage_15",
+      "fact_type": "percentage",
+      "source_value": "15%",
+      "expected_forms": [
+        "15%"
+      ]
+    }
+  ],
+  "current_group": {
+    "group_id": "p10_b21",
+    "lane": "body",
+    "group_text": "與去年同期比較，2021年首兩個月的新業務價值增長15%。",
+    "source_block_ids": [
+      "p10_b21"
+    ],
+    "source_block_count": 1
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p10_b21",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

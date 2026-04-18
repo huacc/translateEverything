@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p14_g05",
+      "translation": "Singapore's business improved significantly in H2, with VONB up 56% versus H1 and 12% year-on-year. Full-year VONB declined 5% as offshore partner business was impacted by stringent border controls, offsetting agency channel growth. OPAT increased 8%."
+    }
+  ]
+}
+```

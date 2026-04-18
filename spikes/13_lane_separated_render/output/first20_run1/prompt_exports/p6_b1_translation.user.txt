@@ -1,0 +1,41 @@
+文档场景：上市保险公司企业年报。
+当前输入属于短标签通道。优先使用标准年报表达。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 6,
+    "page_sections": [],
+    "term_usage_mode": "heading",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "",
+      "next_group_source_excerpt": "長遠的關係，這種關係很多時更能跨越"
+    }
+  },
+  "mapping_hits": [
+    {
+      "source": "友邦保險",
+      "target": "AIA",
+      "hit_type": "glossary_term"
+    }
+  ],
+  "fact_locks": [],
+  "current_unit": {
+    "unit_id": "p6_b1",
+    "lane": "caption_label",
+    "source_text": "友邦保險今天的業務由史戴"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p6_b1",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

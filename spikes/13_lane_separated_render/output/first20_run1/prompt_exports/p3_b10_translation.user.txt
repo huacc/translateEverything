@@ -1,0 +1,46 @@
+文档场景：上市保险公司企业年报。
+当前输入属于表格通道。不要把表格行改写成正文句子。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 3,
+    "page_sections": [
+      {
+        "source_section": "友邦保險一覽",
+        "target_section": "AIA At-A-Glance",
+        "content_type": "company_overview",
+        "page_range": [
+          3
+        ]
+      }
+    ],
+    "term_usage_mode": "overview_narrative",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "於2020年內，我們已支付\n逾160億美元\n的保險給付和理賠，\n為客戶提供必不可少的\n財務支援",
+      "next_group_source_excerpt": "2020年報\n001"
+    }
+  },
+  "mapping_hits": [],
+  "fact_locks": [],
+  "current_unit": {
+    "unit_id": "p3_b10",
+    "lane": "table",
+    "table_role": "row",
+    "source_text": "為亞洲大眾提供保障，\n總保額接近\n2萬億美元\n18個市場",
+    "source_line_count": 4
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p3_b10",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

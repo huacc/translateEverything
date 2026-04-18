@@ -1,0 +1,229 @@
+{
+  "pages": [
+    13,
+    19,
+    20
+  ],
+  "v11_vs_human": {
+    "average": {
+      "token_f1": 0.6812,
+      "content_f1": 0.6062,
+      "sequence_ratio": 0.4916,
+      "number_recall": 0.6407
+    },
+    "per_page": [
+      {
+        "page_no": 13,
+        "token_f1": 0.6968,
+        "content_f1": 0.6544,
+        "sequence_ratio": 0.4624,
+        "number_recall": 0.5714,
+        "token_count_ref": 649,
+        "token_count_hyp": 588
+      },
+      {
+        "page_no": 19,
+        "token_f1": 0.6918,
+        "content_f1": 0.6602,
+        "sequence_ratio": 0.4935,
+        "number_recall": 0.4,
+        "token_count_ref": 689,
+        "token_count_hyp": 693
+      },
+      {
+        "page_no": 20,
+        "token_f1": 0.6549,
+        "content_f1": 0.5041,
+        "sequence_ratio": 0.5189,
+        "number_recall": 0.9508,
+        "token_count_ref": 549,
+        "token_count_hyp": 642
+      }
+    ]
+  },
+  "spike12_vs_human": {
+    "average": {
+      "token_f1": 0.6979,
+      "content_f1": 0.6722,
+      "sequence_ratio": 0.5282,
+      "number_recall": 0.6583
+    },
+    "per_page": [
+      {
+        "page_no": 13,
+        "token_f1": 0.6284,
+        "content_f1": 0.5933,
+        "sequence_ratio": 0.4421,
+        "number_recall": 0.5714,
+        "token_count_ref": 649,
+        "token_count_hyp": 500
+      },
+      {
+        "page_no": 19,
+        "token_f1": 0.7039,
+        "content_f1": 0.7025,
+        "sequence_ratio": 0.5165,
+        "number_recall": 0.4364,
+        "token_count_ref": 689,
+        "token_count_hyp": 581
+      },
+      {
+        "page_no": 20,
+        "token_f1": 0.7615,
+        "content_f1": 0.7209,
+        "sequence_ratio": 0.6261,
+        "number_recall": 0.9672,
+        "token_count_ref": 549,
+        "token_count_hyp": 470
+      }
+    ]
+  },
+  "delta_spike12_minus_v11": {
+    "token_f1": 0.0167,
+    "content_f1": 0.066,
+    "sequence_ratio": 0.0366,
+    "number_recall": 0.0176
+  },
+  "layout_v11": {
+    "1": {
+      "avg_font_ratio": 0.0,
+      "compact_used": 0,
+      "overflow_count": 0,
+      "unit_count": 1
+    },
+    "2": {
+      "avg_font_ratio": 0.0,
+      "compact_used": 0,
+      "overflow_count": 0,
+      "unit_count": 1
+    },
+    "3": {
+      "avg_font_ratio": 0.0,
+      "compact_used": 0,
+      "overflow_count": 0,
+      "unit_count": 1
+    },
+    "4": {
+      "avg_font_ratio": 0.0,
+      "compact_used": 0,
+      "overflow_count": 0,
+      "unit_count": 1
+    },
+    "5": {
+      "avg_font_ratio": 0.0,
+      "compact_used": 0,
+      "overflow_count": 0,
+      "unit_count": 1
+    },
+    "6": {
+      "avg_font_ratio": 0.0,
+      "compact_used": 0,
+      "overflow_count": 0,
+      "unit_count": 1
+    },
+    "7": {
+      "avg_font_ratio": 0.0,
+      "compact_used": 0,
+      "overflow_count": 0,
+      "unit_count": 1
+    },
+    "8": {
+      "avg_font_ratio": 0.0,
+      "compact_used": 0,
+      "overflow_count": 0,
+      "unit_count": 1
+    },
+    "9": {
+      "avg_font_ratio": 0.0,
+      "compact_used": 0,
+      "overflow_count": 0,
+      "unit_count": 1
+    },
+    "10": {
+      "avg_font_ratio": 0.0,
+      "compact_used": 0,
+      "overflow_count": 0,
+      "unit_count": 1
+    },
+    "11": {
+      "avg_font_ratio": 0.0,
+      "compact_used": 0,
+      "overflow_count": 0,
+      "unit_count": 1
+    },
+    "12": {
+      "avg_font_ratio": 0.0,
+      "compact_used": 0,
+      "overflow_count": 0,
+      "unit_count": 1
+    },
+    "13": {
+      "avg_font_ratio": 0.0,
+      "compact_used": 0,
+      "overflow_count": 0,
+      "unit_count": 1
+    },
+    "14": {
+      "avg_font_ratio": 0.0,
+      "compact_used": 0,
+      "overflow_count": 0,
+      "unit_count": 1
+    },
+    "15": {
+      "avg_font_ratio": 0.0,
+      "compact_used": 0,
+      "overflow_count": 0,
+      "unit_count": 1
+    },
+    "16": {
+      "avg_font_ratio": 0.0,
+      "compact_used": 0,
+      "overflow_count": 0,
+      "unit_count": 1
+    },
+    "17": {
+      "avg_font_ratio": 0.0,
+      "compact_used": 0,
+      "overflow_count": 0,
+      "unit_count": 1
+    },
+    "18": {
+      "avg_font_ratio": 0.0,
+      "compact_used": 0,
+      "overflow_count": 0,
+      "unit_count": 1
+    },
+    "19": {
+      "avg_font_ratio": 0.0,
+      "compact_used": 0,
+      "overflow_count": 0,
+      "unit_count": 1
+    },
+    "20": {
+      "avg_font_ratio": 0.0,
+      "compact_used": 0,
+      "overflow_count": 0,
+      "unit_count": 1
+    }
+  },
+  "layout_spike12": {
+    "13": {
+      "avg_font_ratio": 0.7981,
+      "compact_used": 8,
+      "overflow_count": 0,
+      "unit_count": 15
+    },
+    "19": {
+      "avg_font_ratio": 0.7898,
+      "compact_used": 5,
+      "overflow_count": 0,
+      "unit_count": 10
+    },
+    "20": {
+      "avg_font_ratio": 0.9327,
+      "compact_used": 3,
+      "overflow_count": 0,
+      "unit_count": 24
+    }
+  }
+}

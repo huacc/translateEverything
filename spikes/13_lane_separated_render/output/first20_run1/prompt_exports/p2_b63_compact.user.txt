@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p2_b63",
+    "lane": "caption_label",
+    "source_text": "269 內涵價值補充資料",
+    "current_translation": "269 Embedded Value Supplementary Information"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p2_b63",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

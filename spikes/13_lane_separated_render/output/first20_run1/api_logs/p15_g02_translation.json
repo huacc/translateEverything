@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 15,
+    "group_id": "p15_g02"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是上市保险公司年报翻译器。\n语言方向：Traditional Chinese -> English。\n只处理当前 body semantic group。\n只可在当前组内恢复跨块断句，不得跨组补写、跨组删写或改写事实。\n必须严格满足 mapping_hits 与 fact_locks。\n版面回填、字体压缩、分块分配不是你的职责，不要为了适配版面而删词改义。\n保持正式、稳定、可出版的企业年报文风。\n只输出 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市保险公司企业年报。\n先满足 fact_locks，再保证术语稳定、语义完整和年报文风。\n{\n  \"task\": {\n    \"scenario\": \"listed_company_annual_report\",\n    \"industry\": \"Life Insurance\",\n    \"report_type\": \"annual_report\",\n    \"company_name_target\": \"AIA GROUP LIMITED\",\n    \"direction\": \"Traditional Chinese -> English\"\n  },\n  \"page_context\": {\n    \"page_no\": 15,\n    \"page_sections\": [\n      {\n        \"source_section\": \"集團首席執行官兼總裁報告\",\n        \"target_section\": \"Group Chief Executive and President's Report\",\n        \"content_type\": \"ceo_report\",\n        \"page_range\": [\n          12,\n          16\n        ]\n      }\n    ],\n    \"term_usage_mode\": \"table\",\n    \"neighbor_context\": {\n      \"previous_group_source_excerpt\": \"饋，與過往參與面對面學習的意見相若。\",\n      \"next_group_source_excerpt\": \"在2020年10月，友邦保險慶祝於香港聯交所上市10週年誌慶，特別設立「友邦獎學金」，承諾投放1億美元，在未\\n來數十年每年資助100名就讀於香港多間大學的本科生，培養新世代企業領袖。\"\n    }\n  },\n  \"mapping_hits\": [\n    {\n      \"source\": \"友邦保險\",\n      \"target\": \"AIA\",\n      \"hit_type\": \"glossary_term\"\n    }\n  ],\n  \"fact_locks\": [\n    {\n      \"label\": \"percentage_97\",\n      \"fact_type\": \"percentage\",\n      \"source_value\": \"97%\",\n      \"expected_forms\": [\n        \"97%\"\n      ]\n    }\n  ],\n  \"current_group\": {\n    \"group_id\": \"p15_g02\",\n    \"lane\": \"body\",\n    \"group_text\": \"年度員工敬業度指標調查是我們在各市場共同努力所得成果的重要指標，藉此更瞭解和支援員工。在2020年，\\n97%的員工參與調查，本集團所得的員工敬業度評分升至歷來新高，在蓋洛普環球金融服務及保險業基準中排名\\n88分位。此外，友邦保險獲列入《福布斯》\\n「2020年世界最佳僱主榜單」(‘World’s Best Employers 2020’ list)。\",\n    \"source_block_ids\": [\n      \"p15_b8\",\n      \"p15_b9\",\n      \"p15_b10\"\n    ],\n    \"source_block_count\": 3\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p15_g02\",\n        \"translation\": \"<译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p15_g02\",\n      \"translation\": \"Our annual employee engagement survey is a key indicator of the collective efforts we make across our markets to better understand and support our employees. In 2020, 97% of employees participated in the survey, and our Group achieved a record high employee engagement score, ranking at the 88th percentile against the Gallup Global Financial Services and Insurance benchmark. Additionally, AIA was named on Forbes' 'World's Best Employers 2020' list.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "33f90d98-9102-4170-a0a7-3a12cea8da91",
+    "conversation_id": "33f90d98-9102-4170-a0a7-3a12cea8da91",
+    "id": "33f90d98-9102-4170-a0a7-3a12cea8da91",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1002,
+      "output_tokens": 122
+    }
+  }
+}

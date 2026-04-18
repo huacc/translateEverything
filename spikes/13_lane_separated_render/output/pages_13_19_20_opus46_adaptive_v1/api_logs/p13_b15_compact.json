@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "stage": "compact",
+    "page_no": 13,
+    "group_id": "p13_b15"
+  },
+  "request": {
+    "model": "claude-opus-4-6",
+    "max_tokens": 4096,
+    "system": "你是版面压缩器。\n语言方向：Traditional Chinese -> English。\n只做最小必要压缩。\n不得改动数字、百分比、年份、金额、专有名词。\n只输出 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市保险公司企业年报。\n{\n  \"current_unit\": {\n    \"unit_id\": \"p13_b15\",\n    \"lane\": \"caption_label\",\n    \"source_text\": \"政策，讓本集團可把握未來的增長機遇，並且保持財務靈活性。\",\n    \"current_translation\": \"policy, enabling the Group to capture future growth opportunities while maintaining financial flexibility.\"\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p13_b15\",\n        \"translation\": \"<更紧凑译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ],
+    "thinking": {
+      "type": "adaptive"
+    },
+    "output_config": {
+      "effort": "max"
+    }
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p13_b15\",\n      \"translation\": \"policy, enabling the Group to seize future growth opportunities and maintain financial flexibility.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "8f806030-3c8f-4af4-a459-9c96d48c49c3",
+    "conversation_id": "8f806030-3c8f-4af4-a459-9c96d48c49c3",
+    "id": "8f806030-3c8f-4af4-a459-9c96d48c49c3",
+    "model": "claude-opus-4-6",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 256,
+      "output_tokens": 52
+    }
+  }
+}

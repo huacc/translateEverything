@@ -1,0 +1,234 @@
+[
+  {
+    "group_id": "p13_g01",
+    "page_no": 13,
+    "lane": "body",
+    "uses_group_text": true,
+    "uses_table_role": false,
+    "contains_raw_blocks_array": false
+  },
+  {
+    "group_id": "p13_b3",
+    "page_no": 13,
+    "lane": "caption_label",
+    "uses_group_text": false,
+    "uses_table_role": false,
+    "contains_raw_blocks_array": false
+  },
+  {
+    "group_id": "p13_g02",
+    "page_no": 13,
+    "lane": "body",
+    "uses_group_text": true,
+    "uses_table_role": false,
+    "contains_raw_blocks_array": false
+  },
+  {
+    "group_id": "p13_b8",
+    "page_no": 13,
+    "lane": "caption_label",
+    "uses_group_text": false,
+    "uses_table_role": false,
+    "contains_raw_blocks_array": false
+  },
+  {
+    "group_id": "p13_g03",
+    "page_no": 13,
+    "lane": "body",
+    "uses_group_text": true,
+    "uses_table_role": false,
+    "contains_raw_blocks_array": false
+  },
+  {
+    "group_id": "p13_b13",
+    "page_no": 13,
+    "lane": "caption_label",
+    "uses_group_text": false,
+    "uses_table_role": false,
+    "contains_raw_blocks_array": false
+  },
+  {
+    "group_id": "p13_b14",
+    "page_no": 13,
+    "lane": "body",
+    "uses_group_text": true,
+    "uses_table_role": false,
+    "contains_raw_blocks_array": false
+  },
+  {
+    "group_id": "p13_b15",
+    "page_no": 13,
+    "lane": "caption_label",
+    "uses_group_text": false,
+    "uses_table_role": false,
+    "contains_raw_blocks_array": false
+  },
+  {
+    "group_id": "p13_g04",
+    "page_no": 13,
+    "lane": "body",
+    "uses_group_text": true,
+    "uses_table_role": false,
+    "contains_raw_blocks_array": false
+  },
+  {
+    "group_id": "p13_b19",
+    "page_no": 13,
+    "lane": "caption_label",
+    "uses_group_text": false,
+    "uses_table_role": false,
+    "contains_raw_blocks_array": false
+  },
+  {
+    "group_id": "p13_g05",
+    "page_no": 13,
+    "lane": "body",
+    "uses_group_text": true,
+    "uses_table_role": false,
+    "contains_raw_blocks_array": false
+  },
+  {
+    "group_id": "p13_g06",
+    "page_no": 13,
+    "lane": "body",
+    "uses_group_text": true,
+    "uses_table_role": false,
+    "contains_raw_blocks_array": false
+  },
+  {
+    "group_id": "p13_b25",
+    "page_no": 13,
+    "lane": "caption_label",
+    "uses_group_text": false,
+    "uses_table_role": false,
+    "contains_raw_blocks_array": false
+  },
+  {
+    "group_id": "p13_g07",
+    "page_no": 13,
+    "lane": "body",
+    "uses_group_text": true,
+    "uses_table_role": false,
+    "contains_raw_blocks_array": false
+  },
+  {
+    "group_id": "p19_g01",
+    "page_no": 19,
+    "lane": "body",
+    "uses_group_text": true,
+    "uses_table_role": false,
+    "contains_raw_blocks_array": false
+  },
+  {
+    "group_id": "p19_g02",
+    "page_no": 19,
+    "lane": "body",
+    "uses_group_text": true,
+    "uses_table_role": false,
+    "contains_raw_blocks_array": false
+  },
+  {
+    "group_id": "p19_b9",
+    "page_no": 19,
+    "lane": "body",
+    "uses_group_text": true,
+    "uses_table_role": false,
+    "contains_raw_blocks_array": false
+  },
+  {
+    "group_id": "p19_g03",
+    "page_no": 19,
+    "lane": "body",
+    "uses_group_text": true,
+    "uses_table_role": false,
+    "contains_raw_blocks_array": false
+  },
+  {
+    "group_id": "p19_g04",
+    "page_no": 19,
+    "lane": "body",
+    "uses_group_text": true,
+    "uses_table_role": false,
+    "contains_raw_blocks_array": false
+  },
+  {
+    "group_id": "p19_g05",
+    "page_no": 19,
+    "lane": "body",
+    "uses_group_text": true,
+    "uses_table_role": false,
+    "contains_raw_blocks_array": false
+  },
+  {
+    "group_id": "p19_g06",
+    "page_no": 19,
+    "lane": "body",
+    "uses_group_text": true,
+    "uses_table_role": false,
+    "contains_raw_blocks_array": false
+  },
+  {
+    "group_id": "p19_g07",
+    "page_no": 19,
+    "lane": "body",
+    "uses_group_text": true,
+    "uses_table_role": false,
+    "contains_raw_blocks_array": false
+  },
+  {
+    "group_id": "p19_g08",
+    "page_no": 19,
+    "lane": "body",
+    "uses_group_text": true,
+    "uses_table_role": false,
+    "contains_raw_blocks_array": false
+  },
+  {
+    "group_id": "p20_b3",
+    "page_no": 20,
+    "lane": "caption_label",
+    "uses_group_text": false,
+    "uses_table_role": false,
+    "contains_raw_blocks_array": false
+  },
+  {
+    "group_id": "p20_b16",
+    "page_no": 20,
+    "lane": "table",
+    "uses_group_text": false,
+    "uses_table_role": true,
+    "contains_raw_blocks_array": false
+  },
+  {
+    "group_id": "p20_b17",
+    "page_no": 20,
+    "lane": "table",
+    "uses_group_text": false,
+    "uses_table_role": true,
+    "contains_raw_blocks_array": false
+  },
+  {
+    "group_id": "p20_g01",
+    "page_no": 20,
+    "lane": "body",
+    "uses_group_text": true,
+    "uses_table_role": false,
+    "contains_raw_blocks_array": false
+  },
+  {
+    "group_id": "p20_g02",
+    "page_no": 20,
+    "lane": "body",
+    "uses_group_text": true,
+    "uses_table_role": false,
+    "contains_raw_blocks_array": false
+  },
+  {
+    "group_id": "p20_g03",
+    "page_no": 20,
+    "lane": "body",
+    "uses_group_text": true,
+    "uses_table_role": false,
+    "contains_raw_blocks_array": false
+  }
+]

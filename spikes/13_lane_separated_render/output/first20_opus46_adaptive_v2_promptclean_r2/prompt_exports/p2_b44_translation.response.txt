@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p2_b44",
+      "translation": "49% interest in joint ventures."
+    }
+  ]
+}
+```

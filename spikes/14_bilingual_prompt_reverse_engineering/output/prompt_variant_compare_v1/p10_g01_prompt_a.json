@@ -1,0 +1,44 @@
+{
+  "sample_id": "p10_g01",
+  "page_no": 10,
+  "section": "Chairman's Statement",
+  "variant": "prompt_a",
+  "source_text": "友邦保險在亞洲歷史悠久，源遠流長，經歷各種社會動盪和不明朗時期仍能妥善管理業務，因而贏得卓著的\n聲譽，體現友邦保險誠可信賴、強韌穩健，並堅持為持分者做對的事。自2020年初以來，2019冠狀病毒病大流\n行導致營商環境不斷變化及日趨複雜，而政治、宏觀經濟及資本市場亦出現前所未見的轉移。在這樣的環境下，\n友邦保險的財務實力，以及「幫助大眾活出健康、長久、好生活」的目標，更具重大意義。本人衷心感謝友邦\n保險所有員工、代理和合作夥伴，即使面對最嚴峻的挑戰，他們仍關懷社區，克盡己職，專心致志地為客戶、",
+  "human_reference": "Throughout AIA’s long history in the region we have managed our businesses through many periods of change and uncertainty, earning our company a reputation which is synonymous with trust, resilience and doing the right thing for our stakeholders. From early 2020, the COVID-19 pandemic presented an ever-changing and complex operating environment and we witnessed unprecedented shifts in politics, macroeconomics and capital markets. AIA’s financial strength and Purpose of “helping people live Healthier, Longer, Better Lives” has never been more relevant. I am immensely grateful to all of our employees, agents and partners for their care and dedication, remaining steadfast in supporting our customers, their families, and our communities, through this most challenging time.",
+  "translation": "AIA has a long and distinguished history in Asia, earning a strong reputation for managing its business effectively through periods of social upheaval and uncertainty, demonstrating that AIA is trustworthy, resilient and committed to doing the right thing for its stakeholders. Since early 2020, the COVID-19 pandemic has resulted in a constantly evolving and increasingly complex business environment, with unprecedented shifts in the political, macroeconomic and capital markets landscape. In this context, AIA's financial strength and our purpose of helping millions of people live Healthier, Longer, Better Lives have taken on even greater significance. I am deeply grateful to all of AIA's employees, agents and partners who, even in the face of the most severe challenges, have remained dedicated to caring for our communities, fulfilling their responsibilities and focusing wholeheartedly on serving our customers,",
+  "sequence_ratio": 0.1776,
+  "token_f1": 0.5703,
+  "request": {
+    "model": "claude-opus-4-6",
+    "max_tokens": 1800,
+    "system": "你现在是**国际顶级上市保险公司年报中英翻译专家**，拥有超过15年将中文正式财报翻译成标准英文年报的经验，翻译水平达到香港联交所上市规则和国际财务报告准则（IFRS）的专业要求。\n\n你的翻译必须同时满足以下所有核心标准：\n\n1. **术语高度一致、专业准确**\n- 所有金融、保险、精算、监管术语必须使用国际资本市场通用的标准英文表达（例如：新业务价值 Value of New Business、税后营运溢利 Operating Profit After Tax、内含价值 Embedded Value 等）。\n- 公司职衔、报告章节名称、财务指标一律使用正式官方英文写法。\n- 首次出现专有名词时，可在括号内给出标准缩写，后续统一使用缩写。\n\n2. **风格正式、严谨、专业**\n- 采用香港/新加坡/国际上市公司年报的典型英文风格：客观、中性、简洁、权威。\n- 优先使用正式句式，避免口语化、情感化或过多修饰。\n- 句子结构清晰、逻辑严密，符合母语金融专业人士的阅读习惯。\n\n3. **绝对忠实原文**\n- 严格忠实于中文原意，不增加、不省略、不改写、不润色、不解释。\n- 保留原文的正式语气、数据、百分比和段落逻辑。\n\n4. **格式与呈现**\n- 完整保留原文的段落结构。\n- 数字、货币单位、百分比保持原样。\n- 输出使用纯英文，年报常见标题必须使用标准英文表述。\n\n输出规则：\n- 只输出翻译后的英文文本。\n- 不要添加任何解释、前言、说明、引号或“以下是翻译”。\n- 直接开始输出翻译内容。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "现在，请以最高专业水准，直接翻译以下中文段落：\n\n友邦保險在亞洲歷史悠久，源遠流長，經歷各種社會動盪和不明朗時期仍能妥善管理業務，因而贏得卓著的\n聲譽，體現友邦保險誠可信賴、強韌穩健，並堅持為持分者做對的事。自2020年初以來，2019冠狀病毒病大流\n行導致營商環境不斷變化及日趨複雜，而政治、宏觀經濟及資本市場亦出現前所未見的轉移。在這樣的環境下，\n友邦保險的財務實力，以及「幫助大眾活出健康、長久、好生活」的目標，更具重大意義。本人衷心感謝友邦\n保險所有員工、代理和合作夥伴，即使面對最嚴峻的挑戰，他們仍關懷社區，克盡己職，專心致志地為客戶、"
+      }
+    ],
+    "temperature": 0
+  },
+  "response": {
+    "content": [
+      {
+        "text": "AIA has a long and distinguished history in Asia, earning a strong reputation for managing its business effectively through periods of social upheaval and uncertainty, demonstrating that AIA is trustworthy, resilient and committed to doing the right thing for its stakeholders. Since early 2020, the COVID-19 pandemic has resulted in a constantly evolving and increasingly complex business environment, with unprecedented shifts in the political, macroeconomic and capital markets landscape. In this context, AIA's financial strength and our purpose of helping millions of people live Healthier, Longer, Better Lives have taken on even greater significance. I am deeply grateful to all of AIA's employees, agents and partners who, even in the face of the most severe challenges, have remained dedicated to caring for our communities, fulfilling their responsibilities and focusing wholeheartedly on serving our customers,",
+        "type": "text"
+      }
+    ],
+    "conversationId": "89c71f43-7c3e-4159-a138-e68ba3a92f6d",
+    "conversation_id": "89c71f43-7c3e-4159-a138-e68ba3a92f6d",
+    "id": "89c71f43-7c3e-4159-a138-e68ba3a92f6d",
+    "model": "claude-opus-4-6",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 997,
+      "output_tokens": 167
+    }
+  }
+}

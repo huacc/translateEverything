@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 13,
+    "group_id": "p13_b15"
+  },
+  "request": {
+    "model": "claude-opus-4-6",
+    "max_tokens": 4096,
+    "system": "你是上市公司年报标签翻译助手。\n语言方向：Traditional Chinese -> English。\n只负责翻译当前短标签或小标题，不负责排版、回填、压缩。\n保持短、稳、正式，不要扩写成解释句。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "任务\n- 语言方向：Traditional Chinese -> English\n- 文档场景：上市公司企业年报\n- 公司：AIA GROUP LIMITED\n- 当前页面：13\n- 当前输入单元：短标签 / 小标题\n\n翻译要求\n- 保持短、稳、正式，不要自由改写。\n- 不要把短标签扩写成解释性句子。\n- 不负责排版和回填。\n\n页面上下文\n- 当前章节：Group Chief Executive and President's Report，类型：ceo_report（页码 12-16）\n- 术语使用模式：heading\n- 上一组摘要：董事會建議2020年末期股息增加7.5%至每股100.30港仙。這秉承友邦保險行之已久的審慎、可持續及漸進的派息\n- 下一组摘要：友邦保險具有多項顯著優勢，讓我們在競爭激烈的市場別樹一幟。我們在亞洲經營數十載，擁有區內無可比擬的\n平台，並於我們業務所在的大部分市場雄踞領導地位。我們始終如一地百分百專注於亞洲市場，有助我們在全球\n最具吸引力的壽險業地區全面把握增長...\n\n当前标签\n- unit_id：p13_b15\n- 原文：\n政策，讓本集團可把握未來的增長機遇，並且保持財務靈活性。\n\n输出格式\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p13_b15\",\n      \"translation\": \"<译文>\"\n    }\n  ]\n}"
+      }
+    ],
+    "thinking": {
+      "type": "adaptive"
+    },
+    "output_config": {
+      "effort": "max"
+    }
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p13_b15\",\n      \"translation\": \"policy, enabling the Group to capture future growth opportunities while maintaining financial flexibility.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "ce84cc30-ceaf-4f82-8f0d-eeab6d94e129",
+    "conversation_id": "ce84cc30-ceaf-4f82-8f0d-eeab6d94e129",
+    "id": "ce84cc30-ceaf-4f82-8f0d-eeab6d94e129",
+    "model": "claude-opus-4-6",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 622,
+      "output_tokens": 52
+    }
+  }
+}

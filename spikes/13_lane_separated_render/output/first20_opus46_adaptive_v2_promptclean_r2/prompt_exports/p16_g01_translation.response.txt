@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p16_g01",
+      "translation": "We understand that we still have a long way to go in this important area. We have also recently completed a review of our Environmental, Social and Governance strategy. I am confident that our five strategic focus areas: enhancing physical and mental well-being, green operations, sustainable investment, talent and culture, and effective governance, will help us achieve our ambition to lead the global industry in Environmental, Social and Governance."
+    }
+  ]
+}
+```

@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p15_g07",
+      "translation": "AIA participates in the Task Force on Climate-related Financial Disclosures, a global organization dedicated to establishing a voluntary and consistent disclosure framework on the impacts of climate change. We continue to reaffirm our commitment to its recommendations, and in 2020 engaged with over 1,400 companies in our investment portfolio and more than 30 external investment managers to influence how they manage climate change risks and address climate-related issues."
+    }
+  ]
+}
+```

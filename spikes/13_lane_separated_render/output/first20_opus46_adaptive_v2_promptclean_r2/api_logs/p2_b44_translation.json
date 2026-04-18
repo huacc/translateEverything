@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 2,
+    "group_id": "p2_b44"
+  },
+  "request": {
+    "model": "claude-opus-4-6",
+    "max_tokens": 4096,
+    "system": "你是上市公司年报正文翻译助手。\n语言方向：Traditional Chinese -> English。\n只负责翻译当前正文语义组，不负责排版、回填、压缩、分块。\n允许在当前 group 内恢复断句和语义连接，但禁止跨 group 补写、删写或改写事实。\n必须遵守术语锁定和事实锁定。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "任务\n- 语言方向：Traditional Chinese -> English\n- 文档场景：上市公司企业年报\n- 公司：AIA GROUP LIMITED\n- 行业：Life Insurance\n- 报告类型：annual_report\n- 当前页面：2\n- 当前输入单元：正文语义组（group）\n\n翻译要求\n- 只翻译当前正文组，不要承担排版、压缩、分块、回填职责。\n- 可以在当前 group 内恢复断句和段落语义，但不得跨 group 补写或删写。\n- 保持上市公司年报文风：正式、稳定、可出版。\n- 数字、百分比、货币、年份、专有名词必须准确。\n- 如术语锁定与原有表达冲突，优先遵守术语锁定和事实锁定。\n\n页面上下文\n- 当前章节：Contents，类型：navigation\n- 术语使用模式：heading\n- 上一组摘要：125 獨立核數師報告\n- 下一组摘要：132 合併收入表\n\n文体与偏好\n- Use US$ for U.S. dollar amounts.\n- Keep listed-company annual report disclosure tone formal and publishable.\n- Do not change numbers, percentages, years, named entities or financial metric values.\n- Keep headings short, stable and standard.\n- Prefer established annual report section names over free paraphrase.\n\n事实锁定\n- percentage_49: 49% -> 49%\n\n当前正文组\n- group_id：p2_b44\n- group_bbox：[51.02, 442.06, 130.81, 452.57]\n- 原文：\n合資公司的49%權益。\n\n输出格式\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p2_b44\",\n      \"translation\": \"<译文>\"\n    }\n  ]\n}"
+      }
+    ],
+    "thinking": {
+      "type": "adaptive"
+    },
+    "output_config": {
+      "effort": "max"
+    }
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p2_b44\",\n      \"translation\": \"49% interest in joint ventures.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "cd98846d-fe77-43f2-9881-cb6fb19ee241",
+    "conversation_id": "cd98846d-fe77-43f2-9881-cb6fb19ee241",
+    "id": "cd98846d-fe77-43f2-9881-cb6fb19ee241",
+    "model": "claude-opus-4-6",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 655,
+      "output_tokens": 45
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 14,
+    "group_id": "p14_g08"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是上市保险公司年报翻译器。\n语言方向：Traditional Chinese -> English。\n只处理当前 body semantic group。\n只可在当前组内恢复跨块断句，不得跨组补写、跨组删写或改写事实。\n必须严格满足 mapping_hits 与 fact_locks。\n版面回填、字体压缩、分块分配不是你的职责，不要为了适配版面而删词改义。\n保持正式、稳定、可出版的企业年报文风。\n只输出 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市保险公司企业年报。\n先满足 fact_locks，再保证术语稳定、语义完整和年报文风。\n{\n  \"task\": {\n    \"scenario\": \"listed_company_annual_report\",\n    \"industry\": \"Life Insurance\",\n    \"report_type\": \"annual_report\",\n    \"company_name_target\": \"AIA GROUP LIMITED\",\n    \"direction\": \"Traditional Chinese -> English\"\n  },\n  \"page_context\": {\n    \"page_no\": 14,\n    \"page_sections\": [\n      {\n        \"source_section\": \"集團首席執行官兼總裁報告\",\n        \"target_section\": \"Group Chief Executive and President's Report\",\n        \"content_type\": \"ceo_report\",\n        \"page_range\": [\n          12,\n          16\n        ]\n      }\n    ],\n    \"term_usage_mode\": \"table\",\n    \"neighbor_context\": {\n      \"previous_group_source_excerpt\": \"代理渠道方面，我們轉移使用線上招聘和入職培訓的趨勢，支持新入職代理及代理主管人數錄得雙位數字增長。\",\n      \"next_group_source_excerpt\": \"個月錄得非常強勁的新業務價值增長。\"\n    }\n  },\n  \"mapping_hits\": [\n    {\n      \"source\": \"新業務價值\",\n      \"target\": \"VONB\",\n      \"hit_type\": \"context_term\"\n    }\n  ],\n  \"fact_locks\": [\n    {\n      \"label\": \"percentage_28\",\n      \"fact_type\": \"percentage\",\n      \"source_value\": \"28%\",\n      \"expected_forms\": [\n        \"28%\"\n      ]\n    }\n  ],\n  \"current_group\": {\n    \"group_id\": \"p14_g08\",\n    \"lane\": \"body\",\n    \"group_text\": \"雖然疫情大流行期間面對面會議受到限制，導致新業務價值下降28%，但隨著限制放寬，加上各業務採用新的數\\n碼工具，新業務價值在下半年已強勁回升。正面銷售動力延續至2021年，與2020年同期比較，代理業務在首兩\",\n    \"source_block_ids\": [\n      \"p14_b26\",\n      \"p14_b27\"\n    ],\n    \"source_block_count\": 2\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p14_g08\",\n        \"translation\": \"<译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p14_g08\",\n      \"translation\": \"Although face-to-face meetings were restricted during the pandemic, resulting in a 28% decline in VONB, the VONB rebounded strongly in the second half as restrictions eased and businesses adopted new digital tools. Positive sales momentum continued into 2021, and compared with the same period in 2020, agency business in the first two\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "085939de-952f-4d9b-85eb-00d0ac354bf6",
+    "conversation_id": "085939de-952f-4d9b-85eb-00d0ac354bf6",
+    "id": "085939de-952f-4d9b-85eb-00d0ac354bf6",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 869,
+      "output_tokens": 105
+    }
+  }
+}

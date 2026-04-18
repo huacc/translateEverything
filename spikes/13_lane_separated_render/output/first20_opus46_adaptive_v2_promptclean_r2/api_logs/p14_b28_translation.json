@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 14,
+    "group_id": "p14_b28"
+  },
+  "request": {
+    "model": "claude-opus-4-6",
+    "max_tokens": 4096,
+    "system": "你是上市公司年报标签翻译助手。\n语言方向：Traditional Chinese -> English。\n只负责翻译当前短标签或小标题，不负责排版、回填、压缩。\n保持短、稳、正式，不要扩写成解释句。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "任务\n- 语言方向：Traditional Chinese -> English\n- 文档场景：上市公司企业年报\n- 公司：AIA GROUP LIMITED\n- 当前页面：14\n- 当前输入单元：短标签 / 小标题\n\n翻译要求\n- 保持短、稳、正式，不要自由改写。\n- 不要把短标签扩写成解释性句子。\n- 不负责排版和回填。\n\n页面上下文\n- 当前章节：Group Chief Executive and President's Report，类型：ceo_report（页码 12-16）\n- 术语使用模式：heading\n- 上一组摘要：雖然疫情大流行期間面對面會議受到限制，導致新業務價值下降28%，但隨著限制放寬，加上各業務採用新的數\n碼工具，新業務價值在下半年已強勁回升。正面銷售動力延續至2021年，與2020年同期比較，代理業務在首兩\n- 下一组摘要：中國內地訪港旅客的旅遊限制影響我們的零售獨立財務顧問業務，導致夥伴業務於2020年的新業務價值下降\n41%。我們從銀行保險帶來較為堅韌的業績，並為此渠道的新業務價值帶來大部分的貢獻。我們與印尼的Bank\nCentral Asia (B...\n\n术语锁定\n- 新業務價值 => New Business Value [context_term]\n\n当前标签\n- unit_id：p14_b28\n- 原文：\n個月錄得非常強勁的新業務價值增長。\n\n输出格式\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p14_b28\",\n      \"translation\": \"<译文>\"\n    }\n  ]\n}"
+      }
+    ],
+    "thinking": {
+      "type": "adaptive"
+    },
+    "output_config": {
+      "effort": "max"
+    }
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p14_b28\",\n      \"translation\": \"recorded very strong New Business Value growth in the first two months.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "8c63cef2-6bde-4665-bba4-c29aac0f87ea",
+    "conversation_id": "8c63cef2-6bde-4665-bba4-c29aac0f87ea",
+    "id": "8c63cef2-6bde-4665-bba4-c29aac0f87ea",
+    "model": "claude-opus-4-6",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 676,
+      "output_tokens": 50
+    }
+  }
+}

@@ -1,0 +1,55 @@
+文档场景：上市保险公司企业年报。
+先满足 fact_locks，再保证术语稳定、语义完整和年报文风。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 15,
+    "page_sections": [
+      {
+        "source_section": "集團首席執行官兼總裁報告",
+        "target_section": "Group Chief Executive and President's Report",
+        "content_type": "ceo_report",
+        "page_range": [
+          12,
+          16
+        ]
+      }
+    ],
+    "term_usage_mode": "overview_narrative",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "以人為本",
+      "next_group_source_excerpt": "學習文化，為員工提供平台，在友邦保險發展具意義和有價值的事業。因應社交距離措施和外遊限制，我們將學\n習內容轉至網上的「AIA Learning Hub」。位於曼谷的世界級設施AIA Leadership Centre (ALC)重新設..."
+    }
+  },
+  "mapping_hits": [
+    {
+      "source": "友邦保險",
+      "target": "AIA",
+      "hit_type": "glossary_term"
+    }
+  ],
+  "fact_locks": [],
+  "current_group": {
+    "group_id": "p15_b2",
+    "lane": "body",
+    "group_text": "友邦保險擁有23,000名員工，是本集團的重要競爭優勢，亦是我們持續獲取佳績的關鍵。我們推廣共融和協作的",
+    "source_block_ids": [
+      "p15_b2"
+    ],
+    "source_block_count": 1
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p15_b2",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

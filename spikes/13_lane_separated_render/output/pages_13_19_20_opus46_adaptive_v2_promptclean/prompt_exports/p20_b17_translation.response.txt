@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p20_b17",
+      "translation": "Value of new business after tax excluding unallocated Group Office expenses\n(161)\nNot meaningful\nNot meaningful\n(154)\nNot meaningful\nNot meaningful\nNot meaningful\nNot meaningful"
+    }
+  ]
+}
+```

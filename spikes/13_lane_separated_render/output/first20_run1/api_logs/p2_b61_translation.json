@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 2,
+    "group_id": "p2_b61"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是上市保险公司年报翻译器。\n语言方向：Traditional Chinese -> English。\n只处理当前 body semantic group。\n只可在当前组内恢复跨块断句，不得跨组补写、跨组删写或改写事实。\n必须严格满足 mapping_hits 与 fact_locks。\n版面回填、字体压缩、分块分配不是你的职责，不要为了适配版面而删词改义。\n保持正式、稳定、可出版的企业年报文风。\n只输出 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市保险公司企业年报。\n先满足 fact_locks，再保证术语稳定、语义完整和年报文风。\n{\n  \"task\": {\n    \"scenario\": \"listed_company_annual_report\",\n    \"industry\": \"Life Insurance\",\n    \"report_type\": \"annual_report\",\n    \"company_name_target\": \"AIA GROUP LIMITED\",\n    \"direction\": \"Traditional Chinese -> English\"\n  },\n  \"page_context\": {\n    \"page_no\": 2,\n    \"page_sections\": [\n      {\n        \"source_section\": \"目錄\",\n        \"target_section\": \"Contents\",\n        \"content_type\": \"navigation\",\n        \"page_range\": [\n          2\n        ]\n      }\n    ],\n    \"term_usage_mode\": \"heading\",\n    \"neighbor_context\": {\n      \"previous_group_source_excerpt\": \"領導地位。截至2020年12月31日，集團\",\n      \"next_group_source_excerpt\": \"265 內涵價值補充資料的\\n獨立核數師報告\"\n    }\n  },\n  \"mapping_hits\": [],\n  \"fact_locks\": [\n    {\n      \"label\": \"usd_amount_260\",\n      \"fact_type\": \"usd_scaled_amount\",\n      \"source_value\": \"260億美元\",\n      \"expected_forms\": [\n        \"US$26 billion\",\n        \"US$26000 million\",\n        \"US$26,000 million\"\n      ]\n    }\n  ],\n  \"current_group\": {\n    \"group_id\": \"p2_b61\",\n    \"lane\": \"body\",\n    \"group_text\": \"總資產值為3,260億美元。\",\n    \"source_block_ids\": [\n      \"p2_b61\"\n    ],\n    \"source_block_count\": 1\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p2_b61\",\n        \"translation\": \"<译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p2_b61\",\n      \"translation\": \"Total assets of US$32.6 billion.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "8f98fc17-eb2c-4d60-a859-011bcf9bacdc",
+    "conversation_id": "8f98fc17-eb2c-4d60-a859-011bcf9bacdc",
+    "id": "8f98fc17-eb2c-4d60-a859-011bcf9bacdc",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 672,
+      "output_tokens": 47
+    }
+  }
+}

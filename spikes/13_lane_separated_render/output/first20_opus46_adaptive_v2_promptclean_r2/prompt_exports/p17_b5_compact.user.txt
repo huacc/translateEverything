@@ -1,0 +1,19 @@
+任务
+- unit_id：p17_b5
+- 输入单元：短标签 / 小标题
+
+原文
+062 監管及國際發展
+
+当前译文
+062 Regulation and International Developments
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p17_b5",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

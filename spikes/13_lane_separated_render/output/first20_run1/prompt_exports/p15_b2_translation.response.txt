@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p15_b2",
+      "translation": "AIA's 23,000 employees represent a significant competitive advantage for the Group and are key to our continued success. We promote an inclusive and collaborative"
+    }
+  ]
+}
+```

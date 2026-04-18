@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 19,
+    "group_id": "p19_g02"
+  },
+  "request": {
+    "model": "claude-opus-4-6",
+    "max_tokens": 4096,
+    "system": "你是上市公司年报正文翻译助手。\n语言方向：Traditional Chinese -> English。\n只负责翻译当前正文语义组，不负责排版、回填、压缩、分块。\n允许在当前 group 内恢复断句和语义连接，但禁止跨 group 补写、删写或改写事实。\n必须遵守术语锁定和事实锁定。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "任务\n- 语言方向：Traditional Chinese -> English\n- 文档场景：上市公司企业年报\n- 公司：AIA GROUP LIMITED\n- 行业：Life Insurance\n- 报告类型：annual_report\n- 当前页面：19\n- 当前输入单元：正文语义组（group）\n\n翻译要求\n- 只翻译当前正文组，不要承担排版、压缩、分块、回填职责。\n- 可以在当前 group 内恢复断句和段落语义，但不得跨 group 补写或删写。\n- 保持上市公司年报文风：正式、稳定、可出版。\n- 数字、百分比、货币、年份、专有名词必须准确。\n- 如术语锁定与原有表达冲突，优先遵守术语锁定和事实锁定。\n\n页面上下文\n- 当前章节：Group Chief Financial Officer's Review，类型：cfo_review（页码 18-30）\n- 术语使用模式：table\n- 上一组摘要：大流行病對我們2020年財務表現的主要影響是對新業務銷售的影響，原因在於我們眾多市場的遏制傳播措施限制\n了面對面的銷售活動，尤其是在2020年上半年。儘管2020年的新業務價值27.65億美元較2019年減少了33%，我\n們迅速採用了...\n- 下一组摘要：截至2020年12月31日的內涵價值權益創下新高為671.85億美元，於派付股息19.97億美元之前增加52.77億美元，\n\n文体与偏好\n- Use US$ for U.S. dollar amounts.\n- Keep listed-company annual report disclosure tone formal and publishable.\n- Do not change numbers, percentages, years, named entities or financial metric values.\n- Use established financial abbreviations for table labels when provided.\n- Keep row and column semantics unchanged.\n\n术语锁定\n- 中國內地訪港旅客 => Mainland Chinese visitors [context_term]\n- 新業務價值 => VONB [context_term]\n- 中國內地 => Mainland China [glossary_term]\n\n事实锁定\n- percentage_23: 23% -> 23%\n- percentage_15: 15% -> 15%\n\n当前正文组\n- group_id：p19_g02\n- group_bbox：[68.03, 141.17, 521.57, 201.13]\n- 原文：\n團的新業務價值帶來最大貢獻，也是我們第一個顯示銷售勢頭有所恢復的報告分部，原因在於該地區自2020年3\n月逐步放寬嚴格的封鎖。撇除維持低位的中國內地訪港旅客銷售額，本集團其他分部的新業務價值在下半年強勁\n復甦，與上半年相比增長了23%。本集團的新業務發展勢頭在2021年持續強勁，首兩個月新業務價值較2020年同\n期高出15%。\n\n输出格式\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p19_g02\",\n      \"translation\": \"<译文>\"\n    }\n  ]\n}"
+      }
+    ],
+    "thinking": {
+      "type": "adaptive"
+    },
+    "output_config": {
+      "effort": "max"
+    }
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p19_g02\",\n      \"translation\": \"contributed the most to the Group's VONB and was our first reporting segment to show signs of recovering sales momentum as the region progressively eased strict lockdowns from March 2020. Excluding sales to Mainland Chinese visitors which remained low, VONB in the rest of the Group's segments rebounded strongly in the second half, growing 23% compared to the first half. The Group's new business momentum continued to be strong in 2021, with VONB in the first two months 15% higher than the same period in 2020.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "4fd1c243-1849-407c-ab49-3bc3382b2e9e",
+    "conversation_id": "4fd1c243-1849-407c-ab49-3bc3382b2e9e",
+    "id": "4fd1c243-1849-407c-ab49-3bc3382b2e9e",
+    "model": "claude-opus-4-6",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1129,
+      "output_tokens": 145
+    }
+  }
+}

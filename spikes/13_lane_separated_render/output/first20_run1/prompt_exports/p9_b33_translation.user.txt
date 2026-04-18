@@ -1,0 +1,53 @@
+文档场景：上市保险公司企业年报。
+当前输入属于表格通道。不要把表格行改写成正文句子。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 9,
+    "page_sections": [
+      {
+        "source_section": "概覽",
+        "target_section": "Overview",
+        "content_type": "executive_summary",
+        "page_range": [
+          8,
+          16
+        ]
+      }
+    ],
+    "term_usage_mode": "table",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "(8) 自2019年起，其他市場的年化新保費及新業務價值包括我們於\nTata AIA Life Insurance Company Limited (Tata AIA Life)所持\n49%股權的應佔業績。2018年或以前所呈報的年化...",
+      "next_group_source_excerpt": "(3) 年化新保費是一項衡量新業務水平的指標，以再保險分出前年化\n首年保費100%及整付保費10%之總和計算。"
+    }
+  },
+  "mapping_hits": [
+    {
+      "source": "新業務價值",
+      "target": "VONB",
+      "hit_type": "context_term"
+    }
+  ],
+  "fact_locks": [],
+  "current_unit": {
+    "unit_id": "p9_b33",
+    "lane": "table",
+    "table_role": "header",
+    "source_text": "(2) 新業務價值是期間內所售新業務在未來產生的預計稅後法定溢利\n按銷售當時計算的現值扣除用作支持新業務而持有超過法定準備\n金所需資金的成本。",
+    "source_line_count": 3
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p9_b33",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

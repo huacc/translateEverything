@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p2_b30",
+      "translation": "Special Administrative Region, Thailand, Singapore, Malaysia,"
+    }
+  ]
+}
+```

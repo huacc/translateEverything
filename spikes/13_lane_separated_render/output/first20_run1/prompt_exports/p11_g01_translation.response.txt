@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p11_g01",
+      "translation": "In the fourth quarter of 2020, we celebrated AIA's tenth anniversary of listing on the Hong Kong Stock Exchange. Looking back, AIA's listing set multiple records at the time and remains the largest initial public offering in the global insurance industry to date. I feel privileged and gratified to work alongside the Board members. AIA's business has continued to grow and expand during this period, becoming the world's largest life insurance company by market capitalisation."
+    }
+  ]
+}
+```

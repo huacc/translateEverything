@@ -1,0 +1,31 @@
+{
+  "model": "claude-3-5-sonnet-20241022",
+  "max_output_tokens": 1800,
+  "compact_threshold": 0.84,
+  "render_dpi": 110,
+  "pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "stop_after_stage": 6
+}

@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "compact",
+    "page_no": 18,
+    "group_id": "p18_g01"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是年报英文压缩器，不是重译器。\n语言方向：Traditional Chinese -> English。\n你的任务只是对已有译文做最小必要压缩，以便回填原版面。\n禁止改变数字、单位、术语、专名、比较关系、主体和结论。\n标题不能改成正文，表头不能改成句子，不能输出口语化表达。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市公司企业年报\n{\n  \"document_background\": {\n    \"page_sections\": [\n      {\n        \"source_section\": \"集團首席財務總監回顧\",\n        \"target_section\": \"Group Chief Financial Officer's Review\",\n        \"content_type\": \"cfo_review\",\n        \"page_range\": [\n          18,\n          30\n        ]\n      }\n    ],\n    \"roles\": [],\n    \"terms\": [],\n    \"style_rules\": [\n      \"Use US$ for U.S. dollar amounts.\",\n      \"Keep listed-company annual report disclosure tone formal and publishable.\",\n      \"Do not change numbers, percentages, years, named entities or financial metric values.\",\n      \"Use established financial abbreviations for table labels when provided.\",\n      \"Keep row and column semantics unchanged.\",\n      \"Use n/m for 無意義.\"\n    ]\n  },\n  \"current_unit\": {\n    \"page_no\": 18,\n    \"unit_id\": \"p18_g01\",\n    \"unit_mode\": \"semantic_group\",\n    \"slot_count\": 4,\n    \"source_text\": \"在2020年，友邦保險在全球大流行病帶來的空前商業和宏觀經濟狀況下錄得強勁的財務表現。儘管外出限制導致\\n2020年新業務價值下降，但隨著業務的調整和限制的有所放寬，我們看到了銷售勢頭的恢復。這種勢頭一直持續\\n到2021年，首兩個月新業務價值與2020年同期相比增長15%。多年來，我們審慎的財務管理和貫徹對高質素業務\\n的策略性重點，體現了稅後營運溢利和產生的基本自由盈餘的持續增長、穩健而強韌的資本狀況以及每股股息的\",\n    \"current_translation\": \"In 2020, AIA recorded strong financial performance amid the unprecedented business and macroeconomic conditions brought about by the global pandemic. Although external mobility restrictions led to a decline in VONB in 2020, as business adjusted and restrictions eased, we saw a recovery in sales momentum. This momentum continued into 2021, with VONB in the first two months growing 15% compared to the same period in 2020. Over the years, our prudent financial management and consistent strategic focus on high-quality business have been reflected in continued growth in OPAT and UFSG, a robust and resilient capital position, and dividend per share\"\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p18_g01\",\n        \"translation\": \"<更紧凑译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p18_g01\",\n      \"translation\": \"In 2020, AIA recorded strong financial performance amid unprecedented pandemic-driven business and macroeconomic conditions. Although mobility restrictions reduced VONB in 2020, recovery in sales momentum followed as business adjusted and restrictions eased, continuing into 2021 with VONB growing 15% in the first two months versus 2020. Our prudent financial management and consistent strategic focus on high-quality business have delivered continued OPAT and UFSG growth, robust capital position, and increased dividend per share\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "64b4dabd-fd07-4bc4-b4ed-43baed9308c0",
+    "conversation_id": "64b4dabd-fd07-4bc4-b4ed-43baed9308c0",
+    "id": "64b4dabd-fd07-4bc4-b4ed-43baed9308c0",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 860,
+      "output_tokens": 131
+    }
+  }
+}

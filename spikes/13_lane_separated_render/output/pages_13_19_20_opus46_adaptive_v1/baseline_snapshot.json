@@ -1,0 +1,58 @@
+{
+  "focus_pages": [
+    13,
+    19,
+    20
+  ],
+  "input_pdf": {
+    "path": "D:\\项目\\开源项目\\ontology-scenario\\样本\\中文\\AIA_2021_Annual_Report_zh.pdf",
+    "sha256": "c0cf2ca29e6d2f929f2418ce91e08d4fa43d3a1fe8f5fd0993dfe6f8edf02705",
+    "size": 4254899,
+    "mtime": 1775487312.0
+  },
+  "reference_pdf": {
+    "path": "D:\\项目\\开源项目\\ontology-scenario\\样本\\英文\\AIA_2021_Annual_Report_en.pdf",
+    "sha256": "f7281650eac5585f9eb8f7be983393278af90b99bad60d626240fd72a9cc9ea4",
+    "size": 3320773,
+    "mtime": 1775487310.0
+  },
+  "blocks_jsonl": {
+    "path": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\01_text_block_extraction\\output\\AIA_2021_Annual_Report_zh\\blocks.jsonl",
+    "sha256": "8b4c8aaf506c71546038f799598023bf8665fd358e12667c98f3cef5fc723763",
+    "size": 4031067,
+    "mtime": 1776082957.62352
+  },
+  "v11_baseline_dir": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\07_translation_current_bundle\\outputs\\first20_current",
+  "v11_translations": {
+    "path": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\07_translation_current_bundle\\outputs\\first20_current\\translations.json",
+    "sha256": "86b1b1ceaefddf4266cbdecbd9ffc236b2bf4f0b17d15041978c772c0440232d",
+    "size": 353166,
+    "mtime": 1776143984.2754185
+  },
+  "v11_report": {
+    "path": "D:\\项目\\开源项目\\ontology-scenario\\spikes\\07_translation_current_bundle\\outputs\\first20_current\\report.json",
+    "sha256": "cc8546faaa3e096f3e2ac0f983ae07a0af7fcc642162e5d6cc8d6847933dba15",
+    "size": 32532,
+    "mtime": 1776143984.2774594
+  },
+  "problem_feedback": [
+    {
+      "path": "D:\\项目\\开源项目\\ontology-scenario\\docs\\问题反馈\\问题1.txt",
+      "sha256": "6f92c4447b7a640a88b29e1aa9de67853a3191605356923201e1d111ccccfdcd",
+      "size": 4207,
+      "mtime": 1776175100.5139227
+    },
+    {
+      "path": "D:\\项目\\开源项目\\ontology-scenario\\docs\\问题反馈\\问题2.txt",
+      "sha256": "3cb6da1a7586ea6887e29eab2a7d25c27e70afa7a88a19cd5ff30858b35feaf4",
+      "size": 4733,
+      "mtime": 1776175132.6695573
+    },
+    {
+      "path": "D:\\项目\\开源项目\\ontology-scenario\\docs\\问题反馈\\问题3.md",
+      "sha256": "881ca2e932ac40970a113917624926367771163aea24caea83b025cfb742850f",
+      "size": 11237,
+      "mtime": 1776178258.6294365
+    }
+  ]
+}

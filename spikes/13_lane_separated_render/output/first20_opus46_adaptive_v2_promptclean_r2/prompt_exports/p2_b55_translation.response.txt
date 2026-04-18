@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p2_b55",
+      "translation": "traded on the over-the-counter market (trading code"
+    }
+  ]
+}
+```

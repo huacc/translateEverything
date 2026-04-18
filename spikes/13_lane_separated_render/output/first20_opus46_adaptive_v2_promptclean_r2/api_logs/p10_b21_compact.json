@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "stage": "compact",
+    "page_no": 10,
+    "group_id": "p10_b21"
+  },
+  "request": {
+    "model": "claude-opus-4-6",
+    "max_tokens": 4096,
+    "system": "你是上市公司年报正文译文压缩助手。\n语言方向：Traditional Chinese -> English。\n只做最小必要压缩，不改变事实、数字、术语和句间逻辑。\n不要承担排版、分块、回填职责。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "任务\n- unit_id：p10_b21\n- 输入单元：正文语义组（group）\n\n压缩要求\n- 只删除冗余表达，不改变事实和数字。\n- 保持年报文风正式稳定。\n- 不要跨组补写，也不要为了版面改义。\n\n原文\n與去年同期比較，2021年首兩個月的新業務價值增長15%。\n\n当前译文\nVONB for the first two months of 2021 increased by 15% compared with the same period last year.\n\n输出格式\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p10_b21\",\n      \"translation\": \"<更紧凑译文>\"\n    }\n  ]\n}"
+      }
+    ],
+    "thinking": {
+      "type": "adaptive"
+    },
+    "output_config": {
+      "effort": "max"
+    }
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p10_b21\",\n      \"translation\": \"VONB for the first two months of 2021 increased 15% year-on-year.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "5c93ea94-3223-475f-ba2b-69f6331df795",
+    "conversation_id": "5c93ea94-3223-475f-ba2b-69f6331df795",
+    "id": "5c93ea94-3223-475f-ba2b-69f6331df795",
+    "model": "claude-opus-4-6",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 313,
+      "output_tokens": 56
+    }
+  }
+}

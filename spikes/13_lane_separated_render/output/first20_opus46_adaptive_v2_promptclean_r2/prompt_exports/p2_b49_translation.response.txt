@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p2_b49",
+      "translation": "Listed on the Main Board of The Stock Exchange of Hong Kong Limited (Stock Code:"
+    }
+  ]
+}
+```

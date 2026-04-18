@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p12_b4",
+    "lane": "caption_label",
+    "source_text": "卓越的團隊努力不懈的成果。我們的員工能迅速",
+    "current_translation": "The result of our excellent team's relentless efforts. Our employees are able to respond quickly"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p12_b4",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

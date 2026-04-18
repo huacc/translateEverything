@@ -1,0 +1,45 @@
+{
+  "sample_id": "p11_g04",
+  "page_no": 11,
+  "section": "Chairman's Statement",
+  "variant": "prompt_b",
+  "source_text": "環境、社會及管治議題對全球的影響日形重要。我們當竭盡所能，協助推動社會邁向更美好的未來，而我們的環\n境、社會及管治措施在2020年再度備受肯定。根據評級機構Sustainalytics的評選，友邦保險在超過270家保險公\n司中排名第二，足證我們卓越的企業管治實力和質素。此外，我們繼續榮獲Institutional Shareholder Services\nInc.(ISS)頒發「Prime」環境、社會及管治企業評級(ESG Corporate Rating)，認同我們為業界可持續發展表現\n最佳的公司之一。我們相信我們在這方面仍需採取更多措施，為社區實現更美好的成果。這仍是我個人與董事會",
+  "human_reference": "The global impacts of Environmental, Social and Governance (ESG) issues continue to be of great significance. We remain committed to playing our part in the transition to a brighter future and our ESG efforts have been recognised again in 2020. The rating agency, Sustainalytics, ranked AIA second in our industry out of more than 270 peers, noting the strength and quality of our corporate governance. Additionally, our ESG Corporate Rating score from Institutional Shareholder Services Inc. (ISS) remains 'Prime', placing us among the best in our industry for our sustainability performance. AIA recognises that there is much more we can do in this area to achieve better outcomes for our communities and it remains a personal priority that I share with my Board colleagues, our senior management team and all our employees.",
+  "translation": "Environmental, social and governance issues are becoming increasingly important globally. We will do our utmost to help drive society towards a better future, and our environmental, social and governance initiatives were once again recognized in 2020. According to Sustainalytics, AIA ranked second among more than 270 insurance companies, demonstrating our excellent corporate governance strength and quality. In addition, we continued to receive the \"Prime\" ESG Corporate Rating from Institutional Shareholder Services Inc. (ISS), recognizing us as one of the companies with the best sustainability performance in the industry. We believe there is still more we need to do in this area to achieve better outcomes for our communities. This remains a priority for both myself and the Board.",
+  "sequence_ratio": 0.203,
+  "token_f1": 0.5498,
+  "prompt_log_base_name": "p11_g04_prompt_b",
+  "request": {
+    "model": "claude-opus-4-6",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "# Role: 全球顶级金融与保险行业专业翻译官\n\n## 专家背景\n你是一位拥有20年行业经验的资深金融翻译专家，深刻理解国际财务报告准则（IFRS）、保险业务、精算科学以及国际资本市场年报写作规范。\n\n## 翻译原则\n- 术语优先：识别并使用行业公认术语，如 Value of New Business、Embedded Value、Operating Profit After Tax。\n- 句式重构：在不增删事实的前提下，将中文长句重组为符合英文年报习惯的正式句式。\n- 语气庄重：保持上市企业年报的严谨、客观、专业感。\n- 逻辑对齐：如果原文存在因果、转折、并列关系，要用清晰、正式的英文表达呈现。\n\n## 执行要求\n- 忠实原文，不增加、不删减、不解释。\n- 数字、百分比、货币单位、年份必须准确。\n- 只输出最终英文译文，不输出术语清单、分析过程或额外说明。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "现在，请直接翻译以下中文年报段落。\n\n要求：\n1. 只输出英文译文。\n2. 不要解释，不要补充背景。\n3. 保持原段落顺序。\n\n中文原文：\n\n環境、社會及管治議題對全球的影響日形重要。我們當竭盡所能，協助推動社會邁向更美好的未來，而我們的環\n境、社會及管治措施在2020年再度備受肯定。根據評級機構Sustainalytics的評選，友邦保險在超過270家保險公\n司中排名第二，足證我們卓越的企業管治實力和質素。此外，我們繼續榮獲Institutional Shareholder Services\nInc.(ISS)頒發「Prime」環境、社會及管治企業評級(ESG Corporate Rating)，認同我們為業界可持續發展表現\n最佳的公司之一。我們相信我們在這方面仍需採取更多措施，為社區實現更美好的成果。這仍是我個人與董事會\n"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "Environmental, social and governance issues are becoming increasingly important globally. We will do our utmost to help drive society towards a better future, and our environmental, social and governance initiatives were once again recognized in 2020. According to Sustainalytics, AIA ranked second among more than 270 insurance companies, demonstrating our excellent corporate governance strength and quality. In addition, we continued to receive the \"Prime\" ESG Corporate Rating from Institutional Shareholder Services Inc. (ISS), recognizing us as one of the companies with the best sustainability performance in the industry. We believe there is still more we need to do in this area to achieve better outcomes for our communities. This remains a priority for both myself and the Board.",
+        "type": "text"
+      }
+    ],
+    "conversationId": "d2480dca-06ac-469c-be61-6ca115fff3d3",
+    "conversation_id": "d2480dca-06ac-469c-be61-6ca115fff3d3",
+    "id": "d2480dca-06ac-469c-be61-6ca115fff3d3",
+    "model": "claude-opus-4-6",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 743,
+      "output_tokens": 143
+    }
+  }
+}

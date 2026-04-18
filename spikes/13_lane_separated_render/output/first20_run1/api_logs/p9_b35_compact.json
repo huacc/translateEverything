@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "compact",
+    "page_no": 9,
+    "group_id": "p9_b35"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是年报英文压缩器，不是重译器。\n语言方向：Traditional Chinese -> English。\n你的任务只是对已有译文做最小必要压缩，以便回填原版面。\n禁止改变数字、单位、术语、专名、比较关系、主体和结论。\n标题不能改成正文，表头不能改成句子，不能输出口语化表达。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市公司企业年报\n{\n  \"document_background\": {\n    \"page_sections\": [\n      {\n        \"source_section\": \"概覽\",\n        \"target_section\": \"Overview\",\n        \"content_type\": \"executive_summary\",\n        \"page_range\": [\n          8,\n          16\n        ]\n      }\n    ],\n    \"roles\": [],\n    \"terms\": [],\n    \"style_rules\": [\n      \"Use US$ for U.S. dollar amounts.\",\n      \"Keep listed-company annual report disclosure tone formal and publishable.\",\n      \"Do not change numbers, percentages, years, named entities or financial metric values.\",\n      \"Keep headings short, stable and standard.\",\n      \"Prefer established annual report section names over free paraphrase.\"\n    ]\n  },\n  \"current_unit\": {\n    \"page_no\": 9,\n    \"unit_id\": \"p9_b35\",\n    \"unit_mode\": \"single_block\",\n    \"slot_count\": 1,\n    \"source_text\": \"(4) 所列示的稅後營運溢利已扣除非控股權益。\",\n    \"current_translation\": \"(4) The Operating Profit After Tax presented has been adjusted to exclude non-controlling interests.\"\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p9_b35\",\n        \"translation\": \"<更紧凑译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p9_b35\",\n      \"translation\": \"(4) Operating Profit After Tax presented excludes non-controlling interests.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "db14ceec-5b9e-4d04-acec-09eb1291e391",
+    "conversation_id": "db14ceec-5b9e-4d04-acec-09eb1291e391",
+    "id": "db14ceec-5b9e-4d04-acec-09eb1291e391",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 479,
+      "output_tokens": 52
+    }
+  }
+}

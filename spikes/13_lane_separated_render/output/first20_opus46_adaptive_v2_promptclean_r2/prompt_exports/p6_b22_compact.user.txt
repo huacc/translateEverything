@@ -1,0 +1,19 @@
+任务
+- unit_id：p6_b22
+- 输入单元：短标签 / 小标题
+
+原文
+提升人壽保險的覆蓋和影響。我們亦很
+
+当前译文
+Expanding the reach and impact of life insurance. We are also
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p6_b22",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p12_b7",
+      "translation": "environment, while accelerating the implementation of our strategic plans."
+    }
+  ]
+}
+```

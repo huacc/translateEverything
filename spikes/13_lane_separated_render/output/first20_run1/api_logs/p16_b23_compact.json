@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "compact",
+    "page_no": 16,
+    "group_id": "p16_b23"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是版面压缩器。\n语言方向：Traditional Chinese -> English。\n只做最小必要压缩。\n不得改动数字、百分比、年份、金额、专有名词。\n只输出 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市保险公司企业年报。\n{\n  \"current_unit\": {\n    \"unit_id\": \"p16_b23\",\n    \"lane\": \"caption_label\",\n    \"source_text\": \"增長率乃按固定匯率列示，管理層相信這可更清晰地說明相關業務按年的表現。\",\n    \"current_translation\": \"Growth rates are presented at constant exchange rates, which management believes provides a clearer illustration of year-on-year business performance.\"\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p16_b23\",\n        \"translation\": \"<更紧凑译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p16_b23\",\n      \"translation\": \"Growth rates are presented at constant exchange rates to provide a clearer illustration of year-on-year business performance.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "1d3306ad-b198-48df-8111-cd760805e5bf",
+    "conversation_id": "1d3306ad-b198-48df-8111-cd760805e5bf",
+    "id": "1d3306ad-b198-48df-8111-cd760805e5bf",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 272,
+      "output_tokens": 59
+    }
+  }
+}

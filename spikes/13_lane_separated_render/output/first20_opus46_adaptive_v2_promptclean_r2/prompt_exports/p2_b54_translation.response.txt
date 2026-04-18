@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p2_b54",
+      "translation": "By life insurance premiums, the Group in Asia (Japan"
+    }
+  ]
+}
+```

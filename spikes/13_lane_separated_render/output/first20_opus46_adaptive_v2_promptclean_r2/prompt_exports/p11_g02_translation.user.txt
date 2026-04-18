@@ -1,0 +1,47 @@
+任务
+- 语言方向：Traditional Chinese -> English
+- 文档场景：上市公司企业年报
+- 公司：AIA GROUP LIMITED
+- 行业：Life Insurance
+- 报告类型：annual_report
+- 当前页面：11
+- 当前输入单元：正文语义组（group）
+
+翻译要求
+- 只翻译当前正文组，不要承担排版、压缩、分块、回填职责。
+- 可以在当前 group 内恢复断句和段落语义，但不得跨 group 补写或删写。
+- 保持上市公司年报文风：正式、稳定、可出版。
+- 数字、百分比、货币、年份、专有名词必须准确。
+- 如术语锁定与原有表达冲突，优先遵守术语锁定和事实锁定。
+
+页面上下文
+- 当前章节：Chairman's Statement，类型：chairman_statement（页码 10-11）
+- 术语使用模式：overview_narrative
+- 上一组摘要：在2020年第四季，我們慶祝友邦保險在香港聯交所上市10週年。回顧當年友邦保險的上市刷新多項紀錄，至今
+仍是全球保險業界規模最大的首次公開招股。能夠與董事會成員並肩合作，本人深感榮幸和欣慰。友邦保險的
+業務在此期間繼往開來，不斷擴展，...
+- 下一组摘要：管理架構，是每家機構可持續發展的基礎。
+
+文体与偏好
+- Use US$ for U.S. dollar amounts.
+- Keep listed-company annual report disclosure tone formal and publishable.
+- Do not change numbers, percentages, years, named entities or financial metric values.
+- For overview narrative, use full financial metric name plus abbreviation when provided.
+- For financial review and business metrics narrative, use established abbreviations when provided.
+
+当前正文组
+- group_id：p11_g02
+- group_bbox：[68.03, 158.71, 524.09, 186.66]
+- 原文：
+董事會的所有非執行董事均由獨立人士出任，他們在公營和私營產業擁有廣泛的管治和領導經驗。我們同心
+協力，銳意維持奉行最高國際企業管治標準的公司文化。我們深信根深蒂固的企業管治文化，加上穩健的風險
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p11_g02",
+      "translation": "<译文>"
+    }
+  ]
+}

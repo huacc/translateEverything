@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p18_b5",
+    "lane": "caption_label",
+    "source_text": "影響的情況下，我們錄得了稅後營運溢利、產生的基本自由盈餘",
+    "current_translation": "Despite the impact of global pandemic-related travel restrictions, we recorded Operating Profit After Tax and Underlying Free Surplus Generation"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p18_b5",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

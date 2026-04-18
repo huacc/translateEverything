@@ -1,0 +1,59 @@
+任务
+- 语言方向：Traditional Chinese -> English
+- 文档场景：上市公司企业年报
+- 公司：AIA GROUP LIMITED
+- 行业：Life Insurance
+- 报告类型：annual_report
+- 当前页面：14
+- 当前输入单元：正文语义组（group）
+
+翻译要求
+- 只翻译当前正文组，不要承担排版、压缩、分块、回填职责。
+- 可以在当前 group 内恢复断句和段落语义，但不得跨 group 补写或删写。
+- 保持上市公司年报文风：正式、稳定、可出版。
+- 数字、百分比、货币、年份、专有名词必须准确。
+- 如术语锁定与原有表达冲突，优先遵守术语锁定和事实锁定。
+
+页面上下文
+- 当前章节：Group Chief Executive and President's Report，类型：ceo_report（页码 12-16）
+- 术语使用模式：table
+- 上一组摘要：個月錄得非常強勁的新業務價值增長。
+- 下一组摘要：012
+友邦保險控股有限公司
+
+文体与偏好
+- Use US$ for U.S. dollar amounts.
+- Keep listed-company annual report disclosure tone formal and publishable.
+- Do not change numbers, percentages, years, named entities or financial metric values.
+- Use established financial abbreviations for table labels when provided.
+- Keep row and column semantics unchanged.
+
+术语锁定
+- 中國內地訪港旅客 => Mainland Chinese visitors [context_term]
+- 新業務價值 => VONB [context_term]
+- 銀行保險 => bancassurance [glossary_term]
+- 中國內地 => Mainland China [glossary_term]
+- 泰國 => Thailand [glossary_term]
+- 馬來西亞 => Malaysia [glossary_term]
+
+事实锁定
+- percentage_41: 41% -> 41%
+
+当前正文组
+- group_id：p14_g09
+- group_bbox：[73.69, 654.54, 529.77, 714.72]
+- 原文：
+中國內地訪港旅客的旅遊限制影響我們的零售獨立財務顧問業務，導致夥伴業務於2020年的新業務價值下降
+41%。我們從銀行保險帶來較為堅韌的業績，並為此渠道的新業務價值帶來大部分的貢獻。我們與印尼的Bank
+Central Asia (BCA)、泰國的Bangkok Bank Public Company Limited（盤谷銀行）及馬來西亞的Public Bank
+Berhad（大眾銀行）的銀行保險夥伴合作，在2020年均錄得新業務價值正增長。
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p14_g09",
+      "translation": "<译文>"
+    }
+  ]
+}

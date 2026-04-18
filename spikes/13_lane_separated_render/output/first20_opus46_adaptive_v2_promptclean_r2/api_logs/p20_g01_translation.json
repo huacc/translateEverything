@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 20,
+    "group_id": "p20_g01"
+  },
+  "request": {
+    "model": "claude-opus-4-6",
+    "max_tokens": 4096,
+    "system": "你是上市公司年报正文翻译助手。\n语言方向：Traditional Chinese -> English。\n只负责翻译当前正文语义组，不负责排版、回填、压缩、分块。\n允许在当前 group 内恢复断句和语义连接，但禁止跨 group 补写、删写或改写事实。\n必须遵守术语锁定和事实锁定。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "任务\n- 语言方向：Traditional Chinese -> English\n- 文档场景：上市公司企业年报\n- 公司：AIA GROUP LIMITED\n- 行业：Life Insurance\n- 报告类型：annual_report\n- 当前页面：20\n- 当前输入单元：正文语义组（group）\n\n翻译要求\n- 只翻译当前正文组，不要承担排版、压缩、分块、回填职责。\n- 可以在当前 group 内恢复断句和段落语义，但不得跨 group 补写或删写。\n- 保持上市公司年报文风：正式、稳定、可出版。\n- 数字、百分比、货币、年份、专有名词必须准确。\n- 如术语锁定与原有表达冲突，优先遵守术语锁定和事实锁定。\n\n页面上下文\n- 当前章节：New Business Performance，类型：business_metrics（页码 20-21）\n- 当前章节：Group Chief Financial Officer's Review，类型：cfo_review（页码 18-30）\n- 术语使用模式：table\n- 上一组摘要：總計\n2,765\n52.6%\n5,219\n4,154\n62.9%\n6,585\n(33)%\n(33)%\n- 下一组摘要：友邦保險中國業務在2021年錄得成功的勢頭，首兩個月的新業務價值與2020年同期比較，錄得非常強勁的增\n長。2020年新業務價值9.68億美元較2019年減少17%，主要由於2019冠狀病毒病在第一季爆發初期而導致銷售額\n有限。隨著外...\n\n文体与偏好\n- Use US$ for U.S. dollar amounts.\n- Keep listed-company annual report disclosure tone formal and publishable.\n- Do not change numbers, percentages, years, named entities or financial metric values.\n- Use established financial abbreviations for table labels when provided.\n- Keep row and column semantics unchanged.\n\n术语锁定\n- 友邦保險中國業務 => AIA China [context_term]\n- 新業務價值 => VONB [context_term]\n- 友邦保險 => AIA [glossary_term]\n\n事实锁定\n- usd_amount_27.65: 27.65億美元 -> US$2.765 billion / US$2765 million / US$2,765 million\n- percentage_33: 33% -> 33%\n- percentage_23: 23% -> 23%\n- percentage_15: 15% -> 15%\n\n当前正文组\n- group_id：p20_g01\n- group_bbox：[73.7, 432.05, 527.25, 508.01]\n- 原文：\n儘管2020年的新業務價值27.65億美元較2019年減少了33%，我們迅速採用了新的數碼工具，並且外出限制的普\n遍放寬支持了銷售勢頭的恢復。友邦保險中國業務為2020年本集團的新業務價值帶來最大貢獻，也是我們第一個\n顯示銷售勢頭有所恢復的報告分部，原因在於該地區自2020年3月逐步放寬嚴格的封鎖。撇除維持低位的中國內\n地訪港旅客銷售額，本集團其他分部的新業務價值在下半年強勁復甦，與上半年相比增長了23%。本集團的新業\n務發展勢頭在2021年持續強勁，首兩個月新業務價值較2020年同期高出15%。\n\n输出格式\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p20_g01\",\n      \"translation\": \"<译文>\"\n    }\n  ]\n}"
+      }
+    ],
+    "thinking": {
+      "type": "adaptive"
+    },
+    "output_config": {
+      "effort": "max"
+    }
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p20_g01\",\n      \"translation\": \"Although VONB of US$2.765 billion in 2020 decreased by 33% compared to 2019, we rapidly adopted new digital tools and the widespread easing of mobility restrictions supported a recovery in sales momentum. AIA China was the largest contributor to the Group's VONB in 2020 and was our first reporting segment to show a recovery in sales momentum, as the region progressively eased strict lockdowns from March 2020. Excluding Mainland China visitor sales in Hong Kong, which remained low, VONB in the rest of the Group rebounded strongly in the second half of the year, growing 23% compared to the first half. The Group's new business momentum continued to be strong in 2021, with VONB in the first two months 15% higher than the same period in 2020.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "01b57dda-93f9-4919-aae0-446ba62ead3c",
+    "conversation_id": "01b57dda-93f9-4919-aae0-446ba62ead3c",
+    "id": "01b57dda-93f9-4919-aae0-446ba62ead3c",
+    "model": "claude-opus-4-6",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1280,
+      "output_tokens": 197
+    }
+  }
+}

@@ -1,0 +1,19 @@
+任务
+- unit_id：p2_b43
+- 输入单元：短标签 / 小标题
+
+原文
+125 獨立核數師報告
+
+当前译文
+125 Independent Auditor's Report
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p2_b43",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

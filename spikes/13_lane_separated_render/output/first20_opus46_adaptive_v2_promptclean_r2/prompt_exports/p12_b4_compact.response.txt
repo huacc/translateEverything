@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p12_b4",
+      "translation": "Exceptional team's relentless results. Our employees respond swiftly"
+    }
+  ]
+}
+```

@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p18_b3",
+      "translation": "Despite an unprecedented business and macroeconomic environment in 2020, AIA achieved"
+    }
+  ]
+}
+```

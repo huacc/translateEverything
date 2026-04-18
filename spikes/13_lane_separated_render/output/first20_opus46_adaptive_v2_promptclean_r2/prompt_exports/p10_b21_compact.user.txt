@@ -1,0 +1,24 @@
+任务
+- unit_id：p10_b21
+- 输入单元：正文语义组（group）
+
+压缩要求
+- 只删除冗余表达，不改变事实和数字。
+- 保持年报文风正式稳定。
+- 不要跨组补写，也不要为了版面改义。
+
+原文
+與去年同期比較，2021年首兩個月的新業務價值增長15%。
+
+当前译文
+VONB for the first two months of 2021 increased by 15% compared with the same period last year.
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p10_b21",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

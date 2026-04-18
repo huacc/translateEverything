@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 11,
+    "group_id": "p11_b7"
+  },
+  "request": {
+    "model": "claude-opus-4-6",
+    "max_tokens": 4096,
+    "system": "你是上市公司年报标签翻译助手。\n语言方向：Traditional Chinese -> English。\n只负责翻译当前短标签或小标题，不负责排版、回填、压缩。\n保持短、稳、正式，不要扩写成解释句。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "任务\n- 语言方向：Traditional Chinese -> English\n- 文档场景：上市公司企业年报\n- 公司：AIA GROUP LIMITED\n- 当前页面：11\n- 当前输入单元：短标签 / 小标题\n\n翻译要求\n- 保持短、稳、正式，不要自由改写。\n- 不要把短标签扩写成解释性句子。\n- 不负责排版和回填。\n\n页面上下文\n- 当前章节：Chairman's Statement，类型：chairman_statement（页码 10-11）\n- 术语使用模式：heading\n- 上一组摘要：董事會的所有非執行董事均由獨立人士出任，他們在公營和私營產業擁有廣泛的管治和領導經驗。我們同心\n協力，銳意維持奉行最高國際企業管治標準的公司文化。我們深信根深蒂固的企業管治文化，加上穩健的風險\n- 下一组摘要：董事會的重要責任之一是確保領導層人才輩出，並執行有效的繼任安排。我們歡迎李源祥先生於2020年6月1日\n接替榮休的黃經輝先生，擔任集團首席執行官兼總裁。本人謹代表董事會向李源祥先生及其管理層團隊深表\n謝意，他們在這段前所未見的環境發揮...\n\n当前标签\n- unit_id：p11_b7\n- 原文：\n管理架構，是每家機構可持續發展的基礎。\n\n输出格式\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p11_b7\",\n      \"translation\": \"<译文>\"\n    }\n  ]\n}"
+      }
+    ],
+    "thinking": {
+      "type": "adaptive"
+    },
+    "output_config": {
+      "effort": "max"
+    }
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p11_b7\",\n      \"translation\": \"management framework, are the foundation for the sustainable development of every institution.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "9e8f6ee9-0518-48c7-ba27-bd71a010492d",
+    "conversation_id": "9e8f6ee9-0518-48c7-ba27-bd71a010492d",
+    "id": "9e8f6ee9-0518-48c7-ba27-bd71a010492d",
+    "model": "claude-opus-4-6",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 663,
+      "output_tokens": 51
+    }
+  }
+}

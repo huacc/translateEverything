@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p2_b27",
+      "translation": "Covers 18 markets, including Mainland China and Hong Kong"
+    }
+  ]
+}
+```

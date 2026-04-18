@@ -1,0 +1,48 @@
+文档场景：上市公司企业年报
+{
+  "document_background": {
+    "page_sections": [
+      {
+        "source_section": "集團首席執行官兼總裁報告",
+        "target_section": "Group Chief Executive and President's Report",
+        "content_type": "ceo_report",
+        "page_range": [
+          12,
+          16
+        ]
+      }
+    ],
+    "roles": [
+      {
+        "source": "李源祥",
+        "target": "Lee Yuen Cheung",
+        "role": "Group Chief Executive and President"
+      }
+    ],
+    "terms": [],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "Use established financial abbreviations for table labels when provided.",
+      "Keep row and column semantics unchanged.",
+      "Use n/m for 無意義."
+    ]
+  },
+  "current_unit": {
+    "page_no": 14,
+    "unit_id": "p14_g08",
+    "unit_mode": "semantic_group",
+    "slot_count": 2,
+    "source_text": "雖然疫情大流行期間面對面會議受到限制，導致新業務價值下降28%，但隨著限制放寬，加上各業務採用新的數\n碼工具，新業務價值在下半年已強勁回升。正面銷售動力延續至2021年，與2020年同期比較，代理業務在首兩",
+    "current_translation": "Although face-to-face meetings were restricted during the pandemic, resulting in a 28% decline in VONB, the VONB rebounded strongly in the second half as restrictions eased and businesses adopted new digital tools. Positive sales momentum continued into 2021, and compared with the same period in 2020, agency business in the first two"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p14_g08",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

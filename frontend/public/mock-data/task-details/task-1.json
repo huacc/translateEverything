@@ -1,0 +1,61 @@
+{
+  "id": 1,
+  "source_file_name": "技术文档翻译.pdf",
+  "source_file_path": "/uploads/tech_doc.pdf",
+  "target_file_path": "/outputs/tech_doc_translated.pdf",
+  "source_lang": "zh",
+  "target_lang": "en",
+  "source_format": "pdf",
+  "session_id": "session_20260418_103000",
+  "task_run_id": "run_20260418_103100",
+  "current_prompt_bundle_id": 1,
+  "status": "in_progress",
+  "stage": "translating",
+  "page_count": 20,
+  "total_segments": 150,
+  "completed_segments": 120,
+  "failed_segments": 0,
+  "progress_percent": 80.0,
+  "document_summary": {
+    "title": "技术文档翻译",
+    "page_count": 20,
+    "word_count": 5000,
+    "estimated_time": 1800,
+    "file_size": 2048576
+  },
+  "translation_notes": [
+    {
+      "page": 5,
+      "note": "专业术语较多，已应用术语库"
+    },
+    {
+      "page": 12,
+      "note": "包含代码片段，保持原格式"
+    }
+  ],
+  "task_prompt_text": "请将此技术文档从中文翻译为英文，保持专业术语准确性。",
+  "options": {
+    "enable_quality_check": true,
+    "translation_style": "professional",
+    "glossary_id": 1,
+    "preserve_formatting": true,
+    "enable_context_learning": true
+  },
+  "quality_issue_counts": {
+    "critical": 0,
+    "warning": 2,
+    "info": 5
+  },
+  "critical_issue_count": 0,
+  "warning_issue_count": 2,
+  "info_issue_count": 5,
+  "export_blocked": false,
+  "export_status": "ready",
+  "artifact_available": false,
+  "error_message": null,
+  "created_at": "2026-04-18T10:30:00Z",
+  "updated_at": "2026-04-18T10:45:00Z",
+  "started_at": "2026-04-18T10:31:00Z",
+  "completed_at": null,
+  "estimated_completion_at": "2026-04-18T11:00:00Z"
+}

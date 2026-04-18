@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 10,
+    "group_id": "p10_b7"
+  },
+  "request": {
+    "model": "claude-opus-4-6",
+    "max_tokens": 4096,
+    "system": "你是上市公司年报标签翻译助手。\n语言方向：Traditional Chinese -> English。\n只负责翻译当前短标签或小标题，不负责排版、回填、压缩。\n保持短、稳、正式，不要扩写成解释句。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "任务\n- 语言方向：Traditional Chinese -> English\n- 文档场景：上市公司企业年报\n- 公司：AIA GROUP LIMITED\n- 当前页面：10\n- 当前输入单元：短标签 / 小标题\n\n翻译要求\n- 保持短、稳、正式，不要自由改写。\n- 不要把短标签扩写成解释性句子。\n- 不负责排版和回填。\n\n页面上下文\n- 当前章节：Chairman's Statement，类型：chairman_statement（页码 10-11）\n- 术语使用模式：heading\n- 上一组摘要：社區大眾提供保障而備受稱譽，\n- 下一组摘要：謝仕榮先生\n獨立非執行主席\n\n当前标签\n- unit_id：p10_b7\n- 原文：\n這令我們引以為榮。\n\n输出格式\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p10_b7\",\n      \"translation\": \"<译文>\"\n    }\n  ]\n}"
+      }
+    ],
+    "thinking": {
+      "type": "adaptive"
+    },
+    "output_config": {
+      "effort": "max"
+    }
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p10_b7\",\n      \"translation\": \"This makes us proud.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "23b3f47f-52dc-4cc1-a0c3-cfc38c27e6b5",
+    "conversation_id": "23b3f47f-52dc-4cc1-a0c3-cfc38c27e6b5",
+    "id": "23b3f47f-52dc-4cc1-a0c3-cfc38c27e6b5",
+    "model": "claude-opus-4-6",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 395,
+      "output_tokens": 42
+    }
+  }
+}

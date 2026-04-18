@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p3_b5",
+      "translation": "Only multinational company to top Million Dollar Round Table membership for six consecutive years"
+    }
+  ]
+}
+```

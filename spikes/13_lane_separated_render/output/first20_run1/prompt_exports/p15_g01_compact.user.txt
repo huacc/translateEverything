@@ -1,0 +1,48 @@
+文档场景：上市公司企业年报
+{
+  "document_background": {
+    "page_sections": [
+      {
+        "source_section": "集團首席執行官兼總裁報告",
+        "target_section": "Group Chief Executive and President's Report",
+        "content_type": "ceo_report",
+        "page_range": [
+          12,
+          16
+        ]
+      }
+    ],
+    "roles": [
+      {
+        "source": "李源祥",
+        "target": "Lee Yuen Cheung",
+        "role": "Group Chief Executive and President"
+      }
+    ],
+    "terms": [],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "Use established financial abbreviations for table labels when provided.",
+      "Keep row and column semantics unchanged.",
+      "Use n/m for 無意義."
+    ]
+  },
+  "current_unit": {
+    "page_no": 15,
+    "unit_id": "p15_g01",
+    "unit_mode": "semantic_group",
+    "slot_count": 3,
+    "source_text": "學習文化，為員工提供平台，在友邦保險發展具意義和有價值的事業。因應社交距離措施和外遊限制，我們將學\n習內容轉至網上的「AIA Learning Hub」。位於曼谷的世界級設施AIA Leadership Centre (ALC)重新設計及推行本\n集團的旗艦領袖發展計劃，擁有逾100個完全虛擬化的學習模組。參與者對這些虛擬學習課程作出非常正面的反",
+    "current_translation": "learning culture and provide platforms for our employees to develop meaningful and valuable careers at AIA. In response to social distancing measures and travel restrictions, we transitioned our learning content to the online \"AIA Learning Hub\". Our world-class facility, the AIA Leadership Centre (ALC) located in Bangkok, has been redesigned and now delivers our flagship leadership development programme with over 100 fully virtualised learning modules. Participants have provided very positive feedback on these virtual learning programmes, consistent with feedback from previous face-to-face learning sessions."
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p15_g01",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

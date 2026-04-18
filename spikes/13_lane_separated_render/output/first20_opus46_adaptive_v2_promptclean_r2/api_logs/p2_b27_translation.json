@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 2,
+    "group_id": "p2_b27"
+  },
+  "request": {
+    "model": "claude-opus-4-6",
+    "max_tokens": 4096,
+    "system": "你是上市公司年报标签翻译助手。\n语言方向：Traditional Chinese -> English。\n只负责翻译当前短标签或小标题，不负责排版、回填、压缩。\n保持短、稳、正式，不要扩写成解释句。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "任务\n- 语言方向：Traditional Chinese -> English\n- 文档场景：上市公司企业年报\n- 公司：AIA GROUP LIMITED\n- 当前页面：2\n- 当前输入单元：短标签 / 小标题\n\n翻译要求\n- 保持短、稳、正式，不要自由改写。\n- 不要把短标签扩写成解释性句子。\n- 不负责排版和回填。\n\n页面上下文\n- 当前章节：Contents，类型：navigation\n- 术语使用模式：heading\n- 上一组摘要：以滿足個人客戶在長期儲蓄及保障方面\n- 下一组摘要：的需要。此外，本集團亦為企業客戶\n\n术语锁定\n- 中國內地 => Mainland China [glossary_term]\n\n当前标签\n- unit_id：p2_b27\n- 原文：\n覆蓋18個市場，包括在中國內地、香港\n\n输出格式\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p2_b27\",\n      \"translation\": \"<译文>\"\n    }\n  ]\n}"
+      }
+    ],
+    "thinking": {
+      "type": "adaptive"
+    },
+    "output_config": {
+      "effort": "max"
+    }
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p2_b27\",\n      \"translation\": \"Covering 18 markets, including Mainland China, Hong Kong\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "3022b27c-32e4-4ef6-a7ff-2240d060b0de",
+    "conversation_id": "3022b27c-32e4-4ef6-a7ff-2240d060b0de",
+    "id": "3022b27c-32e4-4ef6-a7ff-2240d060b0de",
+    "model": "claude-opus-4-6",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 420,
+      "output_tokens": 50
+    }
+  }
+}

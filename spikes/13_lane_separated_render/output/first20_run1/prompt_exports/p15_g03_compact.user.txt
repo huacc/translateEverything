@@ -1,0 +1,48 @@
+文档场景：上市公司企业年报
+{
+  "document_background": {
+    "page_sections": [
+      {
+        "source_section": "集團首席執行官兼總裁報告",
+        "target_section": "Group Chief Executive and President's Report",
+        "content_type": "ceo_report",
+        "page_range": [
+          12,
+          16
+        ]
+      }
+    ],
+    "roles": [
+      {
+        "source": "李源祥",
+        "target": "Lee Yuen Cheung",
+        "role": "Group Chief Executive and President"
+      }
+    ],
+    "terms": [],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "Use established financial abbreviations for table labels when provided.",
+      "Keep row and column semantics unchanged.",
+      "Use n/m for 無意義."
+    ]
+  },
+  "current_unit": {
+    "page_no": 15,
+    "unit_id": "p15_g03",
+    "unit_mode": "semantic_group",
+    "slot_count": 2,
+    "source_text": "在2020年10月，友邦保險慶祝於香港聯交所上市10週年誌慶，特別設立「友邦獎學金」，承諾投放1億美元，在未\n來數十年每年資助100名就讀於香港多間大學的本科生，培養新世代企業領袖。",
+    "current_translation": "In October 2020, AIA celebrated its 10th anniversary of listing on the Hong Kong Stock Exchange and established the \"AIA Scholarship\" programme, committing US$100 million to support 100 undergraduate students annually from various universities in Hong Kong over the coming decades, nurturing the next generation of business leaders."
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p15_g03",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

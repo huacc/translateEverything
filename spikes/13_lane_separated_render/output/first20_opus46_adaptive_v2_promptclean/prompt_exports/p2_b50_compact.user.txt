@@ -1,0 +1,19 @@
+任务
+- unit_id：p2_b50
+- 输入单元：短标签 / 小标题
+
+原文
+134 合併財務狀況表
+
+当前译文
+134 Consolidated Statement of Financial Position
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p2_b50",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

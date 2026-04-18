@@ -1,0 +1,55 @@
+任务
+- 语言方向：Traditional Chinese -> English
+- 文档场景：上市公司企业年报
+- 公司：AIA GROUP LIMITED
+- 行业：Life Insurance
+- 报告类型：annual_report
+- 当前页面：10
+- 当前输入单元：正文语义组（group）
+
+翻译要求
+- 只翻译当前正文组，不要承担排版、压缩、分块、回填职责。
+- 可以在当前 group 内恢复断句和段落语义，但不得跨 group 补写或删写。
+- 保持上市公司年报文风：正式、稳定、可出版。
+- 数字、百分比、货币、年份、专有名词必须准确。
+- 如术语锁定与原有表达冲突，优先遵守术语锁定和事实锁定。
+
+页面上下文
+- 当前章节：Chairman's Statement，类型：chairman_statement（页码 10-11）
+- 术语使用模式：table
+- 上一组摘要：稅後營運溢利增長5%至59.42億美元，產生的基本自由盈餘則上升7%至58.43億美元，反映我們擁有高質素的
+經常性盈利來源。內涵價值權益創新高，達672億美元。截至2020年12月31日，集團當地資本總和法覆蓋率為
+374%，足證我...
+- 下一组摘要：及漸進的派息政策，讓本集團可把握未來的增長機遇，並保持財務靈活性。
+
+文体与偏好
+- Use US$ for U.S. dollar amounts.
+- Keep listed-company annual report disclosure tone formal and publishable.
+- Do not change numbers, percentages, years, named entities or financial metric values.
+- Use established financial abbreviations for table labels when provided.
+- Keep row and column semantics unchanged.
+
+术语锁定
+- 友邦保險 => AIA [glossary_term]
+
+事实锁定
+- final_dividend_per_share: 100.30港仙 -> 100.30 Hong Kong cents per share
+- total_dividend_per_share: 135.30港仙 -> 135.30 Hong Kong cents per share
+- percentage_7.5: 7.5% -> 7.5%
+
+当前正文组
+- group_id：p10_g04
+- group_bbox：[73.68, 710.72, 527.27, 738.68]
+- 原文：
+董事會建議派發末期股息每股100.30港仙，增加7.5%，反映我們的財務業績穩健強韌，同時董事會持續對本集團
+未來前景充滿信心。這使2020年的全年股息達到每股135.30港仙。董事會秉承友邦保險行之已久的審慎、可持續
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p10_g04",
+      "translation": "<译文>"
+    }
+  ]
+}

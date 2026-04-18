@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p7_b17",
+    "lane": "caption_label",
+    "source_text": "六年擁有最多百萬圓桌會註冊會員。",
+    "current_translation": "Six consecutive years with the most Million Dollar Round Table members."
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p7_b17",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

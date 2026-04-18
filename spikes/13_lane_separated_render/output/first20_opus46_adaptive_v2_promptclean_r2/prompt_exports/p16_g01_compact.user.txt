@@ -1,0 +1,25 @@
+任务
+- unit_id：p16_g01
+- 输入单元：正文语义组（group）
+
+压缩要求
+- 只删除冗余表达，不改变事实和数字。
+- 保持年报文风正式稳定。
+- 不要跨组补写，也不要为了版面改义。
+
+原文
+我們瞭解我們在這重要領域仍然任重道遠。我們最近亦完成環境、社會及管治策略的檢討。本人充滿信心，我們
+的五大策略焦點領域：提升身心健康、綠色營運、可持續投資、人才與文化和有效的管治，將有助我們實現在環
+
+当前译文
+We understand that we still have a long way to go in this important area. We have also recently completed a review of our Environmental, Social and Governance strategy. I am confident that our five strategic focus areas: enhancing physical and mental well-being, green operations, sustainable investment, talent and culture, and effective governance, will help us achieve our ambition to lead the global industry in Environmental, Social and Governance.
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p16_g01",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

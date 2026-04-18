@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p3_b10",
+    "lane": "table",
+    "source_text": "為亞洲大眾提供保障，\n總保額接近\n2萬億美元\n18個市場",
+    "current_translation": "Protecting millions of Asians, Total sum assured of close to USD 2 trillion 18 markets"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p3_b10",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

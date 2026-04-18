@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "compact",
+    "page_no": 5,
+    "group_id": "p5_b9"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是版面压缩器。\n语言方向：Traditional Chinese -> English。\n只做最小必要压缩。\n不得改动数字、百分比、年份、金额、专有名词。\n只输出 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市保险公司企业年报。\n{\n  \"current_unit\": {\n    \"unit_id\": \"p5_b9\",\n    \"lane\": \"caption_label\",\n    \"source_text\": \"提供必不可少的的財務支援。儘管疫情大流行的影響依\",\n    \"current_translation\": \"Providing essential financial support. Despite the impact of the pandemic continuing\"\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p5_b9\",\n        \"translation\": \"<更紧凑译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p5_b9\",\n      \"translation\": \"Providing essential financial support. Despite ongoing pandemic impacts\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "257c3f3d-0c26-4afd-9bc0-160b274b48ed",
+    "conversation_id": "257c3f3d-0c26-4afd-9bc0-160b274b48ed",
+    "id": "257c3f3d-0c26-4afd-9bc0-160b274b48ed",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 245,
+      "output_tokens": 48
+    }
+  }
+}

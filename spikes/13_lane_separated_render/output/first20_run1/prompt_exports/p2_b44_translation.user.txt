@@ -1,0 +1,57 @@
+文档场景：上市保险公司企业年报。
+先满足 fact_locks，再保证术语稳定、语义完整和年报文风。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 2,
+    "page_sections": [
+      {
+        "source_section": "目錄",
+        "target_section": "Contents",
+        "content_type": "navigation",
+        "page_range": [
+          2
+        ]
+      }
+    ],
+    "term_usage_mode": "heading",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "125 獨立核數師報告",
+      "next_group_source_excerpt": "132 合併收入表"
+    }
+  },
+  "mapping_hits": [],
+  "fact_locks": [
+    {
+      "label": "percentage_49",
+      "fact_type": "percentage",
+      "source_value": "49%",
+      "expected_forms": [
+        "49%"
+      ]
+    }
+  ],
+  "current_group": {
+    "group_id": "p2_b44",
+    "lane": "body",
+    "group_text": "合資公司的49%權益。",
+    "source_block_ids": [
+      "p2_b44"
+    ],
+    "source_block_count": 1
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p2_b44",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p5_b2",
+      "translation": "In 2020, COVID-19 brought unprecedented"
+    }
+  ]
+}
+```

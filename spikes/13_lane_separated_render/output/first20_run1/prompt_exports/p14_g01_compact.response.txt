@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p14_g01",
+      "translation": "AIA China delivered the largest contribution to the Group's VONB in 2020 and performed exceptionally in early 2021, with very strong VONB growth in the first two months compared with the same period in 2020. Although 2020 VONB of US$968 million decreased 17% from 2019, this was primarily due to limited new sales during the early COVID-19 outbreak in the first quarter. OPAT growth of 14% during the year was mainly attributable to our increasingly growing"
+    }
+  ]
+}
+```

@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p2_b31",
+    "lane": "caption_label",
+    "source_text": "提供僱員福利、信貸保險和退休保障",
+    "current_translation": "Provision of employee benefits, credit insurance and retirement protection"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p2_b31",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

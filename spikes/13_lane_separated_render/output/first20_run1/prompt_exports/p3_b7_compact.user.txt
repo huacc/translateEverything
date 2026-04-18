@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p3_b7",
+    "lane": "caption_label",
+    "source_text": "業務覆蓋",
+    "current_translation": "Geographic Reach"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p3_b7",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

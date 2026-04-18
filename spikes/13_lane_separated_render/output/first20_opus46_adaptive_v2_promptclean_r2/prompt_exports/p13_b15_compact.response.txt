@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p13_b15",
+      "translation": "policy to capture growth opportunities while maintaining financial flexibility."
+    }
+  ]
+}
+```

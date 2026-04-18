@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p2_b38",
+    "lane": "caption_label",
+    "source_text": "汶萊、澳門特別行政區和新西蘭擁有",
+    "current_translation": "Brunei, Macau Special Administrative Region and New Zealand operations"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p2_b38",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

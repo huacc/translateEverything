@@ -1,0 +1,229 @@
+{
+  "pages": [
+    13,
+    19,
+    20
+  ],
+  "v11_vs_human": {
+    "average": {
+      "token_f1": 0.0,
+      "content_f1": 0.0,
+      "sequence_ratio": 0.0,
+      "number_recall": 0.0
+    },
+    "per_page": [
+      {
+        "page_no": 13,
+        "token_f1": 0.0,
+        "content_f1": 0.0,
+        "sequence_ratio": 0.0,
+        "number_recall": 0.0,
+        "token_count_ref": 649,
+        "token_count_hyp": 0
+      },
+      {
+        "page_no": 19,
+        "token_f1": 0.0,
+        "content_f1": 0.0,
+        "sequence_ratio": 0.0,
+        "number_recall": 0.0,
+        "token_count_ref": 689,
+        "token_count_hyp": 0
+      },
+      {
+        "page_no": 20,
+        "token_f1": 0.0,
+        "content_f1": 0.0,
+        "sequence_ratio": 0.0,
+        "number_recall": 0.0,
+        "token_count_ref": 549,
+        "token_count_hyp": 0
+      }
+    ]
+  },
+  "spike12_vs_human": {
+    "average": {
+      "token_f1": 0.6979,
+      "content_f1": 0.6722,
+      "sequence_ratio": 0.5267,
+      "number_recall": 0.6583
+    },
+    "per_page": [
+      {
+        "page_no": 13,
+        "token_f1": 0.6284,
+        "content_f1": 0.5933,
+        "sequence_ratio": 0.4421,
+        "number_recall": 0.5714,
+        "token_count_ref": 649,
+        "token_count_hyp": 500
+      },
+      {
+        "page_no": 19,
+        "token_f1": 0.7039,
+        "content_f1": 0.7025,
+        "sequence_ratio": 0.5118,
+        "number_recall": 0.4364,
+        "token_count_ref": 689,
+        "token_count_hyp": 581
+      },
+      {
+        "page_no": 20,
+        "token_f1": 0.7615,
+        "content_f1": 0.7209,
+        "sequence_ratio": 0.6261,
+        "number_recall": 0.9672,
+        "token_count_ref": 549,
+        "token_count_hyp": 470
+      }
+    ]
+  },
+  "delta_spike12_minus_v11": {
+    "token_f1": 0.6979,
+    "content_f1": 0.6722,
+    "sequence_ratio": 0.5267,
+    "number_recall": 0.6583
+  },
+  "layout_v11": {
+    "1": {
+      "avg_font_ratio": 0.0,
+      "compact_used": 0,
+      "overflow_count": 0,
+      "unit_count": 4
+    },
+    "2": {
+      "avg_font_ratio": 0.0,
+      "compact_used": 0,
+      "overflow_count": 0,
+      "unit_count": 69
+    },
+    "3": {
+      "avg_font_ratio": 0.0,
+      "compact_used": 0,
+      "overflow_count": 0,
+      "unit_count": 11
+    },
+    "4": {
+      "avg_font_ratio": 0.0,
+      "compact_used": 0,
+      "overflow_count": 0,
+      "unit_count": 0
+    },
+    "5": {
+      "avg_font_ratio": 0.0,
+      "compact_used": 0,
+      "overflow_count": 0,
+      "unit_count": 11
+    },
+    "6": {
+      "avg_font_ratio": 0.0,
+      "compact_used": 0,
+      "overflow_count": 0,
+      "unit_count": 24
+    },
+    "7": {
+      "avg_font_ratio": 0.0,
+      "compact_used": 0,
+      "overflow_count": 0,
+      "unit_count": 18
+    },
+    "8": {
+      "avg_font_ratio": 0.0,
+      "compact_used": 0,
+      "overflow_count": 0,
+      "unit_count": 111
+    },
+    "9": {
+      "avg_font_ratio": 0.0,
+      "compact_used": 0,
+      "overflow_count": 0,
+      "unit_count": 39
+    },
+    "10": {
+      "avg_font_ratio": 0.0,
+      "compact_used": 0,
+      "overflow_count": 0,
+      "unit_count": 28
+    },
+    "11": {
+      "avg_font_ratio": 0.0,
+      "compact_used": 0,
+      "overflow_count": 0,
+      "unit_count": 28
+    },
+    "12": {
+      "avg_font_ratio": 0.0,
+      "compact_used": 0,
+      "overflow_count": 0,
+      "unit_count": 9
+    },
+    "13": {
+      "avg_font_ratio": 0.0,
+      "compact_used": 0,
+      "overflow_count": 0,
+      "unit_count": 29
+    },
+    "14": {
+      "avg_font_ratio": 0.0,
+      "compact_used": 0,
+      "overflow_count": 0,
+      "unit_count": 33
+    },
+    "15": {
+      "avg_font_ratio": 0.0,
+      "compact_used": 0,
+      "overflow_count": 0,
+      "unit_count": 28
+    },
+    "16": {
+      "avg_font_ratio": 0.0,
+      "compact_used": 0,
+      "overflow_count": 0,
+      "unit_count": 24
+    },
+    "17": {
+      "avg_font_ratio": 0.0,
+      "compact_used": 0,
+      "overflow_count": 0,
+      "unit_count": 7
+    },
+    "18": {
+      "avg_font_ratio": 0.0,
+      "compact_used": 0,
+      "overflow_count": 0,
+      "unit_count": 16
+    },
+    "19": {
+      "avg_font_ratio": 0.0,
+      "compact_used": 0,
+      "overflow_count": 0,
+      "unit_count": 29
+    },
+    "20": {
+      "avg_font_ratio": 0.0,
+      "compact_used": 0,
+      "overflow_count": 0,
+      "unit_count": 34
+    }
+  },
+  "layout_spike12": {
+    "13": {
+      "avg_font_ratio": 0.7981,
+      "compact_used": 8,
+      "overflow_count": 0,
+      "unit_count": 15
+    },
+    "19": {
+      "avg_font_ratio": 0.7898,
+      "compact_used": 5,
+      "overflow_count": 0,
+      "unit_count": 10
+    },
+    "20": {
+      "avg_font_ratio": 0.9327,
+      "compact_used": 3,
+      "overflow_count": 0,
+      "unit_count": 24
+    }
+  }
+}

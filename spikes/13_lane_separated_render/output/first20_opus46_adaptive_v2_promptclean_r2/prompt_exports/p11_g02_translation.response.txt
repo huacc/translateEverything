@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p11_g02",
+      "translation": "All non-executive directors on the Board are independent and bring extensive governance and leadership experience from both the public and private sectors. Together, we are committed to maintaining a corporate culture that upholds the highest international standards of corporate governance. We firmly believe that a deeply embedded corporate governance culture, combined with robust risk"
+    }
+  ]
+}
+```

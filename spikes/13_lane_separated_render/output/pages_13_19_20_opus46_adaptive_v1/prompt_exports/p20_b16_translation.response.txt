@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p20_b16",
+      "translation": "Adjustment to meet consolidated\nreserve and capital requirements\n(103)\nn.m.\nn.m.\n(87)\nn.m.\nn.m.\nn.m.\nn.m."
+    }
+  ]
+}
+```

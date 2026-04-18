@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p15_g04",
+      "translation": "The core components of our 'Organisation of the Future' strategy include strengthening and simplifying our organisational structure, introducing flexible working arrangements, and enhancing our capability framework. These strategic priorities will support our employees' career development and further strengthen AIA's position as an employer of choice."
+    }
+  ]
+}
+```

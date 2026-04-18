@@ -1,0 +1,32 @@
+任务
+- 语言方向：Traditional Chinese -> English
+- 文档场景：上市公司企业年报
+- 公司：AIA GROUP LIMITED
+- 当前页面：10
+- 当前输入单元：短标签 / 小标题
+
+翻译要求
+- 保持短、稳、正式，不要自由改写。
+- 不要把短标签扩写成解释性句子。
+- 不负责排版和回填。
+
+页面上下文
+- 当前章节：Chairman's Statement，类型：chairman_statement（页码 10-11）
+- 术语使用模式：heading
+- 上一组摘要：於亞洲區內，為極需我們服務的
+- 下一组摘要：這令我們引以為榮。
+
+当前标签
+- unit_id：p10_b6
+- 原文：
+社區大眾提供保障而備受稱譽，
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p10_b6",
+      "translation": "<译文>"
+    }
+  ]
+}

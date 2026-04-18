@@ -1,0 +1,19 @@
+任务
+- unit_id：p7_b13
+- 输入单元：短标签 / 小标题
+
+原文
+我們已獲得中國銀行保險監督委員會
+
+当前译文
+We obtained approval from the China Banking and Insurance Regulatory Commission
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p7_b13",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

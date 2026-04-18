@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p6_b12",
+      "translation": "Guide our decision-making and work as an institution"
+    }
+  ]
+}
+```

@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 18,
+    "group_id": "p18_g01"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是上市保险公司年报翻译器。\n语言方向：Traditional Chinese -> English。\n只处理当前 body semantic group。\n只可在当前组内恢复跨块断句，不得跨组补写、跨组删写或改写事实。\n必须严格满足 mapping_hits 与 fact_locks。\n版面回填、字体压缩、分块分配不是你的职责，不要为了适配版面而删词改义。\n保持正式、稳定、可出版的企业年报文风。\n只输出 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市保险公司企业年报。\n先满足 fact_locks，再保证术语稳定、语义完整和年报文风。\n{\n  \"task\": {\n    \"scenario\": \"listed_company_annual_report\",\n    \"industry\": \"Life Insurance\",\n    \"report_type\": \"annual_report\",\n    \"company_name_target\": \"AIA GROUP LIMITED\",\n    \"direction\": \"Traditional Chinese -> English\"\n  },\n  \"page_context\": {\n    \"page_no\": 18,\n    \"page_sections\": [\n      {\n        \"source_section\": \"集團首席財務總監回顧\",\n        \"target_section\": \"Group Chief Financial Officer's Review\",\n        \"content_type\": \"cfo_review\",\n        \"page_range\": [\n          18,\n          30\n        ]\n      }\n    ],\n    \"term_usage_mode\": \"table\",\n    \"neighbor_context\": {\n      \"previous_group_source_excerpt\": \"概要及主要財務摘要\",\n      \"next_group_source_excerpt\": \"進一步增長。\"\n    }\n  },\n  \"mapping_hits\": [\n    {\n      \"source\": \"新業務價值\",\n      \"target\": \"VONB\",\n      \"hit_type\": \"context_term\"\n    },\n    {\n      \"source\": \"稅後營運溢利\",\n      \"target\": \"OPAT\",\n      \"hit_type\": \"context_term\"\n    },\n    {\n      \"source\": \"產生的基本自由盈餘\",\n      \"target\": \"UFSG\",\n      \"hit_type\": \"context_term\"\n    },\n    {\n      \"source\": \"自由盈餘\",\n      \"target\": \"Free Surplus\",\n      \"hit_type\": \"context_term\"\n    },\n    {\n      \"source\": \"友邦保險\",\n      \"target\": \"AIA\",\n      \"hit_type\": \"glossary_term\"\n    }\n  ],\n  \"fact_locks\": [\n    {\n      \"label\": \"percentage_15\",\n      \"fact_type\": \"percentage\",\n      \"source_value\": \"15%\",\n      \"expected_forms\": [\n        \"15%\"\n      ]\n    }\n  ],\n  \"current_group\": {\n    \"group_id\": \"p18_g01\",\n    \"lane\": \"body\",\n    \"group_text\": \"在2020年，友邦保險在全球大流行病帶來的空前商業和宏觀經濟狀況下錄得強勁的財務表現。儘管外出限制導致\\n2020年新業務價值下降，但隨著業務的調整和限制的有所放寬，我們看到了銷售勢頭的恢復。這種勢頭一直持續\\n到2021年，首兩個月新業務價值與2020年同期相比增長15%。多年來，我們審慎的財務管理和貫徹對高質素業務\\n的策略性重點，體現了稅後營運溢利和產生的基本自由盈餘的持續增長、穩健而強韌的資本狀況以及每股股息的\",\n    \"source_block_ids\": [\n      \"p18_b10\",\n      \"p18_b11\",\n      \"p18_b12\",\n      \"p18_b13\"\n    ],\n    \"source_block_count\": 4\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p18_g01\",\n        \"translation\": \"<译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p18_g01\",\n      \"translation\": \"In 2020, AIA recorded strong financial performance amid the unprecedented business and macroeconomic conditions brought about by the global pandemic. Although external mobility restrictions led to a decline in VONB in 2020, as business adjusted and restrictions eased, we saw a recovery in sales momentum. This momentum continued into 2021, with VONB in the first two months growing 15% compared to the same period in 2020. Over the years, our prudent financial management and consistent strategic focus on high-quality business have been reflected in continued growth in OPAT and UFSG, a robust and resilient capital position, and dividend per share\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "c175fb0c-e7d2-42a0-9880-1d0037818828",
+    "conversation_id": "c175fb0c-e7d2-42a0-9880-1d0037818828",
+    "id": "c175fb0c-e7d2-42a0-9880-1d0037818828",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1124,
+      "output_tokens": 160
+    }
+  }
+}

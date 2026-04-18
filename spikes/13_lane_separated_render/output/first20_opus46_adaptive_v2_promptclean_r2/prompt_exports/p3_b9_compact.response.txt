@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p3_b9",
+      "translation": "In 2020, we paid over US$16 billion in insurance benefits and claims, providing essential financial support to customers"
+    }
+  ]
+}
+```

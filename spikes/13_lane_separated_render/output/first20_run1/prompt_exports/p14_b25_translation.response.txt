@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p14_b25",
+      "translation": "On the agency channel front, we shifted towards online recruitment and onboarding practices, which supported double-digit growth in the number of new recruits and agency managers."
+    }
+  ]
+}
+```

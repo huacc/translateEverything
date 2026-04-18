@@ -1,0 +1,19 @@
+任务
+- unit_id：p2_b35
+- 输入单元：短标签 / 小标题
+
+原文
+110 薪酬報告
+
+当前译文
+110 Remuneration Report
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p2_b35",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+任务
+- unit_id：p3_b4
+- 输入单元：正文语义组（group）
+
+压缩要求
+- 只删除冗余表达，不改变事实和数字。
+- 保持年报文风正式稳定。
+- 不要跨组补写，也不要为了版面改义。
+
+原文
+在香港聯交所上市、
+香港註冊並將
+總部設於香港
+最大的公司
+
+当前译文
+The largest company listed on the Hong Kong Stock Exchange, incorporated and headquartered in Hong Kong
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p3_b4",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

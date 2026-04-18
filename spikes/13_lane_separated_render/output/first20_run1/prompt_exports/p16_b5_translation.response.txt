@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p16_b5",
+      "translation": "environmental, social and governance ambition to lead the industry globally."
+    }
+  ]
+}
+```

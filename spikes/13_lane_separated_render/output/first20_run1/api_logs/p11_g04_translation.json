@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 11,
+    "group_id": "p11_g04"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是上市保险公司年报翻译器。\n语言方向：Traditional Chinese -> English。\n只处理当前 body semantic group。\n只可在当前组内恢复跨块断句，不得跨组补写、跨组删写或改写事实。\n必须严格满足 mapping_hits 与 fact_locks。\n版面回填、字体压缩、分块分配不是你的职责，不要为了适配版面而删词改义。\n保持正式、稳定、可出版的企业年报文风。\n只输出 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市保险公司企业年报。\n先满足 fact_locks，再保证术语稳定、语义完整和年报文风。\n{\n  \"task\": {\n    \"scenario\": \"listed_company_annual_report\",\n    \"industry\": \"Life Insurance\",\n    \"report_type\": \"annual_report\",\n    \"company_name_target\": \"AIA GROUP LIMITED\",\n    \"direction\": \"Traditional Chinese -> English\"\n  },\n  \"page_context\": {\n    \"page_no\": 11,\n    \"page_sections\": [\n      {\n        \"source_section\": \"主席報告\",\n        \"target_section\": \"Chairman's Statement\",\n        \"content_type\": \"chairman_statement\",\n        \"page_range\": [\n          10,\n          11\n        ]\n      }\n    ],\n    \"term_usage_mode\": \"table\",\n    \"neighbor_context\": {\n      \"previous_group_source_excerpt\": \"多年來的卓越領導及對友邦保險所作出的重大貢獻。\",\n      \"next_group_source_excerpt\": \"成員、高級管理層團隊以及全體員工共同秉持的優先指標。\"\n    }\n  },\n  \"mapping_hits\": [\n    {\n      \"source\": \"環境、社會及管治\",\n      \"target\": \"Environmental, Social and Governance\",\n      \"hit_type\": \"context_term\"\n    },\n    {\n      \"source\": \"友邦保險\",\n      \"target\": \"AIA\",\n      \"hit_type\": \"glossary_term\"\n    }\n  ],\n  \"fact_locks\": [],\n  \"current_group\": {\n    \"group_id\": \"p11_g04\",\n    \"lane\": \"body\",\n    \"group_text\": \"環境、社會及管治議題對全球的影響日形重要。我們當竭盡所能，協助推動社會邁向更美好的未來，而我們的環\\n境、社會及管治措施在2020年再度備受肯定。根據評級機構Sustainalytics的評選，友邦保險在超過270家保險公\\n司中排名第二，足證我們卓越的企業管治實力和質素。此外，我們繼續榮獲Institutional Shareholder Services\\nInc.(ISS)頒發「Prime」環境、社會及管治企業評級(ESG Corporate Rating)，認同我們為業界可持續發展表現\\n最佳的公司之一。我們相信我們在這方面仍需採取更多措施，為社區實現更美好的成果。這仍是我個人與董事會\",\n    \"source_block_ids\": [\n      \"p11_b12\",\n      \"p11_b13\",\n      \"p11_b14\",\n      \"p11_b15\",\n      \"p11_b16\"\n    ],\n    \"source_block_count\": 5\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p11_g04\",\n        \"translation\": \"<译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p11_g04\",\n      \"translation\": \"Environmental, Social and Governance issues are becoming increasingly important to the world. We will do our utmost to help drive society towards a better future, and our Environmental, Social and Governance initiatives were once again recognized in 2020. According to the selection by rating agency Sustainalytics, AIA ranked second among over 270 insurance companies, demonstrating our excellent corporate governance strength and quality. In addition, we continued to receive the \\\"Prime\\\" Environmental, Social and Governance Corporate Rating (ESG Corporate Rating) from Institutional Shareholder Services Inc. (ISS), recognizing us as one of the best-performing companies in the industry for sustainable development. We believe we still need to take more measures in this regard to achieve better outcomes for the community. This remains a personal priority for me and the Board.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "274e4718-35c4-424d-8f40-93985c9cc250",
+    "conversation_id": "274e4718-35c4-424d-8f40-93985c9cc250",
+    "id": "274e4718-35c4-424d-8f40-93985c9cc250",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1038,
+      "output_tokens": 199
+    }
+  }
+}

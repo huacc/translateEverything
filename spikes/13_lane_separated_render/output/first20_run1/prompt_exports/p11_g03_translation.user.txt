@@ -1,0 +1,60 @@
+文档场景：上市保险公司企业年报。
+先满足 fact_locks，再保证术语稳定、语义完整和年报文风。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 11,
+    "page_sections": [
+      {
+        "source_section": "主席報告",
+        "target_section": "Chairman's Statement",
+        "content_type": "chairman_statement",
+        "page_range": [
+          10,
+          11
+        ]
+      }
+    ],
+    "term_usage_mode": "table",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "管理架構，是每家機構可持續發展的基礎。",
+      "next_group_source_excerpt": "多年來的卓越領導及對友邦保險所作出的重大貢獻。"
+    }
+  },
+  "mapping_hits": [],
+  "fact_locks": [
+    {
+      "label": "date_2020",
+      "fact_type": "date",
+      "source_value": "2020年6月1日",
+      "expected_forms": [
+        "1 6 2020"
+      ]
+    }
+  ],
+  "current_group": {
+    "group_id": "p11_g03",
+    "lane": "body",
+    "group_text": "董事會的重要責任之一是確保領導層人才輩出，並執行有效的繼任安排。我們歡迎李源祥先生於2020年6月1日\n接替榮休的黃經輝先生，擔任集團首席執行官兼總裁。本人謹代表董事會向李源祥先生及其管理層團隊深表\n謝意，他們在這段前所未見的環境發揮優秀的管理才能，帶領我們的業務向前邁進。我們也衷心感謝黃經輝先生",
+    "source_block_ids": [
+      "p11_b8",
+      "p11_b9",
+      "p11_b10"
+    ],
+    "source_block_count": 3
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p11_g03",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

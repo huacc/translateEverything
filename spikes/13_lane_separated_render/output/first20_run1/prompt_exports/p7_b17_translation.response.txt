@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p7_b17",
+      "translation": "Six consecutive years with the most Million Dollar Round Table members."
+    }
+  ]
+}
+```

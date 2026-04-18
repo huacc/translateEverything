@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p2_b57",
+    "lane": "caption_label",
+    "source_text": "除外）領先同業，並於大部分市場穩佔",
+    "current_translation": "excluding) leading the industry and maintaining a strong position in most markets"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p2_b57",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

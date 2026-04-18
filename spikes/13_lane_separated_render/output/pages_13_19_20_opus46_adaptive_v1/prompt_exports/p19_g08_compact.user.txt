@@ -1,0 +1,42 @@
+文档场景：上市公司企业年报
+{
+  "document_background": {
+    "page_sections": [
+      {
+        "source_section": "集團首席財務總監回顧",
+        "target_section": "Group Chief Financial Officer's Review",
+        "content_type": "cfo_review",
+        "page_range": [
+          18,
+          30
+        ]
+      }
+    ],
+    "roles": [],
+    "terms": [],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "For overview narrative, use full financial metric name plus abbreviation when provided.",
+      "For financial review and business metrics narrative, use established abbreviations when provided.",
+      "Prefer AIA China / AIA Hong Kong / AIA Macau over loose paraphrases when matched."
+    ]
+  },
+  "current_unit": {
+    "page_no": 19,
+    "unit_id": "p19_g08",
+    "unit_mode": "semantic_group",
+    "slot_count": 2,
+    "source_text": "我們仍然對友邦保險在整個亞洲地區的業務機會充滿信心。我們將繼續專注於投資資本，以實現具盈利的新業務\n增長，並運用我們的競爭優勢，同時維持審慎的財務管理和實現長期股東價值。",
+    "current_translation": "We remain confident in AIA's business opportunities across Asia. We will continue to focus on investing capital to achieve profitable new business growth and leverage our competitive advantages, while maintaining prudent financial management and delivering long-term shareholder value."
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p19_g08",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

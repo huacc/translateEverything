@@ -1,0 +1,19 @@
+任务
+- unit_id：p16_b21
+- 输入单元：短标签 / 小标题
+
+原文
+集團首席執行官兼總裁
+
+当前译文
+Group Chief Executive and President
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p16_b21",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

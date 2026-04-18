@@ -1,0 +1,19 @@
+任务
+- unit_id：p2_b32
+- 输入单元：短标签 / 小标题
+
+原文
+096 企業管治報告
+
+当前译文
+096 Corporate Governance Report
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p2_b32",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

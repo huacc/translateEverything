@@ -1,0 +1,19 @@
+任务
+- unit_id：p5_b5
+- 输入单元：短标签 / 小标题
+
+原文
+保障，讓他們冒著生命危險執行抗疫工作時能減輕一份
+
+当前译文
+protection, allowing them to reduce one concern as they risk their lives in pandemic response work
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p5_b5",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

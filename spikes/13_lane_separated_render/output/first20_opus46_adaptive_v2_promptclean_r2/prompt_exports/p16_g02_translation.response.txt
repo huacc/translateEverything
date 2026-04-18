@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p16_g02",
+      "translation": "In 2020, the COVID-19 pandemic was undoubtedly the largest public health emergency in living memory. Unprecedented public fiscal and financial support provided to affected businesses and households helped mitigate some of the extreme financial shocks caused by the pandemic and accelerated the pace of recovery, particularly in countries with robust health policies and infrastructure. However, significant disparities existed between countries, and under these circumstances, Asia (excluding Japan) recorded the relatively strongest GDP performance globally. At present, the global economy is just beginning to emerge from a deep recession and enter the initial stages of recovery."
+    }
+  ]
+}
+```

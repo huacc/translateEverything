@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p6_b2",
+      "translation": "Long-term relationships that often span"
+    }
+  ]
+}
+```

@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p16_b5",
+      "translation": "global ESG leadership in our industry"
+    }
+  ]
+}
+```

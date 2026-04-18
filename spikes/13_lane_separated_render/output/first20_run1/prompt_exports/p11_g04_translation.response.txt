@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p11_g04",
+      "translation": "Environmental, Social and Governance issues are becoming increasingly important to the world. We will do our utmost to help drive society towards a better future, and our Environmental, Social and Governance initiatives were once again recognized in 2020. According to the selection by rating agency Sustainalytics, AIA ranked second among over 270 insurance companies, demonstrating our excellent corporate governance strength and quality. In addition, we continued to receive the \"Prime\" Environmental, Social and Governance Corporate Rating (ESG Corporate Rating) from Institutional Shareholder Services Inc. (ISS), recognizing us as one of the best-performing companies in the industry for sustainable development. We believe we still need to take more measures in this regard to achieve better outcomes for the community. This remains a personal priority for me and the Board."
+    }
+  ]
+}
+```

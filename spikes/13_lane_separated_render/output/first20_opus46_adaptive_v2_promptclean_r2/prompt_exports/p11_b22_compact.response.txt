@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p11_b22",
+      "translation": "Finally, the trust of our customers and shareholders has enabled AIA to deliver strong performance and sustained growth since our listing. On behalf of the Board,"
+    }
+  ]
+}
+```

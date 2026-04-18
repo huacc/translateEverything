@@ -1,0 +1,51 @@
+任务
+- 语言方向：Traditional Chinese -> English
+- 文档场景：上市公司企业年报
+- 公司：AIA GROUP LIMITED
+- 行业：Life Insurance
+- 报告类型：annual_report
+- 当前页面：14
+- 当前输入单元：正文语义组（group）
+
+翻译要求
+- 只翻译当前正文组，不要承担排版、压缩、分块、回填职责。
+- 可以在当前 group 内恢复断句和段落语义，但不得跨 group 补写或删写。
+- 保持上市公司年报文风：正式、稳定、可出版。
+- 数字、百分比、货币、年份、专有名词必须准确。
+- 如术语锁定与原有表达冲突，优先遵守术语锁定和事实锁定。
+
+页面上下文
+- 当前章节：Group Chief Executive and President's Report，类型：ceo_report（页码 12-16）
+- 术语使用模式：table
+- 上一组摘要：代理渠道方面，我們轉移使用線上招聘和入職培訓的趨勢，支持新入職代理及代理主管人數錄得雙位數字增長。
+- 下一组摘要：個月錄得非常強勁的新業務價值增長。
+
+文体与偏好
+- Use US$ for U.S. dollar amounts.
+- Keep listed-company annual report disclosure tone formal and publishable.
+- Do not change numbers, percentages, years, named entities or financial metric values.
+- Use established financial abbreviations for table labels when provided.
+- Keep row and column semantics unchanged.
+
+术语锁定
+- 新業務價值 => VONB [context_term]
+
+事实锁定
+- percentage_28: 28% -> 28%
+
+当前正文组
+- group_id：p14_g08
+- group_bbox：[73.7, 590.75, 527.22, 618.71]
+- 原文：
+雖然疫情大流行期間面對面會議受到限制，導致新業務價值下降28%，但隨著限制放寬，加上各業務採用新的數
+碼工具，新業務價值在下半年已強勁回升。正面銷售動力延續至2021年，與2020年同期比較，代理業務在首兩
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p14_g08",
+      "translation": "<译文>"
+    }
+  ]
+}

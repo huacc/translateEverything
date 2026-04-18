@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p9_b17",
+    "lane": "caption_label",
+    "source_text": "總加權保費收入(5)",
+    "current_translation": "Total Weighted Premium Income(5)"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p9_b17",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

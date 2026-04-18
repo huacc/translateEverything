@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p2_b48",
+      "translation": "AIA's business achievements today can be traced back to"
+    }
+  ]
+}
+```

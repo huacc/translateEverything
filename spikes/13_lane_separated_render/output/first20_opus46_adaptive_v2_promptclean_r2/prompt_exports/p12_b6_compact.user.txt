@@ -1,0 +1,19 @@
+任务
+- unit_id：p12_b6
+- 输入单元：短标签 / 小标题
+
+原文
+憑藉矢志不渝的承諾，我們協助客戶駕馭不明朗的
+
+当前译文
+With unwavering commitment, we help our customers navigate uncertain
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p12_b6",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p9_b37",
+      "translation": "(9) AIA changed its accounting treatment under IFRS for the recognition and measurement of insurance contract liabilities for Hong Kong participating business to reflect expected changes in policyholder bonuses. Comparative information for 2019 has been restated. Comparative information for 2018 and prior years has not been restated."
+    }
+  ]
+}
+```

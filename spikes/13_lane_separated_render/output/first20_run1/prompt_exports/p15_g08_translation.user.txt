@@ -1,0 +1,61 @@
+文档场景：上市保险公司企业年报。
+先满足 fact_locks，再保证术语稳定、语义完整和年报文风。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 15,
+    "page_sections": [
+      {
+        "source_section": "集團首席執行官兼總裁報告",
+        "target_section": "Group Chief Executive and President's Report",
+        "content_type": "ceo_report",
+        "page_range": [
+          12,
+          16
+        ]
+      }
+    ],
+    "term_usage_mode": "overview_narrative",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "友邦保險參與氣候相關財務披露工作小組(Task Force on Climate-related Financial Disclosures)，這個全球組\n織致力就氣候變化影響建立一個自願和一致的披露框架。我們繼續重申對有關建議的承諾...",
+      "next_group_source_excerpt": "資職能。"
+    }
+  },
+  "mapping_hits": [
+    {
+      "source": "環境、社會及管治",
+      "target": "Environmental, Social and Governance",
+      "hit_type": "context_term"
+    },
+    {
+      "source": "友邦保險",
+      "target": "AIA",
+      "hit_type": "glossary_term"
+    }
+  ],
+  "fact_locks": [],
+  "current_group": {
+    "group_id": "p15_g08",
+    "lane": "body",
+    "group_text": "根據評級機構Sustainalytics的評選，友邦保險連續第二年在保險業環境、社會及管治風險管理方面排名第二，\n而在2020年，MSCI上調友邦保險的環境、社會及管治評級至A級，主要由於我們把環境、社會及管治因素融入投",
+    "source_block_ids": [
+      "p15_b25",
+      "p15_b26"
+    ],
+    "source_block_count": 2
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p15_g08",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

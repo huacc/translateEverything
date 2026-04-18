@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 3,
+    "group_id": "p3_b10"
+  },
+  "request": {
+    "model": "claude-opus-4-6",
+    "max_tokens": 4096,
+    "system": "你是上市公司年报表格翻译助手。\n语言方向：Traditional Chinese -> English。\n只负责翻译当前表格单元，不负责排版、回填、压缩。\n保持表格语义和顺序，不要改写成正文。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "任务\n- 语言方向：Traditional Chinese -> English\n- 文档场景：上市公司企业年报\n- 公司：AIA GROUP LIMITED\n- 当前页面：3\n- 当前输入单元：表格单元 / 表格行\n- table_role：row\n\n翻译要求\n- 保持表格语义，不要改写成正文句子。\n- 尽量保持原有行结构和顺序。\n- 数字、百分比、货币、缩写、括号位置必须准确。\n- 不负责排版和回填。\n\n页面上下文\n- 当前章节：AIA At-A-Glance，类型：company_overview\n- 上一组摘要：於2020年內，我們已支付\n逾160億美元\n的保險給付和理賠，\n為客戶提供必不可少的\n財務支援\n- 下一组摘要：2020年報\n001\n\n当前表格输入\n- unit_id：p3_b10\n- 原文行数：4\n- 原文：\n為亞洲大眾提供保障，\n總保額接近\n2萬億美元\n18個市場\n\n输出格式\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p3_b10\",\n      \"translation\": \"<译文>\"\n    }\n  ]\n}"
+      }
+    ],
+    "thinking": {
+      "type": "adaptive"
+    },
+    "output_config": {
+      "effort": "max"
+    }
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p3_b10\",\n      \"translation\": \"Providing protection to the Asian population,\\nwith total sum assured approaching\\nUS$2 trillion\\nacross 18 markets\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "db3f23dd-e906-4411-8ee1-e5f4d19a42c2",
+    "conversation_id": "db3f23dd-e906-4411-8ee1-e5f4d19a42c2",
+    "id": "db3f23dd-e906-4411-8ee1-e5f4d19a42c2",
+    "model": "claude-opus-4-6",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 467,
+      "output_tokens": 63
+    }
+  }
+}

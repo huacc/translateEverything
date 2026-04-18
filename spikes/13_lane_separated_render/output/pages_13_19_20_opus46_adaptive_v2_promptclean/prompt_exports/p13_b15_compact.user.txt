@@ -1,0 +1,19 @@
+任务
+- unit_id：p13_b15
+- 输入单元：短标签 / 小标题
+
+原文
+政策，讓本集團可把握未來的增長機遇，並且保持財務靈活性。
+
+当前译文
+policy, enabling the Group to capture future growth opportunities while maintaining financial flexibility.
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p13_b15",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

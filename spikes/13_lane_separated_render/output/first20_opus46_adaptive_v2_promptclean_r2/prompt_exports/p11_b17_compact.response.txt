@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p11_b17",
+      "translation": "a priority for Board, management and all employees."
+    }
+  ]
+}
+```

@@ -1,0 +1,73 @@
+文档场景：上市保险公司企业年报。
+先满足 fact_locks，再保证术语稳定、语义完整和年报文风。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 14,
+    "page_sections": [
+      {
+        "source_section": "集團首席執行官兼總裁報告",
+        "target_section": "Group Chief Executive and President's Report",
+        "content_type": "ceo_report",
+        "page_range": [
+          12,
+          16
+        ]
+      }
+    ],
+    "term_usage_mode": "table",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "馬來西亞方面，新業務價值全年下降13%，特別反映在上半年嚴格執行的外出限制。下半年新業務價值回升，較\n上半年增長72%。",
+      "next_group_source_excerpt": "中國台灣及印度在2020年較2019年錄得雙位數字增長。"
+    }
+  },
+  "mapping_hits": [
+    {
+      "source": "新業務價值",
+      "target": "VONB",
+      "hit_type": "context_term"
+    }
+  ],
+  "fact_locks": [
+    {
+      "label": "percentage_10",
+      "fact_type": "percentage",
+      "source_value": "10%",
+      "expected_forms": [
+        "10%"
+      ]
+    },
+    {
+      "label": "percentage_4",
+      "fact_type": "percentage",
+      "source_value": "4%",
+      "expected_forms": [
+        "4%"
+      ]
+    }
+  ],
+  "current_group": {
+    "group_id": "p14_g07",
+    "lane": "body",
+    "group_text": "其他市場方面，下半年的新業務價值較上半年上升10%，其中南韓和印尼的回升幅度正面。整體來說，新業務價\n值全年下降4%，主要由於新西蘭、菲律賓及印尼錄得跌幅。其餘的市場均錄得新業務價值正增長，其中越南、",
+    "source_block_ids": [
+      "p14_b22",
+      "p14_b23"
+    ],
+    "source_block_count": 2
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p14_g07",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

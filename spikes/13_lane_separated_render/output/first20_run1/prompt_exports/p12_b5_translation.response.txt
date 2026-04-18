@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p12_b5",
+      "translation": "and adapt swiftly to the rapidly changing business environment, which fills me with pride."
+    }
+  ]
+}
+```

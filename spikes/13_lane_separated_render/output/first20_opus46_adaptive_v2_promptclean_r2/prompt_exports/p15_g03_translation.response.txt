@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p15_g03",
+      "translation": "In October 2020, AIA celebrated the 10th anniversary of its listing on the Hong Kong Stock Exchange by establishing the 'AIA Scholarship', committing US$100 million to support 100 undergraduate students annually at multiple universities in Hong Kong over the coming decades, nurturing the next generation of business leaders."
+    }
+  ]
+}
+```

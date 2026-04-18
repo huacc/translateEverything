@@ -1,0 +1,48 @@
+文档场景：上市公司企业年报
+{
+  "document_background": {
+    "page_sections": [
+      {
+        "source_section": "集團首席執行官兼總裁報告",
+        "target_section": "Group Chief Executive and President's Report",
+        "content_type": "ceo_report",
+        "page_range": [
+          12,
+          16
+        ]
+      }
+    ],
+    "roles": [
+      {
+        "source": "李源祥",
+        "target": "Lee Yuen Cheung",
+        "role": "Group Chief Executive and President"
+      }
+    ],
+    "terms": [],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "Use established financial abbreviations for table labels when provided.",
+      "Keep row and column semantics unchanged.",
+      "Use n/m for 無意義."
+    ]
+  },
+  "current_unit": {
+    "page_no": 14,
+    "unit_id": "p14_g06",
+    "unit_mode": "semantic_group",
+    "slot_count": 2,
+    "source_text": "馬來西亞方面，新業務價值全年下降13%，特別反映在上半年嚴格執行的外出限制。下半年新業務價值回升，較\n上半年增長72%。",
+    "current_translation": "In Malaysia, VONB declined by 13% for the full year, particularly reflecting the strict movement restrictions implemented in the first half. VONB recovered in the second half, growing 72% compared to the first half."
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p14_g06",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

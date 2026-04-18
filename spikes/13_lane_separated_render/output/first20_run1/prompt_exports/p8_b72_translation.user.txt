@@ -1,0 +1,60 @@
+文档场景：上市保险公司企业年报。
+先满足 fact_locks，再保证术语稳定、语义完整和年报文风。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 8,
+    "page_sections": [
+      {
+        "source_section": "概覽",
+        "target_section": "Overview",
+        "content_type": "executive_summary",
+        "page_range": [
+          8,
+          16
+        ]
+      }
+    ],
+    "term_usage_mode": "heading",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "2017\n2018\n2019\n2016",
+      "next_group_source_excerpt": "US$ MILLIONS"
+    }
+  },
+  "mapping_hits": [
+    {
+      "source": "內涵價值權益",
+      "target": "EV Equity",
+      "hit_type": "context_term"
+    },
+    {
+      "source": "內涵價值",
+      "target": "Embedded Value",
+      "hit_type": "context_term"
+    }
+  ],
+  "fact_locks": [],
+  "current_group": {
+    "group_id": "p8_b72",
+    "lane": "body",
+    "group_text": "內涵價值權益(6)\n總資產及總負債(9)",
+    "source_block_ids": [
+      "p8_b72"
+    ],
+    "source_block_count": 1
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p8_b72",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

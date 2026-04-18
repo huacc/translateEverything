@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p9_b38",
+      "translation": "(6) EV is an actuarial estimate of the economic value of life insurance business based on a specific set of assumptions about future experience, excluding the economic value of any future new business. EV Equity is the sum of EV, goodwill and other intangible assets."
+    }
+  ]
+}
+```

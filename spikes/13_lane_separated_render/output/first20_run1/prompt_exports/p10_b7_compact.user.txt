@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p10_b7",
+    "lane": "caption_label",
+    "source_text": "這令我們引以為榮。",
+    "current_translation": "This is a source of great pride for us."
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p10_b7",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

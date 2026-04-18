@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p6_b20",
+    "lane": "caption_label",
+    "source_text": "經濟發展帶來支持，並同時在亞洲區內",
+    "current_translation": "supported by economic development, while at the same time across Asia"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p6_b20",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "model": "claude-opus-4-6",
+  "max_output_tokens": 4096,
+  "compact_threshold": 0.84,
+  "render_dpi": 110,
+  "pages": [
+    13,
+    19,
+    20
+  ],
+  "source_language": "Traditional Chinese",
+  "target_language": "English",
+  "stop_after_stage": 6
+}

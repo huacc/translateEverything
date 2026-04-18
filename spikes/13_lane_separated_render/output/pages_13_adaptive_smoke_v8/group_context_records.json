@@ -1,0 +1,1305 @@
+[
+  {
+    "group_id": "p13_g01",
+    "page_no": 13,
+    "mode": "semantic_group",
+    "lane": "body",
+    "block_ids": [
+      "p13_b1",
+      "p13_b2"
+    ],
+    "group_text": "友邦保險是客戶誠可信賴的夥伴，讓客戶在關注財務安全和家庭保障時仍可安心無憂。儘管2019冠狀病毒病大\n流行的影響深遠，但我衷心感謝我們的員工、代理和合作夥伴在適應新工作方式並確保為客戶提供無間斷的支援",
+    "group_bbox": [
+      68.03,
+      94.7,
+      524.09,
+      122.65
+    ],
+    "page_sections": [
+      {
+        "source_section": "集團首席執行官兼總裁報告",
+        "target_section": "Group Chief Executive and President's Report",
+        "content_type": "ceo_report",
+        "page_range": [
+          12,
+          16
+        ]
+      }
+    ],
+    "global_profile": {
+      "company_name_target": "AIA GROUP LIMITED",
+      "industry": "Life Insurance",
+      "report_type": "annual_report",
+      "report_year": 2020
+    },
+    "term_usage_mode": "overview_narrative",
+    "roles": [
+      {
+        "source": "李源祥",
+        "target": "Lee Yuen Cheung",
+        "role": "Group Chief Executive and President"
+      }
+    ],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "For overview narrative, use full financial metric name plus abbreviation when provided.",
+      "For financial review and business metrics narrative, use established abbreviations when provided.",
+      "Prefer AIA China / AIA Hong Kong / AIA Macau over loose paraphrases when matched."
+    ],
+    "mapping_hits": [
+      {
+        "group_id": "p13_g01",
+        "page_no": 13,
+        "source": "2019冠狀病毒病",
+        "target": "COVID-19",
+        "hit_type": "context_term",
+        "source_block_ids": [
+          "p13_b1"
+        ],
+        "evidence": "友邦保險是客戶誠可信賴的夥伴，讓客戶在關注財務安全和家庭保障時仍可安心無憂。儘管2019冠狀病毒病大\n流行的影響深遠，但我衷心感謝我們的員工、代理和合作夥伴在適應新工作方式並確保為客戶提供無間斷的支援"
+      },
+      {
+        "group_id": "p13_g01",
+        "page_no": 13,
+        "source": "友邦保險",
+        "target": "AIA",
+        "hit_type": "glossary_term",
+        "source_block_ids": [
+          "p13_b1"
+        ],
+        "evidence": "友邦保險是客戶誠可信賴的夥伴，讓客戶在關注財務安全和家庭保障時仍可安心無憂。儘管2019冠狀病毒病大\n流行的影響深遠，但我衷心感謝我們的員工、代理和合作夥伴在適應新工作方式並確保為客戶提供無間斷的支援"
+      }
+    ],
+    "fact_locks": [],
+    "neighbor_context": {
+      "previous_group_source_excerpt": "",
+      "next_group_source_excerpt": "時，展現靈活應變的能力和克盡己職的精神。"
+    }
+  },
+  {
+    "group_id": "p13_b3",
+    "page_no": 13,
+    "mode": "single_block",
+    "lane": "caption_label",
+    "block_ids": [
+      "p13_b3"
+    ],
+    "group_text": "時，展現靈活應變的能力和克盡己職的精神。",
+    "group_bbox": [
+      68.03,
+      126.7,
+      252.3,
+      138.65
+    ],
+    "page_sections": [
+      {
+        "source_section": "集團首席執行官兼總裁報告",
+        "target_section": "Group Chief Executive and President's Report",
+        "content_type": "ceo_report",
+        "page_range": [
+          12,
+          16
+        ]
+      }
+    ],
+    "global_profile": {
+      "company_name_target": "AIA GROUP LIMITED",
+      "industry": "Life Insurance",
+      "report_type": "annual_report",
+      "report_year": 2020
+    },
+    "term_usage_mode": "heading",
+    "roles": [
+      {
+        "source": "李源祥",
+        "target": "Lee Yuen Cheung",
+        "role": "Group Chief Executive and President"
+      }
+    ],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "Keep headings short, stable and standard.",
+      "Prefer established annual report section names over free paraphrase."
+    ],
+    "mapping_hits": [],
+    "fact_locks": [],
+    "neighbor_context": {
+      "previous_group_source_excerpt": "友邦保險是客戶誠可信賴的夥伴，讓客戶在關注財務安全和家庭保障時仍可安心無憂。儘管2019冠狀病毒病大\n流行的影響深遠，但我衷心感謝我們的員工、代理和合作夥伴在適應新工作方式並確保為客戶提供無間斷的支援",
+      "next_group_source_excerpt": "自疫情大流行開始以來，本集團的各業務團隊反應迅速，積極協助紓緩對社區的影響，同時確保員工安全。本集\n團為此廣泛採取多項措拖，包括財政支持、提供醫療物資、免費保障覆蓋、獲取醫療保健資源、精簡服務流程和\n加快理賠支付，令我引以為榮。我們一..."
+    }
+  },
+  {
+    "group_id": "p13_b4",
+    "page_no": 13,
+    "mode": "single_block",
+    "lane": "sidebar_excluded",
+    "block_ids": [
+      "p13_b4"
+    ],
+    "group_text": "概覽\n財務及營運回顧\n企業管治\n其他資料\n財務報表",
+    "group_bbox": [
+      574.29,
+      134.93,
+      585.38,
+      715.59
+    ],
+    "page_sections": [
+      {
+        "source_section": "集團首席執行官兼總裁報告",
+        "target_section": "Group Chief Executive and President's Report",
+        "content_type": "ceo_report",
+        "page_range": [
+          12,
+          16
+        ]
+      }
+    ],
+    "global_profile": {
+      "company_name_target": "AIA GROUP LIMITED",
+      "industry": "Life Insurance",
+      "report_type": "annual_report",
+      "report_year": 2020
+    },
+    "term_usage_mode": "overview_narrative",
+    "roles": [
+      {
+        "source": "李源祥",
+        "target": "Lee Yuen Cheung",
+        "role": "Group Chief Executive and President"
+      }
+    ],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "For overview narrative, use full financial metric name plus abbreviation when provided.",
+      "For financial review and business metrics narrative, use established abbreviations when provided.",
+      "Prefer AIA China / AIA Hong Kong / AIA Macau over loose paraphrases when matched."
+    ],
+    "mapping_hits": [],
+    "fact_locks": [],
+    "neighbor_context": {
+      "previous_group_source_excerpt": "時，展現靈活應變的能力和克盡己職的精神。",
+      "next_group_source_excerpt": "自疫情大流行開始以來，本集團的各業務團隊反應迅速，積極協助紓緩對社區的影響，同時確保員工安全。本集\n團為此廣泛採取多項措拖，包括財政支持、提供醫療物資、免費保障覆蓋、獲取醫療保健資源、精簡服務流程和\n加快理賠支付，令我引以為榮。我們一..."
+    }
+  },
+  {
+    "group_id": "p13_g02",
+    "page_no": 13,
+    "mode": "semantic_group",
+    "lane": "body",
+    "block_ids": [
+      "p13_b5",
+      "p13_b6",
+      "p13_b7"
+    ],
+    "group_text": "自疫情大流行開始以來，本集團的各業務團隊反應迅速，積極協助紓緩對社區的影響，同時確保員工安全。本集\n團為此廣泛採取多項措拖，包括財政支持、提供醫療物資、免費保障覆蓋、獲取醫療保健資源、精簡服務流程和\n加快理賠支付，令我引以為榮。我們一如既往找出每一個可以作出理賠的理由，年內已支付逾160億美元的保險",
+    "group_bbox": [
+      68.03,
+      158.71,
+      521.58,
+      202.66
+    ],
+    "page_sections": [
+      {
+        "source_section": "集團首席執行官兼總裁報告",
+        "target_section": "Group Chief Executive and President's Report",
+        "content_type": "ceo_report",
+        "page_range": [
+          12,
+          16
+        ]
+      }
+    ],
+    "global_profile": {
+      "company_name_target": "AIA GROUP LIMITED",
+      "industry": "Life Insurance",
+      "report_type": "annual_report",
+      "report_year": 2020
+    },
+    "term_usage_mode": "overview_narrative",
+    "roles": [
+      {
+        "source": "李源祥",
+        "target": "Lee Yuen Cheung",
+        "role": "Group Chief Executive and President"
+      }
+    ],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "For overview narrative, use full financial metric name plus abbreviation when provided.",
+      "For financial review and business metrics narrative, use established abbreviations when provided.",
+      "Prefer AIA China / AIA Hong Kong / AIA Macau over loose paraphrases when matched."
+    ],
+    "mapping_hits": [],
+    "fact_locks": [
+      {
+        "group_id": "p13_g02",
+        "page_no": 13,
+        "label": "usd_amount_160",
+        "fact_type": "usd_scaled_amount",
+        "source_value": "160億美元",
+        "expected_forms": [
+          "US$16 billion",
+          "US$16000 million",
+          "US$16,000 million"
+        ],
+        "expected_numbers": [
+          "16",
+          "16000"
+        ],
+        "required_keywords": [],
+        "source_block_ids": [
+          "p13_b5",
+          "p13_b6",
+          "p13_b7"
+        ],
+        "source_evidence_text": "我們一如既往找出每一個可以作出理賠的理由，年內已支付逾160億美元的保險",
+        "importance": "medium",
+        "validate": false
+      }
+    ],
+    "neighbor_context": {
+      "previous_group_source_excerpt": "時，展現靈活應變的能力和克盡己職的精神。",
+      "next_group_source_excerpt": "給付及理賠，為客戶提供極其重要的財務保障。"
+    }
+  },
+  {
+    "group_id": "p13_b8",
+    "page_no": 13,
+    "mode": "single_block",
+    "lane": "caption_label",
+    "block_ids": [
+      "p13_b8"
+    ],
+    "group_text": "給付及理賠，為客戶提供極其重要的財務保障。",
+    "group_bbox": [
+      68.03,
+      206.71,
+      261.53,
+      218.66
+    ],
+    "page_sections": [
+      {
+        "source_section": "集團首席執行官兼總裁報告",
+        "target_section": "Group Chief Executive and President's Report",
+        "content_type": "ceo_report",
+        "page_range": [
+          12,
+          16
+        ]
+      }
+    ],
+    "global_profile": {
+      "company_name_target": "AIA GROUP LIMITED",
+      "industry": "Life Insurance",
+      "report_type": "annual_report",
+      "report_year": 2020
+    },
+    "term_usage_mode": "heading",
+    "roles": [
+      {
+        "source": "李源祥",
+        "target": "Lee Yuen Cheung",
+        "role": "Group Chief Executive and President"
+      }
+    ],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "Keep headings short, stable and standard.",
+      "Prefer established annual report section names over free paraphrase."
+    ],
+    "mapping_hits": [],
+    "fact_locks": [],
+    "neighbor_context": {
+      "previous_group_source_excerpt": "自疫情大流行開始以來，本集團的各業務團隊反應迅速，積極協助紓緩對社區的影響，同時確保員工安全。本集\n團為此廣泛採取多項措拖，包括財政支持、提供醫療物資、免費保障覆蓋、獲取醫療保健資源、精簡服務流程和\n加快理賠支付，令我引以為榮。我們一...",
+      "next_group_source_excerpt": "儘管為遏制2019冠狀病毒病傳播的措施導致新業務價值減少至27.65億美元，但隨著外出限制放寬，銷售動力轉\n趨正面，並在2021年展開非常強勁的勢頭，首兩個月的新業務價值按年增長15%。我們規模龐大和持續增長的有\n效保單組合所帶來的高..."
+    }
+  },
+  {
+    "group_id": "p13_g03",
+    "page_no": 13,
+    "mode": "semantic_group",
+    "lane": "body",
+    "block_ids": [
+      "p13_b9",
+      "p13_b10",
+      "p13_b11",
+      "p13_b12"
+    ],
+    "group_text": "儘管為遏制2019冠狀病毒病傳播的措施導致新業務價值減少至27.65億美元，但隨著外出限制放寬，銷售動力轉\n趨正面，並在2021年展開非常強勁的勢頭，首兩個月的新業務價值按年增長15%。我們規模龐大和持續增長的有\n效保單組合所帶來的高質素和經常性收入來源，帶動2020年稅後營運溢利增加5%，期內產生的基本自由盈餘則\n增長7%。截至2020年12月31日，內涵價值權益創新高，達672億美元，集團當地資本總和法覆蓋率為374%，足",
+    "group_bbox": [
+      68.03,
+      238.72,
+      521.59,
+      298.67
+    ],
+    "page_sections": [
+      {
+        "source_section": "集團首席執行官兼總裁報告",
+        "target_section": "Group Chief Executive and President's Report",
+        "content_type": "ceo_report",
+        "page_range": [
+          12,
+          16
+        ]
+      }
+    ],
+    "global_profile": {
+      "company_name_target": "AIA GROUP LIMITED",
+      "industry": "Life Insurance",
+      "report_type": "annual_report",
+      "report_year": 2020
+    },
+    "term_usage_mode": "table",
+    "roles": [
+      {
+        "source": "李源祥",
+        "target": "Lee Yuen Cheung",
+        "role": "Group Chief Executive and President"
+      }
+    ],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "Use established financial abbreviations for table labels when provided.",
+      "Keep row and column semantics unchanged.",
+      "Use n/m for 無意義."
+    ],
+    "mapping_hits": [
+      {
+        "group_id": "p13_g03",
+        "page_no": 13,
+        "source": "新業務價值",
+        "target": "VONB",
+        "hit_type": "context_term",
+        "source_block_ids": [
+          "p13_b9",
+          "p13_b10"
+        ],
+        "evidence": "儘管為遏制2019冠狀病毒病傳播的措施導致新業務價值減少至27.65億美元，但隨著外出限制放寬，銷售動力轉\n趨正面，並在2021年展開非常強勁的勢頭，首兩個月的新業務價值按年增長15%。我們規模龐大和持續增長的有\n效保單組合所帶來的高質素和經常性收入來源，帶動2020年稅後營運溢利增加5%，期內產生的基本自由盈餘則\n增"
+      },
+      {
+        "group_id": "p13_g03",
+        "page_no": 13,
+        "source": "稅後營運溢利",
+        "target": "OPAT",
+        "hit_type": "context_term",
+        "source_block_ids": [
+          "p13_b11"
+        ],
+        "evidence": "儘管為遏制2019冠狀病毒病傳播的措施導致新業務價值減少至27.65億美元，但隨著外出限制放寬，銷售動力轉\n趨正面，並在2021年展開非常強勁的勢頭，首兩個月的新業務價值按年增長15%。我們規模龐大和持續增長的有\n效保單組合所帶來的高質素和經常性收入來源，帶動2020年稅後營運溢利增加5%，期內產生的基本自由盈餘則\n增"
+      },
+      {
+        "group_id": "p13_g03",
+        "page_no": 13,
+        "source": "產生的基本自由盈餘",
+        "target": "UFSG",
+        "hit_type": "context_term",
+        "source_block_ids": [
+          "p13_b11"
+        ],
+        "evidence": "儘管為遏制2019冠狀病毒病傳播的措施導致新業務價值減少至27.65億美元，但隨著外出限制放寬，銷售動力轉\n趨正面，並在2021年展開非常強勁的勢頭，首兩個月的新業務價值按年增長15%。我們規模龐大和持續增長的有\n效保單組合所帶來的高質素和經常性收入來源，帶動2020年稅後營運溢利增加5%，期內產生的基本自由盈餘則\n增"
+      },
+      {
+        "group_id": "p13_g03",
+        "page_no": 13,
+        "source": "自由盈餘",
+        "target": "Free Surplus",
+        "hit_type": "context_term",
+        "source_block_ids": [
+          "p13_b11"
+        ],
+        "evidence": "儘管為遏制2019冠狀病毒病傳播的措施導致新業務價值減少至27.65億美元，但隨著外出限制放寬，銷售動力轉\n趨正面，並在2021年展開非常強勁的勢頭，首兩個月的新業務價值按年增長15%。我們規模龐大和持續增長的有\n效保單組合所帶來的高質素和經常性收入來源，帶動2020年稅後營運溢利增加5%，期內產生的基本自由盈餘則\n增"
+      },
+      {
+        "group_id": "p13_g03",
+        "page_no": 13,
+        "source": "內涵價值權益",
+        "target": "EV Equity",
+        "hit_type": "context_term",
+        "source_block_ids": [
+          "p13_b12"
+        ],
+        "evidence": "儘管為遏制2019冠狀病毒病傳播的措施導致新業務價值減少至27.65億美元，但隨著外出限制放寬，銷售動力轉\n趨正面，並在2021年展開非常強勁的勢頭，首兩個月的新業務價值按年增長15%。我們規模龐大和持續增長的有\n效保單組合所帶來的高質素和經常性收入來源，帶動2020年稅後營運溢利增加5%，期內產生的基本自由盈餘則\n增"
+      },
+      {
+        "group_id": "p13_g03",
+        "page_no": 13,
+        "source": "內涵價值",
+        "target": "EV",
+        "hit_type": "context_term",
+        "source_block_ids": [
+          "p13_b12"
+        ],
+        "evidence": "儘管為遏制2019冠狀病毒病傳播的措施導致新業務價值減少至27.65億美元，但隨著外出限制放寬，銷售動力轉\n趨正面，並在2021年展開非常強勁的勢頭，首兩個月的新業務價值按年增長15%。我們規模龐大和持續增長的有\n效保單組合所帶來的高質素和經常性收入來源，帶動2020年稅後營運溢利增加5%，期內產生的基本自由盈餘則\n增"
+      },
+      {
+        "group_id": "p13_g03",
+        "page_no": 13,
+        "source": "集團當地資本總和法覆蓋率",
+        "target": "Group LCSM cover ratio",
+        "hit_type": "context_term",
+        "source_block_ids": [
+          "p13_b12"
+        ],
+        "evidence": "儘管為遏制2019冠狀病毒病傳播的措施導致新業務價值減少至27.65億美元，但隨著外出限制放寬，銷售動力轉\n趨正面，並在2021年展開非常強勁的勢頭，首兩個月的新業務價值按年增長15%。我們規模龐大和持續增長的有\n效保單組合所帶來的高質素和經常性收入來源，帶動2020年稅後營運溢利增加5%，期內產生的基本自由盈餘則\n增"
+      },
+      {
+        "group_id": "p13_g03",
+        "page_no": 13,
+        "source": "2019冠狀病毒病",
+        "target": "COVID-19",
+        "hit_type": "context_term",
+        "source_block_ids": [
+          "p13_b9"
+        ],
+        "evidence": "儘管為遏制2019冠狀病毒病傳播的措施導致新業務價值減少至27.65億美元，但隨著外出限制放寬，銷售動力轉\n趨正面，並在2021年展開非常強勁的勢頭，首兩個月的新業務價值按年增長15%。我們規模龐大和持續增長的有\n效保單組合所帶來的高質素和經常性收入來源，帶動2020年稅後營運溢利增加5%，期內產生的基本自由盈餘則\n增"
+      }
+    ],
+    "fact_locks": [
+      {
+        "group_id": "p13_g03",
+        "page_no": 13,
+        "label": "date_2020",
+        "fact_type": "date",
+        "source_value": "截至2020年12月31日",
+        "expected_forms": [
+          "31 12 2020"
+        ],
+        "expected_numbers": [
+          "2020",
+          "12",
+          "31"
+        ],
+        "required_keywords": [],
+        "source_block_ids": [
+          "p13_b9",
+          "p13_b10",
+          "p13_b11",
+          "p13_b12"
+        ],
+        "source_evidence_text": "截至2020年12月31日，內涵價值權益創新高，達672億美元，集團當地資本總和法覆蓋率為374%，足",
+        "importance": "medium",
+        "validate": false
+      },
+      {
+        "group_id": "p13_g03",
+        "page_no": 13,
+        "label": "usd_amount_27.65",
+        "fact_type": "usd_scaled_amount",
+        "source_value": "27.65億美元",
+        "expected_forms": [
+          "US$2.765 billion",
+          "US$2765 million",
+          "US$2,765 million"
+        ],
+        "expected_numbers": [
+          "2.765",
+          "2765"
+        ],
+        "required_keywords": [],
+        "source_block_ids": [
+          "p13_b9",
+          "p13_b10",
+          "p13_b11",
+          "p13_b12"
+        ],
+        "source_evidence_text": "儘管為遏制2019冠狀病毒病傳播的措施導致新業務價值減少至27.65億美元，但隨著外出限制放寬，銷售動力轉趨正面，並在2021年展開非常強勁的勢頭，首兩個月的新業務價值按年增長15%",
+        "importance": "medium",
+        "validate": false
+      },
+      {
+        "group_id": "p13_g03",
+        "page_no": 13,
+        "label": "ev_equity_usd",
+        "fact_type": "usd_scaled_amount",
+        "source_value": "672億美元",
+        "expected_forms": [
+          "US$67.2 billion",
+          "US$67200 million",
+          "US$67,200 million"
+        ],
+        "expected_numbers": [
+          "67.2",
+          "67200"
+        ],
+        "required_keywords": [
+          "embedded value",
+          "ev equity"
+        ],
+        "source_block_ids": [
+          "p13_b9",
+          "p13_b10",
+          "p13_b11",
+          "p13_b12"
+        ],
+        "source_evidence_text": "截至2020年12月31日，內涵價值權益創新高，達672億美元，集團當地資本總和法覆蓋率為374%，足",
+        "importance": "high",
+        "validate": true
+      },
+      {
+        "group_id": "p13_g03",
+        "page_no": 13,
+        "label": "percentage_15",
+        "fact_type": "percentage",
+        "source_value": "15%",
+        "expected_forms": [
+          "15%"
+        ],
+        "expected_numbers": [
+          "15"
+        ],
+        "required_keywords": [],
+        "source_block_ids": [
+          "p13_b9",
+          "p13_b10",
+          "p13_b11",
+          "p13_b12"
+        ],
+        "source_evidence_text": "儘管為遏制2019冠狀病毒病傳播的措施導致新業務價值減少至27.65億美元，但隨著外出限制放寬，銷售動力轉趨正面，並在2021年展開非常強勁的勢頭，首兩個月的新業務價值按年增長15%",
+        "importance": "low",
+        "validate": false
+      },
+      {
+        "group_id": "p13_g03",
+        "page_no": 13,
+        "label": "percentage_5",
+        "fact_type": "percentage",
+        "source_value": "5%",
+        "expected_forms": [
+          "5%"
+        ],
+        "expected_numbers": [
+          "5"
+        ],
+        "required_keywords": [],
+        "source_block_ids": [
+          "p13_b9",
+          "p13_b10",
+          "p13_b11",
+          "p13_b12"
+        ],
+        "source_evidence_text": "我們規模龐大和持續增長的有效保單組合所帶來的高質素和經常性收入來源，帶動2020年稅後營運溢利增加5%，期內產生的基本自由盈餘則增長7%",
+        "importance": "low",
+        "validate": false
+      },
+      {
+        "group_id": "p13_g03",
+        "page_no": 13,
+        "label": "percentage_7",
+        "fact_type": "percentage",
+        "source_value": "7%",
+        "expected_forms": [
+          "7%"
+        ],
+        "expected_numbers": [
+          "7"
+        ],
+        "required_keywords": [],
+        "source_block_ids": [
+          "p13_b9",
+          "p13_b10",
+          "p13_b11",
+          "p13_b12"
+        ],
+        "source_evidence_text": "我們規模龐大和持續增長的有效保單組合所帶來的高質素和經常性收入來源，帶動2020年稅後營運溢利增加5%，期內產生的基本自由盈餘則增長7%",
+        "importance": "low",
+        "validate": false
+      },
+      {
+        "group_id": "p13_g03",
+        "page_no": 13,
+        "label": "group_lcsm_cover_ratio_pct",
+        "fact_type": "percentage",
+        "source_value": "374%",
+        "expected_forms": [
+          "374%"
+        ],
+        "expected_numbers": [
+          "374"
+        ],
+        "required_keywords": [],
+        "source_block_ids": [
+          "p13_b9",
+          "p13_b10",
+          "p13_b11",
+          "p13_b12"
+        ],
+        "source_evidence_text": "截至2020年12月31日，內涵價值權益創新高，達672億美元，集團當地資本總和法覆蓋率為374%，足",
+        "importance": "medium",
+        "validate": true
+      }
+    ],
+    "neighbor_context": {
+      "previous_group_source_excerpt": "給付及理賠，為客戶提供極其重要的財務保障。",
+      "next_group_source_excerpt": "證我們雄厚的資本實力和嚴謹的財務管理。"
+    }
+  },
+  {
+    "group_id": "p13_b13",
+    "page_no": 13,
+    "mode": "single_block",
+    "lane": "caption_label",
+    "block_ids": [
+      "p13_b13"
+    ],
+    "group_text": "證我們雄厚的資本實力和嚴謹的財務管理。",
+    "group_bbox": [
+      68.04,
+      302.72,
+      243.09,
+      314.68
+    ],
+    "page_sections": [
+      {
+        "source_section": "集團首席執行官兼總裁報告",
+        "target_section": "Group Chief Executive and President's Report",
+        "content_type": "ceo_report",
+        "page_range": [
+          12,
+          16
+        ]
+      }
+    ],
+    "global_profile": {
+      "company_name_target": "AIA GROUP LIMITED",
+      "industry": "Life Insurance",
+      "report_type": "annual_report",
+      "report_year": 2020
+    },
+    "term_usage_mode": "heading",
+    "roles": [
+      {
+        "source": "李源祥",
+        "target": "Lee Yuen Cheung",
+        "role": "Group Chief Executive and President"
+      }
+    ],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "Keep headings short, stable and standard.",
+      "Prefer established annual report section names over free paraphrase."
+    ],
+    "mapping_hits": [],
+    "fact_locks": [],
+    "neighbor_context": {
+      "previous_group_source_excerpt": "儘管為遏制2019冠狀病毒病傳播的措施導致新業務價值減少至27.65億美元，但隨著外出限制放寬，銷售動力轉\n趨正面，並在2021年展開非常強勁的勢頭，首兩個月的新業務價值按年增長15%。我們規模龐大和持續增長的有\n效保單組合所帶來的高...",
+      "next_group_source_excerpt": "董事會建議2020年末期股息增加7.5%至每股100.30港仙。這秉承友邦保險行之已久的審慎、可持續及漸進的派息"
+    }
+  },
+  {
+    "group_id": "p13_b14",
+    "page_no": 13,
+    "mode": "single_block",
+    "lane": "body",
+    "block_ids": [
+      "p13_b14"
+    ],
+    "group_text": "董事會建議2020年末期股息增加7.5%至每股100.30港仙。這秉承友邦保險行之已久的審慎、可持續及漸進的派息",
+    "group_bbox": [
+      68.04,
+      334.73,
+      521.51,
+      346.68
+    ],
+    "page_sections": [
+      {
+        "source_section": "集團首席執行官兼總裁報告",
+        "target_section": "Group Chief Executive and President's Report",
+        "content_type": "ceo_report",
+        "page_range": [
+          12,
+          16
+        ]
+      }
+    ],
+    "global_profile": {
+      "company_name_target": "AIA GROUP LIMITED",
+      "industry": "Life Insurance",
+      "report_type": "annual_report",
+      "report_year": 2020
+    },
+    "term_usage_mode": "table",
+    "roles": [
+      {
+        "source": "李源祥",
+        "target": "Lee Yuen Cheung",
+        "role": "Group Chief Executive and President"
+      }
+    ],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "Use established financial abbreviations for table labels when provided.",
+      "Keep row and column semantics unchanged.",
+      "Use n/m for 無意義."
+    ],
+    "mapping_hits": [
+      {
+        "group_id": "p13_b14",
+        "page_no": 13,
+        "source": "友邦保險",
+        "target": "AIA",
+        "hit_type": "glossary_term",
+        "source_block_ids": [
+          "p13_b14"
+        ],
+        "evidence": "董事會建議2020年末期股息增加7.5%至每股100.30港仙。這秉承友邦保險行之已久的審慎、可持續及漸進的派息"
+      }
+    ],
+    "fact_locks": [
+      {
+        "group_id": "p13_b14",
+        "page_no": 13,
+        "label": "final_dividend_per_share",
+        "fact_type": "hk_cents_per_share",
+        "source_value": "100.30港仙",
+        "expected_forms": [
+          "100.30 Hong Kong cents per share"
+        ],
+        "expected_numbers": [
+          "100.30"
+        ],
+        "required_keywords": [
+          "final dividend"
+        ],
+        "source_block_ids": [
+          "p13_b14"
+        ],
+        "source_evidence_text": "董事會建議2020年末期股息增加7.5%至每股100.30港仙",
+        "importance": "high",
+        "validate": true
+      },
+      {
+        "group_id": "p13_b14",
+        "page_no": 13,
+        "label": "percentage_7.5",
+        "fact_type": "percentage",
+        "source_value": "7.5%",
+        "expected_forms": [
+          "7.5%"
+        ],
+        "expected_numbers": [
+          "7.5"
+        ],
+        "required_keywords": [],
+        "source_block_ids": [
+          "p13_b14"
+        ],
+        "source_evidence_text": "董事會建議2020年末期股息增加7.5%至每股100.30港仙",
+        "importance": "low",
+        "validate": false
+      }
+    ],
+    "neighbor_context": {
+      "previous_group_source_excerpt": "證我們雄厚的資本實力和嚴謹的財務管理。",
+      "next_group_source_excerpt": "政策，讓本集團可把握未來的增長機遇，並且保持財務靈活性。"
+    }
+  },
+  {
+    "group_id": "p13_b15",
+    "page_no": 13,
+    "mode": "single_block",
+    "lane": "caption_label",
+    "block_ids": [
+      "p13_b15"
+    ],
+    "group_text": "政策，讓本集團可把握未來的增長機遇，並且保持財務靈活性。",
+    "group_bbox": [
+      68.04,
+      350.73,
+      326.12,
+      362.68
+    ],
+    "page_sections": [
+      {
+        "source_section": "集團首席執行官兼總裁報告",
+        "target_section": "Group Chief Executive and President's Report",
+        "content_type": "ceo_report",
+        "page_range": [
+          12,
+          16
+        ]
+      }
+    ],
+    "global_profile": {
+      "company_name_target": "AIA GROUP LIMITED",
+      "industry": "Life Insurance",
+      "report_type": "annual_report",
+      "report_year": 2020
+    },
+    "term_usage_mode": "heading",
+    "roles": [
+      {
+        "source": "李源祥",
+        "target": "Lee Yuen Cheung",
+        "role": "Group Chief Executive and President"
+      }
+    ],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "Keep headings short, stable and standard.",
+      "Prefer established annual report section names over free paraphrase."
+    ],
+    "mapping_hits": [],
+    "fact_locks": [],
+    "neighbor_context": {
+      "previous_group_source_excerpt": "董事會建議2020年末期股息增加7.5%至每股100.30港仙。這秉承友邦保險行之已久的審慎、可持續及漸進的派息",
+      "next_group_source_excerpt": "友邦保險具有多項顯著優勢，讓我們在競爭激烈的市場別樹一幟。我們在亞洲經營數十載，擁有區內無可比擬的\n平台，並於我們業務所在的大部分市場雄踞領導地位。我們始終如一地百分百專注於亞洲市場，有助我們在全球\n最具吸引力的壽險業地區全面把握增長..."
+    }
+  },
+  {
+    "group_id": "p13_g04",
+    "page_no": 13,
+    "mode": "semantic_group",
+    "lane": "body",
+    "block_ids": [
+      "p13_b16",
+      "p13_b17",
+      "p13_b18"
+    ],
+    "group_text": "友邦保險具有多項顯著優勢，讓我們在競爭激烈的市場別樹一幟。我們在亞洲經營數十載，擁有區內無可比擬的\n平台，並於我們業務所在的大部分市場雄踞領導地位。我們始終如一地百分百專注於亞洲市場，有助我們在全球\n最具吸引力的壽險業地區全面把握增長機遇。這份專注結合我們領導團隊在亞洲的豐富經驗及員工的優秀質素，",
+    "group_bbox": [
+      68.04,
+      382.73,
+      521.5,
+      426.69
+    ],
+    "page_sections": [
+      {
+        "source_section": "集團首席執行官兼總裁報告",
+        "target_section": "Group Chief Executive and President's Report",
+        "content_type": "ceo_report",
+        "page_range": [
+          12,
+          16
+        ]
+      }
+    ],
+    "global_profile": {
+      "company_name_target": "AIA GROUP LIMITED",
+      "industry": "Life Insurance",
+      "report_type": "annual_report",
+      "report_year": 2020
+    },
+    "term_usage_mode": "overview_narrative",
+    "roles": [
+      {
+        "source": "李源祥",
+        "target": "Lee Yuen Cheung",
+        "role": "Group Chief Executive and President"
+      }
+    ],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "For overview narrative, use full financial metric name plus abbreviation when provided.",
+      "For financial review and business metrics narrative, use established abbreviations when provided.",
+      "Prefer AIA China / AIA Hong Kong / AIA Macau over loose paraphrases when matched."
+    ],
+    "mapping_hits": [
+      {
+        "group_id": "p13_g04",
+        "page_no": 13,
+        "source": "友邦保險",
+        "target": "AIA",
+        "hit_type": "glossary_term",
+        "source_block_ids": [
+          "p13_b16"
+        ],
+        "evidence": "友邦保險具有多項顯著優勢，讓我們在競爭激烈的市場別樹一幟。我們在亞洲經營數十載，擁有區內無可比擬的\n平台，並於我們業務所在的大部分市場雄踞領導地位。我們始終如一地百分百專注於亞洲市場，有助我們在全球\n最具吸引力的壽險業地區全面把握增長機遇。這份專注結合我們領導團隊在亞洲的豐富經驗及員工的優秀質素，"
+      }
+    ],
+    "fact_locks": [],
+    "neighbor_context": {
+      "previous_group_source_excerpt": "政策，讓本集團可把握未來的增長機遇，並且保持財務靈活性。",
+      "next_group_source_excerpt": "一直是我們表現卓越的重要動力。"
+    }
+  },
+  {
+    "group_id": "p13_b19",
+    "page_no": 13,
+    "mode": "single_block",
+    "lane": "caption_label",
+    "block_ids": [
+      "p13_b19"
+    ],
+    "group_text": "一直是我們表現卓越的重要動力。",
+    "group_bbox": [
+      68.04,
+      430.74,
+      206.19,
+      442.69
+    ],
+    "page_sections": [
+      {
+        "source_section": "集團首席執行官兼總裁報告",
+        "target_section": "Group Chief Executive and President's Report",
+        "content_type": "ceo_report",
+        "page_range": [
+          12,
+          16
+        ]
+      }
+    ],
+    "global_profile": {
+      "company_name_target": "AIA GROUP LIMITED",
+      "industry": "Life Insurance",
+      "report_type": "annual_report",
+      "report_year": 2020
+    },
+    "term_usage_mode": "heading",
+    "roles": [
+      {
+        "source": "李源祥",
+        "target": "Lee Yuen Cheung",
+        "role": "Group Chief Executive and President"
+      }
+    ],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "Keep headings short, stable and standard.",
+      "Prefer established annual report section names over free paraphrase."
+    ],
+    "mapping_hits": [],
+    "fact_locks": [],
+    "neighbor_context": {
+      "previous_group_source_excerpt": "友邦保險具有多項顯著優勢，讓我們在競爭激烈的市場別樹一幟。我們在亞洲經營數十載，擁有區內無可比擬的\n平台，並於我們業務所在的大部分市場雄踞領導地位。我們始終如一地百分百專注於亞洲市場，有助我們在全球\n最具吸引力的壽險業地區全面把握增長...",
+      "next_group_source_excerpt": "我們無可比擬的分銷實力能直接接觸客戶，並提供高質素的專業建議，協助滿足亞洲消費者龐大且日益增長的長\n期保障和儲蓄需求。如今大眾比以往更期望企業能以符合長遠可持續發展的方式應對他們的需要。友邦保險擁有\n市場領先的品牌，以幫助大眾實踐健康..."
+    }
+  },
+  {
+    "group_id": "p13_g05",
+    "page_no": 13,
+    "mode": "semantic_group",
+    "lane": "body",
+    "block_ids": [
+      "p13_b20",
+      "p13_b21",
+      "p13_b22"
+    ],
+    "group_text": "我們無可比擬的分銷實力能直接接觸客戶，並提供高質素的專業建議，協助滿足亞洲消費者龐大且日益增長的長\n期保障和儲蓄需求。如今大眾比以往更期望企業能以符合長遠可持續發展的方式應對他們的需要。友邦保險擁有\n市場領先的品牌，以幫助大眾實踐健康、長久、好生活的目標為基礎。",
+    "group_bbox": [
+      68.04,
+      462.74,
+      521.5,
+      506.7
+    ],
+    "page_sections": [
+      {
+        "source_section": "集團首席執行官兼總裁報告",
+        "target_section": "Group Chief Executive and President's Report",
+        "content_type": "ceo_report",
+        "page_range": [
+          12,
+          16
+        ]
+      }
+    ],
+    "global_profile": {
+      "company_name_target": "AIA GROUP LIMITED",
+      "industry": "Life Insurance",
+      "report_type": "annual_report",
+      "report_year": 2020
+    },
+    "term_usage_mode": "overview_narrative",
+    "roles": [
+      {
+        "source": "李源祥",
+        "target": "Lee Yuen Cheung",
+        "role": "Group Chief Executive and President"
+      }
+    ],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "For overview narrative, use full financial metric name plus abbreviation when provided.",
+      "For financial review and business metrics narrative, use established abbreviations when provided.",
+      "Prefer AIA China / AIA Hong Kong / AIA Macau over loose paraphrases when matched."
+    ],
+    "mapping_hits": [
+      {
+        "group_id": "p13_g05",
+        "page_no": 13,
+        "source": "友邦保險",
+        "target": "AIA",
+        "hit_type": "glossary_term",
+        "source_block_ids": [
+          "p13_b21"
+        ],
+        "evidence": "我們無可比擬的分銷實力能直接接觸客戶，並提供高質素的專業建議，協助滿足亞洲消費者龐大且日益增長的長\n期保障和儲蓄需求。如今大眾比以往更期望企業能以符合長遠可持續發展的方式應對他們的需要。友邦保險擁有\n市場領先的品牌，以幫助大眾實踐健康、長久、好生活的目標為基礎。"
+      }
+    ],
+    "fact_locks": [],
+    "neighbor_context": {
+      "previous_group_source_excerpt": "一直是我們表現卓越的重要動力。",
+      "next_group_source_excerpt": "我們旨在使友邦保險在科技應用方面領先全球，加強互聯互通，擴大規模和提升效率。更深入瞭解數據分析有助\n我們締造獨特和個人化的客戶體驗。切合和反映個人需求和生活方式的產品及服務，改變了大眾對人壽保險的看"
+    }
+  },
+  {
+    "group_id": "p13_g06",
+    "page_no": 13,
+    "mode": "semantic_group",
+    "lane": "body",
+    "block_ids": [
+      "p13_b23",
+      "p13_b24"
+    ],
+    "group_text": "我們旨在使友邦保險在科技應用方面領先全球，加強互聯互通，擴大規模和提升效率。更深入瞭解數據分析有助\n我們締造獨特和個人化的客戶體驗。切合和反映個人需求和生活方式的產品及服務，改變了大眾對人壽保險的看",
+    "group_bbox": [
+      68.04,
+      526.75,
+      521.5,
+      554.71
+    ],
+    "page_sections": [
+      {
+        "source_section": "集團首席執行官兼總裁報告",
+        "target_section": "Group Chief Executive and President's Report",
+        "content_type": "ceo_report",
+        "page_range": [
+          12,
+          16
+        ]
+      }
+    ],
+    "global_profile": {
+      "company_name_target": "AIA GROUP LIMITED",
+      "industry": "Life Insurance",
+      "report_type": "annual_report",
+      "report_year": 2020
+    },
+    "term_usage_mode": "overview_narrative",
+    "roles": [
+      {
+        "source": "李源祥",
+        "target": "Lee Yuen Cheung",
+        "role": "Group Chief Executive and President"
+      }
+    ],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "For overview narrative, use full financial metric name plus abbreviation when provided.",
+      "For financial review and business metrics narrative, use established abbreviations when provided.",
+      "Prefer AIA China / AIA Hong Kong / AIA Macau over loose paraphrases when matched."
+    ],
+    "mapping_hits": [
+      {
+        "group_id": "p13_g06",
+        "page_no": 13,
+        "source": "友邦保險",
+        "target": "AIA",
+        "hit_type": "glossary_term",
+        "source_block_ids": [
+          "p13_b23"
+        ],
+        "evidence": "我們旨在使友邦保險在科技應用方面領先全球，加強互聯互通，擴大規模和提升效率。更深入瞭解數據分析有助\n我們締造獨特和個人化的客戶體驗。切合和反映個人需求和生活方式的產品及服務，改變了大眾對人壽保險的看"
+      }
+    ],
+    "fact_locks": [],
+    "neighbor_context": {
+      "previous_group_source_excerpt": "我們無可比擬的分銷實力能直接接觸客戶，並提供高質素的專業建議，協助滿足亞洲消費者龐大且日益增長的長\n期保障和儲蓄需求。如今大眾比以往更期望企業能以符合長遠可持續發展的方式應對他們的需要。友邦保險擁有\n市場領先的品牌，以幫助大眾實踐健康...",
+      "next_group_source_excerpt": "法，為我們與客戶建立長遠關係奠定堅實的基礎。"
+    }
+  },
+  {
+    "group_id": "p13_b25",
+    "page_no": 13,
+    "mode": "single_block",
+    "lane": "caption_label",
+    "block_ids": [
+      "p13_b25"
+    ],
+    "group_text": "法，為我們與客戶建立長遠關係奠定堅實的基礎。",
+    "group_bbox": [
+      68.04,
+      558.76,
+      270.77,
+      570.71
+    ],
+    "page_sections": [
+      {
+        "source_section": "集團首席執行官兼總裁報告",
+        "target_section": "Group Chief Executive and President's Report",
+        "content_type": "ceo_report",
+        "page_range": [
+          12,
+          16
+        ]
+      }
+    ],
+    "global_profile": {
+      "company_name_target": "AIA GROUP LIMITED",
+      "industry": "Life Insurance",
+      "report_type": "annual_report",
+      "report_year": 2020
+    },
+    "term_usage_mode": "heading",
+    "roles": [
+      {
+        "source": "李源祥",
+        "target": "Lee Yuen Cheung",
+        "role": "Group Chief Executive and President"
+      }
+    ],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "Keep headings short, stable and standard.",
+      "Prefer established annual report section names over free paraphrase."
+    ],
+    "mapping_hits": [],
+    "fact_locks": [],
+    "neighbor_context": {
+      "previous_group_source_excerpt": "我們旨在使友邦保險在科技應用方面領先全球，加強互聯互通，擴大規模和提升效率。更深入瞭解數據分析有助\n我們締造獨特和個人化的客戶體驗。切合和反映個人需求和生活方式的產品及服務，改變了大眾對人壽保險的看",
+      "next_group_source_excerpt": "儘管2020年是前所未見的一年，但我對亞洲壽險行業的前景和友邦保險的未來比以往更為樂觀。我們繼續挑戰自\n己，發展我們的優先任務，以確保我們能繼續適切地迎合客戶期望和財務需求的轉變。我們的全新企業策略建基\n於友邦保險的現有實力，推進轉型..."
+    }
+  },
+  {
+    "group_id": "p13_g07",
+    "page_no": 13,
+    "mode": "semantic_group",
+    "lane": "body",
+    "block_ids": [
+      "p13_b26",
+      "p13_b27",
+      "p13_b28"
+    ],
+    "group_text": "儘管2020年是前所未見的一年，但我對亞洲壽險行業的前景和友邦保險的未來比以往更為樂觀。我們繼續挑戰自\n己，發展我們的優先任務，以確保我們能繼續適切地迎合客戶期望和財務需求的轉變。我們的全新企業策略建基\n於友邦保險的現有實力，推進轉型過程，以在未來為客戶提供最佳的服務。",
+    "group_bbox": [
+      68.04,
+      590.76,
+      521.57,
+      634.72
+    ],
+    "page_sections": [
+      {
+        "source_section": "集團首席執行官兼總裁報告",
+        "target_section": "Group Chief Executive and President's Report",
+        "content_type": "ceo_report",
+        "page_range": [
+          12,
+          16
+        ]
+      }
+    ],
+    "global_profile": {
+      "company_name_target": "AIA GROUP LIMITED",
+      "industry": "Life Insurance",
+      "report_type": "annual_report",
+      "report_year": 2020
+    },
+    "term_usage_mode": "overview_narrative",
+    "roles": [
+      {
+        "source": "李源祥",
+        "target": "Lee Yuen Cheung",
+        "role": "Group Chief Executive and President"
+      }
+    ],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "For overview narrative, use full financial metric name plus abbreviation when provided.",
+      "For financial review and business metrics narrative, use established abbreviations when provided.",
+      "Prefer AIA China / AIA Hong Kong / AIA Macau over loose paraphrases when matched."
+    ],
+    "mapping_hits": [
+      {
+        "group_id": "p13_g07",
+        "page_no": 13,
+        "source": "友邦保險",
+        "target": "AIA",
+        "hit_type": "glossary_term",
+        "source_block_ids": [
+          "p13_b26",
+          "p13_b28"
+        ],
+        "evidence": "儘管2020年是前所未見的一年，但我對亞洲壽險行業的前景和友邦保險的未來比以往更為樂觀。我們繼續挑戰自\n己，發展我們的優先任務，以確保我們能繼續適切地迎合客戶期望和財務需求的轉變。我們的全新企業策略建基\n於友邦保險的現有實力，推進轉型過程，以在未來為客戶提供最佳的服務。"
+      }
+    ],
+    "fact_locks": [],
+    "neighbor_context": {
+      "previous_group_source_excerpt": "法，為我們與客戶建立長遠關係奠定堅實的基礎。",
+      "next_group_source_excerpt": "2020年報\n011"
+    }
+  },
+  {
+    "group_id": "p13_b29",
+    "page_no": 13,
+    "mode": "single_block",
+    "lane": "caption_label",
+    "block_ids": [
+      "p13_b29"
+    ],
+    "group_text": "2020年報\n011",
+    "group_bbox": [
+      490.6,
+      811.43,
+      561.26,
+      821.38
+    ],
+    "page_sections": [
+      {
+        "source_section": "集團首席執行官兼總裁報告",
+        "target_section": "Group Chief Executive and President's Report",
+        "content_type": "ceo_report",
+        "page_range": [
+          12,
+          16
+        ]
+      }
+    ],
+    "global_profile": {
+      "company_name_target": "AIA GROUP LIMITED",
+      "industry": "Life Insurance",
+      "report_type": "annual_report",
+      "report_year": 2020
+    },
+    "term_usage_mode": "table",
+    "roles": [
+      {
+        "source": "李源祥",
+        "target": "Lee Yuen Cheung",
+        "role": "Group Chief Executive and President"
+      }
+    ],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "Use established financial abbreviations for table labels when provided.",
+      "Keep row and column semantics unchanged.",
+      "Use n/m for 無意義."
+    ],
+    "mapping_hits": [],
+    "fact_locks": [],
+    "neighbor_context": {
+      "previous_group_source_excerpt": "儘管2020年是前所未見的一年，但我對亞洲壽險行業的前景和友邦保險的未來比以往更為樂觀。我們繼續挑戰自\n己，發展我們的優先任務，以確保我們能繼續適切地迎合客戶期望和財務需求的轉變。我們的全新企業策略建基\n於友邦保險的現有實力，推進轉型...",
+      "next_group_source_excerpt": ""
+    }
+  }
+]

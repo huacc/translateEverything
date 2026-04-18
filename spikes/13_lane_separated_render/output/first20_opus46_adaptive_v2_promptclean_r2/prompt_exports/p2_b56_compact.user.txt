@@ -1,0 +1,19 @@
+任务
+- unit_id：p2_b56
+- 输入单元：短标签 / 小标题
+
+原文
+138 合併現金流量表
+
+当前译文
+138 Consolidated Cash Flow Statement
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p2_b56",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

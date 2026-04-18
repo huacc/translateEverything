@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p13_b19",
+    "lane": "caption_label",
+    "source_text": "一直是我們表現卓越的重要動力。",
+    "current_translation": "has been a key driver of our outstanding performance."
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p13_b19",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

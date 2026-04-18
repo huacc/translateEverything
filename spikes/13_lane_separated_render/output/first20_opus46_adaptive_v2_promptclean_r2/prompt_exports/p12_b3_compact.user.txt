@@ -1,0 +1,19 @@
+任务
+- unit_id：p12_b3
+- 输入单元：短标签 / 小标题
+
+原文
+友邦保險再度錄得非常強勁的業績，反映我們表現
+
+当前译文
+AIA delivered another set of very strong results, reflecting our performance
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p12_b3",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

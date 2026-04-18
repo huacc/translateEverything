@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 13,
+    "group_id": "p13_g02"
+  },
+  "request": {
+    "model": "claude-opus-4-6",
+    "max_tokens": 4096,
+    "system": "你是上市公司年报翻译器。\n语言方向：Traditional Chinese -> English。\n只处理当前 body semantic group。\n只可在当前组内恢复跨块断句，不得跨组补写、跨组删写或改写事实。\n必须严格满足 mapping_hits 与 fact_locks。\n版面回填、字体压缩、分块分配不是你的职责，不要为了适配版面删词改义。\n保持正式、稳定、可出版的企业年报文风。\n只输出 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市保险公司企业年报。\n先满足 fact_locks，再保证术语稳定、语义完整和年报文风。\n{\n  \"task\": {\n    \"scenario\": \"listed_company_annual_report\",\n    \"industry\": \"Life Insurance\",\n    \"report_type\": \"annual_report\",\n    \"company_name_target\": \"AIA GROUP LIMITED\",\n    \"direction\": \"Traditional Chinese -> English\"\n  },\n  \"page_context\": {\n    \"page_no\": 13,\n    \"page_sections\": [\n      {\n        \"source_section\": \"集團首席執行官兼總裁報告\",\n        \"target_section\": \"Group Chief Executive and President's Report\",\n        \"content_type\": \"ceo_report\",\n        \"page_range\": [\n          12,\n          16\n        ]\n      }\n    ],\n    \"term_usage_mode\": \"overview_narrative\",\n    \"neighbor_context\": {\n      \"previous_group_source_excerpt\": \"時，展現靈活應變的能力和克盡己職的精神。\",\n      \"next_group_source_excerpt\": \"給付及理賠，為客戶提供極其重要的財務保障。\"\n    }\n  },\n  \"mapping_hits\": [],\n  \"fact_locks\": [\n    {\n      \"label\": \"usd_amount_160\",\n      \"fact_type\": \"usd_scaled_amount\",\n      \"source_value\": \"160億美元\",\n      \"expected_forms\": [\n        \"US$16 billion\",\n        \"US$16000 million\",\n        \"US$16,000 million\"\n      ]\n    }\n  ],\n  \"current_group\": {\n    \"group_id\": \"p13_g02\",\n    \"lane\": \"body\",\n    \"group_text\": \"自疫情大流行開始以來，本集團的各業務團隊反應迅速，積極協助紓緩對社區的影響，同時確保員工安全。本集\\n團為此廣泛採取多項措拖，包括財政支持、提供醫療物資、免費保障覆蓋、獲取醫療保健資源、精簡服務流程和\\n加快理賠支付，令我引以為榮。我們一如既往找出每一個可以作出理賠的理由，年內已支付逾160億美元的保險\",\n    \"source_block_ids\": [\n      \"p13_b5\",\n      \"p13_b6\",\n      \"p13_b7\"\n    ],\n    \"source_block_count\": 3\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p13_g02\",\n        \"translation\": \"<译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ],
+    "thinking": {
+      "type": "adaptive"
+    },
+    "output_config": {
+      "effort": "max"
+    }
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p13_g02\",\n      \"translation\": \"Since the start of the pandemic, our business teams across the Group have responded swiftly to help alleviate the impact on communities while ensuring the safety of our employees. I am proud of the wide range of measures we have taken, including financial support, provision of medical supplies, free coverage, access to healthcare resources, streamlined service processes and expedited claims payments. Consistent with our approach of finding every reason to pay, we paid over US$16 billion in insurance\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "ccb5b2f3-4dbe-441e-8112-49d3785fe08a",
+    "conversation_id": "ccb5b2f3-4dbe-441e-8112-49d3785fe08a",
+    "id": "ccb5b2f3-4dbe-441e-8112-49d3785fe08a",
+    "model": "claude-opus-4-6",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 907,
+      "output_tokens": 130
+    }
+  }
+}

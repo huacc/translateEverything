@@ -1,0 +1,19 @@
+任务
+- unit_id：p15_b7
+- 输入单元：短标签 / 小标题
+
+原文
+饋，與過往參與面對面學習的意見相若。
+
+当前译文
+feedback, comparable to previous in-person learning participation.
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p15_b7",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

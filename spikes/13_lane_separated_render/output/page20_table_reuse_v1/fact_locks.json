@@ -1,0 +1,150 @@
+[
+  {
+    "group_id": "p20_g01",
+    "page_no": 20,
+    "label": "usd_amount_27.65",
+    "fact_type": "usd_scaled_amount",
+    "source_value": "27.65億美元",
+    "expected_forms": [
+      "US$2.765 billion",
+      "US$2765 million",
+      "US$2,765 million"
+    ],
+    "expected_numbers": [
+      "2.765",
+      "2765"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p20_b21",
+      "p20_b22",
+      "p20_b23",
+      "p20_b24",
+      "p20_b25"
+    ],
+    "source_evidence_text": "儘管2020年的新業務價值27.65億美元較2019年減少了33%，我們迅速採用了新的數碼工具，並且外出限制的普遍放寬支持了銷售勢頭的恢復",
+    "importance": "medium",
+    "validate": false
+  },
+  {
+    "group_id": "p20_g01",
+    "page_no": 20,
+    "label": "percentage_33",
+    "fact_type": "percentage",
+    "source_value": "33%",
+    "expected_forms": [
+      "33%"
+    ],
+    "expected_numbers": [
+      "33"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p20_b21",
+      "p20_b22",
+      "p20_b23",
+      "p20_b24",
+      "p20_b25"
+    ],
+    "source_evidence_text": "儘管2020年的新業務價值27.65億美元較2019年減少了33%，我們迅速採用了新的數碼工具，並且外出限制的普遍放寬支持了銷售勢頭的恢復",
+    "importance": "low",
+    "validate": false
+  },
+  {
+    "group_id": "p20_g01",
+    "page_no": 20,
+    "label": "percentage_23",
+    "fact_type": "percentage",
+    "source_value": "23%",
+    "expected_forms": [
+      "23%"
+    ],
+    "expected_numbers": [
+      "23"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p20_b21",
+      "p20_b22",
+      "p20_b23",
+      "p20_b24",
+      "p20_b25"
+    ],
+    "source_evidence_text": "撇除維持低位的中國內地訪港旅客銷售額，本集團其他分部的新業務價值在下半年強勁復甦，與上半年相比增長了23%",
+    "importance": "low",
+    "validate": false
+  },
+  {
+    "group_id": "p20_g01",
+    "page_no": 20,
+    "label": "percentage_15",
+    "fact_type": "percentage",
+    "source_value": "15%",
+    "expected_forms": [
+      "15%"
+    ],
+    "expected_numbers": [
+      "15"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p20_b21",
+      "p20_b22",
+      "p20_b23",
+      "p20_b24",
+      "p20_b25"
+    ],
+    "source_evidence_text": "本集團的新業務發展勢頭在2021年持續強勁，首兩個月新業務價值較2020年同期高出15%",
+    "importance": "low",
+    "validate": false
+  },
+  {
+    "group_id": "p20_g02",
+    "page_no": 20,
+    "label": "usd_amount_9.68",
+    "fact_type": "usd_scaled_amount",
+    "source_value": "9.68億美元",
+    "expected_forms": [
+      "US$0.968 billion",
+      "US$968 million",
+      "US$968 million"
+    ],
+    "expected_numbers": [
+      "0.968",
+      "968"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p20_b26",
+      "p20_b27",
+      "p20_b28",
+      "p20_b29"
+    ],
+    "source_evidence_text": "2020年新業務價值9.68億美元較2019年減少17%，主要由於2019冠狀病毒病在第一季爆發初期而導致銷售額有限",
+    "importance": "medium",
+    "validate": false
+  },
+  {
+    "group_id": "p20_g02",
+    "page_no": 20,
+    "label": "percentage_17",
+    "fact_type": "percentage",
+    "source_value": "17%",
+    "expected_forms": [
+      "17%"
+    ],
+    "expected_numbers": [
+      "17"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p20_b26",
+      "p20_b27",
+      "p20_b28",
+      "p20_b29"
+    ],
+    "source_evidence_text": "2020年新業務價值9.68億美元較2019年減少17%，主要由於2019冠狀病毒病在第一季爆發初期而導致銷售額有限",
+    "importance": "low",
+    "validate": false
+  }
+]

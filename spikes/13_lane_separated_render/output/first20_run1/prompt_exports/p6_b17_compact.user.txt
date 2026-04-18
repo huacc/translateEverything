@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p6_b17",
+    "lane": "caption_label",
+    "source_text": "相信無論是現在或未來，最重要和最",
+    "current_translation": "We believe that now and in the future, the most important and most"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p6_b17",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

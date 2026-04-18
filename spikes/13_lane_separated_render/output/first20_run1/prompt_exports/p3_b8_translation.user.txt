@@ -1,0 +1,48 @@
+文档场景：上市保险公司企业年报。
+先满足 fact_locks，再保证术语稳定、语义完整和年报文风。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 3,
+    "page_sections": [
+      {
+        "source_section": "友邦保險一覽",
+        "target_section": "AIA At-A-Glance",
+        "content_type": "company_overview",
+        "page_range": [
+          3
+        ]
+      }
+    ],
+    "term_usage_mode": "table",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "業務覆蓋",
+      "next_group_source_excerpt": "於2020年內，我們已支付\n逾160億美元\n的保險給付和理賠，\n為客戶提供必不可少的\n財務支援"
+    }
+  },
+  "mapping_hits": [],
+  "fact_locks": [],
+  "current_group": {
+    "group_id": "p3_b8",
+    "lane": "body",
+    "group_text": "為超過\n3,800萬份\n個人保單的持有人及逾\n1,600萬名\n團體保險計劃的參與\n成員提供服務",
+    "source_block_ids": [
+      "p3_b8"
+    ],
+    "source_block_count": 1
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p3_b8",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

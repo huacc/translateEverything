@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p7_b10",
+      "translation": "AIA successfully established its Mainland China"
+    }
+  ]
+}
+```

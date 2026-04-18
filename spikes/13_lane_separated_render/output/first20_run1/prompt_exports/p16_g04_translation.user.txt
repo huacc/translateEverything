@@ -1,0 +1,58 @@
+文档场景：上市保险公司企业年报。
+先满足 fact_locks，再保证术语稳定、语义完整和年报文风。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 16,
+    "page_sections": [
+      {
+        "source_section": "集團首席執行官兼總裁報告",
+        "target_section": "Group Chief Executive and President's Report",
+        "content_type": "ceo_report",
+        "page_range": [
+          12,
+          16
+        ]
+      }
+    ],
+    "term_usage_mode": "overview_narrative",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "儘管疫情大流行的影響依然沒有結束，但相信2021年將是過渡性的一年，我們對此保持審慎樂觀。市場憧憬推出\n疫苗接種計劃和新療法有助降低疫症的感染率和嚴重性，使醫療系統能更有效應對疫情，並降低死亡率。儘管我\n們並不預計外出或消費行為於短期...",
+      "next_group_source_excerpt": "李源祥"
+    }
+  },
+  "mapping_hits": [
+    {
+      "source": "友邦保險",
+      "target": "AIA",
+      "hit_type": "glossary_term"
+    }
+  ],
+  "fact_locks": [],
+  "current_group": {
+    "group_id": "p16_g04",
+    "lane": "body",
+    "group_text": "我對友邦保險的長遠未來前景充滿信心。儘管面對短期不明朗因素，但帶動需求的本土因素強勁，加上亞洲的主\n要人口結構趨勢，仍為友邦保險業務的長遠前景提供正面的結構性支持。在大眾收入增加、私人保險滲透率偏\n低，以及社會福利覆蓋有限的情況下，市場對友邦保險產品的需求將繼續增長。我們將憑藉龐大的競爭優勢和強\n勁的增長往績，為社區創建更可持續的未來，並為所有持分者創造共享價值。",
+    "source_block_ids": [
+      "p16_b16",
+      "p16_b17",
+      "p16_b18",
+      "p16_b19"
+    ],
+    "source_block_count": 4
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p16_g04",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

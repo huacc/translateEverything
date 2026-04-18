@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p2_b27",
+    "lane": "caption_label",
+    "source_text": "覆蓋18個市場，包括在中國內地、香港",
+    "current_translation": "Covering 18 markets, including Mainland China and Hong Kong"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p2_b27",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

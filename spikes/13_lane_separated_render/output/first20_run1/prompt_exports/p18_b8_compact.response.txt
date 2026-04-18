@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p18_b8",
+      "translation": "Growth rates and commentary on constant exchange rate basis."
+    }
+  ]
+}
+```

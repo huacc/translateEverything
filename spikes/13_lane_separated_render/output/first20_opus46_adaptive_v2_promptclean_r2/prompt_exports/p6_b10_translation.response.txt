@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p6_b10",
+      "translation": "to achieve Healthier, Longer, Better Lives. Our goal"
+    }
+  ]
+}
+```

@@ -1,0 +1,66 @@
+文档场景：上市保险公司企业年报。
+先满足 fact_locks，再保证术语稳定、语义完整和年报文风。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 15,
+    "page_sections": [
+      {
+        "source_section": "集團首席執行官兼總裁報告",
+        "target_section": "Group Chief Executive and President's Report",
+        "content_type": "ceo_report",
+        "page_range": [
+          12,
+          16
+        ]
+      }
+    ],
+    "term_usage_mode": "table",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "饋，與過往參與面對面學習的意見相若。",
+      "next_group_source_excerpt": "在2020年10月，友邦保險慶祝於香港聯交所上市10週年誌慶，特別設立「友邦獎學金」，承諾投放1億美元，在未\n來數十年每年資助100名就讀於香港多間大學的本科生，培養新世代企業領袖。"
+    }
+  },
+  "mapping_hits": [
+    {
+      "source": "友邦保險",
+      "target": "AIA",
+      "hit_type": "glossary_term"
+    }
+  ],
+  "fact_locks": [
+    {
+      "label": "percentage_97",
+      "fact_type": "percentage",
+      "source_value": "97%",
+      "expected_forms": [
+        "97%"
+      ]
+    }
+  ],
+  "current_group": {
+    "group_id": "p15_g02",
+    "lane": "body",
+    "group_text": "年度員工敬業度指標調查是我們在各市場共同努力所得成果的重要指標，藉此更瞭解和支援員工。在2020年，\n97%的員工參與調查，本集團所得的員工敬業度評分升至歷來新高，在蓋洛普環球金融服務及保險業基準中排名\n88分位。此外，友邦保險獲列入《福布斯》\n「2020年世界最佳僱主榜單」(‘World’s Best Employers 2020’ list)。",
+    "source_block_ids": [
+      "p15_b8",
+      "p15_b9",
+      "p15_b10"
+    ],
+    "source_block_count": 3
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p15_g02",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

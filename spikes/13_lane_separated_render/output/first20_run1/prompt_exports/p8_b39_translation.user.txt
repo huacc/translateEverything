@@ -1,0 +1,58 @@
+文档场景：上市保险公司企业年报。
+当前输入属于表格通道。不要把表格行改写成正文句子。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 8,
+    "page_sections": [
+      {
+        "source_section": "概覽",
+        "target_section": "Overview",
+        "content_type": "executive_summary",
+        "page_range": [
+          8,
+          16
+        ]
+      }
+    ],
+    "term_usage_mode": "heading",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "2017\n2018\n2019\n2016",
+      "next_group_source_excerpt": "US$ MILLIONS"
+    }
+  },
+  "mapping_hits": [
+    {
+      "source": "稅後營運溢利",
+      "target": "Operating Profit After Tax",
+      "hit_type": "context_term"
+    },
+    {
+      "source": "總加權保費收入",
+      "target": "Total Weighted Premium Income",
+      "hit_type": "context_term"
+    }
+  ],
+  "fact_locks": [],
+  "current_unit": {
+    "unit_id": "p8_b39",
+    "lane": "table",
+    "table_role": "row",
+    "source_text": "稅後營運溢利(4)(9)\n總加權保費收入(5)",
+    "source_line_count": 2
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p8_b39",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

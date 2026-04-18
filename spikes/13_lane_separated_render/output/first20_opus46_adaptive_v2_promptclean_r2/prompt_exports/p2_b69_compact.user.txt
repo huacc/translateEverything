@@ -1,0 +1,19 @@
+任务
+- unit_id：p2_b69
+- 输入单元：短标签 / 小标题
+
+原文
+(1) 本報告所使用的若干詞彙的解釋和縮寫已列明於詞彙章節。
+
+当前译文
+(1) Definitions and abbreviations of certain terms used in this report are set out in the Glossary section.
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p2_b69",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

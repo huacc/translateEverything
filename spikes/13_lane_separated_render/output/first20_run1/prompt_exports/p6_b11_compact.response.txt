@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p6_b11",
+      "translation": "Covering 18 markets, serving 38 million individuals"
+    }
+  ]
+}
+```

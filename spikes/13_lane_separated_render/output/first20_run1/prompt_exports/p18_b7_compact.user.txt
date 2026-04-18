@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p18_b7",
+    "lane": "caption_label",
+    "source_text": "讓我們在眾多增長機遇下得以繼續投資。",
+    "current_translation": "This enables us to continue investing amid numerous growth opportunities."
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p18_b7",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

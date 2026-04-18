@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p9_b30",
+      "translation": "(7) VONB of each segment includes retirement business, presented on a local statutory basis, before unallocated Group head office expenses and before non-controlling interests."
+    }
+  ]
+}
+```

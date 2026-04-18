@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p5_b10",
+      "translation": "Although the pandemic continues, we remain committed to supporting our community"
+    }
+  ]
+}
+```

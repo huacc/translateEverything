@@ -1,0 +1,267 @@
+{
+  "task_id": 1,
+  "total_segments": 150,
+  "page_size": 20,
+  "current_page": 1,
+  "total_pages": 8,
+  "segments": [
+    {
+      "id": 1,
+      "page_number": 1,
+      "segment_index": 1,
+      "source_text": "本文档介绍了系统架构的核心设计理念和技术实现方案。",
+      "target_text": "This document introduces the core design philosophy and technical implementation of the system architecture.",
+      "status": "completed",
+      "quality_score": 0.95,
+      "issues": [],
+      "created_at": "2026-04-18T10:31:00Z",
+      "updated_at": "2026-04-18T10:32:00Z"
+    },
+    {
+      "id": 2,
+      "page_number": 1,
+      "segment_index": 2,
+      "source_text": "系统采用微服务架构，各模块之间通过RESTful API进行通信。",
+      "target_text": "The system adopts a microservices architecture, with modules communicating via RESTful APIs.",
+      "status": "completed",
+      "quality_score": 0.92,
+      "issues": [
+        {
+          "type": "info",
+          "message": "建议使用更正式的表达",
+          "suggestion": "The system employs a microservices architecture"
+        }
+      ],
+      "created_at": "2026-04-18T10:32:00Z",
+      "updated_at": "2026-04-18T10:33:00Z"
+    },
+    {
+      "id": 3,
+      "page_number": 1,
+      "segment_index": 3,
+      "source_text": "前端使用React框架开发，后端基于Spring Boot构建。",
+      "target_text": "The frontend is developed using the React framework, while the backend is built on Spring Boot.",
+      "status": "completed",
+      "quality_score": 0.98,
+      "issues": [],
+      "created_at": "2026-04-18T10:33:00Z",
+      "updated_at": "2026-04-18T10:34:00Z"
+    },
+    {
+      "id": 4,
+      "page_number": 2,
+      "segment_index": 1,
+      "source_text": "数据库采用PostgreSQL，缓存层使用Redis实现。",
+      "target_text": "PostgreSQL is used for the database, and Redis is implemented for the caching layer.",
+      "status": "completed",
+      "quality_score": 0.94,
+      "issues": [],
+      "created_at": "2026-04-18T10:34:00Z",
+      "updated_at": "2026-04-18T10:35:00Z"
+    },
+    {
+      "id": 5,
+      "page_number": 2,
+      "segment_index": 2,
+      "source_text": "系统支持水平扩展，可根据负载动态调整实例数量。",
+      "target_text": "The system supports horizontal scaling and can dynamically adjust the number of instances based on load.",
+      "status": "completed",
+      "quality_score": 0.96,
+      "issues": [],
+      "created_at": "2026-04-18T10:35:00Z",
+      "updated_at": "2026-04-18T10:36:00Z"
+    },
+    {
+      "id": 6,
+      "page_number": 3,
+      "segment_index": 1,
+      "source_text": "安全性方面，系统实现了OAuth 2.0认证和JWT令牌机制。",
+      "target_text": "In terms of security, the system implements OAuth 2.0 authentication and JWT token mechanism.",
+      "status": "completed",
+      "quality_score": 0.93,
+      "issues": [
+        {
+          "type": "warning",
+          "message": "术语一致性问题",
+          "suggestion": "建议统一使用'token'或'令牌'"
+        }
+      ],
+      "created_at": "2026-04-18T10:36:00Z",
+      "updated_at": "2026-04-18T10:37:00Z"
+    },
+    {
+      "id": 7,
+      "page_number": 3,
+      "segment_index": 2,
+      "source_text": "所有API接口都经过严格的权限验证和参数校验。",
+      "target_text": "All API interfaces undergo strict permission verification and parameter validation.",
+      "status": "completed",
+      "quality_score": 0.97,
+      "issues": [],
+      "created_at": "2026-04-18T10:37:00Z",
+      "updated_at": "2026-04-18T10:38:00Z"
+    },
+    {
+      "id": 8,
+      "page_number": 4,
+      "segment_index": 1,
+      "source_text": "监控系统采用Prometheus + Grafana方案，实现全链路追踪。",
+      "target_text": "The monitoring system uses the Prometheus + Grafana solution to achieve full-link tracing.",
+      "status": "completed",
+      "quality_score": 0.91,
+      "issues": [],
+      "created_at": "2026-04-18T10:38:00Z",
+      "updated_at": "2026-04-18T10:39:00Z"
+    },
+    {
+      "id": 9,
+      "page_number": 4,
+      "segment_index": 2,
+      "source_text": "日志系统使用ELK Stack进行集中管理和分析。",
+      "target_text": "The logging system uses ELK Stack for centralized management and analysis.",
+      "status": "completed",
+      "quality_score": 0.95,
+      "issues": [],
+      "created_at": "2026-04-18T10:39:00Z",
+      "updated_at": "2026-04-18T10:40:00Z"
+    },
+    {
+      "id": 10,
+      "page_number": 5,
+      "segment_index": 1,
+      "source_text": "部署方面，系统支持Docker容器化和Kubernetes编排。",
+      "target_text": "For deployment, the system supports Docker containerization and Kubernetes orchestration.",
+      "status": "completed",
+      "quality_score": 0.96,
+      "issues": [],
+      "created_at": "2026-04-18T10:40:00Z",
+      "updated_at": "2026-04-18T10:41:00Z"
+    },
+    {
+      "id": 11,
+      "page_number": 5,
+      "segment_index": 2,
+      "source_text": "CI/CD流程使用GitLab CI实现自动化构建和部署。",
+      "target_text": "The CI/CD process uses GitLab CI to implement automated building and deployment.",
+      "status": "completed",
+      "quality_score": 0.94,
+      "issues": [],
+      "created_at": "2026-04-18T10:41:00Z",
+      "updated_at": "2026-04-18T10:42:00Z"
+    },
+    {
+      "id": 12,
+      "page_number": 6,
+      "segment_index": 1,
+      "source_text": "性能优化方面，系统实现了多级缓存策略和数据库连接池。",
+      "target_text": "In terms of performance optimization, the system implements multi-level caching strategies and database connection pooling.",
+      "status": "completed",
+      "quality_score": 0.97,
+      "issues": [],
+      "created_at": "2026-04-18T10:42:00Z",
+      "updated_at": "2026-04-18T10:43:00Z"
+    },
+    {
+      "id": 13,
+      "page_number": 6,
+      "segment_index": 2,
+      "source_text": "异步任务处理使用消息队列（RabbitMQ）实现解耦。",
+      "target_text": "Asynchronous task processing uses message queues (RabbitMQ) to achieve decoupling.",
+      "status": "completed",
+      "quality_score": 0.93,
+      "issues": [],
+      "created_at": "2026-04-18T10:43:00Z",
+      "updated_at": "2026-04-18T10:44:00Z"
+    },
+    {
+      "id": 14,
+      "page_number": 7,
+      "segment_index": 1,
+      "source_text": "代码质量通过SonarQube进行静态分析和持续检查。",
+      "target_text": "Code quality is ensured through static analysis and continuous inspection using SonarQube.",
+      "status": "completed",
+      "quality_score": 0.95,
+      "issues": [],
+      "created_at": "2026-04-18T10:44:00Z",
+      "updated_at": "2026-04-18T10:45:00Z"
+    },
+    {
+      "id": 15,
+      "page_number": 7,
+      "segment_index": 2,
+      "source_text": "单元测试覆盖率要求达到80%以上，集成测试全面覆盖核心流程。",
+      "target_text": "Unit test coverage is required to reach over 80%, and integration tests comprehensively cover core processes.",
+      "status": "completed",
+      "quality_score": 0.92,
+      "issues": [
+        {
+          "type": "warning",
+          "message": "数字表达建议",
+          "suggestion": "建议使用'more than 80%'替代'over 80%'"
+        }
+      ],
+      "created_at": "2026-04-18T10:45:00Z",
+      "updated_at": "2026-04-18T10:46:00Z"
+    },
+    {
+      "id": 16,
+      "page_number": 8,
+      "segment_index": 1,
+      "source_text": "文档方面，API文档使用Swagger自动生成，架构文档使用Markdown编写。",
+      "target_text": "For documentation, API documentation is automatically generated using Swagger, and architecture documentation is written in Markdown.",
+      "status": "in_progress",
+      "quality_score": null,
+      "issues": [],
+      "created_at": "2026-04-18T10:46:00Z",
+      "updated_at": "2026-04-18T10:46:00Z"
+    },
+    {
+      "id": 17,
+      "page_number": 8,
+      "segment_index": 2,
+      "source_text": "团队协作使用Git进行版本控制，代码审查流程严格执行。",
+      "target_text": "",
+      "status": "pending",
+      "quality_score": null,
+      "issues": [],
+      "created_at": "2026-04-18T10:46:00Z",
+      "updated_at": "2026-04-18T10:46:00Z"
+    },
+    {
+      "id": 18,
+      "page_number": 9,
+      "segment_index": 1,
+      "source_text": "未来规划包括引入服务网格（Service Mesh）和无服务器架构（Serverless）。",
+      "target_text": "",
+      "status": "pending",
+      "quality_score": null,
+      "issues": [],
+      "created_at": "2026-04-18T10:46:00Z",
+      "updated_at": "2026-04-18T10:46:00Z"
+    },
+    {
+      "id": 19,
+      "page_number": 9,
+      "segment_index": 2,
+      "source_text": "系统将持续优化，以满足不断增长的业务需求。",
+      "target_text": "",
+      "status": "pending",
+      "quality_score": null,
+      "issues": [],
+      "created_at": "2026-04-18T10:46:00Z",
+      "updated_at": "2026-04-18T10:46:00Z"
+    },
+    {
+      "id": 20,
+      "page_number": 10,
+      "segment_index": 1,
+      "source_text": "感谢所有团队成员的辛勤付出和贡献。",
+      "target_text": "",
+      "status": "pending",
+      "quality_score": null,
+      "issues": [],
+      "created_at": "2026-04-18T10:46:00Z",
+      "updated_at": "2026-04-18T10:46:00Z"
+    }
+  ]
+}

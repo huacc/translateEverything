@@ -1,0 +1,19 @@
+任务
+- unit_id：p11_b25
+- 输入单元：短标签 / 小标题
+
+原文
+獨立非執行主席
+
+当前译文
+Independent Non-Executive Chairman
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p11_b25",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

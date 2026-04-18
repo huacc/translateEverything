@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p7_b12",
+    "lane": "caption_label",
+    "source_text": "批復已於2020年6月取得。於2021年3月，",
+    "current_translation": "The approval was obtained in June 2020. In March 2021,"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p7_b12",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

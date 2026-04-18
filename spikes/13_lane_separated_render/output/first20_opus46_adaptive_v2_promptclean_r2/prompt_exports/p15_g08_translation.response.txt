@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p15_g08",
+      "translation": "According to Sustainalytics, AIA ranked second in the insurance industry for Environmental, Social and Governance risk management for the second consecutive year, and in 2020, MSCI upgraded AIA's Environmental, Social and Governance rating to A, primarily due to our integration of Environmental, Social and Governance factors into our investments."
+    }
+  ]
+}
+```

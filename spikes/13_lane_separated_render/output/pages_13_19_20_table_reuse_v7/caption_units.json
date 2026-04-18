@@ -1,0 +1,379 @@
+[
+  {
+    "group_id": "p13_b3",
+    "page_no": 13,
+    "mode": "single_block",
+    "block_ids": [
+      "p13_b3"
+    ],
+    "block_types": [
+      "label"
+    ],
+    "source_text_joined": "時，展現靈活應變的能力和克盡己職的精神。",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "single_non_narrative",
+        "reason": "label"
+      }
+    ],
+    "lane": "caption_label",
+    "group_bbox": [
+      68.03,
+      126.7,
+      252.3,
+      138.65
+    ],
+    "group_text": "時，展現靈活應變的能力和克盡己職的精神。",
+    "table_role": null
+  },
+  {
+    "group_id": "p13_b8",
+    "page_no": 13,
+    "mode": "single_block",
+    "block_ids": [
+      "p13_b8"
+    ],
+    "block_types": [
+      "label"
+    ],
+    "source_text_joined": "給付及理賠，為客戶提供極其重要的財務保障。",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "single_non_narrative",
+        "reason": "label"
+      }
+    ],
+    "lane": "caption_label",
+    "group_bbox": [
+      68.03,
+      206.71,
+      261.53,
+      218.66
+    ],
+    "group_text": "給付及理賠，為客戶提供極其重要的財務保障。",
+    "table_role": null
+  },
+  {
+    "group_id": "p13_b13",
+    "page_no": 13,
+    "mode": "single_block",
+    "block_ids": [
+      "p13_b13"
+    ],
+    "block_types": [
+      "label"
+    ],
+    "source_text_joined": "證我們雄厚的資本實力和嚴謹的財務管理。",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "single_non_narrative",
+        "reason": "label"
+      }
+    ],
+    "lane": "caption_label",
+    "group_bbox": [
+      68.04,
+      302.72,
+      243.09,
+      314.68
+    ],
+    "group_text": "證我們雄厚的資本實力和嚴謹的財務管理。",
+    "table_role": null
+  },
+  {
+    "group_id": "p13_b15",
+    "page_no": 13,
+    "mode": "single_block",
+    "block_ids": [
+      "p13_b15"
+    ],
+    "block_types": [
+      "label"
+    ],
+    "source_text_joined": "政策，讓本集團可把握未來的增長機遇，並且保持財務靈活性。",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "single_non_narrative",
+        "reason": "label"
+      }
+    ],
+    "lane": "caption_label",
+    "group_bbox": [
+      68.04,
+      350.73,
+      326.12,
+      362.68
+    ],
+    "group_text": "政策，讓本集團可把握未來的增長機遇，並且保持財務靈活性。",
+    "table_role": null
+  },
+  {
+    "group_id": "p13_b19",
+    "page_no": 13,
+    "mode": "single_block",
+    "block_ids": [
+      "p13_b19"
+    ],
+    "block_types": [
+      "label"
+    ],
+    "source_text_joined": "一直是我們表現卓越的重要動力。",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "single_non_narrative",
+        "reason": "label"
+      }
+    ],
+    "lane": "caption_label",
+    "group_bbox": [
+      68.04,
+      430.74,
+      206.19,
+      442.69
+    ],
+    "group_text": "一直是我們表現卓越的重要動力。",
+    "table_role": null
+  },
+  {
+    "group_id": "p13_b25",
+    "page_no": 13,
+    "mode": "single_block",
+    "block_ids": [
+      "p13_b25"
+    ],
+    "block_types": [
+      "label"
+    ],
+    "source_text_joined": "法，為我們與客戶建立長遠關係奠定堅實的基礎。",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "single_non_narrative",
+        "reason": "label"
+      }
+    ],
+    "lane": "caption_label",
+    "group_bbox": [
+      68.04,
+      558.76,
+      270.77,
+      570.71
+    ],
+    "group_text": "法，為我們與客戶建立長遠關係奠定堅實的基礎。",
+    "table_role": null
+  },
+  {
+    "group_id": "p13_b29",
+    "page_no": 13,
+    "mode": "single_block",
+    "block_ids": [
+      "p13_b29"
+    ],
+    "block_types": [
+      "footer"
+    ],
+    "source_text_joined": "2020年報\n011",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "single_non_narrative",
+        "reason": "footer"
+      }
+    ],
+    "lane": "caption_label",
+    "group_bbox": [
+      490.6,
+      811.43,
+      561.26,
+      821.38
+    ],
+    "group_text": "2020年報\n011",
+    "table_role": null
+  },
+  {
+    "group_id": "p19_b29",
+    "page_no": 19,
+    "mode": "single_block",
+    "block_ids": [
+      "p19_b29"
+    ],
+    "block_types": [
+      "footer"
+    ],
+    "source_text_joined": "2020年報\n017",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "single_non_narrative",
+        "reason": "footer"
+      }
+    ],
+    "lane": "caption_label",
+    "group_bbox": [
+      490.6,
+      811.43,
+      561.26,
+      821.38
+    ],
+    "group_text": "2020年報\n017",
+    "table_role": null
+  },
+  {
+    "group_id": "p20_b1",
+    "page_no": 20,
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b1"
+    ],
+    "block_types": [
+      "heading"
+    ],
+    "source_text_joined": "財務及營運回顧",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "single_non_narrative",
+        "reason": "heading"
+      }
+    ],
+    "lane": "caption_label",
+    "group_bbox": [
+      73.7,
+      24.53,
+      146.7,
+      37.57
+    ],
+    "group_text": "財務及營運回顧",
+    "table_role": null
+  },
+  {
+    "group_id": "p20_b2",
+    "page_no": 20,
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b2"
+    ],
+    "block_types": [
+      "heading"
+    ],
+    "source_text_joined": "集團首席財務總監回顧",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "single_non_narrative",
+        "reason": "heading"
+      }
+    ],
+    "lane": "caption_label",
+    "group_bbox": [
+      73.7,
+      37.85,
+      178.2,
+      50.89
+    ],
+    "group_text": "集團首席財務總監回顧",
+    "table_role": null
+  },
+  {
+    "group_id": "p20_b3",
+    "page_no": 20,
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b3"
+    ],
+    "block_types": [
+      "label"
+    ],
+    "source_text_joined": "新業務表現",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "single_non_narrative",
+        "reason": "label"
+      }
+    ],
+    "lane": "caption_label",
+    "group_bbox": [
+      73.7,
+      91.03,
+      145.1,
+      109.29
+    ],
+    "group_text": "新業務表現",
+    "table_role": null
+  },
+  {
+    "group_id": "p20_b4",
+    "page_no": 20,
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b4"
+    ],
+    "block_types": [
+      "label"
+    ],
+    "source_text_joined": "按分部劃分的新業務價值、年化新保費及利潤率",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "single_non_narrative",
+        "reason": "label"
+      }
+    ],
+    "lane": "caption_label",
+    "group_bbox": [
+      73.7,
+      127.41,
+      288.7,
+      140.45
+    ],
+    "group_text": "按分部劃分的新業務價值、年化新保費及利潤率",
+    "table_role": null
+  },
+  {
+    "group_id": "p20_b34",
+    "page_no": 20,
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b34"
+    ],
+    "block_types": [
+      "footer"
+    ],
+    "source_text_joined": "018\n友邦保險控股有限公司",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "single_non_narrative",
+        "reason": "footer"
+      }
+    ],
+    "lane": "caption_label",
+    "group_bbox": [
+      34.02,
+      811.43,
+      141.63,
+      821.38
+    ],
+    "group_text": "018\n友邦保險控股有限公司",
+    "table_role": null
+  }
+]

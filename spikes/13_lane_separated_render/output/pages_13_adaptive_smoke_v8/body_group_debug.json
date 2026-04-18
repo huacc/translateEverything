@@ -1,0 +1,297 @@
+[
+  {
+    "group_id": "p13_g01",
+    "page_no": 13,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p13_b1",
+      "p13_b2"
+    ],
+    "block_types": [
+      "body",
+      "body"
+    ],
+    "source_text_joined": "友邦保險是客戶誠可信賴的夥伴，讓客戶在關注財務安全和家庭保障時仍可安心無憂。儘管2019冠狀病毒病大\n流行的影響深遠，但我衷心感謝我們的員工、代理和合作夥伴在適應新工作方式並確保為客戶提供無間斷的支援",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p13_b1",
+        "to": "p13_b2"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      68.03,
+      94.7,
+      524.09,
+      122.65
+    ],
+    "group_text": "友邦保險是客戶誠可信賴的夥伴，讓客戶在關注財務安全和家庭保障時仍可安心無憂。儘管2019冠狀病毒病大\n流行的影響深遠，但我衷心感謝我們的員工、代理和合作夥伴在適應新工作方式並確保為客戶提供無間斷的支援",
+    "table_role": null
+  },
+  {
+    "group_id": "p13_g02",
+    "page_no": 13,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p13_b5",
+      "p13_b6",
+      "p13_b7"
+    ],
+    "block_types": [
+      "body",
+      "body",
+      "body"
+    ],
+    "source_text_joined": "自疫情大流行開始以來，本集團的各業務團隊反應迅速，積極協助紓緩對社區的影響，同時確保員工安全。本集\n團為此廣泛採取多項措拖，包括財政支持、提供醫療物資、免費保障覆蓋、獲取醫療保健資源、精簡服務流程和\n加快理賠支付，令我引以為榮。我們一如既往找出每一個可以作出理賠的理由，年內已支付逾160億美元的保險",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p13_b5",
+        "to": "p13_b6"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p13_b6",
+        "to": "p13_b7"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      68.03,
+      158.71,
+      521.58,
+      202.66
+    ],
+    "group_text": "自疫情大流行開始以來，本集團的各業務團隊反應迅速，積極協助紓緩對社區的影響，同時確保員工安全。本集\n團為此廣泛採取多項措拖，包括財政支持、提供醫療物資、免費保障覆蓋、獲取醫療保健資源、精簡服務流程和\n加快理賠支付，令我引以為榮。我們一如既往找出每一個可以作出理賠的理由，年內已支付逾160億美元的保險",
+    "table_role": null
+  },
+  {
+    "group_id": "p13_g03",
+    "page_no": 13,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p13_b9",
+      "p13_b10",
+      "p13_b11",
+      "p13_b12"
+    ],
+    "block_types": [
+      "body",
+      "body",
+      "body",
+      "body"
+    ],
+    "source_text_joined": "儘管為遏制2019冠狀病毒病傳播的措施導致新業務價值減少至27.65億美元，但隨著外出限制放寬，銷售動力轉\n趨正面，並在2021年展開非常強勁的勢頭，首兩個月的新業務價值按年增長15%。我們規模龐大和持續增長的有\n效保單組合所帶來的高質素和經常性收入來源，帶動2020年稅後營運溢利增加5%，期內產生的基本自由盈餘則\n增長7%。截至2020年12月31日，內涵價值權益創新高，達672億美元，集團當地資本總和法覆蓋率為374%，足",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p13_b9",
+        "to": "p13_b10"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p13_b10",
+        "to": "p13_b11"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p13_b11",
+        "to": "p13_b12"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      68.03,
+      238.72,
+      521.59,
+      298.67
+    ],
+    "group_text": "儘管為遏制2019冠狀病毒病傳播的措施導致新業務價值減少至27.65億美元，但隨著外出限制放寬，銷售動力轉\n趨正面，並在2021年展開非常強勁的勢頭，首兩個月的新業務價值按年增長15%。我們規模龐大和持續增長的有\n效保單組合所帶來的高質素和經常性收入來源，帶動2020年稅後營運溢利增加5%，期內產生的基本自由盈餘則\n增長7%。截至2020年12月31日，內涵價值權益創新高，達672億美元，集團當地資本總和法覆蓋率為374%，足",
+    "table_role": null
+  },
+  {
+    "group_id": "p13_b14",
+    "page_no": 13,
+    "mode": "single_block",
+    "block_ids": [
+      "p13_b14"
+    ],
+    "block_types": [
+      "body"
+    ],
+    "source_text_joined": "董事會建議2020年末期股息增加7.5%至每股100.30港仙。這秉承友邦保險行之已久的審慎、可持續及漸進的派息",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "single_non_narrative",
+        "reason": "body"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      68.04,
+      334.73,
+      521.51,
+      346.68
+    ],
+    "group_text": "董事會建議2020年末期股息增加7.5%至每股100.30港仙。這秉承友邦保險行之已久的審慎、可持續及漸進的派息",
+    "table_role": null
+  },
+  {
+    "group_id": "p13_g04",
+    "page_no": 13,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p13_b16",
+      "p13_b17",
+      "p13_b18"
+    ],
+    "block_types": [
+      "body",
+      "body",
+      "body"
+    ],
+    "source_text_joined": "友邦保險具有多項顯著優勢，讓我們在競爭激烈的市場別樹一幟。我們在亞洲經營數十載，擁有區內無可比擬的\n平台，並於我們業務所在的大部分市場雄踞領導地位。我們始終如一地百分百專注於亞洲市場，有助我們在全球\n最具吸引力的壽險業地區全面把握增長機遇。這份專注結合我們領導團隊在亞洲的豐富經驗及員工的優秀質素，",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p13_b16",
+        "to": "p13_b17"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p13_b17",
+        "to": "p13_b18"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      68.04,
+      382.73,
+      521.5,
+      426.69
+    ],
+    "group_text": "友邦保險具有多項顯著優勢，讓我們在競爭激烈的市場別樹一幟。我們在亞洲經營數十載，擁有區內無可比擬的\n平台，並於我們業務所在的大部分市場雄踞領導地位。我們始終如一地百分百專注於亞洲市場，有助我們在全球\n最具吸引力的壽險業地區全面把握增長機遇。這份專注結合我們領導團隊在亞洲的豐富經驗及員工的優秀質素，",
+    "table_role": null
+  },
+  {
+    "group_id": "p13_g05",
+    "page_no": 13,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p13_b20",
+      "p13_b21",
+      "p13_b22"
+    ],
+    "block_types": [
+      "body",
+      "body",
+      "body"
+    ],
+    "source_text_joined": "我們無可比擬的分銷實力能直接接觸客戶，並提供高質素的專業建議，協助滿足亞洲消費者龐大且日益增長的長\n期保障和儲蓄需求。如今大眾比以往更期望企業能以符合長遠可持續發展的方式應對他們的需要。友邦保險擁有\n市場領先的品牌，以幫助大眾實踐健康、長久、好生活的目標為基礎。",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p13_b20",
+        "to": "p13_b21"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p13_b21",
+        "to": "p13_b22"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      68.04,
+      462.74,
+      521.5,
+      506.7
+    ],
+    "group_text": "我們無可比擬的分銷實力能直接接觸客戶，並提供高質素的專業建議，協助滿足亞洲消費者龐大且日益增長的長\n期保障和儲蓄需求。如今大眾比以往更期望企業能以符合長遠可持續發展的方式應對他們的需要。友邦保險擁有\n市場領先的品牌，以幫助大眾實踐健康、長久、好生活的目標為基礎。",
+    "table_role": null
+  },
+  {
+    "group_id": "p13_g06",
+    "page_no": 13,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p13_b23",
+      "p13_b24"
+    ],
+    "block_types": [
+      "body",
+      "body"
+    ],
+    "source_text_joined": "我們旨在使友邦保險在科技應用方面領先全球，加強互聯互通，擴大規模和提升效率。更深入瞭解數據分析有助\n我們締造獨特和個人化的客戶體驗。切合和反映個人需求和生活方式的產品及服務，改變了大眾對人壽保險的看",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p13_b23",
+        "to": "p13_b24"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      68.04,
+      526.75,
+      521.5,
+      554.71
+    ],
+    "group_text": "我們旨在使友邦保險在科技應用方面領先全球，加強互聯互通，擴大規模和提升效率。更深入瞭解數據分析有助\n我們締造獨特和個人化的客戶體驗。切合和反映個人需求和生活方式的產品及服務，改變了大眾對人壽保險的看",
+    "table_role": null
+  },
+  {
+    "group_id": "p13_g07",
+    "page_no": 13,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p13_b26",
+      "p13_b27",
+      "p13_b28"
+    ],
+    "block_types": [
+      "body",
+      "body",
+      "body"
+    ],
+    "source_text_joined": "儘管2020年是前所未見的一年，但我對亞洲壽險行業的前景和友邦保險的未來比以往更為樂觀。我們繼續挑戰自\n己，發展我們的優先任務，以確保我們能繼續適切地迎合客戶期望和財務需求的轉變。我們的全新企業策略建基\n於友邦保險的現有實力，推進轉型過程，以在未來為客戶提供最佳的服務。",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p13_b26",
+        "to": "p13_b27"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p13_b27",
+        "to": "p13_b28"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      68.04,
+      590.76,
+      521.57,
+      634.72
+    ],
+    "group_text": "儘管2020年是前所未見的一年，但我對亞洲壽險行業的前景和友邦保險的未來比以往更為樂觀。我們繼續挑戰自\n己，發展我們的優先任務，以確保我們能繼續適切地迎合客戶期望和財務需求的轉變。我們的全新企業策略建基\n於友邦保險的現有實力，推進轉型過程，以在未來為客戶提供最佳的服務。",
+    "table_role": null
+  }
+]

@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p15_b18",
+    "lane": "caption_label",
+    "source_text": "環境、社會及管治",
+    "current_translation": "Environmental, Social and Governance"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p15_b18",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

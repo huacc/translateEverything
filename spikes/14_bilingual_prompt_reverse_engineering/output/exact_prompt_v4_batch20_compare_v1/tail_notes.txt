@@ -1,0 +1,6 @@
+### Narrative Notes
+**Key Improvement 1: Institutional Voice and Temporal Precision**  
+Throughout the translation, I systematically replaced generic temporal expressions with year-report-appropriate constructions. For instance, "去年同期" became "prior year" rather than "same period last year," and "按年" was rendered as "year-on-year" in financial contexts but "compared with the prior year" in narrative contexts. This ensures consistency with international annual report conventions and elevates the institutional tone expected by global investors.
+
+**Key Improvement 2: Strategic Recasting of Purpose and Brand Language**  
+I treated AIA's Purpose statement as a proprietary brand asset, consistently rendering "幫助大眾活出健康、長久、好生活" as "helping people live Healthier, Longer, Better Lives" with capitalisation to signal its status as a defined corporate mission. Similarly, I restructured phrases like "體現友邦保險誠可信賴、強韌穩健" into "underpinned by our trusted, resilient character," transforming a descriptive clause into a more dynamic participial construction that better reflects CEO-level strategic narrative while preserving factual accuracy.

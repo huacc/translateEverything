@@ -1,0 +1,19 @@
+任务
+- unit_id：p2_b57
+- 输入单元：短标签 / 小标题
+
+原文
+除外）領先同業，並於大部分市場穩佔
+
+当前译文
+leading the industry (excluding), and maintaining a stable position in most markets
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p2_b57",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

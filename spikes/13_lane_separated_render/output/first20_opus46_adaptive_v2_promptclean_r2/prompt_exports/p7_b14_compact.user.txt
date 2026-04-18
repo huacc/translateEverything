@@ -1,0 +1,19 @@
+任务
+- unit_id：p7_b14
+- 输入单元：短标签 / 小标题
+
+原文
+批復，准予在四川省開業。
+
+当前译文
+approval to commence operations in Sichuan Province.
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p7_b14",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

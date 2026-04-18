@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p9_b32",
+      "translation": "(8) From 2019 onwards, ANP and VONB for Other Markets include our share of results attributable to our 49 per cent interest in Tata AIA Life Insurance Company Limited (Tata AIA Life). ANP and VONB reported for 2018 and prior years have not been restated and do not include any contribution from Tata AIA Life. From 2019 onwards, the Group's VONB excludes VONB attributable to non-controlling interests. VONB for 2018 and prior years has not been restated and, as previously disclosed, has not been adjusted for non-controlling interests. Tata AIA Life's International Financial Reporting Standards results are accounted for using the equity method of accounting. The Group's consolidated financial statements use Tata AIA Life financial information on a one quarter lag basis. For clarity, total weighted premium income does not include any contribution from Tata AIA Life."
+    }
+  ]
+}
+```

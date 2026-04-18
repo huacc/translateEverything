@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p3_b4",
+      "translation": "Listed on Hong Kong Stock Exchange, incorporated and headquartered in Hong Kong, the largest company"
+    }
+  ]
+}
+```

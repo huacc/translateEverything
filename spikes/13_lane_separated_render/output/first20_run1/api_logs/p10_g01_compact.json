@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "compact",
+    "page_no": 10,
+    "group_id": "p10_g01"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是年报英文压缩器，不是重译器。\n语言方向：Traditional Chinese -> English。\n你的任务只是对已有译文做最小必要压缩，以便回填原版面。\n禁止改变数字、单位、术语、专名、比较关系、主体和结论。\n标题不能改成正文，表头不能改成句子，不能输出口语化表达。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市公司企业年报\n{\n  \"document_background\": {\n    \"page_sections\": [\n      {\n        \"source_section\": \"主席報告\",\n        \"target_section\": \"Chairman's Statement\",\n        \"content_type\": \"chairman_statement\",\n        \"page_range\": [\n          10,\n          11\n        ]\n      }\n    ],\n    \"roles\": [\n      {\n        \"source\": \"謝仕榮先生\",\n        \"target\": \"Mr. Tse Sze-wing\",\n        \"role\": \"Independent Non-Executive Chairman\"\n      }\n    ],\n    \"terms\": [],\n    \"style_rules\": [\n      \"Use US$ for U.S. dollar amounts.\",\n      \"Keep listed-company annual report disclosure tone formal and publishable.\",\n      \"Do not change numbers, percentages, years, named entities or financial metric values.\",\n      \"Use established financial abbreviations for table labels when provided.\",\n      \"Keep row and column semantics unchanged.\",\n      \"Use n/m for 無意義.\"\n    ]\n  },\n  \"current_unit\": {\n    \"page_no\": 10,\n    \"unit_id\": \"p10_g01\",\n    \"unit_mode\": \"semantic_group\",\n    \"slot_count\": 5,\n    \"source_text\": \"友邦保險在亞洲歷史悠久，源遠流長，經歷各種社會動盪和不明朗時期仍能妥善管理業務，因而贏得卓著的\\n聲譽，體現友邦保險誠可信賴、強韌穩健，並堅持為持分者做對的事。自2020年初以來，2019冠狀病毒病大流\\n行導致營商環境不斷變化及日趨複雜，而政治、宏觀經濟及資本市場亦出現前所未見的轉移。在這樣的環境下，\\n友邦保險的財務實力，以及「幫助大眾活出健康、長久、好生活」的目標，更具重大意義。本人衷心感謝友邦\\n保險所有員工、代理和合作夥伴，即使面對最嚴峻的挑戰，他們仍關懷社區，克盡己職，專心致志地為客戶、\",\n    \"current_translation\": \"AIA has a long and storied history in Asia. Through various periods of social upheaval and uncertainty, we have managed our business prudently and earned a distinguished reputation, demonstrating that AIA is trustworthy, resilient and steadfast in doing the right thing for our stakeholders. Since early 2020, the COVID-19 pandemic has created a constantly evolving and increasingly complex business environment, with unprecedented shifts in the political, macroeconomic and capital markets landscape. In such circumstances, AIA's financial strength and our purpose of helping people live healthier, longer, better lives take on even greater significance. I am deeply grateful to all AIA employees, agents and partners who, despite facing the most severe challenges, have continued to care for our communities, fulfilled their responsibilities with dedication, and remained focused on serving our customers,\"\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p10_g01\",\n        \"translation\": \"<更紧凑译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p10_g01\",\n      \"translation\": \"AIA has a long and storied history in Asia. Through various periods of social upheaval and uncertainty, we have managed our business prudently and earned a distinguished reputation, demonstrating that AIA is trustworthy, resilient and steadfast in doing the right thing for our stakeholders. Since early 2020, the COVID-19 pandemic has created a constantly evolving and increasingly complex business environment, with unprecedented shifts in the political, macroeconomic and capital markets landscape. In such circumstances, AIA's financial strength and our purpose of helping people live healthier, longer, better lives take on even greater significance. I am deeply grateful to all AIA employees, agents and partners who, despite facing severe challenges, have continued to care for our communities, fulfilled their responsibilities with dedication, and remained focused on serving our customers,\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "e2b7e32e-9772-48f7-acd9-a78ab99528f9",
+    "conversation_id": "e2b7e32e-9772-48f7-acd9-a78ab99528f9",
+    "id": "e2b7e32e-9772-48f7-acd9-a78ab99528f9",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1004,
+      "output_tokens": 199
+    }
+  }
+}

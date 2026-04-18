@@ -1,0 +1,84 @@
+{
+  "stages": [
+    {
+      "stage": "0",
+      "stage_name": "冻结基线",
+      "passed": true,
+      "summary": "基线页、人工参考、v11 对照和问题反馈已冻结。",
+      "details": {
+        "focus_pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ]
+      }
+    },
+    {
+      "stage": "0.5",
+      "stage_name": "冻结学习资产与执行输入",
+      "passed": true,
+      "summary": "资产快照与执行配置快照已落盘。",
+      "details": {
+        "model": "claude-opus-4-6",
+        "compact_threshold": 0.84,
+        "render_dpi": 110
+      }
+    },
+    {
+      "stage": "1",
+      "stage_name": "建立 Anchor IR",
+      "passed": true,
+      "summary": "AnchorBlock 数量与原始块数量一致，且均可追溯。",
+      "details": {
+        "anchor_count": 552,
+        "source_block_count": 552
+      }
+    },
+    {
+      "stage": "2",
+      "stage_name": "组装 SemanticGroup",
+      "passed": true,
+      "summary": "第 19 页尾句并组已打通，侧边栏未混入正文组。",
+      "details": {
+        "tail_group_merged": true,
+        "sidebar_intrusion_count": 0
+      }
+    },
+    {
+      "stage": "3",
+      "stage_name": "Fact Lock 与 Mapping Hit",
+      "passed": true,
+      "summary": "关键股息与金额事实已锁定。",
+      "details": {
+        "final_dividend": [
+          "100.30"
+        ],
+        "total_dividend": [
+          "135.30"
+        ],
+        "dividend_paid_usd": [
+          "US$1.997 billion",
+          "US$1997 million",
+          "US$1,997 million"
+        ]
+      }
+    }
+  ]
+}

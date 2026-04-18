@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p13_b25",
+      "translation": "approach, which provides a solid foundation for building long-term relationships with our customers."
+    }
+  ]
+}
+```

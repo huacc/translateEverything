@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 19,
+    "group_id": "p19_g07"
+  },
+  "request": {
+    "model": "claude-opus-4-6",
+    "max_tokens": 4096,
+    "system": "你是上市公司年报正文翻译助手。\n语言方向：Traditional Chinese -> English。\n只负责翻译当前正文语义组，不负责排版、回填、压缩、分块。\n允许在当前 group 内恢复断句和语义连接，但禁止跨 group 补写、删写或改写事实。\n必须遵守术语锁定和事实锁定。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "任务\n- 语言方向：Traditional Chinese -> English\n- 文档场景：上市公司企业年报\n- 公司：AIA GROUP LIMITED\n- 行业：Life Insurance\n- 报告类型：annual_report\n- 当前页面：19\n- 当前输入单元：正文语义组（group）\n\n翻译要求\n- 只翻译当前正文组，不要承担排版、压缩、分块、回填职责。\n- 可以在当前 group 内恢复断句和段落语义，但不得跨 group 补写或删写。\n- 保持上市公司年报文风：正式、稳定、可出版。\n- 数字、百分比、货币、年份、专有名词必须准确。\n- 如术语锁定与原有表达冲突，优先遵守术语锁定和事实锁定。\n\n页面上下文\n- 当前章节：Group Chief Financial Officer's Review，类型：cfo_review（页码 18-30）\n- 术语使用模式：table\n- 上一组摘要：於2020年12月31日，我們的主要營運公司友邦保險有限公司（AIA Co.）的償付能力充足率仍然非常強勁，為\n489%。於2020年12月31日，在新的集團監管框架下，集團當地資本總和法覆蓋率為374%。日後，我們將披露集\n團當地資...\n- 下一组摘要：我們仍然對友邦保險在整個亞洲地區的業務機會充滿信心。我們將繼續專注於投資資本，以實現具盈利的新業務\n增長，並運用我們的競爭優勢，同時維持審慎的財務管理和實現長期股東價值。\n\n文体与偏好\n- Use US$ for U.S. dollar amounts.\n- Keep listed-company annual report disclosure tone formal and publishable.\n- Do not change numbers, percentages, years, named entities or financial metric values.\n- Use established financial abbreviations for table labels when provided.\n- Keep row and column semantics unchanged.\n\n术语锁定\n- 友邦保險 => AIA [glossary_term]\n\n事实锁定\n- final_dividend_per_share: 100.30港仙 -> 100.30 Hong Kong cents per share\n- total_dividend_per_share: 135.30港仙 -> 135.30 Hong Kong cents per share\n- percentage_7.5: 7.5% -> 7.5%\n- percentage_6.9: 6.9% -> 6.9%\n\n当前正文组\n- group_id：p19_g07\n- group_bbox：[68.01, 525.22, 521.47, 569.18]\n- 原文：\n董事會建議末期股息增加7.5%至每股100.30港仙，並須於本公司應屆股東週年大會上獲股東批准。這使2020年的\n全年股息總額為每股135.30港仙，較2019年的全年股息總額上升6.9%。這是秉承友邦保險行之已久的審慎、可持\n續及漸進的派息政策，讓集團可把握未來的增長機遇，並且保持財務靈活性。\n\n输出格式\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p19_g07\",\n      \"translation\": \"<译文>\"\n    }\n  ]\n}"
+      }
+    ],
+    "thinking": {
+      "type": "adaptive"
+    },
+    "output_config": {
+      "effort": "max"
+    }
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p19_g07\",\n      \"translation\": \"The Board has proposed a final dividend of 100.30 Hong Kong cents per share, an increase of 7.5%, subject to shareholders' approval at the Company's forthcoming Annual General Meeting. This brings the total dividend for 2020 to 135.30 Hong Kong cents per share, an increase of 6.9% over the total dividend for 2019. This is in line with AIA's long-standing prudent, sustainable and progressive dividend policy, which allows the Group to capture future growth opportunities while maintaining financial flexibility.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "2acc4e04-4343-4206-889c-961874b0380d",
+    "conversation_id": "2acc4e04-4343-4206-889c-961874b0380d",
+    "id": "2acc4e04-4343-4206-889c-961874b0380d",
+    "model": "claude-opus-4-6",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1173,
+      "output_tokens": 139
+    }
+  }
+}

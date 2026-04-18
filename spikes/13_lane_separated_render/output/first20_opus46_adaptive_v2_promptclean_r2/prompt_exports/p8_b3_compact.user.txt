@@ -1,0 +1,19 @@
+任务
+- unit_id：p8_b3
+- 输入单元：短标签 / 小标题
+
+原文
+新業務價值(2)(8)
+
+当前译文
+New Business Value(2)(8)
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p8_b3",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

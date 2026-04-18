@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 5,
+    "group_id": "p5_b5"
+  },
+  "request": {
+    "model": "claude-opus-4-6",
+    "max_tokens": 4096,
+    "system": "你是上市公司年报标签翻译助手。\n语言方向：Traditional Chinese -> English。\n只负责翻译当前短标签或小标题，不负责排版、回填、压缩。\n保持短、稳、正式，不要扩写成解释句。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "任务\n- 语言方向：Traditional Chinese -> English\n- 文档场景：上市公司企业年报\n- 公司：AIA GROUP LIMITED\n- 当前页面：5\n- 当前输入单元：短标签 / 小标题\n\n翻译要求\n- 保持短、稳、正式，不要自由改写。\n- 不要把短标签扩写成解释性句子。\n- 不负责排版和回填。\n\n页面上下文\n- 术语使用模式：heading\n- 上一组摘要：提供醫療物資，並為前線醫護和清潔人員提供免費保險\n- 下一组摘要：憂慮。我們為超過2,500萬份保單提供免費的2019冠狀病毒\n病相關保障覆蓋，並於12個市場提供10億美元的保費支\n援。年內，我們已支付逾160億美元的保險給付和理賠，\n\n当前标签\n- unit_id：p5_b5\n- 原文：\n保障，讓他們冒著生命危險執行抗疫工作時能減輕一份\n\n输出格式\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p5_b5\",\n      \"translation\": \"<译文>\"\n    }\n  ]\n}"
+      }
+    ],
+    "thinking": {
+      "type": "adaptive"
+    },
+    "output_config": {
+      "effort": "max"
+    }
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p5_b5\",\n      \"translation\": \"protection, allowing them to reduce one concern as they risk their lives in pandemic response work\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "77506831-c8bf-477f-a279-7486b5454f48",
+    "conversation_id": "77506831-c8bf-477f-a279-7486b5454f48",
+    "id": "77506831-c8bf-477f-a279-7486b5454f48",
+    "model": "claude-opus-4-6",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 492,
+      "output_tokens": 55
+    }
+  }
+}

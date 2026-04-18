@@ -1,0 +1,119 @@
+文档场景：上市保险公司企业年报。
+先满足 fact_locks，再保证术语稳定、语义完整和年报文风。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 19,
+    "page_sections": [
+      {
+        "source_section": "集團首席財務總監回顧",
+        "target_section": "Group Chief Financial Officer's Review",
+        "content_type": "cfo_review",
+        "page_range": [
+          18,
+          30
+        ]
+      }
+    ],
+    "term_usage_mode": "table",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "我們的高質素、經常性盈利來源以及對有效保單組合的積極管理，帶動稅後營運溢利增長了5%至59.42億美元，\n並使營運溢利率穩定在16.9%。所收取的續保保費增加了10%，經常性保費總額佔2020年所收取保費的90%以\n上。稅後營運溢利增...",
+      "next_group_source_excerpt": "於2020年12月31日，我們的主要營運公司友邦保險有限公司（AIA Co.）的償付能力充足率仍然非常強勁，為\n489%。於2020年12月31日，在新的集團監管框架下，集團當地資本總和法覆蓋率為374%。日後，我們將披露集\n團當地資..."
+    }
+  },
+  "mapping_hits": [
+    {
+      "source": "產生的基本自由盈餘",
+      "target": "UFSG",
+      "hit_type": "context_term"
+    },
+    {
+      "source": "自由盈餘",
+      "target": "Free Surplus",
+      "hit_type": "context_term"
+    },
+    {
+      "source": "有效保單組合",
+      "target": "in-force portfolio",
+      "hit_type": "context_term"
+    },
+    {
+      "source": "有效保單",
+      "target": "In-Force Business",
+      "hit_type": "context_term"
+    }
+  ],
+  "fact_locks": [
+    {
+      "label": "date_2020",
+      "fact_type": "date",
+      "source_value": "2020年12月31日",
+      "expected_forms": [
+        "31 12 2020"
+      ]
+    },
+    {
+      "label": "ufsg_usd",
+      "fact_type": "usd_scaled_amount",
+      "source_value": "58.43億美元",
+      "expected_forms": [
+        "US$5.843 billion",
+        "US$5843 million",
+        "US$5,843 million"
+      ]
+    },
+    {
+      "label": "dividend_paid_usd",
+      "fact_type": "usd_scaled_amount",
+      "source_value": "19.97億美元",
+      "expected_forms": [
+        "US$1.997 billion",
+        "US$1997 million",
+        "US$1,997 million"
+      ]
+    },
+    {
+      "label": "free_surplus_usd",
+      "fact_type": "usd_scaled_amount",
+      "source_value": "134.73億美元",
+      "expected_forms": [
+        "US$13.473 billion",
+        "US$13473 million",
+        "US$13,473 million"
+      ]
+    },
+    {
+      "label": "percentage_7",
+      "fact_type": "percentage",
+      "source_value": "7%",
+      "expected_forms": [
+        "7%"
+      ]
+    }
+  ],
+  "current_group": {
+    "group_id": "p19_g05",
+    "lane": "body",
+    "group_text": "產生的基本自由盈餘為58.43億美元，增長了7%，是由我們有效保單組合的持續增長和我們對此積極管理所帶\n動，這足以抵銷預期投資回報降低的影響。於2020年12月31日，本集團的財務狀況仍然十分強勁，於派付股息\n19.97億美元後，自由盈餘為134.73億美元。",
+    "source_block_ids": [
+      "p19_b18",
+      "p19_b19",
+      "p19_b20"
+    ],
+    "source_block_count": 3
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p19_g05",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

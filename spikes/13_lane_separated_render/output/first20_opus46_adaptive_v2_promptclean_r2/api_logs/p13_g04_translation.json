@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 13,
+    "group_id": "p13_g04"
+  },
+  "request": {
+    "model": "claude-opus-4-6",
+    "max_tokens": 4096,
+    "system": "你是上市公司年报正文翻译助手。\n语言方向：Traditional Chinese -> English。\n只负责翻译当前正文语义组，不负责排版、回填、压缩、分块。\n允许在当前 group 内恢复断句和语义连接，但禁止跨 group 补写、删写或改写事实。\n必须遵守术语锁定和事实锁定。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "任务\n- 语言方向：Traditional Chinese -> English\n- 文档场景：上市公司企业年报\n- 公司：AIA GROUP LIMITED\n- 行业：Life Insurance\n- 报告类型：annual_report\n- 当前页面：13\n- 当前输入单元：正文语义组（group）\n\n翻译要求\n- 只翻译当前正文组，不要承担排版、压缩、分块、回填职责。\n- 可以在当前 group 内恢复断句和段落语义，但不得跨 group 补写或删写。\n- 保持上市公司年报文风：正式、稳定、可出版。\n- 数字、百分比、货币、年份、专有名词必须准确。\n- 如术语锁定与原有表达冲突，优先遵守术语锁定和事实锁定。\n\n页面上下文\n- 当前章节：Group Chief Executive and President's Report，类型：ceo_report（页码 12-16）\n- 术语使用模式：overview_narrative\n- 上一组摘要：政策，讓本集團可把握未來的增長機遇，並且保持財務靈活性。\n- 下一组摘要：一直是我們表現卓越的重要動力。\n\n文体与偏好\n- Use US$ for U.S. dollar amounts.\n- Keep listed-company annual report disclosure tone formal and publishable.\n- Do not change numbers, percentages, years, named entities or financial metric values.\n- For overview narrative, use full financial metric name plus abbreviation when provided.\n- For financial review and business metrics narrative, use established abbreviations when provided.\n\n术语锁定\n- 友邦保險 => AIA [glossary_term]\n\n当前正文组\n- group_id：p13_g04\n- group_bbox：[68.04, 382.73, 521.5, 426.69]\n- 原文：\n友邦保險具有多項顯著優勢，讓我們在競爭激烈的市場別樹一幟。我們在亞洲經營數十載，擁有區內無可比擬的\n平台，並於我們業務所在的大部分市場雄踞領導地位。我們始終如一地百分百專注於亞洲市場，有助我們在全球\n最具吸引力的壽險業地區全面把握增長機遇。這份專注結合我們領導團隊在亞洲的豐富經驗及員工的優秀質素，\n\n输出格式\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p13_g04\",\n      \"translation\": \"<译文>\"\n    }\n  ]\n}"
+      }
+    ],
+    "thinking": {
+      "type": "adaptive"
+    },
+    "output_config": {
+      "effort": "max"
+    }
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p13_g04\",\n      \"translation\": \"AIA has a number of significant advantages that set us apart in highly competitive markets. We have an unparalleled platform in Asia built over decades of operating in the region, and we hold leading positions in most of the markets where we operate. Our unwavering 100 per cent focus on Asia enables us to fully capture growth opportunities in the world's most attractive life insurance region. This focus, combined with our leadership team's extensive experience in Asia and the outstanding quality of our people,\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "8a174723-7ec7-4522-80cf-f4d5eee09f66",
+    "conversation_id": "8a174723-7ec7-4522-80cf-f4d5eee09f66",
+    "id": "8a174723-7ec7-4522-80cf-f4d5eee09f66",
+    "model": "claude-opus-4-6",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 937,
+      "output_tokens": 135
+    }
+  }
+}

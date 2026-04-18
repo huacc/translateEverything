@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 9,
+    "group_id": "p9_b32"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是上市保险公司年报中的表格翻译器。\n语言方向：Traditional Chinese -> English。\n只处理当前 table unit。\n数字、百分比、括号、货币、年份和顺序必须准确。\n只翻译文本标签，不要改写数字，不要补充解释。\n不要承担版面回填职责。\n只输出 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市保险公司企业年报。\n当前输入属于表格通道。不要把表格行改写成正文句子。\n{\n  \"task\": {\n    \"scenario\": \"listed_company_annual_report\",\n    \"industry\": \"Life Insurance\",\n    \"report_type\": \"annual_report\",\n    \"company_name_target\": \"AIA GROUP LIMITED\",\n    \"direction\": \"Traditional Chinese -> English\"\n  },\n  \"page_context\": {\n    \"page_no\": 9,\n    \"page_sections\": [\n      {\n        \"source_section\": \"概覽\",\n        \"target_section\": \"Overview\",\n        \"content_type\": \"executive_summary\",\n        \"page_range\": [\n          8,\n          16\n        ]\n      }\n    ],\n    \"term_usage_mode\": \"table\",\n    \"neighbor_context\": {\n      \"previous_group_source_excerpt\": \"(1) 自2017年起，財務資料按12月31日的財政年度結算基準\\n列報。於2016年的財務資料按11月30日的財政年度結算\\n基準列報。\",\n      \"next_group_source_excerpt\": \"(2) 新業務價值是期間內所售新業務在未來產生的預計稅後法定溢利\\n按銷售當時計算的現值扣除用作支持新業務而持有超過法定準備\\n金所需資金的成本。\"\n    }\n  },\n  \"mapping_hits\": [\n    {\n      \"source\": \"新業務價值\",\n      \"target\": \"VONB\",\n      \"hit_type\": \"context_term\"\n    },\n    {\n      \"source\": \"年化新保費\",\n      \"target\": \"ANP\",\n      \"hit_type\": \"context_term\"\n    },\n    {\n      \"source\": \"國際財務報告準則\",\n      \"target\": \"International Financial Reporting Standards\",\n      \"hit_type\": \"context_term\"\n    }\n  ],\n  \"fact_locks\": [],\n  \"current_unit\": {\n    \"unit_id\": \"p9_b32\",\n    \"lane\": \"table\",\n    \"table_role\": \"header\",\n    \"source_text\": \"(8) 自2019年起，其他市場的年化新保費及新業務價值包括我們於\\nTata AIA Life Insurance Company Limited (Tata AIA Life)所持\\n49%股權的應佔業績。2018年或以前所呈報的年化新保費及新業\\n務價值並無重列，並且不包括來自Tata AIA Life的任何貢獻。\\n自2019年起，本集團新業務價值不包括非控股權益應佔的新業務\\n價值。2018年或以前的新業務價值並無重列 ，如早前所披露，\\n並未扣除非控股權益。Tata AIA Life的國際財務報告準則業績乃\\n採用權益會計法計算。本集團的合併財務報表使用按滯後一個\\n季度基準的Tata AIA Life財務資料。為明確起見，總加權保費\\n收入不包括來自Tata AIA Life的任何貢獻。\",\n    \"source_line_count\": 10\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p9_b32\",\n        \"translation\": \"<译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p9_b32\",\n      \"translation\": \"(8) From 2019 onwards, ANP and VONB for other markets include our share of results from our 49% equity interest in Tata AIA Life Insurance Company Limited (Tata AIA Life). ANP and VONB reported in 2018 or earlier have not been restated and do not include any contribution from Tata AIA Life. From 2019 onwards, the Group's VONB excludes VONB attributable to non-controlling interests. VONB for 2018 or earlier has not been restated and, as previously disclosed, was not adjusted for non-controlling interests. Tata AIA Life's International Financial Reporting Standards results are calculated using the equity method. The Group's consolidated financial statements use Tata AIA Life financial data on a one-quarter lag basis. For clarity, total weighted premium income does not include any contribution from Tata AIA Life.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "9ad4a652-7875-409f-b4d5-b0bc92c1afca",
+    "conversation_id": "9ad4a652-7875-409f-b4d5-b0bc92c1afca",
+    "id": "9ad4a652-7875-409f-b4d5-b0bc92c1afca",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1093,
+      "output_tokens": 217
+    }
+  }
+}

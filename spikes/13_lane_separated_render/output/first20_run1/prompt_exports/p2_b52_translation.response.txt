@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p2_b52",
+      "translation": "\"1299\"); its American Depositary Shares (Level 1) on"
+    }
+  ]
+}
+```

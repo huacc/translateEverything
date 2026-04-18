@@ -1,0 +1,19 @@
+任务
+- unit_id：p11_b17
+- 输入单元：短标签 / 小标题
+
+原文
+成員、高級管理層團隊以及全體員工共同秉持的優先指標。
+
+当前译文
+a priority shared by our Board members, senior management team and all employees.
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p11_b17",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

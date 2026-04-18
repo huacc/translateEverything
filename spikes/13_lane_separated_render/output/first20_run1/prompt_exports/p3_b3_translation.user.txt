@@ -1,0 +1,57 @@
+文档场景：上市保险公司企业年报。
+先满足 fact_locks，再保证术语稳定、语义完整和年报文风。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 3,
+    "page_sections": [
+      {
+        "source_section": "友邦保險一覽",
+        "target_section": "AIA At-A-Glance",
+        "content_type": "company_overview",
+        "page_range": [
+          3
+        ]
+      }
+    ],
+    "term_usage_mode": "table",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "百萬圓桌會\n註冊會員人數\n全球之冠",
+      "next_group_source_excerpt": "在香港聯交所上市、\n香港註冊並將\n總部設於香港\n最大的公司"
+    }
+  },
+  "mapping_hits": [],
+  "fact_locks": [
+    {
+      "label": "percentage_100",
+      "fact_type": "percentage",
+      "source_value": "100%",
+      "expected_forms": [
+        "100%"
+      ]
+    }
+  ],
+  "current_group": {
+    "group_id": "p3_b3",
+    "lane": "body",
+    "group_text": "全球唯一一家總部\n設於香港、於香港上市\n並100%\n專注於亞洲",
+    "source_block_ids": [
+      "p3_b3"
+    ],
+    "source_block_count": 1
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p3_b3",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

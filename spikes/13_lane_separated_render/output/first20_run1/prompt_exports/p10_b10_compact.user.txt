@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p10_b10",
+    "lane": "caption_label",
+    "source_text": "我們的同事關懷社群，克盡己職，",
+    "current_translation": "Our colleagues care for the community and fulfill their duties,"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p10_b10",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

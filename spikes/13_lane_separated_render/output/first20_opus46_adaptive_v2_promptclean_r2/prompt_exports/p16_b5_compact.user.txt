@@ -1,0 +1,19 @@
+任务
+- unit_id：p16_b5
+- 输入单元：短标签 / 小标题
+
+原文
+境、社會及管治方面領先全球業界的志向。
+
+当前译文
+environmental, social and governance leadership globally in our industry
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p16_b5",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

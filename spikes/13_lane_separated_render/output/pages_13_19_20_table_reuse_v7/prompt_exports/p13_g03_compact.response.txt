@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p13_g03",
+      "translation": "Despite COVID-19 containment measures reducing VONB to US$2.765 billion, sales momentum turned positive as lockdown restrictions eased, with strong momentum in early 2021, VONB growing 15% year-on-year in the first two months. Our large and growing in-force policy portfolio generated high-quality recurring income, driving 5% OPAT growth in 2020, with UFSG growing 7%. As at 31 December 2020, EV Equity reached a record US$67.2 billion, with Group LCSM cover ratio at 374%, demonstrating"
+    }
+  ]
+}
+```

@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 19,
+    "group_id": "p19_g05"
+  },
+  "request": {
+    "model": "claude-opus-4-6",
+    "max_tokens": 4096,
+    "system": "你是上市公司年报翻译器。\n语言方向：Traditional Chinese -> English。\n只处理当前 body semantic group。\n只可在当前组内恢复跨块断句，不得跨组补写、跨组删写或改写事实。\n必须严格满足 mapping_hits 与 fact_locks。\n版面回填、字体压缩、分块分配不是你的职责，不要为了适配版面删词改义。\n保持正式、稳定、可出版的企业年报文风。\n只输出 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市保险公司企业年报。\n先满足 fact_locks，再保证术语稳定、语义完整和年报文风。\n{\n  \"task\": {\n    \"scenario\": \"listed_company_annual_report\",\n    \"industry\": \"Life Insurance\",\n    \"report_type\": \"annual_report\",\n    \"company_name_target\": \"AIA GROUP LIMITED\",\n    \"direction\": \"Traditional Chinese -> English\"\n  },\n  \"page_context\": {\n    \"page_no\": 19,\n    \"page_sections\": [\n      {\n        \"source_section\": \"集團首席財務總監回顧\",\n        \"target_section\": \"Group Chief Financial Officer's Review\",\n        \"content_type\": \"cfo_review\",\n        \"page_range\": [\n          18,\n          30\n        ]\n      }\n    ],\n    \"term_usage_mode\": \"table\",\n    \"neighbor_context\": {\n      \"previous_group_source_excerpt\": \"我們的高質素、經常性盈利來源以及對有效保單組合的積極管理，帶動稅後營運溢利增長了5%至59.42億美元，\\n並使營運溢利率穩定在16.9%。所收取的續保保費增加了10%，經常性保費總額佔2020年所收取保費的90%以\\n上。稅後營運溢利增...\",\n      \"next_group_source_excerpt\": \"於2020年12月31日，我們的主要營運公司友邦保險有限公司（AIA Co.）的償付能力充足率仍然非常強勁，為\\n489%。於2020年12月31日，在新的集團監管框架下，集團當地資本總和法覆蓋率為374%。日後，我們將披露集\\n團當地資...\"\n    }\n  },\n  \"mapping_hits\": [\n    {\n      \"source\": \"產生的基本自由盈餘\",\n      \"target\": \"UFSG\",\n      \"hit_type\": \"context_term\"\n    },\n    {\n      \"source\": \"自由盈餘\",\n      \"target\": \"Free Surplus\",\n      \"hit_type\": \"context_term\"\n    },\n    {\n      \"source\": \"有效保單組合\",\n      \"target\": \"in-force portfolio\",\n      \"hit_type\": \"context_term\"\n    },\n    {\n      \"source\": \"有效保單\",\n      \"target\": \"In-Force Business\",\n      \"hit_type\": \"context_term\"\n    }\n  ],\n  \"fact_locks\": [\n    {\n      \"label\": \"date_2020\",\n      \"fact_type\": \"date\",\n      \"source_value\": \"2020年12月31日\",\n      \"expected_forms\": [\n        \"31 12 2020\"\n      ]\n    },\n    {\n      \"label\": \"ufsg_usd\",\n      \"fact_type\": \"usd_scaled_amount\",\n      \"source_value\": \"58.43億美元\",\n      \"expected_forms\": [\n        \"US$5.843 billion\",\n        \"US$5843 million\",\n        \"US$5,843 million\"\n      ]\n    },\n    {\n      \"label\": \"dividend_paid_usd\",\n      \"fact_type\": \"usd_scaled_amount\",\n      \"source_value\": \"19.97億美元\",\n      \"expected_forms\": [\n        \"US$1.997 billion\",\n        \"US$1997 million\",\n        \"US$1,997 million\"\n      ]\n    },\n    {\n      \"label\": \"free_surplus_usd\",\n      \"fact_type\": \"usd_scaled_amount\",\n      \"source_value\": \"134.73億美元\",\n      \"expected_forms\": [\n        \"US$13.473 billion\",\n        \"US$13473 million\",\n        \"US$13,473 million\"\n      ]\n    },\n    {\n      \"label\": \"percentage_7\",\n      \"fact_type\": \"percentage\",\n      \"source_value\": \"7%\",\n      \"expected_forms\": [\n        \"7%\"\n      ]\n    }\n  ],\n  \"current_group\": {\n    \"group_id\": \"p19_g05\",\n    \"lane\": \"body\",\n    \"group_text\": \"產生的基本自由盈餘為58.43億美元，增長了7%，是由我們有效保單組合的持續增長和我們對此積極管理所帶\\n動，這足以抵銷預期投資回報降低的影響。於2020年12月31日，本集團的財務狀況仍然十分強勁，於派付股息\\n19.97億美元後，自由盈餘為134.73億美元。\",\n    \"source_block_ids\": [\n      \"p19_b18\",\n      \"p19_b19\",\n      \"p19_b20\"\n    ],\n    \"source_block_count\": 3\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p19_g05\",\n        \"translation\": \"<译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ],
+    "thinking": {
+      "type": "adaptive"
+    },
+    "output_config": {
+      "effort": "max"
+    }
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p19_g05\",\n      \"translation\": \"UFSG was US$5.843 billion, up 7%, driven by the continued growth and active management of our in-force portfolio, which more than offset the impact of lower expected investment returns. The Group's financial position remained very strong as at 31 December 2020, with Free Surplus of US$13.473 billion after paying dividends of US$1.997 billion.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "3ce7a4ad-14e6-4955-85df-2c5c9168242c",
+    "conversation_id": "3ce7a4ad-14e6-4955-85df-2c5c9168242c",
+    "id": "3ce7a4ad-14e6-4955-85df-2c5c9168242c",
+    "model": "claude-opus-4-6",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1494,
+      "output_tokens": 115
+    }
+  }
+}

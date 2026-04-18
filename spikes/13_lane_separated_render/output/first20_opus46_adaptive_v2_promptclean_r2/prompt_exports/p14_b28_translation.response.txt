@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p14_b28",
+      "translation": "recorded very strong New Business Value growth in the first two months."
+    }
+  ]
+}
+```

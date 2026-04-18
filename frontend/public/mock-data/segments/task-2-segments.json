@@ -1,0 +1,81 @@
+{
+  "task_id": 2,
+  "total_segments": 100,
+  "page_size": 20,
+  "current_page": 1,
+  "total_pages": 5,
+  "segments": [
+    {
+      "id": 1,
+      "page_number": 1,
+      "segment_index": 1,
+      "source_text": "Product Manual - Version 2.0",
+      "target_text": "产品手册 - 版本 2.0",
+      "status": "completed",
+      "quality_score": 0.99,
+      "issues": [],
+      "created_at": "2026-04-17T15:21:00Z",
+      "updated_at": "2026-04-17T15:22:00Z"
+    },
+    {
+      "id": 2,
+      "page_number": 1,
+      "segment_index": 2,
+      "source_text": "This manual provides comprehensive guidance on product installation, configuration, and usage.",
+      "target_text": "本手册提供了产品安装、配置和使用的全面指导。",
+      "status": "completed",
+      "quality_score": 0.96,
+      "issues": [],
+      "created_at": "2026-04-17T15:22:00Z",
+      "updated_at": "2026-04-17T15:23:00Z"
+    },
+    {
+      "id": 3,
+      "page_number": 2,
+      "segment_index": 1,
+      "source_text": "System Requirements: Windows 10 or later, 8GB RAM minimum, 50GB free disk space.",
+      "target_text": "系统要求：Windows 10或更高版本，最低8GB内存，50GB可用磁盘空间。",
+      "status": "completed",
+      "quality_score": 0.97,
+      "issues": [],
+      "created_at": "2026-04-17T15:23:00Z",
+      "updated_at": "2026-04-17T15:24:00Z"
+    },
+    {
+      "id": 4,
+      "page_number": 3,
+      "segment_index": 1,
+      "source_text": "Installation Steps: 1. Download the installer from our website. 2. Run the setup wizard. 3. Follow the on-screen instructions.",
+      "target_text": "安装步骤：1. 从我们的网站下载安装程序。2. 运行安装向导。3. 按照屏幕上的说明操作。",
+      "status": "completed",
+      "quality_score": 0.95,
+      "issues": [
+        {
+          "type": "info",
+          "message": "建议使用更正式的表达",
+          "suggestion": "按照屏幕提示进行操作"
+        }
+      ],
+      "created_at": "2026-04-17T15:24:00Z",
+      "updated_at": "2026-04-17T15:25:00Z"
+    },
+    {
+      "id": 5,
+      "page_number": 4,
+      "segment_index": 1,
+      "source_text": "Configuration: Access the settings panel from the main menu to customize your preferences.",
+      "target_text": "配置：从主菜单访问设置面板以自定义您的偏好设置。",
+      "status": "completed",
+      "quality_score": 0.94,
+      "issues": [
+        {
+          "type": "warning",
+          "message": "术语一致性",
+          "suggestion": "建议使用'首选项'替代'偏好设置'"
+        }
+      ],
+      "created_at": "2026-04-17T15:25:00Z",
+      "updated_at": "2026-04-17T15:26:00Z"
+    }
+  ]
+}

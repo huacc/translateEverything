@@ -1,0 +1,42 @@
+文档场景：上市公司企业年报
+{
+  "document_background": {
+    "page_sections": [
+      {
+        "source_section": "集團首席財務總監回顧",
+        "target_section": "Group Chief Financial Officer's Review",
+        "content_type": "cfo_review",
+        "page_range": [
+          18,
+          30
+        ]
+      }
+    ],
+    "roles": [],
+    "terms": [],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "Use established financial abbreviations for table labels when provided.",
+      "Keep row and column semantics unchanged.",
+      "Use n/m for 無意義."
+    ]
+  },
+  "current_unit": {
+    "page_no": 19,
+    "unit_id": "p19_g06",
+    "unit_mode": "semantic_group",
+    "slot_count": 3,
+    "source_text": "於2020年12月31日，我們的主要營運公司友邦保險有限公司（AIA Co.）的償付能力充足率仍然非常強勁，為\n489%。於2020年12月31日，在新的集團監管框架下，集團當地資本總和法覆蓋率為374%。日後，我們將披露集\n團當地資本總和法覆蓋率，作為衡量本集團監管償付能力的主要指標。",
+    "current_translation": "As at 31 December 2020, the solvency ratio of our principal operating company, AIA Company Limited (AIA Co.), remained very strong at 489%. As at 31 December 2020, under the new group supervisory framework, the Group LCSM cover ratio was 374%. Going forward, we will disclose the Group LCSM cover ratio as the primary measure of the Group's regulatory solvency."
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p19_g06",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

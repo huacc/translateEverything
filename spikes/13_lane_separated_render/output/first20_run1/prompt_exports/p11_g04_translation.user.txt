@@ -1,0 +1,64 @@
+文档场景：上市保险公司企业年报。
+先满足 fact_locks，再保证术语稳定、语义完整和年报文风。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 11,
+    "page_sections": [
+      {
+        "source_section": "主席報告",
+        "target_section": "Chairman's Statement",
+        "content_type": "chairman_statement",
+        "page_range": [
+          10,
+          11
+        ]
+      }
+    ],
+    "term_usage_mode": "table",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "多年來的卓越領導及對友邦保險所作出的重大貢獻。",
+      "next_group_source_excerpt": "成員、高級管理層團隊以及全體員工共同秉持的優先指標。"
+    }
+  },
+  "mapping_hits": [
+    {
+      "source": "環境、社會及管治",
+      "target": "Environmental, Social and Governance",
+      "hit_type": "context_term"
+    },
+    {
+      "source": "友邦保險",
+      "target": "AIA",
+      "hit_type": "glossary_term"
+    }
+  ],
+  "fact_locks": [],
+  "current_group": {
+    "group_id": "p11_g04",
+    "lane": "body",
+    "group_text": "環境、社會及管治議題對全球的影響日形重要。我們當竭盡所能，協助推動社會邁向更美好的未來，而我們的環\n境、社會及管治措施在2020年再度備受肯定。根據評級機構Sustainalytics的評選，友邦保險在超過270家保險公\n司中排名第二，足證我們卓越的企業管治實力和質素。此外，我們繼續榮獲Institutional Shareholder Services\nInc.(ISS)頒發「Prime」環境、社會及管治企業評級(ESG Corporate Rating)，認同我們為業界可持續發展表現\n最佳的公司之一。我們相信我們在這方面仍需採取更多措施，為社區實現更美好的成果。這仍是我個人與董事會",
+    "source_block_ids": [
+      "p11_b12",
+      "p11_b13",
+      "p11_b14",
+      "p11_b15",
+      "p11_b16"
+    ],
+    "source_block_count": 5
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p11_g04",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

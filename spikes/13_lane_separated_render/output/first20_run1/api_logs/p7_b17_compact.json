@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "compact",
+    "page_no": 7,
+    "group_id": "p7_b17"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是版面压缩器。\n语言方向：Traditional Chinese -> English。\n只做最小必要压缩。\n不得改动数字、百分比、年份、金额、专有名词。\n只输出 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市保险公司企业年报。\n{\n  \"current_unit\": {\n    \"unit_id\": \"p7_b17\",\n    \"lane\": \"caption_label\",\n    \"source_text\": \"六年擁有最多百萬圓桌會註冊會員。\",\n    \"current_translation\": \"Six consecutive years with the most Million Dollar Round Table members.\"\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p7_b17\",\n        \"translation\": \"<更紧凑译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p7_b17\",\n      \"translation\": \"Six years leading in Million Dollar Round Table members.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "fa9a0908-41da-482b-844a-cfd047ab802a",
+    "conversation_id": "fa9a0908-41da-482b-844a-cfd047ab802a",
+    "id": "fa9a0908-41da-482b-844a-cfd047ab802a",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 240,
+      "output_tokens": 47
+    }
+  }
+}

@@ -1,0 +1,19 @@
+任务
+- unit_id：p7_b3
+- 输入单元：短标签 / 小标题
+
+原文
+友邦保險宣佈設立「友邦獎學金」，並承諾
+
+当前译文
+AIA announces establishment of AIA Scholarship and commits
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p7_b3",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

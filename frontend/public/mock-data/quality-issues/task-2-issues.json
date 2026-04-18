@@ -1,0 +1,48 @@
+{
+  "task_id": 2,
+  "total_issues": 3,
+  "issues": [
+    {
+      "id": 1,
+      "segment_id": 4,
+      "page_number": 3,
+      "type": "info",
+      "severity": "info",
+      "category": "style",
+      "message": "建议使用更正式的表达",
+      "source_text": "Installation Steps: 1. Download the installer from our website. 2. Run the setup wizard. 3. Follow the on-screen instructions.",
+      "target_text": "安装步骤：1. 从我们的网站下载安装程序。2. 运行安装向导。3. 按照屏幕上的说明操作。",
+      "suggestion": "按照屏幕提示进行操作",
+      "status": "open",
+      "created_at": "2026-04-17T15:24:00Z"
+    },
+    {
+      "id": 2,
+      "segment_id": 5,
+      "page_number": 4,
+      "type": "warning",
+      "severity": "warning",
+      "category": "terminology",
+      "message": "术语一致性",
+      "source_text": "Configuration: Access the settings panel from the main menu to customize your preferences.",
+      "target_text": "配置：从主菜单访问设置面板以自定义您的偏好设置。",
+      "suggestion": "建议使用'首选项'替代'偏好设置'",
+      "status": "open",
+      "created_at": "2026-04-17T15:25:00Z"
+    },
+    {
+      "id": 3,
+      "segment_id": 2,
+      "page_number": 1,
+      "type": "info",
+      "severity": "info",
+      "category": "style",
+      "message": "可以使用更简洁的表达",
+      "source_text": "This manual provides comprehensive guidance on product installation, configuration, and usage.",
+      "target_text": "本手册提供了产品安装、配置和使用的全面指导。",
+      "suggestion": "本手册提供产品安装、配置和使用指南。",
+      "status": "open",
+      "created_at": "2026-04-17T15:22:00Z"
+    }
+  ]
+}

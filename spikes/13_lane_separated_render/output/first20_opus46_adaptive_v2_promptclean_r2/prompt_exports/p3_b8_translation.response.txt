@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p3_b8",
+      "translation": "Serving holders of over 38 million individual policies and over 16 million members of group insurance schemes"
+    }
+  ]
+}
+```

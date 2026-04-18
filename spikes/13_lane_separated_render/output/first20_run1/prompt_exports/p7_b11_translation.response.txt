@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p7_b11",
+      "translation": "restructured its business into the first life insurance subsidiary, and the relevant"
+    }
+  ]
+}
+```

@@ -1,0 +1,6416 @@
+{
+  "pages": [
+    {
+      "page_no": 1,
+      "unit_count": 4,
+      "reports": [
+        {
+          "unit_id": "p1_b1",
+          "mode": "single_block",
+          "block_ids": [
+            "p1_b1"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.954,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p1_b2",
+          "mode": "single_block",
+          "block_ids": [
+            "p1_b2"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.408,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p1_b3",
+          "mode": "single_block",
+          "block_ids": [
+            "p1_b3"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.944,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p1_b4",
+          "mode": "single_block",
+          "block_ids": [
+            "p1_b4"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.965,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        }
+      ]
+    },
+    {
+      "page_no": 2,
+      "unit_count": 69,
+      "reports": [
+        {
+          "unit_id": "p2_b1",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b1"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b2",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b2"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.687,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b3",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b3"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b4",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b4"
+          ],
+          "translation_source": "glossary_exact",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.636,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b5",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b5"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.693,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b6",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b6"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.926,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b7",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b7"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.682,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b8",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b8"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b9",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b9"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.944,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b10",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b10"
+          ],
+          "translation_source": "glossary_exact",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.615,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b11",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b11"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b12",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b12"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.768,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b13",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b13"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b14",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b14"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.548,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b15",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b15"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b16",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b16"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b17",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b17"
+          ],
+          "translation_source": "glossary_exact",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.499,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b18",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b18"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.749,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b19",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b19"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b20",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b20"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b21",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b21"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b22",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b22"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b23",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b23"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b24",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b24"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.964,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b25",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b25"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 0.918,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b26",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b26"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.825,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b27",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b27"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 0.972,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b28",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b28"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b29",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b29"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 0.877,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b30",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b30"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b31",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b31"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.816,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b32",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b32"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.812,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b33",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b33"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.841,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b34",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b34"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.939,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b35",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b35"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.604,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b36",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b36"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b37",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b37"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b38",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b38"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b39",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b39"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b40",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b40"
+          ],
+          "translation_source": "glossary_exact",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.532,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b41",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b41"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.967,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b42",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b42"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b43",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b43"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.739,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b44",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b44"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.833,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b45",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b45"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.527,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b46",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b46"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b47",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b47"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.59,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b48",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b48"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.865,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b49",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b49"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b50",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b50"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.748,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b51",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b51"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.94,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b52",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b52"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.869,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b53",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b53"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.498,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b54",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b54"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.949,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b55",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b55"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.92,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b56",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b56"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 0.862,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b57",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b57"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b58",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b58"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.972,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b59",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b59"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.889,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b60",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b60"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 0.972,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b61",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b61"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.936,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b62",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b62"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.889,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b63",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b63"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.802,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b64",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b64"
+          ],
+          "translation_source": "glossary_exact",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.638,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b65",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b65"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 0.911,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b66",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b66"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.632,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b67",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b67"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.778,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b68",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b68"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p2_b69",
+          "mode": "single_block",
+          "block_ids": [
+            "p2_b69"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        }
+      ]
+    },
+    {
+      "page_no": 3,
+      "unit_count": 11,
+      "reports": [
+        {
+          "unit_id": "p3_b1",
+          "mode": "single_block",
+          "block_ids": [
+            "p3_b1"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p3_b2",
+          "mode": "single_block",
+          "block_ids": [
+            "p3_b2"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 0.909,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p3_b3",
+          "mode": "single_block",
+          "block_ids": [
+            "p3_b3"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.688,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p3_b4",
+          "mode": "single_block",
+          "block_ids": [
+            "p3_b4"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.75,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p3_b5",
+          "mode": "single_block",
+          "block_ids": [
+            "p3_b5"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.5,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p3_b6",
+          "mode": "single_block",
+          "block_ids": [
+            "p3_b6"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.614,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p3_b7",
+          "mode": "single_block",
+          "block_ids": [
+            "p3_b7"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.225,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p3_b8",
+          "mode": "single_block",
+          "block_ids": [
+            "p3_b8"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 0.854,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p3_b9",
+          "mode": "single_block",
+          "block_ids": [
+            "p3_b9"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.708,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p3_b10",
+          "mode": "single_block",
+          "block_ids": [
+            "p3_b10"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.33,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p3_b11",
+          "mode": "single_block",
+          "block_ids": [
+            "p3_b11"
+          ],
+          "translation_source": "glossary_linewise",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.833,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        }
+      ]
+    },
+    {
+      "page_no": 4,
+      "unit_count": 0,
+      "reports": []
+    },
+    {
+      "page_no": 5,
+      "unit_count": 9,
+      "reports": [
+        {
+          "unit_id": "p5_b1",
+          "mode": "single_block",
+          "block_ids": [
+            "p5_b1"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p5_b2",
+          "mode": "single_block",
+          "block_ids": [
+            "p5_b2"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p5_b3",
+          "mode": "single_block",
+          "block_ids": [
+            "p5_b3"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.849,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p5_b4",
+          "mode": "single_block",
+          "block_ids": [
+            "p5_b4"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 0.9,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p5_b5",
+          "mode": "single_block",
+          "block_ids": [
+            "p5_b5"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p5_g01",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p5_b6",
+            "p5_b7",
+            "p5_b8"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "group_container",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p5_b9",
+          "mode": "single_block",
+          "block_ids": [
+            "p5_b9"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.934,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p5_b10",
+          "mode": "single_block",
+          "block_ids": [
+            "p5_b10"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p5_b11",
+          "mode": "single_block",
+          "block_ids": [
+            "p5_b11"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.821,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        }
+      ]
+    },
+    {
+      "page_no": 6,
+      "unit_count": 24,
+      "reports": [
+        {
+          "unit_id": "p6_b1",
+          "mode": "single_block",
+          "block_ids": [
+            "p6_b1"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p6_b2",
+          "mode": "single_block",
+          "block_ids": [
+            "p6_b2"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p6_b3",
+          "mode": "single_block",
+          "block_ids": [
+            "p6_b3"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.977,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p6_b4",
+          "mode": "single_block",
+          "block_ids": [
+            "p6_b4"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.65,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p6_b5",
+          "mode": "single_block",
+          "block_ids": [
+            "p6_b5"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.874,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p6_b6",
+          "mode": "single_block",
+          "block_ids": [
+            "p6_b6"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p6_b7",
+          "mode": "single_block",
+          "block_ids": [
+            "p6_b7"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p6_b8",
+          "mode": "single_block",
+          "block_ids": [
+            "p6_b8"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p6_b9",
+          "mode": "single_block",
+          "block_ids": [
+            "p6_b9"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p6_b10",
+          "mode": "single_block",
+          "block_ids": [
+            "p6_b10"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.995,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p6_b11",
+          "mode": "single_block",
+          "block_ids": [
+            "p6_b11"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.844,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p6_b12",
+          "mode": "single_block",
+          "block_ids": [
+            "p6_b12"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p6_b13",
+          "mode": "single_block",
+          "block_ids": [
+            "p6_b13"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.93,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p6_b14",
+          "mode": "single_block",
+          "block_ids": [
+            "p6_b14"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.812,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p6_b15",
+          "mode": "single_block",
+          "block_ids": [
+            "p6_b15"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p6_b16",
+          "mode": "single_block",
+          "block_ids": [
+            "p6_b16"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.893,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p6_b17",
+          "mode": "single_block",
+          "block_ids": [
+            "p6_b17"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p6_b18",
+          "mode": "single_block",
+          "block_ids": [
+            "p6_b18"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p6_b19",
+          "mode": "single_block",
+          "block_ids": [
+            "p6_b19"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.985,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p6_b20",
+          "mode": "single_block",
+          "block_ids": [
+            "p6_b20"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.951,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p6_b21",
+          "mode": "single_block",
+          "block_ids": [
+            "p6_b21"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p6_b22",
+          "mode": "single_block",
+          "block_ids": [
+            "p6_b22"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 0.916,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p6_b23",
+          "mode": "single_block",
+          "block_ids": [
+            "p6_b23"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p6_b24",
+          "mode": "single_block",
+          "block_ids": [
+            "p6_b24"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.944,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        }
+      ]
+    },
+    {
+      "page_no": 7,
+      "unit_count": 18,
+      "reports": [
+        {
+          "unit_id": "p7_b1",
+          "mode": "single_block",
+          "block_ids": [
+            "p7_b1"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.961,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p7_b2",
+          "mode": "single_block",
+          "block_ids": [
+            "p7_b2"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p7_b3",
+          "mode": "single_block",
+          "block_ids": [
+            "p7_b3"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p7_b4",
+          "mode": "single_block",
+          "block_ids": [
+            "p7_b4"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 0.959,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p7_b5",
+          "mode": "single_block",
+          "block_ids": [
+            "p7_b5"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p7_b6",
+          "mode": "single_block",
+          "block_ids": [
+            "p7_b6"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p7_b7",
+          "mode": "single_block",
+          "block_ids": [
+            "p7_b7"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 0.937,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p7_b8",
+          "mode": "single_block",
+          "block_ids": [
+            "p7_b8"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 0.953,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p7_b9",
+          "mode": "single_block",
+          "block_ids": [
+            "p7_b9"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.938,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p7_b10",
+          "mode": "single_block",
+          "block_ids": [
+            "p7_b10"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.977,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p7_b11",
+          "mode": "single_block",
+          "block_ids": [
+            "p7_b11"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.628,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p7_b12",
+          "mode": "single_block",
+          "block_ids": [
+            "p7_b12"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.859,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p7_b13",
+          "mode": "single_block",
+          "block_ids": [
+            "p7_b13"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p7_b14",
+          "mode": "single_block",
+          "block_ids": [
+            "p7_b14"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.833,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p7_b15",
+          "mode": "single_block",
+          "block_ids": [
+            "p7_b15"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.938,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p7_b16",
+          "mode": "single_block",
+          "block_ids": [
+            "p7_b16"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p7_b17",
+          "mode": "single_block",
+          "block_ids": [
+            "p7_b17"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p7_b18",
+          "mode": "single_block",
+          "block_ids": [
+            "p7_b18"
+          ],
+          "translation_source": "glossary_linewise",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.833,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        }
+      ]
+    },
+    {
+      "page_no": 8,
+      "unit_count": 111,
+      "reports": [
+        {
+          "unit_id": "p8_b1",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b1"
+          ],
+          "translation_source": "glossary_exact",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.65,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b2",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b2"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 0.897,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b3",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b3"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b4",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b4"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.568,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b5",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b5"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b6",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b6"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.812,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b7",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b7"
+          ],
+          "translation_source": "glossary_exact",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.75,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b8",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b8"
+          ],
+          "translation_source": "glossary_exact",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.75,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b9",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b9"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.909,
+          "layout_mode": "tiny_numeric",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b10",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b10"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.909,
+          "layout_mode": "tiny_numeric",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b11",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b11"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.889,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b12",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b12"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.833,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b13",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b13"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.833,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b14",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b14"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.889,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b15",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b15"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.909,
+          "layout_mode": "tiny_numeric",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b16",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b16"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b17",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b17"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.909,
+          "layout_mode": "tiny_numeric",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b18",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b18"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.833,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b19",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b19"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.909,
+          "layout_mode": "tiny_numeric",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b20",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b20"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b21",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b21"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.909,
+          "layout_mode": "tiny_numeric",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b22",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b22"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.889,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b23",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b23"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.909,
+          "layout_mode": "tiny_numeric",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b24",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b24"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.909,
+          "layout_mode": "tiny_numeric",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b25",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b25"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.909,
+          "layout_mode": "tiny_numeric",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b26",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b26"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.909,
+          "layout_mode": "tiny_numeric",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b27",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b27"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.909,
+          "layout_mode": "tiny_numeric",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b28",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b28"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.909,
+          "layout_mode": "tiny_numeric",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b29",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b29"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.909,
+          "layout_mode": "tiny_numeric",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b30",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b30"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.909,
+          "layout_mode": "tiny_numeric",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b31",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b31"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.909,
+          "layout_mode": "tiny_numeric",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b32",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b32"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.885,
+          "layout_mode": "tiny_numeric",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b33",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b33"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.885,
+          "layout_mode": "tiny_numeric",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b34",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b34"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.885,
+          "layout_mode": "tiny_numeric",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b35",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b35"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.893,
+          "layout_mode": "tiny_numeric",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b36",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b36"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.893,
+          "layout_mode": "tiny_numeric",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b37",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b37"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b38",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b38"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b39",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b39"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b40",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b40"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.812,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b41",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b41"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b42",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b42"
+          ],
+          "translation_source": "glossary_exact",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.75,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b43",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b43"
+          ],
+          "translation_source": "glossary_exact",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.75,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b44",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b44"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b45",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b45"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.909,
+          "layout_mode": "tiny_numeric",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b46",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b46"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.911,
+          "layout_mode": "tiny_numeric",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b47",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b47"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b48",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b48"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.889,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b49",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b49"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.911,
+          "layout_mode": "tiny_numeric",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b50",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b50"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.909,
+          "layout_mode": "tiny_numeric",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b51",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b51"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.889,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b52",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b52"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.889,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b53",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b53"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.876,
+          "layout_mode": "tiny_numeric",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b54",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b54"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.889,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b55",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b55"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.889,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b56",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b56"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.909,
+          "layout_mode": "tiny_numeric",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b57",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b57"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.876,
+          "layout_mode": "tiny_numeric",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b58",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b58"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.833,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b59",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b59"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.876,
+          "layout_mode": "tiny_numeric",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b60",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b60"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.909,
+          "layout_mode": "tiny_numeric",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b61",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b61"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.911,
+          "layout_mode": "tiny_numeric",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b62",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b62"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.909,
+          "layout_mode": "tiny_numeric",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b63",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b63"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.911,
+          "layout_mode": "tiny_numeric",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b64",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b64"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.909,
+          "layout_mode": "tiny_numeric",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b65",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b65"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.909,
+          "layout_mode": "tiny_numeric",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b66",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b66"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.885,
+          "layout_mode": "tiny_numeric",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b67",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b67"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.885,
+          "layout_mode": "tiny_numeric",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b68",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b68"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.893,
+          "layout_mode": "tiny_numeric",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b69",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b69"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.893,
+          "layout_mode": "tiny_numeric",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b70",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b70"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b71",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b71"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b72",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b72"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b73",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b73"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.812,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b74",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b74"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.812,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b75",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b75"
+          ],
+          "translation_source": "glossary_exact",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.75,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b76",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b76"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 0.938,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b77",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b77"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b78",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b78"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.876,
+          "layout_mode": "tiny_numeric",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b79",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b79"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.885,
+          "layout_mode": "tiny_numeric",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b80",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b80"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.889,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b81",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b81"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.889,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b82",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b82"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.889,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b83",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b83"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.885,
+          "layout_mode": "tiny_numeric",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b84",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b84"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.911,
+          "layout_mode": "tiny_numeric",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b85",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b85"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.889,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b86",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b86"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.889,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b87",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b87"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.885,
+          "layout_mode": "tiny_numeric",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b88",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b88"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.911,
+          "layout_mode": "tiny_numeric",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b89",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b89"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.889,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b90",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b90"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.889,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b91",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b91"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.833,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b92",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b92"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.889,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b93",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b93"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.889,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b94",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b94"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b95",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b95"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.885,
+          "layout_mode": "tiny_numeric",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b96",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b96"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.876,
+          "layout_mode": "tiny_numeric",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b97",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b97"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.833,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b98",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b98"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.885,
+          "layout_mode": "tiny_numeric",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b99",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b99"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.911,
+          "layout_mode": "tiny_numeric",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b100",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b100"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.885,
+          "layout_mode": "tiny_numeric",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b101",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b101"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.911,
+          "layout_mode": "tiny_numeric",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b102",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b102"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.885,
+          "layout_mode": "tiny_numeric",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b103",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b103"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.876,
+          "layout_mode": "tiny_numeric",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b104",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b104"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.885,
+          "layout_mode": "tiny_numeric",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b105",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b105"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.885,
+          "layout_mode": "tiny_numeric",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b106",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b106"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.893,
+          "layout_mode": "tiny_numeric",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b107",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b107"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.893,
+          "layout_mode": "tiny_numeric",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b108",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b108"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b109",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b109"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b110",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b110"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p8_b111",
+          "mode": "single_block",
+          "block_ids": [
+            "p8_b111"
+          ],
+          "translation_source": "glossary_linewise",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        }
+      ]
+    },
+    {
+      "page_no": 9,
+      "unit_count": 39,
+      "reports": [
+        {
+          "unit_id": "p9_b1",
+          "mode": "single_block",
+          "block_ids": [
+            "p9_b1"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.975,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p9_b2",
+          "mode": "single_block",
+          "block_ids": [
+            "p9_b2"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p9_b3",
+          "mode": "single_block",
+          "block_ids": [
+            "p9_b3"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.56,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p9_b5",
+          "mode": "single_block",
+          "block_ids": [
+            "p9_b5"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.909,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p9_b6",
+          "mode": "single_block",
+          "block_ids": [
+            "p9_b6"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.909,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p9_b7",
+          "mode": "single_block",
+          "block_ids": [
+            "p9_b7"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.909,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p9_b8",
+          "mode": "single_block",
+          "block_ids": [
+            "p9_b8"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.909,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p9_b9",
+          "mode": "single_block",
+          "block_ids": [
+            "p9_b9"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.955,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p9_b10",
+          "mode": "single_block",
+          "block_ids": [
+            "p9_b10"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.955,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p9_b11",
+          "mode": "single_block",
+          "block_ids": [
+            "p9_b11"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.864,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p9_b12",
+          "mode": "single_block",
+          "block_ids": [
+            "p9_b12"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.909,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p9_b13",
+          "mode": "single_block",
+          "block_ids": [
+            "p9_b13"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.909,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p9_b14",
+          "mode": "single_block",
+          "block_ids": [
+            "p9_b14"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p9_b15",
+          "mode": "single_block",
+          "block_ids": [
+            "p9_b15"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.909,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p9_b16",
+          "mode": "single_block",
+          "block_ids": [
+            "p9_b16"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.652,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p9_b17",
+          "mode": "single_block",
+          "block_ids": [
+            "p9_b17"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.604,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p9_b18",
+          "mode": "single_block",
+          "block_ids": [
+            "p9_b18"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p9_b19",
+          "mode": "single_block",
+          "block_ids": [
+            "p9_b19"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.909,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p9_b20",
+          "mode": "single_block",
+          "block_ids": [
+            "p9_b20"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.909,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p9_b21",
+          "mode": "single_block",
+          "block_ids": [
+            "p9_b21"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.955,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p9_b22",
+          "mode": "single_block",
+          "block_ids": [
+            "p9_b22"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.909,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p9_b23",
+          "mode": "single_block",
+          "block_ids": [
+            "p9_b23"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.909,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p9_b24",
+          "mode": "single_block",
+          "block_ids": [
+            "p9_b24"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.955,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p9_b25",
+          "mode": "single_block",
+          "block_ids": [
+            "p9_b25"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.909,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p9_b26",
+          "mode": "single_block",
+          "block_ids": [
+            "p9_b26"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p9_b27",
+          "mode": "single_block",
+          "block_ids": [
+            "p9_b27"
+          ],
+          "translation_source": "pattern_preserve",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.909,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p9_b28",
+          "mode": "single_block",
+          "block_ids": [
+            "p9_b28"
+          ],
+          "translation_source": "glossary_linewise",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p9_b29",
+          "mode": "single_block",
+          "block_ids": [
+            "p9_b29"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p9_b30",
+          "mode": "single_block",
+          "block_ids": [
+            "p9_b30"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.929,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p9_b31",
+          "mode": "single_block",
+          "block_ids": [
+            "p9_b31"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p9_b32",
+          "mode": "single_block",
+          "block_ids": [
+            "p9_b32"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p9_b33",
+          "mode": "single_block",
+          "block_ids": [
+            "p9_b33"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p9_b34",
+          "mode": "single_block",
+          "block_ids": [
+            "p9_b34"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p9_b35",
+          "mode": "single_block",
+          "block_ids": [
+            "p9_b35"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.846,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p9_b36",
+          "mode": "single_block",
+          "block_ids": [
+            "p9_b36"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p9_b37",
+          "mode": "single_block",
+          "block_ids": [
+            "p9_b37"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p9_b38",
+          "mode": "single_block",
+          "block_ids": [
+            "p9_b38"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p9_b39",
+          "mode": "single_block",
+          "block_ids": [
+            "p9_b39"
+          ],
+          "translation_source": "glossary_linewise",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.833,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        }
+      ]
+    },
+    {
+      "page_no": 10,
+      "unit_count": 20,
+      "reports": [
+        {
+          "unit_id": "p10_b1",
+          "mode": "single_block",
+          "block_ids": [
+            "p10_b1"
+          ],
+          "translation_source": "glossary_exact",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.271,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p10_b2",
+          "mode": "single_block",
+          "block_ids": [
+            "p10_b2"
+          ],
+          "translation_source": "glossary_exact",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.271,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p10_b3",
+          "mode": "single_block",
+          "block_ids": [
+            "p10_b3"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.594,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p10_b4",
+          "mode": "single_block",
+          "block_ids": [
+            "p10_b4"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p10_b5",
+          "mode": "single_block",
+          "block_ids": [
+            "p10_b5"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.885,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p10_b6",
+          "mode": "single_block",
+          "block_ids": [
+            "p10_b6"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p10_b7",
+          "mode": "single_block",
+          "block_ids": [
+            "p10_b7"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p10_b8",
+          "mode": "single_block",
+          "block_ids": [
+            "p10_b8"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.688,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p10_b9",
+          "mode": "single_block",
+          "block_ids": [
+            "p10_b9"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p10_b10",
+          "mode": "single_block",
+          "block_ids": [
+            "p10_b10"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.797,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p10_b11",
+          "mode": "single_block",
+          "block_ids": [
+            "p10_b11"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p10_b12",
+          "mode": "single_block",
+          "block_ids": [
+            "p10_b12"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p10_g01",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p10_b13",
+            "p10_b14",
+            "p10_b15",
+            "p10_b16",
+            "p10_b17"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "group_container",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p10_b18",
+          "mode": "single_block",
+          "block_ids": [
+            "p10_b18"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p10_g02",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p10_b19",
+            "p10_b20"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "group_container",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p10_b21",
+          "mode": "single_block",
+          "block_ids": [
+            "p10_b21"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p10_g03",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p10_b22",
+            "p10_b23",
+            "p10_b24"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "group_container",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p10_g04",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p10_b25",
+            "p10_b26"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "group_container",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p10_b27",
+          "mode": "single_block",
+          "block_ids": [
+            "p10_b27"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p10_b28",
+          "mode": "single_block",
+          "block_ids": [
+            "p10_b28"
+          ],
+          "translation_source": "glossary_linewise",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        }
+      ]
+    },
+    {
+      "page_no": 11,
+      "unit_count": 16,
+      "reports": [
+        {
+          "unit_id": "p11_g01",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p11_b1",
+            "p11_b2",
+            "p11_b3"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "group_container",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p11_g02",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p11_b5",
+            "p11_b6"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "group_container",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p11_b7",
+          "mode": "single_block",
+          "block_ids": [
+            "p11_b7"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p11_g03",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p11_b8",
+            "p11_b9",
+            "p11_b10"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "group_container",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p11_b11",
+          "mode": "single_block",
+          "block_ids": [
+            "p11_b11"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.964,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p11_g04",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p11_b12",
+            "p11_b13",
+            "p11_b14",
+            "p11_b15",
+            "p11_b16"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "group_container",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p11_b17",
+          "mode": "single_block",
+          "block_ids": [
+            "p11_b17"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p11_g05",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p11_b18",
+            "p11_b19",
+            "p11_b20",
+            "p11_b21"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "group_container",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p11_b22",
+          "mode": "single_block",
+          "block_ids": [
+            "p11_b22"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.836,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p11_b23",
+          "mode": "single_block",
+          "block_ids": [
+            "p11_b23"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p11_b24",
+          "mode": "single_block",
+          "block_ids": [
+            "p11_b24"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.667,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p11_b25",
+          "mode": "single_block",
+          "block_ids": [
+            "p11_b25"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.514,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p11_b26",
+          "mode": "single_block",
+          "block_ids": [
+            "p11_b26"
+          ],
+          "translation_source": "pattern_template",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p11_b27",
+          "mode": "single_block",
+          "block_ids": [
+            "p11_b27"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p11_b28",
+          "mode": "single_block",
+          "block_ids": [
+            "p11_b28"
+          ],
+          "translation_source": "glossary_linewise",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.833,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        }
+      ]
+    },
+    {
+      "page_no": 12,
+      "unit_count": 9,
+      "reports": [
+        {
+          "unit_id": "p12_b1",
+          "mode": "single_block",
+          "block_ids": [
+            "p12_b1"
+          ],
+          "translation_source": "glossary_exact",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.271,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p12_b2",
+          "mode": "single_block",
+          "block_ids": [
+            "p12_b2"
+          ],
+          "translation_source": "glossary_exact",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.726,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p12_b3",
+          "mode": "single_block",
+          "block_ids": [
+            "p12_b3"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p12_b4",
+          "mode": "single_block",
+          "block_ids": [
+            "p12_b4"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 0.854,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p12_b5",
+          "mode": "single_block",
+          "block_ids": [
+            "p12_b5"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.666,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p12_b6",
+          "mode": "single_block",
+          "block_ids": [
+            "p12_b6"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 0.86,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p12_b7",
+          "mode": "single_block",
+          "block_ids": [
+            "p12_b7"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.698,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p12_b8",
+          "mode": "single_block",
+          "block_ids": [
+            "p12_b8"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p12_b9",
+          "mode": "single_block",
+          "block_ids": [
+            "p12_b9"
+          ],
+          "translation_source": "glossary_linewise",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        }
+      ]
+    },
+    {
+      "page_no": 13,
+      "unit_count": 16,
+      "reports": [
+        {
+          "unit_id": "p13_g01",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p13_b1",
+            "p13_b2"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "group_slots",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p13_b3",
+          "mode": "single_block",
+          "block_ids": [
+            "p13_b3"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p13_g02",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p13_b5",
+            "p13_b6",
+            "p13_b7"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "group_container",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p13_b8",
+          "mode": "single_block",
+          "block_ids": [
+            "p13_b8"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p13_g03",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p13_b9",
+            "p13_b10",
+            "p13_b11",
+            "p13_b12"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "group_container",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p13_b13",
+          "mode": "single_block",
+          "block_ids": [
+            "p13_b13"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.825,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p13_b14",
+          "mode": "single_block",
+          "block_ids": [
+            "p13_b14"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.726,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p13_b15",
+          "mode": "single_block",
+          "block_ids": [
+            "p13_b15"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p13_g04",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p13_b16",
+            "p13_b17",
+            "p13_b18"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "group_container",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p13_b19",
+          "mode": "single_block",
+          "block_ids": [
+            "p13_b19"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p13_g05",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p13_b20",
+            "p13_b21",
+            "p13_b22"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "group_container",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p13_g06",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p13_b23",
+            "p13_b24"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "group_container",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p13_b25",
+          "mode": "single_block",
+          "block_ids": [
+            "p13_b25"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p13_g07",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p13_b26",
+            "p13_b27",
+            "p13_b28"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "group_container",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p13_b29",
+          "mode": "single_block",
+          "block_ids": [
+            "p13_b29"
+          ],
+          "translation_source": "glossary_linewise",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.833,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        }
+      ]
+    },
+    {
+      "page_no": 14,
+      "unit_count": 17,
+      "reports": [
+        {
+          "unit_id": "p14_b1",
+          "mode": "single_block",
+          "block_ids": [
+            "p14_b1"
+          ],
+          "translation_source": "glossary_exact",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.65,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p14_b2",
+          "mode": "single_block",
+          "block_ids": [
+            "p14_b2"
+          ],
+          "translation_source": "glossary_exact",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.758,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p14_b3",
+          "mode": "single_block",
+          "block_ids": [
+            "p14_b3"
+          ],
+          "translation_source": "glossary_exact",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.693,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p14_g01",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p14_b4",
+            "p14_b5",
+            "p14_b6"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "group_container",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p14_b7",
+          "mode": "single_block",
+          "block_ids": [
+            "p14_b7"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.87,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p14_g02",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p14_b8",
+            "p14_b9",
+            "p14_b10"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "group_container",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p14_g03",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p14_b11",
+            "p14_b12",
+            "p14_b13",
+            "p14_b14"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "group_container",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p14_g04",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p14_b15",
+            "p14_b16"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "group_container",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p14_g05",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p14_b17",
+            "p14_b18",
+            "p14_b19"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "group_container",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p14_g06",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p14_b20",
+            "p14_b21"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "group_container",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p14_g07",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p14_b22",
+            "p14_b23"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "group_container",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p14_b24",
+          "mode": "single_block",
+          "block_ids": [
+            "p14_b24"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.895,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p14_b25",
+          "mode": "single_block",
+          "block_ids": [
+            "p14_b25"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 0.983,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p14_g08",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p14_b26",
+            "p14_b27"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "group_container",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p14_b28",
+          "mode": "single_block",
+          "block_ids": [
+            "p14_b28"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p14_g09",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p14_b29",
+            "p14_b30",
+            "p14_b31",
+            "p14_b32"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "group_container",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p14_b33",
+          "mode": "single_block",
+          "block_ids": [
+            "p14_b33"
+          ],
+          "translation_source": "glossary_linewise",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        }
+      ]
+    },
+    {
+      "page_no": 15,
+      "unit_count": 15,
+      "reports": [
+        {
+          "unit_id": "p15_b1",
+          "mode": "single_block",
+          "block_ids": [
+            "p15_b1"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.751,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p15_b2",
+          "mode": "single_block",
+          "block_ids": [
+            "p15_b2"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.912,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p15_g01",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p15_b4",
+            "p15_b5",
+            "p15_b6"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "group_container",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p15_b7",
+          "mode": "single_block",
+          "block_ids": [
+            "p15_b7"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p15_g02",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p15_b8",
+            "p15_b9",
+            "p15_b10"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "group_container",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p15_g03",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p15_b11",
+            "p15_b12"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "group_container",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p15_g04",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p15_b13",
+            "p15_b14"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "group_container",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p15_g05",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p15_b15",
+            "p15_b16",
+            "p15_b17"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "group_container",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p15_b18",
+          "mode": "single_block",
+          "block_ids": [
+            "p15_b18"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p15_g06",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p15_b19",
+            "p15_b20",
+            "p15_b21"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "group_container",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p15_g07",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p15_b22",
+            "p15_b23",
+            "p15_b24"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "group_container",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p15_g08",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p15_b25",
+            "p15_b26"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "group_container",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p15_b27",
+          "mode": "single_block",
+          "block_ids": [
+            "p15_b27"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.667,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p15_b28",
+          "mode": "single_block",
+          "block_ids": [
+            "p15_b28"
+          ],
+          "translation_source": "glossary_linewise",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.833,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        }
+      ]
+    },
+    {
+      "page_no": 16,
+      "unit_count": 14,
+      "reports": [
+        {
+          "unit_id": "p16_b1",
+          "mode": "single_block",
+          "block_ids": [
+            "p16_b1"
+          ],
+          "translation_source": "glossary_exact",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.65,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p16_b2",
+          "mode": "single_block",
+          "block_ids": [
+            "p16_b2"
+          ],
+          "translation_source": "glossary_exact",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.758,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p16_g01",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p16_b3",
+            "p16_b4"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 0.944,
+          "layout_mode": "group_container",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p16_b5",
+          "mode": "single_block",
+          "block_ids": [
+            "p16_b5"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p16_b6",
+          "mode": "single_block",
+          "block_ids": [
+            "p16_b6"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.714,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p16_g02",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p16_b7",
+            "p16_b8",
+            "p16_b9",
+            "p16_b10"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "group_container",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p16_b11",
+          "mode": "single_block",
+          "block_ids": [
+            "p16_b11"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p16_g03",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p16_b12",
+            "p16_b13",
+            "p16_b14",
+            "p16_b15"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "group_container",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p16_g04",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p16_b16",
+            "p16_b17",
+            "p16_b18",
+            "p16_b19"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "group_container",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p16_b20",
+          "mode": "single_block",
+          "block_ids": [
+            "p16_b20"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.667,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p16_b21",
+          "mode": "single_block",
+          "block_ids": [
+            "p16_b21"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p16_b22",
+          "mode": "single_block",
+          "block_ids": [
+            "p16_b22"
+          ],
+          "translation_source": "pattern_template",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p16_b23",
+          "mode": "single_block",
+          "block_ids": [
+            "p16_b23"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.754,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p16_b24",
+          "mode": "single_block",
+          "block_ids": [
+            "p16_b24"
+          ],
+          "translation_source": "glossary_linewise",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        }
+      ]
+    },
+    {
+      "page_no": 17,
+      "unit_count": 7,
+      "reports": [
+        {
+          "unit_id": "p17_b1",
+          "mode": "single_block",
+          "block_ids": [
+            "p17_b1"
+          ],
+          "translation_source": "glossary_exact",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.619,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p17_b2",
+          "mode": "single_block",
+          "block_ids": [
+            "p17_b2"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p17_b3",
+          "mode": "single_block",
+          "block_ids": [
+            "p17_b3"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p17_b4",
+          "mode": "single_block",
+          "block_ids": [
+            "p17_b4"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.923,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p17_b5",
+          "mode": "single_block",
+          "block_ids": [
+            "p17_b5"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.57,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p17_b6",
+          "mode": "single_block",
+          "block_ids": [
+            "p17_b6"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p17_b7",
+          "mode": "single_block",
+          "block_ids": [
+            "p17_b7"
+          ],
+          "translation_source": "glossary_linewise",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.833,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        }
+      ]
+    },
+    {
+      "page_no": 18,
+      "unit_count": 13,
+      "reports": [
+        {
+          "unit_id": "p18_b1",
+          "mode": "single_block",
+          "block_ids": [
+            "p18_b1"
+          ],
+          "translation_source": "glossary_exact",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.262,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p18_b2",
+          "mode": "single_block",
+          "block_ids": [
+            "p18_b2"
+          ],
+          "translation_source": "glossary_exact",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.727,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p18_b3",
+          "mode": "single_block",
+          "block_ids": [
+            "p18_b3"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p18_b4",
+          "mode": "single_block",
+          "block_ids": [
+            "p18_b4"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.803,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p18_b5",
+          "mode": "single_block",
+          "block_ids": [
+            "p18_b5"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p18_b6",
+          "mode": "single_block",
+          "block_ids": [
+            "p18_b6"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p18_b7",
+          "mode": "single_block",
+          "block_ids": [
+            "p18_b7"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 0.853,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p18_b8",
+          "mode": "single_block",
+          "block_ids": [
+            "p18_b8"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p18_b9",
+          "mode": "single_block",
+          "block_ids": [
+            "p18_b9"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p18_g01",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p18_b10",
+            "p18_b11",
+            "p18_b12",
+            "p18_b13"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "group_container",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p18_b14",
+          "mode": "single_block",
+          "block_ids": [
+            "p18_b14"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p18_b15",
+          "mode": "single_block",
+          "block_ids": [
+            "p18_b15"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.941,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p18_b16",
+          "mode": "single_block",
+          "block_ids": [
+            "p18_b16"
+          ],
+          "translation_source": "glossary_linewise",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        }
+      ]
+    },
+    {
+      "page_no": 19,
+      "unit_count": 11,
+      "reports": [
+        {
+          "unit_id": "p19_g01",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p19_b1",
+            "p19_b2",
+            "p19_b3"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 0.889,
+          "layout_mode": "group_container",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p19_g02",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p19_b5",
+            "p19_b6",
+            "p19_b7",
+            "p19_b8"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "group_container",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p19_b9",
+          "mode": "single_block",
+          "block_ids": [
+            "p19_b9"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 0.891,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p19_g03",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p19_b10",
+            "p19_b11"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "group_container",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p19_g04",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p19_b12",
+            "p19_b13",
+            "p19_b14",
+            "p19_b15",
+            "p19_b16",
+            "p19_b17"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "group_container",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p19_g05",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p19_b18",
+            "p19_b19",
+            "p19_b20"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "group_container",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p19_g06",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p19_b21",
+            "p19_b22",
+            "p19_b23"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "group_container",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p19_g07",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p19_b24",
+            "p19_b25",
+            "p19_b26"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "group_container",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p19_g08",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p19_b27",
+            "p19_b28"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "group_container",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p19_b29",
+          "mode": "single_block",
+          "block_ids": [
+            "p19_b29"
+          ],
+          "translation_source": "glossary_linewise",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.833,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        }
+      ]
+    },
+    {
+      "page_no": 20,
+      "unit_count": 24,
+      "reports": [
+        {
+          "unit_id": "p20_b1",
+          "mode": "single_block",
+          "block_ids": [
+            "p20_b1"
+          ],
+          "translation_source": "glossary_exact",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.628,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p20_b2",
+          "mode": "single_block",
+          "block_ids": [
+            "p20_b2"
+          ],
+          "translation_source": "glossary_exact",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "font_shrink",
+          "font_ratio": 0.725,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p20_b3",
+          "mode": "single_block",
+          "block_ids": [
+            "p20_b3"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": true,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p20_b4",
+          "mode": "single_block",
+          "block_ids": [
+            "p20_b4"
+          ],
+          "translation_source": "glossary_exact",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "single_line",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p20_b5",
+          "mode": "single_block",
+          "block_ids": [
+            "p20_b5"
+          ],
+          "translation_source": "glossary_exact",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p20_b6",
+          "mode": "single_block",
+          "block_ids": [
+            "p20_b6"
+          ],
+          "translation_source": "glossary_exact",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p20_b7",
+          "mode": "single_block",
+          "block_ids": [
+            "p20_b7"
+          ],
+          "translation_source": "glossary_exact",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p20_b8",
+          "mode": "single_block",
+          "block_ids": [
+            "p20_b8"
+          ],
+          "translation_source": "glossary_exact",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p20_b9",
+          "mode": "single_block",
+          "block_ids": [
+            "p20_b9"
+          ],
+          "translation_source": "glossary_linewise",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p20_b10",
+          "mode": "single_block",
+          "block_ids": [
+            "p20_b10"
+          ],
+          "translation_source": "glossary_linewise",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p20_b11",
+          "mode": "single_block",
+          "block_ids": [
+            "p20_b11"
+          ],
+          "translation_source": "glossary_linewise",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p20_b12",
+          "mode": "single_block",
+          "block_ids": [
+            "p20_b12"
+          ],
+          "translation_source": "glossary_linewise",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p20_b13",
+          "mode": "single_block",
+          "block_ids": [
+            "p20_b13"
+          ],
+          "translation_source": "glossary_linewise",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p20_b14",
+          "mode": "single_block",
+          "block_ids": [
+            "p20_b14"
+          ],
+          "translation_source": "glossary_linewise",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p20_b15",
+          "mode": "single_block",
+          "block_ids": [
+            "p20_b15"
+          ],
+          "translation_source": "glossary_linewise",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p20_b16",
+          "mode": "single_block",
+          "block_ids": [
+            "p20_b16"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p20_b17",
+          "mode": "single_block",
+          "block_ids": [
+            "p20_b17"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p20_b18",
+          "mode": "single_block",
+          "block_ids": [
+            "p20_b18"
+          ],
+          "translation_source": "glossary_linewise",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p20_b19",
+          "mode": "single_block",
+          "block_ids": [
+            "p20_b19"
+          ],
+          "translation_source": "glossary_linewise",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p20_b20",
+          "mode": "single_block",
+          "block_ids": [
+            "p20_b20"
+          ],
+          "translation_source": "glossary_linewise",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p20_g01",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p20_b21",
+            "p20_b22",
+            "p20_b23",
+            "p20_b24",
+            "p20_b25"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "group_container",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p20_g02",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p20_b26",
+            "p20_b27",
+            "p20_b28",
+            "p20_b29"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "group_container",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p20_g03",
+          "mode": "semantic_group",
+          "block_ids": [
+            "p20_b30",
+            "p20_b31",
+            "p20_b32",
+            "p20_b33"
+          ],
+          "translation_source": "model_initial",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "group_container",
+          "fact_failure_count": 0
+        },
+        {
+          "unit_id": "p20_b34",
+          "mode": "single_block",
+          "block_ids": [
+            "p20_b34"
+          ],
+          "translation_source": "glossary_linewise",
+          "repair_used": false,
+          "compact_used": false,
+          "fit_status": "ok",
+          "font_ratio": 1.0,
+          "layout_mode": "textbox",
+          "fact_failure_count": 0
+        }
+      ]
+    }
+  ]
+}

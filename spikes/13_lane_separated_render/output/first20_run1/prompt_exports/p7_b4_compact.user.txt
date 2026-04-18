@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p7_b4",
+    "lane": "caption_label",
+    "source_text": "友邦獎學金旨在資助學業成績傑出並服務",
+    "current_translation": "The AIA Scholarship aims to support outstanding academic achievers and those committed to service"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p7_b4",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

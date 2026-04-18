@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p2_b65",
+    "lane": "caption_label",
+    "source_text": "295 股東參考資料",
+    "current_translation": "295 Shareholder Reference Information"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p2_b65",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

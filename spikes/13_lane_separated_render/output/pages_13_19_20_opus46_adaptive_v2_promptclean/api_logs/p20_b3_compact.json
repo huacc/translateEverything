@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "stage": "compact",
+    "page_no": 20,
+    "group_id": "p20_b3"
+  },
+  "request": {
+    "model": "claude-opus-4-6",
+    "max_tokens": 4096,
+    "system": "你是上市公司年报短标签压缩助手。\n语言方向：Traditional Chinese -> English。\n只做最小必要压缩，不改变核心语义，不扩写。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "任务\n- unit_id：p20_b3\n- 输入单元：短标签 / 小标题\n\n原文\n新業務表現\n\n当前译文\nNew Business Performance\n\n输出格式\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p20_b3\",\n      \"translation\": \"<更紧凑译文>\"\n    }\n  ]\n}"
+      }
+    ],
+    "thinking": {
+      "type": "adaptive"
+    },
+    "output_config": {
+      "effort": "max"
+    }
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p20_b3\",\n      \"translation\": \"New Business\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "954fc708-9cba-4d59-b6f1-4c0816d96e8e",
+    "conversation_id": "954fc708-9cba-4d59-b6f1-4c0816d96e8e",
+    "id": "954fc708-9cba-4d59-b6f1-4c0816d96e8e",
+    "model": "claude-opus-4-6",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 179,
+      "output_tokens": 40
+    }
+  }
+}

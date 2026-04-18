@@ -1,0 +1,26 @@
+任务
+- unit_id：p3_b2
+- 输入单元：正文语义组（group）
+
+压缩要求
+- 只删除冗余表达，不改变事实和数字。
+- 保持年报文风正式稳定。
+- 不要跨组补写，也不要为了版面改义。
+
+原文
+百萬圓桌會
+註冊會員人數
+全球之冠
+
+当前译文
+Largest number of Million Dollar Round Table registered members globally
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p3_b2",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

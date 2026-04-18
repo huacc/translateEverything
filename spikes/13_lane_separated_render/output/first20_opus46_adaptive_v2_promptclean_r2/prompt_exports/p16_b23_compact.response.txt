@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p16_b23",
+      "translation": "Growth rates are on a constant currency basis, which management believes better illustrates underlying year-on-year performance."
+    }
+  ]
+}
+```

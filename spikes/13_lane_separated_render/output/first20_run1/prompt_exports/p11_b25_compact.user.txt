@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p11_b25",
+    "lane": "caption_label",
+    "source_text": "獨立非執行主席",
+    "current_translation": "Independent Non-Executive Chairman"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p11_b25",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 9,
+    "group_id": "p9_b33"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是上市保险公司年报中的表格翻译器。\n语言方向：Traditional Chinese -> English。\n只处理当前 table unit。\n数字、百分比、括号、货币、年份和顺序必须准确。\n只翻译文本标签，不要改写数字，不要补充解释。\n不要承担版面回填职责。\n只输出 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市保险公司企业年报。\n当前输入属于表格通道。不要把表格行改写成正文句子。\n{\n  \"task\": {\n    \"scenario\": \"listed_company_annual_report\",\n    \"industry\": \"Life Insurance\",\n    \"report_type\": \"annual_report\",\n    \"company_name_target\": \"AIA GROUP LIMITED\",\n    \"direction\": \"Traditional Chinese -> English\"\n  },\n  \"page_context\": {\n    \"page_no\": 9,\n    \"page_sections\": [\n      {\n        \"source_section\": \"概覽\",\n        \"target_section\": \"Overview\",\n        \"content_type\": \"executive_summary\",\n        \"page_range\": [\n          8,\n          16\n        ]\n      }\n    ],\n    \"term_usage_mode\": \"table\",\n    \"neighbor_context\": {\n      \"previous_group_source_excerpt\": \"(8) 自2019年起，其他市場的年化新保費及新業務價值包括我們於\\nTata AIA Life Insurance Company Limited (Tata AIA Life)所持\\n49%股權的應佔業績。2018年或以前所呈報的年化...\",\n      \"next_group_source_excerpt\": \"(3) 年化新保費是一項衡量新業務水平的指標，以再保險分出前年化\\n首年保費100%及整付保費10%之總和計算。\"\n    }\n  },\n  \"mapping_hits\": [\n    {\n      \"source\": \"新業務價值\",\n      \"target\": \"VONB\",\n      \"hit_type\": \"context_term\"\n    }\n  ],\n  \"fact_locks\": [],\n  \"current_unit\": {\n    \"unit_id\": \"p9_b33\",\n    \"lane\": \"table\",\n    \"table_role\": \"header\",\n    \"source_text\": \"(2) 新業務價值是期間內所售新業務在未來產生的預計稅後法定溢利\\n按銷售當時計算的現值扣除用作支持新業務而持有超過法定準備\\n金所需資金的成本。\",\n    \"source_line_count\": 3\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p9_b33\",\n        \"translation\": \"<译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p9_b33\",\n      \"translation\": \"(2) VONB is the present value of the estimated post-tax statutory profits expected to be generated in the future from new business sold during the period, calculated at the time of sale, less the cost of funds required to be held in excess of statutory reserves to support the new business.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "b3a53060-46d0-4998-8e02-8ba0c3e6af00",
+    "conversation_id": "b3a53060-46d0-4998-8e02-8ba0c3e6af00",
+    "id": "b3a53060-46d0-4998-8e02-8ba0c3e6af00",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 750,
+      "output_tokens": 96
+    }
+  }
+}

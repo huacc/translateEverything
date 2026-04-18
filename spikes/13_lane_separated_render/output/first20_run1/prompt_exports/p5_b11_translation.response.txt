@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p5_b11",
+      "translation": "Regain Vitality."
+    }
+  ]
+}
+```

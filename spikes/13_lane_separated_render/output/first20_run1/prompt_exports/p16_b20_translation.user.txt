@@ -1,0 +1,45 @@
+文档场景：上市保险公司企业年报。
+当前输入属于短标签通道。优先使用标准年报表达。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 16,
+    "page_sections": [
+      {
+        "source_section": "集團首席執行官兼總裁報告",
+        "target_section": "Group Chief Executive and President's Report",
+        "content_type": "ceo_report",
+        "page_range": [
+          12,
+          16
+        ]
+      }
+    ],
+    "term_usage_mode": "heading",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "我對友邦保險的長遠未來前景充滿信心。儘管面對短期不明朗因素，但帶動需求的本土因素強勁，加上亞洲的主\n要人口結構趨勢，仍為友邦保險業務的長遠前景提供正面的結構性支持。在大眾收入增加、私人保險滲透率偏\n低，以及社會福利覆蓋有限的情況下，市...",
+      "next_group_source_excerpt": "集團首席執行官兼總裁"
+    }
+  },
+  "mapping_hits": [],
+  "fact_locks": [],
+  "current_unit": {
+    "unit_id": "p16_b20",
+    "lane": "caption_label",
+    "source_text": "李源祥"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p16_b20",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

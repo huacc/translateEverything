@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p14_g06",
+      "translation": "In Malaysia, VONB declined 13% for the full year, particularly due to strict movement restrictions in the first half. VONB recovered in the second half, growing 72% versus the first half."
+    }
+  ]
+}
+```

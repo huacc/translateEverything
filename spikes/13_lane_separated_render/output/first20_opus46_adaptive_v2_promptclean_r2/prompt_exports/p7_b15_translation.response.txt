@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p7_b15",
+      "translation": "AIA ranked first on the Million Dollar Round Table for the sixth consecutive year"
+    }
+  ]
+}
+```

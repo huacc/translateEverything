@@ -1,0 +1,19 @@
+任务
+- unit_id：p2_b27
+- 输入单元：短标签 / 小标题
+
+原文
+覆蓋18個市場，包括在中國內地、香港
+
+当前译文
+Covering 18 markets, including Mainland China, Hong Kong
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p2_b27",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

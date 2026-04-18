@@ -1,0 +1,51 @@
+文档场景：上市保险公司企业年报。
+当前输入属于短标签通道。优先使用标准年报表达。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 8,
+    "page_sections": [
+      {
+        "source_section": "概覽",
+        "target_section": "Overview",
+        "content_type": "executive_summary",
+        "page_range": [
+          8,
+          16
+        ]
+      }
+    ],
+    "term_usage_mode": "heading",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "新業務價值(2)(8)",
+      "next_group_source_excerpt": "US$ MILLIONS"
+    }
+  },
+  "mapping_hits": [
+    {
+      "source": "年化新保費",
+      "target": "Annualized New Premium",
+      "hit_type": "context_term"
+    }
+  ],
+  "fact_locks": [],
+  "current_unit": {
+    "unit_id": "p8_b4",
+    "lane": "caption_label",
+    "source_text": "年化新保費(3)(8)"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p8_b4",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

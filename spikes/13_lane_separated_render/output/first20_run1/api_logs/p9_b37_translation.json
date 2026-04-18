@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 9,
+    "group_id": "p9_b37"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是上市保险公司年报中的表格翻译器。\n语言方向：Traditional Chinese -> English。\n只处理当前 table unit。\n数字、百分比、括号、货币、年份和顺序必须准确。\n只翻译文本标签，不要改写数字，不要补充解释。\n不要承担版面回填职责。\n只输出 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市保险公司企业年报。\n当前输入属于表格通道。不要把表格行改写成正文句子。\n{\n  \"task\": {\n    \"scenario\": \"listed_company_annual_report\",\n    \"industry\": \"Life Insurance\",\n    \"report_type\": \"annual_report\",\n    \"company_name_target\": \"AIA GROUP LIMITED\",\n    \"direction\": \"Traditional Chinese -> English\"\n  },\n  \"page_context\": {\n    \"page_no\": 9,\n    \"page_sections\": [\n      {\n        \"source_section\": \"概覽\",\n        \"target_section\": \"Overview\",\n        \"content_type\": \"executive_summary\",\n        \"page_range\": [\n          8,\n          16\n        ]\n      }\n    ],\n    \"term_usage_mode\": \"table\",\n    \"neighbor_context\": {\n      \"previous_group_source_excerpt\": \"(5) 總加權保費收入包括再保險分出前的續保保費100%，首年保費\\n100%，以及整付保費10%。\",\n      \"next_group_source_excerpt\": \"(6) 內涵價值是根據對未來經驗的一系列特定假設，以精算方法釐定\\n壽險業務的估計經濟價值，但不包括任何未來新業務的經濟價\\n值。內涵價值權益為內涵價值、商譽及其他無形資產的總和。\"\n    }\n  },\n  \"mapping_hits\": [\n    {\n      \"source\": \"友邦保險\",\n      \"target\": \"AIA\",\n      \"hit_type\": \"glossary_term\"\n    }\n  ],\n  \"fact_locks\": [],\n  \"current_unit\": {\n    \"unit_id\": \"p9_b37\",\n    \"lane\": \"table\",\n    \"table_role\": \"row\",\n    \"source_text\": \"(9) 友邦保險就確認及計量香港分紅業務的保險合約負債的國際財務\\n報告準則之會計處理有所變更，以反映保單持有人花紅的預期\\n變動。2019年之比較資料已作出調整。2018年或以前之比較資料\\n並無重列。\",\n    \"source_line_count\": 4\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p9_b37\",\n        \"translation\": \"<译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p9_b37\",\n      \"translation\": \"(9) AIA has changed its accounting treatment under International Financial Reporting Standards for the recognition and measurement of insurance contract liabilities for its Hong Kong participating business to reflect expected changes in policyholder dividends. Comparative data for 2019 has been adjusted. Comparative data for 2018 and prior years have not been restated.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "1e2ead22-b348-4988-a472-1ebe06fdff7f",
+    "conversation_id": "1e2ead22-b348-4988-a472-1ebe06fdff7f",
+    "id": "1e2ead22-b348-4988-a472-1ebe06fdff7f",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 810,
+      "output_tokens": 100
+    }
+  }
+}

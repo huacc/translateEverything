@@ -1,0 +1,45 @@
+{
+  "sample_id": "p10_g01",
+  "page_no": 10,
+  "section": "Chairman's Statement",
+  "variant": "prompt_a",
+  "source_text": "友邦保險在亞洲歷史悠久，源遠流長，經歷各種社會動盪和不明朗時期仍能妥善管理業務，因而贏得卓著的\n聲譽，體現友邦保險誠可信賴、強韌穩健，並堅持為持分者做對的事。自2020年初以來，2019冠狀病毒病大流\n行導致營商環境不斷變化及日趨複雜，而政治、宏觀經濟及資本市場亦出現前所未見的轉移。在這樣的環境下，\n友邦保險的財務實力，以及「幫助大眾活出健康、長久、好生活」的目標，更具重大意義。本人衷心感謝友邦\n保險所有員工、代理和合作夥伴，即使面對最嚴峻的挑戰，他們仍關懷社區，克盡己職，專心致志地為客戶、",
+  "human_reference": "Throughout AIA's long history in the region we have managed our businesses through many periods of change and uncertainty, earning our company a reputation which is synonymous with trust, resilience and doing the right thing for our stakeholders. From early 2020, the COVID-19 pandemic presented an ever-changing and complex operating environment and we witnessed unprecedented shifts in politics, macroeconomics and capital markets. AIA's financial strength and Purpose of 'helping people live Healthier, Longer, Better Lives' has never been more relevant. I am immensely grateful to all of our employees, agents and partners for their care and dedication, remaining steadfast in supporting our customers, their families, and our communities, through this most challenging time.",
+  "translation": "AIA has a long and distinguished history in Asia, having successfully navigated periods of social upheaval and uncertainty, earning a strong reputation that reflects AIA's trustworthiness, resilience and commitment to doing the right thing for our stakeholders. Since early 2020, the COVID-19 pandemic has resulted in a constantly evolving and increasingly complex business environment, with unprecedented shifts in the political, macroeconomic and capital market landscape. Against this backdrop, AIA's financial strength and our purpose of helping people live Healthier, Longer, Better Lives has taken on even greater significance. I would like to express my heartfelt gratitude to all of AIA's employees, agents and partners who, even in the face of the most severe challenges, have remained dedicated to serving our communities and customers with care and commitment.",
+  "sequence_ratio": 0.1248,
+  "token_f1": 0.5333,
+  "prompt_log_base_name": "p10_g01_prompt_a",
+  "request": {
+    "model": "claude-opus-4-6",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你现在是国际顶级上市保险公司年报中英翻译专家，拥有超过15年将中文正式财报翻译成标准英文年报的经验，翻译水平达到香港联交所上市规则和国际财务报告准则（IFRS）的专业要求。\n\n你的翻译必须同时满足以下标准：\n1. 术语高度一致、专业准确。所有金融、保险、精算、监管术语必须优先使用国际资本市场通用的标准英文表达。\n2. 风格正式、严谨、专业。采用香港/国际上市公司年报的典型英文风格，客观、中性、简洁、权威。\n3. 绝对忠实原文。严格忠实于中文原意，不增加、不省略、不解释、不自由改写。\n4. 格式与呈现稳定。保留原文段落结构、标题语气、数据和逻辑顺序。\n\n输出规则：\n- 只输出翻译后的英文文本。\n- 不要添加任何解释、前言、说明或引号。\n- 直接开始输出译文。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "现在，请直接翻译以下中文年报段落。\n\n要求：\n1. 只输出英文译文。\n2. 不要解释，不要补充背景。\n3. 保持原段落顺序。\n\n中文原文：\n\n友邦保險在亞洲歷史悠久，源遠流長，經歷各種社會動盪和不明朗時期仍能妥善管理業務，因而贏得卓著的\n聲譽，體現友邦保險誠可信賴、強韌穩健，並堅持為持分者做對的事。自2020年初以來，2019冠狀病毒病大流\n行導致營商環境不斷變化及日趨複雜，而政治、宏觀經濟及資本市場亦出現前所未見的轉移。在這樣的環境下，\n友邦保險的財務實力，以及「幫助大眾活出健康、長久、好生活」的目標，更具重大意義。本人衷心感謝友邦\n保險所有員工、代理和合作夥伴，即使面對最嚴峻的挑戰，他們仍關懷社區，克盡己職，專心致志地為客戶、\n"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "AIA has a long and distinguished history in Asia, having successfully navigated periods of social upheaval and uncertainty, earning a strong reputation that reflects AIA's trustworthiness, resilience and commitment to doing the right thing for our stakeholders. Since early 2020, the COVID-19 pandemic has resulted in a constantly evolving and increasingly complex business environment, with unprecedented shifts in the political, macroeconomic and capital market landscape. Against this backdrop, AIA's financial strength and our purpose of helping people live Healthier, Longer, Better Lives has taken on even greater significance. I would like to express my heartfelt gratitude to all of AIA's employees, agents and partners who, even in the face of the most severe challenges, have remained dedicated to serving our communities and customers with care and commitment.",
+        "type": "text"
+      }
+    ],
+    "conversationId": "2e024ede-5c0f-400f-853e-476db40dbfee",
+    "conversation_id": "2e024ede-5c0f-400f-853e-476db40dbfee",
+    "id": "2e024ede-5c0f-400f-853e-476db40dbfee",
+    "model": "claude-opus-4-6",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 778,
+      "output_tokens": 161
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "stage": "compact",
+    "page_no": 13,
+    "group_id": "p13_b8"
+  },
+  "request": {
+    "model": "claude-opus-4-6",
+    "max_tokens": 4096,
+    "system": "你是上市公司年报短标签压缩助手。\n语言方向：Traditional Chinese -> English。\n只做最小必要压缩，不改变核心语义，不扩写。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "任务\n- unit_id：p13_b8\n- 输入单元：短标签 / 小标题\n\n原文\n給付及理賠，為客戶提供極其重要的財務保障。\n\n当前译文\nBenefits and claims, providing critical financial protection to customers.\n\n输出格式\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p13_b8\",\n      \"translation\": \"<更紧凑译文>\"\n    }\n  ]\n}"
+      }
+    ],
+    "thinking": {
+      "type": "adaptive"
+    },
+    "output_config": {
+      "effort": "max"
+    }
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p13_b8\",\n      \"translation\": \"Benefits and Claims\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "8fea1fb8-af81-470f-b574-5647aa748e64",
+    "conversation_id": "8fea1fb8-af81-470f-b574-5647aa748e64",
+    "id": "8fea1fb8-af81-470f-b574-5647aa748e64",
+    "model": "claude-opus-4-6",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 209,
+      "output_tokens": 43
+    }
+  }
+}

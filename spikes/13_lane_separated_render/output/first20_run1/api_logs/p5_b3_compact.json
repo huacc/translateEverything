@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "compact",
+    "page_no": 5,
+    "group_id": "p5_b3"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是版面压缩器。\n语言方向：Traditional Chinese -> English。\n只做最小必要压缩。\n不得改动数字、百分比、年份、金额、专有名词。\n只输出 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市保险公司企业年报。\n{\n  \"current_unit\": {\n    \"unit_id\": \"p5_b3\",\n    \"lane\": \"caption_label\",\n    \"source_text\": \"風險。我們作出迅速和全面的應對，包括為我們的社區\",\n    \"current_translation\": \"risks. We responded swiftly and comprehensively, including providing support to our community\"\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p5_b3\",\n        \"translation\": \"<更紧凑译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p5_b3\",\n      \"translation\": \"risks. We responded swiftly and comprehensively, including support to our community\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "731225fa-b0df-4d50-8ce9-3be240ee069b",
+    "conversation_id": "731225fa-b0df-4d50-8ce9-3be240ee069b",
+    "id": "731225fa-b0df-4d50-8ce9-3be240ee069b",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 250,
+      "output_tokens": 53
+    }
+  }
+}

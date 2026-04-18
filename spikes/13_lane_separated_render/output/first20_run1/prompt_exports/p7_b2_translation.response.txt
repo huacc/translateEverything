@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p7_b2",
+      "translation": "AIA commits USD 100 million to establish the AIA Scholarship"
+    }
+  ]
+}
+```

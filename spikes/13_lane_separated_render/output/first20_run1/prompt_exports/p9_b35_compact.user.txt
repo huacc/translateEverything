@@ -1,0 +1,41 @@
+文档场景：上市公司企业年报
+{
+  "document_background": {
+    "page_sections": [
+      {
+        "source_section": "概覽",
+        "target_section": "Overview",
+        "content_type": "executive_summary",
+        "page_range": [
+          8,
+          16
+        ]
+      }
+    ],
+    "roles": [],
+    "terms": [],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "Keep headings short, stable and standard.",
+      "Prefer established annual report section names over free paraphrase."
+    ]
+  },
+  "current_unit": {
+    "page_no": 9,
+    "unit_id": "p9_b35",
+    "unit_mode": "single_block",
+    "slot_count": 1,
+    "source_text": "(4) 所列示的稅後營運溢利已扣除非控股權益。",
+    "current_translation": "(4) The Operating Profit After Tax presented has been adjusted to exclude non-controlling interests."
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p9_b35",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

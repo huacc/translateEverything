@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p2_b47",
+      "translation": "133 Consolidated Comprehensive Income"
+    }
+  ]
+}
+```

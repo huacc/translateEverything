@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p20_g02",
+      "translation": "AIA China achieved strong momentum in 2021, with VONB in the first two months showing very robust growth compared to the same period in 2020. VONB of US$968 million in 2020 decreased by 17% compared to 2019, primarily due to limited sales in the initial outbreak of COVID-19 in the first quarter. As travel restrictions were relaxed, new business momentum improved rapidly. VONB resumed our customary seasonal pattern, with a greater proportion concentrated in the first half of the year. In 2020, AIA China contributed the largest share to the Group's VONB."
+    }
+  ]
+}
+```

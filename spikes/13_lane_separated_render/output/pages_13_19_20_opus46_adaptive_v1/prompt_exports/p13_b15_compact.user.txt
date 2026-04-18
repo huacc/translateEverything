@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p13_b15",
+    "lane": "caption_label",
+    "source_text": "政策，讓本集團可把握未來的增長機遇，並且保持財務靈活性。",
+    "current_translation": "policy, enabling the Group to capture future growth opportunities while maintaining financial flexibility."
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p13_b15",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

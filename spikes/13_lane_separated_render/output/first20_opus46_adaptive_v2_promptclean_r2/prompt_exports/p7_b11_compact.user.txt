@@ -1,0 +1,19 @@
+任务
+- unit_id：p7_b11
+- 输入单元：短标签 / 小标题
+
+原文
+業務改建為首家人身保險子公司，而有關
+
+当前译文
+business into the first wholly foreign-owned life insurance subsidiary, and the relevant
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p7_b11",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p7_b12",
+      "translation": "approval was obtained in June 2020. In March 2021,"
+    }
+  ]
+}
+```

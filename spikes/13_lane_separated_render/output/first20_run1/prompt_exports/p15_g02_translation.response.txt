@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p15_g02",
+      "translation": "Our annual employee engagement survey is a key indicator of the collective efforts we make across our markets to better understand and support our employees. In 2020, 97% of employees participated in the survey, and our Group achieved a record high employee engagement score, ranking at the 88th percentile against the Gallup Global Financial Services and Insurance benchmark. Additionally, AIA was named on Forbes' 'World's Best Employers 2020' list."
+    }
+  ]
+}
+```

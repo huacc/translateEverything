@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p7_b11",
+      "translation": "business into first wholly foreign-owned life insurance subsidiary, and relevant"
+    }
+  ]
+}
+```

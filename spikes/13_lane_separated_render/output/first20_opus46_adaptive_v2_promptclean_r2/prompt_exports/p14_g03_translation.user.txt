@@ -1,0 +1,61 @@
+任务
+- 语言方向：Traditional Chinese -> English
+- 文档场景：上市公司企业年报
+- 公司：AIA GROUP LIMITED
+- 行业：Life Insurance
+- 报告类型：annual_report
+- 当前页面：14
+- 当前输入单元：正文语义组（group）
+
+翻译要求
+- 只翻译当前正文组，不要承担排版、压缩、分块、回填职责。
+- 可以在当前 group 内恢复断句和段落语义，但不得跨 group 补写或删写。
+- 保持上市公司年报文风：正式、稳定、可出版。
+- 数字、百分比、货币、年份、专有名词必须准确。
+- 如术语锁定与原有表达冲突，优先遵守术语锁定和事实锁定。
+
+页面上下文
+- 当前章节：Group Chief Executive and President's Report，类型：ceo_report（页码 12-16）
+- 术语使用模式：table
+- 上一组摘要：在2020年，我們成功獲得監管機搆批復，將上海分公司改建為中國內地首家外資獨資人身保險子公司。於2021年
+3月，我們已獲得中國銀行保險監督委員會批復，准予在四川省開業。四川省是中國內地以國內生產總值計的
+第六大省份，以人口計為第四大...
+- 下一组摘要：友邦保險泰國業務在下半年錄得非常強勁的表現。儘管新業務價值全年下降4%，但隨著外出限制放寬，按月表
+現已展現正面動力，而下半年新業務價值較上半年錄得33%的增長。
+
+文体与偏好
+- Use US$ for U.S. dollar amounts.
+- Keep listed-company annual report disclosure tone formal and publishable.
+- Do not change numbers, percentages, years, named entities or financial metric values.
+- Use established financial abbreviations for table labels when provided.
+- Keep row and column semantics unchanged.
+
+术语锁定
+- 中國內地訪港旅客 => Mainland Chinese visitors [context_term]
+- 新業務價值 => VONB [context_term]
+- 稅後營運溢利 => OPAT [context_term]
+- 續保保費 => renewal premiums [context_term]
+- 夥伴分銷 => partnership distribution [glossary_term]
+- 中國內地 => Mainland China [glossary_term]
+
+事实锁定
+- percentage_10: 10% -> 10%
+
+当前正文组
+- group_id：p14_g03
+- group_bbox：[73.7, 270.49, 527.25, 330.67]
+- 原文：
+香港在2020年2月初實施旅遊限制，來自中國內地訪港旅客的新業務銷售實際上已經停頓，導致新業務價值大幅
+下降。與上半年比較，我們的代理分銷來自本地客戶的業務於下半年錄得雙位數字的銷售增長，維持顯著的市場
+領導地位。夥伴分銷渠道的新業務價值顯著低於2019年，乃由於透過零售獨立財務顧問渠道的中國內地訪港旅客
+過往銷售比重較高。稅後營運溢利增長10%，受惠於續保保費強勁的增長及有利的理賠經驗。
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p14_g03",
+      "translation": "<译文>"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p2_b18",
+    "lane": "caption_label",
+    "source_text": "069 董事責任聲明",
+    "current_translation": "069 Directors' Responsibility Statement"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p2_b18",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 19,
+    "group_id": "p19_b9"
+  },
+  "request": {
+    "model": "claude-opus-4-6",
+    "max_tokens": 4096,
+    "system": "你是上市公司年报翻译器。\n语言方向：Traditional Chinese -> English。\n只处理当前 body semantic group。\n只可在当前组内恢复跨块断句，不得跨组补写、跨组删写或改写事实。\n必须严格满足 mapping_hits 与 fact_locks。\n版面回填、字体压缩、分块分配不是你的职责，不要为了适配版面删词改义。\n保持正式、稳定、可出版的企业年报文风。\n只输出 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市保险公司企业年报。\n先满足 fact_locks，再保证术语稳定、语义完整和年报文风。\n{\n  \"task\": {\n    \"scenario\": \"listed_company_annual_report\",\n    \"industry\": \"Life Insurance\",\n    \"report_type\": \"annual_report\",\n    \"company_name_target\": \"AIA GROUP LIMITED\",\n    \"direction\": \"Traditional Chinese -> English\"\n  },\n  \"page_context\": {\n    \"page_no\": 19,\n    \"page_sections\": [\n      {\n        \"source_section\": \"集團首席財務總監回顧\",\n        \"target_section\": \"Group Chief Financial Officer's Review\",\n        \"content_type\": \"cfo_review\",\n        \"page_range\": [\n          18,\n          30\n        ]\n      }\n    ],\n    \"term_usage_mode\": \"table\",\n    \"neighbor_context\": {\n      \"previous_group_source_excerpt\": \"團的新業務價值帶來最大貢獻，也是我們第一個顯示銷售勢頭有所恢復的報告分部，原因在於該地區自2020年3\\n月逐步放寬嚴格的封鎖。撇除維持低位的中國內地訪港旅客銷售額，本集團其他分部的新業務價值在下半年強勁\\n復甦，與上半年相比增長了23%...\",\n      \"next_group_source_excerpt\": \"原因在於內涵價值營運溢利72.43億美元抵銷了政府債券收益率下降的影響。內涵價值營運溢利包括來自正面營\\n運差異5.49億美元，原因在於與我們的內涵價值假設相比，我們的整體經驗持續維持正面。\"\n    }\n  },\n  \"mapping_hits\": [\n    {\n      \"source\": \"內涵價值權益\",\n      \"target\": \"EV Equity\",\n      \"hit_type\": \"context_term\"\n    },\n    {\n      \"source\": \"內涵價值\",\n      \"target\": \"EV\",\n      \"hit_type\": \"context_term\"\n    }\n  ],\n  \"fact_locks\": [\n    {\n      \"label\": \"date_2020\",\n      \"fact_type\": \"date\",\n      \"source_value\": \"截至2020年12月31日\",\n      \"expected_forms\": [\n        \"31 12 2020\"\n      ]\n    },\n    {\n      \"label\": \"dividend_paid_usd\",\n      \"fact_type\": \"usd_scaled_amount\",\n      \"source_value\": \"671.85億美元\",\n      \"expected_forms\": [\n        \"US$67.185 billion\",\n        \"US$67185 million\",\n        \"US$67,185 million\"\n      ]\n    },\n    {\n      \"label\": \"dividend_paid_usd\",\n      \"fact_type\": \"usd_scaled_amount\",\n      \"source_value\": \"19.97億美元\",\n      \"expected_forms\": [\n        \"US$1.997 billion\",\n        \"US$1997 million\",\n        \"US$1,997 million\"\n      ]\n    },\n    {\n      \"label\": \"dividend_paid_usd\",\n      \"fact_type\": \"usd_scaled_amount\",\n      \"source_value\": \"52.77億美元\",\n      \"expected_forms\": [\n        \"US$5.277 billion\",\n        \"US$5277 million\",\n        \"US$5,277 million\"\n      ]\n    }\n  ],\n  \"current_group\": {\n    \"group_id\": \"p19_b9\",\n    \"lane\": \"body\",\n    \"group_text\": \"截至2020年12月31日的內涵價值權益創下新高為671.85億美元，於派付股息19.97億美元之前增加52.77億美元，\",\n    \"source_block_ids\": [\n      \"p19_b9\"\n    ],\n    \"source_block_count\": 1\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p19_b9\",\n        \"translation\": \"<译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ],
+    "thinking": {
+      "type": "adaptive"
+    },
+    "output_config": {
+      "effort": "max"
+    }
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p19_b9\",\n      \"translation\": \"EV Equity as at 31 December 2020 reached a record high of US$67.185 billion, an increase of US$5.277 billion before payment of dividends of US$1.997 billion,\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "d898b9a8-cf5c-4473-9938-9bc4efc6a8df",
+    "conversation_id": "d898b9a8-cf5c-4473-9938-9bc4efc6a8df",
+    "id": "d898b9a8-cf5c-4473-9938-9bc4efc6a8df",
+    "model": "claude-opus-4-6",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1290,
+      "output_tokens": 79
+    }
+  }
+}

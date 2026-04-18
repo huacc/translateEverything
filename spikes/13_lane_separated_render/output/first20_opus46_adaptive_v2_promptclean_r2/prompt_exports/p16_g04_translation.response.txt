@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p16_g04",
+      "translation": "I am confident about AIA's long-term future prospects. Despite near-term uncertainties, strong domestic demand drivers, combined with Asia's major demographic trends, continue to provide positive structural support for the long-term outlook of AIA's business. With rising household incomes, low private insurance penetration, and limited social welfare coverage, demand for AIA's products will continue to grow. We will leverage our significant competitive advantages and strong growth track record to build a more sustainable future for our communities and create shared value for all stakeholders."
+    }
+  ]
+}
+```

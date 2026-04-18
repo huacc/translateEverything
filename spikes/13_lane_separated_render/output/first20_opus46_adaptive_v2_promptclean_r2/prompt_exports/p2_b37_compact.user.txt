@@ -1,0 +1,19 @@
+任务
+- unit_id：p2_b37
+- 输入单元：短标签 / 小标题
+
+原文
+代理、夥伴及員工網絡，為超過3,800萬
+
+当前译文
+agent, partner and employee network, serving over 38 million
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p2_b37",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

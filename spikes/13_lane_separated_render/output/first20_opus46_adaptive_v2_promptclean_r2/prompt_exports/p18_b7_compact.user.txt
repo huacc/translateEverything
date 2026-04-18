@@ -1,0 +1,19 @@
+任务
+- unit_id：p18_b7
+- 输入单元：短标签 / 小标题
+
+原文
+讓我們在眾多增長機遇下得以繼續投資。
+
+当前译文
+enabling us to continue investing amid numerous growth opportunities.
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p18_b7",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

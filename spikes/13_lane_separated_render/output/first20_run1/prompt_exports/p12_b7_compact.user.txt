@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p12_b7",
+    "lane": "caption_label",
+    "source_text": "環境，同時加快落實我們的策略計劃。",
+    "current_translation": "environment, while accelerating the implementation of our strategic plans."
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p12_b7",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

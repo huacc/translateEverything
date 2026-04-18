@@ -1,0 +1,19 @@
+任务
+- unit_id：p16_b11
+- 输入单元：短标签 / 小标题
+
+原文
+段。
+
+当前译文
+paragraph.
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p16_b11",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

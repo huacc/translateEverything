@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p5_b5",
+    "lane": "caption_label",
+    "source_text": "保障，讓他們冒著生命危險執行抗疫工作時能減輕一份",
+    "current_translation": "protection to ease their burden while risking their lives in pandemic response efforts"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p5_b5",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

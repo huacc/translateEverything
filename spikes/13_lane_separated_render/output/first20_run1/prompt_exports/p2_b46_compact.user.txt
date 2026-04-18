@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p2_b46",
+    "lane": "caption_label",
+    "source_text": "友邦保險控股有限公司於香港聯合",
+    "current_translation": "AIA Group Limited is listed on the Hong Kong Stock Exchange"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p2_b46",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

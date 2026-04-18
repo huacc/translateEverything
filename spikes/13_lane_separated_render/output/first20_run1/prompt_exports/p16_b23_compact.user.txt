@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p16_b23",
+    "lane": "caption_label",
+    "source_text": "增長率乃按固定匯率列示，管理層相信這可更清晰地說明相關業務按年的表現。",
+    "current_translation": "Growth rates are presented at constant exchange rates, which management believes provides a clearer illustration of year-on-year business performance."
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p16_b23",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

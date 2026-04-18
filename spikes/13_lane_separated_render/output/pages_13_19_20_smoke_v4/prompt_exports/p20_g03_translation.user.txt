@@ -1,0 +1,117 @@
+文档场景：上市保险公司企业年报。
+先满足 fact_locks，再保证术语稳定、语义完整和年报文风。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 20,
+    "page_sections": [
+      {
+        "source_section": "新業務表現",
+        "target_section": "New Business Performance",
+        "content_type": "business_metrics",
+        "page_range": [
+          20,
+          21
+        ]
+      },
+      {
+        "source_section": "集團首席財務總監回顧",
+        "target_section": "Group Chief Financial Officer's Review",
+        "content_type": "cfo_review",
+        "page_range": [
+          18,
+          30
+        ]
+      }
+    ],
+    "term_usage_mode": "table",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "友邦保險中國業務在2021年錄得成功的勢頭，首兩個月的新業務價值與2020年同期比較，錄得非常強勁的增\n長。2020年新業務價值9.68億美元較2019年減少17%，主要由於2019冠狀病毒病在第一季爆發初期而導致銷售額\n有限。隨著外...",
+      "next_group_source_excerpt": "018\n友邦保險控股有限公司"
+    }
+  },
+  "mapping_hits": [
+    {
+      "source": "友邦保險香港業務",
+      "target": "AIA Hong Kong",
+      "hit_type": "context_term"
+    },
+    {
+      "source": "友邦保險澳門分公司",
+      "target": "AIA Macau",
+      "hit_type": "context_term"
+    },
+    {
+      "source": "中國內地訪港客戶",
+      "target": "Mainland Chinese visitors",
+      "hit_type": "context_term"
+    },
+    {
+      "source": "個人遊計劃",
+      "target": "Individual Visit Scheme",
+      "hit_type": "context_term"
+    },
+    {
+      "source": "新業務價值利潤率",
+      "target": "VONB margin",
+      "hit_type": "context_term"
+    },
+    {
+      "source": "新業務價值",
+      "target": "VONB",
+      "hit_type": "context_term"
+    },
+    {
+      "source": "年化新保費",
+      "target": "ANP",
+      "hit_type": "context_term"
+    },
+    {
+      "source": "利潤率",
+      "target": "Profit Margin",
+      "hit_type": "context_term"
+    },
+    {
+      "source": "友邦保險",
+      "target": "AIA",
+      "hit_type": "glossary_term"
+    },
+    {
+      "source": "中國內地",
+      "target": "Mainland China",
+      "hit_type": "glossary_term"
+    },
+    {
+      "source": "中國內地訪澳客戶",
+      "target": "Mainland Chinese visitors",
+      "hit_type": "glossary_term"
+    }
+  ],
+  "fact_locks": [],
+  "current_group": {
+    "group_id": "p20_g03",
+    "lane": "body",
+    "group_text": "在實施旅遊限制後，友邦保險香港業務來自中國內地訪港客戶的新業務銷售自2020年2月初起實際上已暫停，導\n致其新業務價值大幅下降。新業務價值利潤率錄得跌幅，反映新業務量減少導致承保開支超支、產品組合變動及\n利率下降的影響所致。澳門在2020年9月底恢復中國內地旅客個人遊計劃。這為澳門的中國內地訪澳客戶銷售回\n升提供支持，使其在第四季佔友邦保險澳門分公司的年化新保費總額超過三分之一。",
+    "source_block_ids": [
+      "p20_b30",
+      "p20_b31",
+      "p20_b32",
+      "p20_b33"
+    ],
+    "source_block_count": 4
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p20_g03",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

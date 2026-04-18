@@ -1,0 +1,44 @@
+文档场景：上市保险公司企业年报。
+当前输入属于短标签通道。优先使用标准年报表达。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 3,
+    "page_sections": [
+      {
+        "source_section": "友邦保險一覽",
+        "target_section": "AIA At-A-Glance",
+        "content_type": "company_overview",
+        "page_range": [
+          3
+        ]
+      }
+    ],
+    "term_usage_mode": "heading",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "唯一連續六年\n問鼎百萬圓桌會會員\n人數之冠的跨國公司",
+      "next_group_source_excerpt": "業務覆蓋"
+    }
+  },
+  "mapping_hits": [],
+  "fact_locks": [],
+  "current_unit": {
+    "unit_id": "p3_b6",
+    "lane": "caption_label",
+    "source_text": "的國際人壽\n保險公司"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p3_b6",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

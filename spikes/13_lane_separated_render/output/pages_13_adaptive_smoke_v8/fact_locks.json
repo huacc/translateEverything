@@ -1,0 +1,241 @@
+[
+  {
+    "group_id": "p13_g02",
+    "page_no": 13,
+    "label": "usd_amount_160",
+    "fact_type": "usd_scaled_amount",
+    "source_value": "160億美元",
+    "expected_forms": [
+      "US$16 billion",
+      "US$16000 million",
+      "US$16,000 million"
+    ],
+    "expected_numbers": [
+      "16",
+      "16000"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p13_b5",
+      "p13_b6",
+      "p13_b7"
+    ],
+    "source_evidence_text": "我們一如既往找出每一個可以作出理賠的理由，年內已支付逾160億美元的保險",
+    "importance": "medium",
+    "validate": false
+  },
+  {
+    "group_id": "p13_g03",
+    "page_no": 13,
+    "label": "date_2020",
+    "fact_type": "date",
+    "source_value": "截至2020年12月31日",
+    "expected_forms": [
+      "31 12 2020"
+    ],
+    "expected_numbers": [
+      "2020",
+      "12",
+      "31"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p13_b9",
+      "p13_b10",
+      "p13_b11",
+      "p13_b12"
+    ],
+    "source_evidence_text": "截至2020年12月31日，內涵價值權益創新高，達672億美元，集團當地資本總和法覆蓋率為374%，足",
+    "importance": "medium",
+    "validate": false
+  },
+  {
+    "group_id": "p13_g03",
+    "page_no": 13,
+    "label": "usd_amount_27.65",
+    "fact_type": "usd_scaled_amount",
+    "source_value": "27.65億美元",
+    "expected_forms": [
+      "US$2.765 billion",
+      "US$2765 million",
+      "US$2,765 million"
+    ],
+    "expected_numbers": [
+      "2.765",
+      "2765"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p13_b9",
+      "p13_b10",
+      "p13_b11",
+      "p13_b12"
+    ],
+    "source_evidence_text": "儘管為遏制2019冠狀病毒病傳播的措施導致新業務價值減少至27.65億美元，但隨著外出限制放寬，銷售動力轉趨正面，並在2021年展開非常強勁的勢頭，首兩個月的新業務價值按年增長15%",
+    "importance": "medium",
+    "validate": false
+  },
+  {
+    "group_id": "p13_g03",
+    "page_no": 13,
+    "label": "ev_equity_usd",
+    "fact_type": "usd_scaled_amount",
+    "source_value": "672億美元",
+    "expected_forms": [
+      "US$67.2 billion",
+      "US$67200 million",
+      "US$67,200 million"
+    ],
+    "expected_numbers": [
+      "67.2",
+      "67200"
+    ],
+    "required_keywords": [
+      "embedded value",
+      "ev equity"
+    ],
+    "source_block_ids": [
+      "p13_b9",
+      "p13_b10",
+      "p13_b11",
+      "p13_b12"
+    ],
+    "source_evidence_text": "截至2020年12月31日，內涵價值權益創新高，達672億美元，集團當地資本總和法覆蓋率為374%，足",
+    "importance": "high",
+    "validate": true
+  },
+  {
+    "group_id": "p13_g03",
+    "page_no": 13,
+    "label": "percentage_15",
+    "fact_type": "percentage",
+    "source_value": "15%",
+    "expected_forms": [
+      "15%"
+    ],
+    "expected_numbers": [
+      "15"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p13_b9",
+      "p13_b10",
+      "p13_b11",
+      "p13_b12"
+    ],
+    "source_evidence_text": "儘管為遏制2019冠狀病毒病傳播的措施導致新業務價值減少至27.65億美元，但隨著外出限制放寬，銷售動力轉趨正面，並在2021年展開非常強勁的勢頭，首兩個月的新業務價值按年增長15%",
+    "importance": "low",
+    "validate": false
+  },
+  {
+    "group_id": "p13_g03",
+    "page_no": 13,
+    "label": "percentage_5",
+    "fact_type": "percentage",
+    "source_value": "5%",
+    "expected_forms": [
+      "5%"
+    ],
+    "expected_numbers": [
+      "5"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p13_b9",
+      "p13_b10",
+      "p13_b11",
+      "p13_b12"
+    ],
+    "source_evidence_text": "我們規模龐大和持續增長的有效保單組合所帶來的高質素和經常性收入來源，帶動2020年稅後營運溢利增加5%，期內產生的基本自由盈餘則增長7%",
+    "importance": "low",
+    "validate": false
+  },
+  {
+    "group_id": "p13_g03",
+    "page_no": 13,
+    "label": "percentage_7",
+    "fact_type": "percentage",
+    "source_value": "7%",
+    "expected_forms": [
+      "7%"
+    ],
+    "expected_numbers": [
+      "7"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p13_b9",
+      "p13_b10",
+      "p13_b11",
+      "p13_b12"
+    ],
+    "source_evidence_text": "我們規模龐大和持續增長的有效保單組合所帶來的高質素和經常性收入來源，帶動2020年稅後營運溢利增加5%，期內產生的基本自由盈餘則增長7%",
+    "importance": "low",
+    "validate": false
+  },
+  {
+    "group_id": "p13_g03",
+    "page_no": 13,
+    "label": "group_lcsm_cover_ratio_pct",
+    "fact_type": "percentage",
+    "source_value": "374%",
+    "expected_forms": [
+      "374%"
+    ],
+    "expected_numbers": [
+      "374"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p13_b9",
+      "p13_b10",
+      "p13_b11",
+      "p13_b12"
+    ],
+    "source_evidence_text": "截至2020年12月31日，內涵價值權益創新高，達672億美元，集團當地資本總和法覆蓋率為374%，足",
+    "importance": "medium",
+    "validate": true
+  },
+  {
+    "group_id": "p13_b14",
+    "page_no": 13,
+    "label": "final_dividend_per_share",
+    "fact_type": "hk_cents_per_share",
+    "source_value": "100.30港仙",
+    "expected_forms": [
+      "100.30 Hong Kong cents per share"
+    ],
+    "expected_numbers": [
+      "100.30"
+    ],
+    "required_keywords": [
+      "final dividend"
+    ],
+    "source_block_ids": [
+      "p13_b14"
+    ],
+    "source_evidence_text": "董事會建議2020年末期股息增加7.5%至每股100.30港仙",
+    "importance": "high",
+    "validate": true
+  },
+  {
+    "group_id": "p13_b14",
+    "page_no": 13,
+    "label": "percentage_7.5",
+    "fact_type": "percentage",
+    "source_value": "7.5%",
+    "expected_forms": [
+      "7.5%"
+    ],
+    "expected_numbers": [
+      "7.5"
+    ],
+    "required_keywords": [],
+    "source_block_ids": [
+      "p13_b14"
+    ],
+    "source_evidence_text": "董事會建議2020年末期股息增加7.5%至每股100.30港仙",
+    "importance": "low",
+    "validate": false
+  }
+]

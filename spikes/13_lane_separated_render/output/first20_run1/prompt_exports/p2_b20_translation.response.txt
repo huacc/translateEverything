@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p2_b20",
+      "translation": "AIA offers a range of products and services,"
+    }
+  ]
+}
+```

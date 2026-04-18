@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p2_b32",
+    "lane": "caption_label",
+    "source_text": "096 企業管治報告",
+    "current_translation": "096 Corporate Governance Report"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p2_b32",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

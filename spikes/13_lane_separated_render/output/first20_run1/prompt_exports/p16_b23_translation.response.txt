@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p16_b23",
+      "translation": "Growth rates are presented at constant exchange rates, which management believes provides a clearer illustration of year-on-year business performance."
+    }
+  ]
+}
+```

@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "compact",
+    "page_no": 18,
+    "group_id": "p18_b3"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是版面压缩器。\n语言方向：Traditional Chinese -> English。\n只做最小必要压缩。\n不得改动数字、百分比、年份、金额、专有名词。\n只输出 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市保险公司企业年报。\n{\n  \"current_unit\": {\n    \"unit_id\": \"p18_b3\",\n    \"lane\": \"caption_label\",\n    \"source_text\": \"儘管2020年的營商及宏觀經濟環境前所未見，友邦保險仍實現\",\n    \"current_translation\": \"Despite an unprecedented business and macroeconomic environment in 2020, AIA achieved\"\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p18_b3\",\n        \"translation\": \"<更紧凑译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p18_b3\",\n      \"translation\": \"Despite unprecedented 2020 conditions, AIA achieved\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "fcb0eb5f-4d18-4ffe-89ca-3582bfd5d05a",
+    "conversation_id": "fcb0eb5f-4d18-4ffe-89ca-3582bfd5d05a",
+    "id": "fcb0eb5f-4d18-4ffe-89ca-3582bfd5d05a",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 258,
+      "output_tokens": 46
+    }
+  }
+}

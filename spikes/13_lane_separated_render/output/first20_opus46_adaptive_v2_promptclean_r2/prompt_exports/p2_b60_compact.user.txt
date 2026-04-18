@@ -1,0 +1,19 @@
+任务
+- unit_id：p2_b60
+- 输入单元：短标签 / 小标题
+
+原文
+領導地位。截至2020年12月31日，集團
+
+当前译文
+Leadership position. As at 31 December 2020, the Group
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p2_b60",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+任务
+- unit_id：p9_b17
+- 输入单元：短标签 / 小标题
+
+原文
+總加權保費收入(5)
+
+当前译文
+Total Weighted Premium Income(5)
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p9_b17",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

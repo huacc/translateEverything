@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p2_b43",
+    "lane": "caption_label",
+    "source_text": "125 獨立核數師報告",
+    "current_translation": "125 Independent Auditor's Report"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p2_b43",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

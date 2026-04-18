@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p19_g06",
+      "translation": "As at 31 December 2020, the solvency ratio of our principal operating company, AIA Company Limited (AIA Co.), remained very strong at 489%. As at 31 December 2020, under the new group supervisory framework, the Group LCSM cover ratio was 374%. Going forward, we will disclose the Group LCSM cover ratio as the primary measure of the Group's regulatory solvency."
+    }
+  ]
+}
+```

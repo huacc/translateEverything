@@ -1,0 +1,50 @@
+文档场景：上市保险公司企业年报。
+当前输入属于短标签通道。优先使用标准年报表达。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 2,
+    "page_sections": [
+      {
+        "source_section": "目錄",
+        "target_section": "Contents",
+        "content_type": "navigation",
+        "page_range": [
+          2
+        ]
+      }
+    ],
+    "term_usage_mode": "heading",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "062 監管及國際發展",
+      "next_group_source_excerpt": "064 我們的團隊"
+    }
+  },
+  "mapping_hits": [
+    {
+      "source": "友邦保險",
+      "target": "AIA",
+      "hit_type": "glossary_term"
+    }
+  ],
+  "fact_locks": [],
+  "current_unit": {
+    "unit_id": "p2_b15",
+    "lane": "caption_label",
+    "source_text": "友邦保險簡介"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p2_b15",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

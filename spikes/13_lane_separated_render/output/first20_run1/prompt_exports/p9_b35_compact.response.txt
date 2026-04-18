@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p9_b35",
+      "translation": "(4) Operating Profit After Tax presented excludes non-controlling interests."
+    }
+  ]
+}
+```

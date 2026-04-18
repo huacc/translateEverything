@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p2_b23",
+      "translation": "covering life, accident and health insurance and savings plans,"
+    }
+  ]
+}
+```

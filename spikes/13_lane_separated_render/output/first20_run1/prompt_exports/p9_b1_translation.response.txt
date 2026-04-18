@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p9_b1",
+      "translation": "2020 by Market Segment"
+    }
+  ]
+}
+```

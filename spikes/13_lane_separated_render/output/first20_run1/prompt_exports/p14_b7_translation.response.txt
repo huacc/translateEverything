@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p14_b7",
+      "translation": "in-force portfolio and favorable claims experience."
+    }
+  ]
+}
+```

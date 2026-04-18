@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p11_g03",
+      "translation": "One of the Board's key responsibilities is to ensure a strong leadership pipeline and effective succession arrangements. We welcomed Mr. Lee Yuan Siong on 1 June 2020 as Group Chief Executive and President, succeeding Mr. Ng Keng Hooi who retired. On behalf of the Board, I would like to express our deep gratitude to Mr. Lee and his management team for their excellent leadership in navigating our business forward during this unprecedented environment. We also extend our heartfelt thanks to Mr. Ng Keng Hooi for"
+    }
+  ]
+}
+```

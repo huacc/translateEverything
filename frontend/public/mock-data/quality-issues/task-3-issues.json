@@ -1,0 +1,76 @@
+{
+  "task_id": 3,
+  "total_issues": 5,
+  "issues": [
+    {
+      "id": 1,
+      "segment_id": 8,
+      "page_number": 4,
+      "type": "critical",
+      "severity": "critical",
+      "category": "accuracy",
+      "message": "法律术语翻译错误",
+      "source_text": "The parties hereby agree to the terms and conditions set forth in this agreement.",
+      "target_text": "各方在此同意本协议中规定的条款和条件。",
+      "suggestion": "应使用'双方'而非'各方'，因为合同只涉及两方",
+      "status": "open",
+      "created_at": "2026-04-16T09:05:00Z"
+    },
+    {
+      "id": 2,
+      "segment_id": 12,
+      "page_number": 4,
+      "type": "critical",
+      "severity": "critical",
+      "category": "accuracy",
+      "message": "关键条款翻译不准确",
+      "source_text": "Either party may terminate this agreement with 30 days written notice.",
+      "target_text": "任何一方可以在30天书面通知后终止本协议。",
+      "suggestion": "应为'提前30天书面通知'",
+      "status": "open",
+      "created_at": "2026-04-16T09:08:00Z"
+    },
+    {
+      "id": 3,
+      "segment_id": 15,
+      "page_number": 5,
+      "type": "critical",
+      "severity": "critical",
+      "category": "terminology",
+      "message": "法律术语使用不当",
+      "source_text": "Confidential information shall not be disclosed to third parties.",
+      "target_text": "机密信息不得向第三方披露。",
+      "suggestion": "应使用'保密信息'而非'机密信息'",
+      "status": "open",
+      "created_at": "2026-04-16T09:10:00Z"
+    },
+    {
+      "id": 4,
+      "segment_id": 18,
+      "page_number": 6,
+      "type": "critical",
+      "severity": "critical",
+      "category": "accuracy",
+      "message": "责任条款翻译有误",
+      "source_text": "Neither party shall be liable for indirect or consequential damages.",
+      "target_text": "任何一方均不对间接或后果性损害负责。",
+      "suggestion": "应为'间接损失或间接损害'",
+      "status": "open",
+      "created_at": "2026-04-16T09:12:00Z"
+    },
+    {
+      "id": 5,
+      "segment_id": 20,
+      "page_number": 6,
+      "type": "critical",
+      "severity": "critical",
+      "category": "terminology",
+      "message": "管辖权条款术语错误",
+      "source_text": "This agreement shall be governed by the laws of the State of California.",
+      "target_text": "本协议应受加利福尼亚州法律管辖。",
+      "suggestion": "应为'本协议适用加利福尼亚州法律'",
+      "status": "open",
+      "created_at": "2026-04-16T09:14:00Z"
+    }
+  ]
+}

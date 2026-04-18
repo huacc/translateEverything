@@ -1,0 +1,48 @@
+文档场景：上市公司企业年报
+{
+  "document_background": {
+    "page_sections": [
+      {
+        "source_section": "主席報告",
+        "target_section": "Chairman's Statement",
+        "content_type": "chairman_statement",
+        "page_range": [
+          10,
+          11
+        ]
+      }
+    ],
+    "roles": [
+      {
+        "source": "謝仕榮先生",
+        "target": "Mr. Tse Sze-wing",
+        "role": "Independent Non-Executive Chairman"
+      }
+    ],
+    "terms": [],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "For overview narrative, use full financial metric name plus abbreviation when provided.",
+      "For financial review and business metrics narrative, use established abbreviations when provided.",
+      "Prefer AIA China / AIA Hong Kong / AIA Macau over loose paraphrases when matched."
+    ]
+  },
+  "current_unit": {
+    "page_no": 11,
+    "unit_id": "p11_g02",
+    "unit_mode": "semantic_group",
+    "slot_count": 2,
+    "source_text": "董事會的所有非執行董事均由獨立人士出任，他們在公營和私營產業擁有廣泛的管治和領導經驗。我們同心\n協力，銳意維持奉行最高國際企業管治標準的公司文化。我們深信根深蒂固的企業管治文化，加上穩健的風險",
+    "current_translation": "All non-executive Directors of the Board are independent individuals with extensive governance and leadership experience in both public and private sectors. We work in unison to maintain a corporate culture that adheres to the highest international corporate governance standards. We firmly believe that a deeply rooted corporate governance culture, combined with sound risk"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p11_g02",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

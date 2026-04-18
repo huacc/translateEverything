@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "compact",
+    "page_no": 12,
+    "group_id": "p12_b4"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是版面压缩器。\n语言方向：Traditional Chinese -> English。\n只做最小必要压缩。\n不得改动数字、百分比、年份、金额、专有名词。\n只输出 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市保险公司企业年报。\n{\n  \"current_unit\": {\n    \"unit_id\": \"p12_b4\",\n    \"lane\": \"caption_label\",\n    \"source_text\": \"卓越的團隊努力不懈的成果。我們的員工能迅速\",\n    \"current_translation\": \"The result of our excellent team's relentless efforts. Our employees are able to respond quickly\"\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p12_b4\",\n        \"translation\": \"<更紧凑译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p12_b4\",\n      \"translation\": \"The result of our excellent team's relentless efforts. Our employees respond quickly\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "ca36058c-f8d9-451b-a3c4-797680836890",
+    "conversation_id": "ca36058c-f8d9-451b-a3c4-797680836890",
+    "id": "ca36058c-f8d9-451b-a3c4-797680836890",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 250,
+      "output_tokens": 52
+    }
+  }
+}

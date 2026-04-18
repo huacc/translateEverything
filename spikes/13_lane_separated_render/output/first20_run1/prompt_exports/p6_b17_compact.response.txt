@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p6_b17",
+      "translation": "We believe the most important thing, now and in the future, is"
+    }
+  ]
+}
+```

@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p18_g01",
+      "translation": "In 2020, AIA recorded strong financial performance amid the unprecedented business and macroeconomic conditions brought about by the global pandemic. Although external mobility restrictions led to a decline in VONB in 2020, as business adjusted and restrictions eased, we saw a recovery in sales momentum. This momentum continued into 2021, with VONB in the first two months growing 15% compared to the same period in 2020. Over the years, our prudent financial management and consistent strategic focus on high-quality business have been reflected in continued growth in OPAT and UFSG, a robust and resilient capital position, and dividend per share"
+    }
+  ]
+}
+```

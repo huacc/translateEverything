@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p13_b15",
+      "translation": "policy, enabling the Group to capitalize on future growth opportunities while maintaining financial flexibility."
+    }
+  ]
+}
+```

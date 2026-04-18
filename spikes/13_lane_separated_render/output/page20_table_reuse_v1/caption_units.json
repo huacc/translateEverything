@@ -1,0 +1,147 @@
+[
+  {
+    "group_id": "p20_b1",
+    "page_no": 20,
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b1"
+    ],
+    "block_types": [
+      "heading"
+    ],
+    "source_text_joined": "財務及營運回顧",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "single_non_narrative",
+        "reason": "heading"
+      }
+    ],
+    "lane": "caption_label",
+    "group_bbox": [
+      73.7,
+      24.53,
+      146.7,
+      37.57
+    ],
+    "group_text": "財務及營運回顧",
+    "table_role": null
+  },
+  {
+    "group_id": "p20_b2",
+    "page_no": 20,
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b2"
+    ],
+    "block_types": [
+      "heading"
+    ],
+    "source_text_joined": "集團首席財務總監回顧",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "single_non_narrative",
+        "reason": "heading"
+      }
+    ],
+    "lane": "caption_label",
+    "group_bbox": [
+      73.7,
+      37.85,
+      178.2,
+      50.89
+    ],
+    "group_text": "集團首席財務總監回顧",
+    "table_role": null
+  },
+  {
+    "group_id": "p20_b3",
+    "page_no": 20,
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b3"
+    ],
+    "block_types": [
+      "label"
+    ],
+    "source_text_joined": "新業務表現",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "single_non_narrative",
+        "reason": "label"
+      }
+    ],
+    "lane": "caption_label",
+    "group_bbox": [
+      73.7,
+      91.03,
+      145.1,
+      109.29
+    ],
+    "group_text": "新業務表現",
+    "table_role": null
+  },
+  {
+    "group_id": "p20_b4",
+    "page_no": 20,
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b4"
+    ],
+    "block_types": [
+      "label"
+    ],
+    "source_text_joined": "按分部劃分的新業務價值、年化新保費及利潤率",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "single_non_narrative",
+        "reason": "label"
+      }
+    ],
+    "lane": "caption_label",
+    "group_bbox": [
+      73.7,
+      127.41,
+      288.7,
+      140.45
+    ],
+    "group_text": "按分部劃分的新業務價值、年化新保費及利潤率",
+    "table_role": null
+  },
+  {
+    "group_id": "p20_b34",
+    "page_no": 20,
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b34"
+    ],
+    "block_types": [
+      "footer"
+    ],
+    "source_text_joined": "018\n友邦保險控股有限公司",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "single_non_narrative",
+        "reason": "footer"
+      }
+    ],
+    "lane": "caption_label",
+    "group_bbox": [
+      34.02,
+      811.43,
+      141.63,
+      821.38
+    ],
+    "group_text": "018\n友邦保險控股有限公司",
+    "table_role": null
+  }
+]

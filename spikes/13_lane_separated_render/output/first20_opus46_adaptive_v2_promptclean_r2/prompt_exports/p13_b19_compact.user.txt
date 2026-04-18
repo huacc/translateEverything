@@ -1,0 +1,19 @@
+任务
+- unit_id：p13_b19
+- 输入单元：短标签 / 小标题
+
+原文
+一直是我們表現卓越的重要動力。
+
+当前译文
+has been a key driver of our outstanding performance.
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p13_b19",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

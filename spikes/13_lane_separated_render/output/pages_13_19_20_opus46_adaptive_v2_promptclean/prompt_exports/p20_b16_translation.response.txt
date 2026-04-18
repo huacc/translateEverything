@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p20_b16",
+      "translation": "Adjustments to meet consolidated reserve and capital requirements\n(103)\nNot meaningful\nNot meaningful\n(87)\nNot meaningful\nNot meaningful\nNot meaningful\nNot meaningful"
+    }
+  ]
+}
+```

@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p3_b8",
+      "translation": "Serving over 38 million individual policyholders and over 16 million group insurance members"
+    }
+  ]
+}
+```

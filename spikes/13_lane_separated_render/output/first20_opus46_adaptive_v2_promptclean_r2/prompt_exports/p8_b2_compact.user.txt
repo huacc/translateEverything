@@ -1,0 +1,19 @@
+任务
+- unit_id：p8_b2
+- 输入单元：短标签 / 小标题
+
+原文
+2020年業績一覽(1)
+
+当前译文
+2020 Performance Highlights(1)
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p8_b2",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

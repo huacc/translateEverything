@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p15_g06",
+      "translation": "Over more than a century, AIA has made a positive and lasting impact on the lives of our customers across Asia. Our communities face numerous environmental, social and governance issues, including climate change, environmental pollution and lifestyle-related diseases. As the pandemic continues, it has highlighted the complexity of these challenges. As a lifelong partner to our customers and communities, we are committed to doing our part to drive society towards a better and more sustainable future."
+    }
+  ]
+}
+```

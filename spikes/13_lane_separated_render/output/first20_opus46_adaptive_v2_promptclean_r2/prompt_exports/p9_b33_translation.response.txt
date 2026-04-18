@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p9_b33",
+      "translation": "(2) VONB is the present value, at point of sale, of projected after-tax statutory profits from new business sold during the period less the cost of required capital to support the new business in excess of statutory reserves."
+    }
+  ]
+}
+```

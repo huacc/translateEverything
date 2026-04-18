@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p13_b19",
+      "translation": "has been a key driver of our outstanding performance."
+    }
+  ]
+}
+```

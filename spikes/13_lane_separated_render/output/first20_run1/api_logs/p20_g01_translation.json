@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 20,
+    "group_id": "p20_g01"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是上市保险公司年报翻译器。\n语言方向：Traditional Chinese -> English。\n只处理当前 body semantic group。\n只可在当前组内恢复跨块断句，不得跨组补写、跨组删写或改写事实。\n必须严格满足 mapping_hits 与 fact_locks。\n版面回填、字体压缩、分块分配不是你的职责，不要为了适配版面而删词改义。\n保持正式、稳定、可出版的企业年报文风。\n只输出 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市保险公司企业年报。\n先满足 fact_locks，再保证术语稳定、语义完整和年报文风。\n{\n  \"task\": {\n    \"scenario\": \"listed_company_annual_report\",\n    \"industry\": \"Life Insurance\",\n    \"report_type\": \"annual_report\",\n    \"company_name_target\": \"AIA GROUP LIMITED\",\n    \"direction\": \"Traditional Chinese -> English\"\n  },\n  \"page_context\": {\n    \"page_no\": 20,\n    \"page_sections\": [\n      {\n        \"source_section\": \"新業務表現\",\n        \"target_section\": \"New Business Performance\",\n        \"content_type\": \"business_metrics\",\n        \"page_range\": [\n          20,\n          21\n        ]\n      },\n      {\n        \"source_section\": \"集團首席財務總監回顧\",\n        \"target_section\": \"Group Chief Financial Officer's Review\",\n        \"content_type\": \"cfo_review\",\n        \"page_range\": [\n          18,\n          30\n        ]\n      }\n    ],\n    \"term_usage_mode\": \"table\",\n    \"neighbor_context\": {\n      \"previous_group_source_excerpt\": \"總計\\n2,765\\n52.6%\\n5,219\\n4,154\\n62.9%\\n6,585\\n(33)%\\n(33)%\",\n      \"next_group_source_excerpt\": \"友邦保險中國業務在2021年錄得成功的勢頭，首兩個月的新業務價值與2020年同期比較，錄得非常強勁的增\\n長。2020年新業務價值9.68億美元較2019年減少17%，主要由於2019冠狀病毒病在第一季爆發初期而導致銷售額\\n有限。隨著外...\"\n    }\n  },\n  \"mapping_hits\": [\n    {\n      \"source\": \"友邦保險中國業務\",\n      \"target\": \"AIA China\",\n      \"hit_type\": \"context_term\"\n    },\n    {\n      \"source\": \"新業務價值\",\n      \"target\": \"VONB\",\n      \"hit_type\": \"context_term\"\n    },\n    {\n      \"source\": \"友邦保險\",\n      \"target\": \"AIA\",\n      \"hit_type\": \"glossary_term\"\n    }\n  ],\n  \"fact_locks\": [\n    {\n      \"label\": \"usd_amount_27.65\",\n      \"fact_type\": \"usd_scaled_amount\",\n      \"source_value\": \"27.65億美元\",\n      \"expected_forms\": [\n        \"US$2.765 billion\",\n        \"US$2765 million\",\n        \"US$2,765 million\"\n      ]\n    },\n    {\n      \"label\": \"percentage_33\",\n      \"fact_type\": \"percentage\",\n      \"source_value\": \"33%\",\n      \"expected_forms\": [\n        \"33%\"\n      ]\n    },\n    {\n      \"label\": \"percentage_23\",\n      \"fact_type\": \"percentage\",\n      \"source_value\": \"23%\",\n      \"expected_forms\": [\n        \"23%\"\n      ]\n    },\n    {\n      \"label\": \"percentage_15\",\n      \"fact_type\": \"percentage\",\n      \"source_value\": \"15%\",\n      \"expected_forms\": [\n        \"15%\"\n      ]\n    }\n  ],\n  \"current_group\": {\n    \"group_id\": \"p20_g01\",\n    \"lane\": \"body\",\n    \"group_text\": \"儘管2020年的新業務價值27.65億美元較2019年減少了33%，我們迅速採用了新的數碼工具，並且外出限制的普\\n遍放寬支持了銷售勢頭的恢復。友邦保險中國業務為2020年本集團的新業務價值帶來最大貢獻，也是我們第一個\\n顯示銷售勢頭有所恢復的報告分部，原因在於該地區自2020年3月逐步放寬嚴格的封鎖。撇除維持低位的中國內\\n地訪港旅客銷售額，本集團其他分部的新業務價值在下半年強勁復甦，與上半年相比增長了23%。本集團的新業\\n務發展勢頭在2021年持續強勁，首兩個月新業務價值較2020年同期高出15%。\",\n    \"source_block_ids\": [\n      \"p20_b21\",\n      \"p20_b22\",\n      \"p20_b23\",\n      \"p20_b24\",\n      \"p20_b25\"\n    ],\n    \"source_block_count\": 5\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p20_g01\",\n        \"translation\": \"<译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p20_g01\",\n      \"translation\": \"Although VONB of US$2,765 million in 2020 decreased by 33% compared to 2019, we swiftly adopted new digital tools, and the widespread relaxation of travel restrictions supported the recovery of sales momentum. AIA China contributed the most to the Group's VONB in 2020 and was the first reporting segment to demonstrate recovery in sales momentum, as the region progressively relaxed strict lockdowns from March 2020 onwards. Excluding the subdued sales from mainland Chinese visitors to Hong Kong, VONB in the Group's other segments rebounded strongly in the second half, growing by 23% compared to the first half. The Group's new business development momentum remained robust in 2021, with VONB in the first two months up by 15% compared to the same period in 2020.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "56a648d6-c404-4b86-a5a9-94c646ab44d6",
+    "conversation_id": "56a648d6-c404-4b86-a5a9-94c646ab44d6",
+    "id": "56a648d6-c404-4b86-a5a9-94c646ab44d6",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1483,
+      "output_tokens": 194
+    }
+  }
+}

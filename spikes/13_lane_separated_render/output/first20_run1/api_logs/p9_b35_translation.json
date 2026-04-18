@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 9,
+    "group_id": "p9_b35"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是上市保险公司年报翻译器。\n语言方向：Traditional Chinese -> English。\n只处理当前 body semantic group。\n只可在当前组内恢复跨块断句，不得跨组补写、跨组删写或改写事实。\n必须严格满足 mapping_hits 与 fact_locks。\n版面回填、字体压缩、分块分配不是你的职责，不要为了适配版面而删词改义。\n保持正式、稳定、可出版的企业年报文风。\n只输出 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市保险公司企业年报。\n先满足 fact_locks，再保证术语稳定、语义完整和年报文风。\n{\n  \"task\": {\n    \"scenario\": \"listed_company_annual_report\",\n    \"industry\": \"Life Insurance\",\n    \"report_type\": \"annual_report\",\n    \"company_name_target\": \"AIA GROUP LIMITED\",\n    \"direction\": \"Traditional Chinese -> English\"\n  },\n  \"page_context\": {\n    \"page_no\": 9,\n    \"page_sections\": [\n      {\n        \"source_section\": \"概覽\",\n        \"target_section\": \"Overview\",\n        \"content_type\": \"executive_summary\",\n        \"page_range\": [\n          8,\n          16\n        ]\n      }\n    ],\n    \"term_usage_mode\": \"heading\",\n    \"neighbor_context\": {\n      \"previous_group_source_excerpt\": \"(3) 年化新保費是一項衡量新業務水平的指標，以再保險分出前年化\\n首年保費100%及整付保費10%之總和計算。\",\n      \"next_group_source_excerpt\": \"(5) 總加權保費收入包括再保險分出前的續保保費100%，首年保費\\n100%，以及整付保費10%。\"\n    }\n  },\n  \"mapping_hits\": [\n    {\n      \"source\": \"稅後營運溢利\",\n      \"target\": \"Operating Profit After Tax\",\n      \"hit_type\": \"context_term\"\n    }\n  ],\n  \"fact_locks\": [],\n  \"current_group\": {\n    \"group_id\": \"p9_b35\",\n    \"lane\": \"body\",\n    \"group_text\": \"(4) 所列示的稅後營運溢利已扣除非控股權益。\",\n    \"source_block_ids\": [\n      \"p9_b35\"\n    ],\n    \"source_block_count\": 1\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p9_b35\",\n        \"translation\": \"<译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p9_b35\",\n      \"translation\": \"(4) The Operating Profit After Tax presented has been adjusted to exclude non-controlling interests.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "be64418d-3232-4556-b053-18053effd57a",
+    "conversation_id": "be64418d-3232-4556-b053-18053effd57a",
+    "id": "be64418d-3232-4556-b053-18053effd57a",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 726,
+      "output_tokens": 57
+    }
+  }
+}

@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p13_b13",
+    "lane": "caption_label",
+    "source_text": "證我們雄厚的資本實力和嚴謹的財務管理。",
+    "current_translation": "demonstrating our strong capital position and rigorous financial management."
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p13_b13",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

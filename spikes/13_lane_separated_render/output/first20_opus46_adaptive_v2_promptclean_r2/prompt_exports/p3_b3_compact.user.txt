@@ -1,0 +1,27 @@
+任务
+- unit_id：p3_b3
+- 输入单元：正文语义组（group）
+
+压缩要求
+- 只删除冗余表达，不改变事实和数字。
+- 保持年报文风正式稳定。
+- 不要跨组补写，也不要为了版面改义。
+
+原文
+全球唯一一家總部
+設於香港、於香港上市
+並100%
+專注於亞洲
+
+当前译文
+The only company in the world headquartered in Hong Kong, listed in Hong Kong and 100% focused on Asia
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p3_b3",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

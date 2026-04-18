@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p5_b4",
+    "lane": "caption_label",
+    "source_text": "提供醫療物資，並為前線醫護和清潔人員提供免費保險",
+    "current_translation": "Provided medical supplies and complimentary insurance coverage for frontline healthcare workers and cleaning staff"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p5_b4",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

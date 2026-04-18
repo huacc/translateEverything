@@ -1,0 +1,19 @@
+任务
+- unit_id：p2_b67
+- 输入单元：短标签 / 小标题
+
+原文
+299 詞彙
+
+当前译文
+299 Glossary
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p2_b67",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

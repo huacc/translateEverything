@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 12,
+    "group_id": "p12_b5"
+  },
+  "request": {
+    "model": "claude-opus-4-6",
+    "max_tokens": 4096,
+    "system": "你是上市公司年报标签翻译助手。\n语言方向：Traditional Chinese -> English。\n只负责翻译当前短标签或小标题，不负责排版、回填、压缩。\n保持短、稳、正式，不要扩写成解释句。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "任务\n- 语言方向：Traditional Chinese -> English\n- 文档场景：上市公司企业年报\n- 公司：AIA GROUP LIMITED\n- 当前页面：12\n- 当前输入单元：短标签 / 小标题\n\n翻译要求\n- 保持短、稳、正式，不要自由改写。\n- 不要把短标签扩写成解释性句子。\n- 不负责排版和回填。\n\n页面上下文\n- 当前章节：Group Chief Executive and President's Report，类型：ceo_report（页码 12-16）\n- 术语使用模式：heading\n- 上一组摘要：卓越的團隊努力不懈的成果。我們的員工能迅速\n- 下一组摘要：憑藉矢志不渝的承諾，我們協助客戶駕馭不明朗的\n\n当前标签\n- unit_id：p12_b5\n- 原文：\n和靈活應對瞬息萬變的經營環境，令我深感自豪。\n\n输出格式\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p12_b5\",\n      \"translation\": \"<译文>\"\n    }\n  ]\n}"
+      }
+    ],
+    "thinking": {
+      "type": "adaptive"
+    },
+    "output_config": {
+      "effort": "max"
+    }
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p12_b5\",\n      \"translation\": \"and respond flexibly to the rapidly changing business environment, which makes me deeply proud.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "e653f23c-4bb9-4389-b14e-4fce796ed82f",
+    "conversation_id": "e653f23c-4bb9-4389-b14e-4fce796ed82f",
+    "id": "e653f23c-4bb9-4389-b14e-4fce796ed82f",
+    "model": "claude-opus-4-6",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 446,
+      "output_tokens": 54
+    }
+  }
+}

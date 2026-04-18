@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p17_b5",
+    "lane": "caption_label",
+    "source_text": "062 監管及國際發展",
+    "current_translation": "062 Regulatory and International Development"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p17_b5",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

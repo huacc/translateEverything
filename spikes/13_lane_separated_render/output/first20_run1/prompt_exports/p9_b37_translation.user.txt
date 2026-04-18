@@ -1,0 +1,53 @@
+文档场景：上市保险公司企业年报。
+当前输入属于表格通道。不要把表格行改写成正文句子。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 9,
+    "page_sections": [
+      {
+        "source_section": "概覽",
+        "target_section": "Overview",
+        "content_type": "executive_summary",
+        "page_range": [
+          8,
+          16
+        ]
+      }
+    ],
+    "term_usage_mode": "table",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "(5) 總加權保費收入包括再保險分出前的續保保費100%，首年保費\n100%，以及整付保費10%。",
+      "next_group_source_excerpt": "(6) 內涵價值是根據對未來經驗的一系列特定假設，以精算方法釐定\n壽險業務的估計經濟價值，但不包括任何未來新業務的經濟價\n值。內涵價值權益為內涵價值、商譽及其他無形資產的總和。"
+    }
+  },
+  "mapping_hits": [
+    {
+      "source": "友邦保險",
+      "target": "AIA",
+      "hit_type": "glossary_term"
+    }
+  ],
+  "fact_locks": [],
+  "current_unit": {
+    "unit_id": "p9_b37",
+    "lane": "table",
+    "table_role": "row",
+    "source_text": "(9) 友邦保險就確認及計量香港分紅業務的保險合約負債的國際財務\n報告準則之會計處理有所變更，以反映保單持有人花紅的預期\n變動。2019年之比較資料已作出調整。2018年或以前之比較資料\n並無重列。",
+    "source_line_count": 4
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p9_b37",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p10_b3",
+    "lane": "caption_label",
+    "source_text": "主席報告",
+    "current_translation": "Chairman's Statement"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p10_b3",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p2_b25",
+    "lane": "caption_label",
+    "source_text": "078 執行委員會",
+    "current_translation": "078 Executive Committee"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p2_b25",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

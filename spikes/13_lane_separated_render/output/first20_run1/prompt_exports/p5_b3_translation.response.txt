@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p5_b3",
+      "translation": "risks. We responded swiftly and comprehensively, including providing support to our community"
+    }
+  ]
+}
+```

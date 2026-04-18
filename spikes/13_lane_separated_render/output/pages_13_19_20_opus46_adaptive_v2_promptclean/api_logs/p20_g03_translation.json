@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 20,
+    "group_id": "p20_g03"
+  },
+  "request": {
+    "model": "claude-opus-4-6",
+    "max_tokens": 4096,
+    "system": "你是上市公司年报正文翻译助手。\n语言方向：Traditional Chinese -> English。\n只负责翻译当前正文语义组，不负责排版、回填、压缩、分块。\n允许在当前 group 内恢复断句和语义连接，但禁止跨 group 补写、删写或改写事实。\n必须遵守术语锁定和事实锁定。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "任务\n- 语言方向：Traditional Chinese -> English\n- 文档场景：上市公司企业年报\n- 公司：AIA GROUP LIMITED\n- 行业：Life Insurance\n- 报告类型：annual_report\n- 当前页面：20\n- 当前输入单元：正文语义组（group）\n\n翻译要求\n- 只翻译当前正文组，不要承担排版、压缩、分块、回填职责。\n- 可以在当前 group 内恢复断句和段落语义，但不得跨 group 补写或删写。\n- 保持上市公司年报文风：正式、稳定、可出版。\n- 数字、百分比、货币、年份、专有名词必须准确。\n- 如术语锁定与原有表达冲突，优先遵守术语锁定和事实锁定。\n\n页面上下文\n- 当前章节：New Business Performance，类型：business_metrics（页码 20-21）\n- 当前章节：Group Chief Financial Officer's Review，类型：cfo_review（页码 18-30）\n- 术语使用模式：table\n- 上一组摘要：友邦保險中國業務在2021年錄得成功的勢頭，首兩個月的新業務價值與2020年同期比較，錄得非常強勁的增\n長。2020年新業務價值9.68億美元較2019年減少17%，主要由於2019冠狀病毒病在第一季爆發初期而導致銷售額\n有限。隨著外...\n- 下一组摘要：018\n友邦保險控股有限公司\n\n文体与偏好\n- Use US$ for U.S. dollar amounts.\n- Keep listed-company annual report disclosure tone formal and publishable.\n- Do not change numbers, percentages, years, named entities or financial metric values.\n- Use established financial abbreviations for table labels when provided.\n- Keep row and column semantics unchanged.\n\n术语锁定\n- 友邦保險香港業務 => AIA Hong Kong [context_term]\n- 友邦保險澳門分公司 => AIA Macau [context_term]\n- 中國內地訪港客戶 => Mainland Chinese visitors [context_term]\n- 個人遊計劃 => Individual Visit Scheme [context_term]\n- 新業務價值利潤率 => VONB margin [context_term]\n- 新業務價值 => VONB [context_term]\n- 年化新保費 => ANP [context_term]\n- 利潤率 => Profit Margin [context_term]\n\n当前正文组\n- group_id：p20_g03\n- group_bbox：[73.7, 608.07, 527.25, 668.03]\n- 原文：\n在實施旅遊限制後，友邦保險香港業務來自中國內地訪港客戶的新業務銷售自2020年2月初起實際上已暫停，導\n致其新業務價值大幅下降。新業務價值利潤率錄得跌幅，反映新業務量減少導致承保開支超支、產品組合變動及\n利率下降的影響所致。澳門在2020年9月底恢復中國內地旅客個人遊計劃。這為澳門的中國內地訪澳客戶銷售回\n升提供支持，使其在第四季佔友邦保險澳門分公司的年化新保費總額超過三分之一。\n\n输出格式\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p20_g03\",\n      \"translation\": \"<译文>\"\n    }\n  ]\n}"
+      }
+    ],
+    "thinking": {
+      "type": "adaptive"
+    },
+    "output_config": {
+      "effort": "max"
+    }
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p20_g03\",\n      \"translation\": \"Following the implementation of travel restrictions, new business sales from Mainland Chinese visitors to AIA Hong Kong have been effectively suspended since early February 2020, resulting in a significant decline in VONB. The VONB margin recorded a decrease, reflecting the impact of underwriting expense overruns due to reduced new business volumes, changes in product mix and lower interest rates. Macau resumed the Individual Visit Scheme for Mainland Chinese travelers at the end of September 2020. This supported a recovery in sales to Mainland Chinese visitors to Macau, which accounted for over one-third of total ANP at AIA Macau in the fourth quarter.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "d70679e0-2d1e-4124-baf0-12a67adab9eb",
+    "conversation_id": "d70679e0-2d1e-4124-baf0-12a67adab9eb",
+    "id": "d70679e0-2d1e-4124-baf0-12a67adab9eb",
+    "model": "claude-opus-4-6",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1242,
+      "output_tokens": 165
+    }
+  }
+}

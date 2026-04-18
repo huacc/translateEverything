@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "compact",
+    "page_no": 5,
+    "group_id": "p5_g01"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是年报英文压缩器，不是重译器。\n语言方向：Traditional Chinese -> English。\n你的任务只是对已有译文做最小必要压缩，以便回填原版面。\n禁止改变数字、单位、术语、专名、比较关系、主体和结论。\n标题不能改成正文，表头不能改成句子，不能输出口语化表达。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市公司企业年报\n{\n  \"document_background\": {\n    \"page_sections\": [],\n    \"roles\": [],\n    \"terms\": [],\n    \"style_rules\": [\n      \"Use US$ for U.S. dollar amounts.\",\n      \"Keep listed-company annual report disclosure tone formal and publishable.\",\n      \"Do not change numbers, percentages, years, named entities or financial metric values.\",\n      \"Use established financial abbreviations for table labels when provided.\",\n      \"Keep row and column semantics unchanged.\",\n      \"Use n/m for 無意義.\"\n    ]\n  },\n  \"current_unit\": {\n    \"page_no\": 5,\n    \"unit_id\": \"p5_g01\",\n    \"unit_mode\": \"semantic_group\",\n    \"slot_count\": 3,\n    \"source_text\": \"憂慮。我們為超過2,500萬份保單提供免費的2019冠狀病毒\\n病相關保障覆蓋，並於12個市場提供10億美元的保費支\\n援。年內，我們已支付逾160億美元的保險給付和理賠，\",\n    \"current_translation\": \"concerns. We provided free COVID-19 related coverage to over 25 million policies and offered US$1 billion in premium support across 12 markets. During the year, we paid out over US$16 billion in insurance benefits and claims,\"\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p5_g01\",\n        \"translation\": \"<更紧凑译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p5_g01\",\n      \"translation\": \"concerns. We provided free COVID-19 coverage to over 25 million policies and US$1 billion in premium support across 12 markets. During the year, we paid over US$16 billion in insurance benefits and claims,\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "b484e235-5d9a-451f-b342-482edd6abad8",
+    "conversation_id": "b484e235-5d9a-451f-b342-482edd6abad8",
+    "id": "b484e235-5d9a-451f-b342-482edd6abad8",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 541,
+      "output_tokens": 82
+    }
+  }
+}

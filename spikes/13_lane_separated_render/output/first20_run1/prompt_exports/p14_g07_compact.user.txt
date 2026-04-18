@@ -1,0 +1,48 @@
+文档场景：上市公司企业年报
+{
+  "document_background": {
+    "page_sections": [
+      {
+        "source_section": "集團首席執行官兼總裁報告",
+        "target_section": "Group Chief Executive and President's Report",
+        "content_type": "ceo_report",
+        "page_range": [
+          12,
+          16
+        ]
+      }
+    ],
+    "roles": [
+      {
+        "source": "李源祥",
+        "target": "Lee Yuen Cheung",
+        "role": "Group Chief Executive and President"
+      }
+    ],
+    "terms": [],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "Use established financial abbreviations for table labels when provided.",
+      "Keep row and column semantics unchanged.",
+      "Use n/m for 無意義."
+    ]
+  },
+  "current_unit": {
+    "page_no": 14,
+    "unit_id": "p14_g07",
+    "unit_mode": "semantic_group",
+    "slot_count": 2,
+    "source_text": "其他市場方面，下半年的新業務價值較上半年上升10%，其中南韓和印尼的回升幅度正面。整體來說，新業務價\n值全年下降4%，主要由於新西蘭、菲律賓及印尼錄得跌幅。其餘的市場均錄得新業務價值正增長，其中越南、",
+    "current_translation": "In other markets, VONB in the second half increased by 10% compared to the first half, with positive recoveries in South Korea and Indonesia. Overall, VONB for the full year declined by 4%, primarily due to declines recorded in New Zealand, the Philippines and Indonesia. The remaining markets all recorded positive VONB growth, with Vietnam,"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p14_g07",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

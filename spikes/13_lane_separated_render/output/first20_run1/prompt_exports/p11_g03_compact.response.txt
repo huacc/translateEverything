@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p11_g03",
+      "translation": "One of the Board's key responsibilities is ensuring a strong pipeline of leadership talent and executing effective succession planning. We are pleased to welcome Mr. Lee Yuen Cheung as Group Chief Executive Officer and President, succeeding Mr. Wong King Fai upon his retirement on 1 June 2020. On behalf of the Board, I express our deep appreciation to Mr. Lee Yuen Cheung and his management team for their outstanding leadership during this unprecedented environment as they drive our business forward. We also extend our heartfelt thanks to Mr. Wong King Fai"
+    }
+  ]
+}
+```

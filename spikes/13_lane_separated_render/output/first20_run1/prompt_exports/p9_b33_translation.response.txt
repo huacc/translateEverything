@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p9_b33",
+      "translation": "(2) VONB is the present value of the estimated post-tax statutory profits expected to be generated in the future from new business sold during the period, calculated at the time of sale, less the cost of funds required to be held in excess of statutory reserves to support the new business."
+    }
+  ]
+}
+```

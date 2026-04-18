@@ -1,0 +1,772 @@
+[
+  {
+    "group_id": "p20_b1",
+    "page_no": 20,
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b1"
+    ],
+    "block_types": [
+      "heading"
+    ],
+    "source_text_joined": "財務及營運回顧",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "single_non_narrative",
+        "reason": "heading"
+      }
+    ],
+    "lane": "caption_label",
+    "group_bbox": [
+      73.7,
+      24.53,
+      146.7,
+      37.57
+    ],
+    "group_text": "財務及營運回顧",
+    "table_role": null
+  },
+  {
+    "group_id": "p20_b2",
+    "page_no": 20,
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b2"
+    ],
+    "block_types": [
+      "heading"
+    ],
+    "source_text_joined": "集團首席財務總監回顧",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "single_non_narrative",
+        "reason": "heading"
+      }
+    ],
+    "lane": "caption_label",
+    "group_bbox": [
+      73.7,
+      37.85,
+      178.2,
+      50.89
+    ],
+    "group_text": "集團首席財務總監回顧",
+    "table_role": null
+  },
+  {
+    "group_id": "p20_b3",
+    "page_no": 20,
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b3"
+    ],
+    "block_types": [
+      "label"
+    ],
+    "source_text_joined": "新業務表現",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "single_non_narrative",
+        "reason": "label"
+      }
+    ],
+    "lane": "caption_label",
+    "group_bbox": [
+      73.7,
+      91.03,
+      145.1,
+      109.29
+    ],
+    "group_text": "新業務表現",
+    "table_role": null
+  },
+  {
+    "group_id": "p20_b4",
+    "page_no": 20,
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b4"
+    ],
+    "block_types": [
+      "label"
+    ],
+    "source_text_joined": "按分部劃分的新業務價值、年化新保費及利潤率",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "single_non_narrative",
+        "reason": "label"
+      }
+    ],
+    "lane": "caption_label",
+    "group_bbox": [
+      73.7,
+      127.41,
+      288.7,
+      140.45
+    ],
+    "group_text": "按分部劃分的新業務價值、年化新保費及利潤率",
+    "table_role": null
+  },
+  {
+    "group_id": "p20_b5",
+    "page_no": 20,
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b5"
+    ],
+    "block_types": [
+      "body"
+    ],
+    "source_text_joined": "2020年\n2019年\n新業務價值變動",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "table_unit",
+        "table_role": "header",
+        "reason": "table_layout_signals"
+      }
+    ],
+    "lane": "table",
+    "group_bbox": [
+      227.46,
+      151.81,
+      503.2,
+      163.03
+    ],
+    "group_text": "2020年\n2019年\n新業務價值變動",
+    "table_role": "header"
+  },
+  {
+    "group_id": "p20_b6",
+    "page_no": 20,
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b6"
+    ],
+    "block_types": [
+      "body"
+    ],
+    "source_text_joined": "新業務\n價值\n利潤率\n年化\n新保費\n新業務\n價值",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "table_unit",
+        "table_role": "header",
+        "reason": "table_layout_signals"
+      }
+    ],
+    "lane": "table",
+    "group_bbox": [
+      229.2,
+      167.28,
+      334.87,
+      199.78
+    ],
+    "group_text": "新業務\n價值\n利潤率\n年化\n新保費\n新業務\n價值",
+    "table_role": "header"
+  },
+  {
+    "group_id": "p20_b7",
+    "page_no": 20,
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b7"
+    ],
+    "block_types": [
+      "body"
+    ],
+    "source_text_joined": "新業務\n價值\n利潤率\n年化\n新保費\n按年變動\n（固定匯率）\n按年變動\n（實質匯率）",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "table_unit",
+        "table_role": "header",
+        "reason": "table_layout_signals"
+      }
+    ],
+    "lane": "table",
+    "group_bbox": [
+      348.26,
+      167.48,
+      525.84,
+      199.77
+    ],
+    "group_text": "新業務\n價值\n利潤率\n年化\n新保費\n按年變動\n（固定匯率）\n按年變動\n（實質匯率）",
+    "table_role": "header"
+  },
+  {
+    "group_id": "p20_b8",
+    "page_no": 20,
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b8"
+    ],
+    "block_types": [
+      "body"
+    ],
+    "source_text_joined": "百萬美元，除另有說明外\n新業務\n價值",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "table_unit",
+        "table_role": "note",
+        "reason": "table_layout_signals"
+      }
+    ],
+    "lane": "table",
+    "group_bbox": [
+      79.37,
+      177.79,
+      215.81,
+      199.37
+    ],
+    "group_text": "百萬美元，除另有說明外\n新業務\n價值",
+    "table_role": "note"
+  },
+  {
+    "group_id": "p20_b9",
+    "page_no": 20,
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b9"
+    ],
+    "block_types": [
+      "body"
+    ],
+    "source_text_joined": "香港\n550\n44.7%\n1,138\n1,621\n66.1%\n2,393\n(66)%\n(66)%",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "table_unit",
+        "table_role": "row",
+        "reason": "table_layout_signals"
+      }
+    ],
+    "lane": "table",
+    "group_bbox": [
+      79.38,
+      203.95,
+      521.6,
+      215.24
+    ],
+    "group_text": "香港\n550\n44.7%\n1,138\n1,621\n66.1%\n2,393\n(66)%\n(66)%",
+    "table_role": "row"
+  },
+  {
+    "group_id": "p20_b10",
+    "page_no": 20,
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b10"
+    ],
+    "block_types": [
+      "body"
+    ],
+    "source_text_joined": "泰國\n469\n71.0%\n661\n494\n67.7%\n729\n(4)%\n(5)%",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "table_unit",
+        "table_role": "row",
+        "reason": "table_layout_signals"
+      }
+    ],
+    "lane": "table",
+    "group_bbox": [
+      79.4,
+      219.42,
+      521.62,
+      230.71
+    ],
+    "group_text": "泰國\n469\n71.0%\n661\n494\n67.7%\n729\n(4)%\n(5)%",
+    "table_role": "row"
+  },
+  {
+    "group_id": "p20_b11",
+    "page_no": 20,
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b11"
+    ],
+    "block_types": [
+      "body"
+    ],
+    "source_text_joined": "新加坡\n330\n63.4%\n520\n352\n65.5%\n538\n(5)%\n(6)%",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "table_unit",
+        "table_role": "row",
+        "reason": "table_layout_signals"
+      }
+    ],
+    "lane": "table",
+    "group_bbox": [
+      79.42,
+      234.89,
+      521.64,
+      246.18
+    ],
+    "group_text": "新加坡\n330\n63.4%\n520\n352\n65.5%\n538\n(5)%\n(6)%",
+    "table_role": "row"
+  },
+  {
+    "group_id": "p20_b12",
+    "page_no": 20,
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b12"
+    ],
+    "block_types": [
+      "body"
+    ],
+    "source_text_joined": "馬來西亞\n222\n59.9%\n369\n258\n63.1%\n406\n(13)%\n(14)%",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "table_unit",
+        "table_role": "row",
+        "reason": "table_layout_signals"
+      }
+    ],
+    "lane": "table",
+    "group_bbox": [
+      79.43,
+      250.36,
+      521.66,
+      261.65
+    ],
+    "group_text": "馬來西亞\n222\n59.9%\n369\n258\n63.1%\n406\n(13)%\n(14)%",
+    "table_role": "row"
+  },
+  {
+    "group_id": "p20_b13",
+    "page_no": 20,
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b13"
+    ],
+    "block_types": [
+      "body"
+    ],
+    "source_text_joined": "中國內地\n968\n80.9%\n1,197\n1,167\n93.5%\n1,248\n(17)%\n(17)%",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "table_unit",
+        "table_role": "row",
+        "reason": "table_layout_signals"
+      }
+    ],
+    "lane": "table",
+    "group_bbox": [
+      79.45,
+      265.83,
+      521.67,
+      277.12
+    ],
+    "group_text": "中國內地\n968\n80.9%\n1,197\n1,167\n93.5%\n1,248\n(17)%\n(17)%",
+    "table_role": "row"
+  },
+  {
+    "group_id": "p20_b14",
+    "page_no": 20,
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b14"
+    ],
+    "block_types": [
+      "body"
+    ],
+    "source_text_joined": "其他市場\n514\n38.4%\n1,334\n535\n41.9%\n1,271\n(4)%\n(4)%",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "table_unit",
+        "table_role": "row",
+        "reason": "table_layout_signals"
+      }
+    ],
+    "lane": "table",
+    "group_bbox": [
+      79.47,
+      281.3,
+      521.69,
+      292.59
+    ],
+    "group_text": "其他市場\n514\n38.4%\n1,334\n535\n41.9%\n1,271\n(4)%\n(4)%",
+    "table_role": "row"
+  },
+  {
+    "group_id": "p20_b15",
+    "page_no": 20,
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b15"
+    ],
+    "block_types": [
+      "body"
+    ],
+    "source_text_joined": "小計\n3,053\n57.7%\n5,219\n4,427\n66.6%\n6,585\n(31)%\n(31)%",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "table_unit",
+        "table_role": "row",
+        "reason": "table_layout_signals"
+      }
+    ],
+    "lane": "table",
+    "group_bbox": [
+      79.49,
+      296.56,
+      521.71,
+      307.86
+    ],
+    "group_text": "小計\n3,053\n57.7%\n5,219\n4,427\n66.6%\n6,585\n(31)%\n(31)%",
+    "table_role": "row"
+  },
+  {
+    "group_id": "p20_b16",
+    "page_no": 20,
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b16"
+    ],
+    "block_types": [
+      "body"
+    ],
+    "source_text_joined": "為符合合併準備金及\n資本要求所作調整\n(103)\n無意義\n無意義\n(87)\n無意義\n無意義\n無意義\n無意義",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "table_unit",
+        "table_role": "row",
+        "reason": "table_layout_signals"
+      }
+    ],
+    "lane": "table",
+    "group_bbox": [
+      79.5,
+      312.24,
+      521.71,
+      334.02
+    ],
+    "group_text": "為符合合併準備金及\n資本要求所作調整\n(103)\n無意義\n無意義\n(87)\n無意義\n無意義\n無意義\n無意義",
+    "table_role": "row"
+  },
+  {
+    "group_id": "p20_b17",
+    "page_no": 20,
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b17"
+    ],
+    "block_types": [
+      "body"
+    ],
+    "source_text_joined": "未分配集團總部開支的\n稅後價值\n(161)\n無意義\n無意義\n(154)\n無意義\n無意義\n無意義\n無意義",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "table_unit",
+        "table_role": "row",
+        "reason": "table_layout_signals"
+      }
+    ],
+    "lane": "table",
+    "group_bbox": [
+      79.51,
+      338.21,
+      521.72,
+      359.99
+    ],
+    "group_text": "未分配集團總部開支的\n稅後價值\n(161)\n無意義\n無意義\n(154)\n無意義\n無意義\n無意義\n無意義",
+    "table_role": "row"
+  },
+  {
+    "group_id": "p20_b18",
+    "page_no": 20,
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b18"
+    ],
+    "block_types": [
+      "body"
+    ],
+    "source_text_joined": "扣除非控股權益前的總計\n2,789\n52.6%\n5,219\n4,186\n62.9%\n6,585\n(33)%\n(33)%",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "table_unit",
+        "table_role": "row",
+        "reason": "table_layout_signals"
+      }
+    ],
+    "lane": "table",
+    "group_bbox": [
+      79.52,
+      363.96,
+      521.74,
+      375.27
+    ],
+    "group_text": "扣除非控股權益前的總計\n2,789\n52.6%\n5,219\n4,186\n62.9%\n6,585\n(33)%\n(33)%",
+    "table_role": "row"
+  },
+  {
+    "group_id": "p20_b19",
+    "page_no": 20,
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b19"
+    ],
+    "block_types": [
+      "body"
+    ],
+    "source_text_joined": "非控股權益\n(24)\n無意義\n無意義\n(32)\n無意義\n無意義\n無意義\n無意義",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "table_unit",
+        "table_role": "row",
+        "reason": "table_layout_signals"
+      }
+    ],
+    "lane": "table",
+    "group_bbox": [
+      79.54,
+      379.43,
+      521.76,
+      390.93
+    ],
+    "group_text": "非控股權益\n(24)\n無意義\n無意義\n(32)\n無意義\n無意義\n無意義\n無意義",
+    "table_role": "row"
+  },
+  {
+    "group_id": "p20_b20",
+    "page_no": 20,
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b20"
+    ],
+    "block_types": [
+      "body"
+    ],
+    "source_text_joined": "總計\n2,765\n52.6%\n5,219\n4,154\n62.9%\n6,585\n(33)%\n(33)%",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "table_unit",
+        "table_role": "row",
+        "reason": "table_layout_signals"
+      }
+    ],
+    "lane": "table",
+    "group_bbox": [
+      79.55,
+      394.9,
+      521.77,
+      406.21
+    ],
+    "group_text": "總計\n2,765\n52.6%\n5,219\n4,154\n62.9%\n6,585\n(33)%\n(33)%",
+    "table_role": "row"
+  },
+  {
+    "group_id": "p20_g01",
+    "page_no": 20,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p20_b21",
+      "p20_b22",
+      "p20_b23",
+      "p20_b24",
+      "p20_b25"
+    ],
+    "block_types": [
+      "body",
+      "body",
+      "body",
+      "body",
+      "body"
+    ],
+    "source_text_joined": "儘管2020年的新業務價值27.65億美元較2019年減少了33%，我們迅速採用了新的數碼工具，並且外出限制的普\n遍放寬支持了銷售勢頭的恢復。友邦保險中國業務為2020年本集團的新業務價值帶來最大貢獻，也是我們第一個\n顯示銷售勢頭有所恢復的報告分部，原因在於該地區自2020年3月逐步放寬嚴格的封鎖。撇除維持低位的中國內\n地訪港旅客銷售額，本集團其他分部的新業務價值在下半年強勁復甦，與上半年相比增長了23%。本集團的新業\n務發展勢頭在2021年持續強勁，首兩個月新業務價值較2020年同期高出15%。",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p20_b21",
+        "to": "p20_b22"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p20_b22",
+        "to": "p20_b23"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p20_b23",
+        "to": "p20_b24"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p20_b24",
+        "to": "p20_b25"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      73.7,
+      432.05,
+      527.25,
+      508.01
+    ],
+    "group_text": "儘管2020年的新業務價值27.65億美元較2019年減少了33%，我們迅速採用了新的數碼工具，並且外出限制的普\n遍放寬支持了銷售勢頭的恢復。友邦保險中國業務為2020年本集團的新業務價值帶來最大貢獻，也是我們第一個\n顯示銷售勢頭有所恢復的報告分部，原因在於該地區自2020年3月逐步放寬嚴格的封鎖。撇除維持低位的中國內\n地訪港旅客銷售額，本集團其他分部的新業務價值在下半年強勁復甦，與上半年相比增長了23%。本集團的新業\n務發展勢頭在2021年持續強勁，首兩個月新業務價值較2020年同期高出15%。",
+    "table_role": null
+  },
+  {
+    "group_id": "p20_g02",
+    "page_no": 20,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p20_b26",
+      "p20_b27",
+      "p20_b28",
+      "p20_b29"
+    ],
+    "block_types": [
+      "body",
+      "body",
+      "body",
+      "body"
+    ],
+    "source_text_joined": "友邦保險中國業務在2021年錄得成功的勢頭，首兩個月的新業務價值與2020年同期比較，錄得非常強勁的增\n長。2020年新業務價值9.68億美元較2019年減少17%，主要由於2019冠狀病毒病在第一季爆發初期而導致銷售額\n有限。隨著外出限制放寬，新業務動力得以迅速改善。新業務價值重拾我們慣常的季節性規律，比重更側重於上\n半年。在2020年，友邦保險中國業務為集團的新業務價值帶來最大貢獻。",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p20_b26",
+        "to": "p20_b27"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p20_b27",
+        "to": "p20_b28"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p20_b28",
+        "to": "p20_b29"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      73.7,
+      528.06,
+      527.24,
+      588.02
+    ],
+    "group_text": "友邦保險中國業務在2021年錄得成功的勢頭，首兩個月的新業務價值與2020年同期比較，錄得非常強勁的增\n長。2020年新業務價值9.68億美元較2019年減少17%，主要由於2019冠狀病毒病在第一季爆發初期而導致銷售額\n有限。隨著外出限制放寬，新業務動力得以迅速改善。新業務價值重拾我們慣常的季節性規律，比重更側重於上\n半年。在2020年，友邦保險中國業務為集團的新業務價值帶來最大貢獻。",
+    "table_role": null
+  },
+  {
+    "group_id": "p20_g03",
+    "page_no": 20,
+    "mode": "semantic_group",
+    "block_ids": [
+      "p20_b30",
+      "p20_b31",
+      "p20_b32",
+      "p20_b33"
+    ],
+    "block_types": [
+      "body",
+      "body",
+      "body",
+      "body"
+    ],
+    "source_text_joined": "在實施旅遊限制後，友邦保險香港業務來自中國內地訪港客戶的新業務銷售自2020年2月初起實際上已暫停，導\n致其新業務價值大幅下降。新業務價值利潤率錄得跌幅，反映新業務量減少導致承保開支超支、產品組合變動及\n利率下降的影響所致。澳門在2020年9月底恢復中國內地旅客個人遊計劃。這為澳門的中國內地訪澳客戶銷售回\n升提供支持，使其在第四季佔友邦保險澳門分公司的年化新保費總額超過三分之一。",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "adjacent_narrative",
+        "from": "p20_b30",
+        "to": "p20_b31"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p20_b31",
+        "to": "p20_b32"
+      },
+      {
+        "kind": "adjacent_narrative",
+        "from": "p20_b32",
+        "to": "p20_b33"
+      }
+    ],
+    "lane": "body",
+    "group_bbox": [
+      73.7,
+      608.07,
+      527.25,
+      668.03
+    ],
+    "group_text": "在實施旅遊限制後，友邦保險香港業務來自中國內地訪港客戶的新業務銷售自2020年2月初起實際上已暫停，導\n致其新業務價值大幅下降。新業務價值利潤率錄得跌幅，反映新業務量減少導致承保開支超支、產品組合變動及\n利率下降的影響所致。澳門在2020年9月底恢復中國內地旅客個人遊計劃。這為澳門的中國內地訪澳客戶銷售回\n升提供支持，使其在第四季佔友邦保險澳門分公司的年化新保費總額超過三分之一。",
+    "table_role": null
+  },
+  {
+    "group_id": "p20_b34",
+    "page_no": 20,
+    "mode": "single_block",
+    "block_ids": [
+      "p20_b34"
+    ],
+    "block_types": [
+      "footer"
+    ],
+    "source_text_joined": "018\n友邦保險控股有限公司",
+    "translation_target": true,
+    "is_sidebar_group": false,
+    "group_reason": [
+      {
+        "kind": "single_non_narrative",
+        "reason": "footer"
+      }
+    ],
+    "lane": "caption_label",
+    "group_bbox": [
+      34.02,
+      811.43,
+      141.63,
+      821.38
+    ],
+    "group_text": "018\n友邦保險控股有限公司",
+    "table_role": null
+  }
+]

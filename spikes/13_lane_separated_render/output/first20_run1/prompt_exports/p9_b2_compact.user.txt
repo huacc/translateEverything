@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p9_b2",
+    "lane": "caption_label",
+    "source_text": "新業務價值(2)(7)",
+    "current_translation": "New Business Value(2)(7)"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p9_b2",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

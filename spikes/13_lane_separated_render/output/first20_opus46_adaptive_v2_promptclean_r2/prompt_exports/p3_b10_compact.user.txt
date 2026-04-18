@@ -1,0 +1,28 @@
+任务
+- unit_id：p3_b10
+- 输入单元：表格单元 / 表格行
+- table_role：row
+
+压缩要求
+- 只做最小必要压缩。
+- 保持逐行表格语义。
+- 不改变数字、百分比、货币、括号、缩写和顺序。
+
+原文
+為亞洲大眾提供保障，
+總保額接近
+2萬億美元
+18個市場
+
+当前译文
+Providing protection to the Asian population, with total sum assured approaching US$2 trillion across 18 markets
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p3_b10",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

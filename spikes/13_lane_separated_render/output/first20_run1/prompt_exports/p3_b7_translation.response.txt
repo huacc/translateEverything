@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p3_b7",
+      "translation": "Geographic Reach"
+    }
+  ]
+}
+```

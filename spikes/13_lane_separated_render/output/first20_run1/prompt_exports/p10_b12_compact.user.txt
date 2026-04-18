@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p10_b12",
+    "lane": "caption_label",
+    "source_text": "提供無間斷的支援。",
+    "current_translation": "Providing uninterrupted support."
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p10_b12",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

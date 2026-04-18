@@ -1,0 +1,58 @@
+文档场景：上市保险公司企业年报。
+先满足 fact_locks，再保证术语稳定、语义完整和年报文风。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 16,
+    "page_sections": [
+      {
+        "source_section": "集團首席執行官兼總裁報告",
+        "target_section": "Group Chief Executive and President's Report",
+        "content_type": "ceo_report",
+        "page_range": [
+          12,
+          16
+        ]
+      }
+    ],
+    "term_usage_mode": "table",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "前景",
+      "next_group_source_excerpt": "段。"
+    }
+  },
+  "mapping_hits": [
+    {
+      "source": "2019冠狀病毒病",
+      "target": "COVID-19",
+      "hit_type": "context_term"
+    }
+  ],
+  "fact_locks": [],
+  "current_group": {
+    "group_id": "p16_g02",
+    "lane": "body",
+    "group_text": "在2020年，2019冠狀病毒病大流行無疑是我們生活記憶中最大規模的公共衞生緊急狀態。受影響的企業和家庭\n獲得前所未見的公共財政和金融支援，有助緩解由疫情大流行造成的部分極端金融衝擊，並加快復甦步伐，這在\n具備完善衞生政策及基建的國家尤其可見。然而，各國之間存在顯著差異，在這困境下，亞洲（日本除外）地區\n錄得全球相對最強勁的國內生產總值表現。現時，環球經濟正剛剛開始擺脫一場深度衰退，並步入好轉的初步階",
+    "source_block_ids": [
+      "p16_b7",
+      "p16_b8",
+      "p16_b9",
+      "p16_b10"
+    ],
+    "source_block_count": 4
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p16_g02",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

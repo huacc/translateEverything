@@ -1,0 +1,19 @@
+任务
+- unit_id：p18_b3
+- 输入单元：短标签 / 小标题
+
+原文
+儘管2020年的營商及宏觀經濟環境前所未見，友邦保險仍實現
+
+当前译文
+Despite the unprecedented operating and macroeconomic environment in 2020, AIA delivered
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p18_b3",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

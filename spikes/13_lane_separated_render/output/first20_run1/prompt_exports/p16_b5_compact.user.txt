@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p16_b5",
+    "lane": "caption_label",
+    "source_text": "境、社會及管治方面領先全球業界的志向。",
+    "current_translation": "environmental, social and governance ambition to lead the industry globally."
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p16_b5",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

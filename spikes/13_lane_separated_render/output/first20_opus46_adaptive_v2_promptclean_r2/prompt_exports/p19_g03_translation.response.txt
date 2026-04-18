@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p19_g03",
+      "translation": "This was driven by EV operating profit of US$7.243 billion, which offset the impact of lower government bond yields. EV operating profit included US$549 million from positive operating variances, reflecting our continued positive overall experience relative to our EV assumptions."
+    }
+  ]
+}
+```

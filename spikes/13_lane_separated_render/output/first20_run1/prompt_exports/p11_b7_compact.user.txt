@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p11_b7",
+    "lane": "caption_label",
+    "source_text": "管理架構，是每家機構可持續發展的基礎。",
+    "current_translation": "Governance structure is the foundation for sustainable development of every institution."
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p11_b7",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p8_b41",
+      "translation": "US$ MN"
+    }
+  ]
+}
+```

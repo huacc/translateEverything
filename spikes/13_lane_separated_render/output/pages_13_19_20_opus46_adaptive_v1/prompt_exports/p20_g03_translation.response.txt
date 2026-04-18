@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p20_g03",
+      "translation": "Following the implementation of travel restrictions, new business sales from Mainland Chinese visitors to AIA Hong Kong have been effectively suspended since early February 2020, resulting in a significant decline in VONB. The VONB margin recorded a decrease, reflecting the impact of underwriting expense overruns due to reduced new business volumes, changes in product mix and lower interest rates. Macau resumed the Individual Visit Scheme for Mainland China travelers at the end of September 2020. This provided support for a recovery in sales to Mainland Chinese visitors in Macau, which accounted for over one-third of AIA Macau's total ANP in the fourth quarter."
+    }
+  ]
+}
+```

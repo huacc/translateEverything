@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p2_b42",
+      "translation": "Providing services to participating members of insurance plans."
+    }
+  ]
+}
+```

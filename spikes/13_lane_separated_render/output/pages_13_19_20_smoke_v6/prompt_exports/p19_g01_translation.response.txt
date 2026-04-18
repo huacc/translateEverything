@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p19_g01",
+      "translation": "The pandemic's principal impact on our 2020 financial performance was on new business sales, as containment measures across many of our markets restricted face-to-face sales activities, particularly in the first half of 2020. Although VONB of US$2.765 billion in 2020 decreased by 33% compared to 2019, we rapidly adopted new digital tools, and the widespread relaxation of movement restrictions supported a recovery in sales momentum. AIA China"
+    }
+  ]
+}
+```

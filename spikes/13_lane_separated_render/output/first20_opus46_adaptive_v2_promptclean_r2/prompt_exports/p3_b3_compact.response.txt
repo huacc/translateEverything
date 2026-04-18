@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p3_b3",
+      "translation": "The only company globally headquartered and listed in Hong Kong, 100% focused on Asia"
+    }
+  ]
+}
+```

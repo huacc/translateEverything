@@ -1,0 +1,19 @@
+任务
+- unit_id：p18_b9
+- 输入单元：短标签 / 小标题
+
+原文
+概要及主要財務摘要
+
+当前译文
+Summary and Key Financial Highlights
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p18_b9",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

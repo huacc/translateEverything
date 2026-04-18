@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "stage": "compact",
+    "page_no": 10,
+    "group_id": "p10_b10"
+  },
+  "request": {
+    "model": "claude-opus-4-6",
+    "max_tokens": 4096,
+    "system": "你是上市公司年报短标签压缩助手。\n语言方向：Traditional Chinese -> English。\n只做最小必要压缩，不改变核心语义，不扩写。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "任务\n- unit_id：p10_b10\n- 输入单元：短标签 / 小标题\n\n原文\n我們的同事關懷社群，克盡己職，\n\n当前译文\nOur colleagues care for the community and fulfil their duties\n\n输出格式\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p10_b10\",\n      \"translation\": \"<更紧凑译文>\"\n    }\n  ]\n}"
+      }
+    ],
+    "thinking": {
+      "type": "adaptive"
+    },
+    "output_config": {
+      "effort": "max"
+    }
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p10_b10\",\n      \"translation\": \"Our colleagues care for communities and fulfil duties\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "444fbaee-e7e5-4263-ba74-fa6e2a289d2d",
+    "conversation_id": "444fbaee-e7e5-4263-ba74-fa6e2a289d2d",
+    "id": "444fbaee-e7e5-4263-ba74-fa6e2a289d2d",
+    "model": "claude-opus-4-6",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 199,
+      "output_tokens": 46
+    }
+  }
+}

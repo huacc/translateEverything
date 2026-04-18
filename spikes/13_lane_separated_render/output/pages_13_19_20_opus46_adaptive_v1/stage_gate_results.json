@@ -1,0 +1,105 @@
+{
+  "stages": [
+    {
+      "stage": "0",
+      "stage_name": "冻结基线",
+      "passed": true,
+      "summary": "基线页、人工参考、v11 对照和问题反馈已冻结。",
+      "details": {
+        "focus_pages": [
+          13,
+          19,
+          20
+        ]
+      }
+    },
+    {
+      "stage": "0.5",
+      "stage_name": "冻结学习资产与执行输入",
+      "passed": true,
+      "summary": "资产快照与执行配置快照已落盘。",
+      "details": {
+        "model": "claude-opus-4-6",
+        "compact_threshold": 0.84,
+        "render_dpi": 110
+      }
+    },
+    {
+      "stage": "1",
+      "stage_name": "建立 Anchor IR",
+      "passed": true,
+      "summary": "AnchorBlock 数量与原始块数量一致，且均可追溯。",
+      "details": {
+        "anchor_count": 92,
+        "source_block_count": 92
+      }
+    },
+    {
+      "stage": "2",
+      "stage_name": "组装 SemanticGroup",
+      "passed": true,
+      "summary": "第 19 页尾句并组已打通，侧边栏未混入正文组。",
+      "details": {
+        "tail_group_merged": true,
+        "sidebar_intrusion_count": 0
+      }
+    },
+    {
+      "stage": "3",
+      "stage_name": "Fact Lock 与 Mapping Hit",
+      "passed": true,
+      "summary": "关键股息与金额事实已锁定。",
+      "details": {
+        "final_dividend": [
+          "100.30"
+        ],
+        "total_dividend": [
+          "135.30"
+        ],
+        "dividend_paid_usd": [
+          "US$1.997 billion",
+          "US$1997 million",
+          "US$1,997 million"
+        ]
+      }
+    },
+    {
+      "stage": "4",
+      "stage_name": "按组翻译",
+      "passed": true,
+      "summary": "关键金额、股息和尾句残缺问题已在组翻译阶段受控。",
+      "details": {
+        "bad_scale_count": 0,
+        "broken_fragment_count": 0,
+        "dividend_mixup_count": 0
+      }
+    },
+    {
+      "stage": "5",
+      "stage_name": "生成 RenderPlan 并回填",
+      "passed": true,
+      "summary": "RenderPlan 已生成，未出现侧边栏回填，且版面指标未明显差于 v11。",
+      "details": {
+        "overflow_count": 0,
+        "sidebar_render_count": 0,
+        "layout_not_worse": true
+      }
+    },
+    {
+      "stage": "6",
+      "stage_name": "页级质量验收",
+      "passed": true,
+      "summary": "相对 v11 的内容指标已对比完成，硬错误与侧边栏污染已复核。",
+      "details": {
+        "delta_spike12_minus_v11": {
+          "token_f1": 0.0742,
+          "content_f1": 0.1314,
+          "sequence_ratio": 0.1121,
+          "number_recall": 0.0699
+        },
+        "hard_error_count": 0,
+        "sidebar_intrusion_count": 0
+      }
+    }
+  ]
+}

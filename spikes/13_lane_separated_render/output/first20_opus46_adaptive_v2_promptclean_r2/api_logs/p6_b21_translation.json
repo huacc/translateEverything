@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 6,
+    "group_id": "p6_b21"
+  },
+  "request": {
+    "model": "claude-opus-4-6",
+    "max_tokens": 4096,
+    "system": "你是上市公司年报标签翻译助手。\n语言方向：Traditional Chinese -> English。\n只负责翻译当前短标签或小标题，不负责排版、回填、压缩。\n保持短、稳、正式，不要扩写成解释句。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "任务\n- 语言方向：Traditional Chinese -> English\n- 文档场景：上市公司企业年报\n- 公司：AIA GROUP LIMITED\n- 当前页面：6\n- 当前输入单元：短标签 / 小标题\n\n翻译要求\n- 保持短、稳、正式，不要自由改写。\n- 不要把短标签扩写成解释性句子。\n- 不负责排版和回填。\n\n页面上下文\n- 术语使用模式：heading\n- 上一组摘要：經濟發展帶來支持，並同時在亞洲區內\n- 下一组摘要：提升人壽保險的覆蓋和影響。我們亦很\n\n当前标签\n- unit_id：p6_b21\n- 原文：\n協助創造一個更健康的亞洲。\n\n输出格式\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p6_b21\",\n      \"translation\": \"<译文>\"\n    }\n  ]\n}"
+      }
+    ],
+    "thinking": {
+      "type": "adaptive"
+    },
+    "output_config": {
+      "effort": "max"
+    }
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p6_b21\",\n      \"translation\": \"Help create a healthier Asia.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "04e41bba-3279-4099-9a39-88e3a59f7655",
+    "conversation_id": "04e41bba-3279-4099-9a39-88e3a59f7655",
+    "id": "04e41bba-3279-4099-9a39-88e3a59f7655",
+    "model": "claude-opus-4-6",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 389,
+      "output_tokens": 43
+    }
+  }
+}

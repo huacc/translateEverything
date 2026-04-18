@@ -1,0 +1,24 @@
+任务
+- unit_id：p2_b53
+- 输入单元：正文语义组（group）
+
+压缩要求
+- 只删除冗余表达，不改变事实和数字。
+- 保持年报文风正式稳定。
+- 不要跨组补写，也不要为了版面改义。
+
+原文
+136 合併權益變動表
+
+当前译文
+136 Consolidated Statement of Changes in Equity
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p2_b53",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

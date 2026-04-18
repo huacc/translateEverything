@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p5_b9",
+    "lane": "caption_label",
+    "source_text": "提供必不可少的的財務支援。儘管疫情大流行的影響依",
+    "current_translation": "Providing essential financial support. Despite the impact of the pandemic continuing"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p5_b9",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

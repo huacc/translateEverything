@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p6_b1",
+      "translation": "AIA founded by Cornelius Vander Starr"
+    }
+  ]
+}
+```

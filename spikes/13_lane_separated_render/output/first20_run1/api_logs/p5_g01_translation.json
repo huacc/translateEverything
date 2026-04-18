@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "translation",
+    "page_no": 5,
+    "group_id": "p5_g01"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是上市保险公司年报翻译器。\n语言方向：Traditional Chinese -> English。\n只处理当前 body semantic group。\n只可在当前组内恢复跨块断句，不得跨组补写、跨组删写或改写事实。\n必须严格满足 mapping_hits 与 fact_locks。\n版面回填、字体压缩、分块分配不是你的职责，不要为了适配版面而删词改义。\n保持正式、稳定、可出版的企业年报文风。\n只输出 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市保险公司企业年报。\n先满足 fact_locks，再保证术语稳定、语义完整和年报文风。\n{\n  \"task\": {\n    \"scenario\": \"listed_company_annual_report\",\n    \"industry\": \"Life Insurance\",\n    \"report_type\": \"annual_report\",\n    \"company_name_target\": \"AIA GROUP LIMITED\",\n    \"direction\": \"Traditional Chinese -> English\"\n  },\n  \"page_context\": {\n    \"page_no\": 5,\n    \"page_sections\": [],\n    \"term_usage_mode\": \"table\",\n    \"neighbor_context\": {\n      \"previous_group_source_excerpt\": \"保障，讓他們冒著生命危險執行抗疫工作時能減輕一份\",\n      \"next_group_source_excerpt\": \"提供必不可少的的財務支援。儘管疫情大流行的影響依\"\n    }\n  },\n  \"mapping_hits\": [],\n  \"fact_locks\": [\n    {\n      \"label\": \"usd_amount_10\",\n      \"fact_type\": \"usd_scaled_amount\",\n      \"source_value\": \"10億美元\",\n      \"expected_forms\": [\n        \"US$1 billion\",\n        \"US$1000 million\",\n        \"US$1,000 million\"\n      ]\n    },\n    {\n      \"label\": \"usd_amount_160\",\n      \"fact_type\": \"usd_scaled_amount\",\n      \"source_value\": \"160億美元\",\n      \"expected_forms\": [\n        \"US$16 billion\",\n        \"US$16000 million\",\n        \"US$16,000 million\"\n      ]\n    }\n  ],\n  \"current_group\": {\n    \"group_id\": \"p5_g01\",\n    \"lane\": \"body\",\n    \"group_text\": \"憂慮。我們為超過2,500萬份保單提供免費的2019冠狀病毒\\n病相關保障覆蓋，並於12個市場提供10億美元的保費支\\n援。年內，我們已支付逾160億美元的保險給付和理賠，\",\n    \"source_block_ids\": [\n      \"p5_b6\",\n      \"p5_b7\",\n      \"p5_b8\"\n    ],\n    \"source_block_count\": 3\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p5_g01\",\n        \"translation\": \"<译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p5_g01\",\n      \"translation\": \"concerns. We provided free COVID-19 related coverage to over 25 million policies and offered US$1 billion in premium support across 12 markets. During the year, we paid out over US$16 billion in insurance benefits and claims,\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "b20153ba-8ca6-4613-9ff9-18620f59984b",
+    "conversation_id": "b20153ba-8ca6-4613-9ff9-18620f59984b",
+    "id": "b20153ba-8ca6-4613-9ff9-18620f59984b",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 824,
+      "output_tokens": 85
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "stage": "compact",
+    "page_no": 7,
+    "group_id": "p7_b12"
+  },
+  "request": {
+    "model": "claude-3-5-sonnet-20241022",
+    "max_tokens": 1800,
+    "temperature": 0,
+    "system": "你是版面压缩器。\n语言方向：Traditional Chinese -> English。\n只做最小必要压缩。\n不得改动数字、百分比、年份、金额、专有名词。\n只输出 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市保险公司企业年报。\n{\n  \"current_unit\": {\n    \"unit_id\": \"p7_b12\",\n    \"lane\": \"caption_label\",\n    \"source_text\": \"批復已於2020年6月取得。於2021年3月，\",\n    \"current_translation\": \"The approval was obtained in June 2020. In March 2021,\"\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p7_b12\",\n        \"translation\": \"<更紧凑译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ]
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p7_b12\",\n      \"translation\": \"Approval obtained June 2020. March 2021,\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "1425915b-a9c0-4e45-98b3-d9977c95f65c",
+    "conversation_id": "1425915b-a9c0-4e45-98b3-d9977c95f65c",
+    "id": "1425915b-a9c0-4e45-98b3-d9977c95f65c",
+    "model": "claude-3-5-sonnet-20241022",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 232,
+      "output_tokens": 46
+    }
+  }
+}

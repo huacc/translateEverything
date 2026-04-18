@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p10_b27",
+      "translation": "and progressive dividend policy, enabling future growth while maintaining financial flexibility."
+    }
+  ]
+}
+```

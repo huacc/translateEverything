@@ -1,0 +1,61 @@
+{
+  "id": 2,
+  "source_file_name": "产品手册.docx",
+  "source_file_path": "/uploads/product_manual.docx",
+  "target_file_path": "/outputs/product_manual_translated.docx",
+  "source_lang": "en",
+  "target_lang": "zh",
+  "source_format": "docx",
+  "session_id": "session_20260417_152000",
+  "task_run_id": "run_20260417_152100",
+  "current_prompt_bundle_id": 2,
+  "status": "completed",
+  "stage": "completed",
+  "page_count": 15,
+  "total_segments": 100,
+  "completed_segments": 100,
+  "failed_segments": 0,
+  "progress_percent": 100.0,
+  "document_summary": {
+    "title": "产品手册",
+    "page_count": 15,
+    "word_count": 3500,
+    "estimated_time": 1200,
+    "file_size": 1536000
+  },
+  "translation_notes": [
+    {
+      "page": 3,
+      "note": "产品名称保持英文原文"
+    },
+    {
+      "page": 8,
+      "note": "技术参数表格已正确翻译"
+    }
+  ],
+  "task_prompt_text": "请将此产品手册从英文翻译为中文，保持专业性和易读性。",
+  "options": {
+    "enable_quality_check": true,
+    "translation_style": "professional",
+    "glossary_id": 1,
+    "preserve_formatting": true,
+    "enable_context_learning": true
+  },
+  "quality_issue_counts": {
+    "critical": 0,
+    "warning": 1,
+    "info": 2
+  },
+  "critical_issue_count": 0,
+  "warning_issue_count": 1,
+  "info_issue_count": 2,
+  "export_blocked": false,
+  "export_status": "ready",
+  "artifact_available": true,
+  "error_message": null,
+  "created_at": "2026-04-17T15:20:00Z",
+  "updated_at": "2026-04-17T15:45:00Z",
+  "started_at": "2026-04-17T15:21:00Z",
+  "completed_at": "2026-04-17T15:45:00Z",
+  "estimated_completion_at": null
+}

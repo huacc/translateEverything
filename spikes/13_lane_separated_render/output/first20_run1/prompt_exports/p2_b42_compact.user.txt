@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p2_b42",
+    "lane": "caption_label",
+    "source_text": "保險計劃的參與成員提供服務。",
+    "current_translation": "Providing services to participating members of insurance plans."
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p2_b42",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+文档场景：上市保险公司企业年报。
+先满足 fact_locks，再保证术语稳定、语义完整和年报文风。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 14,
+    "page_sections": [
+      {
+        "source_section": "集團首席執行官兼總裁報告",
+        "target_section": "Group Chief Executive and President's Report",
+        "content_type": "ceo_report",
+        "page_range": [
+          12,
+          16
+        ]
+      }
+    ],
+    "term_usage_mode": "table",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "2020年業績摘要",
+      "next_group_source_excerpt": "的有效保單組合及有利的理賠經驗。"
+    }
+  },
+  "mapping_hits": [
+    {
+      "source": "友邦保險中國業務",
+      "target": "AIA China",
+      "hit_type": "context_term"
+    },
+    {
+      "source": "新業務價值",
+      "target": "VONB",
+      "hit_type": "context_term"
+    },
+    {
+      "source": "稅後營運溢利",
+      "target": "OPAT",
+      "hit_type": "context_term"
+    },
+    {
+      "source": "2019冠狀病毒病",
+      "target": "COVID-19",
+      "hit_type": "context_term"
+    },
+    {
+      "source": "友邦保險",
+      "target": "AIA",
+      "hit_type": "glossary_term"
+    }
+  ],
+  "fact_locks": [
+    {
+      "label": "usd_amount_9.68",
+      "fact_type": "usd_scaled_amount",
+      "source_value": "9.68億美元",
+      "expected_forms": [
+        "US$0.968 billion",
+        "US$968 million",
+        "US$968 million"
+      ]
+    },
+    {
+      "label": "percentage_17",
+      "fact_type": "percentage",
+      "source_value": "17%",
+      "expected_forms": [
+        "17%"
+      ]
+    },
+    {
+      "label": "percentage_14",
+      "fact_type": "percentage",
+      "source_value": "14%",
+      "expected_forms": [
+        "14%"
+      ]
+    }
+  ],
+  "current_group": {
+    "group_id": "p14_g01",
+    "lane": "body",
+    "group_text": "友邦保險中國業務在2020年為本集團新業務價值帶來最大貢獻，並在2021年初表現卓越，與2020年同期比較，\n今年首兩個月錄得非常強勁的新業務價值增長。儘管2020年的9.68億美元新業務價值較2019年下降17%，但這主\n要由於2019冠狀病毒病在首季爆發初期新銷售有限所致。年內稅後營運溢利增長14%，主要是由於我們日益增長",
+    "source_block_ids": [
+      "p14_b4",
+      "p14_b5",
+      "p14_b6"
+    ],
+    "source_block_count": 3
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p14_g01",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

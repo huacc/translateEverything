@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p18_b9",
+    "lane": "caption_label",
+    "source_text": "概要及主要財務摘要",
+    "current_translation": "Summary and Key Financial Highlights"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p18_b9",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p9_b31",
+      "translation": "(1) From 2017 onwards, financial information is presented on a financial year basis ending 31 December. Financial information for 2016 is presented on a financial year basis ending 30 November."
+    }
+  ]
+}
+```

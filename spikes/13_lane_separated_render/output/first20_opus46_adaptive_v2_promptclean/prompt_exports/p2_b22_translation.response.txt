@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p2_b22",
+      "translation": "070 Board of Directors"
+    }
+  ]
+}
+```

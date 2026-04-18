@@ -1,0 +1,19 @@
+任务
+- unit_id：p2_b11
+- 输入单元：短标签 / 小标题
+
+原文
+016 集團首席財務總監回顧
+
+当前译文
+016 Group Chief Financial Officer's Review
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p2_b11",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

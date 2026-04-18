@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p3_b10",
+      "translation": "Providing protection to the Asian population,\nwith total sum assured approaching\nUS$2 trillion\nacross 18 markets"
+    }
+  ]
+}
+```

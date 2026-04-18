@@ -1,0 +1,41 @@
+文档场景：上市公司企业年报
+{
+  "document_background": {
+    "page_sections": [
+      {
+        "source_section": "友邦保險一覽",
+        "target_section": "AIA At-A-Glance",
+        "content_type": "company_overview",
+        "page_range": [
+          3
+        ]
+      }
+    ],
+    "roles": [],
+    "terms": [],
+    "style_rules": [
+      "Use US$ for U.S. dollar amounts.",
+      "Keep listed-company annual report disclosure tone formal and publishable.",
+      "Do not change numbers, percentages, years, named entities or financial metric values.",
+      "Use established financial abbreviations for table labels when provided.",
+      "Keep row and column semantics unchanged.",
+      "Use n/m for 無意義."
+    ]
+  },
+  "current_unit": {
+    "page_no": 3,
+    "unit_id": "p3_b3",
+    "unit_mode": "single_block",
+    "slot_count": 6,
+    "source_text": "全球唯一一家總部\n設於香港、於香港上市\n並100%\n專注於亞洲",
+    "current_translation": "The only global company headquartered in Hong Kong, listed on the Hong Kong Stock Exchange and 100% focused on Asia"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p3_b3",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

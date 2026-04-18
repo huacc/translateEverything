@@ -1,0 +1,42 @@
+任务
+- 语言方向：Traditional Chinese -> English
+- 文档场景：上市公司企业年报
+- 公司：AIA GROUP LIMITED
+- 当前页面：8
+- 当前输入单元：表格单元 / 表格行
+- table_role：row
+
+翻译要求
+- 保持表格语义，不要改写成正文句子。
+- 尽量保持原有行结构和顺序。
+- 数字、百分比、货币、缩写、括号位置必须准确。
+- 不负责排版和回填。
+
+页面上下文
+- 当前章节：Overview，类型：executive_summary（页码 8-16）
+- 上一组摘要：2017
+2018
+2019
+2016
+- 下一组摘要：US$ MILLIONS
+
+术语锁定
+- 稅後營運溢利 => Operating Profit After Tax [context_term]
+- 總加權保費收入 => Total Weighted Premium Income [context_term]
+
+当前表格输入
+- unit_id：p8_b39
+- 原文行数：2
+- 原文：
+稅後營運溢利(4)(9)
+總加權保費收入(5)
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p8_b39",
+      "translation": "<译文>"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p16_b23",
+      "translation": "Growth rates are presented on a constant exchange rate basis, which management believes provides a clearer illustration of the underlying business performance year-on-year."
+    }
+  ]
+}
+```

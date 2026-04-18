@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p19_g04",
+      "translation": "Our high-quality, recurring earnings stream and active management of our in-force portfolio drove OPAT growth of 5% to US$5,942 million and maintained a stable operating margin of 16.9%. Renewal premiums received increased by 10%, with recurring premiums representing over 90% of total premiums received in 2020. OPAT growth benefited from significantly positive claims experience throughout the year, which offset the impact of lower yields on new fixed income investments and the assumed reduction in long-term equity investment returns. As expected, the exceptionally positive medical claims experience noted in the first half did not recur in the second half, but we continued to see a positive contribution from this source to OPAT growth. Persistency improved in the second half as lapse experience in AIA Thailand normalised, with Group persistency at 95%."
+    }
+  ]
+}
+```

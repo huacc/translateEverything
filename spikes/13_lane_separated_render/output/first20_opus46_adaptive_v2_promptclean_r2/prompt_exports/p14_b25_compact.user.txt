@@ -1,0 +1,24 @@
+任务
+- unit_id：p14_b25
+- 输入单元：正文语义组（group）
+
+压缩要求
+- 只删除冗余表达，不改变事实和数字。
+- 保持年报文风正式稳定。
+- 不要跨组补写，也不要为了版面改义。
+
+原文
+代理渠道方面，我們轉移使用線上招聘和入職培訓的趨勢，支持新入職代理及代理主管人數錄得雙位數字增長。
+
+当前译文
+In the agency channel, our shift to online recruitment and onboarding supported double-digit growth in the number of newly recruited agents and agency leaders.
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p14_b25",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

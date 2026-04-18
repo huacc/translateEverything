@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p15_g01",
+      "translation": "learning culture, providing our employees with a platform to develop meaningful and rewarding careers at AIA. In response to social distancing measures and travel restrictions, we migrated our learning content online to the 'AIA Learning Hub'. The AIA Leadership Centre (ALC), a world-class facility in Bangkok, redesigned and delivered the Group's flagship leadership development programmes with over 100 fully virtualised learning modules. Participants provided very positive feedback on these virtual learning programmes, comparable to the feedback received from previous in-person learning experiences."
+    }
+  ]
+}
+```

@@ -1,0 +1,49 @@
+文档场景：上市保险公司企业年报。
+先满足 fact_locks，再保证术语稳定、语义完整和年报文风。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 1,
+    "page_sections": [
+      {
+        "source_section": "我們的目標",
+        "target_section": "Our Objective",
+        "content_type": "mission_statement",
+        "page_range": [
+          1,
+          2
+        ]
+      }
+    ],
+    "term_usage_mode": "overview_narrative",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "",
+      "next_group_source_excerpt": "健康、長久、好生活"
+    }
+  },
+  "mapping_hits": [],
+  "fact_locks": [],
+  "current_group": {
+    "group_id": "p1_b1",
+    "lane": "body",
+    "group_text": "HEALTHIER\nLONGER\nBETTER\nLIVES",
+    "source_block_ids": [
+      "p1_b1"
+    ],
+    "source_block_count": 1
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p1_b1",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p2_b60",
+    "lane": "caption_label",
+    "source_text": "領導地位。截至2020年12月31日，集團",
+    "current_translation": "Market Leadership. As at 31 December 2020, the Group"
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p2_b60",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1399 @@
+[
+  {
+    "group_id": "p13_g01",
+    "page_no": 13,
+    "block_ids": [
+      "p13_b1",
+      "p13_b2"
+    ],
+    "slot_count": 2,
+    "layout_mode": "group_slots",
+    "fit_status": "ok",
+    "font_ratio": 1.0,
+    "rendered_lines": [
+      "Providing uninterrupted",
+      "support."
+    ],
+    "rendered_by_block": {
+      "p13_b1": "Providing uninterrupted",
+      "p13_b2": "support."
+    },
+    "selected_scale": 1.02,
+    "lane": "body",
+    "group_bbox": [
+      68.03,
+      94.7,
+      524.09,
+      122.65
+    ],
+    "used_group_reflow": true
+  },
+  {
+    "group_id": "p13_b3",
+    "page_no": 13,
+    "block_ids": [
+      "p13_b3"
+    ],
+    "slot_count": 1,
+    "layout_mode": "single_line",
+    "fit_status": "ok",
+    "font_ratio": 1.0,
+    "rendered_lines": [
+      "demonstrating agility and commitment to duty."
+    ],
+    "rendered_by_block": {
+      "p13_b3": "demonstrating agility and commitment to duty."
+    },
+    "selected_scale": 1.0,
+    "lane": "caption_label",
+    "group_bbox": [
+      68.03,
+      126.7,
+      252.3,
+      138.65
+    ],
+    "used_group_reflow": false
+  },
+  {
+    "group_id": "p13_g02",
+    "page_no": 13,
+    "block_ids": [
+      "p13_b5",
+      "p13_b6",
+      "p13_b7"
+    ],
+    "slot_count": 3,
+    "layout_mode": "group_slots",
+    "fit_status": "font_shrink",
+    "font_ratio": 0.619,
+    "rendered_lines": [
+      "Since the pandemic onset, our business teams responded swiftly and actively assisted in mitigating community impact while ensuring",
+      "employee safety. The Group implemented a wide range of measures including financial support, medical supplies provision,",
+      "complimentary coverage, healthcare resource access, streamlined service processes and accelerated claims payments. We identified every possible reason to make claim payments, paying out over US$16 billion in insurance"
+    ],
+    "rendered_by_block": {
+      "p13_b5": "Since the pandemic onset, our business teams responded swiftly and actively assisted in mitigating community impact while ensuring",
+      "p13_b6": "employee safety. The Group implemented a wide range of measures including financial support, medical supplies provision,",
+      "p13_b7": "complimentary coverage, healthcare resource access, streamlined service processes and accelerated claims payments. We identified every possible reason to make claim payments, paying out over US$16 billion in insurance"
+    },
+    "selected_scale": 1.02,
+    "lane": "body",
+    "group_bbox": [
+      68.03,
+      158.71,
+      521.58,
+      202.66
+    ],
+    "used_group_reflow": true
+  },
+  {
+    "group_id": "p13_b8",
+    "page_no": 13,
+    "block_ids": [
+      "p13_b8"
+    ],
+    "slot_count": 1,
+    "layout_mode": "single_line",
+    "fit_status": "ok",
+    "font_ratio": 1.0,
+    "rendered_lines": [
+      "Benefits and claims provide essential financial protection."
+    ],
+    "rendered_by_block": {
+      "p13_b8": "Benefits and claims provide essential financial protection."
+    },
+    "selected_scale": 1.0,
+    "lane": "caption_label",
+    "group_bbox": [
+      68.03,
+      206.71,
+      261.53,
+      218.66
+    ],
+    "used_group_reflow": false
+  },
+  {
+    "group_id": "p13_g03",
+    "page_no": 13,
+    "block_ids": [
+      "p13_b9",
+      "p13_b10",
+      "p13_b11",
+      "p13_b12"
+    ],
+    "slot_count": 4,
+    "layout_mode": "group_slots",
+    "fit_status": "ok",
+    "font_ratio": 1.0,
+    "rendered_lines": [
+      "Despite COVID-19 containment measures reducing VONB to US$2.765 billion, sales momentum turned positive as lockdown",
+      "restrictions eased, with strong momentum in early 2021, VONB growing 15% year-on-year in the first two months. Our large and",
+      "growing in-force policy portfolio generated high-quality recurring income, driving 5% OPAT growth in 2020, with UFSG growing 7%. As",
+      "at 31 December 2020, EV Equity reached a record US$67.2 billion, with Group LCSM cover ratio at 374%, which is"
+    ],
+    "rendered_by_block": {
+      "p13_b9": "Despite COVID-19 containment measures reducing VONB to US$2.765 billion, sales momentum turned positive as lockdown",
+      "p13_b10": "restrictions eased, with strong momentum in early 2021, VONB growing 15% year-on-year in the first two months. Our large and",
+      "p13_b11": "growing in-force policy portfolio generated high-quality recurring income, driving 5% OPAT growth in 2020, with UFSG growing 7%. As",
+      "p13_b12": "at 31 December 2020, EV Equity reached a record US$67.2 billion, with Group LCSM cover ratio at 374%, which is"
+    },
+    "selected_scale": 1.02,
+    "lane": "body",
+    "group_bbox": [
+      68.03,
+      238.72,
+      521.59,
+      298.67
+    ],
+    "used_group_reflow": true
+  },
+  {
+    "group_id": "p13_b13",
+    "page_no": 13,
+    "block_ids": [
+      "p13_b13"
+    ],
+    "slot_count": 1,
+    "layout_mode": "single_line",
+    "fit_status": "font_shrink",
+    "font_ratio": 0.831,
+    "rendered_lines": [
+      "testify to our strong capital and prudent financial management."
+    ],
+    "rendered_by_block": {
+      "p13_b13": "testify to our strong capital and prudent financial management."
+    },
+    "selected_scale": 0.831,
+    "lane": "caption_label",
+    "group_bbox": [
+      68.04,
+      302.72,
+      243.09,
+      314.68
+    ],
+    "used_group_reflow": false
+  },
+  {
+    "group_id": "p13_b14",
+    "page_no": 13,
+    "block_ids": [
+      "p13_b14"
+    ],
+    "slot_count": 1,
+    "layout_mode": "single_line",
+    "fit_status": "font_shrink",
+    "font_ratio": 0.689,
+    "rendered_lines": [
+      "The Board recommends an increase of 7.5% in the final dividend for 2020 to 100.30 Hong Kong cents per share. This reflects AIA's long-established prudent, sustainable and progressive dividend policy"
+    ],
+    "rendered_by_block": {
+      "p13_b14": "The Board recommends an increase of 7.5% in the final dividend for 2020 to 100.30 Hong Kong cents per share. This reflects AIA's long-established prudent, sustainable and progressive dividend policy"
+    },
+    "selected_scale": 0.689,
+    "lane": "body",
+    "group_bbox": [
+      68.04,
+      334.73,
+      521.51,
+      346.68
+    ],
+    "used_group_reflow": false
+  },
+  {
+    "group_id": "p13_b15",
+    "page_no": 13,
+    "block_ids": [
+      "p13_b15"
+    ],
+    "slot_count": 1,
+    "layout_mode": "single_line",
+    "fit_status": "font_shrink",
+    "font_ratio": 0.718,
+    "rendered_lines": [
+      "policy, enabling the Group to capitalize on future growth opportunities while maintaining financial flexibility."
+    ],
+    "rendered_by_block": {
+      "p13_b15": "policy, enabling the Group to capitalize on future growth opportunities while maintaining financial flexibility."
+    },
+    "selected_scale": 0.718,
+    "lane": "caption_label",
+    "group_bbox": [
+      68.04,
+      350.73,
+      326.12,
+      362.68
+    ],
+    "used_group_reflow": false
+  },
+  {
+    "group_id": "p13_g04",
+    "page_no": 13,
+    "block_ids": [
+      "p13_b16",
+      "p13_b17",
+      "p13_b18"
+    ],
+    "slot_count": 3,
+    "layout_mode": "group_slots",
+    "fit_status": "font_shrink",
+    "font_ratio": 0.55,
+    "rendered_lines": [
+      "AIA possesses multiple distinctive competitive advantages that set us apart in a highly competitive market. With decades of operations",
+      "across Asia, we have an unparalleled platform in the region and hold leading market positions in most of the markets where we operate.",
+      "Our unwavering 100% focus on the Asian market enables us to fully capitalize on growth opportunities in the world's most attractive life insurance region. This focus, combined with our leadership team's extensive experience in Asia and our employees' exceptional capabilities,"
+    ],
+    "rendered_by_block": {
+      "p13_b16": "AIA possesses multiple distinctive competitive advantages that set us apart in a highly competitive market. With decades of operations",
+      "p13_b17": "across Asia, we have an unparalleled platform in the region and hold leading market positions in most of the markets where we operate.",
+      "p13_b18": "Our unwavering 100% focus on the Asian market enables us to fully capitalize on growth opportunities in the world's most attractive life insurance region. This focus, combined with our leadership team's extensive experience in Asia and our employees' exceptional capabilities,"
+    },
+    "selected_scale": 1.02,
+    "lane": "body",
+    "group_bbox": [
+      68.04,
+      382.73,
+      521.5,
+      426.69
+    ],
+    "used_group_reflow": true
+  },
+  {
+    "group_id": "p13_b19",
+    "page_no": 13,
+    "block_ids": [
+      "p13_b19"
+    ],
+    "slot_count": 1,
+    "layout_mode": "single_line",
+    "fit_status": "ok",
+    "font_ratio": 1.0,
+    "rendered_lines": [
+      "has been key to our strong performance."
+    ],
+    "rendered_by_block": {
+      "p13_b19": "has been key to our strong performance."
+    },
+    "selected_scale": 1.0,
+    "lane": "caption_label",
+    "group_bbox": [
+      68.04,
+      430.74,
+      206.19,
+      442.69
+    ],
+    "used_group_reflow": false
+  },
+  {
+    "group_id": "p13_g05",
+    "page_no": 13,
+    "block_ids": [
+      "p13_b20",
+      "p13_b21",
+      "p13_b22"
+    ],
+    "slot_count": 3,
+    "layout_mode": "group_slots",
+    "fit_status": "font_shrink",
+    "font_ratio": 0.55,
+    "rendered_lines": [
+      "Our unparalleled distribution strength enables us to reach customers directly and provide high-quality professional advice to help meet",
+      "the substantial and growing long-term protection and savings needs of Asian consumers. Today, the public increasingly expects",
+      "companies to address their needs in ways that are consistent with long-term sustainable development. AIA possesses a market-leading brand, built on the foundation of helping people achieve their goals of living healthier, longer and better lives."
+    ],
+    "rendered_by_block": {
+      "p13_b20": "Our unparalleled distribution strength enables us to reach customers directly and provide high-quality professional advice to help meet",
+      "p13_b21": "the substantial and growing long-term protection and savings needs of Asian consumers. Today, the public increasingly expects",
+      "p13_b22": "companies to address their needs in ways that are consistent with long-term sustainable development. AIA possesses a market-leading brand, built on the foundation of helping people achieve their goals of living healthier, longer and better lives."
+    },
+    "selected_scale": 1.02,
+    "lane": "body",
+    "group_bbox": [
+      68.04,
+      462.74,
+      521.5,
+      506.7
+    ],
+    "used_group_reflow": true
+  },
+  {
+    "group_id": "p13_g06",
+    "page_no": 13,
+    "block_ids": [
+      "p13_b23",
+      "p13_b24"
+    ],
+    "slot_count": 2,
+    "layout_mode": "group_slots",
+    "fit_status": "font_shrink",
+    "font_ratio": 0.636,
+    "rendered_lines": [
+      "We aim to position AIA as a global leader in technology application, strengthen interconnectivity, expand scale and enhance efficiency.",
+      "Deeper data analytics insights enable us to create unique and personalized customer experiences. Products and services aligned with individual needs and lifestyles have transformed public perceptions of life insurance."
+    ],
+    "rendered_by_block": {
+      "p13_b23": "We aim to position AIA as a global leader in technology application, strengthen interconnectivity, expand scale and enhance efficiency.",
+      "p13_b24": "Deeper data analytics insights enable us to create unique and personalized customer experiences. Products and services aligned with individual needs and lifestyles have transformed public perceptions of life insurance."
+    },
+    "selected_scale": 1.02,
+    "lane": "body",
+    "group_bbox": [
+      68.04,
+      526.75,
+      521.5,
+      554.71
+    ],
+    "used_group_reflow": true
+  },
+  {
+    "group_id": "p13_b25",
+    "page_no": 13,
+    "block_ids": [
+      "p13_b25"
+    ],
+    "slot_count": 1,
+    "layout_mode": "single_line",
+    "fit_status": "font_shrink",
+    "font_ratio": 0.832,
+    "rendered_lines": [
+      "approach, laying a solid foundation for long-term customer relationships."
+    ],
+    "rendered_by_block": {
+      "p13_b25": "approach, laying a solid foundation for long-term customer relationships."
+    },
+    "selected_scale": 0.832,
+    "lane": "caption_label",
+    "group_bbox": [
+      68.04,
+      558.76,
+      270.77,
+      570.71
+    ],
+    "used_group_reflow": false
+  },
+  {
+    "group_id": "p13_g07",
+    "page_no": 13,
+    "block_ids": [
+      "p13_b26",
+      "p13_b27",
+      "p13_b28"
+    ],
+    "slot_count": 3,
+    "layout_mode": "group_slots",
+    "fit_status": "font_shrink",
+    "font_ratio": 0.714,
+    "rendered_lines": [
+      "Despite 2020 being unprecedented, I am more optimistic than ever about the life insurance industry prospects in Asia and AIA's future.",
+      "We continue to challenge ourselves and develop strategic priorities to meet evolving customer expectations and financial needs. Our",
+      "new corporate strategy builds on AIA's existing strengths and advances our transformation to deliver superior service to customers."
+    ],
+    "rendered_by_block": {
+      "p13_b26": "Despite 2020 being unprecedented, I am more optimistic than ever about the life insurance industry prospects in Asia and AIA's future.",
+      "p13_b27": "We continue to challenge ourselves and develop strategic priorities to meet evolving customer expectations and financial needs. Our",
+      "p13_b28": "new corporate strategy builds on AIA's existing strengths and advances our transformation to deliver superior service to customers."
+    },
+    "selected_scale": 1.02,
+    "lane": "body",
+    "group_bbox": [
+      68.04,
+      590.76,
+      521.57,
+      634.72
+    ],
+    "used_group_reflow": true
+  },
+  {
+    "group_id": "p13_b29",
+    "page_no": 13,
+    "block_ids": [
+      "p13_b29"
+    ],
+    "slot_count": 2,
+    "layout_mode": "textbox",
+    "fit_status": "font_shrink",
+    "font_ratio": 0.833,
+    "rendered_lines": [
+      "2020 Annual Report 011"
+    ],
+    "rendered_by_block": {
+      "p13_b29": "2020 Annual Report 011"
+    },
+    "selected_scale": 0.833,
+    "lane": "caption_label",
+    "group_bbox": [
+      490.6,
+      811.43,
+      561.26,
+      821.38
+    ],
+    "used_group_reflow": false
+  },
+  {
+    "group_id": "p19_g01",
+    "page_no": 19,
+    "block_ids": [
+      "p19_b1",
+      "p19_b2",
+      "p19_b3"
+    ],
+    "slot_count": 3,
+    "layout_mode": "group_slots",
+    "fit_status": "ok",
+    "font_ratio": 0.922,
+    "rendered_lines": [
+      "The pandemic's principal impact on our 2020 financial performance was on new business sales, as containment measures across many",
+      "markets restricted face-to-face sales activities, particularly in H1 2020. Although VONB of US$2.765 billion in 2020 decreased 33%",
+      "versus 2019, we rapidly adopted digital tools, and widespread relaxation of movement restrictions supported sales momentum recovery. AIA China"
+    ],
+    "rendered_by_block": {
+      "p19_b1": "The pandemic's principal impact on our 2020 financial performance was on new business sales, as containment measures across many",
+      "p19_b2": "markets restricted face-to-face sales activities, particularly in H1 2020. Although VONB of US$2.765 billion in 2020 decreased 33%",
+      "p19_b3": "versus 2019, we rapidly adopted digital tools, and widespread relaxation of movement restrictions supported sales momentum recovery. AIA China"
+    },
+    "selected_scale": 1.02,
+    "lane": "body",
+    "group_bbox": [
+      68.03,
+      93.17,
+      521.58,
+      137.12
+    ],
+    "used_group_reflow": true
+  },
+  {
+    "group_id": "p19_g02",
+    "page_no": 19,
+    "block_ids": [
+      "p19_b5",
+      "p19_b6",
+      "p19_b7",
+      "p19_b8"
+    ],
+    "slot_count": 4,
+    "layout_mode": "group_slots",
+    "fit_status": "font_shrink",
+    "font_ratio": 0.55,
+    "rendered_lines": [
+      "contributed the largest share to the Group's VONB and was also our first reporting segment to demonstrate a recovery in sales momentum, as this region began to gradually",
+      "ease strict lockdowns from March 2020 onwards. Excluding sales from Mainland Chinese visitors, which remained at low levels, the Group's other segments showed strong",
+      "recovery in VONB in the second half, growing 23% compared to the first half. The Group's new business momentum remained robust into 2021, with VONB in the first two",
+      "months 15% higher than the corresponding period in 2020."
+    ],
+    "rendered_by_block": {
+      "p19_b5": "contributed the largest share to the Group's VONB and was also our first reporting segment to demonstrate a recovery in sales momentum, as this region began to gradually",
+      "p19_b6": "ease strict lockdowns from March 2020 onwards. Excluding sales from Mainland Chinese visitors, which remained at low levels, the Group's other segments showed strong",
+      "p19_b7": "recovery in VONB in the second half, growing 23% compared to the first half. The Group's new business momentum remained robust into 2021, with VONB in the first two",
+      "p19_b8": "months 15% higher than the corresponding period in 2020."
+    },
+    "selected_scale": 0.795,
+    "lane": "body",
+    "group_bbox": [
+      68.03,
+      141.17,
+      521.57,
+      201.13
+    ],
+    "used_group_reflow": true
+  },
+  {
+    "group_id": "p19_b9",
+    "page_no": 19,
+    "block_ids": [
+      "p19_b9"
+    ],
+    "slot_count": 1,
+    "layout_mode": "single_line",
+    "fit_status": "font_shrink",
+    "font_ratio": 0.792,
+    "rendered_lines": [
+      "Embedded value equity as at 31 December 2020 reached a new high of US$67.185 billion, an increase of US$5.277 billion before dividend payments of US$1.997 billion,"
+    ],
+    "rendered_by_block": {
+      "p19_b9": "Embedded value equity as at 31 December 2020 reached a new high of US$67.185 billion, an increase of US$5.277 billion before dividend payments of US$1.997 billion,"
+    },
+    "selected_scale": 0.792,
+    "lane": "body",
+    "group_bbox": [
+      68.03,
+      221.18,
+      521.57,
+      233.14
+    ],
+    "used_group_reflow": false
+  },
+  {
+    "group_id": "p19_g03",
+    "page_no": 19,
+    "block_ids": [
+      "p19_b10",
+      "p19_b11"
+    ],
+    "slot_count": 2,
+    "layout_mode": "group_slots",
+    "fit_status": "ok",
+    "font_ratio": 1.0,
+    "rendered_lines": [
+      "This was due to EV operating profit of US$7.243 billion offsetting lower government bond yields. EV operating profit included positive",
+      "operating variances of US$549 million from favorable experience versus EV assumptions."
+    ],
+    "rendered_by_block": {
+      "p19_b10": "This was due to EV operating profit of US$7.243 billion offsetting lower government bond yields. EV operating profit included positive",
+      "p19_b11": "operating variances of US$549 million from favorable experience versus EV assumptions."
+    },
+    "selected_scale": 1.02,
+    "lane": "body",
+    "group_bbox": [
+      68.03,
+      237.19,
+      521.53,
+      265.14
+    ],
+    "used_group_reflow": true
+  },
+  {
+    "group_id": "p19_g04",
+    "page_no": 19,
+    "block_ids": [
+      "p19_b12",
+      "p19_b13",
+      "p19_b14",
+      "p19_b15",
+      "p19_b16",
+      "p19_b17"
+    ],
+    "slot_count": 6,
+    "layout_mode": "group_slots",
+    "fit_status": "font_shrink",
+    "font_ratio": 0.55,
+    "rendered_lines": [
+      "Our high-quality, recurring earnings sources and active management of our in-force portfolio drove OPAT growth of 5% to US$5.942 billion, while",
+      "maintaining an operating margin of 16.9%. Renewal premiums collected increased by 10%, with recurring premiums representing over 90% of total",
+      "premiums collected in 2020. OPAT growth benefited from significant positive claims experience throughout the year, which offset the decline in yields on",
+      "new fixed income investments and the impact of reduced assumed long-term equity investment returns. As expected, the exceptional positive medical",
+      "claims experience noted in the first half did not recur in the second half, but we continued to see positive contributions to OPAT growth from this source.",
+      "With AIA's Thailand business lapse experience normalizing, persistency improved in the second half, with the Group's persistency at 95%."
+    ],
+    "rendered_by_block": {
+      "p19_b12": "Our high-quality, recurring earnings sources and active management of our in-force portfolio drove OPAT growth of 5% to US$5.942 billion, while",
+      "p19_b13": "maintaining an operating margin of 16.9%. Renewal premiums collected increased by 10%, with recurring premiums representing over 90% of total",
+      "p19_b14": "premiums collected in 2020. OPAT growth benefited from significant positive claims experience throughout the year, which offset the decline in yields on",
+      "p19_b15": "new fixed income investments and the impact of reduced assumed long-term equity investment returns. As expected, the exceptional positive medical",
+      "p19_b16": "claims experience noted in the first half did not recur in the second half, but we continued to see positive contributions to OPAT growth from this source.",
+      "p19_b17": "With AIA's Thailand business lapse experience normalizing, persistency improved in the second half, with the Group's persistency at 95%."
+    },
+    "selected_scale": 0.895,
+    "lane": "body",
+    "group_bbox": [
+      68.02,
+      285.19,
+      521.57,
+      377.15
+    ],
+    "used_group_reflow": true
+  },
+  {
+    "group_id": "p19_g05",
+    "page_no": 19,
+    "block_ids": [
+      "p19_b18",
+      "p19_b19",
+      "p19_b20"
+    ],
+    "slot_count": 3,
+    "layout_mode": "group_slots",
+    "fit_status": "ok",
+    "font_ratio": 1.0,
+    "rendered_lines": [
+      "UFSG of US$5.843 billion grew 7%, driven by continued growth of our in-force portfolio and active management thereof, offsetting lower",
+      "expected investment returns. As at 31 December 2020, the Group's financial position remained strong, with Free Surplus of US$13.473",
+      "billion after dividend payments of US$1.997 billion."
+    ],
+    "rendered_by_block": {
+      "p19_b18": "UFSG of US$5.843 billion grew 7%, driven by continued growth of our in-force portfolio and active management thereof, offsetting lower",
+      "p19_b19": "expected investment returns. As at 31 December 2020, the Group's financial position remained strong, with Free Surplus of US$13.473",
+      "p19_b20": "billion after dividend payments of US$1.997 billion."
+    },
+    "selected_scale": 1.02,
+    "lane": "body",
+    "group_bbox": [
+      68.01,
+      397.21,
+      521.55,
+      441.16
+    ],
+    "used_group_reflow": true
+  },
+  {
+    "group_id": "p19_g06",
+    "page_no": 19,
+    "block_ids": [
+      "p19_b21",
+      "p19_b22",
+      "p19_b23"
+    ],
+    "slot_count": 3,
+    "layout_mode": "group_slots",
+    "fit_status": "ok",
+    "font_ratio": 1.0,
+    "rendered_lines": [
+      "As at 31 December 2020, our principal operating company AIA Co.'s solvency ratio remained very strong at 489%. As at 31 December",
+      "2020, under the new Group regulatory framework, the Group LCSM cover ratio was 374%. Going forward, we will disclose the Group",
+      "LCSM cover ratio as the primary measure of the Group's regulatory solvency position."
+    ],
+    "rendered_by_block": {
+      "p19_b21": "As at 31 December 2020, our principal operating company AIA Co.'s solvency ratio remained very strong at 489%. As at 31 December",
+      "p19_b22": "2020, under the new Group regulatory framework, the Group LCSM cover ratio was 374%. Going forward, we will disclose the Group",
+      "p19_b23": "LCSM cover ratio as the primary measure of the Group's regulatory solvency position."
+    },
+    "selected_scale": 1.02,
+    "lane": "body",
+    "group_bbox": [
+      68.01,
+      461.21,
+      521.54,
+      505.17
+    ],
+    "used_group_reflow": true
+  },
+  {
+    "group_id": "p19_g07",
+    "page_no": 19,
+    "block_ids": [
+      "p19_b24",
+      "p19_b25",
+      "p19_b26"
+    ],
+    "slot_count": 3,
+    "layout_mode": "group_slots",
+    "fit_status": "font_shrink",
+    "font_ratio": 0.55,
+    "rendered_lines": [
+      "The Board recommends an increase in the final dividend of 7.5% to 100.30 Hong Kong cents per share, subject to approval by",
+      "shareholders at the Company's forthcoming Annual General Meeting. This brings the total dividend for 2020 to 135.30 Hong Kong cents",
+      "per share, representing an increase of 6.9% compared to the total dividend for 2019. This reflects AIA's long-established prudent, sustainable and progressive dividend policy, which enables the Group to capitalize on future growth opportunities while maintaining financial flexibility."
+    ],
+    "rendered_by_block": {
+      "p19_b24": "The Board recommends an increase in the final dividend of 7.5% to 100.30 Hong Kong cents per share, subject to approval by",
+      "p19_b25": "shareholders at the Company's forthcoming Annual General Meeting. This brings the total dividend for 2020 to 135.30 Hong Kong cents",
+      "p19_b26": "per share, representing an increase of 6.9% compared to the total dividend for 2019. This reflects AIA's long-established prudent, sustainable and progressive dividend policy, which enables the Group to capitalize on future growth opportunities while maintaining financial flexibility."
+    },
+    "selected_scale": 1.02,
+    "lane": "body",
+    "group_bbox": [
+      68.01,
+      525.22,
+      521.47,
+      569.18
+    ],
+    "used_group_reflow": true
+  },
+  {
+    "group_id": "p19_g08",
+    "page_no": 19,
+    "block_ids": [
+      "p19_b27",
+      "p19_b28"
+    ],
+    "slot_count": 2,
+    "layout_mode": "group_slots",
+    "fit_status": "font_shrink",
+    "font_ratio": 0.701,
+    "rendered_lines": [
+      "We remain confident in AIA's business opportunities across Asia. We will continue deploying capital to achieve profitable new business",
+      "growth, leveraging competitive advantages while maintaining prudent financial management and delivering long-term shareholder value."
+    ],
+    "rendered_by_block": {
+      "p19_b27": "We remain confident in AIA's business opportunities across Asia. We will continue deploying capital to achieve profitable new business",
+      "p19_b28": "growth, leveraging competitive advantages while maintaining prudent financial management and delivering long-term shareholder value."
+    },
+    "selected_scale": 1.02,
+    "lane": "body",
+    "group_bbox": [
+      68.01,
+      589.23,
+      521.46,
+      617.18
+    ],
+    "used_group_reflow": true
+  },
+  {
+    "group_id": "p19_b29",
+    "page_no": 19,
+    "block_ids": [
+      "p19_b29"
+    ],
+    "slot_count": 2,
+    "layout_mode": "textbox",
+    "fit_status": "font_shrink",
+    "font_ratio": 0.833,
+    "rendered_lines": [
+      "2020 Annual Report 017"
+    ],
+    "rendered_by_block": {
+      "p19_b29": "2020 Annual Report 017"
+    },
+    "selected_scale": 0.833,
+    "lane": "caption_label",
+    "group_bbox": [
+      490.6,
+      811.43,
+      561.26,
+      821.38
+    ],
+    "used_group_reflow": false
+  },
+  {
+    "group_id": "p20_b1",
+    "page_no": 20,
+    "block_ids": [
+      "p20_b1"
+    ],
+    "slot_count": 1,
+    "layout_mode": "single_line",
+    "fit_status": "font_shrink",
+    "font_ratio": 0.628,
+    "rendered_lines": [
+      "Financial and Operating Review"
+    ],
+    "rendered_by_block": {
+      "p20_b1": "Financial and Operating Review"
+    },
+    "selected_scale": 0.628,
+    "lane": "caption_label",
+    "group_bbox": [
+      73.7,
+      24.53,
+      146.7,
+      37.57
+    ],
+    "used_group_reflow": false
+  },
+  {
+    "group_id": "p20_b2",
+    "page_no": 20,
+    "block_ids": [
+      "p20_b2"
+    ],
+    "slot_count": 1,
+    "layout_mode": "single_line",
+    "fit_status": "font_shrink",
+    "font_ratio": 0.725,
+    "rendered_lines": [
+      "Group Chief Financial Officer's Review"
+    ],
+    "rendered_by_block": {
+      "p20_b2": "Group Chief Financial Officer's Review"
+    },
+    "selected_scale": 0.725,
+    "lane": "caption_label",
+    "group_bbox": [
+      73.7,
+      37.85,
+      178.2,
+      50.89
+    ],
+    "used_group_reflow": false
+  },
+  {
+    "group_id": "p20_b3",
+    "page_no": 20,
+    "block_ids": [
+      "p20_b3"
+    ],
+    "slot_count": 1,
+    "layout_mode": "single_line",
+    "fit_status": "font_shrink",
+    "font_ratio": 0.514,
+    "rendered_lines": [
+      "New Business Performance"
+    ],
+    "rendered_by_block": {
+      "p20_b3": "New Business Performance"
+    },
+    "selected_scale": 0.514,
+    "lane": "caption_label",
+    "group_bbox": [
+      73.7,
+      91.03,
+      145.1,
+      109.29
+    ],
+    "used_group_reflow": false
+  },
+  {
+    "group_id": "p20_b4",
+    "page_no": 20,
+    "block_ids": [
+      "p20_b4"
+    ],
+    "slot_count": 1,
+    "layout_mode": "single_line",
+    "fit_status": "ok",
+    "font_ratio": 1.0,
+    "rendered_lines": [
+      "VONB, ANP and Margin by Segment"
+    ],
+    "rendered_by_block": {
+      "p20_b4": "VONB, ANP and Margin by Segment"
+    },
+    "selected_scale": 1.0,
+    "lane": "caption_label",
+    "group_bbox": [
+      73.7,
+      127.41,
+      288.7,
+      140.45
+    ],
+    "used_group_reflow": false
+  },
+  {
+    "group_id": "p20_b5",
+    "page_no": 20,
+    "block_ids": [
+      "p20_b5"
+    ],
+    "slot_count": 3,
+    "layout_mode": "textbox",
+    "fit_status": "ok",
+    "font_ratio": 1.0,
+    "rendered_lines": [
+      "2020 2019 VONB Change"
+    ],
+    "rendered_by_block": {
+      "p20_b5": "2020 2019 VONB Change"
+    },
+    "selected_scale": 1.0,
+    "lane": "table",
+    "group_bbox": [
+      227.46,
+      151.81,
+      503.2,
+      163.03
+    ],
+    "used_group_reflow": false
+  },
+  {
+    "group_id": "p20_b6",
+    "page_no": 20,
+    "block_ids": [
+      "p20_b6"
+    ],
+    "slot_count": 7,
+    "layout_mode": "textbox",
+    "fit_status": "ok",
+    "font_ratio": 1.0,
+    "rendered_lines": [
+      "VONB Margin ANP VONB"
+    ],
+    "rendered_by_block": {
+      "p20_b6": "VONB Margin ANP VONB"
+    },
+    "selected_scale": 1.0,
+    "lane": "table",
+    "group_bbox": [
+      229.2,
+      167.28,
+      334.87,
+      199.78
+    ],
+    "used_group_reflow": false
+  },
+  {
+    "group_id": "p20_b7",
+    "page_no": 20,
+    "block_ids": [
+      "p20_b7"
+    ],
+    "slot_count": 9,
+    "layout_mode": "textbox",
+    "fit_status": "ok",
+    "font_ratio": 1.0,
+    "rendered_lines": [
+      "VONB Margin ANP YoY CER YoY AER"
+    ],
+    "rendered_by_block": {
+      "p20_b7": "VONB Margin ANP YoY CER YoY AER"
+    },
+    "selected_scale": 1.0,
+    "lane": "table",
+    "group_bbox": [
+      348.26,
+      167.48,
+      525.84,
+      199.77
+    ],
+    "used_group_reflow": false
+  },
+  {
+    "group_id": "p20_b8",
+    "page_no": 20,
+    "block_ids": [
+      "p20_b8"
+    ],
+    "slot_count": 3,
+    "layout_mode": "textbox",
+    "fit_status": "ok",
+    "font_ratio": 1.0,
+    "rendered_lines": [
+      "US$ millions, unless otherwise stated VONB"
+    ],
+    "rendered_by_block": {
+      "p20_b8": "US$ millions, unless otherwise stated VONB"
+    },
+    "selected_scale": 1.0,
+    "lane": "table",
+    "group_bbox": [
+      79.37,
+      177.79,
+      215.81,
+      199.37
+    ],
+    "used_group_reflow": false
+  },
+  {
+    "group_id": "p20_b9",
+    "page_no": 20,
+    "block_ids": [
+      "p20_b9"
+    ],
+    "slot_count": 9,
+    "layout_mode": "textbox",
+    "fit_status": "ok",
+    "font_ratio": 1.0,
+    "rendered_lines": [
+      "Hong Kong 550 44.7% 1,138 1,621 66.1% 2,393 (66)% (66)%"
+    ],
+    "rendered_by_block": {
+      "p20_b9": "Hong Kong 550 44.7% 1,138 1,621 66.1% 2,393 (66)% (66)%"
+    },
+    "selected_scale": 1.0,
+    "lane": "table",
+    "group_bbox": [
+      79.38,
+      203.95,
+      521.6,
+      215.24
+    ],
+    "used_group_reflow": false
+  },
+  {
+    "group_id": "p20_b10",
+    "page_no": 20,
+    "block_ids": [
+      "p20_b10"
+    ],
+    "slot_count": 9,
+    "layout_mode": "textbox",
+    "fit_status": "ok",
+    "font_ratio": 1.0,
+    "rendered_lines": [
+      "Thailand 469 71.0% 661 494 67.7% 729 (4)% (5)%"
+    ],
+    "rendered_by_block": {
+      "p20_b10": "Thailand 469 71.0% 661 494 67.7% 729 (4)% (5)%"
+    },
+    "selected_scale": 1.0,
+    "lane": "table",
+    "group_bbox": [
+      79.4,
+      219.42,
+      521.62,
+      230.71
+    ],
+    "used_group_reflow": false
+  },
+  {
+    "group_id": "p20_b11",
+    "page_no": 20,
+    "block_ids": [
+      "p20_b11"
+    ],
+    "slot_count": 9,
+    "layout_mode": "textbox",
+    "fit_status": "ok",
+    "font_ratio": 1.0,
+    "rendered_lines": [
+      "Singapore 330 63.4% 520 352 65.5% 538 (5)% (6)%"
+    ],
+    "rendered_by_block": {
+      "p20_b11": "Singapore 330 63.4% 520 352 65.5% 538 (5)% (6)%"
+    },
+    "selected_scale": 1.0,
+    "lane": "table",
+    "group_bbox": [
+      79.42,
+      234.89,
+      521.64,
+      246.18
+    ],
+    "used_group_reflow": false
+  },
+  {
+    "group_id": "p20_b12",
+    "page_no": 20,
+    "block_ids": [
+      "p20_b12"
+    ],
+    "slot_count": 9,
+    "layout_mode": "textbox",
+    "fit_status": "ok",
+    "font_ratio": 1.0,
+    "rendered_lines": [
+      "Malaysia 222 59.9% 369 258 63.1% 406 (13)% (14)%"
+    ],
+    "rendered_by_block": {
+      "p20_b12": "Malaysia 222 59.9% 369 258 63.1% 406 (13)% (14)%"
+    },
+    "selected_scale": 1.0,
+    "lane": "table",
+    "group_bbox": [
+      79.43,
+      250.36,
+      521.66,
+      261.65
+    ],
+    "used_group_reflow": false
+  },
+  {
+    "group_id": "p20_b13",
+    "page_no": 20,
+    "block_ids": [
+      "p20_b13"
+    ],
+    "slot_count": 9,
+    "layout_mode": "textbox",
+    "fit_status": "ok",
+    "font_ratio": 1.0,
+    "rendered_lines": [
+      "Mainland China 968 80.9% 1,197 1,167 93.5% 1,248 (17)% (17)%"
+    ],
+    "rendered_by_block": {
+      "p20_b13": "Mainland China 968 80.9% 1,197 1,167 93.5% 1,248 (17)% (17)%"
+    },
+    "selected_scale": 1.0,
+    "lane": "table",
+    "group_bbox": [
+      79.45,
+      265.83,
+      521.67,
+      277.12
+    ],
+    "used_group_reflow": false
+  },
+  {
+    "group_id": "p20_b14",
+    "page_no": 20,
+    "block_ids": [
+      "p20_b14"
+    ],
+    "slot_count": 9,
+    "layout_mode": "textbox",
+    "fit_status": "ok",
+    "font_ratio": 1.0,
+    "rendered_lines": [
+      "Other Markets 514 38.4% 1,334 535 41.9% 1,271 (4)% (4)%"
+    ],
+    "rendered_by_block": {
+      "p20_b14": "Other Markets 514 38.4% 1,334 535 41.9% 1,271 (4)% (4)%"
+    },
+    "selected_scale": 1.0,
+    "lane": "table",
+    "group_bbox": [
+      79.47,
+      281.3,
+      521.69,
+      292.59
+    ],
+    "used_group_reflow": false
+  },
+  {
+    "group_id": "p20_b15",
+    "page_no": 20,
+    "block_ids": [
+      "p20_b15"
+    ],
+    "slot_count": 9,
+    "layout_mode": "textbox",
+    "fit_status": "ok",
+    "font_ratio": 1.0,
+    "rendered_lines": [
+      "Subtotal 3,053 57.7% 5,219 4,427 66.6% 6,585 (31)% (31)%"
+    ],
+    "rendered_by_block": {
+      "p20_b15": "Subtotal 3,053 57.7% 5,219 4,427 66.6% 6,585 (31)% (31)%"
+    },
+    "selected_scale": 1.0,
+    "lane": "table",
+    "group_bbox": [
+      79.49,
+      296.56,
+      521.71,
+      307.86
+    ],
+    "used_group_reflow": false
+  },
+  {
+    "group_id": "p20_b16",
+    "page_no": 20,
+    "block_ids": [
+      "p20_b16"
+    ],
+    "slot_count": 10,
+    "layout_mode": "textbox",
+    "fit_status": "ok",
+    "font_ratio": 1.0,
+    "rendered_lines": [
+      "Adjustments for compliance with consolidation reserves and capital requirements (103) n/m n/m (87) n/m n/m n/m n/m"
+    ],
+    "rendered_by_block": {
+      "p20_b16": "Adjustments for compliance with consolidation reserves and capital requirements (103) n/m n/m (87) n/m n/m n/m n/m"
+    },
+    "selected_scale": 1.0,
+    "lane": "table",
+    "group_bbox": [
+      79.5,
+      312.24,
+      521.71,
+      334.02
+    ],
+    "used_group_reflow": false
+  },
+  {
+    "group_id": "p20_b17",
+    "page_no": 20,
+    "block_ids": [
+      "p20_b17"
+    ],
+    "slot_count": 10,
+    "layout_mode": "textbox",
+    "fit_status": "ok",
+    "font_ratio": 1.0,
+    "rendered_lines": [
+      "After-tax value of unallocated Group head office expenses (161) n/m n/m (154) n/m n/m n/m n/m"
+    ],
+    "rendered_by_block": {
+      "p20_b17": "After-tax value of unallocated Group head office expenses (161) n/m n/m (154) n/m n/m n/m n/m"
+    },
+    "selected_scale": 1.0,
+    "lane": "table",
+    "group_bbox": [
+      79.51,
+      338.21,
+      521.72,
+      359.99
+    ],
+    "used_group_reflow": false
+  },
+  {
+    "group_id": "p20_b18",
+    "page_no": 20,
+    "block_ids": [
+      "p20_b18"
+    ],
+    "slot_count": 9,
+    "layout_mode": "textbox",
+    "fit_status": "ok",
+    "font_ratio": 1.0,
+    "rendered_lines": [
+      "Total before non-controlling interests 2,789 52.6% 5,219 4,186 62.9% 6,585 (33)% (33)%"
+    ],
+    "rendered_by_block": {
+      "p20_b18": "Total before non-controlling interests 2,789 52.6% 5,219 4,186 62.9% 6,585 (33)% (33)%"
+    },
+    "selected_scale": 1.0,
+    "lane": "table",
+    "group_bbox": [
+      79.52,
+      363.96,
+      521.74,
+      375.27
+    ],
+    "used_group_reflow": false
+  },
+  {
+    "group_id": "p20_b19",
+    "page_no": 20,
+    "block_ids": [
+      "p20_b19"
+    ],
+    "slot_count": 9,
+    "layout_mode": "textbox",
+    "fit_status": "ok",
+    "font_ratio": 1.0,
+    "rendered_lines": [
+      "Non-controlling interests (24) n/m n/m (32) n/m n/m n/m n/m"
+    ],
+    "rendered_by_block": {
+      "p20_b19": "Non-controlling interests (24) n/m n/m (32) n/m n/m n/m n/m"
+    },
+    "selected_scale": 1.0,
+    "lane": "table",
+    "group_bbox": [
+      79.54,
+      379.43,
+      521.76,
+      390.93
+    ],
+    "used_group_reflow": false
+  },
+  {
+    "group_id": "p20_b20",
+    "page_no": 20,
+    "block_ids": [
+      "p20_b20"
+    ],
+    "slot_count": 9,
+    "layout_mode": "textbox",
+    "fit_status": "ok",
+    "font_ratio": 1.0,
+    "rendered_lines": [
+      "Total 2,765 52.6% 5,219 4,154 62.9% 6,585 (33)% (33)%"
+    ],
+    "rendered_by_block": {
+      "p20_b20": "Total 2,765 52.6% 5,219 4,154 62.9% 6,585 (33)% (33)%"
+    },
+    "selected_scale": 1.0,
+    "lane": "table",
+    "group_bbox": [
+      79.55,
+      394.9,
+      521.77,
+      406.21
+    ],
+    "used_group_reflow": false
+  },
+  {
+    "group_id": "p20_g01",
+    "page_no": 20,
+    "block_ids": [
+      "p20_b21",
+      "p20_b22",
+      "p20_b23",
+      "p20_b24",
+      "p20_b25"
+    ],
+    "slot_count": 5,
+    "layout_mode": "group_slots",
+    "fit_status": "ok",
+    "font_ratio": 0.934,
+    "rendered_lines": [
+      "Although VONB of US$2,765 million in 2020 decreased 33% from 2019, swift adoption of digital tools and widespread relaxation of",
+      "travel restrictions supported sales momentum recovery. AIA China contributed most to Group VONB in 2020 and was the first segment",
+      "demonstrating recovery, as the region progressively relaxed lockdowns from March 2020. Excluding subdued mainland Chinese visitor",
+      "sales to Hong Kong, other segments' VONB rebounded strongly in H2, growing 23% versus H1. Group new business momentum",
+      "remained robust in 2021, with VONB in the first two months up 15% versus the same period in 2020."
+    ],
+    "rendered_by_block": {
+      "p20_b21": "Although VONB of US$2,765 million in 2020 decreased 33% from 2019, swift adoption of digital tools and widespread relaxation of",
+      "p20_b22": "travel restrictions supported sales momentum recovery. AIA China contributed most to Group VONB in 2020 and was the first segment",
+      "p20_b23": "demonstrating recovery, as the region progressively relaxed lockdowns from March 2020. Excluding subdued mainland Chinese visitor",
+      "p20_b24": "sales to Hong Kong, other segments' VONB rebounded strongly in H2, growing 23% versus H1. Group new business momentum",
+      "p20_b25": "remained robust in 2021, with VONB in the first two months up 15% versus the same period in 2020."
+    },
+    "selected_scale": 1.02,
+    "lane": "body",
+    "group_bbox": [
+      73.7,
+      432.05,
+      527.25,
+      508.01
+    ],
+    "used_group_reflow": true
+  },
+  {
+    "group_id": "p20_g02",
+    "page_no": 20,
+    "block_ids": [
+      "p20_b26",
+      "p20_b27",
+      "p20_b28",
+      "p20_b29"
+    ],
+    "slot_count": 4,
+    "layout_mode": "group_slots",
+    "fit_status": "ok",
+    "font_ratio": 1.0,
+    "rendered_lines": [
+      "AIA China achieved strong momentum in 2021, with VONB in the first two months recording very robust growth versus 2020. VONB of",
+      "US$968 million in 2020 decreased 17% from 2019, primarily due to limited sales during the early COVID-19 outbreak in Q1. As travel",
+      "restrictions eased, new business momentum improved rapidly. VONB resumed customary seasonal patterns with greater concentration",
+      "in H1. In 2020, AIA China contributed the largest share to Group VONB."
+    ],
+    "rendered_by_block": {
+      "p20_b26": "AIA China achieved strong momentum in 2021, with VONB in the first two months recording very robust growth versus 2020. VONB of",
+      "p20_b27": "US$968 million in 2020 decreased 17% from 2019, primarily due to limited sales during the early COVID-19 outbreak in Q1. As travel",
+      "p20_b28": "restrictions eased, new business momentum improved rapidly. VONB resumed customary seasonal patterns with greater concentration",
+      "p20_b29": "in H1. In 2020, AIA China contributed the largest share to Group VONB."
+    },
+    "selected_scale": 1.02,
+    "lane": "body",
+    "group_bbox": [
+      73.7,
+      528.06,
+      527.24,
+      588.02
+    ],
+    "used_group_reflow": true
+  },
+  {
+    "group_id": "p20_g03",
+    "page_no": 20,
+    "block_ids": [
+      "p20_b30",
+      "p20_b31",
+      "p20_b32",
+      "p20_b33"
+    ],
+    "slot_count": 4,
+    "layout_mode": "group_slots",
+    "fit_status": "font_shrink",
+    "font_ratio": 0.584,
+    "rendered_lines": [
+      "Following travel restrictions, new business sales from Mainland Chinese visitors to AIA Hong Kong were effectively suspended from",
+      "early February 2020, causing significant VONB decline. VONB margin decreased due to reduced new business volume, underwriting",
+      "expense overruns, product mix changes, and lower interest rates. Macau resumed the Individual Visit Scheme for Mainland Chinese",
+      "visitors in late September 2020, supporting new business sales recovery from Mainland visitors, which exceeded one-third of AIA Macau's annualized new premiums in Q4."
+    ],
+    "rendered_by_block": {
+      "p20_b30": "Following travel restrictions, new business sales from Mainland Chinese visitors to AIA Hong Kong were effectively suspended from",
+      "p20_b31": "early February 2020, causing significant VONB decline. VONB margin decreased due to reduced new business volume, underwriting",
+      "p20_b32": "expense overruns, product mix changes, and lower interest rates. Macau resumed the Individual Visit Scheme for Mainland Chinese",
+      "p20_b33": "visitors in late September 2020, supporting new business sales recovery from Mainland visitors, which exceeded one-third of AIA Macau's annualized new premiums in Q4."
+    },
+    "selected_scale": 1.02,
+    "lane": "body",
+    "group_bbox": [
+      73.7,
+      608.07,
+      527.25,
+      668.03
+    ],
+    "used_group_reflow": true
+  },
+  {
+    "group_id": "p20_b34",
+    "page_no": 20,
+    "block_ids": [
+      "p20_b34"
+    ],
+    "slot_count": 2,
+    "layout_mode": "textbox",
+    "fit_status": "ok",
+    "font_ratio": 1.0,
+    "rendered_lines": [
+      "018 AIA Group Limited"
+    ],
+    "rendered_by_block": {
+      "p20_b34": "018 AIA Group Limited"
+    },
+    "selected_scale": 1.0,
+    "lane": "caption_label",
+    "group_bbox": [
+      34.02,
+      811.43,
+      141.63,
+      821.38
+    ],
+    "used_group_reflow": false
+  }
+]

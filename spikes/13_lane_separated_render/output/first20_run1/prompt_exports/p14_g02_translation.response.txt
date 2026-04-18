@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p14_g02",
+      "translation": "In 2020, we successfully obtained regulatory approval to restructure our Shanghai branch into Mainland China's first wholly foreign-owned life insurance subsidiary. In March 2021, we received approval from the China Banking and Insurance Regulatory Commission to commence operations in Sichuan Province. As the sixth largest province in Mainland China by GDP and the fourth largest by population, Sichuan Province presents significant long-term growth opportunities for AIA."
+    }
+  ]
+}
+```

@@ -1,0 +1,17 @@
+文档场景：上市保险公司企业年报。
+{
+  "current_unit": {
+    "unit_id": "p7_b7",
+    "lane": "caption_label",
+    "source_text": "100名就讀於香港多間大學的本科生。",
+    "current_translation": "100 undergraduate students studying at various universities in Hong Kong."
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p7_b7",
+        "translation": "<更紧凑译文>"
+      }
+    ]
+  }
+}

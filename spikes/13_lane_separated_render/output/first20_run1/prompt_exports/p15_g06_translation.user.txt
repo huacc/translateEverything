@@ -1,0 +1,57 @@
+文档场景：上市保险公司企业年报。
+先满足 fact_locks，再保证术语稳定、语义完整和年报文风。
+{
+  "task": {
+    "scenario": "listed_company_annual_report",
+    "industry": "Life Insurance",
+    "report_type": "annual_report",
+    "company_name_target": "AIA GROUP LIMITED",
+    "direction": "Traditional Chinese -> English"
+  },
+  "page_context": {
+    "page_no": 15,
+    "page_sections": [
+      {
+        "source_section": "集團首席執行官兼總裁報告",
+        "target_section": "Group Chief Executive and President's Report",
+        "content_type": "ceo_report",
+        "page_range": [
+          12,
+          16
+        ]
+      }
+    ],
+    "term_usage_mode": "overview_narrative",
+    "neighbor_context": {
+      "previous_group_source_excerpt": "環境、社會及管治",
+      "next_group_source_excerpt": "友邦保險參與氣候相關財務披露工作小組(Task Force on Climate-related Financial Disclosures)，這個全球組\n織致力就氣候變化影響建立一個自願和一致的披露框架。我們繼續重申對有關建議的承諾..."
+    }
+  },
+  "mapping_hits": [
+    {
+      "source": "友邦保險",
+      "target": "AIA",
+      "hit_type": "glossary_term"
+    }
+  ],
+  "fact_locks": [],
+  "current_group": {
+    "group_id": "p15_g06",
+    "lane": "body",
+    "group_text": "過去一個多世紀以來，友邦保險為亞洲客戶的生活帶來正面和持久的影響。我們的社區存在不少環境、社會及管\n治議題，包括氣候變化、環境污染及生活模式相關疾病。隨著疫情大流行持續，突顯了這些問題的複雜性。作為\n客戶和社區的終身夥伴，我們竭盡所能，推動社會邁向更美好、更可持續的未來。",
+    "source_block_ids": [
+      "p15_b19",
+      "p15_b20",
+      "p15_b21"
+    ],
+    "source_block_count": 3
+  },
+  "output_format": {
+    "translations": [
+      {
+        "unit_id": "p15_g06",
+        "translation": "<译文>"
+      }
+    ]
+  }
+}

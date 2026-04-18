@@ -1,0 +1,10 @@
+```json
+{
+  "translations": [
+    {
+      "unit_id": "p6_b14",
+      "translation": "enabling public health understanding and management, and"
+    }
+  ]
+}
+```

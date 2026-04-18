@@ -1,0 +1,19 @@
+任务
+- unit_id：p2_b26
+- 输入单元：短标签 / 小标题
+
+原文
+以滿足個人客戶在長期儲蓄及保障方面
+
+当前译文
+to meet individual customers' long-term savings and protection needs
+
+输出格式
+{
+  "translations": [
+    {
+      "unit_id": "p2_b26",
+      "translation": "<更紧凑译文>"
+    }
+  ]
+}

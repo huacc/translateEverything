@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "stage": "compact",
+    "page_no": 20,
+    "group_id": "p20_g01"
+  },
+  "request": {
+    "model": "claude-opus-4-6",
+    "max_tokens": 4096,
+    "system": "你是年报英文压缩器，不是重译器。\n语言方向：Traditional Chinese -> English。\n你的任务只是对已有译文做最小必要压缩，以便回填原版面。\n禁止改变数字、单位、术语、专名、比较关系、主体和结论。\n标题不能改成正文，表头不能改成句子，不能输出口语化表达。\n输出必须是 JSON，且只能输出 JSON。",
+    "messages": [
+      {
+        "role": "user",
+        "content": "文档场景：上市公司企业年报\n{\n  \"document_background\": {\n    \"page_sections\": [\n      {\n        \"source_section\": \"新業務表現\",\n        \"target_section\": \"New Business Performance\",\n        \"content_type\": \"business_metrics\",\n        \"page_range\": [\n          20,\n          21\n        ]\n      },\n      {\n        \"source_section\": \"集團首席財務總監回顧\",\n        \"target_section\": \"Group Chief Financial Officer's Review\",\n        \"content_type\": \"cfo_review\",\n        \"page_range\": [\n          18,\n          30\n        ]\n      }\n    ],\n    \"roles\": [],\n    \"terms\": [],\n    \"style_rules\": [\n      \"Use US$ for U.S. dollar amounts.\",\n      \"Keep listed-company annual report disclosure tone formal and publishable.\",\n      \"Do not change numbers, percentages, years, named entities or financial metric values.\",\n      \"Use established financial abbreviations for table labels when provided.\",\n      \"Keep row and column semantics unchanged.\",\n      \"Use n/m for 無意義.\"\n    ]\n  },\n  \"current_unit\": {\n    \"page_no\": 20,\n    \"unit_id\": \"p20_g01\",\n    \"unit_mode\": \"semantic_group\",\n    \"slot_count\": 5,\n    \"source_text\": \"儘管2020年的新業務價值27.65億美元較2019年減少了33%，我們迅速採用了新的數碼工具，並且外出限制的普\\n遍放寬支持了銷售勢頭的恢復。友邦保險中國業務為2020年本集團的新業務價值帶來最大貢獻，也是我們第一個\\n顯示銷售勢頭有所恢復的報告分部，原因在於該地區自2020年3月逐步放寬嚴格的封鎖。撇除維持低位的中國內\\n地訪港旅客銷售額，本集團其他分部的新業務價值在下半年強勁復甦，與上半年相比增長了23%。本集團的新業\\n務發展勢頭在2021年持續強勁，首兩個月新業務價值較2020年同期高出15%。\",\n    \"current_translation\": \"Although VONB of US$2,765 million in 2020 was 33% lower than in 2019, we rapidly adopted new digital tools and sales momentum was supported by the widespread easing of movement restrictions. AIA China was the largest contributor to the Group's VONB in 2020 and was our first reporting segment to show a recovery in sales momentum as the region progressively eased strict lockdowns from March 2020. Excluding Mainland Chinese visitor sales in Hong Kong, which remained low, VONB in the rest of the Group recovered strongly in the second half of the year, up 23% compared with the first half. The Group's new business momentum has continued to be strong in 2021, with VONB in the first two months 15% higher than in the same period in 2020.\"\n  },\n  \"output_format\": {\n    \"translations\": [\n      {\n        \"unit_id\": \"p20_g01\",\n        \"translation\": \"<更紧凑译文>\"\n      }\n    ]\n  }\n}"
+      }
+    ],
+    "thinking": {
+      "type": "adaptive"
+    },
+    "output_config": {
+      "effort": "max"
+    }
+  },
+  "response": {
+    "content": [
+      {
+        "text": "```json\n{\n  \"translations\": [\n    {\n      \"unit_id\": \"p20_g01\",\n      \"translation\": \"Although VONB of US$2,765 million in 2020 was 33% lower than in 2019, we rapidly adopted new digital tools and sales momentum was supported by widespread easing of movement restrictions. AIA China was the largest contributor to Group VONB in 2020 and our first reporting segment to show recovery in sales momentum as the region progressively eased strict lockdowns from March 2020. Excluding Mainland Chinese visitor sales in Hong Kong, which remained low, VONB in the rest of the Group recovered strongly in the second half, up 23% versus the first half. Group new business momentum has continued to be strong in 2021, with VONB in the first two months 15% higher than in the same period in 2020.\"\n    }\n  ]\n}\n```",
+        "type": "text"
+      }
+    ],
+    "conversationId": "91dbbe3d-adc9-4be5-8e40-6dd4d4cd58d9",
+    "conversation_id": "91dbbe3d-adc9-4be5-8e40-6dd4d4cd58d9",
+    "id": "91dbbe3d-adc9-4be5-8e40-6dd4d4cd58d9",
+    "model": "claude-opus-4-6",
+    "role": "assistant",
+    "stop_reason": "end_turn",
+    "type": "message",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 990,
+      "output_tokens": 185
+    }
+  }
+}
